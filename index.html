@@ -143,6 +143,13 @@
     <div class="dest" id="destaques"></div>
   </section>
 
+  <!-- ===== LEITURA DO DIA ===== -->
+  <section>
+    <h2 class="sec"><span class="ico">📝</span> Leitura do dia</h2>
+    <div class="lead" id="leituraSrc">Resumo automático do momento.</div>
+    <div id="leitura"></div>
+  </section>
+
   <!-- ===== INFORMAÇÕES IMPORTANTES ===== -->
   <section>
     <h2 class="sec"><span class="ico">🚨</span> Informações importantes <span class="badge" id="badgeImp">0</span></h2>
@@ -226,7 +233,7 @@
 /* ====================== DADOS ====================== */
 const P=window.PAINEL||{};
 const DATA_DT=P.dataDT||'—', DATA_HORA=P.dataHora||'';
-const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos:4};
+const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos:4,fimAval:1020};
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
 const VEND=P.vend||[];
 const CHECKINS=P.checkins||[];
@@ -271,6 +278,8 @@ VEND.forEach(v=>{
 /* ====================== MOTOR DE ALERTAS (por vendedor) ====================== */
 function buildIssues(v){
   const inicio=[],fim=[],agenda=[];
+  let nowMin=toMin(DATA_HORA); if(nowMin==null)nowMin=1439;
+  const fimDia = nowMin>=META.fimAval; // só cobra metas de visita/pedido/encerramento perto do fim do expediente
   // agenda: eventos avisados que afetam o dia
   v.eventos.forEach(e=>{ const lab=agendaLabel(e); if(lab){ const per=(e.inicio?e.inicio+'–'+(e.final||''):''); const det=(e.obs&&e.obs!=='.'?e.obs+' ':'')+(per?'('+per+', '+hStr(durMin(e.tempo))+')':''); agenda.push({sev:0,cat:lab,txt:det.trim()||'o dia'}); } });
   // qual a 1ª atividade do dia
@@ -283,23 +292,25 @@ function buildIssues(v){
     const oQue = fa?(' (primeira marcação: '+fa.ev.obs+')'):'';
     inicio.push({sev:late>60?2:1,cat:'Atraso',txt:`Começou às ${mmToStr(v.firstAct)}, ${late} min depois do horário de início${oQue}.`});
   }
-  // FIM: encerramento cedo / tarde
+  // FIM: encerramento (só avalia perto do fim do expediente; "tarde demais" pode a qualquer hora)
   if(v.lastAct!=null){
-    if(v.lastAct<META.fim && !v.hasLateEvt && !v.fullDayEvt){
+    if(fimDia && v.lastAct<META.fim && !v.hasLateEvt && !v.fullDayEvt){
       const early=META.fim-v.lastAct;
       if(early>=45) fim.push({sev:early>=120?2:1,cat:'Encerramento',txt:`Última atividade às ${mmToStr(v.lastAct)}, encerrou ${hStr(early)} antes do fim do expediente.`});
     }
     if(v.lastAct>META.fimTarde) fim.push({sev:1,cat:'Encerramento',txt:`Última atividade às ${mmToStr(v.lastAct)}, bem depois do fim previsto — verificar o motivo.`});
   }
-  // FIM: visitas abaixo da meta
-  if(v.visitas===0){
-    if(!v.fullDayEvt) fim.push({sev:2,cat:'Visitas',txt:`Não registrou nenhuma visita e não há evento que justifique.`});
-  } else if(v.visitas<META.visitas){
-    const just=v.eventos.some(e=>/reuniao|viagem|manuten/i.test(e.tipo))||v.eventos.some(e=>/prospec|exame|consulta|medic|acompanh/i.test(e.obs+e.tipo));
-    fim.push({sev:just?1:2,cat:'Visitas',txt:`Fez ${v.visitas} visitas — abaixo da meta de ${META.visitas}.`+(just?'':' Sem evento que explique o déficit.')});
+  // FIM: visitas abaixo da meta (só cobra no fim do dia — durante o expediente está em andamento)
+  if(fimDia){
+    if(v.visitas===0){
+      if(!v.fullDayEvt) fim.push({sev:2,cat:'Visitas',txt:`Não registrou nenhuma visita e não há evento que justifique.`});
+    } else if(v.visitas<META.visitas){
+      const just=v.eventos.some(e=>/reuniao|viagem|manuten/i.test(e.tipo))||v.eventos.some(e=>/prospec|exame|consulta|medic|acompanh/i.test(e.obs+e.tipo));
+      fim.push({sev:just?1:2,cat:'Visitas',txt:`Fez ${v.visitas} visitas — abaixo da meta de ${META.visitas}.`+(just?'':' Sem evento que explique o déficit.')});
+    }
   }
-  // FIM: pedidos abaixo da meta
-  if(v.visitas>0){
+  // FIM: pedidos abaixo da meta (idem)
+  if(fimDia && v.visitas>0){
     if(v.orders===0) fim.push({sev:2,cat:'Pedidos',txt:`Não enviou nenhum pedido em ${v.visitas} visitas — todas sem pedido.`});
     else if(v.orders<META.pedidos) fim.push({sev:1,cat:'Pedidos',txt:`Enviou ${v.orders} ${v.orders===1?'pedido':'pedidos'} — abaixo da meta de ${META.pedidos}.${v.perc>0?' '+Math.round(v.perc)+'% das visitas não geraram pedido.':''}`});
   }
@@ -313,7 +324,8 @@ function buildSuspeitos(v){
   const out=[];
   v.checkins.forEach(c=>{ const sp=v.semL.find(s=>s.razao===c.razao); if(!sp)return; const d=durMin(c.dur),legit=/merchandis|levant|cota|estoc|prospec/i.test(sp.obs);
     if(d>=90&&!legit){ const m=(sp.obs&&sp.obs!=='.')?' ('+sp.obs+')':''; out.push({sev:d>=150?2:1,cat:'Tempo no cliente',txt:`Ficou ${c.dur.slice(0,5)} em "${c.razao}" e não tirou pedido${m}.`}); } });
-  if(v.visitas>=4&&v.orders===0) out.push({sev:2,cat:'Dia sem pedido',txt:`${v.visitas} visitas e nenhum pedido no dia inteiro.`});
+  let nowMin=toMin(DATA_HORA); if(nowMin==null)nowMin=1439;
+  if(nowMin>=META.fimAval && v.visitas>=4&&v.orders===0) out.push({sev:2,cat:'Dia sem pedido',txt:`${v.visitas} visitas e nenhum pedido no dia inteiro.`});
   v.checkins.forEach(c=>{ if(c.km>=18&&durMin(c.dur)<=18) out.push({sev:1,cat:'Deslocamento',txt:`Rodou ${c.km} km para uma visita de só ${c.dur.slice(0,5)} em "${c.razao}".`}); });
   const g={}; v.checkins.forEach(c=>{ const k=firstWord(c.razao); (g[k]=g[k]||[]).push(c); });
   Object.values(g).forEach(arr=>{ if(arr.length>=2) out.push({sev:1,cat:'Visita repetida',txt:`Visitou ${arr.length}x o mesmo grupo "${arr[0].razao}" no mesmo dia.`}); });
@@ -605,13 +617,39 @@ function toggleTheme(){ const h=document.documentElement,dark=h.getAttribute('da
   h.setAttribute('data-theme',dark?'light':'dark');
   document.getElementById('themeBtn').textContent=dark?'🌙 Escuro':'☀️ Claro';
   try{localStorage.setItem('pv-theme',dark?'light':'dark');}catch(e){} }
+function renderLeitura(){
+  const ov=VEND, n=ov.length;
+  const tVis=ov.reduce((a,v)=>a+v.visitas,0), tPed=ov.reduce((a,v)=>a+v.orders,0), tKm=ov.reduce((a,v)=>a+v.km,0);
+  const cobrar=ov.filter(v=>v.cardSev>=2), atencao=ov.filter(v=>v.cardSev===1);
+  const semPedTot=ov.filter(v=>v.visitas>0&&v.orders===0);
+  const atrasos=ov.filter(v=>v.lateStart), cedo=ov.filter(v=>v.earlyEnd), kmAlto=ov.filter(v=>v.km>150);
+  const best=[...ov].filter(v=>v.visitas>0).sort((a,b)=>b.perfScore-a.perfScore)[0];
+  // se um agente publicou uma análise mais rica (analise.js -> window.ANALISE), mostra ela
+  if(window.ANALISE && window.ANALISE.texto){
+    const al=(window.ANALISE.alertas||[]).map(a=>`<li>${a}</li>`).join('');
+    document.getElementById('leitura').innerHTML=`<div class="card"><div style="line-height:1.6">${window.ANALISE.texto}</div>${al?`<ul class="small" style="line-height:1.8;margin:8px 0 0;padding-left:18px">${al}</ul>`:''}</div>`;
+    document.getElementById('leituraSrc').textContent='Análise gerada pelo agente'+(window.ANALISE.dataHora?(' às '+window.ANALISE.dataHora):'')+'.';
+    return;
+  }
+  let p=`<p style="margin:0">Equipe de <b>${n} vendedores</b> — até <b>${DATA_HORA}</b>: <b>${tVis} visitas</b>, <b>${tPed} pedidos</b> e <b>${tKm.toFixed(0)} km</b> rodados.`;
+  if(best) p+=` Melhor até agora: <b>${best.nome}</b> (${best.visitas} visitas, ${best.orders} pedidos).`;
+  p+=` ${cobrar.length} para cobrar e ${atencao.length} em atenção.</p>`;
+  const b=[];
+  if(cobrar.length) b.push(`🔴 <b>Cobrar agora:</b> ${cobrar.map(v=>v.nome).join(', ')}.`);
+  if(semPedTot.length) b.push(`🧾 <b>Visitaram e não tiraram nenhum pedido:</b> ${semPedTot.map(v=>v.nome).join(', ')}.`);
+  if(atrasos.length) b.push(`⏰ <b>Começaram após o horário:</b> ${atrasos.map(v=>v.nome).join(', ')}.`);
+  if(cedo.length) b.push(`🚪 <b>Encerraram cedo:</b> ${cedo.map(v=>v.nome).join(', ')}.`);
+  if(kmAlto.length) b.push(`🚗 <b>Acima de 150 km:</b> ${kmAlto.map(v=>v.nome+' ('+v.km.toFixed(0)+' km)').join(', ')}.`);
+  if(!b.length) b.push('✅ Sem pontos críticos no momento — equipe dentro da rotina.');
+  document.getElementById('leitura').innerHTML=`<div class="card">${p}<ul class="small" style="line-height:1.9;margin:8px 0 0;padding-left:18px">${b.map(x=>'<li>'+x+'</li>').join('')}</ul></div>`;
+}
 (function init(){
   try{ const t=localStorage.getItem('pv-theme'); if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');document.getElementById('themeBtn').textContent='☀️ Claro';} }catch(e){}
   document.getElementById('hupd').textContent=DATA_DT+' às '+DATA_HORA;
   document.getElementById('foot').innerHTML=`M. Ferretti — Painel de gestão da equipe de vendas.<br>Dados de campo atualizados em <b>${DATA_DT} às ${DATA_HORA}</b>.`;
   const regs=[...new Set(VEND.map(v=>v.regional))];
   document.getElementById('fReg').innerHTML='<option value="">Todas</option>'+regs.map(r=>`<option>${r}</option>`).join('');
-  renderDestaques(); renderImportant(); renderSuspeitos(); renderResumo(); renderDia(); renderCharts(); renderEvt();
+  renderDestaques(); renderLeitura(); renderImportant(); renderSuspeitos(); renderResumo(); renderDia(); renderCharts(); renderEvt();
 })();
 </script>
 </body>
