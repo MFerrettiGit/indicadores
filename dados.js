@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/06/2026",
-    "dataHora":  "15:25",
+    "dataHora":  "15:29",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -758,7 +758,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:59"
+                        "tempo":  "00:43:29"
                     },
                     {
                         "nome":  "Cominato",
@@ -766,7 +766,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido rede Qualimais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:33"
+                        "tempo":  "00:37:03"
                     }
                 ],
     "semped":  [
@@ -1103,7 +1103,7 @@ window.PAINEL = {
                                                ]
                                      },
                       "2026-06-02":  {
-                                         "dataHora":  "15:25",
+                                         "dataHora":  "15:29",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
