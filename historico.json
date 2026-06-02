@@ -140,7 +140,7 @@
                              ]
                    },
     "2026-06-02":  {
-                       "dataHora":  "17:32",
+                       "dataHora":  "18:02",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -157,17 +157,26 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  22.77,
+                                     "km":  33.66,
                                      "tv":  320
                                  },
                                  {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  50.6,
-                                     "tv":  408
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  95.95,
+                                     "tv":  435
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  74.1,
+                                     "tv":  331
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -175,17 +184,8 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  6,
+                                     "km":  7.99,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  61.34,
-                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Luis",
@@ -193,7 +193,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  88.54,
+                                     "km":  89.52,
                                      "tv":  271
                                  },
                                  {
@@ -202,7 +202,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  1,
-                                     "km":  6.11,
+                                     "km":  7.13,
                                      "tv":  356
                                  },
                                  {
@@ -211,8 +211,17 @@
                                      "regional":  "SUL",
                                      "vi":  6,
                                      "pe":  1,
-                                     "km":  106.24,
+                                     "km":  127,
                                      "tv":  192
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  73.1,
+                                     "tv":  393
                                  },
                                  {
                                      "nome":  "Castro",
@@ -233,13 +242,13 @@
                                      "tv":  350
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  4,
-                                     "km":  71.32,
-                                     "tv":  337
+                                     "pe":  2,
+                                     "km":  23.8,
+                                     "tv":  298
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -260,22 +269,13 @@
                                      "tv":  311
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  19.21,
-                                     "tv":  242
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
+                                     "vi":  4,
+                                     "pe":  4,
                                      "km":  9.14,
-                                     "tv":  261
+                                     "tv":  369
                                  }
                              ]
                    }

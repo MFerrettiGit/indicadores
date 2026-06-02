@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/06/2026",
-    "dataHora":  "17:32",
+    "dataHora":  "18:02",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -20,7 +20,7 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  22.77,
+                     "km":  33.66,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:17",
@@ -31,20 +31,32 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  50.6,
+                     "visitas":  5,
+                     "km":  95.95,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:26",
-                     "ultimo":  "17:05",
-                     "tv":  "06:48:00"
+                     "ultimo":  "17:44",
+                     "tv":  "07:15:00"
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  74.1,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:51",
+                     "ultimo":  "17:32",
+                     "tv":  "05:31:00"
                  },
                  {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  6,
+                     "km":  7.99,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:50",
@@ -52,23 +64,11 @@ window.PAINEL = {
                      "tv":  "03:57:00"
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  61.34,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:51",
-                     "ultimo":  "16:24",
-                     "tv":  "04:40:00"
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  88.54,
+                     "km":  89.52,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:52",
@@ -80,7 +80,7 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  2,
-                     "km":  6.11,
+                     "km":  7.13,
                      "semPed":  1,
                      "perc":  50,
                      "primeiro":  "08:09",
@@ -92,12 +92,24 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  6,
-                     "km":  106.24,
+                     "km":  127,
                      "semPed":  5,
                      "perc":  83.33,
                      "primeiro":  "08:01",
                      "ultimo":  "14:17",
                      "tv":  "03:12:00"
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  73.1,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:01",
+                     "ultimo":  "17:48",
+                     "tv":  "06:33:00"
                  },
                  {
                      "nome":  "Castro",
@@ -124,16 +136,16 @@ window.PAINEL = {
                      "tv":  "05:50:00"
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  71.32,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:01",
-                     "ultimo":  "16:45",
-                     "tv":  "05:37:00"
+                     "km":  23.8,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:23",
+                     "ultimo":  "17:53",
+                     "tv":  "04:58:00"
                  },
                  {
                      "nome":  "Mariangela",
@@ -160,28 +172,16 @@ window.PAINEL = {
                      "tv":  "05:11:00"
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  19.21,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:23",
-                     "ultimo":  "16:43",
-                     "tv":  "04:02:00"
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  3,
+                     "visitas":  4,
                      "km":  9.14,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:35",
-                     "ultimo":  "13:32",
-                     "tv":  "04:21:00"
+                     "ultimo":  "17:32",
+                     "tv":  "06:09:00"
                  }
              ],
     "checkins":  [
@@ -231,6 +231,15 @@ window.PAINEL = {
                          "dur":  "01:04:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO UNIAO DE RIO CLARO LTDA.",
+                         "mun":  "RIO CLARO",
+                         "in":  "17:17:02",
+                         "out":  "17:44:33",
+                         "km":  4.54,
+                         "dur":  "00:27:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
@@ -265,6 +274,15 @@ window.PAINEL = {
                          "out":  "16:24:24",
                          "km":  10.02,
                          "dur":  "01:49:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO JDS LTDA-ME.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:40:07",
+                         "out":  "17:32:09",
+                         "km":  10.33,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Luis",
@@ -447,6 +465,15 @@ window.PAINEL = {
                          "dur":  "00:49:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO ARIEL LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:51:31",
+                         "out":  "17:48:08",
+                         "km":  1.78,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                          "mun":  "LOUVEIRA",
@@ -618,6 +645,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "54.841.749 JONAS GONCALVES VIEIRA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "15:43:57",
+                         "out":  "17:32:44",
+                         "km":  0,
+                         "dur":  "01:48:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
@@ -652,6 +688,15 @@ window.PAINEL = {
                          "out":  "16:43:01",
                          "km":  12.19,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "CATO ANTONIALE",
+                         "mun":  "INDAIATUBA",
+                         "in":  "16:56:11",
+                         "out":  "17:53:05",
+                         "km":  4.59,
+                         "dur":  "00:56:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -763,6 +808,14 @@ window.PAINEL = {
                         "tempo":  "00:59:07"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pavan",
+                        "inicio":  "16:37",
+                        "final":  "17:42",
+                        "tempo":  "01:05:26"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -801,6 +854,14 @@ window.PAINEL = {
                         "inicio":  "12:41",
                         "final":  "13:42",
                         "tempo":  "01:01:10"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "ponto novo",
+                        "inicio":  "16:22",
+                        "final":  "17:48",
+                        "tempo":  "01:26:20"
                     },
                     {
                         "nome":  "Luis",
@@ -875,6 +936,14 @@ window.PAINEL = {
                         "tempo":  "00:28:25"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido rede Qualimais",
+                        "inicio":  "14:52",
+                        "final":  "17:52",
+                        "tempo":  "02:59:54"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -923,42 +992,24 @@ window.PAINEL = {
                         "tempo":  "01:10:59"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Digitar pedido rede Qualimais",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:39:39"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "ponto novo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:09:44"
-                    },
-                    {
                         "nome":  "Castro",
                         "tipo":  "Digitacao Pedido",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:56"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "pavan",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:45"
+                        "tempo":  "01:31:27"
                     }
                 ],
     "semped":  [
                    {
                        "nome":  "Alan",
                        "razao":  "ARIEL SUPERMERCADO LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "merchandising e levantamento de pedido"
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "SUPERMERCADO ARIEL LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de pedido"
                    },
@@ -997,6 +1048,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                        "mun":  "INDAIATUBA",
                        "obs":  "em cadastramento"
+                   },
+                   {
+                       "nome":  "Lucas",
+                       "razao":  "CATO ANTONIALE",
+                       "mun":  "INDAIATUBA",
+                       "obs":  "análise de loja"
                    },
                    {
                        "nome":  "Nelson",
@@ -1173,8 +1230,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/06",
-                     106,
-                     18
+                     111,
+                     20
                  ]
              ],
     "historico":  {
@@ -1319,7 +1376,7 @@ window.PAINEL = {
                                                ]
                                      },
                       "2026-06-02":  {
-                                         "dataHora":  "17:32",
+                                         "dataHora":  "18:02",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1336,17 +1393,26 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  22.77,
+                                                       "km":  33.66,
                                                        "tv":  320
                                                    },
                                                    {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  50.6,
-                                                       "tv":  408
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  95.95,
+                                                       "tv":  435
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  74.1,
+                                                       "tv":  331
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -1354,17 +1420,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  6,
+                                                       "km":  7.99,
                                                        "tv":  237
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  61.34,
-                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -1372,7 +1429,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  88.54,
+                                                       "km":  89.52,
                                                        "tv":  271
                                                    },
                                                    {
@@ -1381,7 +1438,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  1,
-                                                       "km":  6.11,
+                                                       "km":  7.13,
                                                        "tv":  356
                                                    },
                                                    {
@@ -1390,8 +1447,17 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  1,
-                                                       "km":  106.24,
+                                                       "km":  127,
                                                        "tv":  192
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  73.1,
+                                                       "tv":  393
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -1412,13 +1478,13 @@ window.PAINEL = {
                                                        "tv":  350
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  71.32,
-                                                       "tv":  337
+                                                       "pe":  2,
+                                                       "km":  23.8,
+                                                       "tv":  298
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -1439,22 +1505,13 @@ window.PAINEL = {
                                                        "tv":  311
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  19.21,
-                                                       "tv":  242
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
+                                                       "vi":  4,
+                                                       "pe":  4,
                                                        "km":  9.14,
-                                                       "tv":  261
+                                                       "tv":  369
                                                    }
                                                ]
                                      }
