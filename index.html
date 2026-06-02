@@ -722,12 +722,16 @@ function closeModal(){ document.getElementById('modal').classList.remove('show')
 document.addEventListener('keydown',e=>{ if(e.key==='Escape')closeModal(); });
 
 /* ====================== Q&A ENGINE ====================== */
-const EXAMPLES=['Quantas visitas o Nelson fez?','Quem começou depois das 8h?','Quem não bateu 5 visitas?','Quanto km a Mariangela rodou?','Quem ficou mais tempo em visita?','Quem tem 100% sem pedido?','Quantos pedidos no total?','Alertas do Cominato','Quanto a Rachel vendeu em reais?'];
+const EXAMPLES=['Quantas visitas o Nelson fez?','Quem começou depois das 9?','Quem saiu antes das 17h?','Quem rodou mais de 100 km?','Quem fez mais de 5 visitas?','Quem fez menos de 4 pedidos?','Quem ficou mais tempo em visita?','Quem tem mais de 50% sem pedido?','Alertas do Cominato','Quanto a Rachel vendeu em reais?'];
 function findVend(q){ return VEND.find(v=>norm(q).includes(norm(v.nome))) || VEND.find(v=>norm(q).includes(norm(v.setor))); }
 function ansBox(html,err){ const el=document.getElementById('qaAns'); el.className='qaans show'+(err?' err':''); el.innerHTML=html; }
 function err(msg){ ansBox('⚠️ '+msg,true); }
 function tbl(head,rows){ return `<table><thead><tr>${head.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${rows.map(r=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table>`; }
 
+function parseHora(q){ let m=q.match(/(\d{1,2})\s*[:h]\s*(\d{2})/); if(m)return (+m[1])*60+(+m[2]); m=q.match(/(\d{1,2})\s*h\b/); if(m)return (+m[1])*60; m=q.match(/(?:das?|que|de)\s+(\d{1,2})(?!\s*[:h\d])/); if(m)return (+m[1])*60; m=q.match(/\b(\d{1,2})\s*horas?\b/); if(m)return (+m[1])*60; return null; }
+function parseNum(q){ const m=q.match(/(\d+(?:[.,]\d+)?)/); return m?parseFloat(m[1].replace(',','.')):null; }
+function cmpv(a,op,b){ return op==='>'?a>b:op==='>='?a>=b:op==='<'?a<b:op==='<='?a<=b:a===b; }
+function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
 function ask(){
   const raw=document.getElementById('qInput').value.trim(); if(!raw){return;}
   const q=norm(raw);
@@ -739,16 +743,49 @@ function ask(){
   if(/(total|geral|equipe|somando|no total)/.test(q) && /visita/.test(q)) return ansBox(`<span class="big">${VEND.reduce((a,x)=>a+x.visitas,0)}</span> visitas no dia (toda a equipe de vendedores).`);
   if(/(total|geral)/.test(q) && /pedido/.test(q)) return ansBox(`<span class="big">${VEND.reduce((a,x)=>a+x.orders,0)}</span> pedidos (proxy) no dia.`);
   if(/(total|geral)/.test(q) && /km|rodad|quilom/.test(q)) return ansBox(`<span class="big">${VEND.reduce((a,x)=>a+x.km,0).toFixed(0)} km</span> rodados pela equipe hoje.`);
+  // ---- horário de início/fim com comparador (ex.: "começou depois das 9", "saiu antes das 17h", "o Nelson começou antes das 8:15?") ----
+  {
+    const dirMaior=/(depois|apos|mais tarde|a partir|acima|maior|mais de|superior|>=|>)/.test(q);
+    const dirMenor=/(antes|mais cedo|abaixo|menor|menos de|inferior|no maximo|<=|<)/.test(q);
+    const isFim=/(termin|encerr|saiu|saida|fim|ultim|finaliz|fechou)/.test(q);
+    const isInicio=/(comec|inici|chegou|chegada|entrou|abriu|primeir|atras)/.test(q);
+    if((isInicio||isFim)&&(dirMaior||dirMenor)){
+      const hora=parseHora(q);
+      if(hora==null) return err('Entendi que é sobre horário de '+(isFim?'término':'início')+', mas não consegui ler o horário. Tente "depois das 9", "antes das 8:30" ou "após as 17h".');
+      const op=dirMenor?'<':'>', field=isFim?'lastAct':'firstAct', lbl=isFim?'término':'início';
+      if(v){ const ok=v[field]!=null&&cmpv(v[field],op,hora); return ansBox(`<b>${v.nome}</b> teve ${lbl} às <b>${mmToStr(v[field])}</b> — ${ok?'<b style="color:var(--brand)">SIM</b>':'não'}, ${op==='<'?'antes':'depois'} das ${mmToStr(hora)}.`); }
+      const s=VEND.filter(x=>x[field]!=null&&cmpv(x[field],op,hora)).sort((a,b)=>op==='<'?a[field]-b[field]:b[field]-a[field]);
+      if(!s.length) return ansBox(`Ninguém teve ${lbl} ${op==='<'?'antes':'depois'} das <b>${mmToStr(hora)}</b>. <span class="small">(início/fim = 1ª/última atividade do dia — visita ou evento)</span>`);
+      return ansBox(`<b>${s.length}</b> vendedor(es) com ${lbl} ${op==='<'?'antes':'depois'} das <b>${mmToStr(hora)}</b>:`+tbl(['Vendedor',cap(lbl),'Justificado?'],s.map(x=>[x.nome,mmToStr(x[field]),(isFim?(x.hasLateEvt?'sim (evento)':'—'):(x.hasEarlyEvt?'sim (evento)':'<b style="color:var(--red)">não</b>'))]))+`<div class="small" style="margin-top:6px">Início/fim consideram a 1ª/última atividade (visita ou evento).</div>`);
+    }
+  }
+  // ---- comparação numérica por métrica (ex.: "mais de 5 visitas", "menos de 4 pedidos", "quem rodou mais de 100 km", "mais de 50% sem pedido") ----
+  {
+    const opNum=/(pelo menos|no minimo)/.test(q)?'>=':/(no maximo|ate )/.test(q)?'<=':/(menos de|abaixo|menor|inferior|menos que)/.test(q)?'<':/(mais de|acima|maior|superior|mais que)/.test(q)?'>':null;
+    if(opNum && !v && /(visita|pedido|km|rodad|quilom|sem pedido|%)/.test(q)){
+      const n=parseNum(q);
+      if(n!=null){
+        let field='visitas',label='visitas',fmt=x=>x;
+        if(/(sem pedido|%)/.test(q)){field='perc';label='sem pedido';fmt=x=>x+'%';}
+        else if(/pedido/.test(q)){field='orders';label='pedidos';}
+        else if(/(km|rodad|quilom|distanc)/.test(q)){field='km';label='km';fmt=x=>x.toFixed(1);}
+        const s=VEND.filter(x=>x[field]!=null&&cmpv(x[field],opNum,n)).sort((a,b)=>(b[field]||0)-(a[field]||0));
+        const opTxt={'>':'mais de','>=':'pelo menos','<':'menos de','<=':'até'}[opNum];
+        if(!s.length) return ansBox(`Nenhum vendedor com ${opTxt} <b>${fmt(n)} ${label}</b>.`);
+        return ansBox(`<b>${s.length}</b> vendedor(es) com ${opTxt} <b>${fmt(n)} ${label}</b>:`+tbl(['Vendedor',cap(label),'Regional'],s.map(x=>[x.nome,fmt(x[field]),x.regional])));
+      }
+    }
+  }
   // rankings / superlativos
   if(/(quem|qual).*(mais|maior).*(visita)/.test(q)){ const s=[...VEND].sort((a,b)=>b.visitas-a.visitas); return ansBox(`🥇 <b>${s[0].nome}</b> com <b>${s[0].visitas} visitas</b>.`+tbl(['Vendedor','Visitas'],s.slice(0,5).map(x=>[x.nome,x.visitas]))); }
   if(/(quem|qual).*(mais|maior).*(km|rodou|rodad|quilom)/.test(q)){ const s=[...VEND].sort((a,b)=>b.km-a.km); return ansBox(`🚗 <b>${s[0].nome}</b> rodou <b>${s[0].km.toFixed(1)} km</b>.`+tbl(['Vendedor','Km'],s.slice(0,5).map(x=>[x.nome,x.km.toFixed(1)]))); }
   if(/(quem|qual).*(mais|maior).*(pedido)/.test(q)){ const s=[...VEND].sort((a,b)=>b.orders-a.orders); return ansBox(`🧾 <b>${s[0].nome}</b> com <b>${s[0].orders} pedidos</b>.`+tbl(['Vendedor','Pedidos'],s.slice(0,5).map(x=>[x.nome,x.orders]))); }
   if(/(mais|maior).*(tempo).*(visita)|mais tempo em visita|quem ficou mais tempo/.test(q)){ const s=[...VEND].sort((a,b)=>b.tvMin-a.tvMin); return ansBox(`⏱️ <b>${s[0].nome}</b> ficou <b>${hStr(s[0].tvMin)}</b> em visita.`+tbl(['Vendedor','Tempo em visita'],s.slice(0,5).map(x=>[x.nome,hStr(x.tvMin)]))); }
-  // começou depois das 8 / atrasos
-  if(/(depois das 8|apos as 8|atras|chegou tarde|comecou tarde|inicio tarde)/.test(q)){
-    const s=VEND.filter(x=>x.firstAct!=null&&x.firstAct>META.inicio).sort((a,b)=>b.firstAct-a.firstAct);
-    if(!s.length)return ansBox('Ninguém começou depois das 08:00 (entre os que registraram visita).');
-    return ansBox(`<b>${s.length}</b> vendedor(es) iniciaram após as 08:00:`+tbl(['Vendedor','Início','Justificado?'],s.map(x=>[x.nome,mmToStr(x.firstAct),x.hasEarlyEvt?'sim (evento)':'<b style="color:var(--red)">não</b>'])));
+  // atrasos sem horário explícito (usa a meta 08:00 e desconsidera quem tem evento que justifica)
+  if(/(atras|chegou tarde|comecou tarde|inicio tarde|nao cumpriu.*horario)/.test(q) && !v){
+    const s=VEND.filter(x=>x.firstAct!=null&&x.firstAct>META.inicio&&!x.hasEarlyEvt).sort((a,b)=>b.firstAct-a.firstAct);
+    if(!s.length)return ansBox('Ninguém atrasou sem justificativa — todos iniciaram até as 08:00 ou têm evento que explica.');
+    return ansBox(`<b>${s.length}</b> vendedor(es) começaram após as 08:00 <b>sem justificativa</b>:`+tbl(['Vendedor','Início'],s.map(x=>[x.nome,mmToStr(x.firstAct)])));
   }
   // não bateu meta visitas
   if(/(nao bateu|menos de 5|abaixo).*(visita)|quem nao visitou|menos visita/.test(q)){
