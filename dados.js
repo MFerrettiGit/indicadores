@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/06/2026",
-    "dataHora":  "18:02",
+    "dataHora":  "18:17",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -128,7 +128,7 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "visitas":  6,
-                     "km":  37.19,
+                     "km":  38.4,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "08:16",
@@ -997,7 +997,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:31:27"
+                        "tempo":  "01:45:59"
                     }
                 ],
     "semped":  [
@@ -1376,7 +1376,7 @@ window.PAINEL = {
                                                ]
                                      },
                       "2026-06-02":  {
-                                         "dataHora":  "18:02",
+                                         "dataHora":  "18:17",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1474,7 +1474,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  37.19,
+                                                       "km":  38.4,
                                                        "tv":  350
                                                    },
                                                    {
