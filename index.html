@@ -90,6 +90,8 @@
   .num{font-variant-numeric:tabular-nums;font-weight:600}
   .filterbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
   .filterbar select,.filterbar input{padding:7px 11px;border-radius:9px;border:1px solid var(--line);background:var(--panel2);color:var(--text);font-size:.84rem}
+  .btn{cursor:pointer;border:none;background:var(--accent);color:#fff;font-weight:700;font-size:.84rem;padding:8px 15px;border-radius:9px;margin-left:auto;display:flex;align-items:center;gap:6px}
+  .btn:hover{filter:brightness(1.08)}
   /* BARS */
   .barrow{display:grid;grid-template-columns:130px 1fr 52px;gap:10px;align-items:center;margin:6px 0;font-size:.83rem}
   .bar{height:18px;border-radius:6px;background:var(--brand);position:relative;min-width:2px;transition:width .5s}
@@ -163,6 +165,7 @@
       <label class="small">Regional:</label>
       <select id="fReg" onchange="renderResumo()"><option value="">Todas</option></select>
       <input id="fName" placeholder="🔍 buscar por nome..." oninput="renderResumo()">
+      <button class="btn" onclick="exportXlsx()">⬇️ Exportar para Excel</button>
     </div>
     <div class="tablewrap">
       <table id="resTable">
@@ -217,6 +220,7 @@
   <div class="mbox" id="mbox"></div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/xlsx-js-style@1.2.0/dist/xlsx.bundle.js"></script>
 <script>
 /* ====================== DADOS ====================== */
 const DATA_DT='01/06/2026', DATA_HORA='19:06';
@@ -545,11 +549,59 @@ function renderSuspeitos(){
 
 /* ====================== RESUMO DO TRABALHO ====================== */
 let sortK='nome',sortDir=1;
-function renderResumo(){
+function currentRows(){
   const reg=document.getElementById('fReg').value;
   const nm=norm(document.getElementById('fName').value);
   let rows=VEND.filter(v=>(!reg||v.regional===reg)&&(!nm||norm(v.nome).includes(nm)));
   rows.sort((a,b)=>{ let x=a[sortK],y=b[sortK]; if(x==null)x=-1; if(y==null)y=-1; if(typeof x==='string')return sortDir*x.localeCompare(y); return sortDir*(x-y); });
+  return rows;
+}
+function situacaoTxt(v){ return v.cardSev>=2?'Cobrar':(v.cardSev===1?'Atenção':'Em dia'); }
+function exportXlsx(){
+  if(typeof XLSX==='undefined'){ alert('Não foi possível carregar o gerador de Excel. Verifique a conexão com a internet e tente novamente.'); return; }
+  const rows=currentRows();
+  const headers=['Vendedor','Setor','Regional','Coordenador','Visitas','Pedidos','Km rodado','Sem pedido','Início','Fim','Tempo em visita','Situação','Pontos de atenção'];
+  const N=headers.length;
+  const aoa=[['M. Ferretti — Resumo do trabalho da equipe'],['Dados de '+DATA_DT+' às '+DATA_HORA],headers];
+  rows.forEach(v=>aoa.push([v.nome,v.setor,v.regional,v.coord||'—',v.visitas,v.orders,+v.km.toFixed(1),
+    v.perc==null?'—':Math.round(v.perc),v.firstAct==null?'—':mmToStr(v.firstAct),v.lastAct==null?'—':mmToStr(v.lastAct),
+    v.tvMin?hStr(v.tvMin):'—',situacaoTxt(v),v.errCount]));
+  const tVis=rows.reduce((a,v)=>a+v.visitas,0),tPed=rows.reduce((a,v)=>a+v.orders,0),tKm=rows.reduce((a,v)=>a+v.km,0);
+  aoa.push(['TOTAL','','','',tVis,tPed,+tKm.toFixed(1),'','','','','','']);
+  const ws=XLSX.utils.aoa_to_sheet(aoa);
+  const lastR=aoa.length-1, C=(r,c)=>XLSX.utils.encode_cell({r,c});
+  ws['!merges']=[{s:{r:0,c:0},e:{r:0,c:N-1}},{s:{r:1,c:0},e:{r:1,c:N-1}}];
+  ws['!cols']=[{wch:15},{wch:17},{wch:14},{wch:13},{wch:8},{wch:8},{wch:10},{wch:11},{wch:8},{wch:8},{wch:14},{wch:11},{wch:10}];
+  ws['!rows']=[{hpt:26},{hpt:16},{hpt:24}];
+  const bd={style:'thin',color:{rgb:'D0D7E2'}}, allB={top:bd,bottom:bd,left:bd,right:bd};
+  if(ws[C(0,0)]) ws[C(0,0)].s={font:{bold:true,sz:14,color:{rgb:'FFFFFF'}},fill:{fgColor:{rgb:'2B2FA8'}},alignment:{horizontal:'left',vertical:'center',indent:1}};
+  if(ws[C(1,0)]) ws[C(1,0)].s={font:{italic:true,sz:10,color:{rgb:'5B6781'}},alignment:{horizontal:'left',indent:1}};
+  for(let c=0;c<N;c++){ const cl=ws[C(2,c)]; if(cl) cl.s={font:{bold:true,sz:10,color:{rgb:'FFFFFF'}},fill:{fgColor:{rgb:'2B2FA8'}},alignment:{horizontal:'center',vertical:'center',wrapText:true},border:allB}; }
+  for(let r=3;r<=lastR;r++){
+    const isTotal=(r===lastR), v=isTotal?null:rows[r-3];
+    for(let c=0;c<N;c++){
+      const cell=ws[C(r,c)]; if(!cell) continue;
+      let s={alignment:{horizontal:c>=4?'center':'left',vertical:'center'},border:allB,font:{sz:10}};
+      if(isTotal){ s.font={bold:true,sz:10,color:{rgb:'0F1B3D'}}; s.fill={fgColor:{rgb:'E9EDF5'}}; }
+      else{
+        if((r-3)%2===1) s.fill={fgColor:{rgb:'F4F7FB'}};
+        if(c===6) cell.z='0.0';
+        if(c===7 && typeof cell.v==='number') cell.z='0"%"';
+        if(c===4){ const x=v.visitas; s.fill={fgColor:{rgb:x>=5?'DCF3EA':(x>0?'FCEBD2':'F8D7DD')}}; s.font={sz:10,bold:true,color:{rgb:x>=5?'0A8F63':(x>0?'B86E00':'C12238')}}; }
+        else if(c===5){ const x=v.orders; s.fill={fgColor:{rgb:x>=4?'DCF3EA':(x>0?'FCEBD2':'F8D7DD')}}; s.font={sz:10,bold:true,color:{rgb:x>=4?'0A8F63':(x>0?'B86E00':'C12238')}}; }
+        else if(c===6 && v.km>150){ s.fill={fgColor:{rgb:'F8D7DD'}}; s.font={sz:10,bold:true,color:{rgb:'C12238'}}; }
+        else if(c===7 && v.perc!=null && v.perc>=40){ const hi=v.perc>=80; s.fill={fgColor:{rgb:hi?'F8D7DD':'FCEBD2'}}; s.font={sz:10,bold:true,color:{rgb:hi?'C12238':'B86E00'}}; }
+        else if(c===11){ const st=v.cardSev,bg=st>=2?'F8D7DD':(st===1?'FCEBD2':'DCF3EA'),tx=st>=2?'C12238':(st===1?'B86E00':'0A8F63'); s.fill={fgColor:{rgb:bg}}; s.font={sz:10,bold:true,color:{rgb:tx}}; }
+      }
+      cell.s=s;
+    }
+  }
+  const wb=XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb,ws,'Resumo do dia');
+  XLSX.writeFile(wb,'Resumo_Equipe_'+DATA_DT.split('/').reverse().join('-')+'.xlsx');
+}
+function renderResumo(){
+  const rows=currentRows();
   document.querySelector('#resTable tbody').innerHTML=rows.map(v=>{
     const vC=v.visitas>=META.visitas?'c-ok':(v.visitas>0?'c-warn':'c-bad');
     const pC=v.orders>=META.pedidos?'c-ok':(v.orders>0?'c-warn':'c-bad');
