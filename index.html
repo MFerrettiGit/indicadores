@@ -21,8 +21,6 @@
   }
   *{box-sizing:border-box}
   body{margin:0;font-family:'Segoe UI',system-ui,Arial,sans-serif;background:var(--bg);color:var(--text);transition:background .3s,color .3s}
-  a{color:var(--brand2)}
-  /* HEADER */
   header{background:linear-gradient(120deg,#1b1f8f,#2b2fa8 45%,#4348e8);color:#fff;padding:18px 22px;display:flex;align-items:center;gap:18px;flex-wrap:wrap;box-shadow:var(--shadow);position:sticky;top:0;z-index:50}
   header img{height:46px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.3))}
   header .htitle{font-size:1.22rem;font-weight:700;line-height:1.1}
@@ -35,19 +33,38 @@
   section{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin-bottom:20px;box-shadow:var(--shadow)}
   h2.sec{margin:0 0 4px;font-size:1.16rem;display:flex;align-items:center;gap:10px}
   h2.sec .ico{width:30px;height:30px;border-radius:9px;display:grid;place-items:center;background:var(--brand);color:#fff;font-size:.95rem}
+  h2.sec .badge{margin-left:auto;font-size:.8rem;font-weight:700;padding:2px 11px;border-radius:30px;background:var(--redbg);color:var(--red)}
   .lead{color:var(--muted);font-size:.86rem;margin:2px 0 16px;line-height:1.5}
-  /* ALERT BAR */
-  .alertbar{background:linear-gradient(180deg,var(--redbg),var(--panel));border:1.5px solid var(--red)}
-  .alertbar h2.sec .ico{background:var(--red)}
-  .albadge{background:var(--red);color:#fff;border-radius:30px;padding:2px 11px;font-size:.82rem;font-weight:700}
-  .alist{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(310px,1fr))}
-  .ai{display:flex;gap:11px;align-items:flex-start;padding:12px 14px;border-radius:11px;background:var(--panel2);border-left:5px solid var(--red);box-shadow:0 2px 8px rgba(20,30,70,.05)}
-  .ai.sev-2{border-left-color:var(--red)}
-  .ai.sev-1{border-left-color:var(--orange)}
-  .ai .who{font-weight:700}
-  .ai .tag{font-size:.7rem;color:var(--muted);background:var(--bg);padding:1px 8px;border-radius:20px;margin-left:6px;border:1px solid var(--line)}
-  .ai .txt{font-size:.88rem;line-height:1.4;color:var(--text)}
-  .ai .em{font-size:1.25rem;line-height:1}
+  /* DESTAQUES */
+  .dest{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:760px){.dest{grid-template-columns:1fr}}
+  .dcard{border-radius:16px;padding:20px 22px;color:#fff;position:relative;overflow:hidden;box-shadow:var(--shadow)}
+  .dcard.best{background:linear-gradient(135deg,#0a8f63,#0aa674)}
+  .dcard.worst{background:linear-gradient(135deg,#b41f34,#e2354a)}
+  .dcard .dl{font-size:.78rem;text-transform:uppercase;letter-spacing:1.2px;opacity:.9;font-weight:700}
+  .dcard .dn{font-size:1.9rem;font-weight:800;margin:3px 0 2px}
+  .dcard .dsub{font-size:.82rem;opacity:.9;margin-bottom:10px}
+  .dcard .dwhy{font-size:.92rem;line-height:1.55}
+  .dcard .dmeta{display:flex;gap:10px;margin:12px 0 0;flex-wrap:wrap}
+  .dcard .dmeta div{background:rgba(255,255,255,.2);padding:6px 11px;border-radius:9px;font-size:.82rem;font-weight:600}
+  .dcard .em{position:absolute;right:16px;top:12px;font-size:2.6rem;opacity:.45}
+  /* CARDS POR VENDEDOR (importantes / suspeitos) */
+  .cardgrid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+  .pcard{background:var(--panel2);border:1px solid var(--line);border-left:5px solid var(--red);border-radius:12px;padding:14px 16px;box-shadow:0 2px 8px rgba(20,30,70,.05)}
+  .pcard.sev-1{border-left-color:var(--orange)} .pcard.sev-0{border-left-color:var(--brand2)}
+  .pcard .ph{display:flex;align-items:center;gap:8px;margin-bottom:4px}
+  .pcard .pn{font-weight:700;font-size:1.02rem}
+  .pcard .tag{font-size:.68rem;color:var(--muted);background:var(--bg);padding:1px 8px;border-radius:20px;border:1px solid var(--line)}
+  .pcard .cnt{margin-left:auto;font-size:.7rem;font-weight:700;padding:2px 9px;border-radius:20px;background:var(--redbg);color:var(--red);white-space:nowrap}
+  .pcard.sev-1 .cnt{background:var(--orangebg);color:var(--orange)}
+  .pcard.sev-0 .cnt{background:var(--panel);color:var(--brand2);border:1px solid var(--line)}
+  .pcard .grp{font-size:.68rem;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin:10px 0 2px;font-weight:700}
+  .pcard ul{margin:0;padding:0;list-style:none}
+  .pcard li{font-size:.85rem;line-height:1.45;padding:4px 0 4px 17px;position:relative}
+  .pcard li::before{content:'';position:absolute;left:2px;top:11px;width:7px;height:7px;border-radius:50%;background:var(--muted)}
+  .pcard li.s2::before{background:var(--red)} .pcard li.s1::before{background:var(--orange)} .pcard li.s0::before{background:var(--brand2)}
+  .pcard li .ct{font-weight:700}
+  .okbox{display:flex;gap:11px;align-items:center;padding:13px 15px;border-radius:12px;background:var(--greenbg);border:1px solid var(--green);color:var(--green);font-weight:600}
   /* KPI */
   .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px}
   .kpi{background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:15px 16px;position:relative;overflow:hidden}
@@ -60,7 +77,7 @@
   .tab{cursor:pointer;padding:8px 16px;border-radius:30px;border:1px solid var(--line);background:var(--panel2);font-size:.85rem;font-weight:600;color:var(--muted)}
   .tab.active{background:var(--brand);color:#fff;border-color:var(--brand)}
   .tabpane{display:none} .tabpane.active{display:block}
-  .note{font-size:.8rem;color:var(--muted);background:var(--yellowbg);border:1px dashed var(--yellow);padding:9px 12px;border-radius:10px;margin-bottom:14px}
+  .note{font-size:.8rem;color:var(--muted);background:var(--panel2);border:1px solid var(--line);padding:10px 13px;border-radius:10px;margin-bottom:16px}
   /* TABLE */
   .tablewrap{overflow-x:auto}
   table{width:100%;border-collapse:collapse;font-size:.85rem}
@@ -79,31 +96,17 @@
   .bartrack{background:var(--panel2);border-radius:6px;position:relative}
   .metaline{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--red);z-index:2}
   .bar.b-bad{background:var(--red)} .bar.b-warn{background:var(--orange)} .bar.b-ok{background:var(--green)}
-  /* GRID 2col */
   .grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
   @media(max-width:860px){.grid2{grid-template-columns:1fr}}
   .card{background:var(--panel2);border:1px solid var(--line);border-radius:13px;padding:15px}
-  .card h3{margin:0 0 10px;font-size:.95rem}
-  /* DONUT */
+  .card h3{margin:0 0 4px;font-size:.95rem}
+  .card .cap{font-size:.76rem;color:var(--muted);margin:0 0 10px}
   .donutwrap{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
   .donut{width:140px;height:140px;border-radius:50%;flex:0 0 auto}
   .legend{display:grid;gap:6px;font-size:.82rem}
   .legend .li{display:flex;align-items:center;gap:8px}
   .legend .dot{width:12px;height:12px;border-radius:3px}
-  /* Q&A */
-  .qabar{display:flex;gap:10px;flex-wrap:wrap}
-  .qabar input{flex:1;min-width:240px;padding:13px 16px;border-radius:12px;border:1.5px solid var(--brand);background:var(--panel2);color:var(--text);font-size:.95rem}
-  .qabar button{padding:0 22px;border-radius:12px;border:none;background:var(--brand);color:#fff;font-weight:700;cursor:pointer;font-size:.92rem}
-  .qabar button:hover{background:var(--brand2)}
-  .qaex{margin-top:10px;display:flex;gap:7px;flex-wrap:wrap}
-  .qaex span{font-size:.76rem;color:var(--brand2);background:var(--panel2);border:1px solid var(--line);padding:4px 10px;border-radius:20px;cursor:pointer}
-  .qaex span:hover{background:var(--bg)}
-  .qaans{margin-top:14px;padding:15px 17px;border-radius:12px;background:var(--panel2);border:1px solid var(--line);font-size:.92rem;line-height:1.55;min-height:20px;display:none}
-  .qaans.show{display:block}
-  .qaans.err{background:var(--redbg);border-color:var(--red);color:var(--red)}
-  .qaans table{margin-top:8px}
-  .qaans .big{font-size:1.5rem;font-weight:800;color:var(--brand)}
-  /* drilldown modal */
+  /* MODAL */
   .modal{position:fixed;inset:0;background:rgba(8,12,28,.6);display:none;z-index:100;padding:24px;overflow:auto}
   .modal.show{display:block}
   .mbox{max-width:820px;margin:20px auto;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:24px;box-shadow:var(--shadow)}
@@ -114,9 +117,7 @@
   .tl .ev.noped::before{background:var(--red)}
   .tl .ev.evt::before{background:var(--orange)}
   .small{font-size:.78rem;color:var(--muted)}
-  footer{text-align:center;color:var(--muted);font-size:.78rem;padding:24px}
-  .sevdot{font-size:1.1rem}
-  .miniflag{font-size:.74rem;color:var(--muted)}
+  footer{text-align:center;color:var(--muted);font-size:.8rem;padding:24px;line-height:1.6}
 </style>
 </head>
 <body>
@@ -124,127 +125,104 @@
   <img id="logo" src="ferretti-branco.png" alt="Ferretti">
   <div>
     <div class="htitle">Painel de Gestão — Equipe de Vendas</div>
-    <div class="hsub">Monitoramento de campo • TimeService BI</div>
+    <div class="hsub">Acompanhamento de campo</div>
   </div>
   <div class="spacer"></div>
-  <div class="pill">📅 Dados de <b style="margin-left:4px">01/06/2026</b></div>
-  <div class="pill" id="hcount">⚠️ <span></span></div>
+  <div class="pill">🕒 Atualizado em <b style="margin-left:4px" id="hupd"></b></div>
   <button class="toggle" id="themeBtn" onclick="toggleTheme()">🌙 Escuro</button>
 </header>
 
 <div class="wrap">
 
-  <!-- ===== ALERTAS CRÍTICOS ===== -->
-  <section class="alertbar" id="alertSec">
-    <h2 class="sec"><span class="ico">🚨</span> Informações Importantes — exija atenção <span class="albadge" id="albadge">0</span></h2>
-    <div class="lead">Desvios graves frente à rotina esperada (jornada <b>08:00–17:48</b>, almoço de <b>1h</b>, mínimo de <b>5 visitas</b> e <b>4 pedidos</b> por dia). Itens já justificados por evento aparecem nas seções abaixo, não aqui.</div>
-    <div class="alist" id="alertList"></div>
+  <!-- ===== DESTAQUES ===== -->
+  <section>
+    <h2 class="sec"><span class="ico">🏆</span> Destaques do dia</h2>
+    <div class="lead">O melhor e o pior desempenho do dia, com o motivo. Comece por aqui.</div>
+    <div class="dest" id="destaques"></div>
   </section>
 
-  <!-- ===== KPIs DO DIA ===== -->
+  <!-- ===== INFORMAÇÕES IMPORTANTES ===== -->
   <section>
-    <h2 class="sec"><span class="ico">📊</span> Resumo do dia — visão geral da força de vendas</h2>
-    <div class="lead">Somente <b>vendedores (OV)</b>. Promotores não entram nesta análise. "Pedido" = visita que gerou pedido (visitado − sem pedido).</div>
-    <div class="kpis" id="kpis"></div>
+    <h2 class="sec"><span class="ico">🚨</span> Informações importantes <span class="badge" id="badgeImp">0</span></h2>
+    <div class="lead">Tudo que pede cobrança, reunido <b>por vendedor</b>. Cada card junta os pontos do <b>começo</b> e do <b>fim do dia</b> daquela pessoa. A rotina esperada é começar às <b>08:00</b>, encerrar às <b>17:48</b>, 1 hora de almoço, no mínimo <b>5 visitas</b> e <b>4 pedidos</b> por dia.</div>
+    <div class="cardgrid" id="impList"></div>
   </section>
 
-  <!-- ===== RESUMO DIA/SEMANA/MÊS ===== -->
+  <!-- ===== PADRÕES SUSPEITOS ===== -->
   <section>
-    <h2 class="sec"><span class="ico">🗓️</span> Resumos por período</h2>
-    <div class="tabs">
-      <div class="tab active" data-tab="dia" onclick="setTab('dia')">Diário (01/06)</div>
-      <div class="tab" data-tab="sem" onclick="setTab('sem')">Semana</div>
-      <div class="tab" data-tab="mes" onclick="setTab('mes')">Mês (Junho)</div>
-    </div>
-    <div class="tabpane active" id="pane-dia"></div>
-    <div class="tabpane" id="pane-sem">
-      <div class="note">📌 Hoje é o <b>1º dia útil de junho</b>, então a semana e o mês começam com os números de <b>01/06</b>. Conforme novas capturas diárias forem feitas, estas abas vão <b>acumulando</b> automaticamente (visitas, km, pedidos e tempo somados por vendedor).</div>
-      <div id="sem-body"></div>
-    </div>
-    <div class="tabpane" id="pane-mes">
-      <div class="note">📌 Mês de <b>junho</b> em andamento (acumulando a partir de 01/06). Abaixo, o acumulado atual e a tendência histórica de <b>maio</b> (totais gerais da operação) para comparação.</div>
-      <div id="mes-body"></div>
-    </div>
+    <h2 class="sec"><span class="ico">🔎</span> Padrões suspeitos <span class="badge" id="badgeSus">0</span></h2>
+    <div class="lead">Comportamentos fora do comum, reunidos por vendedor: muito tempo no cliente sem fechar pedido, um dia inteiro de visitas sem nenhum pedido, deslocamento grande para visita relâmpago e visitas repetidas ao mesmo grupo no mesmo dia.</div>
+    <div class="cardgrid" id="susList"></div>
   </section>
 
-  <!-- ===== RANKING ===== -->
+  <!-- ===== RESUMO DO TRABALHO ===== -->
   <section>
-    <h2 class="sec"><span class="ico">🏅</span> Ranking de vendedores — clique para detalhar</h2>
-    <div class="lead">Compare a equipe num relance. Verde = dentro da meta, laranja = atenção, vermelho = fora. Clique numa linha para ver a rota completa do vendedor (clientes, horários, km e pedidos).</div>
+    <h2 class="sec"><span class="ico">📋</span> Resumo do trabalho da equipe</h2>
+    <div class="lead">A situação de cada vendedor no dia. Clique em um nome para ver a rota completa (clientes, horários, quilômetros e pedidos).</div>
     <div class="filterbar">
       <label class="small">Regional:</label>
-      <select id="fReg" onchange="renderRank()"><option value="">Todas</option></select>
-      <input id="fName" placeholder="🔍 filtrar por nome..." oninput="renderRank()">
+      <select id="fReg" onchange="renderResumo()"><option value="">Todas</option></select>
+      <input id="fName" placeholder="🔍 buscar por nome..." oninput="renderResumo()">
     </div>
     <div class="tablewrap">
-      <table id="rankTable">
+      <table id="resTable">
         <thead><tr>
           <th data-k="nome">Vendedor</th><th data-k="setor">Setor</th><th data-k="regional">Regional</th>
           <th data-k="visitas">Visitas</th><th data-k="orders">Pedidos</th><th data-k="km">Km</th>
-          <th data-k="perc">% s/ ped.</th><th data-k="firstAct">Início</th><th data-k="lastAct">Fim</th>
-          <th data-k="tvMin">Tempo visita</th><th data-k="score">Status</th>
+          <th data-k="perc">Sem pedido</th><th data-k="firstAct">Início</th><th data-k="lastAct">Fim</th>
+          <th data-k="tvMin">Tempo em visita</th><th data-k="errCount">Situação</th>
         </tr></thead>
         <tbody></tbody>
       </table>
     </div>
   </section>
 
+  <!-- ===== RESUMO POR PERÍODO ===== -->
+  <section>
+    <h2 class="sec"><span class="ico">🗓️</span> Resumo por período</h2>
+    <div class="tabs">
+      <div class="tab active" data-tab="dia" onclick="setTab('dia')">Dia</div>
+      <div class="tab" data-tab="sem" onclick="setTab('sem')">Semana</div>
+      <div class="tab" data-tab="mes" onclick="setTab('mes')">Mês</div>
+    </div>
+    <div class="tabpane active" id="pane-dia"></div>
+    <div class="tabpane" id="pane-sem"></div>
+    <div class="tabpane" id="pane-mes"></div>
+  </section>
+
   <!-- ===== GRÁFICOS ===== -->
   <section>
     <h2 class="sec"><span class="ico">📈</span> Visão gráfica</h2>
-    <div class="lead">Barras com a linha vermelha = meta. Quem não alcança a linha precisa de cobrança.</div>
+    <div class="lead">A linha vermelha marca a meta. Quem não alcança a linha precisa de atenção.</div>
     <div class="grid2">
-      <div class="card"><h3>Visitas por vendedor <span class="miniflag">(meta 5)</span></h3><div id="chartVis"></div></div>
-      <div class="card"><h3>Pedidos por vendedor <span class="miniflag">(meta 4)</span></h3><div id="chartPed"></div></div>
-      <div class="card"><h3>Km rodado por vendedor</h3><div id="chartKm"></div></div>
-      <div class="card"><h3>Motivos de visita sem pedido <span class="miniflag">(hoje)</span></h3><div id="chartDonut"></div></div>
+      <div class="card"><h3>Visitas por vendedor</h3><div class="cap">Meta: 5 visitas por dia</div><div id="chartVis"></div></div>
+      <div class="card"><h3>Pedidos por vendedor</h3><div class="cap">Meta: 4 pedidos por dia</div><div id="chartPed"></div></div>
+      <div class="card"><h3>Quilômetros rodados por vendedor</h3><div class="cap">Distância percorrida no dia</div><div id="chartKm"></div></div>
+      <div class="card"><h3>Motivos das visitas sem pedido</h3><div class="cap">Por que a visita não gerou pedido</div><div id="chartDonut"></div></div>
     </div>
-    <div class="card" style="margin-top:18px"><h3>Tendência de maio — visitas x clientes sem pedido por dia <span class="miniflag">(totais gerais da operação)</span></h3><div id="chartLine"></div></div>
-  </section>
-
-  <!-- ===== ANOMALIAS ===== -->
-  <section>
-    <h2 class="sec"><span class="ico">🔎</span> Padrões suspeitos — "parece que trabalhou"</h2>
-    <div class="lead">Comportamentos que fogem do senso comum e merecem conferência: muito tempo no cliente sem fechar pedido, deslocamento grande para visita relâmpago, dia inteiro de visitas sem nenhum pedido, e visitas repetidas ao mesmo grupo no mesmo dia.</div>
-    <div class="alist" id="anomList"></div>
+    <div class="card" style="margin-top:18px"><h3>Evolução de maio</h3><div class="cap">Total diário de visitas e de clientes sem pedido em toda a operação</div><div id="chartLine"></div></div>
   </section>
 
   <!-- ===== EVENTOS ===== -->
   <section>
-    <h2 class="sec"><span class="ico">🧾</span> Justificativas (eventos) do dia</h2>
-    <div class="lead">O que tira o vendedor da rota: reunião, viagem, almoço, manutenção, acompanhamento. Use para validar os desvios de jornada e de visitas.</div>
-    <div class="tablewrap"><table id="evtTable"><thead><tr><th>Vendedor</th><th>Tipo</th><th>Observação</th><th>Início</th><th>Fim</th><th>Duração</th></tr></thead><tbody></tbody></table></div>
+    <h2 class="sec"><span class="ico">🧾</span> Eventos e justificativas do dia</h2>
+    <div class="lead">O que tirou o vendedor da rota: reunião, viagem, almoço, manutenção e compromissos. Use para entender os desvios de jornada.</div>
+    <div class="tablewrap"><table id="evtTable"><thead><tr><th>Vendedor</th><th>Tipo</th><th>Descrição</th><th>Início</th><th>Fim</th><th>Duração</th></tr></thead><tbody></tbody></table></div>
   </section>
 
-  <!-- ===== Q&A ===== -->
-  <section>
-    <h2 class="sec"><span class="ico">💬</span> Pergunte aos dados</h2>
-    <div class="lead">Pergunte em linguagem natural sobre <b>visitas, pedidos, km, horários, almoço, tempo em visita, eventos, clientes, atrasos e alertas</b>. Se a base não tiver a resposta, você recebe um erro (ex.: valor em R$ não existe nestes dados).</div>
-    <div class="qabar">
-      <input id="qInput" placeholder="Ex.: quantas visitas o Nelson fez? quem começou depois das 8h?" onkeydown="if(event.key==='Enter')ask()">
-      <button onclick="ask()">Perguntar</button>
-    </div>
-    <div class="qaex" id="qaExamples"></div>
-    <div class="qaans" id="qaAns"></div>
-  </section>
-
-  <footer>
-    Fonte: TimeService BI (TSBI_INDICADORES) — captura de 01/06/2026 ~19:06 • Painel de uso interno (gestão).<br>
-    Limitações conhecidas: sem valor de venda em R$ (pedido = visita com pedido); detalhe por vendedor disponível só do dia 01/06; maio apenas como total geral.
-  </footer>
+  <footer id="foot"></footer>
 </div>
 
-<!-- DRILLDOWN -->
 <div class="modal" id="modal" onclick="if(event.target.id==='modal')closeModal()">
   <div class="mbox" id="mbox"></div>
 </div>
 
 <script>
-/* ====================== DADOS (capturados 01/06/2026) ====================== */
-const META={inicio:480,fim:1068,almoco:60,visitas:5,pedidos:4}; // 08:00=480, 17:48=1068
+/* ====================== DADOS ====================== */
+const DATA_DT='01/06/2026', DATA_HORA='19:06';
+const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos:4}; // 08:00 / 17:48 / 18:30
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
 
-// Vendedores (OV). visitas=visitado, semPed=visitas sem pedido, perc=% sem pedido
 const VEND=[
  {nome:'Eduardo',setor:'CHAVES CPS',regional:'INTERIOR SP',visitas:0,km:63.41,semPed:0,perc:null,primeiro:null,ultimo:null,tv:'00:00:00'},
  {nome:'Luis',setor:'FRANCA',regional:'NORDESTE',visitas:7,km:132.41,semPed:1,perc:14.29,primeiro:'09:24',ultimo:'17:17',tv:'05:18:00'},
@@ -263,7 +241,6 @@ const VEND=[
  {nome:'Lucas',setor:'INDAIATUBA',regional:'SUL',visitas:0,km:0.00,semPed:0,perc:null,primeiro:null,ultimo:null,tv:'00:00:00'}
 ];
 
-// Check-ins do dia (somente OV). dur em HH:MM:SS
 const CHECKINS=[
  {nome:'Costa',razao:'UNIAO WENG SUPERMERCADO LTDA',mun:'ENGENHEIRO COEL',in:'08:01:33',out:'08:26:17',km:0,dur:'00:24:00'},
  {nome:'Costa',razao:'SUPERMERCADO UNIAO WENG LTDA',mun:'ENGENHEIRO COEL',in:'09:00:37',out:'09:45:25',km:0.97,dur:'00:44:00'},
@@ -333,7 +310,6 @@ const CHECKINS=[
  {nome:'Nelson',razao:'COMERCIAL MEDEIROS LTDA',mun:'ITAPETININGA',in:'16:55:33',out:'18:13:29',km:4.31,dur:'01:17:00'}
 ];
 
-// Eventos do dia (somente OV)
 const EVENTOS=[
  {nome:'Maira',tipo:'Outro',obs:'reunião escolar',inicio:'08:14',final:'08:42',tempo:'00:28:32'},
  {nome:'Maira',tipo:'Em Viagem',obs:'limeira',inicio:'08:43',final:'09:19',tempo:'00:36:08'},
@@ -370,7 +346,6 @@ const EVENTOS=[
  {nome:'Lucas',tipo:'Manutencao',obs:'troca da suspensão dianteira lado esquerdo',inicio:null,final:null,tempo:'10:43:09'}
 ];
 
-// Visitas sem pedido (OV)
 const SEMPED=[
  {nome:'Maira',razao:'YURI PADOVAN CALSA.',mun:'LIMEIRA',obs:'comprador ausente'},
  {nome:'Alan',razao:'LESSA',mun:'CAMPINAS',obs:'merchandising'},
@@ -396,7 +371,6 @@ const SEMPED=[
  {nome:'Sao Carlos',razao:'SUP. MOREIRA DE SAO CARLOS LTDA-ME LJ 02',mun:'SAO CARLOS',obs:'prospecção'}
 ];
 
-// Histórico maio (totais gerais da operação - todos os papéis)
 const HIST=[
  ['04/05',101,19],['05/05',106,19],['06/05',78,8],['07/05',132,36],['08/05',104,34],
  ['11/05',112,32],['12/05',90,12],['13/05',122,22],['14/05',120,16],['15/05',101,21],
@@ -408,9 +382,15 @@ const HIST=[
 function toMin(t){ if(!t)return null; const p=t.split(':'); return (+p[0])*60+(+p[1]); }
 function durMin(t){ if(!t)return 0; const p=t.split(':'); return (+p[0])*60+(+p[1])+(p[2]?(+p[2])/60:0); }
 function mmToStr(m){ if(m==null)return '—'; const h=Math.floor(m/60),mi=Math.round(m%60); return (h<10?'0':'')+h+':'+(mi<10?'0':'')+mi; }
-function hStr(m){ if(m==null)return '—'; const h=Math.floor(m/60),mi=Math.round(m%60); return h+'h'+(mi<10?'0':'')+mi; }
+function hStr(m){ if(m==null||isNaN(m))return '—'; m=Math.round(m); const h=Math.floor(m/60),mi=m%60; return (h>0?h+'h':'')+(mi<10&&h>0?'0':'')+mi+(h>0?'':' min'); }
 function norm(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,''); }
 function firstWord(s){ return norm(s).replace(/[^a-z0-9 ]/g,'').split(' ').filter(Boolean).slice(0,2).join(' '); }
+function agendaLabel(e){ const o=norm(e.obs),t=norm(e.tipo),d=durMin(e.tempo);
+  if(/reuniao/.test(t)) return 'Reunião na empresa';
+  if(/manuten/.test(t)) return 'Veículo em manutenção';
+  if(/exame|consulta|medic|audiometria|psicolog|saude/.test(o)) return 'Compromisso de saúde';
+  if(/acompanh/.test(t)) return 'Acompanhamento familiar';
+  return null; }
 
 /* ====================== ENRIQUECER ====================== */
 VEND.forEach(v=>{
@@ -428,421 +408,279 @@ VEND.forEach(v=>{
   v.lastAct=outs.length?Math.max(...outs):null;
   v.span=(v.firstAct!=null&&v.lastAct!=null)?v.lastAct-v.firstAct:null;
   v.lunch=v.eventos.filter(e=>/refei/i.test(e.tipo)).reduce((a,e)=>a+durMin(e.tempo),0);
-  v.fullDayEvt=v.eventos.some(e=>/reuniao|manuten/i.test(e.tipo)&&durMin(e.tempo)>=240) || (v.nome==='Lucas');
-  v.hasEarlyEvt=v.eventos.some(e=>e.inicio&&toMin(e.inicio)<=510); // evento começando até 08:30
-  v.hasLateEvt=v.eventos.some(e=>e.final&&toMin(e.final)>=1020); // evento terminando após 17:00
-  v.medicalEvt=v.eventos.some(e=>/exame|consulta|medic|acompanh|audiometria/i.test(e.obs+e.tipo));
+  v.fullDayEvt=v.eventos.some(e=>/reuniao|manuten/i.test(e.tipo)&&durMin(e.tempo)>=240)||v.nome==='Lucas';
+  v.hasLateEvt=v.eventos.some(e=>e.final&&toMin(e.final)>=1020);
 });
 
-/* ====================== ALERTAS ====================== */
-function genAlerts(v){
-  const A=[]; // {sev:2|1, cat, txt}
-  // visitas
-  if(v.visitas===0){
-    if(v.fullDayEvt) A.push({sev:1,cat:'Visitas',txt:`Nenhuma visita hoje, mas há justificativa de dia inteiro (${v.eventos.map(e=>e.tipo).join(', ')}).`});
-    else A.push({sev:2,cat:'Visitas',txt:`Nenhuma visita registrada e sem justificativa de evento.`});
-  } else if(v.visitas<META.visitas){
-    const just=v.medicalEvt||v.eventos.some(e=>/reuniao|viagem|manuten/i.test(e.tipo))||v.eventos.some(e=>/prospec/i.test(e.obs));
-    A.push({sev:just?1:2,cat:'Visitas',txt:`Apenas ${v.visitas} visita(s) — meta é ${META.visitas}.`+(just?' (parcialmente justificado por evento).':' Sem justificativa que explique o déficit.')});
-  }
-  // pedidos
-  if(v.visitas>0 && v.orders<META.pedidos){
-    let sev=1;
-    if(v.orders===0 && v.visitas>=4) sev=2;
-    A.push({sev,cat:'Pedidos',txt:`${v.orders} pedido(s) em ${v.visitas} visita(s) — meta é ${META.pedidos}.`+(v.perc>=80?` ${v.perc}% das visitas não geraram pedido.`:'')});
-  }
-  // jornada início
-  if(v.firstAct!=null && v.firstAct>META.inicio){
+/* ====================== MOTOR DE ALERTAS (por vendedor) ====================== */
+function buildIssues(v){
+  const inicio=[],fim=[],agenda=[];
+  // agenda: eventos avisados que afetam o dia
+  v.eventos.forEach(e=>{ const lab=agendaLabel(e); if(lab){ const per=(e.inicio?e.inicio+'–'+(e.final||''):''); const det=(e.obs&&e.obs!=='.'?e.obs+' ':'')+(per?'('+per+', '+hStr(durMin(e.tempo))+')':''); agenda.push({sev:0,cat:lab,txt:det.trim()||'o dia'}); } });
+  // qual a 1ª atividade do dia
+  let fa=null;
+  v.eventos.forEach(e=>{ if(e.inicio&&toMin(e.inicio)===v.firstAct) fa={ev:e}; });
+  const startExcused = fa && agendaLabel(fa.ev);
+  // COMEÇO: atraso
+  if(v.firstAct!=null && v.firstAct>META.inicio+META.tol && !startExcused){
     const late=v.firstAct-META.inicio;
-    if(v.hasEarlyEvt) {/* justificado */}
-    else if(late>=60) A.push({sev:2,cat:'Jornada',txt:`Começou às ${mmToStr(v.firstAct)} — ${late} min após as 08:00, sem evento que justifique.`});
-    else if(late>=15) A.push({sev:1,cat:'Jornada',txt:`Começou às ${mmToStr(v.firstAct)} — ${late} min após o horário (08:00).`});
+    const oQue = fa?(' (primeira marcação: '+fa.ev.obs+')'):'';
+    inicio.push({sev:late>60?2:1,cat:'Atraso',txt:`Começou às ${mmToStr(v.firstAct)}, ${late} min depois do horário de início${oQue}.`});
   }
-  // jornada fim
-  if(v.lastAct!=null && v.lastAct<META.fim && !v.hasLateEvt && !v.fullDayEvt){
-    const early=META.fim-v.lastAct;
-    if(early>=120) A.push({sev:2,cat:'Jornada',txt:`Última atividade às ${mmToStr(v.lastAct)} — encerrou ${hStr(early)} antes das 17:48, sem evento que justifique.`});
-    else if(early>=45) A.push({sev:1,cat:'Jornada',txt:`Encerrou às ${mmToStr(v.lastAct)} — antes das 17:48.`});
+  // FIM: encerramento cedo / tarde
+  if(v.lastAct!=null){
+    if(v.lastAct<META.fim && !v.hasLateEvt && !v.fullDayEvt){
+      const early=META.fim-v.lastAct;
+      if(early>=45) fim.push({sev:early>=120?2:1,cat:'Encerramento',txt:`Última atividade às ${mmToStr(v.lastAct)}, encerrou ${hStr(early)} antes do fim do expediente.`});
+    }
+    if(v.lastAct>META.fimTarde) fim.push({sev:1,cat:'Encerramento',txt:`Última atividade às ${mmToStr(v.lastAct)}, bem depois do fim previsto — verificar o motivo.`});
   }
-  // almoço
-  if(v.lunch>75) A.push({sev:1,cat:'Almoço',txt:`Almoço de ${Math.round(v.lunch)} min — acima de 1h.`});
-  // anomalia: muito tempo no cliente sem pedido (ignora motivos legítimos: merchandising, levantamento, cotação, estocado, prospecção)
-  v.checkins.forEach(c=>{
-    const sp=v.semL.find(s=>s.razao===c.razao); if(!sp) return;
-    const d=durMin(c.dur), legit=/merchandis|levant|cota|estoc|prospec/i.test(sp.obs);
-    if(d>=90 && !legit){ const motivo=(sp.obs&&sp.obs!=='.')?' ('+sp.obs+')':''; A.push({sev:d>=150?2:1,cat:'Suspeito',txt:`Ficou ${c.dur.slice(0,5)} no cliente "${c.razao}" e NÃO tirou pedido${motivo}.`}); }
-  });
-  return A;
+  // FIM: visitas abaixo da meta
+  if(v.visitas===0){
+    if(!v.fullDayEvt) fim.push({sev:2,cat:'Visitas',txt:`Não registrou nenhuma visita e não há evento que justifique.`});
+  } else if(v.visitas<META.visitas){
+    const just=v.eventos.some(e=>/reuniao|viagem|manuten/i.test(e.tipo))||v.eventos.some(e=>/prospec|exame|consulta|medic|acompanh/i.test(e.obs+e.tipo));
+    fim.push({sev:just?1:2,cat:'Visitas',txt:`Fez ${v.visitas} visitas — abaixo da meta de ${META.visitas}.`+(just?'':' Sem evento que explique o déficit.')});
+  }
+  // FIM: pedidos abaixo da meta
+  if(v.visitas>0){
+    if(v.orders===0) fim.push({sev:2,cat:'Pedidos',txt:`Não enviou nenhum pedido em ${v.visitas} visitas — todas sem pedido.`});
+    else if(v.orders<META.pedidos) fim.push({sev:1,cat:'Pedidos',txt:`Enviou ${v.orders} ${v.orders===1?'pedido':'pedidos'} — abaixo da meta de ${META.pedidos}.${v.perc>0?' '+Math.round(v.perc)+'% das visitas não geraram pedido.':''}`});
+  }
+  // FIM: almoço longo
+  if(v.lunch>75) fim.push({sev:1,cat:'Almoço',txt:`Almoço de ${Math.round(v.lunch)} minutos — acima de 1 hora.`});
+  return {inicio,fim,agenda};
 }
-VEND.forEach(v=>{ v.alerts=genAlerts(v); v.sevMax=v.alerts.reduce((m,a)=>Math.max(m,a.sev),0);
-  // score: 0 ok,1 warn,2 bad
-  v.score = v.sevMax;
+function buildSuspeitos(v){
+  const out=[];
+  v.checkins.forEach(c=>{ const sp=v.semL.find(s=>s.razao===c.razao); if(!sp)return; const d=durMin(c.dur),legit=/merchandis|levant|cota|estoc|prospec/i.test(sp.obs);
+    if(d>=90&&!legit){ const m=(sp.obs&&sp.obs!=='.')?' ('+sp.obs+')':''; out.push({sev:d>=150?2:1,cat:'Tempo no cliente',txt:`Ficou ${c.dur.slice(0,5)} em "${c.razao}" e não tirou pedido${m}.`}); } });
+  if(v.visitas>=4&&v.orders===0) out.push({sev:2,cat:'Dia sem pedido',txt:`${v.visitas} visitas e nenhum pedido no dia inteiro.`});
+  v.checkins.forEach(c=>{ if(c.km>=18&&durMin(c.dur)<=18) out.push({sev:1,cat:'Deslocamento',txt:`Rodou ${c.km} km para uma visita de só ${c.dur.slice(0,5)} em "${c.razao}".`}); });
+  const g={}; v.checkins.forEach(c=>{ const k=firstWord(c.razao); (g[k]=g[k]||[]).push(c); });
+  Object.values(g).forEach(arr=>{ if(arr.length>=2) out.push({sev:1,cat:'Visita repetida',txt:`Visitou ${arr.length}x o mesmo grupo "${arr[0].razao}" no mesmo dia.`}); });
+  return out;
+}
+VEND.forEach(v=>{
+  const I=buildIssues(v); v.inicio=I.inicio; v.fim=I.fim; v.agenda=I.agenda;
+  v.suspeitos=buildSuspeitos(v);
+  const cob=[...I.inicio,...I.fim];
+  v.errCount=cob.length+v.suspeitos.length;
+  v.cardSev=Math.max(0,...cob.map(a=>a.sev));
+  v.lateStart=I.inicio.some(a=>a.cat==='Atraso');
+  v.earlyEnd=I.fim.some(a=>a.cat==='Encerramento'&&/antes/.test(a.txt));
+  // pontuação de desempenho (para destaques)
+  v.perfScore = v.orders*3 + v.visitas - v.semPed*2 - v.errCount*2 - v.suspeitos.length
+              - (v.lateStart?2:0) - (v.earlyEnd?2:0);
 });
 
-/* ====================== STATUS CHIP ====================== */
+/* ====================== SITUAÇÃO (chip) ====================== */
 function chip(v){
-  if(v.score>=2) return '<span class="chip c-bad">🔴 Fora</span>';
-  if(v.score===1) return '<span class="chip c-warn">🟠 Atenção</span>';
-  return '<span class="chip c-ok">🟢 OK</span>';
+  if(v.cardSev>=2) return '<span class="chip c-bad">Cobrar</span>';
+  if(v.cardSev===1) return '<span class="chip c-warn">Atenção</span>';
+  return '<span class="chip c-ok">Em dia</span>';
 }
 
-/* ====================== RENDER: ALERTAS (críticos) ====================== */
-function renderAlerts(){
-  const crit=[];
-  VEND.forEach(v=>{ v.alerts.filter(a=>a.sev>=1).forEach(a=>crit.push({v,a})); });
-  crit.sort((x,y)=>y.a.sev-x.a.sev);
-  const top=crit.filter(c=>c.a.sev===2).concat(crit.filter(c=>c.a.sev===1));
-  document.getElementById('albadge').textContent=top.length;
-  document.querySelector('#hcount span').textContent=top.filter(c=>c.a.sev===2).length+' críticos';
-  const el=document.getElementById('alertList');
-  if(!top.length){ el.innerHTML='<div class="ai" style="border-left-color:var(--green)"><span class="em">✅</span><div class="txt">Nenhum desvio relevante hoje.</div></div>'; return; }
-  el.innerHTML=top.map(c=>{
-    const em=c.a.sev===2?'🔴':'🟠';
-    return `<div class="ai sev-${c.a.sev}"><span class="em">${em}</span><div><span class="who">${c.v.nome}</span><span class="tag">${c.v.setor} · ${c.v.regional}</span><span class="tag">${c.a.cat}</span><div class="txt">${c.a.txt}</div></div></div>`;
-  }).join('');
-}
-
-/* ====================== RENDER: KPIs ====================== */
-function renderKpis(){
-  const ov=VEND;
-  const tVis=ov.reduce((a,v)=>a+v.visitas,0);
-  const tPed=ov.reduce((a,v)=>a+v.orders,0);
-  const tKm=ov.reduce((a,v)=>a+v.km,0);
-  const ativos=ov.filter(v=>v.visitas>0).length;
-  const semPedTot=ov.reduce((a,v)=>a+v.semPed,0);
-  const percGlobal=tVis?Math.round(semPedTot/tVis*100):0;
-  const okVis=ov.filter(v=>v.visitas>=META.visitas).length;
-  const okPed=ov.filter(v=>v.orders>=META.pedidos).length;
-  const crit=ov.filter(v=>v.score>=2).length;
-  const K=[
-   {v:tVis,l:'Visitas no dia',b:'👣',cls:''},
-   {v:tPed,l:'Pedidos (proxy)',b:'🧾',cls:''},
-   {v:tKm.toFixed(0)+' km',l:'Km rodado total',b:'🚗',cls:''},
-   {v:ativos+'/'+ov.length,l:'Vendedores em campo',b:'🧑‍💼',cls:ativos<ov.length?'warn':'good'},
-   {v:percGlobal+'%',l:'Visitas sem pedido',b:'❌',cls:percGlobal>=40?'bad':(percGlobal>=25?'warn':'good')},
-   {v:okVis+'/'+ov.length,l:'Bateram 5 visitas',b:'🎯',cls:okVis<ov.length/2?'bad':'warn'},
-   {v:okPed+'/'+ov.length,l:'Bateram 4 pedidos',b:'✅',cls:okPed<ov.length/2?'bad':'warn'},
-   {v:crit,l:'Vendedores críticos',b:'🚨',cls:crit?'bad':'good'}
-  ];
-  document.getElementById('kpis').innerHTML=K.map(k=>`<div class="kpi ${k.cls}"><div class="b">${k.b}</div><div class="v">${k.v}</div><div class="l">${k.l}</div></div>`).join('');
-}
-
-/* ====================== RENDER: RESUMO DIÁRIO ====================== */
-function renderDia(){
-  const ov=VEND;
-  const tVis=ov.reduce((a,v)=>a+v.visitas,0), tPed=ov.reduce((a,v)=>a+v.orders,0),
-        tKm=ov.reduce((a,v)=>a+v.km,0), tTv=ov.reduce((a,v)=>a+v.tvMin,0),
-        tSpan=ov.filter(v=>v.span!=null).reduce((a,v)=>a+v.span,0);
-  let h=`<div class="grid2">
-    <div class="card"><h3>📋 Como foi o dia 01/06</h3>
-    <p class="small" style="line-height:1.6">A equipe de <b>${ov.length} vendedores</b> registrou <b>${tVis} visitas</b>, gerando <b>${tPed} pedidos</b> (proxy). Rodaram <b>${tKm.toFixed(0)} km</b> no total e somaram <b>${hStr(tTv)}</b> efetivos dentro de clientes. A jornada média em campo (do 1º ao último ponto) foi de <b>${hStr(Math.round(tSpan/ov.filter(v=>v.span!=null).length))}</b>.</p>
-    <p class="small" style="line-height:1.6">Pontos de atenção do dia: <b>${ov.filter(v=>v.visitas<META.visitas).length}</b> não bateram 5 visitas e <b>${ov.filter(v=>v.orders<META.pedidos).length}</b> não bateram 4 pedidos.</p>
-    </div>
-    <div class="card"><h3>🏆 Destaques x ⚠️ Cobrança</h3>`;
-  const byVis=[...ov].sort((a,b)=>b.visitas-a.visitas);
-  const byPed=[...ov].sort((a,b)=>b.orders-a.orders);
-  const byKm=[...ov].sort((a,b)=>b.km-a.km);
-  h+=`<p class="small">🥇 <b>Mais visitas:</b> ${byVis[0].nome} (${byVis[0].visitas}) · ${byVis[1].nome} (${byVis[1].visitas})</p>`;
-  h+=`<p class="small">🧾 <b>Mais pedidos:</b> ${byPed[0].nome} (${byPed[0].orders}) · ${byPed[1].nome} (${byPed[1].orders})</p>`;
-  h+=`<p class="small">🚗 <b>Mais km:</b> ${byKm[0].nome} (${byKm[0].km.toFixed(0)} km)</p>`;
-  const piores=ov.filter(v=>v.score>=2).map(v=>v.nome);
-  h+=`<p class="small">🔴 <b>Cobrança imediata:</b> ${piores.length?piores.join(', '):'ninguém crítico'}</p>`;
-  h+=`</div></div>`;
-  document.getElementById('pane-dia').innerHTML=h;
-}
-
-/* ====================== RENDER: SEMANA / MÊS ====================== */
-function periodSummary(label){
-  const ov=VEND;
-  const tVis=ov.reduce((a,v)=>a+v.visitas,0), tPed=ov.reduce((a,v)=>a+v.orders,0), tKm=ov.reduce((a,v)=>a+v.km,0), tTv=ov.reduce((a,v)=>a+v.tvMin,0);
-  let h=`<div class="kpis">
-    <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas acumuladas (${label})</div></div>
-    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos acumulados</div></div>
-    <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)} km</div><div class="l">Km acumulado</div></div>
-    <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div>
+/* ====================== DESTAQUES ====================== */
+function renderDestaques(){
+  const worked=VEND.filter(v=>v.visitas>0);
+  const best=[...worked].sort((a,b)=>b.perfScore-a.perfScore)[0];
+  const worst=[...worked].sort((a,b)=>a.perfScore-b.perfScore)[0];
+  // motivos
+  const bWhy=[];
+  bWhy.push(`<b>${best.visitas} visitas</b> e <b>${best.orders} pedidos</b>`);
+  if(!best.lateStart) bWhy.push('começou no horário');
+  if(!best.earlyEnd) bWhy.push('cumpriu a jornada');
+  if(best.perc!=null) bWhy.push(`só ${Math.round(best.perc)}% das visitas sem pedido`);
+  const bWhyTxt = bWhy.join(', ').replace(/,([^,]*)$/,' e$1')+'.';
+  const wWhy=[];
+  const wPed=worst.fim.find(a=>a.cat==='Pedidos'); if(wPed) wWhy.push(wPed.txt);
+  const wVis=worst.fim.find(a=>a.cat==='Visitas'); if(wVis) wWhy.push(wVis.txt);
+  const wSus=worst.suspeitos[0]; if(wSus) wWhy.push(wSus.txt);
+  if(worst.lateStart) wWhy.push(worst.inicio.find(a=>a.cat==='Atraso').txt);
+  if(!wWhy.length) wWhy.push(`${worst.visitas} visitas, ${worst.orders} pedidos.`);
+  document.getElementById('destaques').innerHTML=`
+   <div class="dcard best"><span class="em">🥇</span>
+     <div class="dl">Melhor desempenho</div><div class="dn">${best.nome}</div>
+     <div class="dsub">${best.setor} · ${best.regional}</div>
+     <div class="dwhy">${bWhyTxt}</div>
+     <div class="dmeta"><div>👣 ${best.visitas} visitas</div><div>🧾 ${best.orders} pedidos</div><div>🚗 ${best.km.toFixed(0)} km</div></div>
    </div>
-   <div class="card" style="margin-top:14px"><h3>Acumulado por vendedor (${label})</h3><div class="tablewrap"><table><thead><tr><th>Vendedor</th><th>Regional</th><th>Visitas</th><th>Pedidos</th><th>Km</th><th>Tempo visita</th></tr></thead><tbody>`;
-  [...ov].sort((a,b)=>b.visitas-a.visitas).forEach(v=>{ h+=`<tr><td>${v.nome}</td><td>${v.regional}</td><td class="num">${v.visitas}</td><td class="num">${v.orders}</td><td class="num">${v.km.toFixed(1)}</td><td class="num">${hStr(v.tvMin)}</td></tr>`; });
-  h+=`</tbody></table></div></div>`;
-  return h;
+   <div class="dcard worst"><span class="em">⚠️</span>
+     <div class="dl">Precisa de cobrança</div><div class="dn">${worst.nome}</div>
+     <div class="dsub">${worst.setor} · ${worst.regional}</div>
+     <div class="dwhy">${wWhy.slice(0,3).join(' ')}</div>
+     <div class="dmeta"><div>👣 ${worst.visitas} visitas</div><div>🧾 ${worst.orders} pedidos</div><div>🚩 ${worst.errCount} pontos de atenção</div></div>
+   </div>`;
 }
-function renderSem(){ document.getElementById('sem-body').innerHTML=periodSummary('semana atual'); }
-function renderMes(){ document.getElementById('mes-body').innerHTML=periodSummary('junho')+
-  `<div class="card" style="margin-top:14px"><h3>Tendência de maio (totais gerais)</h3>${lineChart()}</div>`; }
 
-/* ====================== RENDER: RANKING ====================== */
-let sortK='score',sortDir=-1;
-function renderRank(){
+/* ====================== INFORMAÇÕES IMPORTANTES ====================== */
+function liList(arr){ return arr.map(a=>`<li class="s${a.sev}"><span class="ct">${a.cat}:</span> ${a.txt}</li>`).join(''); }
+function renderImportant(){
+  const list=VEND.filter(v=>v.cardSev>=1||v.agenda.length>0)
+    .sort((a,b)=> b.cardSev-a.cardSev || b.errCount-a.errCount);
+  document.getElementById('badgeImp').textContent=VEND.filter(v=>v.cardSev>=1).length+' p/ cobrar';
+  document.getElementById('impList').innerHTML=list.map(v=>{
+    let body='';
+    if(v.agenda.length) body+=`<div class="grp">Agenda do dia</div><ul>${liList(v.agenda)}</ul>`;
+    if(v.inicio.length) body+=`<div class="grp">Começo do dia</div><ul>${liList(v.inicio)}</ul>`;
+    if(v.fim.length) body+=`<div class="grp">Fim do dia</div><ul>${liList(v.fim)}</ul>`;
+    const cntCls=v.cardSev; const cntTxt=v.errCount>0?`${v.errCount} ${v.errCount===1?'ponto':'pontos'}`:'Agenda';
+    return `<div class="pcard sev-${v.cardSev}"><div class="ph"><span class="pn">${v.nome}</span><span class="tag">${v.setor} · ${v.regional}</span><span class="cnt">${cntTxt}</span></div>${body}</div>`;
+  }).join('') || '<div class="okbox">✅ Nenhuma cobrança hoje. Equipe dentro da rotina esperada.</div>';
+}
+
+/* ====================== PADRÕES SUSPEITOS ====================== */
+function renderSuspeitos(){
+  const list=VEND.filter(v=>v.suspeitos.length>0)
+    .sort((a,b)=>Math.max(0,...b.suspeitos.map(s=>s.sev))-Math.max(0,...a.suspeitos.map(s=>s.sev))||b.suspeitos.length-a.suspeitos.length);
+  document.getElementById('badgeSus').textContent=list.length+' vendedores';
+  document.getElementById('susList').innerHTML=list.map(v=>{
+    const sev=Math.max(0,...v.suspeitos.map(s=>s.sev));
+    return `<div class="pcard sev-${sev}"><div class="ph"><span class="pn">${v.nome}</span><span class="tag">${v.setor} · ${v.regional}</span><span class="cnt">${v.suspeitos.length}</span></div><ul>${liList(v.suspeitos)}</ul></div>`;
+  }).join('') || '<div class="okbox">✅ Nenhum padrão suspeito detectado hoje.</div>';
+}
+
+/* ====================== RESUMO DO TRABALHO ====================== */
+let sortK='nome',sortDir=1;
+function renderResumo(){
   const reg=document.getElementById('fReg').value;
   const nm=norm(document.getElementById('fName').value);
   let rows=VEND.filter(v=>(!reg||v.regional===reg)&&(!nm||norm(v.nome).includes(nm)));
-  rows.sort((a,b)=>{ let x=a[sortK],y=b[sortK]; if(x==null)x=-1; if(y==null)y=-1;
-    if(typeof x==='string') return sortDir*x.localeCompare(y); return sortDir*(x-y); });
-  const tb=document.querySelector('#rankTable tbody');
-  tb.innerHTML=rows.map(v=>{
+  rows.sort((a,b)=>{ let x=a[sortK],y=b[sortK]; if(x==null)x=-1; if(y==null)y=-1; if(typeof x==='string')return sortDir*x.localeCompare(y); return sortDir*(x-y); });
+  document.querySelector('#resTable tbody').innerHTML=rows.map(v=>{
     const vC=v.visitas>=META.visitas?'c-ok':(v.visitas>0?'c-warn':'c-bad');
     const pC=v.orders>=META.pedidos?'c-ok':(v.orders>0?'c-warn':'c-bad');
-    const perc=v.perc==null?'—':v.perc+'%';
+    const perc=v.perc==null?'—':Math.round(v.perc)+'%';
     const pcC=v.perc==null?'':(v.perc>=80?'c-bad':(v.perc>=40?'c-warn':''));
-    return `<tr onclick="openVend('${v.nome}')">
-      <td><b>${v.nome}</b></td><td class="small">${v.setor}</td><td class="small">${v.regional}</td>
-      <td><span class="chip ${vC}">${v.visitas}</span></td>
-      <td><span class="chip ${pC}">${v.orders}</span></td>
-      <td class="num">${v.km.toFixed(1)}</td>
-      <td>${pcC?`<span class="chip ${pcC}">${perc}</span>`:perc}</td>
-      <td class="num">${mmToStr(v.firstAct)}</td><td class="num">${mmToStr(v.lastAct)}</td>
-      <td class="num">${hStr(v.tvMin)}</td><td>${chip(v)}</td></tr>`;
+    return `<tr onclick="openVend('${v.nome}')"><td><b>${v.nome}</b></td><td class="small">${v.setor}</td><td class="small">${v.regional}</td>
+      <td><span class="chip ${vC}">${v.visitas}</span></td><td><span class="chip ${pC}">${v.orders}</span></td>
+      <td class="num">${v.km.toFixed(1)}</td><td>${pcC?`<span class="chip ${pcC}">${perc}</span>`:perc}</td>
+      <td class="num">${mmToStr(v.firstAct)}</td><td class="num">${mmToStr(v.lastAct)}</td><td class="num">${hStr(v.tvMin)}</td><td>${chip(v)}</td></tr>`;
   }).join('');
 }
-document.querySelectorAll('#rankTable th').forEach(th=>th.onclick=()=>{ const k=th.dataset.k; if(sortK===k)sortDir*=-1; else{sortK=k;sortDir=(k==='nome'||k==='setor'||k==='regional')?1:-1;} renderRank(); });
+document.querySelectorAll('#resTable th').forEach(th=>th.onclick=()=>{ const k=th.dataset.k; if(sortK===k)sortDir*=-1; else{sortK=k;sortDir=(k==='nome'||k==='setor'||k==='regional')?1:-1;} renderResumo(); });
 
-/* ====================== CHARTS (CSS/SVG) ====================== */
-function barChart(items,meta,fmt){ // items:[{label,val,cls}]
+/* ====================== RESUMO POR PERÍODO ====================== */
+function statKpis(){
+  const tVis=VEND.reduce((a,v)=>a+v.visitas,0),tPed=VEND.reduce((a,v)=>a+v.orders,0),
+        tKm=VEND.reduce((a,v)=>a+v.km,0),tTv=VEND.reduce((a,v)=>a+v.tvMin,0),
+        spans=VEND.filter(v=>v.span!=null),jorMed=spans.length?spans.reduce((a,v)=>a+v.span,0)/spans.length:0;
+  return `<div class="kpis">
+    <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
+    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
+    <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)}</div><div class="l">Km rodados</div></div>
+    <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div>
+    <div class="kpi"><div class="b">🕒</div><div class="v">${hStr(jorMed)}</div><div class="l">Jornada média em campo</div></div>
+   </div>`;
+}
+function vendBars(){
+  const max=Math.max(...VEND.map(v=>v.visitas))||1;
+  const rows=[...VEND].sort((a,b)=>b.visitas-a.visitas).map(v=>{
+    const w=Math.max(2,v.visitas/max*100);
+    const cls=v.visitas>=META.visitas?'b-ok':(v.visitas>0?'b-warn':'b-bad');
+    return `<div class="barrow"><span class="small">${v.nome}</span><div class="bartrack"><div class="bar ${cls}" style="width:${w}%"></div></div><span class="num">${v.visitas}v · ${v.orders}p</span></div>`;
+  }).join('');
+  return `<div class="card"><h3>Visitas e pedidos por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>${rows}</div>`;
+}
+function renderDia(){ document.getElementById('pane-dia').innerHTML=statKpis()+'<div style="height:14px"></div>'+vendBars(); }
+function renderSem(){ document.getElementById('pane-sem').innerHTML=`<div class="note">📌 Hoje é o 1º dia útil de junho, então a semana começa com os números de 01/06. A cada nova captura diária, os totais somam automaticamente.</div>`+statKpis()+'<div style="height:14px"></div>'+vendBars(); }
+function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">📌 Junho em andamento, acumulando a partir de 01/06. Abaixo, o acumulado atual e, no gráfico, a evolução de maio para comparação.</div>`+statKpis()+`<div style="height:14px"></div><div class="card"><h3>Evolução de maio</h3><div class="cap">Total diário de visitas e de clientes sem pedido</div>${lineChart()}</div>`; }
+
+/* ====================== GRÁFICOS ====================== */
+function barChart(items,meta,fmt){
   const max=Math.max(meta||0,...items.map(i=>i.val))*1.08||1;
-  return items.map(i=>{
-    const w=Math.max(2,i.val/max*100);
-    const metaPos=meta?(meta/max*100):null;
-    return `<div class="barrow"><span class="small">${i.label}</span>
-      <div class="bartrack"><div class="bar ${i.cls}" style="width:${w}%"></div>${meta?`<div class="metaline" style="left:${metaPos}%"></div>`:''}</div>
-      <span class="num">${fmt?fmt(i.val):i.val}</span></div>`;
+  return items.map(i=>{ const w=Math.max(2,i.val/max*100),mp=meta?(meta/max*100):null;
+    return `<div class="barrow"><span class="small">${i.label}</span><div class="bartrack"><div class="bar ${i.cls}" style="width:${w}%"></div>${meta?`<div class="metaline" style="left:${mp}%"></div>`:''}</div><span class="num">${fmt?fmt(i.val):i.val}</span></div>`;
   }).join('');
 }
 function renderCharts(){
-  const ov=[...VEND].filter(v=>v.visitas>0||v.km>0);
-  document.getElementById('chartVis').innerHTML=barChart(
-    [...VEND].sort((a,b)=>b.visitas-a.visitas).map(v=>({label:v.nome,val:v.visitas,cls:v.visitas>=5?'b-ok':(v.visitas>0?'b-warn':'b-bad')})),5);
-  document.getElementById('chartPed').innerHTML=barChart(
-    [...VEND].sort((a,b)=>b.orders-a.orders).map(v=>({label:v.nome,val:v.orders,cls:v.orders>=4?'b-ok':(v.orders>0?'b-warn':'b-bad')})),4);
-  document.getElementById('chartKm').innerHTML=barChart(
-    [...VEND].sort((a,b)=>b.km-a.km).map(v=>({label:v.nome,val:+v.km.toFixed(1),cls:'b-ok'})),null,x=>x.toFixed(1));
-  document.getElementById('chartDonut').innerHTML=donutSemPedido();
+  document.getElementById('chartVis').innerHTML=barChart([...VEND].sort((a,b)=>b.visitas-a.visitas).map(v=>({label:v.nome,val:v.visitas,cls:v.visitas>=5?'b-ok':(v.visitas>0?'b-warn':'b-bad')})),5);
+  document.getElementById('chartPed').innerHTML=barChart([...VEND].sort((a,b)=>b.orders-a.orders).map(v=>({label:v.nome,val:v.orders,cls:v.orders>=4?'b-ok':(v.orders>0?'b-warn':'b-bad')})),4);
+  document.getElementById('chartKm').innerHTML=barChart([...VEND].sort((a,b)=>b.km-a.km).map(v=>({label:v.nome,val:+v.km.toFixed(1),cls:'b-ok'})),null,x=>x.toFixed(1));
+  document.getElementById('chartDonut').innerHTML=donut();
   document.getElementById('chartLine').innerHTML=lineChart();
 }
-function donutSemPedido(){
-  const cats={'Ausente/não atendeu':0,'Estocado':0,'Cotação':0,'Prospecção':0,'Merchandising/Levant.':0,'Outro':0};
+function donut(){
+  const cats={'Cliente ausente':0,'Estocado':0,'Cotação':0,'Prospecção':0,'Merchandising':0,'Outro':0};
   SEMPED.forEach(s=>{ const o=norm(s.obs);
-    if(/ausente|nao atendeu|nao me atendeu/.test(o))cats['Ausente/não atendeu']++;
-    else if(/estoc/.test(o))cats['Estocado']++;
-    else if(/cota/.test(o))cats['Cotação']++;
-    else if(/prospec/.test(o))cats['Prospecção']++;
-    else if(/merchan|levant/.test(o))cats['Merchandising/Levant.']++;
-    else cats['Outro']++; });
+    if(/ausente|nao atendeu|nao me atendeu/.test(o))cats['Cliente ausente']++;
+    else if(/estoc/.test(o))cats['Estocado']++; else if(/cota/.test(o))cats['Cotação']++;
+    else if(/prospec/.test(o))cats['Prospecção']++; else if(/merchan|levant/.test(o))cats['Merchandising']++; else cats['Outro']++; });
   const colors=['#e2354a','#e08800','#4348e8','#0aa674','#9b59b6','#7f8c9b'];
-  const total=Object.values(cats).reduce((a,b)=>a+b,0)||1;
-  let acc=0,seg=[];
-  Object.entries(cats).forEach(([k,val],i)=>{ if(!val)return; const start=acc/total*360; acc+=val; const end=acc/total*360; seg.push(`${colors[i]} ${start}deg ${end}deg`); });
+  const total=Object.values(cats).reduce((a,b)=>a+b,0)||1; let acc=0,seg=[];
+  Object.values(cats).forEach((val,i)=>{ if(!val)return; const st=acc/total*360; acc+=val; seg.push(`${colors[i]} ${st}deg ${acc/total*360}deg`); });
   const leg=Object.entries(cats).map(([k,val],i)=>val?`<div class="li"><span class="dot" style="background:${colors[i]}"></span>${k} <b>(${val})</b></div>`:'').join('');
   return `<div class="donutwrap"><div class="donut" style="background:conic-gradient(${seg.join(',')})"></div><div class="legend">${leg}<div class="small" style="margin-top:6px">Total: ${total} visitas sem pedido</div></div></div>`;
 }
 function lineChart(){
-  const W=720,H=220,pad=34;
-  const maxV=Math.max(...HIST.map(d=>d[1]));
-  const xs=i=>pad+i*(W-2*pad)/(HIST.length-1);
-  const ys=v=>H-pad-(v/maxV)*(H-2*pad);
-  const pl=(idx,col)=>HIST.map((d,i)=>`${xs(i).toFixed(0)},${ys(d[idx]).toFixed(0)}`).join(' ');
+  const W=720,H=220,pad=34,maxV=Math.max(...HIST.map(d=>d[1]));
+  const xs=i=>pad+i*(W-2*pad)/(HIST.length-1), ys=v=>H-pad-(v/maxV)*(H-2*pad);
+  const pl=idx=>HIST.map((d,i)=>`${xs(i).toFixed(0)},${ys(d[idx]).toFixed(0)}`).join(' ');
   const dots=(idx,col)=>HIST.map((d,i)=>`<circle cx="${xs(i).toFixed(0)}" cy="${ys(d[idx]).toFixed(0)}" r="2.5" fill="${col}"/>`).join('');
   const lbls=HIST.map((d,i)=>(i%2===0||i===HIST.length-1)?`<text x="${xs(i)}" y="${H-10}" font-size="9" text-anchor="middle" fill="var(--muted)">${d[0]}</text>`:'').join('');
   return `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto">
     <polyline fill="none" stroke="var(--brand2)" stroke-width="2.5" points="${pl(1)}"/>${dots(1,'var(--brand2)')}
     <polyline fill="none" stroke="var(--red)" stroke-width="2" stroke-dasharray="4 3" points="${pl(2)}"/>${dots(2,'var(--red)')}
-    ${lbls}
-    <text x="${pad}" y="16" font-size="11" fill="var(--brand2)">● Visitas/dia</text>
-    <text x="${pad+110}" y="16" font-size="11" fill="var(--red)">● Sem pedido/dia</text>
-  </svg>`;
-}
-
-/* ====================== ANOMALIAS ====================== */
-function renderAnom(){
-  const out=[];
-  // 1) muito tempo no cliente sem pedido
-  VEND.forEach(v=>v.checkins.forEach(c=>{
-    if(v.semL.some(s=>s.razao===c.razao) && durMin(c.dur)>=80)
-      out.push({sev:2,who:v.nome,tag:v.setor,txt:`Ficou <b>${c.dur.slice(0,5)}</b> em "${c.razao}" e saiu <b>sem pedido</b>. Tempo alto sem resultado.`});
-  }));
-  // 2) dia de visitas sem nenhum pedido
-  VEND.forEach(v=>{ if(v.visitas>=4 && v.orders===0)
-    out.push({sev:2,who:v.nome,tag:v.setor,txt:`<b>${v.visitas} visitas</b> e <b>0 pedidos</b> no dia (100% sem pedido) — padrão de "visita sem fechamento".`}); });
-  // 3) muito km para visita relâmpago
-  VEND.forEach(v=>v.checkins.forEach(c=>{
-    if(c.km>=18 && durMin(c.dur)<=18)
-      out.push({sev:1,who:v.nome,tag:v.setor,txt:`Deslocou <b>${c.km} km</b> para uma visita de só <b>${c.dur.slice(0,5)}</b> em "${c.razao}".`});
-  }));
-  // 4) visitas repetidas ao mesmo grupo no mesmo dia
-  VEND.forEach(v=>{ const g={};
-    v.checkins.forEach(c=>{ const k=firstWord(c.razao); g[k]=g[k]||[]; g[k].push(c); });
-    Object.entries(g).forEach(([k,arr])=>{ if(arr.length>=2)
-      out.push({sev:1,who:v.nome,tag:v.setor,txt:`Visitou <b>${arr.length}x</b> o mesmo grupo "${arr[0].razao}" (e similares) hoje — confira se não é inflar visita.`}); });
-  });
-  out.sort((a,b)=>b.sev-a.sev);
-  const el=document.getElementById('anomList');
-  el.innerHTML=out.length?out.map(a=>`<div class="ai sev-${a.sev}"><span class="em">${a.sev===2?'🔴':'🟡'}</span><div><span class="who">${a.who}</span><span class="tag">${a.tag}</span><div class="txt">${a.txt}</div></div></div>`).join(''):'<div class="ai" style="border-left-color:var(--green)"><span class="em">✅</span><div class="txt">Nenhum padrão suspeito detectado.</div></div>';
+    ${lbls}<text x="${pad}" y="16" font-size="11" fill="var(--brand2)">● Visitas/dia</text><text x="${pad+110}" y="16" font-size="11" fill="var(--red)">● Sem pedido/dia</text></svg>`;
 }
 
 /* ====================== EVENTOS ====================== */
 function renderEvt(){
-  const tb=document.querySelector('#evtTable tbody');
-  tb.innerHTML=[...EVENTOS].sort((a,b)=>a.nome.localeCompare(b.nome)).map(e=>
+  document.querySelector('#evtTable tbody').innerHTML=[...EVENTOS].sort((a,b)=>a.nome.localeCompare(b.nome)).map(e=>
     `<tr><td><b>${e.nome}</b></td><td>${e.tipo}</td><td class="small">${e.obs}</td><td class="num">${e.inicio||'—'}</td><td class="num">${e.final||'—'}</td><td class="num">${e.tempo.slice(0,5)}</td></tr>`).join('');
 }
 
 /* ====================== DRILLDOWN ====================== */
 function openVend(nome){
   const v=VEND.find(x=>x.nome===nome); if(!v)return;
-  // timeline mesclando checkins + eventos
   const items=[];
   v.checkins.forEach(c=>items.push({t:toMin(c.in),tipo:'visita',c}));
   v.eventos.forEach(e=>{ if(e.inicio)items.push({t:toMin(e.inicio),tipo:'evento',e}); });
   items.sort((a,b)=>a.t-b.t);
-  let tl=items.map(it=>{
-    if(it.tipo==='visita'){ const c=it.c; const noPed=v.semL.some(s=>s.razao===c.razao);
-      return `<div class="ev ${noPed?'noped':''}"><b>${c.in.slice(0,5)}–${c.out.slice(0,5)}</b> · ${c.razao} <span class="small">(${c.mun})</span><br><span class="small">⏱️ ${c.dur.slice(0,5)} · 🚗 ${c.km} km · ${noPed?'<b style="color:var(--red)">SEM PEDIDO</b>':'<b style="color:var(--green)">com pedido</b>'}</span></div>`; }
-    else{ const e=it.e; return `<div class="ev evt"><b>${(e.inicio||'').slice(0,5)}${e.final?'–'+e.final.slice(0,5):''}</b> · <b>${e.tipo}</b> <span class="small">${e.obs}</span> <span class="small">(${e.tempo.slice(0,5)})</span></div>`; }
-  }).join('');
-  if(!items.length) tl='<p class="small">Sem check-ins ou eventos com horário registrados.</p>';
-  const al=v.alerts.length?v.alerts.map(a=>`<div class="ai sev-${a.sev}" style="margin:5px 0"><span class="em">${a.sev===2?'🔴':'🟠'}</span><div class="txt"><b>${a.cat}:</b> ${a.txt}</div></div>`).join(''):'<p class="small" style="color:var(--green)">✅ Sem alertas.</p>';
-  document.getElementById('mbox').innerHTML=`
-    <button class="close" onclick="closeModal()">✕</button>
+  let tl=items.map(it=>{ if(it.tipo==='visita'){ const c=it.c,noPed=v.semL.some(s=>s.razao===c.razao);
+      return `<div class="ev ${noPed?'noped':''}"><b>${c.in.slice(0,5)}–${c.out.slice(0,5)}</b> · ${c.razao} <span class="small">(${c.mun})</span><br><span class="small">${c.dur.slice(0,5)} · ${c.km} km · ${noPed?'<b style="color:var(--red)">sem pedido</b>':'<b style="color:var(--green)">com pedido</b>'}</span></div>`; }
+    else{ const e=it.e; return `<div class="ev evt"><b>${(e.inicio||'').slice(0,5)}${e.final?'–'+e.final.slice(0,5):''}</b> · <b>${e.tipo}</b> <span class="small">${e.obs}</span></div>`; } }).join('');
+  if(!items.length) tl='<p class="small">Sem visitas ou eventos com horário.</p>';
+  const cob=[...v.inicio,...v.fim,...v.suspeitos];
+  const al=cob.length?cob.map(a=>`<li class="s${a.sev}"><span class="ct">${a.cat}:</span> ${a.txt}</li>`).join(''):'<li style="color:var(--green)">Sem pontos de atenção.</li>';
+  document.getElementById('mbox').innerHTML=`<button class="close" onclick="closeModal()">✕</button>
     <h2 style="margin:0 0 2px">${v.nome} ${chip(v)}</h2>
     <div class="small" style="margin-bottom:12px">${v.setor} · ${v.regional} · Coordenador: ${v.coord||'—'}</div>
     <div class="kpis" style="margin-bottom:14px">
-      <div class="kpi"><div class="v">${v.visitas}</div><div class="l">Visitas (meta 5)</div></div>
-      <div class="kpi"><div class="v">${v.orders}</div><div class="l">Pedidos (meta 4)</div></div>
-      <div class="kpi"><div class="v">${v.km.toFixed(1)}</div><div class="l">Km rodado</div></div>
+      <div class="kpi"><div class="v">${v.visitas}</div><div class="l">Visitas</div></div>
+      <div class="kpi"><div class="v">${v.orders}</div><div class="l">Pedidos</div></div>
+      <div class="kpi"><div class="v">${v.km.toFixed(1)}</div><div class="l">Km</div></div>
       <div class="kpi"><div class="v">${hStr(v.tvMin)}</div><div class="l">Tempo em visita</div></div>
       <div class="kpi"><div class="v">${mmToStr(v.firstAct)}</div><div class="l">Início</div></div>
       <div class="kpi"><div class="v">${mmToStr(v.lastAct)}</div><div class="l">Fim</div></div>
       <div class="kpi"><div class="v">${v.lunch?Math.round(v.lunch)+'m':'—'}</div><div class="l">Almoço</div></div>
-      <div class="kpi"><div class="v">${v.perc==null?'—':v.perc+'%'}</div><div class="l">% sem pedido</div></div>
+      <div class="kpi"><div class="v">${v.perc==null?'—':Math.round(v.perc)+'%'}</div><div class="l">Sem pedido</div></div>
     </div>
-    <h3 style="margin:6px 0">⚠️ Alertas</h3>${al}
-    <h3 style="margin:14px 0 6px">🗺️ Rota do dia (visitas + eventos)</h3><div class="tl">${tl}</div>`;
+    <div class="small" style="margin-bottom:10px">Metas: 5 visitas, 4 pedidos, jornada 08:00–17:48.</div>
+    <h3 style="margin:6px 0">Pontos de atenção</h3><ul class="pcard" style="border:none;background:none;box-shadow:none;padding:0">${al}</ul>
+    <h3 style="margin:14px 0 6px">Rota do dia</h3><div class="tl">${tl}</div>`;
   document.getElementById('modal').classList.add('show');
 }
 function closeModal(){ document.getElementById('modal').classList.remove('show'); }
 document.addEventListener('keydown',e=>{ if(e.key==='Escape')closeModal(); });
-
-/* ====================== Q&A ENGINE ====================== */
-const EXAMPLES=['Quantas visitas o Nelson fez?','Quem começou depois das 9?','Quem saiu antes das 17h?','Quem rodou mais de 100 km?','Quem fez mais de 5 visitas?','Quem fez menos de 4 pedidos?','Quem ficou mais tempo em visita?','Quem tem mais de 50% sem pedido?','Alertas do Cominato','Quanto a Rachel vendeu em reais?'];
-function findVend(q){ return VEND.find(v=>norm(q).includes(norm(v.nome))) || VEND.find(v=>norm(q).includes(norm(v.setor))); }
-function ansBox(html,err){ const el=document.getElementById('qaAns'); el.className='qaans show'+(err?' err':''); el.innerHTML=html; }
-function err(msg){ ansBox('⚠️ '+msg,true); }
-function tbl(head,rows){ return `<table><thead><tr>${head.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${rows.map(r=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table>`; }
-
-function parseHora(q){ let m=q.match(/(\d{1,2})\s*[:h]\s*(\d{2})/); if(m)return (+m[1])*60+(+m[2]); m=q.match(/(\d{1,2})\s*h\b/); if(m)return (+m[1])*60; m=q.match(/(?:das?|que|de)\s+(\d{1,2})(?!\s*[:h\d])/); if(m)return (+m[1])*60; m=q.match(/\b(\d{1,2})\s*horas?\b/); if(m)return (+m[1])*60; return null; }
-function parseNum(q){ const m=q.match(/(\d+(?:[.,]\d+)?)/); return m?parseFloat(m[1].replace(',','.')):null; }
-function cmpv(a,op,b){ return op==='>'?a>b:op==='>='?a>=b:op==='<'?a<b:op==='<='?a<=b:a===b; }
-function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
-function ask(){
-  const raw=document.getElementById('qInput').value.trim(); if(!raw){return;}
-  const q=norm(raw);
-  // bloqueio: valor em R$
-  if(/(reais|r\$|faturou|faturamento|valor vendido|quanto vendeu|em dinheiro|receita)/.test(q))
-    return err('Não tenho dados de <b>valor de venda (R$)</b> nesta base. Os dados do TimeService trazem visitas, pedidos (sim/não), km e horários — não o valor faturado. Posso responder sobre essas métricas.');
-  const v=findVend(q);
-  // intents agregados (sem nome específico)
-  if(/(total|geral|equipe|somando|no total)/.test(q) && /visita/.test(q)) return ansBox(`<span class="big">${VEND.reduce((a,x)=>a+x.visitas,0)}</span> visitas no dia (toda a equipe de vendedores).`);
-  if(/(total|geral)/.test(q) && /pedido/.test(q)) return ansBox(`<span class="big">${VEND.reduce((a,x)=>a+x.orders,0)}</span> pedidos (proxy) no dia.`);
-  if(/(total|geral)/.test(q) && /km|rodad|quilom/.test(q)) return ansBox(`<span class="big">${VEND.reduce((a,x)=>a+x.km,0).toFixed(0)} km</span> rodados pela equipe hoje.`);
-  // ---- horário de início/fim com comparador (ex.: "começou depois das 9", "saiu antes das 17h", "o Nelson começou antes das 8:15?") ----
-  {
-    const dirMaior=/(depois|apos|mais tarde|a partir|acima|maior|mais de|superior|>=|>)/.test(q);
-    const dirMenor=/(antes|mais cedo|abaixo|menor|menos de|inferior|no maximo|<=|<)/.test(q);
-    const isFim=/(termin|encerr|saiu|saida|fim|ultim|finaliz|fechou)/.test(q);
-    const isInicio=/(comec|inici|chegou|chegada|entrou|abriu|primeir|atras)/.test(q);
-    if((isInicio||isFim)&&(dirMaior||dirMenor)){
-      const hora=parseHora(q);
-      if(hora==null) return err('Entendi que é sobre horário de '+(isFim?'término':'início')+', mas não consegui ler o horário. Tente "depois das 9", "antes das 8:30" ou "após as 17h".');
-      const op=dirMenor?'<':'>', field=isFim?'lastAct':'firstAct', lbl=isFim?'término':'início';
-      if(v){ const ok=v[field]!=null&&cmpv(v[field],op,hora); return ansBox(`<b>${v.nome}</b> teve ${lbl} às <b>${mmToStr(v[field])}</b> — ${ok?'<b style="color:var(--brand)">SIM</b>':'não'}, ${op==='<'?'antes':'depois'} das ${mmToStr(hora)}.`); }
-      const s=VEND.filter(x=>x[field]!=null&&cmpv(x[field],op,hora)).sort((a,b)=>op==='<'?a[field]-b[field]:b[field]-a[field]);
-      if(!s.length) return ansBox(`Ninguém teve ${lbl} ${op==='<'?'antes':'depois'} das <b>${mmToStr(hora)}</b>. <span class="small">(início/fim = 1ª/última atividade do dia — visita ou evento)</span>`);
-      return ansBox(`<b>${s.length}</b> vendedor(es) com ${lbl} ${op==='<'?'antes':'depois'} das <b>${mmToStr(hora)}</b>:`+tbl(['Vendedor',cap(lbl),'Justificado?'],s.map(x=>[x.nome,mmToStr(x[field]),(isFim?(x.hasLateEvt?'sim (evento)':'—'):(x.hasEarlyEvt?'sim (evento)':'<b style="color:var(--red)">não</b>'))]))+`<div class="small" style="margin-top:6px">Início/fim consideram a 1ª/última atividade (visita ou evento).</div>`);
-    }
-  }
-  // ---- comparação numérica por métrica (ex.: "mais de 5 visitas", "menos de 4 pedidos", "quem rodou mais de 100 km", "mais de 50% sem pedido") ----
-  {
-    const opNum=/(pelo menos|no minimo)/.test(q)?'>=':/(no maximo|ate )/.test(q)?'<=':/(menos de|abaixo|menor|inferior|menos que)/.test(q)?'<':/(mais de|acima|maior|superior|mais que)/.test(q)?'>':null;
-    if(opNum && !v && /(visita|pedido|km|rodad|quilom|sem pedido|%)/.test(q)){
-      const n=parseNum(q);
-      if(n!=null){
-        let field='visitas',label='visitas',fmt=x=>x;
-        if(/(sem pedido|%)/.test(q)){field='perc';label='sem pedido';fmt=x=>x+'%';}
-        else if(/pedido/.test(q)){field='orders';label='pedidos';}
-        else if(/(km|rodad|quilom|distanc)/.test(q)){field='km';label='km';fmt=x=>x.toFixed(1);}
-        const s=VEND.filter(x=>x[field]!=null&&cmpv(x[field],opNum,n)).sort((a,b)=>(b[field]||0)-(a[field]||0));
-        const opTxt={'>':'mais de','>=':'pelo menos','<':'menos de','<=':'até'}[opNum];
-        if(!s.length) return ansBox(`Nenhum vendedor com ${opTxt} <b>${fmt(n)} ${label}</b>.`);
-        return ansBox(`<b>${s.length}</b> vendedor(es) com ${opTxt} <b>${fmt(n)} ${label}</b>:`+tbl(['Vendedor',cap(label),'Regional'],s.map(x=>[x.nome,fmt(x[field]),x.regional])));
-      }
-    }
-  }
-  // rankings / superlativos
-  if(/(quem|qual).*(mais|maior).*(visita)/.test(q)){ const s=[...VEND].sort((a,b)=>b.visitas-a.visitas); return ansBox(`🥇 <b>${s[0].nome}</b> com <b>${s[0].visitas} visitas</b>.`+tbl(['Vendedor','Visitas'],s.slice(0,5).map(x=>[x.nome,x.visitas]))); }
-  if(/(quem|qual).*(mais|maior).*(km|rodou|rodad|quilom)/.test(q)){ const s=[...VEND].sort((a,b)=>b.km-a.km); return ansBox(`🚗 <b>${s[0].nome}</b> rodou <b>${s[0].km.toFixed(1)} km</b>.`+tbl(['Vendedor','Km'],s.slice(0,5).map(x=>[x.nome,x.km.toFixed(1)]))); }
-  if(/(quem|qual).*(mais|maior).*(pedido)/.test(q)){ const s=[...VEND].sort((a,b)=>b.orders-a.orders); return ansBox(`🧾 <b>${s[0].nome}</b> com <b>${s[0].orders} pedidos</b>.`+tbl(['Vendedor','Pedidos'],s.slice(0,5).map(x=>[x.nome,x.orders]))); }
-  if(/(mais|maior).*(tempo).*(visita)|mais tempo em visita|quem ficou mais tempo/.test(q)){ const s=[...VEND].sort((a,b)=>b.tvMin-a.tvMin); return ansBox(`⏱️ <b>${s[0].nome}</b> ficou <b>${hStr(s[0].tvMin)}</b> em visita.`+tbl(['Vendedor','Tempo em visita'],s.slice(0,5).map(x=>[x.nome,hStr(x.tvMin)]))); }
-  // atrasos sem horário explícito (usa a meta 08:00 e desconsidera quem tem evento que justifica)
-  if(/(atras|chegou tarde|comecou tarde|inicio tarde|nao cumpriu.*horario)/.test(q) && !v){
-    const s=VEND.filter(x=>x.firstAct!=null&&x.firstAct>META.inicio&&!x.hasEarlyEvt).sort((a,b)=>b.firstAct-a.firstAct);
-    if(!s.length)return ansBox('Ninguém atrasou sem justificativa — todos iniciaram até as 08:00 ou têm evento que explica.');
-    return ansBox(`<b>${s.length}</b> vendedor(es) começaram após as 08:00 <b>sem justificativa</b>:`+tbl(['Vendedor','Início'],s.map(x=>[x.nome,mmToStr(x.firstAct)])));
-  }
-  // não bateu meta visitas
-  if(/(nao bateu|menos de 5|abaixo).*(visita)|quem nao visitou|menos visita/.test(q)){
-    const s=VEND.filter(x=>x.visitas<META.visitas).sort((a,b)=>a.visitas-b.visitas);
-    return ansBox(`<b>${s.length}</b> abaixo da meta de 5 visitas:`+tbl(['Vendedor','Visitas','Status'],s.map(x=>[x.nome,x.visitas,chip(x)])));
-  }
-  // não bateu meta pedidos
-  if(/(nao bateu|menos de 4|abaixo).*(pedido)|poucos pedidos/.test(q)){
-    const s=VEND.filter(x=>x.orders<META.pedidos).sort((a,b)=>a.orders-b.orders);
-    return ansBox(`<b>${s.length}</b> abaixo da meta de 4 pedidos:`+tbl(['Vendedor','Pedidos','Visitas'],s.map(x=>[x.nome,x.orders,x.visitas])));
-  }
-  // 100% sem pedido
-  if(/(100%|todas).*(sem pedido)|nao tirou nenhum pedido|zero pedido/.test(q)){
-    const s=VEND.filter(x=>x.visitas>0&&x.orders===0);
-    return ansBox(`Visitaram mas <b>não tiraram nenhum pedido</b>:`+tbl(['Vendedor','Visitas','% sem pedido'],s.map(x=>[x.nome,x.visitas,(x.perc||0)+'%'])));
-  }
-  // alertas / problemas gerais
-  if(!v && /(alerta|problema|atencao|critico|cobrar|cobranca)/.test(q)){
-    const s=VEND.filter(x=>x.score>=1).sort((a,b)=>b.score-a.score);
-    return ansBox(`Vendedores com pontos de atenção:`+tbl(['Vendedor','Status','Nº alertas'],s.map(x=>[x.nome,chip(x),x.alerts.length])));
-  }
-  // perguntas sobre um vendedor específico
-  if(v){
-    if(/alerta|problema|atencao|cobrar/.test(q)){ if(!v.alerts.length)return ansBox(`✅ <b>${v.nome}</b> não tem alertas hoje.`); return ansBox(`Alertas de <b>${v.nome}</b>:`+tbl(['Categoria','Detalhe'],v.alerts.map(a=>[a.cat,a.txt]))); }
-    if(/visita/.test(q)&&/quant|numero|quantas/.test(q)) return ansBox(`<b>${v.nome}</b> fez <span class="big">${v.visitas}</span> visita(s) hoje (meta 5).`);
-    if(/pedido/.test(q)) return ansBox(`<b>${v.nome}</b>: <span class="big">${v.orders}</span> pedido(s) em ${v.visitas} visitas (${v.semPed} sem pedido, ${v.perc==null?'—':v.perc+'%'}).`);
-    if(/km|rodou|rodad|quilom|distanc/.test(q)) return ansBox(`<b>${v.nome}</b> rodou <span class="big">${v.km.toFixed(1)} km</span> hoje.`);
-    if(/comecou|inicio|primeira|que horas|chegou/.test(q)) return ansBox(`<b>${v.nome}</b> iniciou às <b>${mmToStr(v.firstAct)}</b>${v.firstAct>META.inicio?(v.hasEarlyEvt?' (após 8h, justificado por evento)':' <b style="color:var(--red)">(após as 08:00, sem justificativa)</b>'):' (dentro do horário)'}.`);
-    if(/terminou|ultima|fim|encerrou|saiu/.test(q)) return ansBox(`<b>${v.nome}</b> teve a última atividade às <b>${mmToStr(v.lastAct)}</b> (meta encerrar 17:48).`);
-    if(/almoco|almoço/.test(q)) return ansBox(v.lunch?`<b>${v.nome}</b> almoçou <b>${Math.round(v.lunch)} min</b> ${v.lunch>75?'<b style="color:var(--orange)">(acima de 1h)</b>':'(dentro de 1h)'}.`:`Não há registro de almoço para <b>${v.nome}</b>.`);
-    if(/tempo.*(visita)|quanto tempo/.test(q)) return ansBox(`<b>${v.nome}</b> somou <b>${hStr(v.tvMin)}</b> dentro de clientes hoje.`);
-    if(/evento|fazendo|justific/.test(q)){ if(!v.eventos.length)return ansBox(`<b>${v.nome}</b> não registrou eventos hoje.`); return ansBox(`Eventos de <b>${v.nome}</b>:`+tbl(['Tipo','Obs','Início','Fim'],v.eventos.map(e=>[e.tipo,e.obs,e.inicio||'—',e.final||'—']))); }
-    if(/cliente|visitou quem|onde|quais/.test(q)){ if(!v.checkins.length)return ansBox(`<b>${v.nome}</b> não tem check-ins hoje.`); return ansBox(`Clientes visitados por <b>${v.nome}</b>:`+tbl(['Cliente','Município','Horário','Pedido?'],v.checkins.map(c=>[c.razao,c.mun,c.in.slice(0,5)+'–'+c.out.slice(0,5),v.semL.some(s=>s.razao===c.razao)?'<b style="color:var(--red)">não</b>':'sim']))); }
-    // nome citado mas métrica não reconhecida -> resumo geral do vendedor
-    return ansBox(`Resumo de <b>${v.nome}</b> (${v.setor}/${v.regional}): ${v.visitas} visitas, ${v.orders} pedidos, ${v.km.toFixed(1)} km, início ${mmToStr(v.firstAct)}, fim ${mmToStr(v.lastAct)}, ${hStr(v.tvMin)} em visita. ${chip(v)}<br><span class="small">Tente perguntar por uma métrica específica (visitas, pedidos, km, almoço, eventos, clientes, alertas).</span>`);
-  }
-  // não entendeu
-  return err(`Não consegui identificar a resposta na base para: "<i>${raw}</i>". Tente citar um <b>vendedor</b> ou uma métrica conhecida (visitas, pedidos, km, horário de início/fim, almoço, tempo em visita, eventos, clientes, alertas). Lembre: não há valor de venda em R$ nestes dados.`);
-}
 
 /* ====================== TABS / TEMA / INIT ====================== */
 function setTab(t){ document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));
   document.querySelectorAll('.tabpane').forEach(p=>p.classList.remove('active'));
   document.getElementById('pane-'+t).classList.add('active');
   if(t==='sem')renderSem(); if(t==='mes')renderMes(); }
-function toggleTheme(){ const h=document.documentElement; const dark=h.getAttribute('data-theme')==='dark';
+function toggleTheme(){ const h=document.documentElement,dark=h.getAttribute('data-theme')==='dark';
   h.setAttribute('data-theme',dark?'light':'dark');
   document.getElementById('themeBtn').textContent=dark?'🌙 Escuro':'☀️ Claro';
-  document.getElementById('logo').src='ferretti-branco.png'; // header sempre azul
   try{localStorage.setItem('pv-theme',dark?'light':'dark');}catch(e){} }
 (function init(){
   try{ const t=localStorage.getItem('pv-theme'); if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');document.getElementById('themeBtn').textContent='☀️ Claro';} }catch(e){}
-  // popula filtro regional
+  document.getElementById('hupd').textContent=DATA_DT+' às '+DATA_HORA;
+  document.getElementById('foot').innerHTML=`M. Ferretti — Painel de gestão da equipe de vendas.<br>Dados de campo atualizados em <b>${DATA_DT} às ${DATA_HORA}</b>.`;
   const regs=[...new Set(VEND.map(v=>v.regional))];
   document.getElementById('fReg').innerHTML='<option value="">Todas</option>'+regs.map(r=>`<option>${r}</option>`).join('');
-  document.getElementById('qaExamples').innerHTML=EXAMPLES.map(e=>`<span onclick="document.getElementById('qInput').value='${e.replace(/'/g,"\\'")}';ask()">${e}</span>`).join('');
-  renderAlerts(); renderKpis(); renderDia(); renderRank(); renderCharts(); renderAnom(); renderEvt();
+  renderDestaques(); renderImportant(); renderSuspeitos(); renderResumo(); renderDia(); renderCharts(); renderEvt();
 })();
 </script>
 </body>
