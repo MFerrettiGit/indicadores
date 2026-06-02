@@ -1,14 +1,14 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/06/2026",
-    "dataHora":  "18:17",
+    "dataHora":  "18:32",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "visitas":  1,
-                     "km":  140.24,
+                     "km":  220.49,
                      "semPed":  1,
                      "perc":  100,
                      "primeiro":  "14:02",
@@ -997,7 +997,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:45:59"
+                        "tempo":  "02:01:13"
                     }
                 ],
     "semped":  [
@@ -1376,7 +1376,7 @@ window.PAINEL = {
                                                ]
                                      },
                       "2026-06-02":  {
-                                         "dataHora":  "18:17",
+                                         "dataHora":  "18:32",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1384,7 +1384,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  1,
                                                        "pe":  0,
-                                                       "km":  140.24,
+                                                       "km":  220.49,
                                                        "tv":  132
                                                    },
                                                    {
