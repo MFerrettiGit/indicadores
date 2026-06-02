@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/06/2026",
-    "dataHora":  "18:47",
+    "dataHora":  "19:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -997,7 +997,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:16:27"
+                        "tempo":  "02:29:48"
                     }
                 ],
     "semped":  [
@@ -1230,7 +1230,7 @@ window.PAINEL = {
                  ],
                  [
                      "02/06",
-                     111,
+                     112,
                      20
                  ]
              ],
@@ -1376,7 +1376,7 @@ window.PAINEL = {
                                                ]
                                      },
                       "2026-06-02":  {
-                                         "dataHora":  "18:47",
+                                         "dataHora":  "19:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1513,7 +1513,349 @@ window.PAINEL = {
                                                        "km":  9.14,
                                                        "tv":  369
                                                    }
-                                               ]
+                                               ],
+                                         "cli":  [
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "SUPERMERCADO CAVICCHIOLLI LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "MARTINS",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "TIAGO ALBERTO MASSINI MERCEARIA ME",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERCADO UNIAO DE RIO CLARO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO SUPERMERCADO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "POSTO DO TREVO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO JDS LTDA-ME.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "MONICA APARECIDA DA SILVA SONTINI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "BRAIT",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "L.R. GOMES - SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "APARECIDO ANTONIO AQUARELLI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SIDNEI APARECIDO MANGERONA - EPP.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ARIEL SUPERMERCADO LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "BELA TERRA SUPERMERCADO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO ARIEL LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "A.M.G. ATACAREJO DE PROD ALIMENTIC LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO PIZZOL LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "M.C.B SERVICOS EMPRESARIAIS E PREDIAIS L",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO MP TUIUTI LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO CANDIO OLIVEIRA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO QUARTETO DA ALEGRIA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MARIA ROSEMARY DE MACEDO EIRELI-EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "54.841.749 JONAS GONCALVES VIEIRA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "CATO ANTONIALE",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "BELA TERRA SUPERMERCADO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "MERCADO BEIJA FLOR LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "CATO ANTONIALE",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "ACHEI ATACAREJO DO PUTIM LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SM MAIS SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "CVS SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "SUPERMERCADOS SUPERHANDS SLU",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "VIVIANE MACHADO SALAS RODRIGUES",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EZEQUIEL DE ALMEIDA ITAPETININGA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "PTYP GOMES MINIMERCADO",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCADO AVENIDA DE ITAPETININGA LTDA",
+                                                         "p":  0
+                                                     }
+                                                 ]
                                      }
                   }
 };
