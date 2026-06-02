@@ -1,0 +1,282 @@
+﻿{
+    "2026-06-01":  {
+                       "dataHora":  "19:06",
+                       "v":  [
+                                 {
+                                     "nome":  "Eduardo",
+                                     "setor":  "CHAVES CPS",
+                                     "regional":  "INTERIOR SP",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  63.41,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  132.41,
+                                     "tv":  318
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  135.36,
+                                     "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  10.94,
+                                     "tv":  459
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  106.38,
+                                     "tv":  259
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  15.19,
+                                     "tv":  125
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  65.62,
+                                     "tv":  147
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  4,
+                                     "km":  22.24,
+                                     "tv":  355
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  20.83,
+                                     "tv":  438
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  47.63,
+                                     "tv":  121
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  128.62,
+                                     "tv":  187
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  63.53,
+                                     "tv":  326
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  30.29,
+                                     "tv":  346
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  7.62,
+                                     "tv":  284
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 }
+                             ]
+                   },
+    "2026-06-02":  {
+                       "dataHora":  "15:25",
+                       "v":  [
+                                 {
+                                     "nome":  "Eduardo",
+                                     "setor":  "CHAVES CPS",
+                                     "regional":  "INTERIOR SP",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  61.26,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  16.84,
+                                     "tv":  231
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  3.12,
+                                     "tv":  160
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  51.32,
+                                     "tv":  171
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  83.97,
+                                     "tv":  210
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  41.82,
+                                     "tv":  255
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  3.66,
+                                     "tv":  263
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  1,
+                                     "km":  106.24,
+                                     "tv":  192
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  26.72,
+                                     "tv":  146
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  21.46,
+                                     "tv":  219
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  27.35,
+                                     "tv":  181
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  46.53,
+                                     "tv":  256
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  7.02,
+                                     "tv":  204
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.14,
+                                     "tv":  261
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  50.36,
+                                     "tv":  134
+                                 }
+                             ]
+                   }
+}

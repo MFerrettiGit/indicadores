@@ -220,168 +220,20 @@
   <div class="mbox" id="mbox"></div>
 </div>
 
+<script src="dados.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/xlsx-js-style@1.2.0/dist/xlsx.bundle.js"></script>
 <script>
 /* ====================== DADOS ====================== */
-const DATA_DT='01/06/2026', DATA_HORA='19:06';
-const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos:4}; // 08:00 / 17:48 / 18:30
+const P=window.PAINEL||{};
+const DATA_DT=P.dataDT||'—', DATA_HORA=P.dataHora||'';
+const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos:4};
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
-
-const VEND=[
- {nome:'Eduardo',setor:'CHAVES CPS',regional:'INTERIOR SP',visitas:0,km:63.41,semPed:0,perc:null,primeiro:null,ultimo:null,tv:'00:00:00'},
- {nome:'Luis',setor:'FRANCA',regional:'NORDESTE',visitas:7,km:132.41,semPed:1,perc:14.29,primeiro:'09:24',ultimo:'17:17',tv:'05:18:00'},
- {nome:'Costa',setor:'RIO CLARO',regional:'NORDESTE',visitas:5,km:135.36,semPed:4,perc:80.00,primeiro:'08:01',ultimo:'14:24',tv:'02:36:00'},
- {nome:'Rachel',setor:'CIRCUITO',regional:'NORDESTE',visitas:5,km:10.94,semPed:5,perc:100.00,primeiro:'08:13',ultimo:'17:25',tv:'07:39:00'},
- {nome:'Maira',setor:'AMERICANA',regional:'NORDESTE',visitas:5,km:106.38,semPed:1,perc:20.00,primeiro:'09:20',ultimo:'16:10',tv:'04:19:00'},
- {nome:'Sao Carlos',setor:'SAO CARLOS',regional:'NORDESTE',visitas:3,km:15.19,semPed:1,perc:33.33,primeiro:'07:53',ultimo:'17:48',tv:'02:05:00'},
- {nome:'Fernando',setor:'RIBEIRAO PRETO',regional:'NORDESTE',visitas:3,km:65.62,semPed:0,perc:0.00,primeiro:'09:27',ultimo:'15:10',tv:'02:27:00'},
- {nome:'Nelson',setor:'ITAPETININGA',regional:'SUL',visitas:7,km:22.24,semPed:3,perc:42.86,primeiro:'08:04',ultimo:'18:13',tv:'05:55:00'},
- {nome:'Alan',setor:'CAMPINAS NORTE',regional:'SUL',visitas:6,km:20.83,semPed:1,perc:16.67,primeiro:'08:04',ultimo:'17:53',tv:'07:18:00'},
- {nome:'Cominato',setor:'PIRACICABA',regional:'SUL',visitas:6,km:47.63,semPed:6,perc:100.00,primeiro:'08:06',ultimo:'15:33',tv:'02:01:00'},
- {nome:'Mariangela',setor:'S.J.CAMPOS',regional:'SUL',visitas:6,km:128.62,semPed:0,perc:0.00,primeiro:'10:04',ultimo:'16:20',tv:'03:07:00'},
- {nome:'Castro',setor:'JUNDIAI',regional:'SUL',visitas:5,km:63.53,semPed:0,perc:0.00,primeiro:'07:51',ultimo:'16:07',tv:'05:26:00'},
- {nome:'Eugenio',setor:'ATIBAIA',regional:'SUL',visitas:5,km:30.29,semPed:0,perc:0.00,primeiro:'08:10',ultimo:'17:44',tv:'05:46:00'},
- {nome:'Karina',setor:'CARAGUATATUBA',regional:'SUL',visitas:3,km:7.62,semPed:0,perc:0.00,primeiro:'08:39',ultimo:'14:12',tv:'04:44:00'},
- {nome:'Lucas',setor:'INDAIATUBA',regional:'SUL',visitas:0,km:0.00,semPed:0,perc:null,primeiro:null,ultimo:null,tv:'00:00:00'}
-];
-
-const CHECKINS=[
- {nome:'Costa',razao:'UNIAO WENG SUPERMERCADO LTDA',mun:'ENGENHEIRO COEL',in:'08:01:33',out:'08:26:17',km:0,dur:'00:24:00'},
- {nome:'Costa',razao:'SUPERMERCADO UNIAO WENG LTDA',mun:'ENGENHEIRO COEL',in:'09:00:37',out:'09:45:25',km:0.97,dur:'00:44:00'},
- {nome:'Costa',razao:'LEILA MAGALI LONGO',mun:'ENGENHEIRO COEL',in:'09:48:17',out:'10:08:28',km:0.28,dur:'00:19:00'},
- {nome:'Costa',razao:'SUPERBERTON COMERCIO DE ALIMENTOS LTDA',mun:'ENGENHEIRO COEL',in:'10:21:14',out:'11:13:57',km:0.79,dur:'00:52:00'},
- {nome:'Costa',razao:'J R BARROS COMERCIO LTDA',mun:'ENGENHEIRO COEL',in:'14:05:39',out:'14:24:10',km:6.39,dur:'00:17:00'},
- {nome:'Fernando',razao:'ADEMIR BOGAR RIBEIRAO PRETO',mun:'RIBEIRAO PRETO',in:'09:27:13',out:'10:54:26',km:20.44,dur:'01:27:00'},
- {nome:'Fernando',razao:'SAVEGNAGO SUPERMERCADOS LTDA',mun:'RIBEIRAO PRETO',in:'10:57:02',out:'11:43:29',km:1.76,dur:'00:45:00'},
- {nome:'Fernando',razao:'MARA EDITH LOURENCO',mun:'RIBEIRAO PRETO',in:'14:55:25',out:'15:10:54',km:21.88,dur:'00:15:00'},
- {nome:'Luis',razao:'CELIA MARQUES - EPP.',mun:'CRISTAIS PAULIS',in:'09:24:14',out:'11:09:48',km:15.92,dur:'01:45:00'},
- {nome:'Luis',razao:'RAULNY AUGUSTO CAMPOS',mun:'PEDREGULHO',in:'11:33:59',out:'12:11:21',km:24.73,dur:'00:37:00'},
- {nome:'Luis',razao:'REGINA DE FATIMA FARIA TAVEIRA-EPP.',mun:'PEDREGULHO',in:'13:20:45',out:'14:16:17',km:1.2,dur:'00:55:00'},
- {nome:'Luis',razao:'ELIANE SUPERMERCADO LTDA',mun:'RIFAINA',in:'14:41:29',out:'15:06:44',km:26.8,dur:'00:25:00'},
- {nome:'Luis',razao:'JUAREZ LEANDRO LUCA LTDA',mun:'RIFAINA',in:'15:07:57',out:'15:41:34',km:0,dur:'00:33:00'},
- {nome:'Luis',razao:'ELAINE APARECIDA RODRIGUES FERREIRA',mun:'RIFAINA',in:'15:47:59',out:'16:08:56',km:0.74,dur:'00:20:00'},
- {nome:'Luis',razao:'RAULNY AUGUSTO CAMPOS',mun:'PEDREGULHO',in:'16:33:56',out:'17:17:27',km:27,dur:'00:43:00'},
- {nome:'Maira',razao:'SUPERMERCADO ZARGON EIRELI',mun:'LIMEIRA',in:'09:20:18',out:'11:08:22',km:41.27,dur:'01:47:00'},
- {nome:'Maira',razao:'SUPERMERCADO ZARGON LTDA.',mun:'LIMEIRA',in:'11:17:20',out:'12:19:12',km:1.77,dur:'01:01:00'},
- {nome:'Maira',razao:'YURI PADOVAN CALSA.',mun:'LIMEIRA',in:'13:53:32',out:'14:12:42',km:6.3,dur:'00:19:00'},
- {nome:'Maira',razao:'A G DEGASPARE SUPERMERCADOS',mun:'LIMEIRA',in:'14:34:03',out:'15:19:10',km:4.87,dur:'00:45:00'},
- {nome:'Maira',razao:'QUALYMAIS COM AT DE P. A. EM GERAL LTDA',mun:'LIMEIRA',in:'15:42:21',out:'16:10:06',km:7.89,dur:'00:27:00'},
- {nome:'Rachel',razao:'ANTONELLI SUPERMERCADO LTDA.',mun:'AMPARO',in:'08:13:46',out:'10:07:34',km:1.1,dur:'01:53:00'},
- {nome:'Rachel',razao:'SUPERMERCADO SANTANA DE AMPARO LTDA',mun:'AMPARO',in:'10:10:02',out:'11:48:44',km:0.52,dur:'01:37:00'},
- {nome:'Rachel',razao:'J.L. DAOLIO',mun:'AMPARO',in:'13:05:12',out:'14:25:28',km:2.68,dur:'01:20:00'},
- {nome:'Rachel',razao:'J L DAOLIO E CIA LTDA',mun:'AMPARO',in:'14:27:58',out:'15:21:23',km:0.33,dur:'00:53:00'},
- {nome:'Rachel',razao:'B. A. BARBOSASUPERMERCADO LTDA',mun:'AMPARO',in:'15:28:54',out:'17:25:41',km:2.91,dur:'01:56:00'},
- {nome:'Sao Carlos',razao:'SUP. MOREIRA DE SAO CARLOS LTDA-ME.',mun:'SAO CARLOS',in:'07:53:45',out:'08:50:58',km:8.07,dur:'00:57:00'},
- {nome:'Sao Carlos',razao:'SUP. MOREIRA DE SAO CARLOS LTDA-ME LJ 02',mun:'SAO CARLOS',in:'08:54:22',out:'09:16:00',km:0.5,dur:'00:21:00'},
- {nome:'Sao Carlos',razao:'COGEB SUPERMERCADOS LTDA.',mun:'SAO CARLOS',in:'17:01:01',out:'17:48:12',km:4.16,dur:'00:47:00'},
- {nome:'Alan',razao:'VILA MIMOSA LTDA',mun:'CAMPINAS',in:'08:04:58',out:'09:03:09',km:8.38,dur:'00:58:00'},
- {nome:'Alan',razao:'BR1 COMERCIO DE PROD. ALIMENTICIOS LTDA',mun:'CAMPINAS',in:'09:14:46',out:'09:53:18',km:3.08,dur:'00:37:00'},
- {nome:'Alan',razao:'OLIVEIRA - CASA DE CARNE E EMPORIO LTDA',mun:'CAMPINAS',in:'09:57:33',out:'11:36:07',km:0.68,dur:'01:38:00'},
- {nome:'Alan',razao:'LESSA',mun:'CAMPINAS',in:'11:45:11',out:'13:24:38',km:3.19,dur:'01:39:00'},
- {nome:'Alan',razao:'ATACADO VILA MIMOSA LTDA',mun:'CAMPINAS',in:'15:12:29',out:'16:13:51',km:0.86,dur:'01:01:00'},
- {nome:'Alan',razao:'RAIMUNDO NONATO DE ALMEIDA',mun:'CAMPINAS',in:'16:28:30',out:'17:53:38',km:4.64,dur:'01:25:00'},
- {nome:'Castro',razao:'MODELO SUPERMERCADO LTDA.',mun:'ITATIBA',in:'07:51:23',out:'09:47:34',km:8.83,dur:'01:56:00'},
- {nome:'Castro',razao:'SUPERMERCADO LOUVEIRA LTDA-LJ.02',mun:'ITATIBA',in:'09:56:32',out:'10:14:46',km:2.64,dur:'00:18:00'},
- {nome:'Castro',razao:'SUPERMERCADO LOUVEIRA LTDA',mun:'ITATIBA',in:'10:17:39',out:'12:15:06',km:11.37,dur:'01:57:00'},
- {nome:'Castro',razao:'COOP. DE CONSUMO COOPERCICA LTDA - LJ.04',mun:'JUNDIAI',in:'14:39:42',out:'14:56:24',km:17.87,dur:'00:16:00'},
- {nome:'Castro',razao:'COOP. DE CONSUMO COOPERCICA LTDA - LJ.03',mun:'JUNDIAI',in:'15:07:31',out:'16:07:30',km:4.82,dur:'00:59:00'},
- {nome:'Cominato',razao:'ANTONIO CESAR DETONI',mun:'PIRACICABA',in:'08:06:16',out:'08:33:25',km:11.76,dur:'00:26:00'},
- {nome:'Cominato',razao:'MONTE BELLO',mun:'PIRACICABA',in:'09:23:11',out:'09:39:27',km:18.52,dur:'00:16:00'},
- {nome:'Cominato',razao:'D. NASTARO SUPERMERCADOS EIRELI - EPP',mun:'PIRACICABA',in:'10:21:55',out:'10:38:33',km:2.34,dur:'00:16:00'},
- {nome:'Cominato',razao:'MINIMERCADO POLIBOM LTDA',mun:'PIRACICABA',in:'13:38:42',out:'13:57:36',km:2.1,dur:'00:18:00'},
- {nome:'Cominato',razao:'MINI MERCADO JJR LTDA',mun:'PIRACICABA',in:'14:28:08',out:'14:49:31',km:2.38,dur:'00:21:00'},
- {nome:'Cominato',razao:'BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.',mun:'PIRACICABA',in:'15:09:46',out:'15:33:59',km:6.99,dur:'00:24:00'},
- {nome:'Eugenio',razao:'SUPERMERCADO AMIGO DA GENTE LTDA',mun:'ATIBAIA',in:'08:10:06',out:'10:15:01',km:8.66,dur:'02:04:00'},
- {nome:'Eugenio',razao:'NEW BIG 1 SUPERMERCADOS LTDA',mun:'ATIBAIA',in:'10:24:05',out:'11:15:02',km:1.64,dur:'00:50:00'},
- {nome:'Eugenio',razao:'UNISUPER UNIAO SUPERMERCADO LTDA.',mun:'ATIBAIA',in:'12:06:15',out:'13:29:49',km:6.51,dur:'01:23:00'},
- {nome:'Eugenio',razao:'SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA',mun:'ATIBAIA',in:'15:10:22',out:'15:41:15',km:5.54,dur:'00:30:00'},
- {nome:'Eugenio',razao:'JOSE DIRCEU VILHENA DE MELO',mun:'ATIBAIA',in:'16:44:51',out:'17:44:16',km:7.21,dur:'00:59:00'},
- {nome:'Karina',razao:'LOJAS ESTRELA DO LAR LTDA',mun:'CARAGUATATUBA',in:'08:39:53',out:'10:43:57',km:2.64,dur:'02:03:00'},
- {nome:'Karina',razao:'SIS COM. VAR. E ATAC. GEN. ALIM. LTDA',mun:'CARAGUATATUBA',in:'10:50:31',out:'12:44:22',km:0.57,dur:'01:53:00'},
- {nome:'Karina',razao:'MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.',mun:'CARAGUATATUBA',in:'13:23:32',out:'14:12:58',km:2.04,dur:'00:48:00'},
- {nome:'Mariangela',razao:'MERCADO VO THEREZA LTDA',mun:'TAUBATE',in:'10:04:05',out:'10:20:42',km:52.47,dur:'00:16:00'},
- {nome:'Mariangela',razao:'CHICARELLI',mun:'TAUBATE',in:'10:39:33',out:'11:14:33',km:13.57,dur:'00:34:00'},
- {nome:'Mariangela',razao:'G.A.RIBEIRO LTDA',mun:'TAUBATE',in:'11:36:37',out:'12:02:02',km:7.47,dur:'00:25:00'},
- {nome:'Mariangela',razao:'SUPERMERCADO LEAL DO VALE LTDA',mun:'TREMEMBE',in:'13:56:46',out:'14:21:06',km:5.86,dur:'00:24:00'},
- {nome:'Mariangela',razao:'SUPERMERCADO MAXIMO DE TREMEMBE LTDA',mun:'TREMEMBE',in:'14:26:05',out:'15:04:37',km:0.91,dur:'00:38:00'},
- {nome:'Mariangela',razao:'JOAO ILAIR REZENDE - EPP',mun:'TAUBATE',in:'15:30:24',out:'16:20:36',km:7.48,dur:'00:50:00'},
- {nome:'Nelson',razao:'MIEKO HONDA TANABE - ME',mun:'ITAPETININGA',in:'08:04:16',out:'09:02:19',km:0.8,dur:'00:57:00'},
- {nome:'Nelson',razao:'MERC. PADARIA E CONF. RODRIGUES LTDA-ME',mun:'ITAPETININGA',in:'09:17:47',out:'10:02:29',km:3.12,dur:'00:44:00'},
- {nome:'Nelson',razao:'NICE OLIVEIRA DA COSTA E CIA LTDA',mun:'ITAPETININGA',in:'11:15:07',out:'12:00:34',km:2.4,dur:'00:45:00'},
- {nome:'Nelson',razao:'SUPERMERCADOS VMS EIRELI',mun:'ITAPETININGA',in:'14:09:43',out:'15:30:56',km:4.29,dur:'01:21:00'},
- {nome:'Nelson',razao:'JR ELEUTERIO EMBALAGENS',mun:'ITAPETININGA',in:'15:34:16',out:'16:07:44',km:0.18,dur:'00:33:00'},
- {nome:'Nelson',razao:'48.441.595 MARCOS ROGERIO VENTURA',mun:'ITAPETININGA',in:'16:24:30',out:'16:43:11',km:1.64,dur:'00:18:00'},
- {nome:'Nelson',razao:'COMERCIAL MEDEIROS LTDA',mun:'ITAPETININGA',in:'16:55:33',out:'18:13:29',km:4.31,dur:'01:17:00'}
-];
-
-const EVENTOS=[
- {nome:'Maira',tipo:'Outro',obs:'reunião escolar',inicio:'08:14',final:'08:42',tempo:'00:28:32'},
- {nome:'Maira',tipo:'Em Viagem',obs:'limeira',inicio:'08:43',final:'09:19',tempo:'00:36:08'},
- {nome:'Maira',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'12:45',final:'13:45',tempo:'00:59:53'},
- {nome:'Maira',tipo:'Digitacao Pedido',obs:'Qualymais e Pavan',inicio:'16:11',final:'18:02',tempo:'01:50:43'},
- {nome:'Eugenio',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'13:41',final:'14:41',tempo:'01:00:07'},
- {nome:'Alan',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'13:50',final:'14:50',tempo:'00:59:59'},
- {nome:'Karina',tipo:'Refeicao Intrajornada',obs:'almoco',inicio:'14:13',final:'15:21',tempo:'01:07:56'},
- {nome:'Karina',tipo:'Outro',obs:'exame médico',inicio:'15:35',final:'18:05',tempo:'02:29:52'},
- {nome:'Eduardo',tipo:'Reuniao Empresa',obs:'.',inicio:'08:21',final:'14:12',tempo:'05:50:51'},
- {nome:'Rachel',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'11:56',final:'12:51',tempo:'00:54:27'},
- {nome:'Luis',tipo:'Outro',obs:'Exames de rotina audiometria',inicio:'08:05',final:'08:59',tempo:'00:54:13'},
- {nome:'Luis',tipo:'Em Viagem',obs:'Franca a Cristais Paulista',inicio:'09:07',final:'09:23',tempo:'00:15:55'},
- {nome:'Luis',tipo:'Em Viagem',obs:'Cristais Paulista a Pedregulho',inicio:'11:10',final:'11:32',tempo:'00:21:40'},
- {nome:'Luis',tipo:'Refeicao Intrajornada',obs:'Almoço',inicio:'12:21',final:'13:11',tempo:'00:50:40'},
- {nome:'Luis',tipo:'Em Viagem',obs:'Pedregulho a Rifaina',inicio:'14:17',final:'14:40',tempo:'00:23:23'},
- {nome:'Luis',tipo:'Em Viagem',obs:'Rifaina a Pedregulho',inicio:'16:09',final:'16:33',tempo:'00:24:15'},
- {nome:'Luis',tipo:'Em Viagem',obs:'Pedregulho a Franca',inicio:'17:18',final:'17:45',tempo:'00:27:20'},
- {nome:'Nelson',tipo:'Refeicao Intrajornada',obs:'Almoço',inicio:'12:54',final:'13:54',tempo:'01:00:05'},
- {nome:'Castro',tipo:'Refeicao Intrajornada',obs:'.',inicio:'13:05',final:'14:08',tempo:'01:02:20'},
- {nome:'Cominato',tipo:'Refeicao Intrajornada',obs:'Almoço',inicio:'12:04',final:'13:10',tempo:'01:05:54'},
- {nome:'Cominato',tipo:'Outro',obs:'Cadastro de produtos nos portais de Beira Rio, Defavari e Coocerqui',inicio:'15:53',final:'18:31',tempo:'02:38:15'},
- {nome:'Fernando',tipo:'Acompanhando',obs:'acompanhando meu filho na consulta com a psicóloga',inicio:'08:14',final:'08:50',tempo:'00:36:00'},
- {nome:'Fernando',tipo:'Acompanhando',obs:'acompanhando minha esposa em uma consulta médica',inicio:'12:32',final:'14:47',tempo:'02:15:36'},
- {nome:'Fernando',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'15:11',final:'16:12',tempo:'01:00:44'},
- {nome:'Costa',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'13:01',final:'14:02',tempo:'01:01:22'},
- {nome:'Costa',tipo:'Em Viagem',obs:'retorno pra casa',inicio:'14:34',final:'17:03',tempo:'02:29:46'},
- {nome:'Costa',tipo:'Digitacao Pedido',obs:'digitando pedido',inicio:'17:04',final:'17:49',tempo:'00:45:21'},
- {nome:'Mariangela',tipo:'Em Viagem',obs:'taubate',inicio:'08:03',final:'10:03',tempo:'01:59:35'},
- {nome:'Mariangela',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'12:45',final:'13:45',tempo:'01:00:10'},
- {nome:'Sao Carlos',tipo:'Outro',obs:'prospecção cliente',inicio:'11:12',final:'11:38',tempo:'00:26:31'},
- {nome:'Sao Carlos',tipo:'Refeicao Intrajornada',obs:'almoço',inicio:'12:51',final:'13:47',tempo:'00:56:11'},
- {nome:'Sao Carlos',tipo:'Outro',obs:'prospecção cliente',inicio:'14:22',final:'17:00',tempo:'02:37:53'},
- {nome:'Lucas',tipo:'Manutencao',obs:'troca da suspensão dianteira lado esquerdo',inicio:null,final:null,tempo:'10:43:09'}
-];
-
-const SEMPED=[
- {nome:'Maira',razao:'YURI PADOVAN CALSA.',mun:'LIMEIRA',obs:'comprador ausente'},
- {nome:'Alan',razao:'LESSA',mun:'CAMPINAS',obs:'merchandising'},
- {nome:'Rachel',razao:'ANTONELLI SUPERMERCADO LTDA.',mun:'AMPARO',obs:'.'},
- {nome:'Rachel',razao:'SUPERMERCADO SANTANA DE AMPARO LTDA',mun:'AMPARO',obs:'.'},
- {nome:'Rachel',razao:'J.L. DAOLIO',mun:'AMPARO',obs:'.'},
- {nome:'Rachel',razao:'J L DAOLIO E CIA LTDA',mun:'AMPARO',obs:'.'},
- {nome:'Rachel',razao:'B. A. BARBOSASUPERMERCADO LTDA',mun:'AMPARO',obs:'.'},
- {nome:'Luis',razao:'ELIANE SUPERMERCADO LTDA',mun:'RIFAINA',obs:'comprador ausente'},
- {nome:'Nelson',razao:'MERC. PADARIA E CONF. RODRIGUES LTDA-ME',mun:'ITAPETININGA',obs:'cliente estocado'},
- {nome:'Nelson',razao:'JR ELEUTERIO EMBALAGENS',mun:'ITAPETININGA',obs:'cliente ausente'},
- {nome:'Nelson',razao:'48.441.595 MARCOS ROGERIO VENTURA',mun:'ITAPETININGA',obs:'cliente ausente'},
- {nome:'Cominato',razao:'ANTONIO CESAR DETONI',mun:'PIRACICABA',obs:'Ausente'},
- {nome:'Cominato',razao:'MONTE BELLO',mun:'PIRACICABA',obs:'Ausente'},
- {nome:'Cominato',razao:'D. NASTARO SUPERMERCADOS EIRELI - EPP',mun:'PIRACICABA',obs:'Comprador não atendeu'},
- {nome:'Cominato',razao:'MINIMERCADO POLIBOM LTDA',mun:'PIRACICABA',obs:'Estocado'},
- {nome:'Cominato',razao:'MINI MERCADO JJR LTDA',mun:'PIRACICABA',obs:'Compradora não me atendeu'},
- {nome:'Cominato',razao:'BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.',mun:'PIRACICABA',obs:'Levantamento'},
- {nome:'Costa',razao:'UNIAO WENG SUPERMERCADO LTDA',mun:'ENGENHEIRO COEL',obs:'cotação'},
- {nome:'Costa',razao:'SUPERMERCADO UNIAO WENG LTDA',mun:'ENGENHEIRO COEL',obs:'cotação'},
- {nome:'Costa',razao:'LEILA MAGALI LONGO',mun:'ENGENHEIRO COEL',obs:'comprador ausente'},
- {nome:'Costa',razao:'J R BARROS COMERCIO LTDA',mun:'ENGENHEIRO COEL',obs:'comprador ausente'},
- {nome:'Sao Carlos',razao:'SUP. MOREIRA DE SAO CARLOS LTDA-ME LJ 02',mun:'SAO CARLOS',obs:'prospecção'}
-];
-
-const HIST=[
- ['04/05',101,19],['05/05',106,19],['06/05',78,8],['07/05',132,36],['08/05',104,34],
- ['11/05',112,32],['12/05',90,12],['13/05',122,22],['14/05',120,16],['15/05',101,21],
- ['18/05',105,13],['19/05',132,26],['20/05',126,20],['21/05',129,20],['22/05',113,20],
- ['25/05',138,24],['26/05',134,23],['27/05',130,24],['28/05',139,26],['29/05',124,33],['01/06',73,22]
-];
-
+const VEND=P.vend||[];
+const CHECKINS=P.checkins||[];
+const EVENTOS=P.eventos||[];
+const SEMPED=P.semped||[];
+const HIST=P.hist||[];
+const HISTORICO=P.historico||{};
 /* ====================== HELPERS ====================== */
 function toMin(t){ if(!t)return null; const p=t.split(':'); return (+p[0])*60+(+p[1]); }
 function durMin(t){ if(!t)return 0; const p=t.split(':'); return (+p[0])*60+(+p[1])+(p[2]?(+p[2])/60:0); }
@@ -637,9 +489,34 @@ function vendBars(){
   }).join('');
   return `<div class="card"><h3>Visitas e pedidos por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>${rows}</div>`;
 }
+function periodDates(kind){
+  const keys=Object.keys(HISTORICO).sort(); if(!keys.length)return [];
+  const today=keys[keys.length-1], d=new Date(today+'T00:00:00');
+  if(kind==='mes'){ const ym=today.slice(0,7); return keys.filter(k=>k.slice(0,7)===ym); }
+  if(kind==='sem'){ const dow=(d.getDay()+6)%7, mon=new Date(d); mon.setDate(d.getDate()-dow); const sun=new Date(mon); sun.setDate(mon.getDate()+6);
+    return keys.filter(k=>{ const x=new Date(k+'T00:00:00'); return x>=mon&&x<=sun; }); }
+  return [today];
+}
+function aggPeriod(kind){ const dates=periodDates(kind),map={};
+  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:r.regional,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=r.pe;m.km+=r.km;m.tv+=r.tv; }); });
+  return {dates,rows:Object.values(map)};
+}
+function periodView(kind){
+  const {dates,rows}=aggPeriod(kind);
+  const tVis=rows.reduce((a,r)=>a+r.vi,0),tPed=rows.reduce((a,r)=>a+r.pe,0),tKm=rows.reduce((a,r)=>a+r.km,0),tTv=rows.reduce((a,r)=>a+r.tv,0);
+  const kpi=`<div class="kpis">
+    <div class="kpi"><div class="b">📅</div><div class="v">${dates.length}</div><div class="l">Dias com dados</div></div>
+    <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
+    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
+    <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)}</div><div class="l">Km rodados</div></div>
+    <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div></div>`;
+  const max=Math.max(1,...rows.map(r=>r.vi));
+  const bars=[...rows].sort((a,b)=>b.vi-a.vi).map(r=>`<div class="barrow"><span class="small">${r.nome}</span><div class="bartrack"><div class="bar b-ok" style="width:${Math.max(2,r.vi/max*100)}%"></div></div><span class="num">${r.vi}v · ${r.pe}p</span></div>`).join('');
+  return kpi+'<div style="height:14px"></div><div class="card"><h3>Acumulado por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>'+(bars||'<div class="small">Sem dados ainda.</div>')+'</div>';
+}
 function renderDia(){ document.getElementById('pane-dia').innerHTML=statKpis()+'<div style="height:14px"></div>'+vendBars(); }
-function renderSem(){ document.getElementById('pane-sem').innerHTML=`<div class="note">📌 Hoje é o 1º dia útil de junho, então a semana começa com os números de 01/06. A cada nova captura diária, os totais somam automaticamente.</div>`+statKpis()+'<div style="height:14px"></div>'+vendBars(); }
-function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">📌 Junho em andamento, acumulando a partir de 01/06. Abaixo, o acumulado atual e, no gráfico, a evolução de maio para comparação.</div>`+statKpis()+`<div style="height:14px"></div><div class="card"><h3>Evolução de maio</h3><div class="cap">Total diário de visitas e de clientes sem pedido</div>${lineChart()}</div>`; }
+function renderSem(){ document.getElementById('pane-sem').innerHTML=`<div class="note">Acúmulo da semana atual (segunda a domingo). Cresce a cada dia capturado.</div>`+periodView('sem'); }
+function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">Acúmulo do mês atual. Cresce a cada dia capturado.</div>`+periodView('mes')+`<div class="card" style="margin-top:14px"><h3>Evolução de maio</h3><div class="cap">Total diário de visitas e de clientes sem pedido</div>${lineChart()}</div>`; }
 
 /* ====================== GRÁFICOS ====================== */
 function barChart(items,meta,fmt){
