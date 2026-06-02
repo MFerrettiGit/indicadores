@@ -137,28 +137,28 @@
   <!-- ===== DESTAQUES ===== -->
   <section>
     <h2 class="sec"><span class="ico">🏆</span> Destaques do dia</h2>
-    <div class="lead">O melhor e o pior desempenho do dia, com o motivo. Comece por aqui.</div>
+    <div class="lead">O melhor e o pior desempenho do dia, e por quê.</div>
     <div class="dest" id="destaques"></div>
   </section>
 
   <!-- ===== INFORMAÇÕES IMPORTANTES ===== -->
   <section>
     <h2 class="sec"><span class="ico">🚨</span> Informações importantes <span class="badge" id="badgeImp">0</span></h2>
-    <div class="lead">Tudo que pede cobrança, reunido <b>por vendedor</b>. Cada card junta os pontos do <b>começo</b> e do <b>fim do dia</b> daquela pessoa. A rotina esperada é começar às <b>08:00</b>, encerrar às <b>17:48</b>, 1 hora de almoço, no mínimo <b>5 visitas</b> e <b>4 pedidos</b> por dia.</div>
+    <div class="lead">O que pede cobrança, reunido por vendedor.</div>
     <div class="cardgrid" id="impList"></div>
   </section>
 
   <!-- ===== PADRÕES SUSPEITOS ===== -->
   <section>
     <h2 class="sec"><span class="ico">🔎</span> Padrões suspeitos <span class="badge" id="badgeSus">0</span></h2>
-    <div class="lead">Comportamentos fora do comum, reunidos por vendedor: muito tempo no cliente sem fechar pedido, um dia inteiro de visitas sem nenhum pedido, deslocamento grande para visita relâmpago e visitas repetidas ao mesmo grupo no mesmo dia.</div>
+    <div class="lead">Comportamentos fora do comum que merecem conferência.</div>
     <div class="cardgrid" id="susList"></div>
   </section>
 
   <!-- ===== RESUMO DO TRABALHO ===== -->
   <section>
     <h2 class="sec"><span class="ico">📋</span> Resumo do trabalho da equipe</h2>
-    <div class="lead">A situação de cada vendedor no dia. Clique em um nome para ver a rota completa (clientes, horários, quilômetros e pedidos).</div>
+    <div class="lead">A situação de cada vendedor. Clique em um nome para ver a rota completa.</div>
     <div class="filterbar">
       <label class="small">Regional:</label>
       <select id="fReg" onchange="renderResumo()"><option value="">Todas</option></select>
@@ -193,7 +193,7 @@
   <!-- ===== GRÁFICOS ===== -->
   <section>
     <h2 class="sec"><span class="ico">📈</span> Visão gráfica</h2>
-    <div class="lead">A linha vermelha marca a meta. Quem não alcança a linha precisa de atenção.</div>
+    <div class="lead">A linha vermelha marca a meta.</div>
     <div class="grid2">
       <div class="card"><h3>Visitas por vendedor</h3><div class="cap">Meta: 5 visitas por dia</div><div id="chartVis"></div></div>
       <div class="card"><h3>Pedidos por vendedor</h3><div class="cap">Meta: 4 pedidos por dia</div><div id="chartPed"></div></div>
@@ -206,7 +206,7 @@
   <!-- ===== EVENTOS ===== -->
   <section>
     <h2 class="sec"><span class="ico">🧾</span> Eventos e justificativas do dia</h2>
-    <div class="lead">O que tirou o vendedor da rota: reunião, viagem, almoço, manutenção e compromissos. Use para entender os desvios de jornada.</div>
+    <div class="lead">O que tirou o vendedor da rota no dia.</div>
     <div class="tablewrap"><table id="evtTable"><thead><tr><th>Vendedor</th><th>Tipo</th><th>Descrição</th><th>Início</th><th>Fim</th><th>Duração</th></tr></thead><tbody></tbody></table></div>
   </section>
 
@@ -449,6 +449,8 @@ function buildIssues(v){
   }
   // FIM: almoço longo
   if(v.lunch>75) fim.push({sev:1,cat:'Almoço',txt:`Almoço de ${Math.round(v.lunch)} minutos — acima de 1 hora.`});
+  // FIM: quilometragem alta
+  if(v.km>150) fim.push({sev:1,cat:'Deslocamento',txt:`Rodou ${v.km.toFixed(0)} km no dia — acima de 150 km, verificar a rota.`});
   return {inicio,fim,agenda};
 }
 function buildSuspeitos(v){
@@ -525,7 +527,7 @@ function renderImportant(){
     if(v.agenda.length) body+=`<div class="grp">Agenda do dia</div><ul>${liList(v.agenda)}</ul>`;
     if(v.inicio.length) body+=`<div class="grp">Começo do dia</div><ul>${liList(v.inicio)}</ul>`;
     if(v.fim.length) body+=`<div class="grp">Fim do dia</div><ul>${liList(v.fim)}</ul>`;
-    const cntCls=v.cardSev; const cntTxt=v.errCount>0?`${v.errCount} ${v.errCount===1?'ponto':'pontos'}`:'Agenda';
+    const np=v.agenda.length+v.inicio.length+v.fim.length; const cntTxt=v.cardSev>0?`${np} ${np===1?'ponto':'pontos'}`:'Agenda';
     return `<div class="pcard sev-${v.cardSev}"><div class="ph"><span class="pn">${v.nome}</span><span class="tag">${v.setor} · ${v.regional}</span><span class="cnt">${cntTxt}</span></div>${body}</div>`;
   }).join('') || '<div class="okbox">✅ Nenhuma cobrança hoje. Equipe dentro da rotina esperada.</div>';
 }
