@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/06/2026",
-    "dataHora":  "17:02",
+    "dataHora":  "17:32",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,6 +28,30 @@ window.PAINEL = {
                      "tv":  "05:20:00"
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  50.6,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:26",
+                     "ultimo":  "17:05",
+                     "tv":  "06:48:00"
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  6,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:50",
+                     "ultimo":  "17:21",
+                     "tv":  "03:57:00"
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -50,30 +74,6 @@ window.PAINEL = {
                      "primeiro":  "08:52",
                      "ultimo":  "16:38",
                      "tv":  "04:31:00"
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  44.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:26",
-                     "ultimo":  "15:46",
-                     "tv":  "05:44:00"
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  3.12,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:50",
-                     "ultimo":  "11:50",
-                     "tv":  "02:40:00"
                  },
                  {
                      "nome":  "Rachel",
@@ -220,6 +220,15 @@ window.PAINEL = {
                          "out":  "15:46:21",
                          "km":  2.29,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                         "mun":  "RIO CLARO",
+                         "in":  "16:00:55",
+                         "out":  "17:05:40",
+                         "km":  6.49,
+                         "dur":  "01:04:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -382,6 +391,15 @@ window.PAINEL = {
                          "out":  "11:50:51",
                          "km":  0.48,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:03:21",
+                         "out":  "17:21:16",
+                         "km":  2.88,
+                         "dur":  "01:17:00"
                      },
                      {
                          "nome":  "Alan",
@@ -910,7 +928,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido rede Qualimais",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:10:17"
+                        "tempo":  "02:39:39"
                     },
                     {
                         "nome":  "Rachel",
@@ -918,7 +936,7 @@ window.PAINEL = {
                         "obs":  "ponto novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:22"
+                        "tempo":  "01:09:44"
                     },
                     {
                         "nome":  "Castro",
@@ -926,7 +944,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:34"
+                        "tempo":  "01:00:56"
                     },
                     {
                         "nome":  "Maira",
@@ -934,7 +952,7 @@ window.PAINEL = {
                         "obs":  "pavan",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:23"
+                        "tempo":  "00:54:45"
                     }
                 ],
     "semped":  [
@@ -1155,7 +1173,7 @@ window.PAINEL = {
                  ],
                  [
                      "02/06",
-                     101,
+                     106,
                      18
                  ]
              ],
@@ -1301,7 +1319,7 @@ window.PAINEL = {
                                                ]
                                      },
                       "2026-06-02":  {
-                                         "dataHora":  "17:02",
+                                         "dataHora":  "17:32",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1322,6 +1340,24 @@ window.PAINEL = {
                                                        "tv":  320
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  50.6,
+                                                       "tv":  408
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  6,
+                                                       "tv":  237
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -1338,24 +1374,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  88.54,
                                                        "tv":  271
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  44.11,
-                                                       "tv":  344
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  3.12,
-                                                       "tv":  160
                                                    },
                                                    {
                                                        "nome":  "Rachel",

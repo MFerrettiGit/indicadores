@@ -140,7 +140,7 @@
                              ]
                    },
     "2026-06-02":  {
-                       "dataHora":  "17:02",
+                       "dataHora":  "17:32",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -161,6 +161,24 @@
                                      "tv":  320
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  50.6,
+                                     "tv":  408
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  6,
+                                     "tv":  237
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -177,24 +195,6 @@
                                      "pe":  2,
                                      "km":  88.54,
                                      "tv":  271
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  44.11,
-                                     "tv":  344
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  3.12,
-                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Rachel",
