@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "18:40",
+    "dataHora":  "18:55",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -1978,7 +1978,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "18:40",
+                                         "dataHora":  "18:55",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
