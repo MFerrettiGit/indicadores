@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "17:55",
+    "dataHora":  "18:25",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -20,7 +20,7 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  19.79,
+                     "km":  22.11,
                      "semPed":  4,
                      "perc":  57.14,
                      "primeiro":  "08:00",
@@ -32,7 +32,7 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  84.03,
+                     "km":  85.12,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:35",
@@ -44,7 +44,7 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  58.59,
+                     "km":  59.78,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  73.77,
+                     "km":  78.77,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:20",
@@ -92,7 +92,7 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  6,
-                     "km":  50.46,
+                     "km":  52.15,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:17",
@@ -100,11 +100,23 @@ window.PAINEL = {
                      "tv":  "05:48:00"
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  42.67,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "09:20",
+                     "ultimo":  "17:54",
+                     "tv":  "04:54:00"
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  25.93,
+                     "km":  41.05,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:00",
@@ -152,24 +164,12 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  69.28,
+                     "km":  131.91,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:55",
                      "ultimo":  "15:23",
                      "tv":  "04:38:00"
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  33.25,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "09:20",
-                     "ultimo":  "16:25",
-                     "tv":  "03:39:00"
                  },
                  {
                      "nome":  "Karina",
@@ -935,6 +935,14 @@ window.PAINEL = {
                         "tempo":  "00:52:33"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "cubatao e proposta",
+                        "inicio":  "16:16",
+                        "final":  "18:04",
+                        "tempo":  "01:47:38"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1045,14 +1053,6 @@ window.PAINEL = {
                         "inicio":  "12:57",
                         "final":  "13:58",
                         "tempo":  "01:01:03"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "cubatao e proposta",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:38:39"
                     }
                 ],
     "semped":  [
@@ -1350,7 +1350,7 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     117,
+                     119,
                      30
                  ]
              ],
@@ -1978,7 +1978,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "17:55",
+                                         "dataHora":  "18:25",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1995,7 +1995,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  3,
-                                                       "km":  19.79,
+                                                       "km":  22.11,
                                                        "tv":  384
                                                    },
                                                    {
@@ -2004,7 +2004,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  84.03,
+                                                       "km":  85.12,
                                                        "tv":  324
                                                    },
                                                    {
@@ -2013,7 +2013,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  58.59,
+                                                       "km":  59.78,
                                                        "tv":  411
                                                    },
                                                    {
@@ -2022,7 +2022,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  73.77,
+                                                       "km":  78.77,
                                                        "tv":  309
                                                    },
                                                    {
@@ -2049,8 +2049,17 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  50.46,
+                                                       "km":  52.15,
                                                        "tv":  348
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  42.67,
+                                                       "tv":  294
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2058,7 +2067,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  25.93,
+                                                       "km":  41.05,
                                                        "tv":  369
                                                    },
                                                    {
@@ -2094,17 +2103,8 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  69.28,
+                                                       "km":  131.91,
                                                        "tv":  278
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  33.25,
-                                                       "tv":  219
                                                    },
                                                    {
                                                        "nome":  "Karina",

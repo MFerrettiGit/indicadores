@@ -622,7 +622,7 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "17:55",
+                       "dataHora":  "18:25",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -639,7 +639,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  3,
-                                     "km":  19.79,
+                                     "km":  22.11,
                                      "tv":  384
                                  },
                                  {
@@ -648,7 +648,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  84.03,
+                                     "km":  85.12,
                                      "tv":  324
                                  },
                                  {
@@ -657,7 +657,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  58.59,
+                                     "km":  59.78,
                                      "tv":  411
                                  },
                                  {
@@ -666,7 +666,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  73.77,
+                                     "km":  78.77,
                                      "tv":  309
                                  },
                                  {
@@ -693,8 +693,17 @@
                                      "regional":  "SUL",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  50.46,
+                                     "km":  52.15,
                                      "tv":  348
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  42.67,
+                                     "tv":  294
                                  },
                                  {
                                      "nome":  "Alan",
@@ -702,7 +711,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  25.93,
+                                     "km":  41.05,
                                      "tv":  369
                                  },
                                  {
@@ -738,17 +747,8 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  2,
-                                     "km":  69.28,
+                                     "km":  131.91,
                                      "tv":  278
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  33.25,
-                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Karina",
