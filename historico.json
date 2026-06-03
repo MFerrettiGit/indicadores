@@ -622,7 +622,7 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "10:54",
+                       "dataHora":  "11:54",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -634,49 +634,49 @@
                                      "tv":  159
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  21.98,
-                                     "tv":  89
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  9.33,
-                                     "tv":  124
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  28.29,
-                                     "tv":  114
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  13.37,
+                                     "tv":  203
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  6.06,
-                                     "tv":  108
+                                     "km":  11.68,
+                                     "tv":  183
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  5.35,
-                                     "tv":  15
+                                     "km":  40.73,
+                                     "tv":  164
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  35.65,
+                                     "tv":  123
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  55.88,
+                                     "tv":  157
                                  },
                                  {
                                      "nome":  "Maira",
@@ -688,6 +688,24 @@
                                      "tv":  134
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  23.19,
+                                     "tv":  163
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  32.15,
+                                     "tv":  138
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -697,40 +715,31 @@
                                      "tv":  88
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  20.55,
-                                     "tv":  95
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  23.89,
-                                     "tv":  71
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  5.76,
-                                     "tv":  87
+                                     "km":  6.59,
+                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  10.02,
-                                     "tv":  121
+                                     "km":  15.27,
+                                     "tv":  137
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  3.29,
+                                     "tv":  101
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -740,15 +749,6 @@
                                      "pe":  1,
                                      "km":  62.08,
                                      "tv":  88
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.82,
-                                     "tv":  66
                                  },
                                  {
                                      "nome":  "Karina",
@@ -777,6 +777,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1
@@ -787,8 +792,23 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "FURLAN",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "LA PRIOR MERCADO LTDA",
                                        "p":  0
                                    },
                                    {
@@ -802,14 +822,39 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. PARE",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "MERCADO E PADARIA PANE SILVIO LTDA.",
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "FARMACIA DROGA PEPE",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ROBSON FEDES - ME.",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Castro",
@@ -832,6 +877,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "S. A. SUPERMERCADO LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1
@@ -842,9 +892,19 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCEARIA LOPES LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Mariangela",
@@ -854,6 +914,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO URBANOVA LTDA",
                                        "p":  1
                                    },
                                    {
