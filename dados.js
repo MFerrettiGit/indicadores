@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "08:09",
+    "dataHora":  "08:24",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -40,18 +40,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  4.97,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -59,7 +47,7 @@ window.PAINEL = {
                      "km":  2.17,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:19",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -69,6 +57,18 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "visitas":  0,
                      "km":  0.38,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:20",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  4.97,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -100,18 +100,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  3.98,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -119,19 +107,19 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:14",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  16.14,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:17",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -143,16 +131,28 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:21",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  0,
-                     "km":  15.89,
+                     "km":  3.98,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:22",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -188,7 +188,22 @@ window.PAINEL = {
 
                  ],
     "eventos":  [
-
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Itapetininga a Capão Bonito",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:15:10"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "em viagem para Jardinopolis",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:25"
+                    }
                 ],
     "semped":  [
 
@@ -934,7 +949,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "08:09",
+                                         "dataHora":  "08:24",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -964,15 +979,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.97,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -988,6 +994,15 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.38,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  4.97,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1009,35 +1024,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  3.98,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -1050,7 +1038,34 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  15.89,
+                                                       "km":  16.14,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  3.98,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
