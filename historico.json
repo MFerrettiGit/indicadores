@@ -622,34 +622,52 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "14:55",
+                       "dataHora":  "17:10",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  19.46,
-                                     "tv":  234
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  66.32,
-                                     "tv":  182
+                                     "km":  112.96,
+                                     "tv":  260
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  13.96,
-                                     "tv":  220
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  17.93,
+                                     "tv":  342
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  74.45,
+                                     "tv":  283
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  58.59,
+                                     "tv":  411
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  73.77,
+                                     "tv":  309
                                  },
                                  {
                                      "nome":  "Luis",
@@ -661,40 +679,67 @@
                                      "tv":  240
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  43.84,
-                                     "tv":  179
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  55.88,
-                                     "tv":  199
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  26.86,
-                                     "tv":  223
+                                     "km":  29.57,
+                                     "tv":  248
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  50.46,
+                                     "tv":  348
                                  },
                                  {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  25.93,
+                                     "tv":  369
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  88.52,
+                                     "tv":  191
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  37.97,
+                                     "tv":  207
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
                                      "pe":  2,
-                                     "km":  9.97,
-                                     "tv":  279
+                                     "km":  69.28,
+                                     "tv":  278
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  33.25,
+                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -706,58 +751,13 @@
                                      "tv":  193
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  35.97,
-                                     "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  46.87,
-                                     "tv":  165
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  32.38,
-                                     "tv":  178
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  67.85,
-                                     "tv":  252
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  8.69,
-                                     "tv":  139
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0.7,
+                                     "tv":  106
                                  }
                              ],
                        "cli":  [
@@ -777,6 +777,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "SUPERMERCADOS REX LTDA.",
                                        "p":  1
@@ -789,6 +794,16 @@
                                    {
                                        "n":  "Costa",
                                        "r":  "ERICA VALNICE CORREA INOUE - EPP",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
                                        "p":  1
                                    },
                                    {
@@ -814,6 +829,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "HALINE RODRIGUES SEGHETTO",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {
@@ -852,6 +872,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  0
@@ -872,6 +897,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "MERCADO E PADARIA PANE SILVIO LTDA.",
                                        "p":  1
@@ -889,6 +919,16 @@
                                    {
                                        "n":  "Sao Carlos",
                                        "r":  "ENIVALDO RUI RATTI - EPP.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MARLI TASSI CASTR0-ME.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JADE CAROLINE CONFELLA",
                                        "p":  0
                                    },
                                    {
@@ -912,6 +952,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "BELA TERRA SUPERMERCADO LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                        "p":  1
@@ -929,6 +974,11 @@
                                    {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "ZARELLI SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {
@@ -952,6 +1002,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "DE CASA LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1
@@ -972,6 +1027,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCEARIA LOPES LTDA",
                                        "p":  1
@@ -987,6 +1047,16 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "IRMAOS BARRERA LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                                        "p":  1
@@ -999,6 +1069,16 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO MAXIMO URBANOVA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
                                        "p":  1
                                    },
                                    {
@@ -1024,6 +1104,11 @@
                                    {
                                        "n":  "Nelson",
                                        "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPER G DISTRIB. DE PRODUTOS ALIM. LTDA.",
                                        "p":  0
                                    }
                                ]
