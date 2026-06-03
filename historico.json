@@ -622,7 +622,7 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "17:10",
+                       "dataHora":  "17:42",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -634,6 +634,15 @@
                                      "tv":  260
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  84.03,
+                                     "tv":  324
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -641,15 +650,6 @@
                                      "pe":  3,
                                      "km":  17.93,
                                      "tv":  342
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  74.45,
-                                     "tv":  283
                                  },
                                  {
                                      "nome":  "Costa",
@@ -706,6 +706,15 @@
                                      "tv":  369
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  48.24,
+                                     "tv":  334
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -742,22 +751,13 @@
                                      "tv":  219
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  23.56,
-                                     "tv":  193
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0.7,
-                                     "tv":  106
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  1.4,
+                                     "tv":  169
                                  }
                              ],
                        "cli":  [
@@ -834,6 +834,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1
                                    },
                                    {
@@ -1027,8 +1032,18 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MARIA DULCE DIAS",
                                        "p":  1
                                    },
                                    {

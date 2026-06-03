@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "17:10",
+    "dataHora":  "17:42",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,6 +16,18 @@ window.PAINEL = {
                      "tv":  "04:20:00"
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  84.03,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:35",
+                     "ultimo":  "17:13",
+                     "tv":  "05:24:00"
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -26,18 +38,6 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "16:44",
                      "tv":  "05:42:00"
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  74.45,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:35",
-                     "ultimo":  "16:21",
-                     "tv":  "04:43:00"
                  },
                  {
                      "nome":  "Costa",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "06:09:00"
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  48.24,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "17:35",
+                     "tv":  "05:34:00"
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -160,28 +172,16 @@ window.PAINEL = {
                      "tv":  "03:39:00"
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  23.56,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "12:00",
-                     "tv":  "03:13:00"
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  0.7,
+                     "visitas":  2,
+                     "km":  1.4,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "14:19",
-                     "ultimo":  "16:06",
-                     "tv":  "01:46:00"
+                     "ultimo":  "17:15",
+                     "tv":  "02:49:00"
                  }
              ],
     "checkins":  [
@@ -319,6 +319,15 @@ window.PAINEL = {
                          "out":  "16:21:15",
                          "km":  8.13,
                          "dur":  "01:41:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:31:20",
+                         "out":  "17:13:21",
+                         "km":  9.58,
+                         "dur":  "00:41:00"
                      },
                      {
                          "nome":  "Luis",
@@ -663,6 +672,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "in":  "15:13:28",
+                         "out":  "17:35:10",
+                         "km":  24.68,
+                         "dur":  "02:21:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
@@ -670,6 +688,15 @@ window.PAINEL = {
                          "out":  "16:06:28",
                          "km":  0.7,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MARIA DULCE DIAS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:10:49",
+                         "out":  "17:15:02",
+                         "km":  0.7,
+                         "dur":  "01:03:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -967,7 +994,7 @@ window.PAINEL = {
                         "obs":  "pedido Paraná",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:50"
+                        "tempo":  "02:25:26"
                     },
                     {
                         "nome":  "Nelson",
@@ -975,7 +1002,7 @@ window.PAINEL = {
                         "obs":  "Capão Bonito a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:45:55"
+                        "tempo":  "02:17:31"
                     },
                     {
                         "nome":  "Luis",
@@ -983,7 +1010,7 @@ window.PAINEL = {
                         "obs":  "Montando roteiro do mês",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:37:10"
+                        "tempo":  "02:08:46"
                     },
                     {
                         "nome":  "Rachel",
@@ -991,7 +1018,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:34"
+                        "tempo":  "01:25:10"
                     },
                     {
                         "nome":  "Cominato",
@@ -999,7 +1026,15 @@ window.PAINEL = {
                         "obs":  "Digitar pedido Coocerqui",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:33"
+                        "tempo":  "01:12:09"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:31:06"
                     }
                 ],
     "semped":  [
@@ -1291,7 +1326,7 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     110,
+                     116,
                      29
                  ]
              ],
@@ -1919,7 +1954,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "17:10",
+                                         "dataHora":  "17:42",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1931,6 +1966,15 @@ window.PAINEL = {
                                                        "tv":  260
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  84.03,
+                                                       "tv":  324
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -1938,15 +1982,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  17.93,
                                                        "tv":  342
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  74.45,
-                                                       "tv":  283
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2003,6 +2038,15 @@ window.PAINEL = {
                                                        "tv":  369
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  48.24,
+                                                       "tv":  334
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -2039,22 +2083,13 @@ window.PAINEL = {
                                                        "tv":  219
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  23.56,
-                                                       "tv":  193
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  0.7,
-                                                       "tv":  106
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  1.4,
+                                                       "tv":  169
                                                    }
                                                ],
                                          "cli":  [
@@ -2131,6 +2166,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  1
                                                      },
                                                      {
@@ -2324,8 +2364,18 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MARIA DULCE DIAS",
                                                          "p":  1
                                                      },
                                                      {
