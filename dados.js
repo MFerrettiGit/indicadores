@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "08:39",
+    "dataHora":  "08:54",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -64,6 +64,18 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:35",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -76,16 +88,16 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  19.05,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:35",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "08:44",
+                     "tv":  "00:29:00"
                  },
                  {
                      "nome":  "Castro",
@@ -108,18 +120,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:14",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -148,18 +148,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -174,6 +162,18 @@ window.PAINEL = {
                  {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -202,9 +202,26 @@ window.PAINEL = {
                          "out":  "08:38:26",
                          "km":  13.59,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "08:14:35",
+                         "out":  "08:44:05",
+                         "km":  19.05,
+                         "dur":  "00:29:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Itapetininga a Capão Bonito",
+                        "inicio":  "08:09",
+                        "final":  "08:54",
+                        "tempo":  "00:44:38"
+                    },
                     {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
@@ -214,20 +231,12 @@ window.PAINEL = {
                         "tempo":  "00:18:19"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Itapetininga a Capão Bonito",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:30:06"
-                    },
-                    {
                         "nome":  "Karina",
                         "tipo":  "Outro",
                         "obs":  "exame médico solicitado pelo RH",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:23"
+                        "tempo":  "00:24:23"
                     },
                     {
                         "nome":  "Rachel",
@@ -235,7 +244,7 @@ window.PAINEL = {
                         "obs":  "posse",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:54"
+                        "tempo":  "00:17:54"
                     }
                 ],
     "semped":  [
@@ -359,7 +368,7 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     3,
+                     6,
                      1
                  ]
              ],
@@ -987,7 +996,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "08:39",
+                                         "dataHora":  "08:54",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1035,6 +1044,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -1044,13 +1062,13 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  19.05,
+                                                       "tv":  29
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -1064,15 +1082,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -1098,15 +1107,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -1123,6 +1123,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -1134,6 +1143,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                                          "p":  1
                                                      }
                                                  ]
