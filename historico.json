@@ -622,7 +622,7 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "12:55",
+                       "dataHora":  "14:55",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -652,6 +652,24 @@
                                      "tv":  220
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  14.26,
+                                     "tv":  240
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  43.84,
+                                     "tv":  179
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -661,31 +679,22 @@
                                      "tv":  199
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  11.68,
-                                     "tv":  183
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.73,
-                                     "tv":  164
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  23.14,
-                                     "tv":  207
+                                     "km":  26.86,
+                                     "tv":  223
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  9.97,
+                                     "tv":  279
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -697,6 +706,15 @@
                                      "tv":  193
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  35.97,
+                                     "tv":  237
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -706,31 +724,22 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  8.95,
-                                     "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  32.15,
-                                     "tv":  138
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  23.78,
-                                     "tv":  159
+                                     "km":  32.38,
+                                     "tv":  178
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  67.85,
+                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -740,15 +749,6 @@
                                      "pe":  2,
                                      "km":  8.69,
                                      "tv":  139
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  65.59,
-                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Karina",
@@ -832,6 +832,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
                                        "p":  1
@@ -840,6 +845,11 @@
                                        "n":  "Maira",
                                        "r":  "GONCALVES E GONCALVES LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO MADEAN LTDA.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Rachel",
@@ -854,6 +864,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "SUP. PARE",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA",
                                        "p":  0
                                    },
                                    {
@@ -892,6 +907,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LESSA S LUIZ SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "JR SUPERMERCADOS RAMOS LTDA",
                                        "p":  1
@@ -924,6 +944,11 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "ALTO GIRO SUPERMERCADO LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
                                        "p":  0
                                    },
                                    {
@@ -977,6 +1002,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "OZORIO SOARES DE LIMA MERCEARIA",
                                        "p":  1
@@ -985,6 +1015,16 @@
                                        "n":  "Nelson",
                                        "r":  "VILMA APA. RODRIGUES LICHT MERCEARIA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  0
                                    }
                                ]
                    }
