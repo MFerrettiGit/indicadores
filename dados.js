@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "08:54",
+    "dataHora":  "09:24",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  5.27,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "07:48",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "ultimo":  "08:58",
+                     "tv":  "01:09:00"
                  },
                  {
                      "nome":  "Rachel",
@@ -26,6 +26,18 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "08:36",
                      "tv":  "00:15:00"
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  20.74,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:35",
+                     "ultimo":  "08:58",
+                     "tv":  "00:22:00"
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -64,18 +76,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:35",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -98,6 +98,18 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "08:44",
                      "tv":  "00:29:00"
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  18.69,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:17",
+                     "ultimo":  "08:58",
+                     "tv":  "00:41:00"
                  },
                  {
                      "nome":  "Castro",
@@ -124,18 +136,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  16.14,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:17",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -155,7 +155,7 @@ window.PAINEL = {
                      "km":  0.51,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:55",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -167,7 +167,7 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:20",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -185,6 +185,24 @@ window.PAINEL = {
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VARZEA PAULISTA",
+                         "in":  "07:48:24",
+                         "out":  "08:58:30",
+                         "km":  5.27,
+                         "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "JARDINOPOLIS",
+                         "in":  "08:35:29",
+                         "out":  "08:58:52",
+                         "km":  20.74,
+                         "dur":  "00:22:00"
+                     },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
@@ -211,9 +229,26 @@ window.PAINEL = {
                          "out":  "08:44:05",
                          "km":  19.05,
                          "dur":  "00:29:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "08:17:10",
+                         "out":  "08:58:26",
+                         "km":  2.55,
+                         "dur":  "00:41:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "posse",
+                        "inicio":  "08:36",
+                        "final":  "08:55",
+                        "tempo":  "00:18:38"
+                    },
                     {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
@@ -236,18 +271,16 @@ window.PAINEL = {
                         "obs":  "exame médico solicitado pelo RH",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:23"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "posse",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:17:54"
+                        "tempo":  "00:54:35"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA",
+                       "mun":  "VARZEA PAULISTA",
+                       "obs":  "estocado"
+                   },
                    {
                        "nome":  "Rachel",
                        "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
@@ -368,8 +401,8 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     6,
-                     1
+                     10,
+                     2
                  ]
              ],
     "historico":  {
@@ -996,16 +1029,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "08:54",
+                                         "dataHora":  "09:24",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  5.27,
+                                                       "tv":  69
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -1015,6 +1048,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  5.35,
                                                        "tv":  15
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  20.74,
+                                                       "tv":  22
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -1044,15 +1086,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -1071,6 +1104,15 @@ window.PAINEL = {
                                                        "tv":  29
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  18.69,
+                                                       "tv":  41
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -1086,15 +1128,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  16.14,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1136,6 +1169,16 @@ window.PAINEL = {
                                                ],
                                          "cli":  [
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                                          "p":  0
@@ -1148,6 +1191,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Eugenio",
                                                          "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                                                          "p":  1
                                                      }
                                                  ]

@@ -622,16 +622,16 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "08:54",
+                       "dataHora":  "09:24",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  5.27,
+                                     "tv":  69
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -641,6 +641,15 @@
                                      "pe":  0,
                                      "km":  5.35,
                                      "tv":  15
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  20.74,
+                                     "tv":  22
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -670,15 +679,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -697,6 +697,15 @@
                                      "tv":  29
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  18.69,
+                                     "tv":  41
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -712,15 +721,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  16.14,
                                      "tv":  0
                                  },
                                  {
@@ -762,6 +762,16 @@
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  0
@@ -774,6 +784,11 @@
                                    {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                                        "p":  1
                                    }
                                ]
