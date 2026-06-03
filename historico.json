@@ -622,7 +622,7 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "17:42",
+                       "dataHora":  "17:55",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -630,8 +630,17 @@
                                      "regional":  "INTERIOR SP",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  112.96,
+                                     "km":  208.44,
                                      "tv":  260
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  3,
+                                     "km":  19.79,
+                                     "tv":  384
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -641,15 +650,6 @@
                                      "pe":  7,
                                      "km":  84.03,
                                      "tv":  324
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  3,
-                                     "km":  17.93,
-                                     "tv":  342
                                  },
                                  {
                                      "nome":  "Costa",
@@ -675,7 +675,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  14.26,
+                                     "km":  16.08,
                                      "tv":  240
                                  },
                                  {
@@ -684,7 +684,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  29.57,
+                                     "km":  46.09,
                                      "tv":  248
                                  },
                                  {
@@ -720,7 +720,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  4,
-                                     "km":  88.52,
+                                     "km":  129.38,
                                      "tv":  191
                                  },
                                  {
@@ -729,7 +729,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  37.97,
+                                     "km":  39.98,
                                      "tv":  207
                                  },
                                  {
@@ -937,6 +937,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ROBSON FEDES - ME.",
                                        "p":  1
@@ -1069,6 +1074,11 @@
                                    {
                                        "n":  "Lucas",
                                        "r":  "IRMAOS BARRERA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
                                        "p":  1
                                    },
                                    {

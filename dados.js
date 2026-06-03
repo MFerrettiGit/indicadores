@@ -1,19 +1,31 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "17:42",
+    "dataHora":  "17:55",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "visitas":  4,
-                     "km":  112.96,
+                     "km":  208.44,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "07:48",
                      "ultimo":  "16:01",
                      "tv":  "04:20:00"
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  19.79,
+                     "semPed":  4,
+                     "perc":  57.14,
+                     "primeiro":  "08:00",
+                     "ultimo":  "17:42",
+                     "tv":  "06:24:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -26,18 +38,6 @@ window.PAINEL = {
                      "primeiro":  "08:35",
                      "ultimo":  "17:13",
                      "tv":  "05:24:00"
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  17.93,
-                     "semPed":  3,
-                     "perc":  50,
-                     "primeiro":  "08:00",
-                     "ultimo":  "16:44",
-                     "tv":  "05:42:00"
                  },
                  {
                      "nome":  "Costa",
@@ -68,7 +68,7 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  14.26,
+                     "km":  16.08,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:19",
@@ -80,7 +80,7 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  29.57,
+                     "km":  46.09,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:35",
@@ -128,7 +128,7 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  88.52,
+                     "km":  129.38,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:21",
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  37.97,
+                     "km":  39.98,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:22",
@@ -501,6 +501,15 @@ window.PAINEL = {
                          "dur":  "00:41:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:59:26",
+                         "out":  "17:42:24",
+                         "km":  1.86,
+                         "dur":  "00:42:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ROBSON FEDES - ME.",
                          "mun":  "CAMPINAS",
@@ -744,6 +753,15 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
+                         "mun":  "ELIAS FAUSTO",
+                         "in":  "16:38:26",
+                         "out":  "17:54:21",
+                         "km":  9.42,
+                         "dur":  "01:15:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
@@ -845,6 +863,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedido Paraná",
+                        "inicio":  "15:16",
+                        "final":  "17:47",
+                        "tempo":  "02:30:37"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -917,6 +943,14 @@ window.PAINEL = {
                         "tempo":  "00:57:23"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Montando roteiro do mês",
+                        "inicio":  "15:33",
+                        "final":  "17:49",
+                        "tempo":  "02:16:35"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a Capão Bonito",
@@ -933,6 +967,14 @@ window.PAINEL = {
                         "tempo":  "01:03:10"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Capão Bonito a Itapetininga",
+                        "inicio":  "15:24",
+                        "final":  "17:44",
+                        "tempo":  "02:20:20"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
@@ -941,12 +983,28 @@ window.PAINEL = {
                         "tempo":  "00:57:51"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  "17:10",
+                        "final":  "17:50",
+                        "tempo":  "00:39:56"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  "12:38",
                         "final":  "13:38",
                         "tempo":  "01:00:03"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido Coocerqui",
+                        "inicio":  "16:29",
+                        "final":  "17:49",
+                        "tempo":  "01:20:00"
                     },
                     {
                         "nome":  "Fernando",
@@ -989,52 +1047,12 @@ window.PAINEL = {
                         "tempo":  "01:01:03"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "pedido Paraná",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:25:26"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Capão Bonito a Itapetininga",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:17:31"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "Montando roteiro do mês",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:08:46"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:25:10"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Digitar pedido Coocerqui",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:12:09"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:31:06"
+                        "tempo":  "01:38:39"
                     }
                 ],
     "semped":  [
@@ -1211,6 +1229,12 @@ window.PAINEL = {
                        "razao":  "JADE CAROLINE CONFELLA",
                        "mun":  "SAO CARLOS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "hist":  [
@@ -1326,8 +1350,8 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     116,
-                     29
+                     117,
+                     30
                  ]
              ],
     "historico":  {
@@ -1954,7 +1978,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "17:42",
+                                         "dataHora":  "17:55",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1962,8 +1986,17 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  112.96,
+                                                       "km":  208.44,
                                                        "tv":  260
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  3,
+                                                       "km":  19.79,
+                                                       "tv":  384
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -1973,15 +2006,6 @@ window.PAINEL = {
                                                        "pe":  7,
                                                        "km":  84.03,
                                                        "tv":  324
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  3,
-                                                       "km":  17.93,
-                                                       "tv":  342
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2007,7 +2031,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  14.26,
+                                                       "km":  16.08,
                                                        "tv":  240
                                                    },
                                                    {
@@ -2016,7 +2040,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  29.57,
+                                                       "km":  46.09,
                                                        "tv":  248
                                                    },
                                                    {
@@ -2052,7 +2076,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  88.52,
+                                                       "km":  129.38,
                                                        "tv":  191
                                                    },
                                                    {
@@ -2061,7 +2085,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  37.97,
+                                                       "km":  39.98,
                                                        "tv":  207
                                                    },
                                                    {
@@ -2269,6 +2293,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ROBSON FEDES - ME.",
                                                          "p":  1
@@ -2401,6 +2430,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Lucas",
                                                          "r":  "IRMAOS BARRERA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
                                                          "p":  1
                                                      },
                                                      {
