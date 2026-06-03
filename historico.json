@@ -622,7 +622,7 @@
                                ]
                    },
     "2026-06-03":  {
-                       "dataHora":  "08:24",
+                       "dataHora":  "08:39",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -632,6 +632,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  5.35,
+                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -661,15 +670,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.38,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -686,6 +686,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  13.59,
+                                     "tv":  16
                                  },
                                  {
                                      "nome":  "Alan",
@@ -715,30 +724,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  3.98,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -758,10 +749,28 @@
                                      "pe":  0,
                                      "km":  0.51,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
-
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                       "p":  1
+                                   }
                                ]
                    }
 }

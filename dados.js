@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "08:24",
+    "dataHora":  "08:39",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,18 @@ window.PAINEL = {
                      "primeiro":  "07:48",
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  5.35,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:20",
+                     "ultimo":  "08:36",
+                     "tv":  "00:15:00"
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -52,18 +64,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.38,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:20",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "km":  4.97,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:35",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -83,9 +83,21 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:35",
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  13.59,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:21",
+                     "ultimo":  "08:38",
+                     "tv":  "00:16:00"
                  },
                  {
                      "nome":  "Alan",
@@ -124,18 +136,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:21",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -144,18 +144,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:22",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -182,31 +170,81 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
                  }
              ],
     "checkins":  [
-
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "in":  "08:20:31",
+                         "out":  "08:36:06",
+                         "km":  4.97,
+                         "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:21:38",
+                         "out":  "08:38:26",
+                         "km":  13.59,
+                         "dur":  "00:16:00"
+                     }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "em viagem para Jardinopolis",
+                        "inicio":  "08:16",
+                        "final":  "08:34",
+                        "tempo":  "00:18:19"
+                    },
                     {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a Capão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:10"
+                        "tempo":  "00:30:06"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Em Viagem",
-                        "obs":  "em viagem para Jardinopolis",
+                        "nome":  "Karina",
+                        "tipo":  "Outro",
+                        "obs":  "exame médico solicitado pelo RH",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:25"
+                        "tempo":  "00:09:23"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "posse",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:54"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                       "mun":  "AMPARO",
+                       "obs":  "."
+                   }
                ],
     "hist":  [
                  [
@@ -321,8 +359,8 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     1,
-                     0
+                     3,
+                     1
                  ]
              ],
     "historico":  {
@@ -949,7 +987,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "08:24",
+                                         "dataHora":  "08:39",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -959,6 +997,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  5.35,
+                                                       "tv":  15
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -988,15 +1035,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.38,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -1013,6 +1051,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  13.59,
+                                                       "tv":  16
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -1042,30 +1089,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  3.98,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1085,10 +1114,28 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0.51,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
-
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                                         "p":  1
+                                                     }
                                                  ]
                                      }
                   }
