@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "03/06/2026",
-    "dataHora":  "10:33",
+    "dataHora":  "10:54",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  1,
-                     "km":  5.27,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  14.23,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "07:48",
-                     "ultimo":  "08:58",
-                     "tv":  "01:09:00"
+                     "ultimo":  "10:49",
+                     "tv":  "02:39:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -79,13 +79,13 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  4.97,
+                     "visitas":  1,
+                     "km":  20.17,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:35",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "ultimo":  "10:49",
+                     "tv":  "02:14:00"
                  },
                  {
                      "nome":  "Castro",
@@ -195,6 +195,15 @@ window.PAINEL = {
                          "dur":  "01:09:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "in":  "09:18:51",
+                         "out":  "10:49:02",
+                         "km":  8.96,
+                         "dur":  "01:30:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
@@ -229,6 +238,15 @@ window.PAINEL = {
                          "out":  "10:07:22",
                          "km":  3.89,
                          "dur":  "01:48:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
+                         "mun":  "SUMARE",
+                         "in":  "08:35:33",
+                         "out":  "10:49:48",
+                         "km":  15.2,
+                         "dur":  "02:14:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -379,7 +397,7 @@ window.PAINEL = {
                         "obs":  "exame médico solicitado pelo RH",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:03:26"
+                        "tempo":  "02:24:36"
                     }
                 ],
     "semped":  [
@@ -387,6 +405,12 @@ window.PAINEL = {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA",
                        "mun":  "VARZEA PAULISTA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA - LJ.03",
+                       "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
                    {
@@ -521,8 +545,8 @@ window.PAINEL = {
                  ],
                  [
                      "03/06",
-                     29,
-                     4
+                     31,
+                     5
                  ]
              ],
     "historico":  {
@@ -1149,16 +1173,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-03":  {
-                                         "dataHora":  "10:33",
+                                         "dataHora":  "10:54",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  5.27,
-                                                       "tv":  69
+                                                       "km":  14.23,
+                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -1209,10 +1233,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.97,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  20.17,
+                                                       "tv":  134
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -1294,6 +1318,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.03",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "SUPERMERCADOS REX LTDA.",
                                                          "p":  1
@@ -1312,6 +1341,11 @@ window.PAINEL = {
                                                          "n":  "Luis",
                                                          "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "COMERCIO DE GEN.ALIMENTICIOS PARANA LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Rachel",
