@@ -1139,7 +1139,7 @@
                                ]
                    },
     "2026-06-04":  {
-                       "dataHora":  "09:24",
+                       "dataHora":  "10:54",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1205,15 +1205,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -1270,6 +1261,15 @@
                                  {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
