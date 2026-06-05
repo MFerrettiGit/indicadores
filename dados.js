@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "08:39",
+    "dataHora":  "08:54",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,30 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  12.71,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:29",
+                     "ultimo":  "08:53",
+                     "tv":  "00:23:00"
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  3.85,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:30",
+                     "ultimo":  "08:52",
+                     "tv":  "00:21:00"
                  },
                  {
                      "nome":  "Costa",
@@ -36,30 +60,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:23",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:29",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.66,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:30",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  20.19,
+                     "visitas":  2,
+                     "km":  21.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:02",
-                     "ultimo":  "08:26",
-                     "tv":  "00:24:00"
+                     "ultimo":  "08:49",
+                     "tv":  "00:41:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -160,18 +160,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:34",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -182,9 +170,39 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0.18,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:34",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Luis",
+                         "razao":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
+                         "mun":  "FRANCA",
+                         "in":  "08:30:57",
+                         "out":  "08:52:50",
+                         "km":  3.19,
+                         "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "08:29:29",
+                         "out":  "08:53:18",
+                         "km":  12.71,
+                         "dur":  "00:23:00"
+                     },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
@@ -202,6 +220,15 @@ window.PAINEL = {
                          "out":  "08:26:38",
                          "km":  20.04,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "ARMAZEM GALDINO LTDA",
+                         "mun":  "MAIRIPORA",
+                         "in":  "08:31:09",
+                         "out":  "08:49:11",
+                         "km":  1.22,
+                         "dur":  "00:17:00"
                      }
                  ],
     "eventos":  [
@@ -219,7 +246,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:46"
+                        "tempo":  "01:07:51"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -227,10 +254,22 @@ window.PAINEL = {
                         "obs":  "São Carlos a Dourado",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:02"
+                        "tempo":  "00:42:07"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
+                       "mun":  "FRANCA",
+                       "obs":  "estoque alto"
+                   },
                    {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
@@ -346,8 +385,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     4,
-                     1
+                     8,
+                     3
                  ]
              ],
     "historico":  {
@@ -1634,7 +1673,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "08:39",
+                                         "dataHora":  "08:54",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1644,6 +1683,24 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  12.71,
+                                                       "tv":  23
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  3.85,
+                                                       "tv":  21
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -1661,24 +1718,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  5.36,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.66,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1703,10 +1742,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  20.19,
-                                                       "tv":  24
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  21.41,
+                                                       "tv":  41
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -1754,15 +1793,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.18,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -1770,13 +1800,37 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0.61,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.18,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "ARMAZEM GALDINO LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Eugenio",

@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "08:39",
+                       "dataHora":  "08:54",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1292,6 +1292,24 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  12.71,
+                                     "tv":  23
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  3.85,
+                                     "tv":  21
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1309,24 +1327,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  5.36,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.66,
                                      "tv":  0
                                  },
                                  {
@@ -1351,10 +1351,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  20.19,
-                                     "tv":  24
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  21.41,
+                                     "tv":  41
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -1402,15 +1402,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -1418,13 +1409,37 @@
                                      "pe":  0,
                                      "km":  0.61,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.18,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Luis",
+                                       "r":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "ARMAZEM GALDINO LTDA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Eugenio",
