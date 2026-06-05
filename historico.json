@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1306,10 +1306,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  2,
-                                     "km":  47.39,
-                                     "tv":  183
+                                     "km":  48.27,
+                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1366,6 +1366,15 @@
                                      "tv":  145
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  83.88,
+                                     "tv":  268
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -1373,15 +1382,6 @@
                                      "pe":  4,
                                      "km":  18.09,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  55.3,
-                                     "tv":  216
                                  },
                                  {
                                      "nome":  "Alan",
@@ -1492,6 +1492,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J.L. DAOLIO",
                                        "p":  0
@@ -1514,6 +1519,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "MIX VALI COMERCIO DE PRODUTOS ALIMENTICI",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                        "p":  0
                                    },
                                    {
@@ -1554,6 +1564,11 @@
                                    {
                                        "n":  "Castro",
                                        "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO CORAL LTDA",
                                        "p":  0
                                    },
                                    {

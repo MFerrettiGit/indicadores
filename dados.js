@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -31,13 +31,13 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  47.39,
-                     "semPed":  2,
-                     "perc":  50,
+                     "visitas":  5,
+                     "km":  48.27,
+                     "semPed":  3,
+                     "perc":  60,
                      "primeiro":  "08:29",
-                     "ultimo":  "13:44",
-                     "tv":  "03:03:00"
+                     "ultimo":  "14:08",
+                     "tv":  "03:21:00"
                  },
                  {
                      "nome":  "Luis",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "02:25:00"
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  83.88,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:23",
+                     "ultimo":  "14:05",
+                     "tv":  "04:28:00"
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -122,18 +134,6 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "12:56",
                      "tv":  "02:55:00"
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  55.3,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:23",
-                     "ultimo":  "12:39",
-                     "tv":  "03:36:00"
                  },
                  {
                      "nome":  "Alan",
@@ -312,6 +312,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO IBIRAPUERA LTDA",
+                         "mun":  "PAULINIA",
+                         "in":  "13:50:05",
+                         "out":  "14:08:25",
+                         "km":  0.88,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "PEDREIRA",
@@ -355,6 +364,15 @@ window.PAINEL = {
                          "out":  "13:28:30",
                          "km":  2.53,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "JAGUARIUNA",
+                         "in":  "13:34:16",
+                         "out":  "14:09:35",
+                         "km":  2.65,
+                         "dur":  "00:35:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -427,6 +445,15 @@ window.PAINEL = {
                          "out":  "12:39:19",
                          "km":  26.5,
                          "dur":  "02:00:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO CORAL LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "in":  "13:12:14",
+                         "out":  "14:05:10",
+                         "km":  28.58,
+                         "dur":  "00:52:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -636,6 +663,22 @@ window.PAINEL = {
                         "tempo":  "00:57:32"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:07",
+                        "final":  "14:08",
+                        "tempo":  "01:00:56"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:21",
+                        "final":  "14:03",
+                        "tempo":  "00:41:36"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -676,12 +719,28 @@ window.PAINEL = {
                         "tempo":  "00:59:11"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:56",
+                        "final":  "13:57",
+                        "tempo":  "01:01:37"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:50",
                         "final":  "13:50",
                         "tempo":  "01:00:02"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:05",
+                        "final":  "14:08",
+                        "tempo":  "01:02:18"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -713,7 +772,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:08:21"
+                        "tempo":  "06:23:29"
                     },
                     {
                         "nome":  "Karina",
@@ -721,31 +780,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:42:35"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:57"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:12"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:32"
+                        "tempo":  "01:57:43"
                     },
                     {
                         "nome":  "Nelson",
@@ -753,15 +788,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:55"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:33:20"
+                        "tempo":  "00:58:03"
                     }
                 ],
     "semped":  [
@@ -774,6 +801,12 @@ window.PAINEL = {
                    {
                        "nome":  "Maira",
                        "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                       "mun":  "PAULINIA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO IBIRAPUERA LTDA",
                        "mun":  "PAULINIA",
                        "obs":  "estocado"
                    },
@@ -826,6 +859,12 @@ window.PAINEL = {
                        "obs":  "."
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                       "mun":  "JAGUARIUNA",
+                       "obs":  "."
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
                        "mun":  "FRANCA",
@@ -865,6 +904,12 @@ window.PAINEL = {
                        "nome":  "Castro",
                        "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
                        "mun":  "JUNDIAI",
+                       "obs":  "sugestão central"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "SUPERMERCADO CORAL LTDA",
+                       "mun":  "CAMPO LIMPO PAU",
                        "obs":  "sugestão central"
                    },
                    {
@@ -1012,8 +1057,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     71,
-                     23
+                     75,
+                     25
                  ]
              ],
     "historico":  {
@@ -2300,7 +2345,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2324,10 +2369,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  2,
-                                                       "km":  47.39,
-                                                       "tv":  183
+                                                       "km":  48.27,
+                                                       "tv":  201
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2384,6 +2429,15 @@ window.PAINEL = {
                                                        "tv":  145
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  83.88,
+                                                       "tv":  268
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2391,15 +2445,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  18.09,
                                                        "tv":  175
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  55.3,
-                                                       "tv":  216
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2510,6 +2555,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "J.L. DAOLIO",
                                                          "p":  0
@@ -2532,6 +2582,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "MIX VALI COMERCIO DE PRODUTOS ALIMENTICI",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                                          "p":  0
                                                      },
                                                      {
@@ -2572,6 +2627,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO CORAL LTDA",
                                                          "p":  0
                                                      },
                                                      {
