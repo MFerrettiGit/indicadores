@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "01:23:00"
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  7.56,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "10:13",
+                     "tv":  "01:43:00"
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -134,18 +146,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "09:23",
                      "tv":  "01:14:00"
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  4.29,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "09:06",
-                     "tv":  "00:47:00"
                  },
                  {
                      "nome":  "Alan",
@@ -357,6 +357,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "09:16:58",
+                         "out":  "10:13:36",
+                         "km":  3.27,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
@@ -389,7 +398,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:22:52"
+                        "tempo":  "02:37:57"
                     },
                     {
                         "nome":  "Nelson",
@@ -397,7 +406,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:16"
+                        "tempo":  "00:59:21"
                     }
                 ],
     "semped":  [
@@ -582,8 +591,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     29,
-                     11
+                     32,
+                     12
                  ]
              ],
     "historico":  {
@@ -1870,7 +1879,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1954,6 +1963,15 @@ window.PAINEL = {
                                                        "tv":  83
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  7.56,
+                                                       "tv":  103
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -1970,15 +1988,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  1.39,
                                                        "tv":  74
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  4.29,
-                                                       "tv":  47
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2102,6 +2111,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "EDMILSON CURI DE ANDRADE",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
                                                          "p":  1
                                                      },
                                                      {

@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1366,6 +1366,15 @@
                                      "tv":  83
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.56,
+                                     "tv":  103
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -1382,15 +1391,6 @@
                                      "pe":  0,
                                      "km":  1.39,
                                      "tv":  74
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.29,
-                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Alan",
@@ -1514,6 +1514,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "EDMILSON CURI DE ANDRADE",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
                                        "p":  1
                                    },
                                    {
