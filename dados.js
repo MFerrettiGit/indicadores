@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -19,13 +19,13 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  40.24,
-                     "semPed":  5,
+                     "visitas":  6,
+                     "km":  42.89,
+                     "semPed":  6,
                      "perc":  100,
                      "primeiro":  "08:23",
-                     "ultimo":  "13:28",
-                     "tv":  "03:00:00"
+                     "ultimo":  "14:09",
+                     "tv":  "03:35:00"
                  },
                  {
                      "nome":  "Maira",
@@ -679,6 +679,14 @@ window.PAINEL = {
                         "tempo":  "00:41:36"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:12",
+                        "final":  "14:19",
+                        "tempo":  "02:06:30"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -772,15 +780,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:23:29"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:57:43"
+                        "tempo":  "06:38:28"
                     },
                     {
                         "nome":  "Nelson",
@@ -788,7 +788,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:03"
+                        "tempo":  "01:13:02"
                     }
                 ],
     "semped":  [
@@ -1057,8 +1057,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     75,
-                     25
+                     77,
+                     26
                  ]
              ],
     "historico":  {
@@ -2345,7 +2345,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2360,10 +2360,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  40.24,
-                                                       "tv":  180
+                                                       "km":  42.89,
+                                                       "tv":  215
                                                    },
                                                    {
                                                        "nome":  "Maira",
