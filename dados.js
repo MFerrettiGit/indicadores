@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -136,6 +136,18 @@ window.PAINEL = {
                      "tv":  "01:43:00"
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  3.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "11:49",
+                     "tv":  "02:39:00"
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -158,18 +170,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "09:32",
                      "tv":  "01:09:00"
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  0.34,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "09:15",
-                     "tv":  "00:40:00"
                  },
                  {
                      "nome":  "Lucas",
@@ -438,6 +438,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "09:48:27",
+                         "out":  "11:49:15",
+                         "km":  3.57,
+                         "dur":  "01:59:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
@@ -484,6 +493,14 @@ window.PAINEL = {
                         "tempo":  "00:09:44"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Cerquilho piracicaba",
+                        "inicio":  "10:52",
+                        "final":  "11:44",
+                        "tempo":  "00:52:36"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Dourado",
@@ -497,7 +514,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:53:00"
+                        "tempo":  "04:08:04"
                     },
                     {
                         "nome":  "Nelson",
@@ -505,15 +522,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:24"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Cerquilho piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:27"
+                        "tempo":  "02:29:28"
                     },
                     {
                         "nome":  "Rachel",
@@ -521,7 +530,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:09"
+                        "tempo":  "00:39:13"
                     }
                 ],
     "semped":  [
@@ -730,7 +739,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     49,
+                     50,
                      16
                  ]
              ],
@@ -2018,7 +2027,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2120,6 +2129,15 @@ window.PAINEL = {
                                                        "tv":  103
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  3.91,
+                                                       "tv":  159
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -2136,15 +2154,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.31,
                                                        "tv":  69
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  0.34,
-                                                       "tv":  40
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -2295,6 +2304,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "LOJAS ESTRELA DO LAR LTDA",
                                                          "p":  1
                                                      },
                                                      {
