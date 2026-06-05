@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -136,6 +136,18 @@ window.PAINEL = {
                      "tv":  "03:36:00"
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  10.66,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:22",
+                     "ultimo":  "13:19",
+                     "tv":  "04:37:00"
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -170,18 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "09:23",
                      "tv":  "01:14:00"
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  7.31,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:22",
-                     "ultimo":  "09:32",
-                     "tv":  "01:09:00"
                  }
              ],
     "checkins":  [
@@ -364,6 +364,15 @@ window.PAINEL = {
                          "out":  "09:32:32",
                          "km":  7,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:51:01",
+                         "out":  "13:19:28",
+                         "km":  3.35,
+                         "dur":  "03:28:00"
                      },
                      {
                          "nome":  "Castro",
@@ -601,6 +610,14 @@ window.PAINEL = {
                         "tempo":  "00:09:44"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:25",
+                        "final":  "13:22",
+                        "tempo":  "00:57:32"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -609,12 +626,36 @@ window.PAINEL = {
                         "tempo":  "00:53:21"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:15",
+                        "final":  "13:12",
+                        "tempo":  "00:56:48"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Manutencao",
+                        "obs":  "Manutenção do veículo (Paulo ciente)",
+                        "inicio":  "09:25",
+                        "final":  "13:11",
+                        "tempo":  "03:46:35"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Cerquilho piracicaba",
                         "inicio":  "10:52",
                         "final":  "11:44",
                         "tempo":  "00:52:36"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:24",
+                        "final":  "13:23",
+                        "tempo":  "00:59:11"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -638,15 +679,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:23:14"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Manutencao",
-                        "obs":  "Manutenção do veículo (Paulo ciente)",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "03:44:38"
+                        "tempo":  "05:38:12"
                     },
                     {
                         "nome":  "Karina",
@@ -654,31 +687,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:57:28"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:12"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:49"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:34"
+                        "tempo":  "01:12:26"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -686,7 +695,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:21"
+                        "tempo":  "00:45:19"
                     },
                     {
                         "nome":  "Costa",
@@ -694,7 +703,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:19"
+                        "tempo":  "00:34:17"
                     },
                     {
                         "nome":  "Fernando",
@@ -702,7 +711,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:50"
+                        "tempo":  "00:28:48"
                     },
                     {
                         "nome":  "Mariangela",
@@ -710,7 +719,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:05"
+                        "tempo":  "00:19:03"
                     },
                     {
                         "nome":  "Eugenio",
@@ -718,7 +727,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:25"
+                        "tempo":  "00:17:23"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:46"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:11"
                     }
                 ],
     "semped":  [
@@ -957,7 +982,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     66,
+                     67,
                      21
                  ]
              ],
@@ -2245,7 +2270,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2347,6 +2372,15 @@ window.PAINEL = {
                                                        "tv":  216
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  10.66,
+                                                       "tv":  277
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -2372,15 +2406,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  1.39,
                                                        "tv":  74
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  7.31,
-                                                       "tv":  69
                                                    }
                                                ],
                                          "cli":  [
@@ -2483,6 +2508,11 @@ window.PAINEL = {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "LESSA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Castro",

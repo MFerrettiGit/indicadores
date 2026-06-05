@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1384,6 +1384,15 @@
                                      "tv":  216
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  10.66,
+                                     "tv":  277
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -1409,15 +1418,6 @@
                                      "pe":  0,
                                      "km":  1.39,
                                      "tv":  74
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  7.31,
-                                     "tv":  69
                                  }
                              ],
                        "cli":  [
@@ -1520,6 +1520,11 @@
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Castro",
