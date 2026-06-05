@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1292,6 +1292,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  37.71,
+                                     "tv":  164
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1310,15 +1319,6 @@
                                      "pe":  2,
                                      "km":  61.56,
                                      "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  22.78,
-                                     "tv":  128
                                  },
                                  {
                                      "nome":  "Maira",
@@ -1366,6 +1366,15 @@
                                      "tv":  145
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  18.09,
+                                     "tv":  175
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -1373,15 +1382,6 @@
                                      "pe":  2,
                                      "km":  55.3,
                                      "tv":  216
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  16.6,
-                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Karina",
@@ -1499,6 +1499,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA",
                                        "p":  0
                                    },
                                    {
@@ -1629,6 +1634,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO MANDARIN LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO VILA TESOURO LTDA",
                                        "p":  1
                                    },
                                    {

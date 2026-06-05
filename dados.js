@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,18 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  37.71,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:23",
+                     "ultimo":  "13:02",
+                     "tv":  "02:44:00"
                  },
                  {
                      "nome":  "Luis",
@@ -38,18 +50,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "12:15",
                      "tv":  "02:54:00"
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  22.78,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:23",
-                     "ultimo":  "10:44",
-                     "tv":  "02:08:00"
                  },
                  {
                      "nome":  "Maira",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "02:25:00"
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  18.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "12:56",
+                     "tv":  "02:55:00"
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -122,18 +134,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "12:39",
                      "tv":  "03:36:00"
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  16.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "12:19",
-                     "tv":  "02:29:00"
                  },
                  {
                      "nome":  "Karina",
@@ -328,6 +328,15 @@ window.PAINEL = {
                          "out":  "10:44:33",
                          "km":  1.77,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA",
+                         "mun":  "JAGUARIUNA",
+                         "in":  "12:26:07",
+                         "out":  "13:02:54",
+                         "km":  14.93,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -564,6 +573,15 @@ window.PAINEL = {
                          "dur":  "00:46:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO VILA TESOURO LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "12:29:51",
+                         "out":  "12:56:31",
+                         "km":  1.49,
+                         "dur":  "00:26:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
@@ -620,7 +638,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:08:13"
+                        "tempo":  "05:23:14"
                     },
                     {
                         "nome":  "Nelson",
@@ -628,7 +646,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:29:37"
+                        "tempo":  "03:44:38"
                     },
                     {
                         "nome":  "Karina",
@@ -636,7 +654,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:27"
+                        "tempo":  "00:57:28"
                     },
                     {
                         "nome":  "Luis",
@@ -644,7 +662,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:11"
+                        "tempo":  "00:54:12"
                     },
                     {
                         "nome":  "Cominato",
@@ -652,7 +670,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:48"
+                        "tempo":  "00:45:49"
                     },
                     {
                         "nome":  "Maira",
@@ -660,7 +678,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:33"
+                        "tempo":  "00:44:34"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -668,7 +686,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:20"
+                        "tempo":  "00:30:21"
                     },
                     {
                         "nome":  "Costa",
@@ -676,7 +694,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:18"
+                        "tempo":  "00:19:19"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:50"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:05"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:25"
                     }
                 ],
     "semped":  [
@@ -720,6 +762,12 @@ window.PAINEL = {
                        "nome":  "Rachel",
                        "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                        "mun":  "PEDREIRA",
+                       "obs":  "."
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "ANTONELLI SUPERMERCADO LTDA",
+                       "mun":  "JAGUARIUNA",
                        "obs":  "."
                    },
                    {
@@ -909,8 +957,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     62,
-                     20
+                     66,
+                     21
                  ]
              ],
     "historico":  {
@@ -2197,7 +2245,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2207,6 +2255,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  37.71,
+                                                       "tv":  164
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2225,15 +2282,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  61.56,
                                                        "tv":  174
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  22.78,
-                                                       "tv":  128
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -2281,6 +2329,15 @@ window.PAINEL = {
                                                        "tv":  145
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  18.09,
+                                                       "tv":  175
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -2288,15 +2345,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  55.3,
                                                        "tv":  216
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  16.6,
-                                                       "tv":  149
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -2414,6 +2462,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "ANTONELLI SUPERMERCADO LTDA",
                                                          "p":  0
                                                      },
                                                      {
@@ -2544,6 +2597,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "SUPERMERCADO MANDARIN LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO VILA TESOURO LTDA",
                                                          "p":  1
                                                      },
                                                      {
