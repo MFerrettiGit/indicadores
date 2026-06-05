@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1292,6 +1292,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  50.69,
+                                     "tv":  76
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -1321,15 +1330,6 @@
                                      "tv":  21
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  50.69,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -1351,19 +1351,28 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  21.41,
-                                     "tv":  41
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  22.93,
+                                     "tv":  60
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  113.58,
+                                     "tv":  49
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  0,
-                                     "km":  87.96,
-                                     "tv":  18
+                                     "km":  1.39,
+                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1375,13 +1384,13 @@
                                      "tv":  47
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.51,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0.34,
+                                     "tv":  40
                                  },
                                  {
                                      "nome":  "Alan",
@@ -1402,15 +1411,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -1421,6 +1421,11 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
+                                       "p":  1
+                                   },
                                    {
                                        "n":  "Luis",
                                        "r":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
@@ -1442,6 +1447,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "ARMAZEM GALDINO LTDA",
                                        "p":  1
@@ -1449,12 +1459,27 @@
                                    {
                                        "n":  "Eugenio",
                                        "r":  "ARMAZEM GALDINO LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "M T P MIHARA MERCEARIA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                        "p":  1
                                    },
                                    {
                                        "n":  "Mariangela",
                                        "r":  "EDMILSON CURI DE ANDRADE",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0
                                    }
                                ]
                    }

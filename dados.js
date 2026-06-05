@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,18 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  50.69,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:03",
+                     "ultimo":  "09:20",
+                     "tv":  "01:16:00"
                  },
                  {
                      "nome":  "Rachel",
@@ -52,18 +64,6 @@ window.PAINEL = {
                      "tv":  "00:21:00"
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  50.69,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -83,7 +83,7 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:16",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -91,25 +91,37 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  21.41,
+                     "visitas":  3,
+                     "km":  22.93,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:02",
-                     "ultimo":  "08:49",
-                     "tv":  "00:41:00"
+                     "ultimo":  "09:14",
+                     "tv":  "01:00:00"
                  },
                  {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  87.96,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  113.58,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:03",
-                     "ultimo":  "08:22",
-                     "tv":  "00:18:00"
+                     "ultimo":  "09:21",
+                     "tv":  "00:49:00"
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  1.39,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:08",
+                     "ultimo":  "09:23",
+                     "tv":  "01:14:00"
                  },
                  {
                      "nome":  "Mariangela",
@@ -124,16 +136,16 @@ window.PAINEL = {
                      "tv":  "00:47:00"
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.51,
+                     "visitas":  1,
+                     "km":  0.34,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:08",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "09:15",
+                     "tv":  "00:40:00"
                  },
                  {
                      "nome":  "Alan",
@@ -160,18 +172,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:34",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -185,6 +185,15 @@ window.PAINEL = {
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "08:03:11",
+                         "out":  "09:20:07",
+                         "km":  0,
+                         "dur":  "01:16:00"
+                     },
                      {
                          "nome":  "Luis",
                          "razao":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
@@ -222,6 +231,15 @@ window.PAINEL = {
                          "dur":  "00:18:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "in":  "08:49:20",
+                         "out":  "09:21:09",
+                         "km":  25.62,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "MAIRIPORA",
@@ -240,6 +258,24 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "M T P MIHARA MERCEARIA LTDA",
+                         "mun":  "MAIRIPORA",
+                         "in":  "08:54:31",
+                         "out":  "09:14:05",
+                         "km":  1.52,
+                         "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "08:34:29",
+                         "out":  "09:15:27",
+                         "km":  0.16,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
@@ -247,6 +283,15 @@ window.PAINEL = {
                          "out":  "09:06:33",
                          "km":  4.29,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "in":  "08:08:59",
+                         "out":  "09:23:31",
+                         "km":  0.88,
+                         "dur":  "01:14:00"
                      }
                  ],
     "eventos":  [
@@ -259,20 +304,20 @@ window.PAINEL = {
                         "tempo":  "00:09:44"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Carlos a Dourado",
+                        "inicio":  "08:12",
+                        "final":  "09:16",
+                        "tempo":  "01:03:47"
+                    },
+                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:22:53"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Carlos a Dourado",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:09"
+                        "tempo":  "01:37:55"
                     }
                 ],
     "semped":  [
@@ -295,10 +340,22 @@ window.PAINEL = {
                        "obs":  "estoque alto"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "merchandising"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
                        "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                       "mun":  "CERQUILHO",
+                       "obs":  "Levantamento"
                    }
                ],
     "hist":  [
@@ -409,8 +466,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     12,
-                     4
+                     18,
+                     6
                  ]
              ],
     "historico":  {
@@ -1697,7 +1754,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1707,6 +1764,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  50.69,
+                                                       "tv":  76
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -1736,15 +1802,6 @@ window.PAINEL = {
                                                        "tv":  21
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  50.69,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -1766,19 +1823,28 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  21.41,
-                                                       "tv":  41
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  22.93,
+                                                       "tv":  60
                                                    },
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  113.58,
+                                                       "tv":  49
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  0,
-                                                       "km":  87.96,
-                                                       "tv":  18
+                                                       "km":  1.39,
+                                                       "tv":  74
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -1790,13 +1856,13 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.51,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  0.34,
+                                                       "tv":  40
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -1817,15 +1883,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.18,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -1836,6 +1893,11 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "RODRIGUES",
+                                                         "p":  1
+                                                     },
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
@@ -1857,6 +1919,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "ARMAZEM GALDINO LTDA",
                                                          "p":  1
@@ -1864,12 +1931,27 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Eugenio",
                                                          "r":  "ARMAZEM GALDINO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "M T P MIHARA MERCEARIA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                                          "p":  1
                                                      },
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "EDMILSON CURI DE ANDRADE",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  0
                                                      }
                                                  ]
                                      }
