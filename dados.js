@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -479,7 +479,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:08:06"
+                        "tempo":  "03:23:04"
                     },
                     {
                         "nome":  "Nelson",
@@ -487,7 +487,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:30"
+                        "tempo":  "01:44:28"
                     },
                     {
                         "nome":  "Cominato",
@@ -495,7 +495,7 @@ window.PAINEL = {
                         "obs":  "Cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:33"
+                        "tempo":  "00:17:31"
                     }
                 ],
     "semped":  [
@@ -698,7 +698,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     43,
+                     45,
                      15
                  ]
              ],
@@ -1986,7 +1986,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
