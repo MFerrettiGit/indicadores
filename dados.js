@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -40,6 +40,18 @@ window.PAINEL = {
                      "tv":  "01:57:00"
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  60.55,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:03",
+                     "ultimo":  "11:23",
+                     "tv":  "02:39:00"
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -62,18 +74,6 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "10:45",
                      "tv":  "01:43:00"
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  50.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:03",
-                     "ultimo":  "09:20",
-                     "tv":  "01:16:00"
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -193,6 +193,15 @@ window.PAINEL = {
                          "out":  "09:20:07",
                          "km":  0,
                          "dur":  "01:16:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "09:58:58",
+                         "out":  "11:23:07",
+                         "km":  9.86,
+                         "dur":  "01:23:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -479,7 +488,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:23:04"
+                        "tempo":  "03:38:07"
                     },
                     {
                         "nome":  "Nelson",
@@ -487,7 +496,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:28"
+                        "tempo":  "01:59:31"
                     },
                     {
                         "nome":  "Cominato",
@@ -495,7 +504,15 @@ window.PAINEL = {
                         "obs":  "Cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:31"
+                        "tempo":  "00:32:34"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:16"
                     }
                 ],
     "semped":  [
@@ -698,7 +715,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     45,
+                     46,
                      15
                  ]
              ],
@@ -1986,7 +2003,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2016,6 +2033,15 @@ window.PAINEL = {
                                                        "tv":  117
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  60.55,
+                                                       "tv":  159
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -2032,15 +2058,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  13.07,
                                                        "tv":  103
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  50.69,
-                                                       "tv":  76
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -2125,6 +2142,11 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "RODRIGUES",
+                                                         "p":  1
+                                                     },
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "RODRIGUES",

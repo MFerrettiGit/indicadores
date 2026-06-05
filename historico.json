@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1312,6 +1312,15 @@
                                      "tv":  117
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  60.55,
+                                     "tv":  159
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1328,15 +1337,6 @@
                                      "pe":  2,
                                      "km":  13.07,
                                      "tv":  103
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  50.69,
-                                     "tv":  76
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1421,6 +1421,11 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
+                                       "p":  1
+                                   },
                                    {
                                        "n":  "Costa",
                                        "r":  "RODRIGUES",
