@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -31,13 +31,13 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  48.27,
-                     "semPed":  3,
-                     "perc":  60,
+                     "visitas":  6,
+                     "km":  49.36,
+                     "semPed":  4,
+                     "perc":  66.67,
                      "primeiro":  "08:29",
-                     "ultimo":  "14:08",
-                     "tv":  "03:21:00"
+                     "ultimo":  "14:46",
+                     "tv":  "03:45:00"
                  },
                  {
                      "nome":  "Luis",
@@ -328,6 +328,15 @@ window.PAINEL = {
                          "out":  "14:08:25",
                          "km":  0.88,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
+                         "mun":  "PAULINIA",
+                         "in":  "14:21:31",
+                         "out":  "14:46:06",
+                         "km":  1.09,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -807,7 +816,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:53:37"
+                        "tempo":  "07:08:42"
                     },
                     {
                         "nome":  "Nelson",
@@ -815,7 +824,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:28:11"
+                        "tempo":  "01:43:16"
                     },
                     {
                         "nome":  "Rachel",
@@ -823,7 +832,15 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:15"
+                        "tempo":  "00:24:20"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Despachante",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:55"
                     }
                 ],
     "semped":  [
@@ -842,6 +859,12 @@ window.PAINEL = {
                    {
                        "nome":  "Maira",
                        "razao":  "SUPERMERCADO IBIRAPUERA LTDA",
+                       "mun":  "PAULINIA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                        "mun":  "PAULINIA",
                        "obs":  "estocado"
                    },
@@ -1104,8 +1127,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     80,
-                     28
+                     82,
+                     29
                  ]
              ],
     "historico":  {
@@ -2392,7 +2415,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2416,10 +2439,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  2,
-                                                       "km":  48.27,
-                                                       "tv":  201
+                                                       "km":  49.36,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2609,6 +2632,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                                                          "p":  0
                                                      },
                                                      {

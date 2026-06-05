@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1306,10 +1306,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  2,
-                                     "km":  48.27,
-                                     "tv":  201
+                                     "km":  49.36,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1499,6 +1499,11 @@
                                    {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
                                        "p":  0
                                    },
                                    {
