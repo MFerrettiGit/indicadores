@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1384,6 +1384,15 @@
                                      "tv":  47
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  7.31,
+                                     "tv":  69
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -1400,15 +1409,6 @@
                                      "pe":  1,
                                      "km":  0.34,
                                      "tv":  40
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.31,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -1444,6 +1444,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "J.L. DAOLIO",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0
                                    },
                                    {

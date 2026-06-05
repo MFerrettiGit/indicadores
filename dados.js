@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -136,6 +136,18 @@ window.PAINEL = {
                      "tv":  "00:47:00"
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  7.31,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:22",
+                     "ultimo":  "09:32",
+                     "tv":  "01:09:00"
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -158,18 +170,6 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "09:15",
                      "tv":  "00:40:00"
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.31,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:22",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
                  },
                  {
                      "nome":  "Lucas",
@@ -229,6 +229,15 @@ window.PAINEL = {
                          "out":  "09:05:51",
                          "km":  15.23,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:22:54",
+                         "out":  "09:32:32",
+                         "km":  7,
+                         "dur":  "01:09:00"
                      },
                      {
                          "nome":  "Castro",
@@ -335,7 +344,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:34"
+                        "tempo":  "01:52:57"
                     },
                     {
                         "nome":  "Nelson",
@@ -343,7 +352,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:58"
+                        "tempo":  "00:14:21"
                     }
                 ],
     "semped":  [
@@ -352,6 +361,12 @@ window.PAINEL = {
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "comprador não atendeu"
                    },
                    {
                        "nome":  "Rachel",
@@ -504,8 +519,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     20,
-                     8
+                     21,
+                     9
                  ]
              ],
     "historico":  {
@@ -1792,7 +1807,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1894,6 +1909,15 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  7.31,
+                                                       "tv":  69
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -1910,15 +1934,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  0.34,
                                                        "tv":  40
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.31,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -1954,6 +1969,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "J.L. DAOLIO",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  0
                                                      },
                                                      {
