@@ -335,7 +335,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:24"
+                        "tempo":  "01:44:34"
                     },
                     {
                         "nome":  "Nelson",
@@ -343,7 +343,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:48"
+                        "tempo":  "00:05:58"
                     }
                 ],
     "semped":  [
