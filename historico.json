@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1297,10 +1297,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  42.89,
-                                     "tv":  215
+                                     "km":  44.62,
+                                     "tv":  230
                                  },
                                  {
                                      "nome":  "Maira",
@@ -1315,10 +1315,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  11.48,
-                                     "tv":  136
+                                     "km":  19.44,
+                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1342,10 +1342,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  59.61,
-                                     "tv":  165
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  76.88,
+                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -1472,6 +1472,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
                                        "p":  0
@@ -1527,6 +1532,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA-LJ.02",
                                        "p":  1
@@ -1534,6 +1544,11 @@
                                    {
                                        "n":  "Sao Carlos",
                                        "r":  "N ARAUJO MERCADO LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS OPINI LTDA-EPP.",
                                        "p":  1
                                    },
                                    {

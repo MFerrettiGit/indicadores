@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -19,13 +19,13 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  42.89,
-                     "semPed":  6,
+                     "visitas":  7,
+                     "km":  44.62,
+                     "semPed":  7,
                      "perc":  100,
                      "primeiro":  "08:23",
-                     "ultimo":  "14:09",
-                     "tv":  "03:35:00"
+                     "ultimo":  "14:30",
+                     "tv":  "03:50:00"
                  },
                  {
                      "nome":  "Maira",
@@ -43,13 +43,13 @@ window.PAINEL = {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  11.48,
-                     "semPed":  4,
+                     "visitas":  5,
+                     "km":  19.44,
+                     "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:30",
-                     "ultimo":  "11:38",
-                     "tv":  "02:16:00"
+                     "ultimo":  "14:36",
+                     "tv":  "03:12:00"
                  },
                  {
                      "nome":  "Costa",
@@ -79,13 +79,13 @@ window.PAINEL = {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  59.61,
+                     "visitas":  3,
+                     "km":  76.88,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:16",
-                     "ultimo":  "12:11",
-                     "tv":  "02:45:00"
+                     "ultimo":  "14:27",
+                     "tv":  "03:27:00"
                  },
                  {
                      "nome":  "Eugenio",
@@ -276,6 +276,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
+                         "mun":  "FRANCA",
+                         "in":  "13:39:34",
+                         "out":  "14:36:16",
+                         "km":  7.96,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
@@ -375,6 +384,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                         "mun":  "JAGUARIUNA",
+                         "in":  "14:14:38",
+                         "out":  "14:30:39",
+                         "km":  1.73,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA-LJ.02",
                          "mun":  "DOURADO",
@@ -391,6 +409,15 @@ window.PAINEL = {
                          "out":  "12:11:41",
                          "km":  0.88,
                          "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "IRMAOS OPINI LTDA-EPP.",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "13:45:27",
+                         "out":  "14:27:35",
+                         "km":  17.27,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Alan",
@@ -780,7 +807,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:38:28"
+                        "tempo":  "06:53:37"
                     },
                     {
                         "nome":  "Nelson",
@@ -788,7 +815,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:13:02"
+                        "tempo":  "01:28:11"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:15"
                     }
                 ],
     "semped":  [
@@ -865,6 +900,12 @@ window.PAINEL = {
                        "obs":  "."
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                       "mun":  "JAGUARIUNA",
+                       "obs":  "."
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
                        "mun":  "FRANCA",
@@ -887,6 +928,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                        "mun":  "FRANCA",
                        "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
+                       "mun":  "FRANCA",
+                       "obs":  "estoque alto"
                    },
                    {
                        "nome":  "Nelson",
@@ -1057,8 +1104,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     77,
-                     26
+                     80,
+                     28
                  ]
              ],
     "historico":  {
@@ -2345,7 +2392,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2360,10 +2407,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  42.89,
-                                                       "tv":  215
+                                                       "km":  44.62,
+                                                       "tv":  230
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -2378,10 +2425,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  11.48,
-                                                       "tv":  136
+                                                       "km":  19.44,
+                                                       "tv":  192
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2405,10 +2452,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  59.61,
-                                                       "tv":  165
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  76.88,
+                                                       "tv":  207
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -2535,6 +2582,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
                                                          "p":  0
@@ -2590,6 +2642,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADOS TIBA LTDA-LJ.02",
                                                          "p":  1
@@ -2597,6 +2654,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Sao Carlos",
                                                          "r":  "N ARAUJO MERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "IRMAOS OPINI LTDA-EPP.",
                                                          "p":  1
                                                      },
                                                      {
