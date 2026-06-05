@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -31,13 +31,13 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  49.36,
-                     "semPed":  4,
-                     "perc":  66.67,
+                     "visitas":  7,
+                     "km":  51.71,
+                     "semPed":  5,
+                     "perc":  71.43,
                      "primeiro":  "08:29",
-                     "ultimo":  "14:46",
-                     "tv":  "03:45:00"
+                     "ultimo":  "15:34",
+                     "tv":  "04:14:00"
                  },
                  {
                      "nome":  "Luis",
@@ -100,6 +100,18 @@ window.PAINEL = {
                      "tv":  "02:53:00"
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  20.66,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "15:36",
+                     "tv":  "04:16:00"
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -110,18 +122,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "12:16",
                      "tv":  "02:25:00"
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  19.8,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "14:59",
-                     "tv":  "03:45:00"
                  },
                  {
                      "nome":  "Castro",
@@ -348,6 +348,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO IBIRAPUERA LTDA",
+                         "mun":  "PAULINIA",
+                         "in":  "15:05:38",
+                         "out":  "15:34:50",
+                         "km":  2.35,
+                         "dur":  "00:29:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "PEDREIRA",
@@ -555,6 +564,15 @@ window.PAINEL = {
                          "dur":  "00:29:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "ETTORI",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:09:09",
+                         "out":  "15:38:54",
+                         "km":  5.97,
+                         "dur":  "01:29:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "MAIRIPORA",
@@ -699,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:50:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO BEM AQUI LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "15:05:16",
+                         "out":  "15:36:20",
+                         "km":  0.86,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
@@ -772,6 +799,14 @@ window.PAINEL = {
                         "inicio":  "12:15",
                         "final":  "13:12",
                         "tempo":  "00:56:48"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Despachante",
+                        "inicio":  "14:52",
+                        "final":  "15:35",
+                        "tempo":  "00:43:25"
                     },
                     {
                         "nome":  "Nelson",
@@ -859,15 +894,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:40:55"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "Despachante",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:08"
+                        "tempo":  "07:53:16"
                     },
                     {
                         "nome":  "Nelson",
@@ -875,7 +902,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:08"
+                        "tempo":  "00:41:29"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -883,7 +910,7 @@ window.PAINEL = {
                         "obs":  "Ribeirão Bonito a São carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:41"
+                        "tempo":  "00:41:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -891,7 +918,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:47"
+                        "tempo":  "00:26:08"
                     },
                     {
                         "nome":  "Alan",
@@ -899,7 +926,7 @@ window.PAINEL = {
                         "obs":  "caixa econômica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:09"
+                        "tempo":  "00:20:30"
                     }
                 ],
     "semped":  [
@@ -924,6 +951,12 @@ window.PAINEL = {
                    {
                        "nome":  "Maira",
                        "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP",
+                       "mun":  "PAULINIA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO IBIRAPUERA LTDA",
                        "mun":  "PAULINIA",
                        "obs":  "estocado"
                    },
@@ -1072,6 +1105,12 @@ window.PAINEL = {
                        "obs":  "Levantamento e merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "ETTORI",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "ALTARUGIO",
                        "mun":  "CORDEIROPOLIS",
@@ -1192,8 +1231,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     89,
-                     30
+                     91,
+                     31
                  ]
              ],
     "historico":  {
@@ -2480,7 +2519,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2504,10 +2543,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  2,
-                                                       "km":  49.36,
-                                                       "tv":  225
+                                                       "km":  51.71,
+                                                       "tv":  254
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2555,6 +2594,15 @@ window.PAINEL = {
                                                        "tv":  173
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  20.66,
+                                                       "tv":  256
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -2562,15 +2610,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  170.84,
                                                        "tv":  145
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  19.8,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2710,6 +2749,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "J.L. DAOLIO",
                                                          "p":  0
@@ -2825,6 +2869,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "ETTORI",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "ARMAZEM GALDINO LTDA",
                                                          "p":  1
@@ -2902,6 +2951,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MERCADINHO BEM AQUI LTDA",
                                                          "p":  1
                                                      },
                                                      {

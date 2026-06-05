@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1306,10 +1306,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  2,
-                                     "km":  49.36,
-                                     "tv":  225
+                                     "km":  51.71,
+                                     "tv":  254
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1357,6 +1357,15 @@
                                      "tv":  173
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  20.66,
+                                     "tv":  256
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -1364,15 +1373,6 @@
                                      "pe":  0,
                                      "km":  170.84,
                                      "tv":  145
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  19.8,
-                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1512,6 +1512,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J.L. DAOLIO",
                                        "p":  0
@@ -1627,6 +1632,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "ETTORI",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "ARMAZEM GALDINO LTDA",
                                        "p":  1
@@ -1704,6 +1714,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO BEM AQUI LTDA",
                                        "p":  1
                                    },
                                    {
