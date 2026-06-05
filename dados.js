@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,6 +16,18 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  22.78,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:23",
+                     "ultimo":  "10:44",
+                     "tv":  "02:08:00"
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -26,18 +38,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "10:35",
                      "tv":  "01:57:00"
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  21.01,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:23",
-                     "ultimo":  "09:53",
-                     "tv":  "01:26:00"
                  },
                  {
                      "nome":  "Maira",
@@ -52,6 +52,18 @@ window.PAINEL = {
                      "tv":  "01:23:00"
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  13.07,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "10:45",
+                     "tv":  "01:43:00"
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -64,28 +76,16 @@ window.PAINEL = {
                      "tv":  "01:16:00"
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  2.83,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "09:48",
-                     "tv":  "01:13:00"
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  58.73,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "09:16",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "ultimo":  "10:50",
+                     "tv":  "01:34:00"
                  },
                  {
                      "nome":  "Eugenio",
@@ -103,13 +103,13 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  116.38,
-                     "semPed":  3,
+                     "visitas":  4,
+                     "km":  117.92,
+                     "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:03",
-                     "ultimo":  "10:09",
-                     "tv":  "01:23:00"
+                     "ultimo":  "10:49",
+                     "tv":  "01:56:00"
                  },
                  {
                      "nome":  "Castro",
@@ -175,13 +175,13 @@ window.PAINEL = {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.61,
+                     "visitas":  1,
+                     "km":  4.63,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:34",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "ultimo":  "10:51",
+                     "tv":  "02:16:00"
                  }
              ],
     "checkins":  [
@@ -202,6 +202,15 @@ window.PAINEL = {
                          "out":  "09:48:41",
                          "km":  0.79,
                          "dur":  "01:13:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "DEBORA CRISTINA LINO CARRASCOSA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "10:15:15",
+                         "out":  "10:45:51",
+                         "km":  10.24,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Luis",
@@ -267,6 +276,24 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "PEDREIRA",
+                         "in":  "10:01:31",
+                         "out":  "10:44:33",
+                         "km":  1.77,
+                         "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADOS TIBA LTDA-LJ.02",
+                         "mun":  "DOURADO",
+                         "in":  "09:16:36",
+                         "out":  "10:50:52",
+                         "km":  58.73,
+                         "dur":  "01:34:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -330,6 +357,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "CASA POMINI SUPERMERCADOS LTDA",
+                         "mun":  "CERQUILHO",
+                         "in":  "10:16:29",
+                         "out":  "10:49:39",
+                         "km":  1.54,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "MAIRIPORA",
@@ -384,6 +420,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:34:37",
+                         "out":  "10:51:03",
+                         "km":  4.02,
+                         "dur":  "02:16:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
@@ -434,7 +479,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:52:59"
+                        "tempo":  "03:08:06"
                     },
                     {
                         "nome":  "Nelson",
@@ -442,7 +487,15 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:23"
+                        "tempo":  "01:29:30"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Cerquilho piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:33"
                     }
                 ],
     "semped":  [
@@ -473,6 +526,12 @@ window.PAINEL = {
                    {
                        "nome":  "Rachel",
                        "razao":  "B A BARBOSA SUPERMERCADO LTDA",
+                       "mun":  "PEDREIRA",
+                       "obs":  "."
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                        "mun":  "PEDREIRA",
                        "obs":  "."
                    },
@@ -523,6 +582,12 @@ window.PAINEL = {
                        "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                        "mun":  "CERQUILHO",
                        "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "CASA POMINI SUPERMERCADOS LTDA",
+                       "mun":  "CERQUILHO",
+                       "obs":  "Comprador ausente"
                    }
                ],
     "hist":  [
@@ -633,8 +698,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     38,
-                     13
+                     43,
+                     15
                  ]
              ],
     "historico":  {
@@ -1921,7 +1986,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1933,6 +1998,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  22.78,
+                                                       "tv":  128
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -1940,15 +2014,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  5.3,
                                                        "tv":  117
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  21.01,
-                                                       "tv":  86
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -1960,6 +2025,15 @@ window.PAINEL = {
                                                        "tv":  83
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  13.07,
+                                                       "tv":  103
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -1969,22 +2043,13 @@ window.PAINEL = {
                                                        "tv":  76
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  2.83,
-                                                       "tv":  73
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  58.73,
+                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -1999,10 +2064,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  116.38,
-                                                       "tv":  83
+                                                       "km":  117.92,
+                                                       "tv":  116
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2053,10 +2118,10 @@ window.PAINEL = {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.61,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.63,
+                                                       "tv":  136
                                                    }
                                                ],
                                          "cli":  [
@@ -2068,6 +2133,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "DEBORA CRISTINA LINO CARRASCOSA.",
                                                          "p":  1
                                                      },
                                                      {
@@ -2106,6 +2176,16 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADOS TIBA LTDA-LJ.02",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  0
@@ -2141,6 +2221,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "CASA POMINI SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "ARMAZEM GALDINO LTDA",
                                                          "p":  1
@@ -2168,6 +2253,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                                                          "p":  1
                                                      },
                                                      {
