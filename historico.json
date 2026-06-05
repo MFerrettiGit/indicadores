@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1360,10 +1360,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  113.58,
-                                     "tv":  49
+                                     "km":  116.38,
+                                     "tv":  83
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  24.49,
+                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -1391,15 +1400,6 @@
                                      "pe":  0,
                                      "km":  7.31,
                                      "tv":  69
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.35,
-                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Karina",
@@ -1467,6 +1467,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0
@@ -1474,6 +1479,11 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                        "p":  0
                                    },
                                    {

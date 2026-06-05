@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -103,13 +103,25 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  113.58,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  116.38,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "08:03",
-                     "ultimo":  "09:21",
-                     "tv":  "00:49:00"
+                     "ultimo":  "10:09",
+                     "tv":  "01:23:00"
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  24.49,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:23",
+                     "ultimo":  "09:59",
+                     "tv":  "01:21:00"
                  },
                  {
                      "nome":  "Nelson",
@@ -146,18 +158,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "09:32",
                      "tv":  "01:09:00"
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  4.35,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:23",
-                     "ultimo":  "09:27",
-                     "tv":  "01:03:00"
                  },
                  {
                      "nome":  "Karina",
@@ -267,6 +267,15 @@ window.PAINEL = {
                          "dur":  "01:03:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                         "mun":  "JUNDIAI",
+                         "in":  "09:40:50",
+                         "out":  "09:59:49",
+                         "km":  20.14,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -283,6 +292,15 @@ window.PAINEL = {
                          "out":  "09:21:09",
                          "km":  25.62,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                         "mun":  "CERQUILHO",
+                         "in":  "09:34:26",
+                         "out":  "10:09:02",
+                         "km":  2.8,
+                         "dur":  "00:34:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -371,7 +389,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:07:53"
+                        "tempo":  "02:22:52"
                     },
                     {
                         "nome":  "Nelson",
@@ -379,7 +397,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:17"
+                        "tempo":  "00:44:16"
                     }
                 ],
     "semped":  [
@@ -446,6 +464,12 @@ window.PAINEL = {
                    {
                        "nome":  "Cominato",
                        "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                       "mun":  "CERQUILHO",
+                       "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                        "mun":  "CERQUILHO",
                        "obs":  "Levantamento"
                    }
@@ -558,7 +582,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     26,
+                     29,
                      11
                  ]
              ],
@@ -1846,7 +1870,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1924,10 +1948,19 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  113.58,
-                                                       "tv":  49
+                                                       "km":  116.38,
+                                                       "tv":  83
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  24.49,
+                                                       "tv":  81
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -1955,15 +1988,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.31,
                                                        "tv":  69
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  4.35,
-                                                       "tv":  63
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -2031,6 +2055,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0
@@ -2038,6 +2067,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Cominato",
                                                          "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                                          "p":  0
                                                      },
                                                      {
