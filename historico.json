@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1294,6 +1294,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  11.48,
+                                     "tv":  136
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -1301,15 +1310,6 @@
                                      "pe":  0,
                                      "km":  22.78,
                                      "tv":  128
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  5.3,
-                                     "tv":  117
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1454,6 +1454,11 @@
                                    {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  0
                                    },
                                    {

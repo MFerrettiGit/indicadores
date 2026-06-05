@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,6 +16,18 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  11.48,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:30",
+                     "ultimo":  "11:38",
+                     "tv":  "02:16:00"
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -26,18 +38,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "10:44",
                      "tv":  "02:08:00"
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  5.3,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:30",
-                     "ultimo":  "10:35",
-                     "tv":  "01:57:00"
                  },
                  {
                      "nome":  "Costa",
@@ -247,6 +247,15 @@ window.PAINEL = {
                          "out":  "10:35:24",
                          "km":  0.85,
                          "dur":  "01:03:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "11:18:21",
+                         "out":  "11:38:07",
+                         "km":  6.18,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Maira",
@@ -488,7 +497,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:38:07"
+                        "tempo":  "03:53:00"
                     },
                     {
                         "nome":  "Nelson",
@@ -496,7 +505,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:59:31"
+                        "tempo":  "02:14:24"
                     },
                     {
                         "nome":  "Cominato",
@@ -504,7 +513,7 @@ window.PAINEL = {
                         "obs":  "Cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:34"
+                        "tempo":  "00:47:27"
                     },
                     {
                         "nome":  "Rachel",
@@ -512,7 +521,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:16"
+                        "tempo":  "00:24:09"
                     }
                 ],
     "semped":  [
@@ -567,6 +576,12 @@ window.PAINEL = {
                    {
                        "nome":  "Luis",
                        "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                        "mun":  "FRANCA",
                        "obs":  "visita de rotina"
                    },
@@ -715,8 +730,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     46,
-                     15
+                     49,
+                     16
                  ]
              ],
     "historico":  {
@@ -2003,7 +2018,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2015,6 +2030,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  11.48,
+                                                       "tv":  136
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -2022,15 +2046,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  22.78,
                                                        "tv":  128
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  5.3,
-                                                       "tv":  117
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2175,6 +2190,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  0
                                                      },
                                                      {
