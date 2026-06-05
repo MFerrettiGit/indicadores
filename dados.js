@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -136,6 +136,18 @@ window.PAINEL = {
                      "tv":  "06:15:00"
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  21.12,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:22",
+                     "ultimo":  "18:17",
+                     "tv":  "06:51:00"
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -146,18 +158,6 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "17:58",
                      "tv":  "06:13:00"
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  18.36,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:22",
-                     "ultimo":  "16:29",
-                     "tv":  "05:14:00"
                  },
                  {
                      "nome":  "Lucas",
@@ -553,6 +553,15 @@ window.PAINEL = {
                          "out":  "16:29:45",
                          "km":  7.7,
                          "dur":  "00:37:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:39:31",
+                         "out":  "18:17:20",
+                         "km":  2.76,
+                         "dur":  "01:37:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1078,7 +1087,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:14:50"
+                        "tempo":  "03:29:25"
                     },
                     {
                         "nome":  "Lucas",
@@ -1086,7 +1095,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:29:01"
+                        "tempo":  "02:43:36"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1094,7 +1103,7 @@ window.PAINEL = {
                         "obs":  "digitação de pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:01"
+                        "tempo":  "00:19:36"
                     }
                 ],
     "semped":  [
@@ -1423,7 +1432,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     115,
+                     116,
                      36
                  ]
              ],
@@ -2711,7 +2720,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2813,6 +2822,15 @@ window.PAINEL = {
                                                        "tv":  375
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  21.12,
+                                                       "tv":  411
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -2820,15 +2838,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  3.91,
                                                        "tv":  373
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  18.36,
-                                                       "tv":  314
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -3053,6 +3062,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Alan",
                                                          "r":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "LESSA",
                                                          "p":  1
                                                      },
                                                      {
