@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -19,13 +19,13 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  37.71,
-                     "semPed":  4,
+                     "visitas":  5,
+                     "km":  40.24,
+                     "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:23",
-                     "ultimo":  "13:02",
-                     "tv":  "02:44:00"
+                     "ultimo":  "13:28",
+                     "tv":  "03:00:00"
                  },
                  {
                      "nome":  "Luis",
@@ -337,6 +337,15 @@ window.PAINEL = {
                          "out":  "13:02:54",
                          "km":  14.93,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERCIO DE PRODUTOS ALIMENTICI",
+                         "mun":  "JAGUARIUNA",
+                         "in":  "13:12:14",
+                         "out":  "13:28:30",
+                         "km":  2.53,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -674,12 +683,20 @@ window.PAINEL = {
                         "tempo":  "00:22:02"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:39",
+                        "final":  "13:40",
+                        "tempo":  "01:00:32"
+                    },
+                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:38:12"
+                        "tempo":  "05:53:23"
                     },
                     {
                         "nome":  "Karina",
@@ -687,7 +704,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:12:26"
+                        "tempo":  "01:27:37"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -695,7 +712,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:19"
+                        "tempo":  "01:00:30"
                     },
                     {
                         "nome":  "Costa",
@@ -703,7 +720,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:17"
+                        "tempo":  "00:49:28"
                     },
                     {
                         "nome":  "Fernando",
@@ -711,7 +728,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:48"
+                        "tempo":  "00:43:59"
                     },
                     {
                         "nome":  "Mariangela",
@@ -719,7 +736,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:03"
+                        "tempo":  "00:34:14"
                     },
                     {
                         "nome":  "Eugenio",
@@ -727,7 +744,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:23"
+                        "tempo":  "00:32:34"
                     },
                     {
                         "nome":  "Nelson",
@@ -735,7 +752,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:46"
+                        "tempo":  "00:27:57"
                     },
                     {
                         "nome":  "Alan",
@@ -743,7 +760,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:11"
+                        "tempo":  "00:18:22"
                     }
                 ],
     "semped":  [
@@ -792,6 +809,12 @@ window.PAINEL = {
                    {
                        "nome":  "Rachel",
                        "razao":  "ANTONELLI SUPERMERCADO LTDA",
+                       "mun":  "JAGUARIUNA",
+                       "obs":  "."
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "MIX VALI COMERCIO DE PRODUTOS ALIMENTICI",
                        "mun":  "JAGUARIUNA",
                        "obs":  "."
                    },
@@ -982,8 +1005,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     67,
-                     21
+                     68,
+                     22
                  ]
              ],
     "historico":  {
@@ -2270,7 +2293,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2285,10 +2308,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  37.71,
-                                                       "tv":  164
+                                                       "km":  40.24,
+                                                       "tv":  180
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2492,6 +2515,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MIX VALI COMERCIO DE PRODUTOS ALIMENTICI",
                                                          "p":  0
                                                      },
                                                      {

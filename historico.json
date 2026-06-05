@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1297,10 +1297,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  37.71,
-                                     "tv":  164
+                                     "km":  40.24,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1504,6 +1504,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERCIO DE PRODUTOS ALIMENTICI",
                                        "p":  0
                                    },
                                    {
