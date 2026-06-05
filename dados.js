@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -758,6 +758,14 @@ window.PAINEL = {
                         "tempo":  "00:53:21"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "14:31",
+                        "final":  "15:13",
+                        "tempo":  "00:42:11"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -851,15 +859,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:23:37"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:15"
+                        "tempo":  "07:40:55"
                     },
                     {
                         "nome":  "Luis",
@@ -867,7 +867,7 @@ window.PAINEL = {
                         "obs":  "Despachante",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:50"
+                        "tempo":  "00:35:08"
                     },
                     {
                         "nome":  "Nelson",
@@ -875,7 +875,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:50"
+                        "tempo":  "00:29:08"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -883,7 +883,23 @@ window.PAINEL = {
                         "obs":  "Ribeirão Bonito a São carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:23"
+                        "tempo":  "00:28:41"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "cubatao e proposta",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:47"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Outro",
+                        "obs":  "caixa econômica",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:09"
                     }
                 ],
     "semped":  [
@@ -2464,7 +2480,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
