@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -785,6 +785,14 @@ window.PAINEL = {
                         "tempo":  "02:06:30"
                     },
                     {
+                        "nome":  "Eduardo",
+                        "tipo":  "Outro",
+                        "obs":  "administrativo",
+                        "inicio":  "07:46",
+                        "final":  "16:11",
+                        "tempo":  "08:24:29"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -905,20 +913,12 @@ window.PAINEL = {
                         "tempo":  "00:45:51"
                     },
                     {
-                        "nome":  "Eduardo",
-                        "tipo":  "Outro",
-                        "obs":  "administrativo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "08:11:29"
-                    },
-                    {
                         "nome":  "Nelson",
                         "tipo":  "Manutencao",
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:42"
+                        "tempo":  "01:14:37"
                     },
                     {
                         "nome":  "Rachel",
@@ -926,7 +926,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:21"
+                        "tempo":  "00:59:16"
                     },
                     {
                         "nome":  "Lucas",
@@ -934,7 +934,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:53"
+                        "tempo":  "00:28:48"
                     }
                 ],
     "semped":  [
@@ -1239,7 +1239,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     96,
+                     97,
                      32
                  ]
              ],
@@ -2527,7 +2527,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
