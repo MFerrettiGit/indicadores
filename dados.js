@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "08:24",
+    "dataHora":  "08:39",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -40,6 +40,42 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:29",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  0.66,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:30",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  2.04,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:34",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -52,40 +88,16 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  20.19,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.66,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "08:26",
+                     "tv":  "00:24:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -98,18 +110,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "08:22",
                      "tv":  "00:18:00"
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.15,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
                  },
                  {
                      "nome":  "Nelson",
@@ -160,18 +160,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.61,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -179,7 +167,19 @@ window.PAINEL = {
                      "km":  0.18,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:34",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0.61,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:34",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  }
@@ -193,16 +193,33 @@ window.PAINEL = {
                          "out":  "08:22:00",
                          "km":  87.96,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "ARMAZEM GALDINO LTDA",
+                         "mun":  "MAIRIPORA",
+                         "in":  "08:02:28",
+                         "out":  "08:26:38",
+                         "km":  20.04,
+                         "dur":  "00:24:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Paulinia",
+                        "inicio":  "08:16",
+                        "final":  "08:26",
+                        "tempo":  "00:09:44"
+                    },
                     {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:50"
+                        "tempo":  "00:52:46"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -210,15 +227,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Dourado",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:06"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Paulinia",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:07:47"
+                        "tempo":  "00:27:02"
                     }
                 ],
     "semped":  [
@@ -337,7 +346,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     2,
+                     4,
                      1
                  ]
              ],
@@ -1625,7 +1634,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "08:24",
+                                         "dataHora":  "08:39",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1655,15 +1664,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -1687,8 +1687,26 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
+                                                       "km":  2.04,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  20.19,
+                                                       "tv":  24
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -1698,15 +1716,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  87.96,
                                                        "tv":  18
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.15,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -1745,21 +1754,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.61,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.18,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.61,
                                                        "tv":  0
                                                    }
                                                ],
@@ -1768,6 +1777,11 @@ window.PAINEL = {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "ARMAZEM GALDINO LTDA",
+                                                         "p":  1
                                                      }
                                                  ]
                                      }
