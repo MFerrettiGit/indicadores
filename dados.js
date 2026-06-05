@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -55,13 +55,25 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
+                     "visitas":  4,
                      "km":  61.56,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:03",
-                     "ultimo":  "12:15",
-                     "tv":  "02:54:00"
+                     "ultimo":  "15:03",
+                     "tv":  "04:04:00"
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  77.88,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "09:16",
+                     "ultimo":  "14:58",
+                     "tv":  "03:50:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -74,18 +86,6 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "11:54",
                      "tv":  "02:38:00"
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  76.88,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:16",
-                     "ultimo":  "14:27",
-                     "tv":  "03:27:00"
                  },
                  {
                      "nome":  "Eugenio",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "02:25:00"
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  19.8,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "14:59",
+                     "tv":  "03:45:00"
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -122,18 +134,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "14:05",
                      "tv":  "04:28:00"
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  18.09,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "12:56",
-                     "tv":  "02:55:00"
                  },
                  {
                      "nome":  "Alan",
@@ -211,6 +211,15 @@ window.PAINEL = {
                          "out":  "12:15:26",
                          "km":  1.01,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES E PEREIRA CORDEROPOLIS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "13:53:20",
+                         "out":  "15:03:54",
+                         "km":  0,
+                         "dur":  "01:10:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -427,6 +436,15 @@ window.PAINEL = {
                          "out":  "14:27:35",
                          "km":  17.27,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "ANA APARECIDA RIVA OPINI-ME",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "14:34:27",
+                         "out":  "14:58:08",
+                         "km":  1,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Alan",
@@ -672,6 +690,15 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "14:08:58",
+                         "out":  "14:59:24",
+                         "km":  1.71,
+                         "dur":  "00:50:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
@@ -747,6 +774,14 @@ window.PAINEL = {
                         "tempo":  "03:46:35"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "13:12",
+                        "final":  "14:57",
+                        "tempo":  "01:45:30"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Cerquilho piracicaba",
@@ -807,8 +842,8 @@ window.PAINEL = {
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:39",
-                        "final":  "13:40",
-                        "tempo":  "01:00:32"
+                        "final":  "14:59",
+                        "tempo":  "02:19:38"
                     },
                     {
                         "nome":  "Eduardo",
@@ -816,15 +851,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:08:42"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:43:16"
+                        "tempo":  "07:23:37"
                     },
                     {
                         "nome":  "Rachel",
@@ -832,7 +859,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:20"
+                        "tempo":  "00:39:15"
                     },
                     {
                         "nome":  "Luis",
@@ -840,7 +867,23 @@ window.PAINEL = {
                         "obs":  "Despachante",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:55"
+                        "tempo":  "00:17:50"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Manutencao",
+                        "obs":  "manutenção do veículo (Paulo ciente)",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:50"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Ribeirão Bonito a São carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:23"
                     }
                 ],
     "semped":  [
@@ -1017,6 +1060,12 @@ window.PAINEL = {
                        "razao":  "ALTARUGIO",
                        "mun":  "CORDEIROPOLIS",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "ANA APARECIDA RIVA OPINI-ME",
+                       "mun":  "RIBEIRAO BONITO",
+                       "obs":  "comprador ausente"
                    }
                ],
     "hist":  [
@@ -1127,8 +1176,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     82,
-                     29
+                     89,
+                     30
                  ]
              ],
     "historico":  {
@@ -2415,7 +2464,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2457,10 +2506,19 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
+                                                       "vi":  4,
+                                                       "pe":  3,
                                                        "km":  61.56,
-                                                       "tv":  174
+                                                       "tv":  244
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  77.88,
+                                                       "tv":  230
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2470,15 +2528,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  17.29,
                                                        "tv":  158
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  76.88,
-                                                       "tv":  207
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -2499,6 +2548,15 @@ window.PAINEL = {
                                                        "tv":  145
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  19.8,
+                                                       "tv":  225
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -2506,15 +2564,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  83.88,
                                                        "tv":  268
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  18.09,
-                                                       "tv":  175
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2568,6 +2617,11 @@ window.PAINEL = {
                                                          "n":  "Costa",
                                                          "r":  "ALTARUGIO",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "RODRIGUES E PEREIRA CORDEROPOLIS LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -2688,6 +2742,11 @@ window.PAINEL = {
                                                          "n":  "Sao Carlos",
                                                          "r":  "IRMAOS OPINI LTDA-EPP.",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "ANA APARECIDA RIVA OPINI-ME",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -2822,6 +2881,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "SUPERMERCADO MAXIMO VILA TESOURO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO DA VILA LTDA.",
                                                          "p":  1
                                                      },
                                                      {
