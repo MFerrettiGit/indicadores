@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,6 +28,18 @@ window.PAINEL = {
                      "tv":  "03:00:00"
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  47.39,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:29",
+                     "ultimo":  "13:44",
+                     "tv":  "03:03:00"
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -50,18 +62,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "12:15",
                      "tv":  "02:54:00"
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  42.3,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:29",
-                     "ultimo":  "12:01",
-                     "tv":  "02:47:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -301,6 +301,15 @@ window.PAINEL = {
                          "out":  "12:01:02",
                          "km":  2.08,
                          "dur":  "01:24:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                         "mun":  "PAULINIA",
+                         "in":  "13:27:05",
+                         "out":  "13:44:09",
+                         "km":  5.09,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -667,6 +676,14 @@ window.PAINEL = {
                         "tempo":  "00:59:11"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:50",
+                        "final":  "13:50",
+                        "tempo":  "01:00:02"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Dourado",
@@ -696,7 +713,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:53:23"
+                        "tempo":  "06:08:21"
                     },
                     {
                         "nome":  "Karina",
@@ -704,23 +721,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:27:37"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:00:30"
-                    },
-                    {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:28"
+                        "tempo":  "01:42:35"
                     },
                     {
                         "nome":  "Fernando",
@@ -728,7 +729,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:59"
+                        "tempo":  "00:58:57"
                     },
                     {
                         "nome":  "Mariangela",
@@ -736,7 +737,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:14"
+                        "tempo":  "00:49:12"
                     },
                     {
                         "nome":  "Eugenio",
@@ -744,7 +745,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:34"
+                        "tempo":  "00:47:32"
                     },
                     {
                         "nome":  "Nelson",
@@ -752,7 +753,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:57"
+                        "tempo":  "00:42:55"
                     },
                     {
                         "nome":  "Alan",
@@ -760,7 +761,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:22"
+                        "tempo":  "00:33:20"
                     }
                 ],
     "semped":  [
@@ -769,6 +770,12 @@ window.PAINEL = {
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                       "mun":  "PAULINIA",
+                       "obs":  "estocado"
                    },
                    {
                        "nome":  "Eugenio",
@@ -1005,8 +1012,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     68,
-                     22
+                     71,
+                     23
                  ]
              ],
     "historico":  {
@@ -2293,7 +2300,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2314,6 +2321,15 @@ window.PAINEL = {
                                                        "tv":  180
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  47.39,
+                                                       "tv":  183
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -2330,15 +2346,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  61.56,
                                                        "tv":  174
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  42.3,
-                                                       "tv":  167
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2496,6 +2503,11 @@ window.PAINEL = {
                                                          "n":  "Maira",
                                                          "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Rachel",

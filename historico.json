@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1303,6 +1303,15 @@
                                      "tv":  180
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  47.39,
+                                     "tv":  183
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -1319,15 +1328,6 @@
                                      "pe":  2,
                                      "km":  61.56,
                                      "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  42.3,
-                                     "tv":  167
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1485,6 +1485,11 @@
                                        "n":  "Maira",
                                        "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Rachel",
