@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -79,25 +79,25 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  26.27,
+                     "visitas":  5,
+                     "km":  37.38,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:34",
-                     "ultimo":  "16:30",
-                     "tv":  "04:24:00"
+                     "ultimo":  "17:26",
+                     "tv":  "05:09:00"
                  },
                  {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  8,
-                     "km":  61.26,
+                     "visitas":  9,
+                     "km":  63.81,
                      "semPed":  2,
-                     "perc":  25,
+                     "perc":  22.22,
                      "primeiro":  "08:02",
-                     "ultimo":  "16:27",
-                     "tv":  "04:47:00"
+                     "ultimo":  "17:41",
+                     "tv":  "05:08:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -115,13 +115,13 @@ window.PAINEL = {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  20.66,
+                     "visitas":  7,
+                     "km":  32.24,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:19",
-                     "ultimo":  "15:36",
-                     "tv":  "04:16:00"
+                     "ultimo":  "17:33",
+                     "tv":  "05:17:00"
                  },
                  {
                      "nome":  "Castro",
@@ -735,6 +735,15 @@ window.PAINEL = {
                          "dur":  "01:54:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "CONVEM SUPERMERCADOS LTDA.",
+                         "mun":  "ATIBAIA",
+                         "in":  "17:19:36",
+                         "out":  "17:41:00",
+                         "km":  2.55,
+                         "dur":  "00:21:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                          "mun":  "CARAGUATATUBA",
@@ -832,6 +841,15 @@ window.PAINEL = {
                          "out":  "15:36:20",
                          "km":  0.86,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "16:31:22",
+                         "out":  "17:33:11",
+                         "km":  11.58,
+                         "dur":  "01:01:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -949,6 +967,14 @@ window.PAINEL = {
                         "tempo":  "01:45:30"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  "16:25",
+                        "final":  "17:35",
+                        "tempo":  "01:09:56"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Cerquilho piracicaba",
@@ -1026,7 +1052,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:29:24"
+                        "tempo":  "02:46:18"
                     },
                     {
                         "nome":  "Rachel",
@@ -1034,7 +1060,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:03"
+                        "tempo":  "02:30:57"
                     },
                     {
                         "nome":  "Lucas",
@@ -1042,15 +1068,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:43:35"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:02:51"
+                        "tempo":  "02:00:29"
                     }
                 ],
     "semped":  [
@@ -1379,7 +1397,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     110,
+                     113,
                      36
                  ]
              ],
@@ -2667,7 +2685,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2727,19 +2745,19 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  26.27,
-                                                       "tv":  264
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  37.38,
+                                                       "tv":  309
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  8,
-                                                       "pe":  6,
-                                                       "km":  61.26,
-                                                       "tv":  287
+                                                       "vi":  9,
+                                                       "pe":  7,
+                                                       "km":  63.81,
+                                                       "tv":  308
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -2754,10 +2772,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  20.66,
-                                                       "tv":  256
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  32.24,
+                                                       "tv":  317
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -3112,6 +3130,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "CONVEM SUPERMERCADOS LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                                          "p":  1
@@ -3164,6 +3187,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "MERCADINHO BEM AQUI LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                                                          "p":  1
                                                      },
                                                      {

@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1342,19 +1342,19 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  26.27,
-                                     "tv":  264
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  37.38,
+                                     "tv":  309
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  8,
-                                     "pe":  6,
-                                     "km":  61.26,
-                                     "tv":  287
+                                     "vi":  9,
+                                     "pe":  7,
+                                     "km":  63.81,
+                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -1369,10 +1369,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  20.66,
-                                     "tv":  256
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  32.24,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1727,6 +1727,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                        "p":  1
@@ -1779,6 +1784,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "MERCADINHO BEM AQUI LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                                        "p":  1
                                    },
                                    {
