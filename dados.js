@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,18 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  20.59,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:23",
+                     "ultimo":  "09:05",
+                     "tv":  "00:42:00"
                  },
                  {
                      "nome":  "Maira",
@@ -48,18 +60,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  5.36,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:23",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "00:18:00"
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  4.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "09:06",
+                     "tv":  "00:47:00"
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -120,18 +132,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:08",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:19",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -160,11 +160,11 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "visitas":  0,
-                     "km":  0.61,
+                     "km":  0.18,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:34",
@@ -172,11 +172,11 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  0,
-                     "km":  0.18,
+                     "km":  0.61,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:34",
@@ -204,6 +204,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "J.L. DAOLIO",
+                         "mun":  "PEDREIRA",
+                         "in":  "08:23:06",
+                         "out":  "09:05:51",
+                         "km":  15.23,
+                         "dur":  "00:42:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -229,6 +238,15 @@ window.PAINEL = {
                          "out":  "08:49:11",
                          "km":  1.22,
                          "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "EDMILSON CURI DE ANDRADE",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "08:19:27",
+                         "out":  "09:06:33",
+                         "km":  4.29,
+                         "dur":  "00:47:00"
                      }
                  ],
     "eventos":  [
@@ -246,7 +264,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:15:00"
+                        "tempo":  "01:22:53"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -254,7 +272,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Dourado",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:16"
+                        "tempo":  "00:57:09"
                     }
                 ],
     "semped":  [
@@ -263,6 +281,12 @@ window.PAINEL = {
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "J.L. DAOLIO",
+                       "mun":  "PEDREIRA",
+                       "obs":  "."
                    },
                    {
                        "nome":  "Luis",
@@ -385,8 +409,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     9,
-                     3
+                     12,
+                     4
                  ]
              ],
     "historico":  {
@@ -1673,7 +1697,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1683,6 +1707,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  20.59,
+                                                       "tv":  42
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -1709,15 +1742,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  50.69,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  5.36,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1757,21 +1781,21 @@ window.PAINEL = {
                                                        "tv":  18
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.29,
+                                                       "tv":  47
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.51,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1793,21 +1817,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.61,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.18,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.61,
                                                        "tv":  0
                                                    }
                                                ],
@@ -1823,6 +1847,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "J.L. DAOLIO",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0
@@ -1835,6 +1864,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Eugenio",
                                                          "r":  "ARMAZEM GALDINO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "EDMILSON CURI DE ANDRADE",
                                                          "p":  1
                                                      }
                                                  ]
