@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1351,10 +1351,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  5,
-                                     "km":  32.83,
-                                     "tv":  151
+                                     "km":  33.65,
+                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -1532,6 +1532,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0
@@ -1585,6 +1590,11 @@
                                        "n":  "Eugenio",
                                        "r":  "MERCADINHO IPANEMA LTDA.",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "A K MIHARA MERCEARIA EIRELI",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Karina",

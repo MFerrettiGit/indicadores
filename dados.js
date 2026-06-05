@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  32.83,
-                     "semPed":  1,
-                     "perc":  16.67,
+                     "visitas":  7,
+                     "km":  33.65,
+                     "semPed":  2,
+                     "perc":  28.57,
                      "primeiro":  "08:02",
-                     "ultimo":  "11:55",
-                     "tv":  "02:31:00"
+                     "ultimo":  "12:26",
+                     "tv":  "02:53:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -384,6 +384,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "10:38:01",
+                         "out":  "12:39:19",
+                         "km":  26.5,
+                         "dur":  "02:00:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -481,6 +490,15 @@ window.PAINEL = {
                          "out":  "11:55:59",
                          "km":  9.12,
                          "dur":  "00:41:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "A K MIHARA MERCEARIA EIRELI",
+                         "mun":  "MAIRIPORA",
+                         "in":  "12:03:41",
+                         "out":  "12:26:29",
+                         "km":  0.82,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Karina",
@@ -589,12 +607,20 @@ window.PAINEL = {
                         "tempo":  "01:03:47"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Dourado a Ribeirão Bonito",
+                        "inicio":  "12:12",
+                        "final":  "12:34",
+                        "tempo":  "00:22:02"
+                    },
+                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:38:09"
+                        "tempo":  "04:53:09"
                     },
                     {
                         "nome":  "Nelson",
@@ -602,15 +628,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:59:33"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Dourado a Ribeirão Bonito",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:12:32"
+                        "tempo":  "03:14:33"
                     },
                     {
                         "nome":  "Karina",
@@ -618,7 +636,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:23"
+                        "tempo":  "00:27:23"
                     },
                     {
                         "nome":  "Luis",
@@ -626,7 +644,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:07"
+                        "tempo":  "00:24:07"
                     },
                     {
                         "nome":  "Cominato",
@@ -634,7 +652,23 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:44"
+                        "tempo":  "00:15:44"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:29"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:16"
                     }
                 ],
     "semped":  [
@@ -647,6 +681,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eugenio",
                        "razao":  "MEGA TOP SUPERMERCADO LTDA",
+                       "mun":  "MAIRIPORA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "A K MIHARA MERCEARIA EIRELI",
                        "mun":  "MAIRIPORA",
                        "obs":  "comprador ausente"
                    },
@@ -709,6 +749,12 @@ window.PAINEL = {
                        "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                        "mun":  "ITATIBA",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "sugestão central"
                    },
                    {
                        "nome":  "Cominato",
@@ -855,8 +901,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     60,
-                     18
+                     61,
+                     19
                  ]
              ],
     "historico":  {
@@ -2143,7 +2189,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2212,10 +2258,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  5,
-                                                       "km":  32.83,
-                                                       "tv":  151
+                                                       "km":  33.65,
+                                                       "tv":  173
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -2393,6 +2439,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0
@@ -2446,6 +2497,11 @@ window.PAINEL = {
                                                          "n":  "Eugenio",
                                                          "r":  "MERCADINHO IPANEMA LTDA.",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "A K MIHARA MERCEARIA EIRELI",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Karina",
