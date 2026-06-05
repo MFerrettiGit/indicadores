@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -52,6 +52,18 @@ window.PAINEL = {
                      "tv":  "04:08:00"
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  118.38,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "09:16",
+                     "ultimo":  "17:18",
+                     "tv":  "04:59:00"
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -62,18 +74,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "16:20",
                      "tv":  "04:54:00"
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  117.47,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "09:16",
-                     "ultimo":  "16:39",
-                     "tv":  "04:23:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -265,6 +265,15 @@ window.PAINEL = {
                          "out":  "16:30:08",
                          "km":  8.98,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:41:37",
+                         "out":  "17:26:55",
+                         "km":  11.11,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Luis",
@@ -499,6 +508,15 @@ window.PAINEL = {
                          "out":  "16:39:20",
                          "km":  39.59,
                          "dur":  "00:33:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:42:33",
+                         "out":  "17:18:41",
+                         "km":  0.91,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1008,7 +1026,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:47"
+                        "tempo":  "02:29:24"
                     },
                     {
                         "nome":  "Rachel",
@@ -1016,7 +1034,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:59:26"
+                        "tempo":  "02:14:03"
                     },
                     {
                         "nome":  "Lucas",
@@ -1024,7 +1042,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:28:58"
+                        "tempo":  "01:43:35"
                     },
                     {
                         "nome":  "Castro",
@@ -1032,7 +1050,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:14"
+                        "tempo":  "01:02:51"
                     }
                 ],
     "semped":  [
@@ -1361,7 +1379,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     109,
+                     110,
                      36
                  ]
              ],
@@ -2649,7 +2667,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2688,6 +2706,15 @@ window.PAINEL = {
                                                        "tv":  248
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  118.38,
+                                                       "tv":  299
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -2695,15 +2722,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  63.11,
                                                        "tv":  294
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  117.47,
-                                                       "tv":  263
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2831,6 +2849,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO MENDES RIB. PRETO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "MIALICH SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -2962,6 +2985,11 @@ window.PAINEL = {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Alan",

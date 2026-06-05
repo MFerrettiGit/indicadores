@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1321,6 +1321,15 @@
                                      "tv":  248
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  118.38,
+                                     "tv":  299
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -1328,15 +1337,6 @@
                                      "pe":  4,
                                      "km":  63.11,
                                      "tv":  294
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  117.47,
-                                     "tv":  263
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1464,6 +1464,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO MENDES RIB. PRETO LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "MIALICH SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {
@@ -1595,6 +1600,11 @@
                                        "n":  "Sao Carlos",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Alan",
