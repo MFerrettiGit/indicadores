@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -100,6 +100,18 @@ window.PAINEL = {
                      "tv":  "02:53:00"
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  176.81,
+                     "semPed":  6,
+                     "perc":  100,
+                     "primeiro":  "08:03",
+                     "ultimo":  "15:38",
+                     "tv":  "03:54:00"
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -110,18 +122,6 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "15:36",
                      "tv":  "04:16:00"
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  170.84,
-                     "semPed":  5,
-                     "perc":  100,
-                     "primeiro":  "08:03",
-                     "ultimo":  "12:16",
-                     "tv":  "02:25:00"
                  },
                  {
                      "nome":  "Castro",
@@ -769,6 +769,14 @@ window.PAINEL = {
                         "tempo":  "00:41:36"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Outro",
+                        "obs":  "caixa econômica",
+                        "inicio":  "15:19",
+                        "final":  "15:45",
+                        "tempo":  "00:26:24"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -889,12 +897,20 @@ window.PAINEL = {
                         "tempo":  "02:19:38"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Ribeirão Bonito a São carlos",
+                        "inicio":  "14:58",
+                        "final":  "15:44",
+                        "tempo":  "00:45:51"
+                    },
+                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:53:16"
+                        "tempo":  "08:11:29"
                     },
                     {
                         "nome":  "Nelson",
@@ -902,15 +918,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:29"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Ribeirão Bonito a São carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:41:02"
+                        "tempo":  "00:59:42"
                     },
                     {
                         "nome":  "Rachel",
@@ -918,15 +926,15 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:08"
+                        "tempo":  "00:44:21"
                     },
                     {
-                        "nome":  "Alan",
-                        "tipo":  "Outro",
-                        "obs":  "caixa econômica",
+                        "nome":  "Lucas",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:30"
+                        "tempo":  "00:13:53"
                     }
                 ],
     "semped":  [
@@ -1231,8 +1239,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     91,
-                     31
+                     96,
+                     32
                  ]
              ],
     "historico":  {
@@ -2519,7 +2527,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2594,6 +2602,15 @@ window.PAINEL = {
                                                        "tv":  173
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  176.81,
+                                                       "tv":  234
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2601,15 +2618,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  20.66,
                                                        "tv":  256
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  170.84,
-                                                       "tv":  145
                                                    },
                                                    {
                                                        "nome":  "Castro",

@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1357,6 +1357,15 @@
                                      "tv":  173
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  176.81,
+                                     "tv":  234
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -1364,15 +1373,6 @@
                                      "pe":  6,
                                      "km":  20.66,
                                      "tv":  256
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  170.84,
-                                     "tv":  145
                                  },
                                  {
                                      "nome":  "Castro",
