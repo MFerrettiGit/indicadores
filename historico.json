@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1299,7 +1299,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  8,
                                      "pe":  2,
-                                     "km":  60.42,
+                                     "km":  94.39,
                                      "tv":  287
                                  },
                                  {
@@ -1312,6 +1312,15 @@
                                      "tv":  230
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  5,
+                                     "km":  122.46,
+                                     "tv":  319
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -1319,15 +1328,6 @@
                                      "pe":  0,
                                      "km":  26.33,
                                      "tv":  248
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  4,
-                                     "km":  118.38,
-                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1362,7 +1362,7 @@
                                      "regional":  "SUL",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  178.84,
+                                     "km":  183.14,
                                      "tv":  306
                                  },
                                  {
@@ -1371,7 +1371,7 @@
                                      "regional":  "SUL",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  32.24,
+                                     "km":  33.14,
                                      "tv":  317
                                  },
                                  {
@@ -1384,6 +1384,15 @@
                                      "tv":  375
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  3.91,
+                                     "tv":  373
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -1391,15 +1400,6 @@
                                      "pe":  2,
                                      "km":  18.36,
                                      "tv":  314
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  3.91,
-                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -1607,6 +1607,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "COGEB SUPERMERCADOS LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  0
@@ -1744,6 +1749,11 @@
                                    {
                                        "n":  "Karina",
                                        "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1
                                    },
                                    {

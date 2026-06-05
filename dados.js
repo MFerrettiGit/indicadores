@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -20,7 +20,7 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  8,
-                     "km":  60.42,
+                     "km":  94.39,
                      "semPed":  6,
                      "perc":  75,
                      "primeiro":  "08:29",
@@ -40,6 +40,18 @@ window.PAINEL = {
                      "tv":  "03:50:00"
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  122.46,
+                     "semPed":  2,
+                     "perc":  28.57,
+                     "primeiro":  "09:16",
+                     "ultimo":  "18:01",
+                     "tv":  "05:19:00"
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -50,18 +62,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "16:50",
                      "tv":  "04:08:00"
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  118.38,
-                     "semPed":  2,
-                     "perc":  33.33,
-                     "primeiro":  "09:16",
-                     "ultimo":  "17:18",
-                     "tv":  "04:59:00"
                  },
                  {
                      "nome":  "Costa",
@@ -104,7 +104,7 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  7,
-                     "km":  178.84,
+                     "km":  183.14,
                      "semPed":  7,
                      "perc":  100,
                      "primeiro":  "08:03",
@@ -116,7 +116,7 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  7,
-                     "km":  32.24,
+                     "km":  33.14,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:19",
@@ -136,6 +136,18 @@ window.PAINEL = {
                      "tv":  "06:15:00"
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  3.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "17:58",
+                     "tv":  "06:13:00"
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -146,18 +158,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "16:29",
                      "tv":  "05:14:00"
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  3.91,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "16:16",
-                     "tv":  "04:34:00"
                  },
                  {
                      "nome":  "Lucas",
@@ -519,6 +519,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:40:55",
+                         "out":  "18:01:16",
+                         "km":  4.08,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -769,6 +778,15 @@ window.PAINEL = {
                          "out":  "16:16:32",
                          "km":  0,
                          "dur":  "01:55:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:18:33",
+                         "out":  "17:58:52",
+                         "km":  0,
+                         "dur":  "01:39:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1060,7 +1078,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:59:49"
+                        "tempo":  "03:14:50"
                     },
                     {
                         "nome":  "Lucas",
@@ -1068,7 +1086,15 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:00"
+                        "tempo":  "02:29:01"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitação de pedido",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:01"
                     }
                 ],
     "semped":  [
@@ -1397,7 +1423,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     113,
+                     115,
                      36
                  ]
              ],
@@ -2685,7 +2711,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2702,7 +2728,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  8,
                                                        "pe":  2,
-                                                       "km":  60.42,
+                                                       "km":  94.39,
                                                        "tv":  287
                                                    },
                                                    {
@@ -2715,6 +2741,15 @@ window.PAINEL = {
                                                        "tv":  230
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  5,
+                                                       "km":  122.46,
+                                                       "tv":  319
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -2722,15 +2757,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  26.33,
                                                        "tv":  248
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  4,
-                                                       "km":  118.38,
-                                                       "tv":  299
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2765,7 +2791,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  178.84,
+                                                       "km":  183.14,
                                                        "tv":  306
                                                    },
                                                    {
@@ -2774,7 +2800,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  32.24,
+                                                       "km":  33.14,
                                                        "tv":  317
                                                    },
                                                    {
@@ -2787,6 +2813,15 @@ window.PAINEL = {
                                                        "tv":  375
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  3.91,
+                                                       "tv":  373
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -2794,15 +2829,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.36,
                                                        "tv":  314
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  3.91,
-                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -3010,6 +3036,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "COGEB SUPERMERCADOS LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  0
@@ -3147,6 +3178,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                                          "p":  1
                                                      },
                                                      {
