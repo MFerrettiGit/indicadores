@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "08:54",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -246,7 +246,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:07:51"
+                        "tempo":  "01:15:00"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -254,7 +254,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Dourado",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:07"
+                        "tempo":  "00:49:16"
                     }
                 ],
     "semped":  [
@@ -385,7 +385,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     8,
+                     9,
                      3
                  ]
              ],
@@ -1673,7 +1673,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "08:54",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
