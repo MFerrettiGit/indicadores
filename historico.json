@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1312,6 +1312,15 @@
                                      "tv":  254
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  63.11,
+                                     "tv":  294
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -1319,15 +1328,6 @@
                                      "pe":  0,
                                      "km":  19.44,
                                      "tv":  192
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  61.56,
-                                     "tv":  244
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1378,10 +1378,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  2,
-                                     "km":  83.88,
-                                     "tv":  268
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  109.69,
+                                     "tv":  375
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  3.91,
+                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Alan",
@@ -1391,15 +1400,6 @@
                                      "pe":  1,
                                      "km":  10.66,
                                      "tv":  277
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  3.91,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -1439,6 +1439,11 @@
                                    {
                                        "n":  "Costa",
                                        "r":  "RODRIGUES E PEREIRA CORDEROPOLIS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
                                        "p":  1
                                    },
                                    {
@@ -1607,6 +1612,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.06",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0
@@ -1672,6 +1682,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                        "p":  1
@@ -1679,6 +1694,11 @@
                                    {
                                        "n":  "Karina",
                                        "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL OSVALDO TARORA LTDA.",
                                        "p":  1
                                    },
                                    {

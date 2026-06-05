@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -40,6 +40,18 @@ window.PAINEL = {
                      "tv":  "04:14:00"
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  63.11,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:03",
+                     "ultimo":  "16:20",
+                     "tv":  "04:54:00"
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -50,18 +62,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "14:36",
                      "tv":  "03:12:00"
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  61.56,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:03",
-                     "ultimo":  "15:03",
-                     "tv":  "04:04:00"
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -127,13 +127,25 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  83.88,
+                     "visitas":  6,
+                     "km":  109.69,
                      "semPed":  3,
-                     "perc":  60,
+                     "perc":  50,
                      "primeiro":  "08:23",
-                     "ultimo":  "14:05",
-                     "tv":  "04:28:00"
+                     "ultimo":  "16:24",
+                     "tv":  "06:15:00"
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  3.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "16:16",
+                     "tv":  "04:34:00"
                  },
                  {
                      "nome":  "Alan",
@@ -146,18 +158,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "13:19",
                      "tv":  "04:37:00"
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  3.91,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "11:49",
-                     "tv":  "02:39:00"
                  },
                  {
                      "nome":  "Lucas",
@@ -220,6 +220,15 @@ window.PAINEL = {
                          "out":  "15:03:54",
                          "km":  0,
                          "dur":  "01:10:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "15:30:11",
+                         "out":  "16:20:54",
+                         "km":  1.55,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -519,6 +528,15 @@ window.PAINEL = {
                          "dur":  "00:52:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.06",
+                         "mun":  "JUNDIAI",
+                         "in":  "14:36:17",
+                         "out":  "16:24:02",
+                         "km":  25.81,
+                         "dur":  "01:47:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -636,6 +654,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "in":  "14:32:42",
+                         "out":  "16:27:28",
+                         "km":  27.61,
+                         "dur":  "01:54:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                          "mun":  "CARAGUATATUBA",
@@ -652,6 +679,15 @@ window.PAINEL = {
                          "out":  "11:49:15",
                          "km":  3.57,
                          "dur":  "01:59:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "14:20:56",
+                         "out":  "16:16:32",
+                         "km":  0,
+                         "dur":  "01:55:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -918,7 +954,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:37"
+                        "tempo":  "01:29:39"
                     },
                     {
                         "nome":  "Rachel",
@@ -926,7 +962,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:16"
+                        "tempo":  "01:14:18"
                     },
                     {
                         "nome":  "Lucas",
@@ -934,7 +970,15 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:48"
+                        "tempo":  "00:43:50"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:06"
                     }
                 ],
     "semped":  [
@@ -1239,7 +1283,7 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     97,
+                     100,
                      32
                  ]
              ],
@@ -2527,7 +2571,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2557,6 +2601,15 @@ window.PAINEL = {
                                                        "tv":  254
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  63.11,
+                                                       "tv":  294
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -2564,15 +2617,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  19.44,
                                                        "tv":  192
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  61.56,
-                                                       "tv":  244
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -2623,10 +2667,19 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  2,
-                                                       "km":  83.88,
-                                                       "tv":  268
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  109.69,
+                                                       "tv":  375
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  3.91,
+                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2636,15 +2689,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  10.66,
                                                        "tv":  277
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  3.91,
-                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -2684,6 +2728,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "RODRIGUES E PEREIRA CORDEROPOLIS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "RODRIGUES",
                                                          "p":  1
                                                      },
                                                      {
@@ -2852,6 +2901,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.06",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0
@@ -2917,6 +2971,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                                          "p":  1
@@ -2924,6 +2983,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "COMERCIAL OSVALDO TARORA LTDA.",
                                                          "p":  1
                                                      },
                                                      {
