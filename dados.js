@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "02:25:00"
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  55.3,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:23",
+                     "ultimo":  "12:39",
+                     "tv":  "03:36:00"
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -122,18 +134,6 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "12:19",
                      "tv":  "02:29:00"
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  28.8,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:23",
-                     "ultimo":  "10:28",
-                     "tv":  "01:36:00"
                  },
                  {
                      "nome":  "Karina",
@@ -620,7 +620,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:53:09"
+                        "tempo":  "05:08:13"
                     },
                     {
                         "nome":  "Nelson",
@@ -628,7 +628,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:14:33"
+                        "tempo":  "03:29:37"
                     },
                     {
                         "nome":  "Karina",
@@ -636,7 +636,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:23"
+                        "tempo":  "00:42:27"
                     },
                     {
                         "nome":  "Luis",
@@ -644,7 +644,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:07"
+                        "tempo":  "00:39:11"
                     },
                     {
                         "nome":  "Cominato",
@@ -652,7 +652,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:44"
+                        "tempo":  "00:30:48"
                     },
                     {
                         "nome":  "Maira",
@@ -660,7 +660,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:29"
+                        "tempo":  "00:29:33"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -668,7 +668,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:16"
+                        "tempo":  "00:15:20"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:18"
                     }
                 ],
     "semped":  [
@@ -901,8 +909,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     61,
-                     19
+                     62,
+                     20
                  ]
              ],
     "historico":  {
@@ -2189,7 +2197,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2273,6 +2281,15 @@ window.PAINEL = {
                                                        "tv":  145
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  55.3,
+                                                       "tv":  216
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2280,15 +2297,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  16.6,
                                                        "tv":  149
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  28.8,
-                                                       "tv":  96
                                                    },
                                                    {
                                                        "nome":  "Karina",
