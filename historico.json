@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1294,6 +1294,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  5.3,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -1303,13 +1312,13 @@
                                      "tv":  86
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
-                                     "pe":  0,
-                                     "km":  4.45,
-                                     "tv":  54
+                                     "pe":  1,
+                                     "km":  40.22,
+                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1319,15 +1328,6 @@
                                      "pe":  1,
                                      "km":  50.69,
                                      "tv":  76
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  12.71,
-                                     "tv":  23
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1351,10 +1351,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  23.14,
-                                     "tv":  88
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  23.71,
+                                     "tv":  110
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -1366,6 +1366,15 @@
                                      "tv":  83
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  28.8,
+                                     "tv":  96
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -1373,15 +1382,6 @@
                                      "pe":  2,
                                      "km":  7.56,
                                      "tv":  103
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  24.49,
-                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -1442,9 +1442,19 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Rachel",
@@ -1469,6 +1479,11 @@
                                    {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
                                        "p":  1
                                    },
                                    {
@@ -1505,6 +1520,11 @@
                                        "n":  "Eugenio",
                                        "r":  "MEGA TOP SUPERMERCADO LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "MERCADINHO IPANEMA LTDA.",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Karina",

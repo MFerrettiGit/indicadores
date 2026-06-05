@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,6 +16,18 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  5.3,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:30",
+                     "ultimo":  "10:35",
+                     "tv":  "01:57:00"
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -28,16 +40,16 @@ window.PAINEL = {
                      "tv":  "01:26:00"
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  2,
-                     "km":  4.45,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:30",
-                     "ultimo":  "09:26",
-                     "tv":  "00:54:00"
+                     "km":  40.22,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:29",
+                     "ultimo":  "10:27",
+                     "tv":  "01:23:00"
                  },
                  {
                      "nome":  "Costa",
@@ -50,18 +62,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "09:20",
                      "tv":  "01:16:00"
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  12.71,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:29",
-                     "ultimo":  "08:53",
-                     "tv":  "00:23:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  23.14,
+                     "visitas":  5,
+                     "km":  23.71,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:02",
-                     "ultimo":  "09:50",
-                     "tv":  "01:28:00"
+                     "ultimo":  "10:26",
+                     "tv":  "01:50:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -112,6 +112,18 @@ window.PAINEL = {
                      "tv":  "01:23:00"
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  28.8,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:23",
+                     "ultimo":  "10:28",
+                     "tv":  "01:36:00"
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -122,18 +134,6 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "10:13",
                      "tv":  "01:43:00"
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  24.49,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:23",
-                     "ultimo":  "09:59",
-                     "tv":  "01:21:00"
                  },
                  {
                      "nome":  "Nelson",
@@ -222,6 +222,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "09:31:27",
+                         "out":  "10:35:24",
+                         "km":  0.85,
+                         "dur":  "01:03:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
@@ -229,6 +238,15 @@ window.PAINEL = {
                          "out":  "08:53:18",
                          "km":  12.71,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
+                         "mun":  "PAULINIA",
+                         "in":  "09:27:07",
+                         "out":  "10:27:36",
+                         "km":  27.51,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -274,6 +292,15 @@ window.PAINEL = {
                          "out":  "09:59:49",
                          "km":  20.14,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
+                         "mun":  "JUNDIAI",
+                         "in":  "10:12:09",
+                         "out":  "10:28:02",
+                         "km":  4.31,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -339,6 +366,15 @@ window.PAINEL = {
                          "dur":  "00:28:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "MERCADINHO IPANEMA LTDA.",
+                         "mun":  "MAIRIPORA",
+                         "in":  "10:04:01",
+                         "out":  "10:26:53",
+                         "km":  0.57,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                          "mun":  "CARAGUATATUBA",
@@ -398,7 +434,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:37:57"
+                        "tempo":  "02:52:59"
                     },
                     {
                         "nome":  "Nelson",
@@ -406,7 +442,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:21"
+                        "tempo":  "01:14:23"
                     }
                 ],
     "semped":  [
@@ -449,6 +485,12 @@ window.PAINEL = {
                    {
                        "nome":  "Luis",
                        "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                        "mun":  "FRANCA",
                        "obs":  "visita de rotina"
                    },
@@ -591,8 +633,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     32,
-                     12
+                     38,
+                     13
                  ]
              ],
     "historico":  {
@@ -1879,7 +1921,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1891,6 +1933,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  5.3,
+                                                       "tv":  117
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -1900,13 +1951,13 @@ window.PAINEL = {
                                                        "tv":  86
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  4.45,
-                                                       "tv":  54
+                                                       "pe":  1,
+                                                       "km":  40.22,
+                                                       "tv":  83
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -1916,15 +1967,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  50.69,
                                                        "tv":  76
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  12.71,
-                                                       "tv":  23
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -1948,10 +1990,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  23.14,
-                                                       "tv":  88
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  23.71,
+                                                       "tv":  110
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -1963,6 +2005,15 @@ window.PAINEL = {
                                                        "tv":  83
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  28.8,
+                                                       "tv":  96
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -1970,15 +2021,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  7.56,
                                                        "tv":  103
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  24.49,
-                                                       "tv":  81
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -2039,9 +2081,19 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -2066,6 +2118,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
                                                          "p":  1
                                                      },
                                                      {
@@ -2102,6 +2159,11 @@ window.PAINEL = {
                                                          "n":  "Eugenio",
                                                          "r":  "MEGA TOP SUPERMERCADO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "MERCADINHO IPANEMA LTDA.",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Karina",
