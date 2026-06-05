@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,6 +28,18 @@ window.PAINEL = {
                      "tv":  "02:16:00"
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  61.56,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:03",
+                     "ultimo":  "12:15",
+                     "tv":  "02:54:00"
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -40,76 +52,76 @@ window.PAINEL = {
                      "tv":  "02:08:00"
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  60.55,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:03",
-                     "ultimo":  "11:23",
-                     "tv":  "02:39:00"
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  40.22,
+                     "visitas":  3,
+                     "km":  42.3,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "08:29",
-                     "ultimo":  "10:27",
-                     "tv":  "01:23:00"
+                     "ultimo":  "12:01",
+                     "tv":  "02:47:00"
                  },
                  {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  13.07,
+                     "visitas":  3,
+                     "km":  17.29,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:34",
-                     "ultimo":  "10:45",
-                     "tv":  "01:43:00"
+                     "ultimo":  "11:54",
+                     "tv":  "02:38:00"
                  },
                  {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  58.73,
+                     "visitas":  2,
+                     "km":  59.61,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:16",
-                     "ultimo":  "10:50",
-                     "tv":  "01:34:00"
+                     "ultimo":  "12:11",
+                     "tv":  "02:45:00"
                  },
                  {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  23.71,
+                     "visitas":  6,
+                     "km":  32.83,
                      "semPed":  1,
-                     "perc":  20,
+                     "perc":  16.67,
                      "primeiro":  "08:02",
-                     "ultimo":  "10:26",
-                     "tv":  "01:50:00"
+                     "ultimo":  "11:55",
+                     "tv":  "02:31:00"
                  },
                  {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  117.92,
-                     "semPed":  4,
+                     "visitas":  5,
+                     "km":  170.84,
+                     "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:03",
-                     "ultimo":  "10:49",
-                     "tv":  "01:56:00"
+                     "ultimo":  "12:16",
+                     "tv":  "02:25:00"
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  16.6,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "12:19",
+                     "tv":  "02:29:00"
                  },
                  {
                      "nome":  "Castro",
@@ -124,18 +136,6 @@ window.PAINEL = {
                      "tv":  "01:36:00"
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  7.56,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "10:13",
-                     "tv":  "01:43:00"
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -146,6 +146,18 @@ window.PAINEL = {
                      "primeiro":  "08:34",
                      "ultimo":  "11:49",
                      "tv":  "02:39:00"
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  7.85,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:34",
+                     "ultimo":  "11:59",
+                     "tv":  "03:05:00"
                  },
                  {
                      "nome":  "Nelson",
@@ -170,18 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "09:32",
                      "tv":  "01:09:00"
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  4.63,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:34",
-                     "ultimo":  "10:51",
-                     "tv":  "02:16:00"
                  }
              ],
     "checkins":  [
@@ -204,6 +204,15 @@ window.PAINEL = {
                          "dur":  "01:23:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "ALTARUGIO",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "11:59:29",
+                         "out":  "12:15:26",
+                         "km":  1.01,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -220,6 +229,15 @@ window.PAINEL = {
                          "out":  "10:45:51",
                          "km":  10.24,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO IRMAOS OLIVEIRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "10:59:49",
+                         "out":  "11:54:59",
+                         "km":  4.22,
+                         "dur":  "00:55:00"
                      },
                      {
                          "nome":  "Luis",
@@ -276,6 +294,15 @@ window.PAINEL = {
                          "dur":  "01:00:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
+                         "mun":  "PAULINIA",
+                         "in":  "10:36:31",
+                         "out":  "12:01:02",
+                         "km":  2.08,
+                         "dur":  "01:24:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "PEDREIRA",
@@ -310,6 +337,15 @@ window.PAINEL = {
                          "out":  "10:50:52",
                          "km":  58.73,
                          "dur":  "01:34:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "N ARAUJO MERCADO LTDA.",
+                         "mun":  "DOURADO",
+                         "in":  "11:00:17",
+                         "out":  "12:11:41",
+                         "km":  0.88,
+                         "dur":  "01:11:00"
                      },
                      {
                          "nome":  "Alan",
@@ -384,6 +420,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:46:20",
+                         "out":  "12:16:07",
+                         "km":  52.92,
+                         "dur":  "00:29:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "MAIRIPORA",
@@ -429,6 +474,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "MERCADINHO IPANEMA LTDA.",
+                         "mun":  "MAIRIPORA",
+                         "in":  "11:14:28",
+                         "out":  "11:55:59",
+                         "km":  9.12,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                          "mun":  "CARAGUATATUBA",
@@ -456,6 +510,15 @@ window.PAINEL = {
                          "dur":  "02:16:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "11:09:52",
+                         "out":  "11:59:54",
+                         "km":  3.22,
+                         "dur":  "00:49:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
@@ -472,6 +535,15 @@ window.PAINEL = {
                          "out":  "10:13:36",
                          "km":  3.27,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIN LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "11:32:57",
+                         "out":  "12:19:56",
+                         "km":  9.04,
+                         "dur":  "00:46:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -491,6 +563,14 @@ window.PAINEL = {
                         "inicio":  "08:16",
                         "final":  "08:26",
                         "tempo":  "00:09:44"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "11:15",
+                        "final":  "12:08",
+                        "tempo":  "00:53:21"
                     },
                     {
                         "nome":  "Cominato",
@@ -514,7 +594,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:08:04"
+                        "tempo":  "04:38:09"
                     },
                     {
                         "nome":  "Nelson",
@@ -522,15 +602,39 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:29:28"
+                        "tempo":  "02:59:33"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Dourado a Ribeirão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:13"
+                        "tempo":  "00:12:32"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:23"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:07"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:44"
                     }
                 ],
     "semped":  [
@@ -629,6 +733,18 @@ window.PAINEL = {
                        "razao":  "CASA POMINI SUPERMERCADOS LTDA",
                        "mun":  "CERQUILHO",
                        "obs":  "Comprador ausente"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento e merchandising"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "ALTARUGIO",
+                       "mun":  "CORDEIROPOLIS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "hist":  [
@@ -739,8 +855,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     50,
-                     16
+                     60,
+                     18
                  ]
              ],
     "historico":  {
@@ -2027,7 +2143,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2048,6 +2164,15 @@ window.PAINEL = {
                                                        "tv":  136
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  61.56,
+                                                       "tv":  174
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -2057,58 +2182,58 @@ window.PAINEL = {
                                                        "tv":  128
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  60.55,
-                                                       "tv":  159
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  40.22,
-                                                       "tv":  83
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  42.3,
+                                                       "tv":  167
                                                    },
                                                    {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  13.07,
-                                                       "tv":  103
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  17.29,
+                                                       "tv":  158
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  58.73,
-                                                       "tv":  94
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  59.61,
+                                                       "tv":  165
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  23.71,
-                                                       "tv":  110
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  32.83,
+                                                       "tv":  151
                                                    },
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  117.92,
-                                                       "tv":  116
+                                                       "km":  170.84,
+                                                       "tv":  145
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  16.6,
+                                                       "tv":  149
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2120,15 +2245,6 @@ window.PAINEL = {
                                                        "tv":  96
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  7.56,
-                                                       "tv":  103
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -2136,6 +2252,15 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  3.91,
                                                        "tv":  159
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  7.85,
+                                                       "tv":  185
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -2154,15 +2279,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.31,
                                                        "tv":  69
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  4.63,
-                                                       "tv":  136
                                                    }
                                                ],
                                          "cli":  [
@@ -2177,6 +2293,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "ALTARUGIO",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADOS GRICKI LTDA",
                                                          "p":  1
@@ -2184,6 +2305,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "DEBORA CRISTINA LINO CARRASCOSA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO IRMAOS OLIVEIRA LTDA.",
                                                          "p":  1
                                                      },
                                                      {
@@ -2217,6 +2343,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "J.L. DAOLIO",
                                                          "p":  0
@@ -2234,6 +2365,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADOS TIBA LTDA-LJ.02",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "N ARAUJO MERCADO LTDA.",
                                                          "p":  1
                                                      },
                                                      {
@@ -2277,6 +2413,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "ARMAZEM GALDINO LTDA",
                                                          "p":  1
@@ -2302,6 +2443,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "MERCADINHO IPANEMA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                                          "p":  1
@@ -2317,6 +2463,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EDMILSON CURI DE ANDRADE",
                                                          "p":  1
@@ -2324,6 +2475,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MANDARIN LTDA",
                                                          "p":  1
                                                      },
                                                      {

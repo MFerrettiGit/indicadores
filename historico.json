@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1303,6 +1303,15 @@
                                      "tv":  136
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  61.56,
+                                     "tv":  174
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -1312,58 +1321,58 @@
                                      "tv":  128
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  60.55,
-                                     "tv":  159
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  40.22,
-                                     "tv":  83
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  42.3,
+                                     "tv":  167
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  13.07,
-                                     "tv":  103
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  17.29,
+                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  58.73,
-                                     "tv":  94
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  59.61,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  23.71,
-                                     "tv":  110
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  32.83,
+                                     "tv":  151
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  117.92,
-                                     "tv":  116
+                                     "km":  170.84,
+                                     "tv":  145
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  16.6,
+                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1375,15 +1384,6 @@
                                      "tv":  96
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.56,
-                                     "tv":  103
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -1391,6 +1391,15 @@
                                      "pe":  2,
                                      "km":  3.91,
                                      "tv":  159
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.85,
+                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -1409,15 +1418,6 @@
                                      "pe":  0,
                                      "km":  7.31,
                                      "tv":  69
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.63,
-                                     "tv":  136
                                  }
                              ],
                        "cli":  [
@@ -1432,6 +1432,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "ALTARUGIO",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1
@@ -1439,6 +1444,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "DEBORA CRISTINA LINO CARRASCOSA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO IRMAOS OLIVEIRA LTDA.",
                                        "p":  1
                                    },
                                    {
@@ -1472,6 +1482,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J.L. DAOLIO",
                                        "p":  0
@@ -1489,6 +1504,11 @@
                                    {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA-LJ.02",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "N ARAUJO MERCADO LTDA.",
                                        "p":  1
                                    },
                                    {
@@ -1532,6 +1552,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "ARMAZEM GALDINO LTDA",
                                        "p":  1
@@ -1557,6 +1582,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "MERCADINHO IPANEMA LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                        "p":  1
@@ -1572,6 +1602,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EDMILSON CURI DE ANDRADE",
                                        "p":  1
@@ -1579,6 +1614,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIN LTDA",
                                        "p":  1
                                    },
                                    {
