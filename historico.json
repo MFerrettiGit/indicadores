@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "07:54",
+                       "dataHora":  "08:09",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1294,30 +1294,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  50.69,
                                      "tv":  0
                                  },
                                  {
@@ -1344,31 +1326,22 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.66,
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  5.36,
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.31,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -1384,12 +1357,30 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.51,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.61,
                                      "tv":  0
                                  },
                                  {
@@ -1417,6 +1408,15 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.31,
                                      "tv":  0
                                  }
                              ],

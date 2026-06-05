@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "07:54",
+    "dataHora":  "08:09",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,38 +16,14 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  50.69,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:03",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -80,7 +56,7 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.66,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -88,11 +64,11 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  5.36,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -100,21 +76,9 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.31,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
                      "visitas":  0,
                      "km":  0,
                      "semPed":  0,
@@ -131,7 +95,31 @@ window.PAINEL = {
                      "km":  0.15,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:02",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:03",
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0.51,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:08",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -140,7 +128,7 @@ window.PAINEL = {
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.61,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -182,6 +170,18 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0.31,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00"
                  }
              ],
     "checkins":  [
@@ -194,7 +194,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:46"
+                        "tempo":  "00:22:45"
                     }
                 ],
     "semped":  [
@@ -1591,7 +1591,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "07:54",
+                                         "dataHora":  "08:09",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1603,30 +1603,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  50.69,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1653,31 +1635,22 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.66,
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  5.36,
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.31,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
@@ -1693,12 +1666,30 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.51,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.61,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1726,6 +1717,15 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.31,
                                                        "tv":  0
                                                    }
                                                ],
