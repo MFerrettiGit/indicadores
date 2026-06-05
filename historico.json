@@ -1294,6 +1294,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  4.45,
+                                     "tv":  54
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -1319,15 +1328,6 @@
                                      "pe":  0,
                                      "km":  12.71,
                                      "tv":  23
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  3.85,
-                                     "tv":  21
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1384,6 +1384,15 @@
                                      "tv":  47
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  4.35,
+                                     "tv":  63
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -1399,15 +1408,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.31,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -1432,6 +1432,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
                                        "p":  0
@@ -1439,6 +1444,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "J.L. DAOLIO",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                                        "p":  0
                                    },
                                    {

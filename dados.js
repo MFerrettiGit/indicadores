@@ -16,6 +16,18 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  4.45,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:30",
+                     "ultimo":  "09:26",
+                     "tv":  "00:54:00"
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -50,18 +62,6 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "08:53",
                      "tv":  "00:23:00"
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  3.85,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:30",
-                     "ultimo":  "08:52",
-                     "tv":  "00:21:00"
                  },
                  {
                      "nome":  "Fernando",
@@ -136,6 +136,18 @@ window.PAINEL = {
                      "tv":  "00:47:00"
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  4.35,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:23",
+                     "ultimo":  "09:27",
+                     "tv":  "01:03:00"
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -156,18 +168,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:22",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:23",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -204,6 +204,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "08:53:37",
+                         "out":  "09:26:45",
+                         "km":  0.6,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
@@ -220,6 +229,15 @@ window.PAINEL = {
                          "out":  "09:05:51",
                          "km":  15.23,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
+                         "mun":  "ITATIBA",
+                         "in":  "08:23:32",
+                         "out":  "09:27:04",
+                         "km":  4.35,
+                         "dur":  "01:03:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -317,7 +335,15 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:37:55"
+                        "tempo":  "01:44:24"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Manutencao",
+                        "obs":  "Manutenção do veículo (Paulo ciente)",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:48"
                     }
                 ],
     "semped":  [
@@ -340,10 +366,22 @@ window.PAINEL = {
                        "obs":  "estoque alto"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                        "mun":  "ITAPETININGA",
                        "obs":  "merchandising"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
+                       "mun":  "ITATIBA",
+                       "obs":  "comprador ausente"
                    },
                    {
                        "nome":  "Cominato",
@@ -466,8 +504,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     18,
-                     6
+                     20,
+                     8
                  ]
              ],
     "historico":  {
@@ -1766,6 +1804,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  4.45,
+                                                       "tv":  54
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -1791,15 +1838,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  12.71,
                                                        "tv":  23
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  3.85,
-                                                       "tv":  21
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -1856,6 +1894,15 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  4.35,
+                                                       "tv":  63
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -1871,15 +1918,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.31,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -1904,6 +1942,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
                                                          "p":  0
@@ -1911,6 +1954,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "J.L. DAOLIO",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "CHAMPIRRA COMERCIO DE PROD. ALIM. LTDA",
                                                          "p":  0
                                                      },
                                                      {
