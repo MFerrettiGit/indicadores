@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1292,6 +1292,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  21.01,
+                                     "tv":  86
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1312,15 +1321,6 @@
                                      "tv":  76
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  20.59,
-                                     "tv":  42
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1333,10 +1333,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.04,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.83,
+                                     "tv":  73
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1351,10 +1351,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  22.93,
-                                     "tv":  60
+                                     "km":  23.14,
+                                     "tv":  88
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -1427,6 +1427,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
                                        "p":  0
@@ -1444,6 +1449,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "J.L. DAOLIO",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B A BARBOSA SUPERMERCADO LTDA",
                                        "p":  0
                                    },
                                    {
@@ -1480,6 +1490,11 @@
                                        "n":  "Eugenio",
                                        "r":  "M T P MIHARA MERCEARIA LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "MEGA TOP SUPERMERCADO LTDA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Karina",

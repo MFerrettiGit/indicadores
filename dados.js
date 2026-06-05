@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,18 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  21.01,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:23",
+                     "ultimo":  "09:53",
+                     "tv":  "01:26:00"
                  },
                  {
                      "nome":  "Luis",
@@ -40,18 +52,6 @@ window.PAINEL = {
                      "tv":  "01:16:00"
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  20.59,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:23",
-                     "ultimo":  "09:05",
-                     "tv":  "00:42:00"
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -67,13 +67,13 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  2.04,
+                     "visitas":  1,
+                     "km":  2.83,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:34",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "ultimo":  "09:48",
+                     "tv":  "01:13:00"
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  22.93,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  23.14,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:02",
-                     "ultimo":  "09:14",
-                     "tv":  "01:00:00"
+                     "ultimo":  "09:50",
+                     "tv":  "01:28:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -195,6 +195,15 @@ window.PAINEL = {
                          "dur":  "01:16:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "08:34:50",
+                         "out":  "09:48:41",
+                         "km":  0.79,
+                         "dur":  "01:13:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
                          "mun":  "FRANCA",
@@ -229,6 +238,15 @@ window.PAINEL = {
                          "out":  "09:05:51",
                          "km":  15.23,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B A BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "PEDREIRA",
+                         "in":  "09:08:26",
+                         "out":  "09:53:25",
+                         "km":  0.42,
+                         "dur":  "00:44:00"
                      },
                      {
                          "nome":  "Alan",
@@ -294,6 +312,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "MEGA TOP SUPERMERCADO LTDA",
+                         "mun":  "MAIRIPORA",
+                         "in":  "09:21:26",
+                         "out":  "09:50:23",
+                         "km":  0.21,
+                         "dur":  "00:28:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                          "mun":  "CARAGUATATUBA",
@@ -344,7 +371,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:52:57"
+                        "tempo":  "02:07:53"
                     },
                     {
                         "nome":  "Nelson",
@@ -352,7 +379,7 @@ window.PAINEL = {
                         "obs":  "Manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:21"
+                        "tempo":  "00:29:17"
                     }
                 ],
     "semped":  [
@@ -360,6 +387,12 @@ window.PAINEL = {
                        "nome":  "Maira",
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                        "mun":  "AMERICANA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "MEGA TOP SUPERMERCADO LTDA",
+                       "mun":  "MAIRIPORA",
                        "obs":  "comprador ausente"
                    },
                    {
@@ -371,6 +404,12 @@ window.PAINEL = {
                    {
                        "nome":  "Rachel",
                        "razao":  "J.L. DAOLIO",
+                       "mun":  "PEDREIRA",
+                       "obs":  "."
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "B A BARBOSA SUPERMERCADO LTDA",
                        "mun":  "PEDREIRA",
                        "obs":  "."
                    },
@@ -519,8 +558,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     21,
-                     9
+                     26,
+                     11
                  ]
              ],
     "historico":  {
@@ -1807,7 +1846,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -1817,6 +1856,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  21.01,
+                                                       "tv":  86
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -1837,15 +1885,6 @@ window.PAINEL = {
                                                        "tv":  76
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  20.59,
-                                                       "tv":  42
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -1858,10 +1897,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.04,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.83,
+                                                       "tv":  73
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -1876,10 +1915,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  22.93,
-                                                       "tv":  60
+                                                       "km":  23.14,
+                                                       "tv":  88
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -1952,6 +1991,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "42.665.227 CLAUDECI LEODORO DE ASSIS",
                                                          "p":  0
@@ -1969,6 +2013,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "J.L. DAOLIO",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "B A BARBOSA SUPERMERCADO LTDA",
                                                          "p":  0
                                                      },
                                                      {
@@ -2005,6 +2054,11 @@ window.PAINEL = {
                                                          "n":  "Eugenio",
                                                          "r":  "M T P MIHARA MERCEARIA LTDA",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "MEGA TOP SUPERMERCADO LTDA",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Karina",
