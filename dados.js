@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "05/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -40,6 +40,18 @@ window.PAINEL = {
                      "tv":  "03:50:00"
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  23.87,
+                     "semPed":  6,
+                     "perc":  100,
+                     "primeiro":  "08:30",
+                     "ultimo":  "16:50",
+                     "tv":  "04:08:00"
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -50,18 +62,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "16:20",
                      "tv":  "04:54:00"
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  19.44,
-                     "semPed":  5,
-                     "perc":  100,
-                     "primeiro":  "08:30",
-                     "ultimo":  "14:36",
-                     "tv":  "03:12:00"
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -103,13 +103,13 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  176.81,
-                     "semPed":  6,
+                     "visitas":  7,
+                     "km":  178.84,
+                     "semPed":  7,
                      "perc":  100,
                      "primeiro":  "08:03",
-                     "ultimo":  "15:38",
-                     "tv":  "03:54:00"
+                     "ultimo":  "17:08",
+                     "tv":  "05:06:00"
                  },
                  {
                      "nome":  "Mariangela",
@@ -309,6 +309,15 @@ window.PAINEL = {
                          "in":  "13:39:34",
                          "out":  "14:36:16",
                          "km":  7.96,
+                         "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:54:03",
+                         "out":  "16:50:46",
+                         "km":  4.43,
                          "dur":  "00:56:00"
                      },
                      {
@@ -625,6 +634,15 @@ window.PAINEL = {
                          "out":  "15:38:54",
                          "km":  5.97,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:56:24",
+                         "out":  "17:08:58",
+                         "km":  2.03,
+                         "dur":  "01:12:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -990,7 +1008,7 @@ window.PAINEL = {
                         "obs":  "manutenção do veículo (Paulo ciente)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:46"
+                        "tempo":  "02:14:47"
                     },
                     {
                         "nome":  "Rachel",
@@ -998,7 +1016,7 @@ window.PAINEL = {
                         "obs":  "cubatao e proposta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:25"
+                        "tempo":  "01:59:26"
                     },
                     {
                         "nome":  "Lucas",
@@ -1006,7 +1024,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido coocerqui Bom lugar e preenchendo cadastro de cliente novo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:57"
+                        "tempo":  "01:28:58"
                     },
                     {
                         "nome":  "Castro",
@@ -1014,7 +1032,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:13"
+                        "tempo":  "00:48:14"
                     }
                 ],
     "semped":  [
@@ -1145,6 +1163,12 @@ window.PAINEL = {
                        "obs":  "estoque alto"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                        "mun":  "ITAPETININGA",
@@ -1201,6 +1225,12 @@ window.PAINEL = {
                    {
                        "nome":  "Cominato",
                        "razao":  "ETTORI",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                        "mun":  "PIRACICABA",
                        "obs":  "Merchandising"
                    },
@@ -1331,8 +1361,8 @@ window.PAINEL = {
                  ],
                  [
                      "05/06",
-                     106,
-                     34
+                     109,
+                     36
                  ]
              ],
     "historico":  {
@@ -2619,7 +2649,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-05":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2649,6 +2679,15 @@ window.PAINEL = {
                                                        "tv":  230
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  23.87,
+                                                       "tv":  248
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -2656,15 +2695,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  63.11,
                                                        "tv":  294
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  19.44,
-                                                       "tv":  192
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -2697,10 +2727,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  176.81,
-                                                       "tv":  234
+                                                       "km":  178.84,
+                                                       "tv":  306
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -2826,6 +2856,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  0
                                                      },
                                                      {
@@ -3001,6 +3036,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Cominato",
                                                          "r":  "ETTORI",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
                                                          "p":  0
                                                      },
                                                      {

@@ -1282,7 +1282,7 @@
                                ]
                    },
     "2026-06-05":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1312,6 +1312,15 @@
                                      "tv":  230
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  23.87,
+                                     "tv":  248
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -1319,15 +1328,6 @@
                                      "pe":  4,
                                      "km":  63.11,
                                      "tv":  294
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  19.44,
-                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1360,10 +1360,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  176.81,
-                                     "tv":  234
+                                     "km":  178.84,
+                                     "tv":  306
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1489,6 +1489,11 @@
                                    {
                                        "n":  "Luis",
                                        "r":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  0
                                    },
                                    {
@@ -1664,6 +1669,11 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "ETTORI",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
                                        "p":  0
                                    },
                                    {
