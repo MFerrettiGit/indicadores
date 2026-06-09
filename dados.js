@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -71,20 +71,20 @@ window.PAINEL = {
                      "ultimo":  "14:12",
                      "tv":  "04:43:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  60.89,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  61.55,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:14",
-                     "ultimo":  "14:39",
-                     "tv":  "04:49:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:17",
+                     "tv":  "05:05:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  20.62,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "09:40",
+                     "ultimo":  "15:18",
+                     "tv":  "03:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -154,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "14:55",
                      "tv":  "04:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -168,20 +182,20 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "15:01",
                      "tv":  "05:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  18.08,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "09:40",
-                     "ultimo":  "13:19",
-                     "tv":  "03:00:00",
+                     "visitas":  2,
+                     "km":  125.63,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:05",
+                     "ultimo":  "15:16",
+                     "tv":  "04:41:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -197,20 +211,6 @@ window.PAINEL = {
                      "ultimo":  "13:34",
                      "tv":  "04:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  62.16,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:05",
-                     "ultimo":  "12:03",
-                     "tv":  "03:57:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -259,6 +259,15 @@ window.PAINEL = {
                          "out":  "14:39:04",
                          "km":  7.52,
                          "dur":  "01:06:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
+                         "mun":  "MOGI GUACU",
+                         "in":  "15:01:33",
+                         "out":  "15:17:53",
+                         "km":  0.66,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -639,6 +648,15 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "FTJ SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "14:21:50",
+                         "out":  "15:18:06",
+                         "km":  2.54,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MIRANDA EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
@@ -715,6 +733,14 @@ window.PAINEL = {
                         "inicio":  "12:42",
                         "final":  "13:32",
                         "tempo":  "00:50:02"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "15:01",
+                        "final":  "15:30",
+                        "tempo":  "00:28:38"
                     },
                     {
                         "nome":  "Luis",
@@ -842,15 +868,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:55"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:14:41"
+                        "tempo":  "01:04:26"
                     }
                 ],
     "semped":  [
@@ -925,6 +943,12 @@ window.PAINEL = {
                        "razao":  "POLIZEL E CIA LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Estocado"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
+                       "mun":  "MOGI GUACU",
+                       "obs":  "cliente abastecido"
                    },
                    {
                        "nome":  "Mariangela",
@@ -1036,8 +1060,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     80,
-                     13
+                     83,
+                     15
                  ]
              ],
     "historico":  {
@@ -2856,7 +2880,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2907,10 +2931,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  60.89,
-                                                       "tv":  289
+                                                       "km":  61.55,
+                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -2940,6 +2964,15 @@ window.PAINEL = {
                                                        "tv":  228
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  20.62,
+                                                       "tv":  236
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -2967,13 +3000,13 @@ window.PAINEL = {
                                                        "tv":  300
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  18.08,
-                                                       "tv":  180
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  125.63,
+                                                       "tv":  281
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -2983,15 +3016,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  5.13,
                                                        "tv":  267
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  62.16,
-                                                       "tv":  237
                                                    }
                                                ],
                                          "cli":  [
@@ -3019,6 +3043,11 @@ window.PAINEL = {
                                                          "n":  "Costa",
                                                          "r":  "S LUCAS SUPERMERCADO LTDA",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -3228,6 +3257,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "FTJ SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {

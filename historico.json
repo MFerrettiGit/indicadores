@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1865,10 +1865,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  60.89,
-                                     "tv":  289
+                                     "km":  61.55,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1898,6 +1898,15 @@
                                      "tv":  228
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  20.62,
+                                     "tv":  236
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -1925,13 +1934,13 @@
                                      "tv":  300
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  18.08,
-                                     "tv":  180
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  125.63,
+                                     "tv":  281
                                  },
                                  {
                                      "nome":  "Karina",
@@ -1941,15 +1950,6 @@
                                      "pe":  2,
                                      "km":  5.13,
                                      "tv":  267
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  62.16,
-                                     "tv":  237
                                  }
                              ],
                        "cli":  [
@@ -1977,6 +1977,11 @@
                                        "n":  "Costa",
                                        "r":  "S LUCAS SUPERMERCADO LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Fernando",
@@ -2186,6 +2191,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "FTJ SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {
