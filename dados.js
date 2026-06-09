@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "11:59",
                      "tv":  "02:51:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "02:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -140,6 +140,20 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "11:42",
                      "tv":  "02:29:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  18.08,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "09:40",
+                     "ultimo":  "13:19",
+                     "tv":  "03:00:00",
                      "emVisita":  0,
                      "emEvento":  1
                  },
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "11:45",
                      "tv":  "03:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  15.89,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "09:40",
-                     "ultimo":  "12:45",
-                     "tv":  "02:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -522,6 +522,15 @@ window.PAINEL = {
                          "dur":  "01:08:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "12:53:19",
+                         "out":  "13:19:24",
+                         "km":  2.19,
+                         "dur":  "00:26:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MIRANDA EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
@@ -551,6 +560,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:30",
+                        "final":  "13:30",
+                        "tempo":  "00:59:55"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Buritizal",
@@ -567,12 +584,28 @@ window.PAINEL = {
                         "tempo":  "00:18:16"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:24",
+                        "final":  "13:22",
+                        "tempo":  "00:57:12"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:24",
                         "final":  "13:06",
                         "tempo":  "00:41:20"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:57",
+                        "final":  "13:26",
+                        "tempo":  "01:28:40"
                     },
                     {
                         "nome":  "Cominato",
@@ -599,36 +632,12 @@ window.PAINEL = {
                         "tempo":  "15:08:37"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:18:57"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:24"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:47"
-                    },
-                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:56"
+                        "tempo":  "00:59:58"
                     },
                     {
                         "nome":  "Eugenio",
@@ -636,7 +645,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:23"
+                        "tempo":  "00:59:25"
                     },
                     {
                         "nome":  "Rachel",
@@ -644,7 +653,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:29"
+                        "tempo":  "00:48:31"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -652,7 +661,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:39"
+                        "tempo":  "00:40:41"
                     },
                     {
                         "nome":  "Alan",
@@ -660,7 +669,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:51"
+                        "tempo":  "00:31:53"
                     },
                     {
                         "nome":  "Castro",
@@ -668,7 +677,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:56"
+                        "tempo":  "00:27:58"
                     },
                     {
                         "nome":  "Cominato",
@@ -676,7 +685,15 @@ window.PAINEL = {
                         "obs":  "piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:07"
+                        "tempo":  "00:15:09"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:02"
                     }
                 ],
     "semped":  [
@@ -856,7 +873,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     60,
+                     61,
                      13
                  ]
              ],
@@ -2676,7 +2693,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2769,6 +2786,15 @@ window.PAINEL = {
                                                        "tv":  149
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  18.08,
+                                                       "tv":  180
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -2785,15 +2811,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  7.04,
                                                        "tv":  186
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  15.89,
-                                                       "tv":  154
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -2984,6 +3001,11 @@ window.PAINEL = {
                                                          "n":  "Mariangela",
                                                          "r":  "LOJAS ESTRELA DO LAR LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Nelson",
