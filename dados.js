@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -91,14 +91,14 @@ window.PAINEL = {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  10.07,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  13.88,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:40",
-                     "ultimo":  "17:01",
-                     "tv":  "03:07:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:37",
+                     "tv":  "03:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -120,12 +120,26 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  29,
+                     "km":  48.97,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:02",
                      "ultimo":  "17:00",
                      "tv":  "06:47:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  36.24,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:29",
+                     "ultimo":  "17:45",
+                     "tv":  "07:12:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -183,20 +197,6 @@ window.PAINEL = {
                      "ultimo":  "16:16",
                      "tv":  "04:52:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  32.78,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:29",
-                     "ultimo":  "16:33",
-                     "tv":  "06:16:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -513,6 +513,15 @@ window.PAINEL = {
                          "dur":  "01:00:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:14:07",
+                         "out":  "17:37:23",
+                         "km":  3.81,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
@@ -745,6 +754,15 @@ window.PAINEL = {
                          "out":  "16:33:46",
                          "km":  4.57,
                          "dur":  "01:16:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SELETO SUPERMERCADO LTDA",
+                         "mun":  "SALTO",
+                         "in":  "16:48:01",
+                         "out":  "17:45:27",
+                         "km":  3.46,
+                         "dur":  "00:56:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1037,7 +1055,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:59:28"
+                        "tempo":  "02:14:14"
                     },
                     {
                         "nome":  "Maira",
@@ -1045,7 +1063,15 @@ window.PAINEL = {
                         "obs":  "proposta Brait",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:26:58"
+                        "tempo":  "01:41:44"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Outro",
+                        "obs":  "SM BENFICA PARA CASA , COM MEU CARRO",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:42"
                     }
                 ],
     "semped":  [
@@ -1156,6 +1182,12 @@ window.PAINEL = {
                        "razao":  "LOJAS ESTRELA DO LAR LTDA",
                        "mun":  "JACAREI",
                        "obs":  "agenda para dia 17/06"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "hist":  [
@@ -1261,8 +1293,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     110,
-                     19
+                     111,
+                     20
                  ]
              ],
     "historico":  {
@@ -3081,7 +3113,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3141,10 +3173,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  10.07,
-                                                       "tv":  187
+                                                       "km":  13.88,
+                                                       "tv":  210
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3161,8 +3193,17 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  29,
+                                                       "km":  48.97,
                                                        "tv":  407
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  36.24,
+                                                       "tv":  432
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -3199,15 +3240,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  23.17,
                                                        "tv":  292
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  32.78,
-                                                       "tv":  376
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3386,6 +3418,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "SUPERMERCADO TAQUARAL LTDA.",
                                                          "p":  1
@@ -3514,6 +3551,11 @@ window.PAINEL = {
                                                          "n":  "Lucas",
                                                          "r":  "ARCAL-SUPERMERCADO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SELETO SUPERMERCADO LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Mariangela",

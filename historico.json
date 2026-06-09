@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1874,10 +1874,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  10.07,
-                                     "tv":  187
+                                     "km":  13.88,
+                                     "tv":  210
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1894,8 +1894,17 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  29,
+                                     "km":  48.97,
                                      "tv":  407
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  36.24,
+                                     "tv":  432
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1932,15 +1941,6 @@
                                      "pe":  4,
                                      "km":  23.17,
                                      "tv":  292
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  32.78,
-                                     "tv":  376
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2119,6 +2119,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "SUPERMERCADO TAQUARAL LTDA.",
                                        "p":  1
@@ -2247,6 +2252,11 @@
                                        "n":  "Lucas",
                                        "r":  "ARCAL-SUPERMERCADO LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SELETO SUPERMERCADO LTDA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Mariangela",
