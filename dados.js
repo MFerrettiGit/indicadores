@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  90.79,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:38",
+                     "ultimo":  "16:40",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -144,17 +158,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  4,
-                     "km":  62.32,
+                     "km":  32.78,
                      "semPed":  1,
                      "perc":  25,
-                     "primeiro":  "08:38",
-                     "ultimo":  "11:30",
-                     "tv":  "02:45:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:29",
+                     "ultimo":  "16:33",
+                     "tv":  "06:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "16:11",
                      "tv":  "05:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  28.21,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:29",
-                     "ultimo":  "15:01",
-                     "tv":  "05:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -567,6 +567,15 @@ window.PAINEL = {
                          "dur":  "00:18:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "ITATIBA",
+                         "in":  "15:30:27",
+                         "out":  "16:40:50",
+                         "km":  28.47,
+                         "dur":  "01:10:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
@@ -682,6 +691,15 @@ window.PAINEL = {
                          "out":  "15:01:33",
                          "km":  21.17,
                          "dur":  "01:54:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "ARCAL-SUPERMERCADO LTDA",
+                         "mun":  "SALTO",
+                         "in":  "15:16:47",
+                         "out":  "16:33:46",
+                         "km":  4.57,
+                         "dur":  "01:16:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -948,7 +966,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:23"
+                        "tempo":  "01:14:29"
                     },
                     {
                         "nome":  "Luis",
@@ -956,7 +974,7 @@ window.PAINEL = {
                         "obs":  "Buritizal a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:06"
+                        "tempo":  "00:42:12"
                     },
                     {
                         "nome":  "Maira",
@@ -964,7 +982,7 @@ window.PAINEL = {
                         "obs":  "proposta Brait",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:53"
+                        "tempo":  "00:41:59"
                     }
                 ],
     "semped":  [
@@ -1021,6 +1039,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO CIAMDRIGHI LTDA",
                        "mun":  "SERRA NEGRA",
                        "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Lucas",
+                       "razao":  "ARCAL-SUPERMERCADO LTDA",
+                       "mun":  "SALTO",
+                       "obs":  "arrumando a loja"
                    },
                    {
                        "nome":  "Nelson",
@@ -1168,8 +1192,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     96,
-                     17
+                     99,
+                     18
                  ]
              ],
     "historico":  {
@@ -2988,7 +3012,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3054,6 +3078,15 @@ window.PAINEL = {
                                                        "tv":  127
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  90.79,
+                                                       "tv":  235
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3081,13 +3114,13 @@ window.PAINEL = {
                                                        "tv":  292
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  62.32,
-                                                       "tv":  165
+                                                       "km":  32.78,
+                                                       "tv":  376
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3106,15 +3139,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  126.57,
                                                        "tv":  326
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  28.21,
-                                                       "tv":  300
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3323,6 +3347,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                                          "p":  0
@@ -3386,6 +3415,11 @@ window.PAINEL = {
                                                          "n":  "Lucas",
                                                          "r":  "J A CRUVINEL",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "ARCAL-SUPERMERCADO LTDA",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Mariangela",

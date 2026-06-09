@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1880,6 +1880,15 @@
                                      "tv":  127
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  90.79,
+                                     "tv":  235
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -1907,13 +1916,13 @@
                                      "tv":  292
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  3,
-                                     "km":  62.32,
-                                     "tv":  165
+                                     "km":  32.78,
+                                     "tv":  376
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1932,15 +1941,6 @@
                                      "pe":  0,
                                      "km":  126.57,
                                      "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  28.21,
-                                     "tv":  300
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2149,6 +2149,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                        "p":  0
@@ -2212,6 +2217,11 @@
                                        "n":  "Lucas",
                                        "r":  "J A CRUVINEL",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "ARCAL-SUPERMERCADO LTDA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Mariangela",
