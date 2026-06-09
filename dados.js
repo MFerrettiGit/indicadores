@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "14:22",
                      "tv":  "03:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -77,14 +77,14 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  53.37,
+                     "visitas":  3,
+                     "km":  60.89,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:14",
-                     "ultimo":  "12:11",
-                     "tv":  "03:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:39",
+                     "tv":  "04:49:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "12:03",
                      "tv":  "03:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -250,6 +250,15 @@ window.PAINEL = {
                          "out":  "12:11:14",
                          "km":  2.56,
                          "dur":  "01:00:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "S LUCAS SUPERMERCADO LTDA",
+                         "mun":  "MOGI GUACU",
+                         "in":  "13:32:25",
+                         "out":  "14:39:04",
+                         "km":  7.52,
+                         "dur":  "01:06:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -610,6 +619,15 @@ window.PAINEL = {
                          "out":  "11:42:04",
                          "km":  2.34,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCADO MILD BOM LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "13:26:21",
+                         "out":  "14:45:52",
+                         "km":  4.29,
+                         "dur":  "01:19:00"
                      }
                  ],
     "eventos":  [
@@ -755,7 +773,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:57:01"
+                        "tempo":  "01:11:59"
                     },
                     {
                         "nome":  "Fernando",
@@ -763,7 +781,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:21"
+                        "tempo":  "00:30:19"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -771,7 +789,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:47"
+                        "tempo":  "00:19:45"
                     }
                 ],
     "semped":  [
@@ -951,7 +969,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     69,
+                     71,
                      13
                  ]
              ],
@@ -2771,7 +2789,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2822,10 +2840,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  53.37,
-                                                       "tv":  223
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  60.89,
+                                                       "tv":  289
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -2928,6 +2946,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "S LUCAS SUPERMERCADO LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -3129,6 +3152,11 @@ window.PAINEL = {
                                                          "n":  "Nelson",
                                                          "r":  "EMPORIO SAO JOSE ITAPE LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCADO MILD BOM LTDA",
+                                                         "p":  1
                                                      }
                                                  ]
                                      }

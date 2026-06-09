@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1865,10 +1865,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  53.37,
-                                     "tv":  223
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  60.89,
+                                     "tv":  289
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1971,6 +1971,11 @@
                                    {
                                        "n":  "Costa",
                                        "r":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "S LUCAS SUPERMERCADO LTDA",
                                        "p":  1
                                    },
                                    {
@@ -2172,6 +2177,11 @@
                                        "n":  "Nelson",
                                        "r":  "EMPORIO SAO JOSE ITAPE LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO MILD BOM LTDA",
+                                       "p":  1
                                    }
                                ]
                    }
