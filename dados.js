@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -13,7 +13,9 @@ window.PAINEL = {
                      "perc":  100,
                      "primeiro":  "07:53",
                      "ultimo":  "09:26",
-                     "tv":  "01:29:00"
+                     "tv":  "01:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -25,7 +27,9 @@ window.PAINEL = {
                      "perc":  100,
                      "primeiro":  "08:04",
                      "ultimo":  "10:11",
-                     "tv":  "01:40:00"
+                     "tv":  "01:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -37,7 +41,9 @@ window.PAINEL = {
                      "perc":  100,
                      "primeiro":  "08:10",
                      "ultimo":  "08:26",
-                     "tv":  "00:16:00"
+                     "tv":  "00:16:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -49,7 +55,9 @@ window.PAINEL = {
                      "perc":  0,
                      "primeiro":  "08:13",
                      "ultimo":  "08:37",
-                     "tv":  "00:23:00"
+                     "tv":  "00:23:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -61,7 +69,23 @@ window.PAINEL = {
                      "perc":  0,
                      "primeiro":  "08:40",
                      "ultimo":  "10:00",
-                     "tv":  "01:20:00"
+                     "tv":  "01:20:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  62.39,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:12",
+                     "ultimo":  "10:16",
+                     "tv":  "01:03:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -73,19 +97,9 @@ window.PAINEL = {
                      "perc":  null,
                      "primeiro":  "08:14",
                      "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.66,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:12",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -97,7 +111,9 @@ window.PAINEL = {
                      "perc":  0,
                      "primeiro":  "08:38",
                      "ultimo":  "09:10",
-                     "tv":  "00:30:00"
+                     "tv":  "00:30:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -109,7 +125,23 @@ window.PAINEL = {
                      "perc":  0,
                      "primeiro":  "08:02",
                      "ultimo":  "10:12",
-                     "tv":  "02:10:00"
+                     "tv":  "02:10:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  3.79,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:29",
+                     "ultimo":  "10:22",
+                     "tv":  "01:52:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -121,7 +153,9 @@ window.PAINEL = {
                      "perc":  0,
                      "primeiro":  "08:55",
                      "ultimo":  "09:33",
-                     "tv":  "00:38:00"
+                     "tv":  "00:38:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -133,7 +167,9 @@ window.PAINEL = {
                      "perc":  null,
                      "primeiro":  "08:05",
                      "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -145,19 +181,9 @@ window.PAINEL = {
                      "perc":  null,
                      "primeiro":  "08:16",
                      "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:29",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -169,7 +195,9 @@ window.PAINEL = {
                      "perc":  null,
                      "primeiro":  "08:44",
                      "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -181,7 +209,9 @@ window.PAINEL = {
                      "perc":  null,
                      "primeiro":  "09:40",
                      "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -202,6 +232,15 @@ window.PAINEL = {
                          "out":  "08:37:19",
                          "km":  4.39,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "PAULO MEDEIROS JUNIOR SUPERMERCADO EPP.",
+                         "mun":  "BURITIZAL",
+                         "in":  "09:12:59",
+                         "out":  "10:16:27",
+                         "km":  61.73,
+                         "dur":  "01:03:00"
                      },
                      {
                          "nome":  "Maira",
@@ -267,6 +306,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:29:51",
+                         "out":  "10:22:47",
+                         "km":  3.79,
+                         "dur":  "01:52:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MIRANDA EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
@@ -300,6 +348,14 @@ window.PAINEL = {
                         "inicio":  "17:17",
                         "final":  "08:25",
                         "tempo":  "15:08:37"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Buritizal a Aramina",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:21"
                     }
                 ],
     "semped":  [
@@ -431,7 +487,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     18,
+                     22,
                      4
                  ]
              ],
@@ -2251,7 +2307,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2299,21 +2355,21 @@ window.PAINEL = {
                                                        "tv":  80
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  62.39,
+                                                       "tv":  63
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  50.81,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.66,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2333,6 +2389,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  13.44,
                                                        "tv":  130
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  3.79,
+                                                       "tv":  112
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -2355,15 +2420,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2401,6 +2457,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "PAULO MEDEIROS JUNIOR SUPERMERCADO EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                                          "p":  0
@@ -2433,6 +2494,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                                                          "p":  1
                                                      },
                                                      {
