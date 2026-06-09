@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  92.01,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:13",
+                     "ultimo":  "14:12",
+                     "tv":  "04:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -42,20 +56,6 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "11:59",
                      "tv":  "02:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  90.7,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "13:46",
-                     "tv":  "04:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "12:45",
                      "tv":  "04:28:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -277,6 +277,15 @@ window.PAINEL = {
                          "out":  "13:46:39",
                          "km":  55.11,
                          "dur":  "02:16:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO UNIAO REAL LTDA.",
+                         "mun":  "CAJURU",
+                         "in":  "13:55:59",
+                         "out":  "14:12:04",
+                         "km":  1.31,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Luis",
@@ -703,7 +712,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:11"
+                        "tempo":  "01:13:00"
                     },
                     {
                         "nome":  "Mariangela",
@@ -711,7 +720,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:15"
+                        "tempo":  "00:56:04"
                     },
                     {
                         "nome":  "Karina",
@@ -719,7 +728,15 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:07"
+                        "tempo":  "00:41:56"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:16"
                     }
                 ],
     "semped":  [
@@ -899,7 +916,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     64,
+                     66,
                      13
                  ]
              ],
@@ -2719,7 +2736,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2740,6 +2757,15 @@ window.PAINEL = {
                                                        "tv":  187
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  92.01,
+                                                       "tv":  283
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -2747,15 +2773,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  11.65,
                                                        "tv":  171
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  90.7,
-                                                       "tv":  267
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2891,6 +2908,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "J. G. SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO UNIAO REAL LTDA.",
                                                          "p":  1
                                                      },
                                                      {

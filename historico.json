@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1835,6 +1835,15 @@
                                      "tv":  187
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  92.01,
+                                     "tv":  283
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1842,15 +1851,6 @@
                                      "pe":  1,
                                      "km":  11.65,
                                      "tv":  171
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  90.7,
-                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Luis",
@@ -1986,6 +1986,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "J. G. SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO UNIAO REAL LTDA.",
                                        "p":  1
                                    },
                                    {
