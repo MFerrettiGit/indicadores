@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  63.88,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  65.81,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "07:53",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
+                     "ultimo":  "09:26",
+                     "tv":  "01:29:00"
                  },
                  {
                      "nome":  "Maira",
@@ -186,6 +186,15 @@ window.PAINEL = {
              ],
     "checkins":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "in":  "07:53:34",
+                         "out":  "09:26:56",
+                         "km":  1.93,
+                         "dur":  "01:29:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "MARA EDITH LOURENCO",
                          "mun":  "RIBEIRAO PRETO",
@@ -263,6 +272,12 @@ window.PAINEL = {
                        "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                        "mun":  "SANTA BARBARA D",
                        "obs":  "comprador em reunião"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA",
+                       "mun":  "CAMPO LIMPO PAU",
+                       "obs":  "estocado"
                    },
                    {
                        "nome":  "Rachel",
@@ -374,8 +389,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     12,
-                     2
+                     13,
+                     3
                  ]
              ],
     "historico":  {
@@ -2194,16 +2209,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  63.88,
-                                                       "tv":  0
+                                                       "km":  65.81,
+                                                       "tv":  89
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -2333,6 +2348,11 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  0
+                                                     },
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "MARA EDITH LOURENCO",

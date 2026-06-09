@@ -1814,16 +1814,16 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  63.88,
-                                     "tv":  0
+                                     "km":  65.81,
+                                     "tv":  89
                                  },
                                  {
                                      "nome":  "Maira",
@@ -1953,6 +1953,11 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0
+                                   },
                                    {
                                        "n":  "Fernando",
                                        "r":  "MARA EDITH LOURENCO",
