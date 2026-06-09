@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "17:00",
+                     "tv":  "06:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -130,17 +144,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  23.46,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "15:58",
-                     "tv":  "06:04:00",
-                     "emVisita":  1,
+                     "visitas":  5,
+                     "km":  25.08,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "09:40",
+                     "ultimo":  "16:54",
+                     "tv":  "05:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "16:33",
                      "tv":  "06:16:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  20.62,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "09:40",
-                     "ultimo":  "15:18",
-                     "tv":  "03:56:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -495,6 +495,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MASSAO E MANOEL COMERCIO DE CARNES LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:00:30",
+                         "out":  "17:01:22",
+                         "km":  4.25,
+                         "dur":  "01:00:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
@@ -529,6 +538,15 @@ window.PAINEL = {
                          "out":  "15:58:09",
                          "km":  5.22,
                          "dur":  "01:36:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO GUARANI LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:17:39",
+                         "out":  "17:00:47",
+                         "km":  5.54,
+                         "dur":  "00:43:00"
                      },
                      {
                          "nome":  "Castro",
@@ -736,6 +754,15 @@ window.PAINEL = {
                          "out":  "15:18:06",
                          "km":  2.54,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIO THOMAZINI DE ALIMENTOS LTDA.",
+                         "mun":  "JACAREI",
+                         "in":  "15:36:27",
+                         "out":  "16:54:07",
+                         "km":  4.46,
+                         "dur":  "01:17:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -966,7 +993,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:29"
+                        "tempo":  "01:29:28"
                     },
                     {
                         "nome":  "Luis",
@@ -974,7 +1001,7 @@ window.PAINEL = {
                         "obs":  "Buritizal a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:12"
+                        "tempo":  "00:57:11"
                     },
                     {
                         "nome":  "Maira",
@@ -982,7 +1009,7 @@ window.PAINEL = {
                         "obs":  "proposta Brait",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:59"
+                        "tempo":  "00:56:58"
                     }
                 ],
     "semped":  [
@@ -1192,7 +1219,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     99,
+                     102,
                      18
                  ]
              ],
@@ -3012,7 +3039,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3078,6 +3105,15 @@ window.PAINEL = {
                                                        "tv":  127
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  29,
+                                                       "tv":  407
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -3096,13 +3132,13 @@ window.PAINEL = {
                                                        "tv":  287
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  4,
-                                                       "km":  23.46,
-                                                       "tv":  364
+                                                       "km":  25.08,
+                                                       "tv":  313
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3121,15 +3157,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  32.78,
                                                        "tv":  376
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  20.62,
-                                                       "tv":  236
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -3307,6 +3334,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MASSAO E MANOEL COMERCIO DE CARNES LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "SUPERMERCADO TAQUARAL LTDA.",
                                                          "p":  1
@@ -3324,6 +3356,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Alan",
                                                          "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO GUARANI LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -3439,6 +3476,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "FTJ SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIO THOMAZINI DE ALIMENTOS LTDA.",
                                                          "p":  1
                                                      },
                                                      {

@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1880,6 +1880,15 @@
                                      "tv":  127
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  29,
+                                     "tv":  407
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -1898,13 +1907,13 @@
                                      "tv":  287
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  4,
-                                     "km":  23.46,
-                                     "tv":  364
+                                     "km":  25.08,
+                                     "tv":  313
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -1923,15 +1932,6 @@
                                      "pe":  3,
                                      "km":  32.78,
                                      "tv":  376
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  20.62,
-                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -2109,6 +2109,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MASSAO E MANOEL COMERCIO DE CARNES LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "SUPERMERCADO TAQUARAL LTDA.",
                                        "p":  1
@@ -2126,6 +2131,11 @@
                                    {
                                        "n":  "Alan",
                                        "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO GUARANI LTDA",
                                        "p":  1
                                    },
                                    {
@@ -2241,6 +2251,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "FTJ SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIO THOMAZINI DE ALIMENTOS LTDA.",
                                        "p":  1
                                    },
                                    {
