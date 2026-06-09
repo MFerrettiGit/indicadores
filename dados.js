@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -78,7 +78,7 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  69.94,
+                     "km":  119.58,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:14",
@@ -106,7 +106,7 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "visitas":  6,
-                     "km":  17.17,
+                     "km":  17.68,
                      "semPed":  1,
                      "perc":  16.67,
                      "primeiro":  "08:55",
@@ -925,6 +925,14 @@ window.PAINEL = {
                         "tempo":  "01:01:50"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Outro",
+                        "obs":  "SM BENFICA PARA CASA , COM MEU CARRO",
+                        "inicio":  "17:36",
+                        "final":  "18:31",
+                        "tempo":  "00:54:28"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -1091,14 +1099,6 @@ window.PAINEL = {
                         "inicio":  "17:17",
                         "final":  "08:25",
                         "tempo":  "15:08:37"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Outro",
-                        "obs":  "SM BENFICA PARA CASA , COM MEU CARRO",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:53"
                     }
                 ],
     "semped":  [
@@ -3140,7 +3140,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3193,7 +3193,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  69.94,
+                                                       "km":  119.58,
                                                        "tv":  353
                                                    },
                                                    {
@@ -3211,7 +3211,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  5,
-                                                       "km":  17.17,
+                                                       "km":  17.68,
                                                        "tv":  382
                                                    },
                                                    {
