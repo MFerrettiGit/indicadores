@@ -1,34 +1,34 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  1,
-                     "km":  65.81,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  129.37,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "07:53",
-                     "ultimo":  "09:26",
-                     "tv":  "01:29:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:30",
+                     "tv":  "02:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  59.01,
-                     "semPed":  3,
-                     "perc":  75,
+                     "visitas":  5,
+                     "km":  59.71,
+                     "semPed":  4,
+                     "perc":  80,
                      "primeiro":  "08:10",
-                     "ultimo":  "12:02",
-                     "tv":  "02:52:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:21",
+                     "tv":  "03:07:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "11:59",
                      "tv":  "02:51:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "02:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "12:03",
                      "tv":  "03:57:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -223,6 +223,15 @@ window.PAINEL = {
                          "out":  "09:26:56",
                          "km":  1.93,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "11:38:50",
+                         "out":  "12:30:12",
+                         "km":  63.56,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Costa",
@@ -349,6 +358,15 @@ window.PAINEL = {
                          "out":  "12:02:10",
                          "km":  2.53,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO CIAMDRIGHI LTDA",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "12:05:58",
+                         "out":  "12:21:28",
+                         "km":  0.7,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -552,7 +570,39 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:55"
+                        "tempo":  "00:33:59"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:40"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:26"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:23"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:49"
                     }
                 ],
     "semped":  [
@@ -575,6 +625,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                       "mun":  "HORTOLANDIA",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Rachel",
                        "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                        "mun":  "AMPARO",
@@ -591,6 +647,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
                        "mun":  "SERRA NEGRA",
                        "obs":  "análise da loja"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO CIAMDRIGHI LTDA",
+                       "mun":  "SERRA NEGRA",
+                       "obs":  "analise da loja"
                    },
                    {
                        "nome":  "Nelson",
@@ -714,8 +776,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     52,
-                     9
+                     56,
+                     12
                  ]
              ],
     "historico":  {
@@ -2534,25 +2596,25 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  65.81,
-                                                       "tv":  89
+                                                       "km":  129.37,
+                                                       "tv":  140
                                                    },
                                                    {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  1,
-                                                       "km":  59.01,
-                                                       "tv":  172
+                                                       "km":  59.71,
+                                                       "tv":  187
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -2679,6 +2741,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
                                                          "p":  1
@@ -2746,6 +2813,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO CIAMDRIGHI LTDA",
                                                          "p":  0
                                                      },
                                                      {

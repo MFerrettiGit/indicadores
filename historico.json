@@ -1814,25 +1814,25 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  65.81,
-                                     "tv":  89
+                                     "km":  129.37,
+                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  1,
-                                     "km":  59.01,
-                                     "tv":  172
+                                     "km":  59.71,
+                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Maira",
@@ -1959,6 +1959,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
                                        "p":  1
@@ -2026,6 +2031,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA",
                                        "p":  0
                                    },
                                    {
