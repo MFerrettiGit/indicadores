@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -84,8 +84,8 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "10:16",
                      "tv":  "01:03:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  8.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "10:35",
+                     "tv":  "02:19:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -166,20 +180,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:16",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -232,6 +232,15 @@ window.PAINEL = {
                          "out":  "08:37:19",
                          "km":  4.39,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "08:57:24",
+                         "out":  "10:46:01",
+                         "km":  9.81,
+                         "dur":  "01:48:00"
                      },
                      {
                          "nome":  "Luis",
@@ -306,6 +315,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "08:16:35",
+                         "out":  "10:35:46",
+                         "km":  8.09,
+                         "dur":  "02:19:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
@@ -334,6 +352,14 @@ window.PAINEL = {
                         "tempo":  "01:08:37"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Buritizal a Aramina",
+                        "inicio":  "10:18",
+                        "final":  "10:37",
+                        "tempo":  "00:18:16"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
@@ -348,14 +374,6 @@ window.PAINEL = {
                         "inicio":  "17:17",
                         "final":  "08:25",
                         "tempo":  "15:08:37"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Buritizal a Aramina",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:12:21"
                     }
                 ],
     "semped":  [
@@ -487,7 +505,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     22,
+                     25,
                      4
                  ]
              ],
@@ -2307,7 +2325,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2391,6 +2409,15 @@ window.PAINEL = {
                                                        "tv":  130
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  8.09,
+                                                       "tv":  139
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -2411,15 +2438,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2454,6 +2472,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "MARA EDITH LOURENCO",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  1
                                                      },
                                                      {
@@ -2494,6 +2517,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1
                                                      },
                                                      {

@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1898,6 +1898,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  8.09,
+                                     "tv":  139
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -1918,15 +1927,6 @@
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -1961,6 +1961,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "MARA EDITH LOURENCO",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1
                                    },
                                    {
@@ -2001,6 +2006,11 @@
                                    {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1
                                    },
                                    {
