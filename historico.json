@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1831,7 +1831,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  3,
-                                     "km":  63.63,
+                                     "km":  81.85,
                                      "tv":  257
                                  },
                                  {
@@ -1925,6 +1925,15 @@
                                      "tv":  235
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  6.44,
+                                     "tv":  406
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -1941,15 +1950,6 @@
                                      "pe":  4,
                                      "km":  23.17,
                                      "tv":  292
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  5.45,
-                                     "tv":  372
                                  }
                              ],
                        "cli":  [
