@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -19,13 +19,13 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  1.61,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  4.46,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:04",
-                     "ultimo":  "09:06",
-                     "tv":  "01:02:00"
+                     "ultimo":  "10:11",
+                     "tv":  "01:40:00"
                  },
                  {
                      "nome":  "Rachel",
@@ -52,6 +52,18 @@ window.PAINEL = {
                      "tv":  "00:23:00"
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  2.9,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:40",
+                     "ultimo":  "10:00",
+                     "tv":  "01:20:00"
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -60,18 +72,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:14",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:40",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -100,6 +100,18 @@ window.PAINEL = {
                      "tv":  "00:30:00"
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  13.44,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "10:12",
+                     "tv":  "02:10:00"
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -110,18 +122,6 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "09:33",
                      "tv":  "00:38:00"
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
                  },
                  {
                      "nome":  "Cominato",
@@ -213,6 +213,15 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO PAVAN LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "09:32:34",
+                         "out":  "10:11:28",
+                         "km":  2.85,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -220,6 +229,24 @@ window.PAINEL = {
                          "out":  "08:26:55",
                          "km":  1.17,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "08:40:00",
+                         "out":  "10:00:53",
+                         "km":  2.9,
+                         "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO TAQUARAL LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:02:22",
+                         "out":  "10:12:32",
+                         "km":  13.44,
+                         "dur":  "02:10:00"
                      },
                      {
                          "nome":  "Castro",
@@ -281,6 +308,12 @@ window.PAINEL = {
                        "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                        "mun":  "SANTA BARBARA D",
                        "obs":  "comprador em reunião"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO PAVAN LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador ausente"
                    },
                    {
                        "nome":  "Eduardo",
@@ -398,8 +431,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     15,
-                     3
+                     18,
+                     4
                  ]
              ],
     "historico":  {
@@ -2218,7 +2251,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2233,10 +2266,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  1.61,
-                                                       "tv":  62
+                                                       "km":  4.46,
+                                                       "tv":  100
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -2257,21 +2290,21 @@ window.PAINEL = {
                                                        "tv":  23
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.9,
+                                                       "tv":  80
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  50.81,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2293,6 +2326,15 @@ window.PAINEL = {
                                                        "tv":  30
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  13.44,
+                                                       "tv":  130
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -2300,15 +2342,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  4.64,
                                                        "tv":  38
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -2373,9 +2406,24 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO PAVAN LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO TAQUARAL LTDA.",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Castro",
