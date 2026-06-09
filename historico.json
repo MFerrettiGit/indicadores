@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1826,6 +1826,15 @@
                                      "tv":  89
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  56.48,
+                                     "tv":  153
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1833,15 +1842,6 @@
                                      "pe":  0,
                                      "km":  4.46,
                                      "tv":  100
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  50.78,
-                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1853,6 +1853,24 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  5.82,
+                                     "tv":  127
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  78.57,
+                                     "tv":  119
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -1860,24 +1878,6 @@
                                      "pe":  1,
                                      "km":  50.81,
                                      "tv":  163
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.9,
-                                     "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  62.39,
-                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1889,6 +1889,15 @@
                                      "tv":  165
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  9.57,
+                                     "tv":  149
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -1898,13 +1907,13 @@
                                      "tv":  175
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  7.23,
-                                     "tv":  127
+                                     "km":  7.04,
+                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -1914,15 +1923,6 @@
                                      "pe":  1,
                                      "km":  8.09,
                                      "tv":  139
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.79,
-                                     "tv":  112
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1979,6 +1979,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "PAULO MEDEIROS JUNIOR SUPERMERCADO",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  0
@@ -1999,8 +2004,18 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "LUIZ ANTONIO DE OLIVEIRA ZANONA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "CESAR ANTONIO LUCHESI-ME.",
                                        "p":  1
                                    },
                                    {
@@ -2039,8 +2054,18 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                                        "p":  1
                                    },
                                    {
@@ -2057,6 +2082,11 @@
                                        "n":  "Nelson",
                                        "r":  "JOAO CARLOS BETT OLIVEIRA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO SAO JOSE ITAPE LTDA",
+                                       "p":  0
                                    }
                                ]
                    }
