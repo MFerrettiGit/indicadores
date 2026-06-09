@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1838,19 +1838,28 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  32.18,
-                                     "tv":  16
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  50.78,
+                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  35.59,
+                                     "tv":  131
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  25.78,
-                                     "tv":  23
+                                     "km":  50.81,
+                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1869,15 +1878,6 @@
                                      "pe":  1,
                                      "km":  62.39,
                                      "tv":  63
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  50.81,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1959,6 +1959,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "MARA EDITH LOURENCO",
                                        "p":  1
@@ -1987,6 +1992,11 @@
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO COLORADO LTDA - LOJA 01.",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Sao Carlos",

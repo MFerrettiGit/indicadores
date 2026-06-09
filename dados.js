@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,35 +28,49 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "10:11",
                      "tv":  "01:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  32.18,
+                     "visitas":  2,
+                     "km":  50.78,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "08:10",
-                     "ultimo":  "08:26",
-                     "tv":  "00:16:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:58",
+                     "tv":  "02:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  25.78,
+                     "visitas":  2,
+                     "km":  35.59,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:13",
-                     "ultimo":  "08:37",
-                     "tv":  "00:23:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:46",
+                     "tv":  "02:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  50.81,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "10:58",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -70,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "08:40",
                      "ultimo":  "10:00",
                      "tv":  "01:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -84,20 +98,6 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "10:16",
                      "tv":  "01:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  50.81,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:14",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -225,6 +225,15 @@ window.PAINEL = {
                          "dur":  "01:29:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                         "mun":  "CONCHAL",
+                         "in":  "08:14:41",
+                         "out":  "10:58:34",
+                         "km":  0,
+                         "dur":  "02:43:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "MARA EDITH LOURENCO",
                          "mun":  "RIBEIRAO PRETO",
@@ -277,6 +286,15 @@ window.PAINEL = {
                          "out":  "08:26:55",
                          "km":  1.17,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO COLORADO LTDA - LOJA 01.",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "08:57:52",
+                         "out":  "10:58:23",
+                         "km":  18.6,
+                         "dur":  "02:00:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -505,7 +523,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     25,
+                     28,
                      4
                  ]
              ],
@@ -2325,7 +2343,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2349,19 +2367,28 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  32.18,
-                                                       "tv":  16
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  50.78,
+                                                       "tv":  136
                                                    },
                                                    {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  35.59,
+                                                       "tv":  131
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  25.78,
-                                                       "tv":  23
+                                                       "km":  50.81,
+                                                       "tv":  163
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -2380,15 +2407,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  62.39,
                                                        "tv":  63
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  50.81,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2470,6 +2488,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "MARA EDITH LOURENCO",
                                                          "p":  1
@@ -2498,6 +2521,11 @@ window.PAINEL = {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO COLORADO LTDA - LOJA 01.",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
