@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1835,6 +1835,15 @@
                                      "tv":  233
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  88.73,
+                                     "tv":  218
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1851,15 +1860,6 @@
                                      "pe":  4,
                                      "km":  92.01,
                                      "tv":  283
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  86.8,
-                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1889,6 +1889,15 @@
                                      "tv":  165
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  13.86,
+                                     "tv":  228
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -1898,13 +1907,13 @@
                                      "tv":  268
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  3,
-                                     "pe":  2,
-                                     "km":  9.57,
-                                     "tv":  149
+                                     "pe":  3,
+                                     "km":  20.04,
+                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1914,15 +1923,6 @@
                                      "pe":  2,
                                      "km":  18.08,
                                      "tv":  180
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  9.74,
-                                     "tv":  211
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -2019,6 +2019,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO MEDALHA MILAGROSA LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  0
@@ -2066,6 +2071,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "MARTA GUEDES SARAGIOTTO",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO FONSECA  AMADEU LTDA",
                                        "p":  1
                                    },
                                    {
@@ -2126,6 +2136,11 @@
                                    {
                                        "n":  "Eugenio",
                                        "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                                        "p":  1
                                    },
                                    {
