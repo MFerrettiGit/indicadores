@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1826,6 +1826,15 @@
                                      "tv":  89
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  59.01,
+                                     "tv":  172
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1835,13 +1844,13 @@
                                      "tv":  171
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  3,
-                                     "pe":  1,
-                                     "km":  56.48,
-                                     "tv":  153
+                                     "pe":  3,
+                                     "km":  79.39,
+                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1853,6 +1862,15 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  53.37,
+                                     "tv":  223
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -1860,24 +1878,6 @@
                                      "pe":  2,
                                      "km":  5.82,
                                      "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  78.57,
-                                     "tv":  119
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  50.81,
-                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Castro",
@@ -1925,6 +1925,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  62.16,
+                                     "tv":  237
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -1941,15 +1950,6 @@
                                      "pe":  1,
                                      "km":  11.84,
                                      "tv":  86
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -1961,6 +1961,11 @@
                                    {
                                        "n":  "Costa",
                                        "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
                                        "p":  1
                                    },
                                    {
@@ -1981,6 +1986,11 @@
                                    {
                                        "n":  "Luis",
                                        "r":  "PAULO MEDEIROS JUNIOR SUPERMERCADO",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "CLAUDIANA DA SILVA",
                                        "p":  1
                                    },
                                    {
@@ -2011,6 +2021,11 @@
                                    {
                                        "n":  "Rachel",
                                        "r":  "LUIZ ANTONIO DE OLIVEIRA ZANONA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
                                        "p":  0
                                    },
                                    {
@@ -2051,6 +2066,11 @@
                                    {
                                        "n":  "Castro",
                                        "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                        "p":  0
                                    },
                                    {

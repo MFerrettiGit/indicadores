@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,20 @@ window.PAINEL = {
                      "primeiro":  "07:53",
                      "ultimo":  "09:26",
                      "tv":  "01:29:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  59.01,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:10",
+                     "ultimo":  "12:02",
+                     "tv":  "02:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -32,17 +46,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  3,
-                     "km":  56.48,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:10",
-                     "ultimo":  "11:33",
-                     "tv":  "02:33:00",
-                     "emVisita":  1,
+                     "km":  79.39,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:12",
+                     "ultimo":  "12:11",
+                     "tv":  "02:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -60,6 +74,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  53.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "12:11",
+                     "tv":  "03:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -71,34 +99,6 @@ window.PAINEL = {
                      "ultimo":  "11:33",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  78.57,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:12",
-                     "ultimo":  "11:35",
-                     "tv":  "01:59:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  50.81,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "10:58",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -172,6 +172,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  62.16,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:05",
+                     "ultimo":  "12:03",
+                     "tv":  "03:57:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -182,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "11:46",
                      "tv":  "03:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -196,20 +210,6 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "11:07",
                      "tv":  "01:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -232,6 +232,15 @@ window.PAINEL = {
                          "out":  "10:58:34",
                          "km":  0,
                          "dur":  "02:43:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
+                         "mun":  "CONCHAL",
+                         "in":  "11:11:04",
+                         "out":  "12:11:14",
+                         "km":  2.56,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -268,6 +277,15 @@ window.PAINEL = {
                          "out":  "11:35:01",
                          "km":  16.18,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "CLAUDIANA DA SILVA",
+                         "mun":  "ARAMINA",
+                         "in":  "11:41:05",
+                         "out":  "12:11:30",
+                         "km":  0.82,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Maira",
@@ -322,6 +340,15 @@ window.PAINEL = {
                          "out":  "11:33:55",
                          "km":  5.7,
                          "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "11:42:06",
+                         "out":  "12:02:10",
+                         "km":  2.53,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -394,6 +421,15 @@ window.PAINEL = {
                          "out":  "11:30:03",
                          "km":  0,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                         "mun":  "CERQUILHO",
+                         "in":  "08:05:26",
+                         "out":  "12:03:52",
+                         "km":  62.16,
+                         "dur":  "03:57:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -516,7 +552,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:57"
+                        "tempo":  "00:18:55"
                     }
                 ],
     "semped":  [
@@ -551,6 +587,12 @@ window.PAINEL = {
                        "obs":  "cliente ainda nao esta precisando"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                       "mun":  "SERRA NEGRA",
+                       "obs":  "análise da loja"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "EMPORIO SAO JOSE ITAPE LTDA",
                        "mun":  "ITAPETININGA",
@@ -561,6 +603,12 @@ window.PAINEL = {
                        "razao":  "PIRANA - AUTO SERVICO LTDA.",
                        "mun":  "JUNDIAI",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                       "mun":  "CERQUILHO",
+                       "obs":  "Merchandising"
                    }
                ],
     "hist":  [
@@ -666,8 +714,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     45,
-                     7
+                     52,
+                     9
                  ]
              ],
     "historico":  {
@@ -2486,7 +2534,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2498,6 +2546,15 @@ window.PAINEL = {
                                                        "tv":  89
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  59.01,
+                                                       "tv":  172
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -2507,13 +2564,13 @@ window.PAINEL = {
                                                        "tv":  171
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  56.48,
-                                                       "tv":  153
+                                                       "pe":  3,
+                                                       "km":  79.39,
+                                                       "tv":  149
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2525,6 +2582,15 @@ window.PAINEL = {
                                                        "tv":  131
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  53.37,
+                                                       "tv":  223
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -2532,24 +2598,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  5.82,
                                                        "tv":  127
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  78.57,
-                                                       "tv":  119
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  50.81,
-                                                       "tv":  163
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2597,6 +2645,15 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  62.16,
+                                                       "tv":  237
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -2613,15 +2670,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  11.84,
                                                        "tv":  86
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -2633,6 +2681,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "CUNHA CLARO SUPERMERCADO EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "ANTONIO CARLOS RIOS RAMALHO - EPP.",
                                                          "p":  1
                                                      },
                                                      {
@@ -2653,6 +2706,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "PAULO MEDEIROS JUNIOR SUPERMERCADO",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "CLAUDIANA DA SILVA",
                                                          "p":  1
                                                      },
                                                      {
@@ -2683,6 +2741,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Rachel",
                                                          "r":  "LUIZ ANTONIO DE OLIVEIRA ZANONA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
                                                          "p":  0
                                                      },
                                                      {
@@ -2723,6 +2786,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                                          "p":  0
                                                      },
                                                      {
