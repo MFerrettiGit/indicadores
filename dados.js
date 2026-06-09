@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "08:15",
+    "dataHora":  "08:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,6 +16,18 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  32.18,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:10",
+                     "ultimo":  "08:26",
+                     "tv":  "00:16:00"
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -24,18 +36,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:04",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  31.01,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:10",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -131,7 +131,7 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:29",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -185,16 +185,32 @@ window.PAINEL = {
                  }
              ],
     "checkins":  [
-
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "in":  "08:10:40",
+                         "out":  "08:26:55",
+                         "km":  1.17,
+                         "dur":  "00:16:00"
+                     }
                  ],
     "eventos":  [
                     {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:19:08"
+                        "inicio":  "07:57",
+                        "final":  "08:25",
+                        "tempo":  "00:27:51"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Campinas a São Carlos",
+                        "inicio":  "17:17",
+                        "final":  "08:25",
+                        "tempo":  "15:08:37"
                     },
                     {
                         "nome":  "Luis",
@@ -202,11 +218,16 @@ window.PAINEL = {
                         "obs":  "Franca a Buritizal",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:43"
+                        "tempo":  "00:27:43"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "ANTONELLI SUPERMERCADO LTDA.",
+                       "mun":  "AMPARO",
+                       "obs":  "."
+                   }
                ],
     "hist":  [
                  [
@@ -311,8 +332,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     2,
-                     0
+                     4,
+                     1
                  ]
              ],
     "historico":  {
@@ -2131,7 +2152,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "08:15",
+                                         "dataHora":  "08:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2143,21 +2164,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  32.18,
+                                                       "tv":  16
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.55,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  31.01,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2270,7 +2291,11 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
-
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                                         "p":  0
+                                                     }
                                                  ]
                                      }
                   }
