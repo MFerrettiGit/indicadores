@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,11 +32,25 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  170.57,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:13",
+                     "ultimo":  "17:54",
+                     "tv":  "06:39:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  107.41,
+                     "km":  168.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:12",
@@ -50,27 +64,13 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  19.91,
+                     "km":  25.02,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:04",
                      "ultimo":  "15:38",
                      "tv":  "04:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  169.26,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "17:02",
-                     "tv":  "05:52:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -92,7 +92,7 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  13.88,
+                     "km":  15.49,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "08:40",
@@ -102,11 +102,25 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  17.17,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:55",
+                     "ultimo":  "17:52",
+                     "tv":  "06:22:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  6,
-                     "km":  25.58,
+                     "km":  42.83,
                      "semPed":  1,
                      "perc":  16.67,
                      "primeiro":  "09:40",
@@ -158,25 +172,11 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  13.99,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:55",
-                     "ultimo":  "15:47",
-                     "tv":  "04:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  4,
-                     "km":  132.81,
+                     "km":  135.71,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:05",
@@ -322,6 +322,15 @@ window.PAINEL = {
                          "out":  "17:02:19",
                          "km":  77.25,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:05:46",
+                         "out":  "17:54:12",
+                         "km":  0.12,
+                         "dur":  "00:47:00"
                      },
                      {
                          "nome":  "Luis",
@@ -720,6 +729,15 @@ window.PAINEL = {
                          "dur":  "01:07:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:26:14",
+                         "out":  "18:01:12",
+                         "km":  0.3,
+                         "dur":  "00:34:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
@@ -862,6 +880,15 @@ window.PAINEL = {
                          "out":  "15:47:14",
                          "km":  0.13,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MIEKO HONDA TANABE - ME",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:17:18",
+                         "out":  "17:52:45",
+                         "km":  3.18,
+                         "dur":  "01:35:00"
                      }
                  ],
     "eventos":  [
@@ -872,6 +899,14 @@ window.PAINEL = {
                         "inicio":  "12:30",
                         "final":  "13:30",
                         "tempo":  "00:59:55"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta Brait",
+                        "inicio":  "16:04",
+                        "final":  "17:48",
+                        "tempo":  "01:43:53"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1055,15 +1090,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:14"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta Brait",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:41:44"
+                        "tempo":  "02:29:27"
                     },
                     {
                         "nome":  "Alan",
@@ -1071,7 +1098,7 @@ window.PAINEL = {
                         "obs":  "SM BENFICA PARA CASA , COM MEU CARRO",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:42"
+                        "tempo":  "00:24:55"
                     }
                 ],
     "semped":  [
@@ -1293,7 +1320,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     111,
+                     114,
                      20
                  ]
              ],
@@ -3113,7 +3140,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3134,12 +3161,21 @@ window.PAINEL = {
                                                        "tv":  257
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  170.57,
+                                                       "tv":  399
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  107.41,
+                                                       "km":  168.85,
                                                        "tv":  266
                                                    },
                                                    {
@@ -3148,17 +3184,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  19.91,
+                                                       "km":  25.02,
                                                        "tv":  254
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  169.26,
-                                                       "tv":  352
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3175,8 +3202,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  13.88,
+                                                       "km":  15.49,
                                                        "tv":  210
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  17.17,
+                                                       "tv":  382
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3184,7 +3220,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  5,
-                                                       "km":  25.58,
+                                                       "km":  42.83,
                                                        "tv":  329
                                                    },
                                                    {
@@ -3215,21 +3251,12 @@ window.PAINEL = {
                                                        "tv":  235
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  13.99,
-                                                       "tv":  287
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  132.81,
+                                                       "km":  135.71,
                                                        "tv":  380
                                                    },
                                                    {
@@ -3310,6 +3337,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO SUPERMERCADO LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -3533,6 +3565,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                                                          "p":  1
@@ -3610,6 +3647,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Nelson",
                                                          "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MIEKO HONDA TANABE - ME",
                                                          "p":  1
                                                      }
                                                  ]
