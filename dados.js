@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "10:58",
                      "tv":  "02:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,13 +105,13 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  40.79,
+                     "visitas":  3,
+                     "km":  62.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:38",
-                     "ultimo":  "09:10",
-                     "tv":  "00:30:00",
+                     "ultimo":  "11:10",
+                     "tv":  "02:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -119,14 +119,28 @@ window.PAINEL = {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  13.44,
+                     "visitas":  2,
+                     "km":  14.23,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:02",
-                     "ultimo":  "10:12",
-                     "tv":  "02:10:00",
+                     "ultimo":  "11:03",
+                     "tv":  "02:55:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  7.23,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "11:10",
+                     "tv":  "02:07:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -158,17 +172,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  1,
-                     "km":  4.64,
+                     "km":  11.84,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "09:33",
-                     "tv":  "00:38:00",
-                     "emVisita":  1,
+                     "primeiro":  "09:40",
+                     "ultimo":  "11:07",
+                     "tv":  "01:26:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -194,20 +208,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:44",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:40",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -315,6 +315,15 @@ window.PAINEL = {
                          "dur":  "02:10:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "LR PRODUTOS DE LIMPEZA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:18:00",
+                         "out":  "11:03:09",
+                         "km":  0.79,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
@@ -331,6 +340,15 @@ window.PAINEL = {
                          "out":  "09:10:18",
                          "km":  0.65,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                         "mun":  "CAJAMAR",
+                         "in":  "09:12:49",
+                         "out":  "11:10:39",
+                         "km":  21.53,
+                         "dur":  "01:57:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -351,6 +369,15 @@ window.PAINEL = {
                          "dur":  "01:52:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIM LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "09:40:30",
+                         "out":  "11:07:01",
+                         "km":  11.84,
+                         "dur":  "01:26:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MIRANDA EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
@@ -358,6 +385,15 @@ window.PAINEL = {
                          "out":  "09:33:31",
                          "km":  4.14,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "JOAO CARLOS BETT OLIVEIRA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "09:40:26",
+                         "out":  "11:10:25",
+                         "km":  2.59,
+                         "dur":  "01:29:00"
                      }
                  ],
     "eventos":  [
@@ -523,7 +559,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     28,
+                     32,
                      4
                  ]
              ],
@@ -2343,7 +2379,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2412,19 +2448,28 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  40.79,
-                                                       "tv":  30
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  62.32,
+                                                       "tv":  147
                                                    },
                                                    {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  13.44,
-                                                       "tv":  130
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  14.23,
+                                                       "tv":  175
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  7.23,
+                                                       "tv":  127
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -2445,13 +2490,13 @@ window.PAINEL = {
                                                        "tv":  112
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  4.64,
-                                                       "tv":  38
+                                                       "km":  11.84,
+                                                       "tv":  86
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -2465,15 +2510,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2538,6 +2574,16 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "LR PRODUTOS DE LIMPEZA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1
@@ -2558,8 +2604,18 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MANDARIM LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Nelson",
                                                          "r":  "MERCADO MIRANDA EXPRESS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "JOAO CARLOS BETT OLIVEIRA",
                                                          "p":  1
                                                      }
                                                  ]

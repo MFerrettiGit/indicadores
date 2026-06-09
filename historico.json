@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1883,19 +1883,28 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.79,
-                                     "tv":  30
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  62.32,
+                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  13.44,
-                                     "tv":  130
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  14.23,
+                                     "tv":  175
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.23,
+                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -1916,13 +1925,13 @@
                                      "tv":  112
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  4.64,
-                                     "tv":  38
+                                     "km":  11.84,
+                                     "tv":  86
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -1936,15 +1945,6 @@
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -2009,6 +2009,16 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LR PRODUTOS DE LIMPEZA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1
@@ -2029,8 +2039,18 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIM LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "MERCADO MIRANDA EXPRESS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "JOAO CARLOS BETT OLIVEIRA",
                                        "p":  1
                                    }
                                ]
