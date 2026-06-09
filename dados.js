@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,15 +21,15 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  62.34,
+                     "visitas":  7,
+                     "km":  63.63,
                      "semPed":  4,
-                     "perc":  66.67,
+                     "perc":  57.14,
                      "primeiro":  "08:10",
-                     "ultimo":  "14:22",
-                     "tv":  "03:53:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "15:01",
+                     "tv":  "04:17:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -42,8 +42,8 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "14:53",
                      "tv":  "03:38:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "14:39",
                      "tv":  "04:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  28.21,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:29",
+                     "ultimo":  "15:01",
+                     "tv":  "05:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "13:19",
                      "tv":  "03:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  7.04,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:29",
-                     "ultimo":  "11:45",
-                     "tv":  "03:06:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -531,6 +531,15 @@ window.PAINEL = {
                          "dur":  "03:57:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "POLIZEL E CIA LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:30:52",
+                         "out":  "15:16:06",
+                         "km":  63.47,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -592,6 +601,15 @@ window.PAINEL = {
                          "out":  "11:45:44",
                          "km":  3.25,
                          "dur":  "01:14:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "J A CRUVINEL",
+                         "mun":  "SALTO",
+                         "in":  "13:06:44",
+                         "out":  "15:01:33",
+                         "km":  21.17,
+                         "dur":  "01:54:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -723,6 +741,14 @@ window.PAINEL = {
                         "tempo":  "00:57:12"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Igarapava a Buritizal",
+                        "inicio":  "14:54",
+                        "final":  "15:14",
+                        "tempo":  "00:19:51"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -761,6 +787,14 @@ window.PAINEL = {
                         "inicio":  "13:16",
                         "final":  "13:58",
                         "tempo":  "00:41:57"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:16",
+                        "final":  "15:16",
+                        "tempo":  "01:00:23"
                     },
                     {
                         "nome":  "Costa",
@@ -803,28 +837,20 @@ window.PAINEL = {
                         "tempo":  "15:08:37"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:26"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Outro",
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:52"
+                        "tempo":  "00:49:55"
                     },
                     {
-                        "nome":  "Luis",
+                        "nome":  "Rachel",
                         "tipo":  "Em Viagem",
-                        "obs":  "Igarapava a Buritizal",
+                        "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:20"
+                        "tempo":  "00:14:41"
                     }
                 ],
     "semped":  [
@@ -893,6 +919,12 @@ window.PAINEL = {
                        "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                        "mun":  "CERQUILHO",
                        "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "POLIZEL E CIA LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Estocado"
                    },
                    {
                        "nome":  "Mariangela",
@@ -1004,7 +1036,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     76,
+                     80,
                      13
                  ]
              ],
@@ -2824,7 +2856,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2839,10 +2871,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  2,
-                                                       "km":  62.34,
-                                                       "tv":  233
+                                                       "vi":  7,
+                                                       "pe":  3,
+                                                       "km":  63.63,
+                                                       "tv":  257
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2926,6 +2958,15 @@ window.PAINEL = {
                                                        "tv":  240
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  28.21,
+                                                       "tv":  300
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2933,15 +2974,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.08,
                                                        "tv":  180
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  7.04,
-                                                       "tv":  186
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3139,6 +3171,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "POLIZEL E CIA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1
@@ -3171,6 +3208,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "J A CRUVINEL",
                                                          "p":  1
                                                      },
                                                      {
