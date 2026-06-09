@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1824,6 +1824,15 @@
                                      "pe":  0,
                                      "km":  63.88,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  1.61,
+                                     "tv":  62
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -1842,15 +1851,6 @@
                                      "pe":  1,
                                      "km":  25.78,
                                      "tv":  23
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.55,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1883,10 +1883,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.14,
-                                     "tv":  15
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  40.79,
+                                     "tv":  30
                                  },
                                  {
                                      "nome":  "Alan",
@@ -1959,9 +1959,19 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Castro",

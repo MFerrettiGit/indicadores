@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,18 @@ window.PAINEL = {
                      "primeiro":  "07:53",
                      "ultimo":  null,
                      "tv":  "00:00:00"
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  1.61,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:04",
+                     "ultimo":  "09:06",
+                     "tv":  "01:02:00"
                  },
                  {
                      "nome":  "Rachel",
@@ -38,18 +50,6 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "08:37",
                      "tv":  "00:23:00"
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.55,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:04",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
                  },
                  {
                      "nome":  "Costa",
@@ -83,7 +83,7 @@ window.PAINEL = {
                      "km":  0.66,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:12",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  },
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  40.14,
+                     "visitas":  2,
+                     "km":  40.79,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:38",
-                     "ultimo":  "08:54",
-                     "tv":  "00:15:00"
+                     "ultimo":  "09:10",
+                     "tv":  "00:30:00"
                  },
                  {
                      "nome":  "Alan",
@@ -195,6 +195,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "08:04:00",
+                         "out":  "09:06:24",
+                         "km":  1.06,
+                         "dur":  "01:02:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -211,9 +220,26 @@ window.PAINEL = {
                          "out":  "08:54:04",
                          "km":  40.14,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                         "mun":  "CAJAMAR",
+                         "in":  "08:55:10",
+                         "out":  "09:10:18",
+                         "km":  0.65,
+                         "dur":  "00:15:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Buritizal",
+                        "inicio":  "08:03",
+                        "final":  "09:12",
+                        "tempo":  "01:08:37"
+                    },
                     {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
@@ -229,17 +255,15 @@ window.PAINEL = {
                         "inicio":  "17:17",
                         "final":  "08:25",
                         "tempo":  "15:08:37"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Franca a Buritizal",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:46"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador em reunião"
+                   },
                    {
                        "nome":  "Rachel",
                        "razao":  "ANTONELLI SUPERMERCADO LTDA.",
@@ -350,8 +374,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     6,
-                     1
+                     12,
+                     2
                  ]
              ],
     "historico":  {
@@ -2170,7 +2194,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2180,6 +2204,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  63.88,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  1.61,
+                                                       "tv":  62
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -2198,15 +2231,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  25.78,
                                                        "tv":  23
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.55,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2239,10 +2263,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  40.14,
-                                                       "tv":  15
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  40.79,
+                                                       "tv":  30
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2315,9 +2339,19 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Castro",
