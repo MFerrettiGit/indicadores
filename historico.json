@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1826,6 +1826,15 @@
                                      "tv":  89
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  11.65,
+                                     "tv":  171
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -1833,15 +1842,6 @@
                                      "pe":  1,
                                      "km":  56.48,
                                      "tv":  153
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  4.46,
-                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1907,6 +1907,15 @@
                                      "tv":  175
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  9.74,
+                                     "tv":  211
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -1916,13 +1925,13 @@
                                      "tv":  186
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  8.09,
-                                     "tv":  139
+                                     "km":  2.63,
+                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -1936,15 +1945,6 @@
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -1992,6 +1992,11 @@
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO PAVAN LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Rachel",
@@ -2051,6 +2056,11 @@
                                    {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {

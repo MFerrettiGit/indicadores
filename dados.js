@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  11.65,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:04",
+                     "ultimo":  "11:59",
+                     "tv":  "02:51:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "11:33",
                      "tv":  "02:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  4.46,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:04",
-                     "ultimo":  "10:11",
-                     "tv":  "01:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "11:42",
                      "tv":  "02:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -141,6 +141,20 @@ window.PAINEL = {
                      "ultimo":  "11:03",
                      "tv":  "02:55:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  9.74,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "11:55",
+                     "tv":  "03:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -158,17 +172,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "visitas":  1,
-                     "km":  8.09,
+                     "km":  2.63,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "10:35",
-                     "tv":  "02:19:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:44",
+                     "ultimo":  "11:46",
+                     "tv":  "03:01:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -194,20 +208,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:44",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -286,6 +286,15 @@ window.PAINEL = {
                          "out":  "10:11:28",
                          "km":  2.85,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "10:46:59",
+                         "out":  "11:59:15",
+                         "km":  7.19,
+                         "dur":  "01:11:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -396,6 +405,15 @@ window.PAINEL = {
                          "dur":  "02:19:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "10:42:29",
+                         "out":  "11:55:07",
+                         "km":  1.65,
+                         "dur":  "01:12:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -491,6 +509,14 @@ window.PAINEL = {
                         "inicio":  "17:17",
                         "final":  "08:25",
                         "tempo":  "15:08:37"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:57"
                     }
                 ],
     "semped":  [
@@ -640,7 +666,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     39,
+                     45,
                      7
                  ]
              ],
@@ -2460,7 +2486,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2472,6 +2498,15 @@ window.PAINEL = {
                                                        "tv":  89
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  11.65,
+                                                       "tv":  171
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -2479,15 +2514,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  56.48,
                                                        "tv":  153
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  4.46,
-                                                       "tv":  100
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2553,6 +2579,15 @@ window.PAINEL = {
                                                        "tv":  175
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  9.74,
+                                                       "tv":  211
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -2562,13 +2597,13 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  8.09,
-                                                       "tv":  139
+                                                       "km":  2.63,
+                                                       "tv":  181
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -2582,15 +2617,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2638,6 +2664,11 @@ window.PAINEL = {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO PAVAN LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -2697,6 +2728,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
