@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "14:12",
                      "tv":  "04:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -98,8 +98,36 @@ window.PAINEL = {
                      "primeiro":  "08:40",
                      "ultimo":  "11:33",
                      "tv":  "02:07:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  13.99,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:55",
+                     "ultimo":  "15:47",
+                     "tv":  "04:47:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  23.46,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "15:58",
+                     "tv":  "06:04:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -116,20 +144,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  13.86,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:55",
-                     "ultimo":  "14:45",
-                     "tv":  "03:48:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -140,20 +154,6 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "15:18",
                      "tv":  "03:56:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  18.24,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "12:45",
-                     "tv":  "04:28:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -504,6 +504,15 @@ window.PAINEL = {
                          "dur":  "01:33:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:21:47",
+                         "out":  "15:58:09",
+                         "km":  5.22,
+                         "dur":  "01:36:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
@@ -700,6 +709,15 @@ window.PAINEL = {
                          "out":  "14:45:52",
                          "km":  4.29,
                          "dur":  "01:19:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:47:41",
+                         "out":  "15:47:14",
+                         "km":  0.13,
+                         "dur":  "00:59:00"
                      }
                  ],
     "eventos":  [
@@ -865,6 +883,14 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  "14:26",
+                        "final":  "16:00",
+                        "tempo":  "01:33:32"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Campinas a São Carlos",
                         "inicio":  "17:17",
@@ -872,20 +898,12 @@ window.PAINEL = {
                         "tempo":  "15:08:37"
                     },
                     {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:19:54"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:20"
+                        "tempo":  "00:29:30"
                     }
                 ],
     "semped":  [
@@ -1083,7 +1101,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     86,
+                     89,
                      16
                  ]
              ],
@@ -2903,7 +2921,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2969,6 +2987,24 @@ window.PAINEL = {
                                                        "tv":  127
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  13.99,
+                                                       "tv":  287
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  23.46,
+                                                       "tv":  364
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -2978,15 +3014,6 @@ window.PAINEL = {
                                                        "tv":  165
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  13.86,
-                                                       "tv":  228
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2994,15 +3021,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  20.62,
                                                        "tv":  236
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  18.24,
-                                                       "tv":  268
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3203,6 +3221,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1
@@ -3310,6 +3333,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Nelson",
                                                          "r":  "MERCADO MILD BOM LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                                                          "p":  1
                                                      }
                                                  ]

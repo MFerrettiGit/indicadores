@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1880,6 +1880,24 @@
                                      "tv":  127
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  13.99,
+                                     "tv":  287
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  23.46,
+                                     "tv":  364
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -1889,15 +1907,6 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  13.86,
-                                     "tv":  228
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -1905,15 +1914,6 @@
                                      "pe":  3,
                                      "km":  20.62,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  18.24,
-                                     "tv":  268
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -2114,6 +2114,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1
@@ -2221,6 +2226,11 @@
                                    {
                                        "n":  "Nelson",
                                        "r":  "MERCADO MILD BOM LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                                        "p":  1
                                    }
                                ]
