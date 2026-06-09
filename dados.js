@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,8 +28,8 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "12:21",
                      "tv":  "03:07:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "11:59",
                      "tv":  "02:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "12:11",
                      "tv":  "02:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -84,8 +84,8 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "12:11",
                      "tv":  "03:43:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "11:55",
                      "tv":  "03:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -186,6 +186,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  5.13,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:44",
+                     "ultimo":  "13:34",
+                     "tv":  "04:27:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "03:57:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  2.63,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:44",
-                     "ultimo":  "11:46",
-                     "tv":  "03:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -486,6 +486,15 @@ window.PAINEL = {
                          "dur":  "03:01:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "12:07:12",
+                         "out":  "13:34:01",
+                         "km":  2.5,
+                         "dur":  "01:26:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
@@ -568,6 +577,22 @@ window.PAINEL = {
                         "tempo":  "00:59:55"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:31",
+                        "final":  "13:35",
+                        "tempo":  "01:03:11"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:42",
+                        "final":  "13:32",
+                        "tempo":  "00:50:02"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Buritizal",
@@ -616,6 +641,14 @@ window.PAINEL = {
                         "tempo":  "00:58:05"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:31",
+                        "final":  "13:32",
+                        "tempo":  "01:00:40"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
@@ -632,36 +665,12 @@ window.PAINEL = {
                         "tempo":  "15:08:37"
                     },
                     {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:58"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:25"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:31"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:41"
+                        "tempo":  "00:55:49"
                     },
                     {
                         "nome":  "Alan",
@@ -669,7 +678,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:53"
+                        "tempo":  "00:47:01"
                     },
                     {
                         "nome":  "Castro",
@@ -677,7 +686,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:58"
+                        "tempo":  "00:43:06"
                     },
                     {
                         "nome":  "Cominato",
@@ -685,7 +694,7 @@ window.PAINEL = {
                         "obs":  "piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:09"
+                        "tempo":  "00:30:17"
                     },
                     {
                         "nome":  "Mariangela",
@@ -693,7 +702,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:02"
+                        "tempo":  "00:26:10"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:02"
                     }
                 ],
     "semped":  [
@@ -873,7 +890,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     61,
+                     63,
                      13
                  ]
              ],
@@ -2693,7 +2710,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2813,6 +2830,15 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  5.13,
+                                                       "tv":  267
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -2820,15 +2846,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  62.16,
                                                        "tv":  237
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  2.63,
-                                                       "tv":  181
                                                    }
                                                ],
                                          "cli":  [
@@ -2980,6 +2997,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                                                          "p":  1
                                                      },
                                                      {

@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1934,6 +1934,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  5.13,
+                                     "tv":  267
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -1941,15 +1950,6 @@
                                      "pe":  0,
                                      "km":  62.16,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.63,
-                                     "tv":  181
                                  }
                              ],
                        "cli":  [
@@ -2101,6 +2101,11 @@
                                    {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                                        "p":  1
                                    },
                                    {
