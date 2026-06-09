@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  "11:33",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  18.24,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "12:45",
+                     "tv":  "04:28:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -128,20 +142,6 @@ window.PAINEL = {
                      "tv":  "02:29:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  14.23,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "11:03",
-                     "tv":  "02:55:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -182,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "12:45",
                      "tv":  "02:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -588,7 +588,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:56"
+                        "tempo":  "01:03:44"
                     },
                     {
                         "nome":  "Cominato",
@@ -596,7 +596,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:37"
+                        "tempo":  "00:43:25"
                     },
                     {
                         "nome":  "Luis",
@@ -604,7 +604,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:23"
+                        "tempo":  "00:36:11"
                     },
                     {
                         "nome":  "Lucas",
@@ -612,7 +612,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:20"
+                        "tempo":  "00:36:08"
                     },
                     {
                         "nome":  "Maira",
@@ -620,7 +620,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:46"
+                        "tempo":  "00:30:34"
                     },
                     {
                         "nome":  "Costa",
@@ -628,7 +628,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:55"
+                        "tempo":  "00:29:43"
                     },
                     {
                         "nome":  "Eugenio",
@@ -636,7 +636,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:22"
+                        "tempo":  "00:29:10"
                     },
                     {
                         "nome":  "Rachel",
@@ -644,7 +644,23 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:28"
+                        "tempo":  "00:18:16"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:26"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:38"
                     }
                 ],
     "semped":  [
@@ -824,7 +840,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     58,
+                     59,
                      13
                  ]
              ],
@@ -2644,7 +2660,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2719,6 +2735,15 @@ window.PAINEL = {
                                                        "tv":  165
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  18.24,
+                                                       "tv":  268
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -2726,15 +2751,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  9.57,
                                                        "tv":  149
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  14.23,
-                                                       "tv":  175
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
