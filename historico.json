@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1835,6 +1835,15 @@
                                      "tv":  257
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  19.91,
+                                     "tv":  254
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -1842,15 +1851,6 @@
                                      "pe":  5,
                                      "km":  88.73,
                                      "tv":  218
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  15.2,
-                                     "tv":  210
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -2047,6 +2047,11 @@
                                        "n":  "Maira",
                                        "r":  "A.A. DE MELO",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Rachel",

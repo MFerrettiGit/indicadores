@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  19.91,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:04",
+                     "ultimo":  "15:38",
+                     "tv":  "04:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -42,20 +56,6 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "14:53",
                      "tv":  "03:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  15.2,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:04",
-                     "ultimo":  "14:17",
-                     "tv":  "03:30:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "15:17",
                      "tv":  "05:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:38",
                      "ultimo":  "11:30",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "15:18",
                      "tv":  "03:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "13:34",
                      "tv":  "04:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -385,6 +385,15 @@ window.PAINEL = {
                          "out":  "14:17:15",
                          "km":  3.55,
                          "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "14:53:49",
+                         "out":  "15:38:53",
+                         "km":  4.71,
+                         "dur":  "00:44:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -868,7 +877,15 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:26"
+                        "tempo":  "01:19:54"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "rofatto",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:20"
                     }
                 ],
     "semped":  [
@@ -882,6 +899,12 @@ window.PAINEL = {
                        "nome":  "Maira",
                        "razao":  "SUPERMERCADO PAVAN LTDA",
                        "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                       "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
                    },
                    {
@@ -1060,8 +1083,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     83,
-                     15
+                     86,
+                     16
                  ]
              ],
     "historico":  {
@@ -2880,7 +2903,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2901,6 +2924,15 @@ window.PAINEL = {
                                                        "tv":  257
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  19.91,
+                                                       "tv":  254
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -2908,15 +2940,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  88.73,
                                                        "tv":  218
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  15.2,
-                                                       "tv":  210
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -3113,6 +3136,11 @@ window.PAINEL = {
                                                          "n":  "Maira",
                                                          "r":  "A.A. DE MELO",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Rachel",
