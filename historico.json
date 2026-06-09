@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1844,6 +1844,15 @@
                                      "tv":  171
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  90.7,
+                                     "tv":  267
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -1851,15 +1860,6 @@
                                      "pe":  3,
                                      "km":  79.39,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  35.59,
-                                     "tv":  131
                                  },
                                  {
                                      "nome":  "Costa",
@@ -1981,6 +1981,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "J. G. SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  90.7,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:13",
+                     "ultimo":  "13:46",
+                     "tv":  "04:27:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "12:11",
                      "tv":  "02:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  35.59,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "10:46",
-                     "tv":  "02:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  "11:33",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:03",
                      "tv":  "03:57:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -268,6 +268,15 @@ window.PAINEL = {
                          "out":  "10:46:01",
                          "km":  9.81,
                          "dur":  "01:48:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "J. G. SUPERMERCADOS LTDA",
+                         "mun":  "CAJURU",
+                         "in":  "11:30:20",
+                         "out":  "13:46:39",
+                         "km":  55.11,
+                         "dur":  "02:16:00"
                      },
                      {
                          "nome":  "Luis",
@@ -585,6 +594,14 @@ window.PAINEL = {
                         "tempo":  "01:03:11"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:59",
+                        "final":  "14:01",
+                        "tempo":  "01:01:50"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -641,6 +658,14 @@ window.PAINEL = {
                         "tempo":  "00:58:05"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "piracicaba",
+                        "inicio":  "13:16",
+                        "final":  "13:58",
+                        "tempo":  "00:41:57"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -658,6 +683,14 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:50",
+                        "final":  "13:51",
+                        "tempo":  "01:00:26"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Campinas a São Carlos",
                         "inicio":  "17:17",
@@ -665,36 +698,12 @@ window.PAINEL = {
                         "tempo":  "15:08:37"
                     },
                     {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:49"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:01"
-                    },
-                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:06"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:30:17"
+                        "tempo":  "00:58:11"
                     },
                     {
                         "nome":  "Mariangela",
@@ -702,7 +711,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:10"
+                        "tempo":  "00:41:15"
                     },
                     {
                         "nome":  "Karina",
@@ -710,7 +719,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:02"
+                        "tempo":  "00:27:07"
                     }
                 ],
     "semped":  [
@@ -890,7 +899,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     63,
+                     64,
                      13
                  ]
              ],
@@ -2710,7 +2719,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2740,6 +2749,15 @@ window.PAINEL = {
                                                        "tv":  171
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  90.7,
+                                                       "tv":  267
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -2747,15 +2765,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  79.39,
                                                        "tv":  149
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  35.59,
-                                                       "tv":  131
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2877,6 +2886,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "J. G. SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
