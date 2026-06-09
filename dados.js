@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -100,6 +100,18 @@ window.PAINEL = {
                      "tv":  "00:30:00"
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  4.64,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "09:33",
+                     "tv":  "00:38:00"
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -160,18 +172,6 @@ window.PAINEL = {
                      "tv":  "00:00:00"
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.5,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:55",
-                     "ultimo":  null,
-                     "tv":  "00:00:00"
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -179,7 +179,7 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:40",
                      "ultimo":  null,
                      "tv":  "00:00:00"
                  }
@@ -238,6 +238,15 @@ window.PAINEL = {
                          "out":  "09:10:18",
                          "km":  0.65,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCADO MIRANDA EXPRESS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "08:55:18",
+                         "out":  "09:33:31",
+                         "km":  4.14,
+                         "dur":  "00:38:00"
                      }
                  ],
     "eventos":  [
@@ -389,7 +398,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     13,
+                     15,
                      3
                  ]
              ],
@@ -2209,7 +2218,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2284,6 +2293,15 @@ window.PAINEL = {
                                                        "tv":  30
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.64,
+                                                       "tv":  38
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -2329,15 +2347,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.5,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2376,6 +2385,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCADO MIRANDA EXPRESS LTDA",
                                                          "p":  1
                                                      }
                                                  ]
