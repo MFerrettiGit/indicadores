@@ -89,6 +89,7 @@
   tbody tr{cursor:pointer} tbody tr:hover{background:var(--panel2)}
   .chip{display:inline-block;padding:2px 9px;border-radius:20px;font-size:.74rem;font-weight:700}
   .c-ok{background:var(--greenbg);color:var(--green)} .c-warn{background:var(--orangebg);color:var(--orange)} .c-bad{background:var(--redbg);color:var(--red)}
+  .c-info{background:var(--panel2);color:var(--brand2);border:1px solid var(--line)} .c-mut{background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
   .c-evt{background:var(--panel2);color:var(--brand2);border:1px solid var(--line)} .c-evt+.c-evt{margin-left:4px}
   .num{font-variant-numeric:tabular-nums;font-weight:600}
   .filterbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
@@ -280,6 +281,13 @@ function evtCell(v){
     chips.push(`<span class="chip c-evt" title="${(det||x.lab).replace(/"/g,'&quot;')}">${x.lab}</span>`); });
   return chips.join('');
 }
+// célula "Fim": se a visita/evento ainda está em andamento, mostra o estado em vez de "—"
+function fimCell(v){
+  if(v.lastAct!=null) return mmToStr(v.lastAct);
+  if(v.emVisita) return '<span class="small" style="color:var(--accent)">em visita</span>';
+  if(v.emEvento) return '<span class="small" style="color:var(--brand2)">em evento</span>';
+  return '—';
+}
 
 /* ====================== ENRIQUECER ====================== */
 VEND.forEach(v=>{
@@ -292,9 +300,18 @@ VEND.forEach(v=>{
   let ins=[],outs=[];
   v.checkins.forEach(c=>{ins.push(toMin(c.in));outs.push(toMin(c.out));});
   v.eventos.forEach(e=>{ if(e.inicio)ins.push(toMin(e.inicio)); if(e.final)outs.push(toMin(e.final)); });
+  // 'primeiro'/'ultimo' do TimeService marcam o horário mesmo com a visita/evento EM ANDAMENTO
+  // (check-in feito, sem check-out). Incluímos para já mostrar o INÍCIO de quem começou — antes
+  // ele só vinha de visitas concluídas, então quem ainda estava na 1ª visita aparecia "sem visita".
+  ins.push(toMin(v.primeiro)); outs.push(toMin(v.ultimo));
   ins=ins.filter(x=>x!=null); outs=outs.filter(x=>x!=null);
   v.firstAct=ins.length?Math.min(...ins):null;
   v.lastAct=outs.length?Math.max(...outs):null;
+  // está AGORA numa visita/evento (check-in sem check-out)? veio de em_visita/em_evento do TSBI
+  v.emVisita=(v.emVisita===1||v.emVisita===true)?1:0;
+  v.emEvento=(v.emEvento===1||v.emEvento===true)?1:0;
+  v.inProgress=(v.emVisita===1||v.emEvento===1);
+  v.started=(v.firstAct!=null)||v.inProgress||v.eventos.length>0;
   v.span=(v.firstAct!=null&&v.lastAct!=null)?v.lastAct-v.firstAct:null;
   v.lunch=v.eventos.filter(e=>/refei/i.test(e.tipo)).reduce((a,e)=>a+durMin(e.tempo),0);
   v.fullDayEvt=v.eventos.some(e=>/reuniao|manuten|viagem|treina|capacita/i.test(e.tipo)&&durMin(e.tempo)>=240)||v.eventos.some(e=>durMin(e.tempo)>=300)||v.nome==='Lucas';
@@ -393,12 +410,29 @@ VEND.forEach(v=>{
 });
 
 /* ====================== SITUAÇÃO (chip) ====================== */
-function chip(v){
-  if(v.semAnalise) return '<span class="chip" style="background:var(--panel2);color:var(--muted);border:1px solid var(--line)">padrão</span>';
-  if(v.cardSev>=2) return '<span class="chip c-bad">Cobrar</span>';
-  if(v.cardSev===1) return '<span class="chip c-warn">Atenção</span>';
-  return '<span class="chip c-ok">Em dia</span>';
+/* "Em dia" é reservado a quem está PERTO DO IDEAL — não é mais o padrão de quem só não tem
+   cobrança. Durante o expediente compara o realizado com o RITMO esperado proporcional à hora.
+   Quem apenas começou (check-in/evento em andamento) e ainda não produz fica "Em campo";
+   quem nem começou aparece como "Aguardando" (cedo) ou "Não iniciou" (já passou da hora). */
+function workStatus(v){
+  if(v.semAnalise) return {key:'padrao',label:'padrão',cls:'c-mut',rank:-1};
+  if(v.cardSev>=2)  return {key:'cobrar',label:'Cobrar',cls:'c-bad',rank:5};
+  if(v.cardSev===1) return {key:'atencao',label:'Atenção',cls:'c-warn',rank:4};
+  let now=toMin(DATA_HORA); if(now==null)now=1439;
+  if(!v.started){
+    if(now < META.inicio+30) return {key:'aguardando',label:'Aguardando',cls:'c-info',rank:1};
+    return {key:'naoiniciou',label:'Não iniciou',cls:'c-warn',rank:3};
+  }
+  const f=Math.max(0,Math.min(1,(now-META.inicio)/(META.fim-META.inicio)));   // fração do expediente decorrida
+  const expVis=META.visitas*f, expPed=META.pedidos*f;                          // ritmo esperado até agora
+  const noRitmo = v.visitas>=Math.max(1,expVis*0.8) && v.orders>=expPed*0.8;
+  if(noRitmo) return {key:'emdia',label:'Em dia',cls:'c-ok',rank:0};
+  return {key:'andamento',label:'Em campo',cls:'c-info',rank:2};
 }
+function chip(v){ const s=workStatus(v);
+  return s.cls==='c-mut'
+    ? '<span class="chip c-mut">padrão</span>'
+    : `<span class="chip ${s.cls}">${s.label}</span>`; }
 
 /* ====================== DESTAQUES ====================== */
 function renderDestaques(){
@@ -469,7 +503,10 @@ function currentRows(){
   rows.sort((a,b)=>{ let x=a[sortK],y=b[sortK]; if(x==null)x=-1; if(y==null)y=-1; if(typeof x==='string')return sortDir*x.localeCompare(y); return sortDir*(x-y); });
   return rows;
 }
-function situacaoTxt(v){ return v.cardSev>=2?'Cobrar':(v.cardSev===1?'Atenção':'Em dia'); }
+function situacaoTxt(v){ return workStatus(v).label; }
+// cores (fundo, texto) da situação no Excel, por status
+const STATUS_XLSX={emdia:['DCF3EA','0A8F63'],andamento:['E7ECF5','3A4FB0'],aguardando:['E7ECF5','3A4FB0'],
+  naoiniciou:['FCEBD2','B86E00'],atencao:['FCEBD2','B86E00'],cobrar:['F8D7DD','C12238'],padrao:['EEF1F6','5B6781']};
 function exportXlsx(){
   if(typeof XLSX==='undefined'){ alert('Não foi possível carregar o gerador de Excel. Verifique a conexão com a internet e tente novamente.'); return; }
   const rows=currentRows();
@@ -477,7 +514,8 @@ function exportXlsx(){
   const N=headers.length;
   const aoa=[['M. Ferretti — Resumo do trabalho da equipe'],['Dados de '+DATA_DT+' às '+DATA_HORA],headers];
   rows.forEach(v=>aoa.push([v.nome,v.setor,v.regional,v.coord||'—',v.visitas,v.orders,+v.km.toFixed(1),
-    v.perc==null?'—':Math.round(v.perc),v.firstAct==null?'—':mmToStr(v.firstAct),v.lastAct==null?'—':mmToStr(v.lastAct),
+    v.perc==null?'—':Math.round(v.perc),v.firstAct==null?'—':mmToStr(v.firstAct),
+    v.lastAct!=null?mmToStr(v.lastAct):(v.emVisita?'em visita':(v.emEvento?'em evento':'—')),
     v.tvMin?hStr(v.tvMin):'—',v.evtKey||'—',situacaoTxt(v),v.errCount]));
   const tVis=rows.reduce((a,v)=>a+v.visitas,0),tPed=rows.reduce((a,v)=>a+v.orders,0),tKm=rows.reduce((a,v)=>a+v.km,0);
   aoa.push(['TOTAL','','','',tVis,tPed,+tKm.toFixed(1),'','','','','','','']);
@@ -504,7 +542,7 @@ function exportXlsx(){
         else if(c===5){ const x=v.orders; s.fill={fgColor:{rgb:x>=4?'DCF3EA':(x>0?'FCEBD2':'F8D7DD')}}; s.font={sz:10,bold:true,color:{rgb:x>=4?'0A8F63':(x>0?'B86E00':'C12238')}}; }
         else if(c===6 && v.km>150){ s.fill={fgColor:{rgb:'F8D7DD'}}; s.font={sz:10,bold:true,color:{rgb:'C12238'}}; }
         else if(c===7 && v.perc!=null && v.perc>=40){ const hi=v.perc>=80; s.fill={fgColor:{rgb:hi?'F8D7DD':'FCEBD2'}}; s.font={sz:10,bold:true,color:{rgb:hi?'C12238':'B86E00'}}; }
-        else if(c===12){ const st=v.cardSev,bg=st>=2?'F8D7DD':(st===1?'FCEBD2':'DCF3EA'),tx=st>=2?'C12238':(st===1?'B86E00':'0A8F63'); s.fill={fgColor:{rgb:bg}}; s.font={sz:10,bold:true,color:{rgb:tx}}; }
+        else if(c===12){ const cc=STATUS_XLSX[workStatus(v).key]||STATUS_XLSX.padrao; s.fill={fgColor:{rgb:cc[0]}}; s.font={sz:10,bold:true,color:{rgb:cc[1]}}; }
       }
       cell.s=s;
     }
@@ -523,7 +561,7 @@ function renderResumo(){
     return `<tr onclick="openVend('${v.nome}')"><td><b>${v.nome}</b></td><td class="small">${v.setor}</td><td class="small">${v.regional}</td>
       <td><span class="chip ${vC}">${v.visitas}</span></td><td><span class="chip ${pC}">${v.orders}</span></td>
       <td class="num">${v.km.toFixed(1)}</td><td>${pcC?`<span class="chip ${pcC}">${perc}</span>`:perc}</td>
-      <td class="num">${mmToStr(v.firstAct)}</td><td class="num">${mmToStr(v.lastAct)}</td><td class="num">${hStr(v.tvMin)}</td><td>${evtCell(v)}</td><td>${chip(v)}</td></tr>`;
+      <td class="num">${mmToStr(v.firstAct)}</td><td class="num">${fimCell(v)}</td><td class="num">${hStr(v.tvMin)}</td><td>${evtCell(v)}</td><td>${chip(v)}</td></tr>`;
   }).join('');
 }
 document.querySelectorAll('#resTable th').forEach(th=>th.onclick=()=>{ const k=th.dataset.k; if(sortK===k)sortDir*=-1; else{sortK=k;sortDir=(k==='nome'||k==='setor'||k==='regional')?1:-1;} renderResumo(); });
@@ -663,6 +701,7 @@ function openVend(nome){
       <div class="kpi"><div class="v">${v.lunch?Math.round(v.lunch)+'m':'—'}</div><div class="l">Almoço</div></div>
       <div class="kpi"><div class="v">${v.perc==null?'—':Math.round(v.perc)+'%'}</div><div class="l">Sem pedido</div></div>
     </div>
+    ${v.inProgress?`<div class="okbox" style="background:var(--panel2);border-color:var(--brand2);color:var(--brand2);margin-bottom:10px">🟢 ${v.emVisita?'Em visita':'Em evento'} no momento${v.visitas===0&&v.firstAct!=null?' — desde '+mmToStr(v.firstAct):''}.</div>`:''}
     <div class="small" style="margin-bottom:10px">Metas: 5 visitas, 4 pedidos, jornada 08:00–17:48.</div>
     <h3 style="margin:6px 0">Pontos de atenção</h3><ul class="pcard" style="border:none;background:none;box-shadow:none;padding:0">${al}</ul>
     <h3 style="margin:14px 0 6px">Rota do dia</h3><div class="tl">${tl}</div>`;
