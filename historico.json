@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1880,6 +1880,15 @@
                                      "tv":  187
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  25.58,
+                                     "tv":  329
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -1907,13 +1916,13 @@
                                      "tv":  287
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  25.08,
-                                     "tv":  313
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  132.81,
+                                     "tv":  380
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -1934,22 +1943,13 @@
                                      "tv":  376
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  126.57,
-                                     "tv":  326
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  5.13,
-                                     "tv":  305
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  5.45,
+                                     "tv":  372
                                  }
                              ],
                        "cli":  [
@@ -2184,6 +2184,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1
@@ -2216,6 +2221,11 @@
                                    {
                                        "n":  "Karina",
                                        "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MARIA DULCE DIAS",
                                        "p":  1
                                    },
                                    {
@@ -2261,6 +2271,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIO THOMAZINI DE ALIMENTOS LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIN LTDA",
                                        "p":  1
                                    },
                                    {

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  25.58,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "09:40",
+                     "ultimo":  "17:19",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -144,17 +158,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  25.08,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "09:40",
-                     "ultimo":  "16:54",
-                     "tv":  "05:13:00",
-                     "emVisita":  1,
+                     "visitas":  4,
+                     "km":  132.81,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:05",
+                     "ultimo":  "17:23",
+                     "tv":  "06:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -186,30 +200,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  126.57,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:05",
-                     "ultimo":  "16:11",
-                     "tv":  "05:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  5.13,
+                     "visitas":  4,
+                     "km":  5.45,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:44",
-                     "ultimo":  "16:10",
-                     "tv":  "05:05:00",
+                     "ultimo":  "17:22",
+                     "tv":  "06:12:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -630,6 +630,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "16:28:42",
+                         "out":  "17:23:06",
+                         "km":  6.24,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -691,6 +700,15 @@ window.PAINEL = {
                          "out":  "16:10:33",
                          "km":  0,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MARIA DULCE DIAS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:14:53",
+                         "out":  "17:22:12",
+                         "km":  0.32,
+                         "dur":  "01:07:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -772,6 +790,15 @@ window.PAINEL = {
                          "out":  "16:54:07",
                          "km":  4.46,
                          "dur":  "01:17:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIN LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "17:02:14",
+                         "out":  "17:19:07",
+                         "km":  0.5,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1010,7 +1037,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:36"
+                        "tempo":  "01:59:28"
                     },
                     {
                         "nome":  "Maira",
@@ -1018,7 +1045,7 @@ window.PAINEL = {
                         "obs":  "proposta Brait",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:12:06"
+                        "tempo":  "01:26:58"
                     }
                 ],
     "semped":  [
@@ -1109,6 +1136,12 @@ window.PAINEL = {
                    {
                        "nome":  "Cominato",
                        "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Merchandising"
                    },
@@ -1228,8 +1261,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     107,
-                     18
+                     110,
+                     19
                  ]
              ],
     "historico":  {
@@ -3048,7 +3081,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3114,6 +3147,15 @@ window.PAINEL = {
                                                        "tv":  187
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  25.58,
+                                                       "tv":  329
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3141,13 +3183,13 @@ window.PAINEL = {
                                                        "tv":  287
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  25.08,
-                                                       "tv":  313
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  132.81,
+                                                       "tv":  380
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3168,22 +3210,13 @@ window.PAINEL = {
                                                        "tv":  376
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  126.57,
-                                                       "tv":  326
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  5.13,
-                                                       "tv":  305
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  5.45,
+                                                       "tv":  372
                                                    }
                                                ],
                                          "cli":  [
@@ -3418,6 +3451,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1
@@ -3450,6 +3488,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MARIA DULCE DIAS",
                                                          "p":  1
                                                      },
                                                      {
@@ -3495,6 +3538,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "COMERCIO THOMAZINI DE ALIMENTOS LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MANDARIN LTDA",
                                                          "p":  1
                                                      },
                                                      {
