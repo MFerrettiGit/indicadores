@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "12:21",
                      "tv":  "03:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "03:43:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -155,7 +155,7 @@ window.PAINEL = {
                      "ultimo":  "11:55",
                      "tv":  "03:31:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -170,6 +170,20 @@ window.PAINEL = {
                      "tv":  "03:06:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  15.89,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "09:40",
+                     "ultimo":  "12:45",
+                     "tv":  "02:34:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -196,20 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "11:46",
                      "tv":  "03:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  11.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:40",
-                     "ultimo":  "11:07",
-                     "tv":  "01:26:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -405,6 +405,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "BENFICA - COM. VAREJ DE ALIMENTOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:11:54",
+                         "out":  "12:45:44",
+                         "km":  4.01,
+                         "dur":  "01:33:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
@@ -504,6 +513,15 @@ window.PAINEL = {
                          "dur":  "01:26:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "11:36:26",
+                         "out":  "12:45:11",
+                         "km":  4.05,
+                         "dur":  "01:08:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCADO MIRANDA EXPRESS LTDA",
                          "mun":  "ITAPETININGA",
@@ -570,7 +588,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:59"
+                        "tempo":  "00:48:56"
                     },
                     {
                         "nome":  "Cominato",
@@ -578,7 +596,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:40"
+                        "tempo":  "00:28:37"
                     },
                     {
                         "nome":  "Luis",
@@ -586,7 +604,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:26"
+                        "tempo":  "00:21:23"
                     },
                     {
                         "nome":  "Lucas",
@@ -594,7 +612,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:23"
+                        "tempo":  "00:21:20"
                     },
                     {
                         "nome":  "Maira",
@@ -602,7 +620,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:49"
+                        "tempo":  "00:15:46"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:55"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:22"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:28"
                     }
                 ],
     "semped":  [
@@ -671,6 +713,12 @@ window.PAINEL = {
                        "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                        "mun":  "CERQUILHO",
                        "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Mariangela",
+                       "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                       "mun":  "JACAREI",
+                       "obs":  "agenda para dia 17/06"
                    }
                ],
     "hist":  [
@@ -776,8 +824,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     56,
-                     12
+                     58,
+                     13
                  ]
              ],
     "historico":  {
@@ -2596,7 +2644,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2707,6 +2755,15 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  15.89,
+                                                       "tv":  154
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -2723,15 +2780,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  2.63,
                                                        "tv":  181
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  11.84,
-                                                       "tv":  86
                                                    }
                                                ],
                                          "cli":  [
@@ -2841,6 +2889,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "BENFICA - COM. VAREJ DE ALIMENTOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1
@@ -2894,6 +2947,11 @@ window.PAINEL = {
                                                          "n":  "Mariangela",
                                                          "r":  "SUPERMERCADO MANDARIM LTDA",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Nelson",
