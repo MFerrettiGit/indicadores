@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1829,10 +1829,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  1,
-                                     "km":  59.71,
-                                     "tv":  187
+                                     "vi":  6,
+                                     "pe":  2,
+                                     "km":  62.34,
+                                     "tv":  233
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  15.2,
+                                     "tv":  210
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1844,22 +1853,13 @@
                                      "tv":  283
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  11.65,
-                                     "tv":  171
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  79.39,
-                                     "tv":  149
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  86.8,
+                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Costa",
@@ -2009,6 +2009,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                        "p":  0
@@ -2021,6 +2026,11 @@
                                    {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.A. DE MELO",
                                        "p":  1
                                    },
                                    {
@@ -2047,6 +2057,11 @@
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO CIAMDRIGHI LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MARTA GUEDES SARAGIOTTO",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Sao Carlos",

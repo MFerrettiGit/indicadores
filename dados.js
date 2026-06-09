@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,28 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  59.71,
+                     "visitas":  6,
+                     "km":  62.34,
                      "semPed":  4,
-                     "perc":  80,
+                     "perc":  66.67,
                      "primeiro":  "08:10",
-                     "ultimo":  "12:21",
-                     "tv":  "03:07:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:22",
+                     "tv":  "03:53:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  15.2,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:04",
+                     "ultimo":  "14:17",
+                     "tv":  "03:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -43,33 +57,19 @@ window.PAINEL = {
                      "ultimo":  "14:12",
                      "tv":  "04:43:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  11.65,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:04",
-                     "ultimo":  "11:59",
-                     "tv":  "02:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  79.39,
+                     "visitas":  4,
+                     "km":  86.8,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:12",
-                     "ultimo":  "12:11",
-                     "tv":  "02:29:00",
+                     "ultimo":  "14:18",
+                     "tv":  "03:13:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  "11:33",
                      "tv":  "02:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "11:30",
                      "tv":  "02:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "12:45",
                      "tv":  "04:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,8 +154,8 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "13:19",
                      "tv":  "03:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "11:55",
                      "tv":  "03:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,6 +315,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "RETA ALIMENTOS LTDA",
+                         "mun":  "IGARAPAVA",
+                         "in":  "13:33:48",
+                         "out":  "14:18:35",
+                         "km":  7.41,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
@@ -340,6 +349,15 @@ window.PAINEL = {
                          "out":  "11:59:15",
                          "km":  7.19,
                          "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "A.A. DE MELO",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "13:37:15",
+                         "out":  "14:17:15",
+                         "km":  3.55,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -385,6 +403,15 @@ window.PAINEL = {
                          "out":  "12:21:28",
                          "km":  0.7,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MARTA GUEDES SARAGIOTTO",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "13:35:32",
+                         "out":  "14:22:31",
+                         "km":  2.63,
+                         "dur":  "00:46:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -659,6 +686,14 @@ window.PAINEL = {
                         "tempo":  "01:28:40"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "13:03",
+                        "final":  "14:20",
+                        "tempo":  "01:16:58"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -681,6 +716,14 @@ window.PAINEL = {
                         "inicio":  "12:31",
                         "final":  "13:32",
                         "tempo":  "01:00:40"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:20",
+                        "final":  "14:20",
+                        "tempo":  "01:00:22"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -707,28 +750,12 @@ window.PAINEL = {
                         "tempo":  "15:08:37"
                     },
                     {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:13:00"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:04"
-                    },
-                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:56"
+                        "tempo":  "00:57:01"
                     },
                     {
                         "nome":  "Fernando",
@@ -736,7 +763,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:16"
+                        "tempo":  "00:15:21"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:47"
                     }
                 ],
     "semped":  [
@@ -916,7 +951,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     66,
+                     69,
                      13
                  ]
              ],
@@ -2736,7 +2771,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2751,10 +2786,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  1,
-                                                       "km":  59.71,
-                                                       "tv":  187
+                                                       "vi":  6,
+                                                       "pe":  2,
+                                                       "km":  62.34,
+                                                       "tv":  233
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  15.2,
+                                                       "tv":  210
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2766,22 +2810,13 @@ window.PAINEL = {
                                                        "tv":  283
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  11.65,
-                                                       "tv":  171
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  79.39,
-                                                       "tv":  149
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  86.8,
+                                                       "tv":  193
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2931,6 +2966,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "RETA ALIMENTOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                                                          "p":  0
@@ -2943,6 +2983,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "A.A. DE MELO",
                                                          "p":  1
                                                      },
                                                      {
@@ -2969,6 +3014,11 @@ window.PAINEL = {
                                                          "n":  "Rachel",
                                                          "r":  "SUPERMERCADO CIAMDRIGHI LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MARTA GUEDES SARAGIOTTO",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
