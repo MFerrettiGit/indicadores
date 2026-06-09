@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1835,6 +1835,15 @@
                                      "tv":  257
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  107.41,
+                                     "tv":  266
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -1842,15 +1851,6 @@
                                      "pe":  2,
                                      "km":  19.91,
                                      "tv":  254
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  88.73,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -1916,6 +1916,15 @@
                                      "tv":  236
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  126.57,
+                                     "tv":  326
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -1934,22 +1943,13 @@
                                      "tv":  300
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  125.63,
-                                     "tv":  281
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
+                                     "vi":  3,
+                                     "pe":  3,
                                      "km":  5.13,
-                                     "tv":  267
+                                     "tv":  305
                                  }
                              ],
                        "cli":  [
@@ -2026,6 +2026,11 @@
                                    {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO MEDALHA MILAGROSA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "ENIO LUIZ RIBEIRO.",
                                        "p":  1
                                    },
                                    {
@@ -2149,6 +2154,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "INOVA SUPER SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1
@@ -2164,6 +2174,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1
@@ -2171,6 +2186,11 @@
                                    {
                                        "n":  "Karina",
                                        "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                        "p":  1
                                    },
                                    {

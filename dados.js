@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  107.41,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:12",
+                     "ultimo":  "16:03",
+                     "tv":  "04:26:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -43,21 +57,7 @@ window.PAINEL = {
                      "ultimo":  "15:38",
                      "tv":  "04:14:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  88.73,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:12",
-                     "ultimo":  "14:53",
-                     "tv":  "03:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  126.57,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:05",
+                     "ultimo":  "16:11",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -186,30 +200,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  125.63,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:05",
-                     "ultimo":  "15:16",
-                     "tv":  "04:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  2,
+                     "visitas":  3,
                      "km":  5.13,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:44",
-                     "ultimo":  "13:34",
-                     "tv":  "04:27:00",
+                     "ultimo":  "16:10",
+                     "tv":  "05:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -349,6 +349,15 @@ window.PAINEL = {
                          "out":  "14:53:14",
                          "km":  1.93,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "ENIO LUIZ RIBEIRO.",
+                         "mun":  "BURITIZAL",
+                         "in":  "15:14:43",
+                         "out":  "16:03:40",
+                         "km":  18.68,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Maira",
@@ -567,6 +576,15 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:25:56",
+                         "out":  "16:11:24",
+                         "km":  0.94,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -594,6 +612,15 @@ window.PAINEL = {
                          "dur":  "00:29:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "15:24:01",
+                         "out":  "16:16:31",
+                         "km":  3.13,
+                         "dur":  "00:52:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -610,6 +637,15 @@ window.PAINEL = {
                          "out":  "13:34:01",
                          "km":  2.5,
                          "dur":  "01:26:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "15:31:37",
+                         "out":  "16:10:33",
+                         "km":  0,
+                         "dur":  "00:38:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -903,7 +939,23 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:30"
+                        "tempo":  "00:44:27"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Buritizal a Franca",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:10"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta Brait",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:57"
                     }
                 ],
     "semped":  [
@@ -984,6 +1036,12 @@ window.PAINEL = {
                        "razao":  "POLIZEL E CIA LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Estocado"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
                    },
                    {
                        "nome":  "Costa",
@@ -1101,8 +1159,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     89,
-                     16
+                     93,
+                     17
                  ]
              ],
     "historico":  {
@@ -2921,7 +2979,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2942,6 +3000,15 @@ window.PAINEL = {
                                                        "tv":  257
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  107.41,
+                                                       "tv":  266
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -2949,15 +3016,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  19.91,
                                                        "tv":  254
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  88.73,
-                                                       "tv":  218
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -3023,6 +3081,15 @@ window.PAINEL = {
                                                        "tv":  236
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  126.57,
+                                                       "tv":  326
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -3041,22 +3108,13 @@ window.PAINEL = {
                                                        "tv":  300
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  125.63,
-                                                       "tv":  281
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
+                                                       "vi":  3,
+                                                       "pe":  3,
                                                        "km":  5.13,
-                                                       "tv":  267
+                                                       "tv":  305
                                                    }
                                                ],
                                          "cli":  [
@@ -3133,6 +3191,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "SUPERMERCADO MEDALHA MILAGROSA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "ENIO LUIZ RIBEIRO.",
                                                          "p":  1
                                                      },
                                                      {
@@ -3256,6 +3319,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "INOVA SUPER SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1
@@ -3271,6 +3339,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                                          "p":  1
@@ -3278,6 +3351,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Karina",
                                                          "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "ROBERTO SANTOS SIQUEIRA DO PRADO MERCEAR",
                                                          "p":  1
                                                      },
                                                      {
