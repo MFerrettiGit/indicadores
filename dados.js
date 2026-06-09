@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  69.94,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:14",
+                     "ultimo":  "16:21",
+                     "tv":  "05:53:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "14:12",
                      "tv":  "04:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  61.55,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:14",
-                     "ultimo":  "15:17",
-                     "tv":  "05:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "15:47",
                      "tv":  "04:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,6 +126,20 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "15:58",
                      "tv":  "06:04:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  23.17,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "16:16",
+                     "tv":  "04:52:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "16:11",
                      "tv":  "05:26:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  20.04,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "14:55",
-                     "tv":  "04:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -268,6 +268,15 @@ window.PAINEL = {
                          "out":  "15:17:53",
                          "km":  0.66,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
+                         "mun":  "CONCHAL",
+                         "in":  "15:32:30",
+                         "out":  "16:21:22",
+                         "km":  8.39,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -939,7 +948,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:27"
+                        "tempo":  "00:59:23"
                     },
                     {
                         "nome":  "Luis",
@@ -947,7 +956,7 @@ window.PAINEL = {
                         "obs":  "Buritizal a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:10"
+                        "tempo":  "00:27:06"
                     },
                     {
                         "nome":  "Maira",
@@ -955,7 +964,7 @@ window.PAINEL = {
                         "obs":  "proposta Brait",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:57"
+                        "tempo":  "00:26:53"
                     }
                 ],
     "semped":  [
@@ -1159,7 +1168,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     93,
+                     96,
                      17
                  ]
              ],
@@ -2979,7 +2988,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3018,6 +3027,15 @@ window.PAINEL = {
                                                        "tv":  254
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  69.94,
+                                                       "tv":  353
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3025,15 +3043,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  92.01,
                                                        "tv":  283
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  61.55,
-                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3063,6 +3072,15 @@ window.PAINEL = {
                                                        "tv":  364
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  23.17,
+                                                       "tv":  292
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -3088,15 +3106,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  126.57,
                                                        "tv":  326
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  20.04,
-                                                       "tv":  240
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -3147,6 +3156,11 @@ window.PAINEL = {
                                                          "n":  "Costa",
                                                          "r":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Fernando",

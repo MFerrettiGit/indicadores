@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1853,6 +1853,15 @@
                                      "tv":  254
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  69.94,
+                                     "tv":  353
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -1860,15 +1869,6 @@
                                      "pe":  4,
                                      "km":  92.01,
                                      "tv":  283
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  61.55,
-                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -1898,6 +1898,15 @@
                                      "tv":  364
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  23.17,
+                                     "tv":  292
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -1923,15 +1932,6 @@
                                      "pe":  0,
                                      "km":  126.57,
                                      "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  20.04,
-                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -1982,6 +1982,11 @@
                                        "n":  "Costa",
                                        "r":  "LAUDICEIA COSTA SILVA ADORNO LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "UNIAO SUPERMERCADOS DE CONCHAL LTDA-ME.",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Fernando",
