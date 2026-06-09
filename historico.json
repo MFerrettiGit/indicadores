@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1883,10 +1883,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
                                      "km":  62.32,
-                                     "tv":  147
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2027,6 +2027,11 @@
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Eugenio",

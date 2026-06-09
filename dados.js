@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "10:58",
                      "tv":  "02:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "10:46",
                      "tv":  "02:11:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  3,
+                     "visitas":  4,
                      "km":  62.32,
-                     "semPed":  0,
-                     "perc":  0,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:38",
-                     "ultimo":  "11:10",
-                     "tv":  "02:27:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:30",
+                     "tv":  "02:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "11:10",
                      "tv":  "02:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -351,6 +351,15 @@ window.PAINEL = {
                          "dur":  "01:57:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "11:11:23",
+                         "out":  "11:30:03",
+                         "km":  0,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -454,6 +463,12 @@ window.PAINEL = {
                        "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                        "mun":  "AMPARO",
                        "obs":  "."
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                       "mun":  "JUNDIAI",
+                       "obs":  "comprador ausente"
                    }
                ],
     "hist":  [
@@ -559,8 +574,8 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     32,
-                     4
+                     35,
+                     5
                  ]
              ],
     "historico":  {
@@ -2379,7 +2394,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2448,10 +2463,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
                                                        "km":  62.32,
-                                                       "tv":  147
+                                                       "tv":  165
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2592,6 +2607,11 @@ window.PAINEL = {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Eugenio",
