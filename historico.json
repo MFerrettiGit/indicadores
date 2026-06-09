@@ -1814,7 +1814,7 @@
                                ]
                    },
     "2026-06-09":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -1853,6 +1853,15 @@
                                      "tv":  254
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  169.26,
+                                     "tv":  352
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -1862,22 +1871,13 @@
                                      "tv":  353
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  92.01,
-                                     "tv":  283
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  5.82,
-                                     "tv":  127
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  10.07,
+                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2006,6 +2006,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO UNIAO REAL LTDA.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {

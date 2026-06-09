@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "09/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "16:03",
                      "tv":  "04:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  169.26,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:13",
+                     "ultimo":  "17:02",
+                     "tv":  "05:52:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -74,30 +88,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  92.01,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "14:12",
-                     "tv":  "04:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  5.82,
+                     "visitas":  3,
+                     "km":  10.07,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:40",
-                     "ultimo":  "11:33",
-                     "tv":  "02:07:00",
+                     "ultimo":  "17:01",
+                     "tv":  "03:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "09:40",
                      "ultimo":  "16:54",
                      "tv":  "05:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -313,6 +313,15 @@ window.PAINEL = {
                          "out":  "14:12:04",
                          "km":  1.31,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "15:52:45",
+                         "out":  "17:02:19",
+                         "km":  77.25,
+                         "dur":  "01:09:00"
                      },
                      {
                          "nome":  "Luis",
@@ -892,6 +901,14 @@ window.PAINEL = {
                         "tempo":  "00:19:51"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Buritizal a Franca",
+                        "inicio":  "16:04",
+                        "final":  "17:10",
+                        "tempo":  "01:05:54"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -993,15 +1010,7 @@ window.PAINEL = {
                         "obs":  "rofatto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:28"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Buritizal a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:11"
+                        "tempo":  "01:44:36"
                     },
                     {
                         "nome":  "Maira",
@@ -1009,7 +1018,7 @@ window.PAINEL = {
                         "obs":  "proposta Brait",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:56:58"
+                        "tempo":  "01:12:06"
                     }
                 ],
     "semped":  [
@@ -1219,7 +1228,7 @@ window.PAINEL = {
                  ],
                  [
                      "09/06",
-                     102,
+                     107,
                      18
                  ]
              ],
@@ -3039,7 +3048,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-09":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3078,6 +3087,15 @@ window.PAINEL = {
                                                        "tv":  254
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  169.26,
+                                                       "tv":  352
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -3087,22 +3105,13 @@ window.PAINEL = {
                                                        "tv":  353
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  92.01,
-                                                       "tv":  283
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  5.82,
-                                                       "tv":  127
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  10.07,
+                                                       "tv":  187
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -3231,6 +3240,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO UNIAO REAL LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
