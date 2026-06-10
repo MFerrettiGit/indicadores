@@ -2331,16 +2331,16 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  20.18,
-                                     "tv":  259
+                                     "km":  21.22,
+                                     "tv":  326
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2357,7 +2357,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  88.06,
+                                     "km":  91.92,
                                      "tv":  194
                                  },
                                  {
@@ -2391,10 +2391,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  39.55,
-                                     "tv":  142
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  41.79,
+                                     "tv":  269
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  12.05,
+                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -2413,15 +2422,6 @@
                                      "pe":  1,
                                      "km":  19.15,
                                      "tv":  187
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  6.34,
-                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2478,6 +2478,11 @@
                                    {
                                        "n":  "Eduardo",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.04",
                                        "p":  0
                                    },
                                    {
@@ -2579,6 +2584,11 @@
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MERCADINHO VILA IZAURA LTDA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -2693,6 +2703,11 @@
                                    {
                                        "n":  "Nelson",
                                        "r":  "ANTONIO NELSON FELICIANO ITAPETININGA -",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EVALDO BUENO PEREIRA ITAPETININGA",
                                        "p":  1
                                    }
                                ]

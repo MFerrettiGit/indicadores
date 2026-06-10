@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  2,
-                     "km":  20.18,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  21.22,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "07:45",
-                     "ultimo":  "12:11",
-                     "tv":  "04:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:58",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -29,14 +29,14 @@ window.PAINEL = {
                      "ultimo":  "13:49",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  88.06,
+                     "km":  91.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:48",
@@ -91,14 +91,28 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  39.55,
+                     "visitas":  3,
+                     "km":  41.79,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "08:54",
-                     "ultimo":  "11:27",
-                     "tv":  "02:22:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:01",
+                     "tv":  "04:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  12.05,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "15:07",
+                     "tv":  "04:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "14:50",
                      "tv":  "03:07:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  6.34,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "11:33",
-                     "tv":  "03:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -232,6 +232,15 @@ window.PAINEL = {
                          "out":  "12:11:29",
                          "km":  2.8,
                          "dur":  "03:20:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.04",
+                         "mun":  "JUNDIAI",
+                         "in":  "13:48:59",
+                         "out":  "14:58:22",
+                         "km":  1.04,
+                         "dur":  "01:07:00"
                      },
                      {
                          "nome":  "Costa",
@@ -412,6 +421,15 @@ window.PAINEL = {
                          "out":  "11:27:17",
                          "km":  1.55,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MERCADINHO VILA IZAURA LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "12:54:07",
+                         "out":  "15:01:43",
+                         "km":  2.24,
+                         "dur":  "02:07:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -619,6 +637,15 @@ window.PAINEL = {
                          "out":  "11:33:38",
                          "km":  0.94,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EVALDO BUENO PEREIRA ITAPETININGA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "13:37:29",
+                         "out":  "15:07:31",
+                         "km":  5.71,
+                         "dur":  "01:29:00"
                      }
                  ],
     "eventos":  [
@@ -772,7 +799,15 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:42:35"
+                        "tempo":  "05:57:34"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Big Compras",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:56"
                     }
                 ],
     "semped":  [
@@ -797,6 +832,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA - LJ.04",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
@@ -951,8 +992,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     76,
-                     12
+                     80,
+                     13
                  ]
              ],
     "historico":  {
@@ -3288,16 +3329,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  20.18,
-                                                       "tv":  259
+                                                       "km":  21.22,
+                                                       "tv":  326
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3314,7 +3355,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  88.06,
+                                                       "km":  91.92,
                                                        "tv":  194
                                                    },
                                                    {
@@ -3348,10 +3389,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  39.55,
-                                                       "tv":  142
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  41.79,
+                                                       "tv":  269
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  12.05,
+                                                       "tv":  269
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -3370,15 +3420,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  19.15,
                                                        "tv":  187
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  6.34,
-                                                       "tv":  180
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3435,6 +3476,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Eduardo",
                                                          "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.04",
                                                          "p":  0
                                                      },
                                                      {
@@ -3536,6 +3582,11 @@ window.PAINEL = {
                                                          "n":  "Rachel",
                                                          "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MERCADINHO VILA IZAURA LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -3650,6 +3701,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Nelson",
                                                          "r":  "ANTONIO NELSON FELICIANO ITAPETININGA -",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EVALDO BUENO PEREIRA ITAPETININGA",
                                                          "p":  1
                                                      }
                                                  ]
