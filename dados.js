@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  "14:58",
                      "tv":  "05:26:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  60.88,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:31",
+                     "ultimo":  "16:17",
+                     "tv":  "04:34:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,20 +74,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  54.28,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:31",
-                     "ultimo":  "15:16",
-                     "tv":  "03:55:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -105,14 +105,28 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  47.56,
-                     "semPed":  3,
-                     "perc":  75,
+                     "visitas":  5,
+                     "km":  48.67,
+                     "semPed":  4,
+                     "perc":  80,
                      "primeiro":  "08:01",
-                     "ultimo":  "15:38",
-                     "tv":  "04:40:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:12",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  23.82,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:04",
+                     "ultimo":  "16:21",
+                     "tv":  "04:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "15:07",
                      "tv":  "04:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  19.15,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:04",
-                     "ultimo":  "14:50",
-                     "tv":  "03:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -513,6 +513,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "ARARAQUARA",
+                         "in":  "15:37:54",
+                         "out":  "16:17:39",
+                         "km":  6.6,
+                         "dur":  "00:39:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -538,6 +547,15 @@ window.PAINEL = {
                          "out":  "14:50:37",
                          "km":  4.63,
                          "dur":  "01:18:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:05:12",
+                         "out":  "16:21:03",
+                         "km":  4.67,
+                         "dur":  "01:15:00"
                      },
                      {
                          "nome":  "Castro",
@@ -601,6 +619,15 @@ window.PAINEL = {
                          "out":  "15:38:02",
                          "km":  19.54,
                          "dur":  "00:51:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SCOTON LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "in":  "15:45:54",
+                         "out":  "16:12:12",
+                         "km":  1.11,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Karina",
@@ -871,7 +898,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:57:28"
+                        "tempo":  "07:12:35"
                     },
                     {
                         "nome":  "Luis",
@@ -879,7 +906,15 @@ window.PAINEL = {
                         "obs":  "Rede Big Compras",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:50"
+                        "tempo":  "01:15:57"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Pedro a Piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:45"
                     }
                 ],
     "semped":  [
@@ -962,6 +997,12 @@ window.PAINEL = {
                        "obs":  "Levantamento e proposta"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO SCOTON LTDA.",
+                       "mun":  "SAO PEDRO",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Fernando",
                        "razao":  "ELZIO CARLOS DOS SANTOS.",
                        "mun":  "JABOTICABAL",
@@ -970,6 +1011,12 @@ window.PAINEL = {
                    {
                        "nome":  "Sao Carlos",
                        "razao":  "FONSECA SUPERMERCADOS LTDA",
+                       "mun":  "ARARAQUARA",
+                       "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                        "mun":  "ARARAQUARA",
                        "obs":  "prospecção"
                    },
@@ -1088,8 +1135,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     92,
-                     18
+                     97,
+                     20
                  ]
              ],
     "historico":  {
@@ -3425,7 +3472,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3435,6 +3482,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  21.22,
                                                        "tv":  326
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  60.88,
+                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -3464,15 +3520,6 @@ window.PAINEL = {
                                                        "tv":  315
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  54.28,
-                                                       "tv":  235
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -3494,10 +3541,19 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  1,
-                                                       "km":  47.56,
-                                                       "tv":  280
+                                                       "km":  48.67,
+                                                       "tv":  306
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  23.82,
+                                                       "tv":  262
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -3507,15 +3563,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  12.05,
                                                        "tv":  269
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  19.15,
-                                                       "tv":  187
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -3730,6 +3777,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  1
@@ -3743,6 +3795,11 @@ window.PAINEL = {
                                                          "n":  "Alan",
                                                          "r":  "SUPER SETE SUPERMERCADO LTDA.",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Castro",
@@ -3777,6 +3834,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Cominato",
                                                          "r":  "BALTIERI BALTIERI E CIA LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SCOTON LTDA.",
                                                          "p":  0
                                                      },
                                                      {

@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2341,6 +2341,15 @@
                                      "pe":  0,
                                      "km":  21.22,
                                      "tv":  326
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  60.88,
+                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -2370,15 +2379,6 @@
                                      "tv":  315
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  54.28,
-                                     "tv":  235
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -2400,10 +2400,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  1,
-                                     "km":  47.56,
-                                     "tv":  280
+                                     "km":  48.67,
+                                     "tv":  306
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  23.82,
+                                     "tv":  262
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2413,15 +2422,6 @@
                                      "pe":  4,
                                      "km":  12.05,
                                      "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  19.15,
-                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Castro",
@@ -2636,6 +2636,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1
@@ -2649,6 +2654,11 @@
                                        "n":  "Alan",
                                        "r":  "SUPER SETE SUPERMERCADO LTDA.",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Castro",
@@ -2683,6 +2693,11 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "BALTIERI BALTIERI E CIA LTDA.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA.",
                                        "p":  0
                                    },
                                    {
