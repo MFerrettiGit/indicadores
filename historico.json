@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2341,6 +2341,15 @@
                                      "pe":  0,
                                      "km":  21.22,
                                      "tv":  326
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  94.2,
+                                     "tv":  210
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2370,15 +2379,6 @@
                                      "tv":  235
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  91.92,
-                                     "tv":  194
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -2397,6 +2397,15 @@
                                      "tv":  269
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  47.56,
+                                     "tv":  280
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -2406,15 +2415,6 @@
                                      "tv":  269
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  28.02,
-                                     "tv":  229
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2422,6 +2422,15 @@
                                      "pe":  1,
                                      "km":  19.15,
                                      "tv":  187
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  29.32,
+                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2440,15 +2449,6 @@
                                      "pe":  3,
                                      "km":  86.67,
                                      "tv":  82
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  19.74,
-                                     "tv":  235
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -2534,6 +2534,11 @@
                                        "n":  "Fernando",
                                        "r":  "IRMAOS MARAFAO LTDA.",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ELZIO CARLOS DOS SANTOS.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Luis",
@@ -2646,6 +2651,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.06",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "PANSERINI",
                                        "p":  1
@@ -2658,6 +2668,11 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "BELLA PLANTA SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BALTIERI BALTIERI E CIA LTDA.",
                                        "p":  0
                                    },
                                    {

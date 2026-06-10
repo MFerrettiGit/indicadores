@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,6 +14,20 @@ window.PAINEL = {
                      "primeiro":  "07:45",
                      "ultimo":  "14:58",
                      "tv":  "05:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  94.2,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:48",
+                     "ultimo":  "15:29",
+                     "tv":  "03:30:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -42,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "15:21",
                      "tv":  "05:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "15:16",
                      "tv":  "03:55:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  91.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:48",
-                     "ultimo":  "13:00",
-                     "tv":  "03:14:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  47.56,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:01",
+                     "ultimo":  "15:38",
+                     "tv":  "04:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "15:07",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  28.02,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:01",
-                     "ultimo":  "14:23",
-                     "tv":  "03:49:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -141,6 +141,20 @@ window.PAINEL = {
                      "ultimo":  "14:50",
                      "tv":  "03:07:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  29.32,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:11",
+                     "ultimo":  "15:31",
+                     "tv":  "04:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "10:10",
                      "ultimo":  "14:44",
                      "tv":  "01:22:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  19.74,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:11",
-                     "ultimo":  "12:20",
-                     "tv":  "03:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -331,6 +331,15 @@ window.PAINEL = {
                          "out":  "13:00:49",
                          "km":  1.53,
                          "dur":  "01:13:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ELZIO CARLOS DOS SANTOS.",
+                         "mun":  "JABOTICABAL",
+                         "in":  "15:12:58",
+                         "out":  "15:29:08",
+                         "km":  2.28,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Luis",
@@ -531,6 +540,15 @@ window.PAINEL = {
                          "dur":  "03:34:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.06",
+                         "mun":  "JUNDIAI",
+                         "in":  "15:14:00",
+                         "out":  "15:31:14",
+                         "km":  9.58,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "PANSERINI",
                          "mun":  "CHARQUEADA",
@@ -556,6 +574,15 @@ window.PAINEL = {
                          "out":  "14:23:38",
                          "km":  0.66,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "BALTIERI BALTIERI E CIA LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "in":  "14:45:40",
+                         "out":  "15:38:02",
+                         "km":  19.54,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Karina",
@@ -817,7 +844,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:12:23"
+                        "tempo":  "06:27:25"
                     },
                     {
                         "nome":  "Luis",
@@ -825,7 +852,7 @@ window.PAINEL = {
                         "obs":  "Rede Big Compras",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:45"
+                        "tempo":  "00:30:47"
                     }
                 ],
     "semped":  [
@@ -894,6 +921,18 @@ window.PAINEL = {
                        "razao":  "BELLA PLANTA SUPERMERCADOS LTDA",
                        "mun":  "CHARQUEADA",
                        "obs":  "Ausente"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "BALTIERI BALTIERI E CIA LTDA.",
+                       "mun":  "SAO PEDRO",
+                       "obs":  "Levantamento e proposta"
+                   },
+                   {
+                       "nome":  "Fernando",
+                       "razao":  "ELZIO CARLOS DOS SANTOS.",
+                       "mun":  "JABOTICABAL",
+                       "obs":  "prospeccao"
                    },
                    {
                        "nome":  "Sao Carlos",
@@ -1016,8 +1055,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     82,
-                     14
+                     86,
+                     17
                  ]
              ],
     "historico":  {
@@ -3353,7 +3392,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3363,6 +3402,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  21.22,
                                                        "tv":  326
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  94.2,
+                                                       "tv":  210
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3392,15 +3440,6 @@ window.PAINEL = {
                                                        "tv":  235
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  91.92,
-                                                       "tv":  194
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -3419,6 +3458,15 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  47.56,
+                                                       "tv":  280
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3428,15 +3476,6 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  28.02,
-                                                       "tv":  229
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3444,6 +3483,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  19.15,
                                                        "tv":  187
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  29.32,
+                                                       "tv":  252
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3462,15 +3510,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  86.67,
                                                        "tv":  82
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  19.74,
-                                                       "tv":  235
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -3556,6 +3595,11 @@ window.PAINEL = {
                                                          "n":  "Fernando",
                                                          "r":  "IRMAOS MARAFAO LTDA.",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "ELZIO CARLOS DOS SANTOS.",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -3668,6 +3712,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.06",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "PANSERINI",
                                                          "p":  1
@@ -3680,6 +3729,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Cominato",
                                                          "r":  "BELLA PLANTA SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "BALTIERI BALTIERI E CIA LTDA.",
                                                          "p":  0
                                                      },
                                                      {
