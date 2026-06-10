@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -81,10 +81,10 @@ window.PAINEL = {
                      "km":  4.26,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:54",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -95,11 +95,11 @@ window.PAINEL = {
                      "km":  2.16,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:09",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -113,6 +113,20 @@ window.PAINEL = {
                      "ultimo":  "08:32",
                      "tv":  "00:21:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  4.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "09:08",
+                     "tv":  "00:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -144,20 +158,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:23",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -166,6 +166,20 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:45",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:57",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -232,9 +232,26 @@ window.PAINEL = {
                          "out":  "08:32:28",
                          "km":  16.16,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                         "mun":  "ITAPETININGA",
+                         "in":  "08:23:06",
+                         "out":  "09:08:03",
+                         "km":  4.31,
+                         "dur":  "00:44:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Guará",
+                        "inicio":  "08:16",
+                        "final":  "09:08",
+                        "tempo":  "00:51:44"
+                    },
                     {
                         "nome":  "Lucas",
                         "tipo":  "Outro",
@@ -265,15 +282,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:40"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Franca a Guará",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:37:45"
+                        "tempo":  "01:23:40"
                     }
                 ],
     "semped":  [
@@ -398,7 +407,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     5,
+                     7,
                      2
                  ]
              ],
@@ -2735,7 +2744,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2810,6 +2819,15 @@ window.PAINEL = {
                                                        "tv":  21
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.31,
+                                                       "tv":  44
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -2828,21 +2846,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  13.58,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2862,15 +2880,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -2883,6 +2892,11 @@ window.PAINEL = {
                                                          "n":  "Castro",
                                                          "r":  "SUPER BELO SUPERMERCADO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                                                         "p":  1
                                                      }
                                                  ]
                                      }
