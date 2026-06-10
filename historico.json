@@ -2331,16 +2331,16 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  17.38,
-                                     "tv":  59
+                                     "km":  20.18,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2415,6 +2415,15 @@
                                      "tv":  109
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  19.74,
+                                     "tv":  235
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -2442,15 +2451,6 @@
                                      "tv":  164
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  16.16,
-                                     "tv":  21
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -2473,6 +2473,11 @@
                                    {
                                        "n":  "Eduardo",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  0
                                    },
                                    {
@@ -2579,6 +2584,11 @@
                                        "n":  "Castro",
                                        "r":  "SUPER BELO SUPERMERCADO LTDA",
                                        "p":  0
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
+                                       "p":  1
                                    },
                                    {
                                        "n":  "Cominato",

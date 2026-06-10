@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  1,
-                     "km":  17.38,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  20.18,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "07:45",
-                     "ultimo":  "08:44",
-                     "tv":  "00:59:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:11",
+                     "tv":  "04:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "11:33",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -126,6 +126,20 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "10:29",
                      "tv":  "01:49:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  19.74,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:11",
+                     "ultimo":  "12:20",
+                     "tv":  "03:55:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  16.16,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:11",
-                     "ultimo":  "08:32",
-                     "tv":  "00:21:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -223,6 +223,15 @@ window.PAINEL = {
                          "out":  "08:44:51",
                          "km":  13.59,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:51:10",
+                         "out":  "12:11:29",
+                         "km":  2.8,
+                         "dur":  "03:20:00"
                      },
                      {
                          "nome":  "Costa",
@@ -414,6 +423,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:45:50",
+                         "out":  "12:20:25",
+                         "km":  3.58,
+                         "dur":  "03:34:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "PANSERINI",
                          "mun":  "CHARQUEADA",
@@ -542,7 +560,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:56:54"
+                        "tempo":  "03:12:06"
                     },
                     {
                         "nome":  "Rachel",
@@ -550,7 +568,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:30"
+                        "tempo":  "00:47:42"
                     },
                     {
                         "nome":  "Cominato",
@@ -558,7 +576,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:05"
+                        "tempo":  "00:21:17"
                     },
                     {
                         "nome":  "Luis",
@@ -566,7 +584,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:42"
+                        "tempo":  "00:17:54"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:07"
                     }
                 ],
     "semped":  [
@@ -579,6 +605,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
@@ -715,8 +747,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     49,
-                     6
+                     53,
+                     7
                  ]
              ],
     "historico":  {
@@ -3052,16 +3084,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  17.38,
-                                                       "tv":  59
+                                                       "km":  20.18,
+                                                       "tv":  259
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3136,6 +3168,15 @@ window.PAINEL = {
                                                        "tv":  109
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  19.74,
+                                                       "tv":  235
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -3163,15 +3204,6 @@ window.PAINEL = {
                                                        "tv":  164
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  16.16,
-                                                       "tv":  21
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -3194,6 +3226,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Eduardo",
                                                          "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
                                                          "p":  0
                                                      },
                                                      {
@@ -3300,6 +3337,11 @@ window.PAINEL = {
                                                          "n":  "Castro",
                                                          "r":  "SUPER BELO SUPERMERCADO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Cominato",
