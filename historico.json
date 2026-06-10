@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2352,6 +2352,15 @@
                                      "tv":  137
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  49.03,
+                                     "tv":  200
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2361,13 +2370,13 @@
                                      "tv":  121
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  47.57,
-                                     "tv":  174
+                                     "km":  44.52,
+                                     "tv":  189
                                  },
                                  {
                                      "nome":  "Costa",
@@ -2377,15 +2386,6 @@
                                      "pe":  2,
                                      "km":  62.67,
                                      "tv":  182
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  38.84,
-                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -2546,6 +2546,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPER CORUJA EIRELI - EPP",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                                        "p":  1
@@ -2569,6 +2574,11 @@
                                        "n":  "Sao Carlos",
                                        "r":  "GUILHERME ZANIOLO AIELO",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "FONSECA SUPERMERCADOS LTDA",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Alan",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  49.03,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:31",
+                     "ultimo":  "12:26",
+                     "tv":  "03:20:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -46,17 +60,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  3,
-                     "km":  47.57,
+                     "km":  44.52,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:31",
-                     "ultimo":  "11:54",
-                     "tv":  "02:54:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:05",
+                     "ultimo":  "12:35",
+                     "tv":  "03:09:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  38.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:05",
-                     "ultimo":  "11:13",
-                     "tv":  "02:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  "11:27",
                      "tv":  "02:22:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "00:53:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -351,6 +351,15 @@ window.PAINEL = {
                          "dur":  "01:08:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPER CORUJA EIRELI - EPP",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:59:36",
+                         "out":  "12:35:51",
+                         "km":  5.68,
+                         "dur":  "00:36:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
@@ -394,6 +403,15 @@ window.PAINEL = {
                          "out":  "11:54:26",
                          "km":  3.16,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "FONSECA SUPERMERCADOS LTDA",
+                         "mun":  "ARARAQUARA",
+                         "in":  "12:00:50",
+                         "out":  "12:26:58",
+                         "km":  1.46,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Alan",
@@ -515,6 +533,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "11:37",
+                        "final":  "12:38",
+                        "tempo":  "01:01:12"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Guará",
@@ -560,15 +586,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:12:06"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:42"
+                        "tempo":  "03:27:11"
                     },
                     {
                         "nome":  "Cominato",
@@ -576,7 +594,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:17"
+                        "tempo":  "00:36:22"
                     },
                     {
                         "nome":  "Luis",
@@ -584,7 +602,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:54"
+                        "tempo":  "00:32:59"
                     },
                     {
                         "nome":  "Nelson",
@@ -592,7 +610,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:07"
+                        "tempo":  "00:23:12"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:49"
                     }
                 ],
     "semped":  [
@@ -637,6 +663,12 @@ window.PAINEL = {
                        "razao":  "SUPER BELO SUPERMERCADO LTDA",
                        "mun":  "JUNDIAI",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "FONSECA SUPERMERCADOS LTDA",
+                       "mun":  "ARARAQUARA",
+                       "obs":  "prospecção"
                    }
                ],
     "hist":  [
@@ -747,8 +779,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     53,
-                     7
+                     56,
+                     8
                  ]
              ],
     "historico":  {
@@ -3084,7 +3116,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3105,6 +3137,15 @@ window.PAINEL = {
                                                        "tv":  137
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  49.03,
+                                                       "tv":  200
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3114,13 +3155,13 @@ window.PAINEL = {
                                                        "tv":  121
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  47.57,
-                                                       "tv":  174
+                                                       "km":  44.52,
+                                                       "tv":  189
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3130,15 +3171,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  62.67,
                                                        "tv":  182
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  38.84,
-                                                       "tv":  153
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3299,6 +3331,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPER CORUJA EIRELI - EPP",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                                                          "p":  1
@@ -3322,6 +3359,11 @@ window.PAINEL = {
                                                          "n":  "Sao Carlos",
                                                          "r":  "GUILHERME ZANIOLO AIELO",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "FONSECA SUPERMERCADOS LTDA",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Alan",
