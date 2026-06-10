@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "09:21",
                      "tv":  "00:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "09:09",
                      "ultimo":  "09:35",
                      "tv":  "00:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "09:14",
                      "tv":  "01:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -186,8 +186,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -200,8 +200,8 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -318,7 +318,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:32"
+                        "tempo":  "02:08:36"
                     },
                     {
                         "nome":  "Eugenio",
@@ -326,7 +326,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:52"
+                        "tempo":  "00:41:56"
                     }
                 ],
     "semped":  [
@@ -451,7 +451,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     13,
+                     15,
                      2
                  ]
              ],
@@ -2788,7 +2788,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2908,8 +2908,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2917,8 +2917,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,

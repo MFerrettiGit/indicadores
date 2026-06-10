@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2451,8 +2451,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -2460,8 +2460,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
