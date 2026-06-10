@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  93.99,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "17:48",
+                     "tv":  "07:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -29,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "16:44",
                      "tv":  "04:56:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -46,25 +60,11 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  79.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "16:52",
-                     "tv":  "06:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  72.99,
+                     "km":  136.09,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "09:09",
@@ -78,14 +78,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  47.25,
+                     "km":  80.48,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:05",
                      "ultimo":  "16:32",
                      "tv":  "05:22:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -295,6 +295,15 @@ window.PAINEL = {
                          "out":  "16:52:53",
                          "km":  3.5,
                          "dur":  "01:17:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "17:19:19",
+                         "out":  "17:48:20",
+                         "km":  14.66,
+                         "dur":  "00:28:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -765,6 +774,15 @@ window.PAINEL = {
                          "dur":  "01:13:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO ARMELIN LTDA",
+                         "mun":  "CAPIVARI",
+                         "in":  "17:15:25",
+                         "out":  "17:55:00",
+                         "km":  41.43,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "CAMPOS DO JORDA",
@@ -854,6 +872,14 @@ window.PAINEL = {
                         "inicio":  "12:57",
                         "final":  "13:58",
                         "tempo":  "01:01:25"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "zargon",
+                        "inicio":  "17:07",
+                        "final":  "17:46",
+                        "tempo":  "00:39:00"
                     },
                     {
                         "nome":  "Karina",
@@ -1016,28 +1042,20 @@ window.PAINEL = {
                         "tempo":  "00:58:41"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Araraquara a São Carlos",
+                        "inicio":  "16:44",
+                        "final":  "17:51",
+                        "tempo":  "01:06:54"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Outro",
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:27:47"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Araraquara a São Carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:41"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "zargon",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:33:28"
+                        "tempo":  "08:42:32"
                     },
                     {
                         "nome":  "Cominato",
@@ -1045,7 +1063,7 @@ window.PAINEL = {
                         "obs":  "Cadastro de produtos novos no Defavari",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:28"
+                        "tempo":  "00:41:13"
                     }
                 ],
     "semped":  [
@@ -1278,7 +1296,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     117,
+                     118,
                      23
                  ]
              ],
@@ -3615,7 +3633,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3625,6 +3643,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  21.22,
                                                        "tv":  326
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  93.99,
+                                                       "tv":  420
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3645,21 +3672,12 @@ window.PAINEL = {
                                                        "tv":  235
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  79.33,
-                                                       "tv":  392
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  72.99,
+                                                       "km":  136.09,
                                                        "tv":  180
                                                    },
                                                    {
@@ -3668,7 +3686,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  47.25,
+                                                       "km":  80.48,
                                                        "tv":  322
                                                    },
                                                    {
@@ -3782,6 +3800,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -4057,6 +4080,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Lucas",
                                                          "r":  "IRMAOS BRESCIANI SUPERMERCADO LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO ARMELIN LTDA",
                                                          "p":  1
                                                      },
                                                      {
