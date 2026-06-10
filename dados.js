@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  126.4,
+                     "semPed":  1,
+                     "perc":  14.29,
+                     "primeiro":  "08:48",
+                     "ultimo":  "16:28",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "16:17",
                      "tv":  "04:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  94.2,
-                     "semPed":  1,
-                     "perc":  16.67,
-                     "primeiro":  "08:48",
-                     "ultimo":  "15:29",
-                     "tv":  "03:30:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -77,14 +77,14 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
+                     "visitas":  5,
                      "km":  47.25,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:05",
-                     "ultimo":  "15:56",
-                     "tv":  "04:59:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:32",
+                     "tv":  "05:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  108.19,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "10:10",
+                     "ultimo":  "16:27",
+                     "tv":  "02:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "08:57",
                      "ultimo":  "13:01",
                      "tv":  "03:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  86.67,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "10:10",
-                     "ultimo":  "14:44",
-                     "tv":  "01:22:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -342,6 +342,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "FERNANDES",
+                         "mun":  "SANTA ERNESTINA",
+                         "in":  "16:02:12",
+                         "out":  "16:28:08",
+                         "km":  32.2,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
@@ -430,6 +439,15 @@ window.PAINEL = {
                          "out":  "15:56:26",
                          "km":  2.73,
                          "dur":  "01:50:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO ZARGON LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "16:08:28",
+                         "out":  "16:32:02",
+                         "km":  0,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -711,6 +729,15 @@ window.PAINEL = {
                          "dur":  "00:29:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "A. L. DO AMARAL - EPP",
+                         "mun":  "SANTO ANTONIO D",
+                         "in":  "15:37:37",
+                         "out":  "16:27:11",
+                         "km":  21.52,
+                         "dur":  "00:49:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
                          "mun":  "ITAPETININGA",
@@ -898,7 +925,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:12:35"
+                        "tempo":  "07:27:32"
                     },
                     {
                         "nome":  "Luis",
@@ -906,7 +933,7 @@ window.PAINEL = {
                         "obs":  "Rede Big Compras",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:15:57"
+                        "tempo":  "01:30:54"
                     },
                     {
                         "nome":  "Cominato",
@@ -914,7 +941,7 @@ window.PAINEL = {
                         "obs":  "São Pedro a Piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:45"
+                        "tempo":  "00:18:42"
                     }
                 ],
     "semped":  [
@@ -1135,8 +1162,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     97,
-                     20
+                     102,
+                     21
                  ]
              ],
     "historico":  {
@@ -3472,7 +3499,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3484,6 +3511,15 @@ window.PAINEL = {
                                                        "tv":  326
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  126.4,
+                                                       "tv":  235
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -3491,15 +3527,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  60.88,
                                                        "tv":  274
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  94.2,
-                                                       "tv":  210
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3523,10 +3550,10 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
+                                                       "vi":  5,
+                                                       "pe":  5,
                                                        "km":  47.25,
-                                                       "tv":  299
+                                                       "tv":  322
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3565,6 +3592,15 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  108.19,
+                                                       "tv":  131
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -3590,15 +3626,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  12.02,
                                                        "tv":  222
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  86.67,
-                                                       "tv":  82
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3682,6 +3709,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "FERNANDES",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "FERNANDO PALMIERI",
                                                          "p":  1
@@ -3729,6 +3761,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO ZARGON LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO ZARGON LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -3884,6 +3921,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "A. L. DO AMARAL - EPP",
                                                          "p":  1
                                                      },
                                                      {
