@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "13:49",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:18",
                      "tv":  "04:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "12:26",
                      "tv":  "03:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,8 +112,22 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:23",
                      "tv":  "03:49:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  19.15,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:04",
+                     "ultimo":  "14:50",
+                     "tv":  "03:07:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -144,17 +158,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  14.52,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:04",
-                     "ultimo":  "10:29",
-                     "tv":  "01:49:00",
-                     "emVisita":  1,
+                     "visitas":  3,
+                     "km":  86.67,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "10:10",
+                     "ultimo":  "14:44",
+                     "tv":  "01:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "12:56",
                      "tv":  "03:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  83.89,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "10:10",
-                     "ultimo":  "11:45",
-                     "tv":  "00:53:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -468,6 +468,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:31:53",
+                         "out":  "14:50:37",
+                         "km":  4.63,
+                         "dur":  "01:18:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPER BELO SUPERMERCADO LTDA",
                          "mun":  "JUNDIAI",
@@ -576,6 +585,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
+                         "mun":  "CAMPOS DO JORDA",
+                         "in":  "14:15:14",
+                         "out":  "14:44:58",
+                         "km":  2.78,
+                         "dur":  "00:29:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
                          "mun":  "ITAPETININGA",
@@ -645,6 +663,14 @@ window.PAINEL = {
                         "tempo":  "00:50:56"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Guará a Franca",
+                        "inicio":  "13:50",
+                        "final":  "14:41",
+                        "tempo":  "00:50:36"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Outro",
                         "obs":  "preenchendo ficha de cadastro do pistone, cliente pediu para preencher agora e levar para ela agora. 35 fichas",
@@ -675,6 +701,14 @@ window.PAINEL = {
                         "inicio":  "12:03",
                         "final":  "13:04",
                         "tempo":  "01:01:05"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Charqueada  a São Pedro",
+                        "inicio":  "14:25",
+                        "final":  "14:44",
+                        "tempo":  "00:19:45"
                     },
                     {
                         "nome":  "Fernando",
@@ -738,23 +772,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:27:16"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Guará a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:11"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Charqueada  a São Pedro",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:14:53"
+                        "tempo":  "05:42:35"
                     }
                 ],
     "semped":  [
@@ -763,6 +781,12 @@ window.PAINEL = {
                        "razao":  "MERCADINHO YEDA LTDA-ME.",
                        "mun":  "CAMPINAS",
                        "obs":  "primeiro contato."
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "prospecção  sm revolução"
                    },
                    {
                        "nome":  "Eduardo",
@@ -927,8 +951,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     74,
-                     11
+                     76,
+                     12
                  ]
              ],
     "historico":  {
@@ -3264,7 +3288,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3339,6 +3363,15 @@ window.PAINEL = {
                                                        "tv":  229
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  19.15,
+                                                       "tv":  187
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3357,13 +3390,13 @@ window.PAINEL = {
                                                        "tv":  222
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  14.52,
-                                                       "tv":  109
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  86.67,
+                                                       "tv":  82
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -3382,15 +3415,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  40.73,
                                                        "tv":  221
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  83.89,
-                                                       "tv":  53
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3544,6 +3568,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "SUPER BELO SUPERMERCADO LTDA",
                                                          "p":  0
@@ -3601,6 +3630,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO DE CAMPOS DO JORDAO",
                                                          "p":  1
                                                      },
                                                      {
