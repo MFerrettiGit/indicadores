@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  3.79,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  17.38,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "07:45",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "08:44",
+                     "tv":  "00:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -60,18 +60,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  0,
-                     "km":  2.16,
+                     "km":  21.53,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:48",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -88,11 +88,11 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  0,
-                     "km":  21.53,
+                     "km":  2.16,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "08:32",
                      "tv":  "00:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,11 +165,25 @@ window.PAINEL = {
                      "km":  13.58,
                      "semPed":  0,
                      "perc":  null,
+                     "primeiro":  "08:45",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -198,23 +212,18 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "07:45:20",
+                         "out":  "08:44:51",
+                         "km":  13.59,
+                         "dur":  "00:59:00"
+                     },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPER BELO SUPERMERCADO LTDA",
@@ -226,6 +235,22 @@ window.PAINEL = {
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Outro",
+                        "obs":  "preenchendo ficha de cadastro do pistone, cliente pediu para preencher agora e levar para ela agora. 35 fichas",
+                        "inicio":  "08:29",
+                        "final":  "08:45",
+                        "tempo":  "00:16:30"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "viagem para Jaboticabal",
+                        "inicio":  "08:10",
+                        "final":  "08:48",
+                        "tempo":  "00:38:25"
+                    },
                     {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
@@ -240,15 +265,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:34"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Em Viagem",
-                        "obs":  "viagem para Jaboticabal",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:29:33"
+                        "tempo":  "01:08:40"
                     },
                     {
                         "nome":  "Luis",
@@ -256,18 +273,16 @@ window.PAINEL = {
                         "obs":  "Franca a Guará",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:39"
-                    },
-                    {
-                        "nome":  "Lucas",
-                        "tipo":  "Outro",
-                        "obs":  "preenchendo ficha de cadastro do pistone, cliente pediu para preencher agora e levar para ela agora. 35 fichas",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:10:37"
+                        "tempo":  "00:37:45"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
                    {
                        "nome":  "Castro",
                        "razao":  "SUPER BELO SUPERMERCADO LTDA",
@@ -383,8 +398,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     4,
-                     1
+                     5,
+                     2
                  ]
              ],
     "historico":  {
@@ -2720,16 +2735,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  3.79,
-                                                       "tv":  0
+                                                       "km":  17.38,
+                                                       "tv":  59
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2759,12 +2774,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  2.16,
+                                                       "km":  21.53,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2777,12 +2792,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  21.53,
+                                                       "km":  2.16,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2831,6 +2846,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -2847,18 +2871,14 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                                         "p":  0
+                                                     },
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "SUPER BELO SUPERMERCADO LTDA",
