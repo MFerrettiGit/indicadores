@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2361,6 +2361,15 @@
                                      "tv":  194
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  69.14,
+                                     "tv":  280
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -2368,15 +2377,6 @@
                                      "pe":  3,
                                      "km":  49.03,
                                      "tv":  200
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  64.84,
-                                     "tv":  256
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2397,6 +2397,15 @@
                                      "tv":  142
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  28.02,
+                                     "tv":  229
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -2413,15 +2422,6 @@
                                      "pe":  3,
                                      "km":  12.02,
                                      "tv":  222
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  27.36,
-                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2493,6 +2493,11 @@
                                    {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {
@@ -2623,6 +2628,11 @@
                                    {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BELLA PLANTA SUPERMERCADOS LTDA",
                                        "p":  0
                                    },
                                    {

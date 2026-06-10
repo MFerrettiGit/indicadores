@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  69.14,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "14:18",
+                     "tv":  "04:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -57,20 +71,6 @@ window.PAINEL = {
                      "ultimo":  "12:26",
                      "tv":  "03:20:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  64.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "12:50",
-                     "tv":  "04:16:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  28.02,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:01",
+                     "ultimo":  "14:23",
+                     "tv":  "03:49:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -128,20 +142,6 @@ window.PAINEL = {
                      "tv":  "03:42:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  27.36,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:01",
-                     "ultimo":  "13:52",
-                     "tv":  "03:27:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "10:10",
                      "ultimo":  "11:45",
                      "tv":  "00:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,15 @@ window.PAINEL = {
                          "out":  "12:50:49",
                          "km":  2.17,
                          "dur":  "01:14:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "13:54:30",
+                         "out":  "14:18:55",
+                         "km":  4.3,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -495,6 +504,15 @@ window.PAINEL = {
                          "dur":  "00:43:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "BELLA PLANTA SUPERMERCADOS LTDA",
+                         "mun":  "CHARQUEADA",
+                         "in":  "14:01:28",
+                         "out":  "14:23:38",
+                         "km":  0.66,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "GOOD MERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -691,20 +709,20 @@ window.PAINEL = {
                         "tempo":  "00:59:45"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:15",
+                        "final":  "14:14",
+                        "tempo":  "00:58:41"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Outro",
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:57:23"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:45"
+                        "tempo":  "05:12:15"
                     },
                     {
                         "nome":  "Fernando",
@@ -712,7 +730,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:28"
+                        "tempo":  "00:58:20"
                     },
                     {
                         "nome":  "Karina",
@@ -720,7 +738,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:20"
+                        "tempo":  "00:53:12"
                     },
                     {
                         "nome":  "Luis",
@@ -728,7 +746,7 @@ window.PAINEL = {
                         "obs":  "Guará a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:18"
+                        "tempo":  "00:34:10"
                     }
                 ],
     "semped":  [
@@ -779,6 +797,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                        "mun":  "CHARQUEADA",
                        "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "BELLA PLANTA SUPERMERCADOS LTDA",
+                       "mun":  "CHARQUEADA",
+                       "obs":  "Ausente"
                    },
                    {
                        "nome":  "Sao Carlos",
@@ -895,8 +919,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     71,
-                     10
+                     73,
+                     11
                  ]
              ],
     "historico":  {
@@ -3232,7 +3256,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3262,6 +3286,15 @@ window.PAINEL = {
                                                        "tv":  194
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  69.14,
+                                                       "tv":  280
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -3269,15 +3302,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  49.03,
                                                        "tv":  200
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  64.84,
-                                                       "tv":  256
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3298,6 +3322,15 @@ window.PAINEL = {
                                                        "tv":  142
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  28.02,
+                                                       "tv":  229
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3314,15 +3347,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  12.02,
                                                        "tv":  222
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  27.36,
-                                                       "tv":  207
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -3394,6 +3418,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -3524,6 +3553,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "BELLA PLANTA SUPERMERCADOS LTDA",
                                                          "p":  0
                                                      },
                                                      {
