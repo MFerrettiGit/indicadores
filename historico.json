@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2346,19 +2346,28 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  83.95,
-                                     "tv":  99
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  86.53,
+                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  69.66,
-                                     "tv":  97
+                                     "km":  70.6,
+                                     "tv":  115
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.67,
+                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2379,22 +2388,22 @@
                                      "tv":  132
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  57.47,
-                                     "tv":  121
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  38,
-                                     "tv":  124
+                                     "km":  39.55,
+                                     "tv":  142
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  6.34,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2406,13 +2415,13 @@
                                      "tv":  109
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  5.4,
-                                     "tv":  91
+                                     "km":  11.18,
+                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -2440,15 +2449,6 @@
                                      "pe":  1,
                                      "km":  17.21,
                                      "tv":  73
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.29,
-                                     "tv":  86
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2481,6 +2481,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "MERCADO ELDORADO LTDA",
                                        "p":  1
@@ -2493,6 +2498,11 @@
                                    {
                                        "n":  "Fernando",
                                        "r":  "ROGER",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "BERALDO",
                                        "p":  1
                                    },
                                    {
@@ -2531,6 +2541,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
+                                       "p":  0
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
                                        "p":  1
@@ -2566,6 +2581,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                                        "p":  1
@@ -2583,6 +2603,11 @@
                                    {
                                        "n":  "Nelson",
                                        "r":  "EMPORIO SAO JOSE ITAPE LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "ANTONIO NELSON FELICIANO ITAPETININGA -",
                                        "p":  1
                                    }
                                ]
