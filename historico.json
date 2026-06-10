@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2343,6 +2343,15 @@
                                      "tv":  59
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  72.14,
+                                     "tv":  137
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2352,13 +2361,13 @@
                                      "tv":  121
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  3,
                                      "pe":  3,
-                                     "km":  70.6,
-                                     "tv":  115
+                                     "km":  47.57,
+                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Costa",
@@ -2377,15 +2386,6 @@
                                      "pe":  2,
                                      "km":  38.84,
                                      "tv":  153
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  44.41,
-                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -2523,6 +2523,11 @@
                                    {
                                        "n":  "Luis",
                                        "r":  "ANITA PALMIERI OLIVEIRA LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
                                        "p":  0
                                    },
                                    {

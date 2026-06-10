@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  72.14,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "09:09",
+                     "ultimo":  "12:02",
+                     "tv":  "02:17:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -32,16 +46,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  70.6,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "09:09",
-                     "ultimo":  "11:24",
-                     "tv":  "01:55:00",
+                     "visitas":  3,
+                     "km":  47.57,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:31",
+                     "ultimo":  "11:54",
+                     "tv":  "02:54:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "11:13",
                      "tv":  "02:33:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  44.41,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:31",
-                     "ultimo":  "11:01",
-                     "tv":  "02:12:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "10:46",
                      "tv":  "02:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -313,6 +313,15 @@ window.PAINEL = {
                          "out":  "11:24:39",
                          "km":  0.94,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "RETA ALIMENTOS LTDA",
+                         "mun":  "GUARA",
+                         "in":  "11:39:32",
+                         "out":  "12:02:00",
+                         "km":  1.54,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Maira",
@@ -533,7 +542,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:42:00"
+                        "tempo":  "02:56:54"
                     },
                     {
                         "nome":  "Rachel",
@@ -541,7 +550,23 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:36"
+                        "tempo":  "00:32:30"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:05"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:42"
                     }
                 ],
     "semped":  [
@@ -568,6 +593,12 @@ window.PAINEL = {
                        "razao":  "ANITA PALMIERI OLIVEIRA LTDA",
                        "mun":  "GUARA",
                        "obs":  "Cliente não pode atender"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "RETA ALIMENTOS LTDA",
+                       "mun":  "GUARA",
+                       "obs":  "visita de rotina"
                    },
                    {
                        "nome":  "Castro",
@@ -684,8 +715,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     45,
-                     5
+                     49,
+                     6
                  ]
              ],
     "historico":  {
@@ -3021,7 +3052,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3033,6 +3064,15 @@ window.PAINEL = {
                                                        "tv":  59
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  72.14,
+                                                       "tv":  137
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3042,13 +3082,13 @@ window.PAINEL = {
                                                        "tv":  121
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  3,
                                                        "pe":  3,
-                                                       "km":  70.6,
-                                                       "tv":  115
+                                                       "km":  47.57,
+                                                       "tv":  174
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3067,15 +3107,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  38.84,
                                                        "tv":  153
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  44.41,
-                                                       "tv":  132
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3213,6 +3244,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "ANITA PALMIERI OLIVEIRA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "RETA ALIMENTOS LTDA",
                                                          "p":  0
                                                      },
                                                      {
