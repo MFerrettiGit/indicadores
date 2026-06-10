@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -92,14 +92,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  45.83,
+                     "km":  81.28,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:54",
                      "ultimo":  "16:50",
                      "tv":  "06:01:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -872,6 +872,14 @@ window.PAINEL = {
                         "tempo":  "01:01:12"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "16:51",
+                        "final":  "17:36",
+                        "tempo":  "00:45:14"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Guará",
@@ -1013,7 +1021,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:15:20"
+                        "tempo":  "08:27:47"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1021,15 +1029,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:14"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:36:57"
+                        "tempo":  "00:55:41"
                     },
                     {
                         "nome":  "Maira",
@@ -1037,7 +1037,7 @@ window.PAINEL = {
                         "obs":  "zargon",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:01"
+                        "tempo":  "00:33:28"
                     },
                     {
                         "nome":  "Cominato",
@@ -1045,7 +1045,7 @@ window.PAINEL = {
                         "obs":  "Cadastro de produtos novos no Defavari",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:01"
+                        "tempo":  "00:26:28"
                     }
                 ],
     "semped":  [
@@ -1278,7 +1278,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     116,
+                     117,
                      23
                  ]
              ],
@@ -3615,7 +3615,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3677,7 +3677,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  45.83,
+                                                       "km":  81.28,
                                                        "tv":  361
                                                    },
                                                    {
