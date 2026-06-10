@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "16:52",
                      "tv":  "06:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -113,14 +113,14 @@ window.PAINEL = {
                      "ultimo":  "16:12",
                      "tv":  "05:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  37.38,
+                     "km":  40.02,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:04",
@@ -140,6 +140,48 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "16:47",
                      "tv":  "05:43:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  47.03,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:11",
+                     "ultimo":  "17:18",
+                     "tv":  "05:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  65.71,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:45",
+                     "ultimo":  "17:14",
+                     "tv":  "06:33:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  19.86,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:57",
+                     "ultimo":  "17:12",
+                     "tv":  "05:04:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -155,48 +197,6 @@ window.PAINEL = {
                      "ultimo":  "16:27",
                      "tv":  "02:11:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  29.32,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:11",
-                     "ultimo":  "15:31",
-                     "tv":  "04:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  64.21,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "15:48",
-                     "tv":  "05:20:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  12.02,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:57",
-                     "ultimo":  "13:01",
-                     "tv":  "03:42:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -639,6 +639,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "LEONARDI",
+                         "mun":  "JUNDIAI",
+                         "in":  "15:47:41",
+                         "out":  "17:18:50",
+                         "km":  17.71,
+                         "dur":  "01:30:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "PANSERINI",
                          "mun":  "CHARQUEADA",
@@ -711,6 +720,15 @@ window.PAINEL = {
                          "dur":  "01:30:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "E. DE BARROS SALES MINIMERCADO",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "15:50:13",
+                         "out":  "17:12:22",
+                         "km":  7.84,
+                         "dur":  "01:22:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
@@ -736,6 +754,15 @@ window.PAINEL = {
                          "out":  "15:48:52",
                          "km":  23.48,
                          "dur":  "01:39:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "IRMAOS BRESCIANI SUPERMERCADO LTDA.",
+                         "mun":  "CAPIVARI",
+                         "in":  "15:59:47",
+                         "out":  "17:14:28",
+                         "km":  1.5,
+                         "dur":  "01:13:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -986,7 +1013,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:57:40"
+                        "tempo":  "08:15:20"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -994,7 +1021,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:34"
+                        "tempo":  "00:43:14"
                     },
                     {
                         "nome":  "Rachel",
@@ -1002,7 +1029,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:17"
+                        "tempo":  "00:36:57"
                     },
                     {
                         "nome":  "Maira",
@@ -1010,7 +1037,15 @@ window.PAINEL = {
                         "obs":  "zargon",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:21"
+                        "tempo":  "00:21:01"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Cadastro de produtos novos no Defavari",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:01"
                     }
                 ],
     "semped":  [
@@ -1073,6 +1108,12 @@ window.PAINEL = {
                        "razao":  "SUPER BELO SUPERMERCADO LTDA",
                        "mun":  "JUNDIAI",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "LEONARDI",
+                       "mun":  "JUNDIAI",
+                       "obs":  "sugestão central"
                    },
                    {
                        "nome":  "Cominato",
@@ -1237,8 +1278,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     112,
-                     22
+                     116,
+                     23
                  ]
              ],
     "historico":  {
@@ -3574,7 +3615,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3654,7 +3695,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  37.38,
+                                                       "km":  40.02,
                                                        "tv":  284
                                                    },
                                                    {
@@ -3667,6 +3708,33 @@ window.PAINEL = {
                                                        "tv":  343
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  47.03,
+                                                       "tv":  342
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  65.71,
+                                                       "tv":  393
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  19.86,
+                                                       "tv":  304
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -3674,33 +3742,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  108.19,
                                                        "tv":  131
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  29.32,
-                                                       "tv":  252
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  64.21,
-                                                       "tv":  320
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  12.02,
-                                                       "tv":  222
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3949,6 +3990,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "LEONARDI",
+                                                         "p":  0
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "PANSERINI",
                                                          "p":  1
@@ -3989,6 +4035,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "E. DE BARROS SALES MINIMERCADO",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                                                          "p":  1
@@ -4001,6 +4052,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Lucas",
                                                          "r":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "IRMAOS BRESCIANI SUPERMERCADO LTDA.",
                                                          "p":  1
                                                      },
                                                      {
