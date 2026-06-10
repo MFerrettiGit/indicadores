@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2433,6 +2433,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  64.21,
+                                     "tv":  320
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -2449,15 +2458,6 @@
                                      "pe":  3,
                                      "km":  86.67,
                                      "tv":  82
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.73,
-                                     "tv":  221
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -2698,6 +2698,11 @@
                                    {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO C.C. LTDA-EPP.",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                                        "p":  1
                                    },
                                    {

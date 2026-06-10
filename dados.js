@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "15:38",
                      "tv":  "04:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,20 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "15:31",
                      "tv":  "04:12:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  64.21,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:45",
+                     "ultimo":  "15:48",
+                     "tv":  "05:20:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -168,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "08:57",
                      "ultimo":  "13:01",
                      "tv":  "03:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "10:10",
                      "ultimo":  "14:44",
                      "tv":  "01:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  40.73,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "12:56",
-                     "tv":  "03:41:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -630,6 +630,15 @@ window.PAINEL = {
                          "dur":  "02:28:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                         "mun":  "CAPIVARI",
+                         "in":  "14:08:13",
+                         "out":  "15:48:52",
+                         "km":  23.48,
+                         "dur":  "01:39:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "CAMPOS DO JORDA",
@@ -844,7 +853,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:27:25"
+                        "tempo":  "06:42:32"
                     },
                     {
                         "nome":  "Luis",
@@ -852,7 +861,7 @@ window.PAINEL = {
                         "obs":  "Rede Big Compras",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:47"
+                        "tempo":  "00:45:54"
                     }
                 ],
     "semped":  [
@@ -1055,7 +1064,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     86,
+                     89,
                      17
                  ]
              ],
@@ -3392,7 +3401,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3494,6 +3503,15 @@ window.PAINEL = {
                                                        "tv":  252
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  64.21,
+                                                       "tv":  320
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -3510,15 +3528,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  86.67,
                                                        "tv":  82
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  40.73,
-                                                       "tv":  221
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3759,6 +3768,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO C.C. LTDA-EPP.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                                                          "p":  1
                                                      },
                                                      {
