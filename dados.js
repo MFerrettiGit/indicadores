@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  64.84,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "12:50",
+                     "tv":  "04:16:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  62.67,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "11:25",
-                     "tv":  "03:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -98,7 +98,7 @@ window.PAINEL = {
                      "primeiro":  "08:54",
                      "ultimo":  "11:27",
                      "tv":  "02:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -250,6 +250,15 @@ window.PAINEL = {
                          "out":  "11:25:48",
                          "km":  5.2,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERCERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "11:36:40",
+                         "out":  "12:50:49",
+                         "km":  2.17,
+                         "dur":  "01:14:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -586,7 +595,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:27:11"
+                        "tempo":  "03:42:05"
                     },
                     {
                         "nome":  "Cominato",
@@ -594,7 +603,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:22"
+                        "tempo":  "00:51:16"
                     },
                     {
                         "nome":  "Luis",
@@ -602,7 +611,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:59"
+                        "tempo":  "00:47:53"
                     },
                     {
                         "nome":  "Nelson",
@@ -610,7 +619,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:12"
+                        "tempo":  "00:38:06"
                     },
                     {
                         "nome":  "Mariangela",
@@ -618,7 +627,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:49"
+                        "tempo":  "00:24:43"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:37"
                     }
                 ],
     "semped":  [
@@ -779,7 +796,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     56,
+                     59,
                      8
                  ]
              ],
@@ -3116,7 +3133,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3155,6 +3172,15 @@ window.PAINEL = {
                                                        "tv":  121
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  64.84,
+                                                       "tv":  256
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -3162,15 +3188,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  44.52,
                                                        "tv":  189
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  62.67,
-                                                       "tv":  182
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3273,6 +3290,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERCERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
