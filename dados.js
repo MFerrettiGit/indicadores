@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  88.06,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:48",
+                     "ultimo":  "13:00",
+                     "tv":  "03:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -28,8 +42,8 @@ window.PAINEL = {
                      "primeiro":  "09:09",
                      "ultimo":  "12:02",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -43,20 +57,6 @@ window.PAINEL = {
                      "ultimo":  "12:26",
                      "tv":  "03:20:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  86.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:48",
-                     "ultimo":  "11:38",
-                     "tv":  "02:01:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "12:35",
                      "tv":  "03:09:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  12.02,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:57",
+                     "ultimo":  "13:01",
+                     "tv":  "03:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -144,18 +158,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  2,
-                     "km":  11.18,
+                     "km":  40.73,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:57",
-                     "ultimo":  "11:27",
-                     "tv":  "02:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "primeiro":  "08:45",
+                     "ultimo":  "12:56",
+                     "tv":  "03:41:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:46",
                      "tv":  "02:44:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  17.21,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "09:59",
-                     "tv":  "01:13:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -295,6 +295,15 @@ window.PAINEL = {
                          "out":  "11:38:34",
                          "km":  2.58,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "IRMAOS MARAFAO LTDA.",
+                         "mun":  "JABOTICABAL",
+                         "in":  "11:47:29",
+                         "out":  "13:00:49",
+                         "km":  1.53,
+                         "dur":  "01:13:00"
                      },
                      {
                          "nome":  "Luis",
@@ -486,6 +495,15 @@ window.PAINEL = {
                          "dur":  "00:46:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "11:31:31",
+                         "out":  "13:01:44",
+                         "km":  0.84,
+                         "dur":  "01:30:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
@@ -493,6 +511,15 @@ window.PAINEL = {
                          "out":  "09:59:25",
                          "km":  3.63,
                          "dur":  "01:13:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO C.C. LTDA-EPP.",
+                         "mun":  "MONTE MOR",
+                         "in":  "10:28:24",
+                         "out":  "12:56:51",
+                         "km":  23.52,
+                         "dur":  "02:28:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -558,12 +585,28 @@ window.PAINEL = {
                         "tempo":  "00:51:44"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:06",
+                        "final":  "12:57",
+                        "tempo":  "00:50:56"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Outro",
                         "obs":  "preenchendo ficha de cadastro do pistone, cliente pediu para preencher agora e levar para ela agora. 35 fichas",
                         "inicio":  "08:29",
                         "final":  "08:45",
                         "tempo":  "00:16:30"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:03",
+                        "final":  "13:04",
+                        "tempo":  "01:01:05"
                     },
                     {
                         "nome":  "Fernando",
@@ -595,23 +638,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:42:05"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:16"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:53"
+                        "tempo":  "03:57:10"
                     },
                     {
                         "nome":  "Nelson",
@@ -619,7 +646,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:06"
+                        "tempo":  "00:53:11"
                     },
                     {
                         "nome":  "Mariangela",
@@ -627,7 +654,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:43"
+                        "tempo":  "00:39:48"
                     },
                     {
                         "nome":  "Costa",
@@ -635,7 +662,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:37"
+                        "tempo":  "00:16:42"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:54"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:50"
                     }
                 ],
     "semped":  [
@@ -796,8 +839,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     59,
-                     8
+                     63,
+                     9
                  ]
              ],
     "historico":  {
@@ -3133,7 +3176,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3143,6 +3186,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  20.18,
                                                        "tv":  259
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  88.06,
+                                                       "tv":  194
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3161,15 +3213,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  49.03,
                                                        "tv":  200
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  86.53,
-                                                       "tv":  121
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3208,6 +3251,15 @@ window.PAINEL = {
                                                        "tv":  180
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  12.02,
+                                                       "tv":  222
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3226,13 +3278,13 @@ window.PAINEL = {
                                                        "tv":  235
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  11.18,
-                                                       "tv":  132
+                                                       "km":  40.73,
+                                                       "tv":  221
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3251,15 +3303,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  26.61,
                                                        "tv":  164
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  17.21,
-                                                       "tv":  73
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3315,6 +3358,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "BERALDO",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "IRMAOS MARAFAO LTDA.",
                                                          "p":  1
                                                      },
                                                      {
@@ -3423,8 +3471,18 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO C.C. LTDA-EPP.",
                                                          "p":  1
                                                      },
                                                      {
