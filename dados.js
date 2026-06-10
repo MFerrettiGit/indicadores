@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -36,7 +36,7 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  126.4,
+                     "km":  157.41,
                      "semPed":  1,
                      "perc":  14.29,
                      "primeiro":  "08:48",
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "16:32",
                      "tv":  "05:22:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -113,7 +113,21 @@ window.PAINEL = {
                      "ultimo":  "16:12",
                      "tv":  "05:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  37.38,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:04",
+                     "ultimo":  "17:08",
+                     "tv":  "04:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -127,20 +141,6 @@ window.PAINEL = {
                      "ultimo":  "16:47",
                      "tv":  "05:43:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  23.82,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:04",
-                     "ultimo":  "16:21",
-                     "tv":  "04:22:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -603,6 +603,15 @@ window.PAINEL = {
                          "dur":  "01:15:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:46:44",
+                         "out":  "17:08:51",
+                         "km":  13.56,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPER BELO SUPERMERCADO LTDA",
                          "mun":  "JUNDIAI",
@@ -908,6 +917,14 @@ window.PAINEL = {
                         "tempo":  "00:19:45"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Pedro a Piracicaba",
+                        "inicio":  "16:21",
+                        "final":  "17:05",
+                        "tempo":  "00:43:30"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Jaboticabal",
@@ -969,15 +986,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:42:36"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Pedro a Piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:33:46"
+                        "tempo":  "07:57:40"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -985,7 +994,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:30"
+                        "tempo":  "00:25:34"
                     },
                     {
                         "nome":  "Rachel",
@@ -993,7 +1002,15 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:13"
+                        "tempo":  "00:19:17"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "zargon",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:21"
                     }
                 ],
     "semped":  [
@@ -1220,7 +1237,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     107,
+                     112,
                      22
                  ]
              ],
@@ -3557,7 +3574,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3583,7 +3600,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  6,
-                                                       "km":  126.4,
+                                                       "km":  157.41,
                                                        "tv":  235
                                                    },
                                                    {
@@ -3632,6 +3649,15 @@ window.PAINEL = {
                                                        "tv":  306
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  37.38,
+                                                       "tv":  284
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3639,15 +3665,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  15.82,
                                                        "tv":  343
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  23.82,
-                                                       "tv":  262
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3909,6 +3926,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Alan",
                                                          "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
                                                          "p":  1
                                                      },
                                                      {

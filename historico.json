@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2357,7 +2357,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  6,
-                                     "km":  126.4,
+                                     "km":  157.41,
                                      "tv":  235
                                  },
                                  {
@@ -2406,6 +2406,15 @@
                                      "tv":  306
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  37.38,
+                                     "tv":  284
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -2413,15 +2422,6 @@
                                      "pe":  5,
                                      "km":  15.82,
                                      "tv":  343
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  23.82,
-                                     "tv":  262
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2683,6 +2683,11 @@
                                    {
                                        "n":  "Alan",
                                        "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "VILA SUPERMERCADOS CAMPINAS EIRELI",
                                        "p":  1
                                    },
                                    {
