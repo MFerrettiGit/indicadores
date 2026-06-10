@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  61.8,
+                     "semPed":  4,
+                     "perc":  57.14,
+                     "primeiro":  "08:31",
+                     "ultimo":  "16:44",
+                     "tv":  "04:56:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -32,17 +46,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  60.88,
-                     "semPed":  3,
-                     "perc":  50,
-                     "primeiro":  "08:31",
-                     "ultimo":  "16:17",
-                     "tv":  "04:34:00",
-                     "emVisita":  1,
+                     "km":  79.33,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "16:52",
+                     "tv":  "06:32:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -57,20 +71,6 @@ window.PAINEL = {
                      "ultimo":  "13:49",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  75.83,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "15:21",
-                     "tv":  "05:15:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -91,15 +91,15 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  44.9,
+                     "visitas":  5,
+                     "km":  45.83,
                      "semPed":  2,
-                     "perc":  50,
+                     "perc":  40,
                      "primeiro":  "08:54",
-                     "ultimo":  "16:02",
-                     "tv":  "05:17:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "16:50",
+                     "tv":  "06:01:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  15.82,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "16:47",
+                     "tv":  "05:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "16:21",
                      "tv":  "04:22:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  12.05,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "15:07",
-                     "tv":  "04:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -286,6 +286,15 @@ window.PAINEL = {
                          "out":  "15:21:09",
                          "km":  6.69,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "15:35:41",
+                         "out":  "16:52:53",
+                         "km":  3.5,
+                         "dur":  "01:17:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -486,6 +495,15 @@ window.PAINEL = {
                          "dur":  "00:48:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "HELIO FERNANDO DELALANA LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "16:05:51",
+                         "out":  "16:50:33",
+                         "km":  0.93,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
@@ -538,6 +556,15 @@ window.PAINEL = {
                          "out":  "16:17:39",
                          "km":  6.6,
                          "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LIMP MAIS COMERCIO DE PRODUTOS DE LIMPEZ",
+                         "mun":  "ARARAQUARA",
+                         "in":  "16:21:12",
+                         "out":  "16:44:14",
+                         "km":  0.92,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Alan",
@@ -772,6 +799,15 @@ window.PAINEL = {
                          "out":  "15:07:31",
                          "km":  5.71,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:32:43",
+                         "out":  "16:47:34",
+                         "km":  3.77,
+                         "dur":  "01:14:00"
                      }
                  ],
     "eventos":  [
@@ -822,6 +858,14 @@ window.PAINEL = {
                         "inicio":  "13:50",
                         "final":  "14:41",
                         "tempo":  "00:50:36"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Big Compras",
+                        "inicio":  "15:09",
+                        "final":  "16:43",
+                        "tempo":  "01:34:17"
                     },
                     {
                         "nome":  "Lucas",
@@ -925,15 +969,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:27:32"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Big Compras",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:30:54"
+                        "tempo":  "07:42:36"
                     },
                     {
                         "nome":  "Cominato",
@@ -941,7 +977,23 @@ window.PAINEL = {
                         "obs":  "São Pedro a Piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:42"
+                        "tempo":  "00:33:46"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Araraquara a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:30"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:13"
                     }
                 ],
     "semped":  [
@@ -1050,6 +1102,12 @@ window.PAINEL = {
                    {
                        "nome":  "Sao Carlos",
                        "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                       "mun":  "ARARAQUARA",
+                       "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "LIMP MAIS COMERCIO DE PRODUTOS DE LIMPEZ",
                        "mun":  "ARARAQUARA",
                        "obs":  "prospecção"
                    }
@@ -1162,8 +1220,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     102,
-                     21
+                     107,
+                     22
                  ]
              ],
     "historico":  {
@@ -3499,7 +3557,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3511,6 +3569,15 @@ window.PAINEL = {
                                                        "tv":  326
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  3,
+                                                       "km":  61.8,
+                                                       "tv":  296
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3520,13 +3587,13 @@ window.PAINEL = {
                                                        "tv":  235
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
-                                                       "pe":  3,
-                                                       "km":  60.88,
-                                                       "tv":  274
+                                                       "pe":  6,
+                                                       "km":  79.33,
+                                                       "tv":  392
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3536,15 +3603,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  72.99,
                                                        "tv":  180
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  75.83,
-                                                       "tv":  315
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3559,10 +3617,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  44.9,
-                                                       "tv":  317
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  45.83,
+                                                       "tv":  361
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -3574,6 +3632,15 @@ window.PAINEL = {
                                                        "tv":  306
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  15.82,
+                                                       "tv":  343
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3581,15 +3648,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  23.82,
                                                        "tv":  262
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  12.05,
-                                                       "tv":  269
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3666,6 +3724,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
                                                          "p":  1
                                                      },
                                                      {
@@ -3789,6 +3852,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "HELIO FERNANDO DELALANA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
                                                          "p":  1
@@ -3816,6 +3884,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Sao Carlos",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "LIMP MAIS COMERCIO DE PRODUTOS DE LIMPEZ",
                                                          "p":  0
                                                      },
                                                      {
@@ -3946,6 +4019,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Nelson",
                                                          "r":  "EVALDO BUENO PEREIRA ITAPETININGA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                                          "p":  1
                                                      }
                                                  ]

@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2343,6 +2343,15 @@
                                      "tv":  326
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  3,
+                                     "km":  61.8,
+                                     "tv":  296
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2352,13 +2361,13 @@
                                      "tv":  235
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  6,
-                                     "pe":  3,
-                                     "km":  60.88,
-                                     "tv":  274
+                                     "pe":  6,
+                                     "km":  79.33,
+                                     "tv":  392
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2368,15 +2377,6 @@
                                      "pe":  4,
                                      "km":  72.99,
                                      "tv":  180
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  75.83,
-                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2391,10 +2391,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  44.9,
-                                     "tv":  317
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  45.83,
+                                     "tv":  361
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -2406,6 +2406,15 @@
                                      "tv":  306
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  15.82,
+                                     "tv":  343
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2413,15 +2422,6 @@
                                      "pe":  2,
                                      "km":  23.82,
                                      "tv":  262
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  12.05,
-                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2498,6 +2498,11 @@
                                    {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1
                                    },
                                    {
@@ -2621,6 +2626,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "HELIO FERNANDO DELALANA LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
                                        "p":  1
@@ -2648,6 +2658,11 @@
                                    {
                                        "n":  "Sao Carlos",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "LIMP MAIS COMERCIO DE PRODUTOS DE LIMPEZ",
                                        "p":  0
                                    },
                                    {
@@ -2778,6 +2793,11 @@
                                    {
                                        "n":  "Nelson",
                                        "r":  "EVALDO BUENO PEREIRA ITAPETININGA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                        "p":  1
                                    }
                                ]
