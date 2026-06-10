@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  57.47,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "10:03",
+                     "tv":  "02:01:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -28,6 +42,20 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "09:31",
                      "tv":  "01:25:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  40.58,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:31",
+                     "ultimo":  "10:03",
+                     "tv":  "01:31:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -60,34 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  57.47,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  2.05,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:31",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -98,6 +98,20 @@ window.PAINEL = {
                      "primeiro":  "08:54",
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  5.4,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "10:00",
+                     "tv":  "01:31:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -130,17 +144,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  1,
-                     "km":  4.31,
+                     "km":  17.21,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "09:08",
-                     "tv":  "00:44:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:45",
+                     "ultimo":  "09:59",
+                     "tv":  "01:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -152,20 +166,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  13.58,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:45",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -186,8 +186,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -200,8 +200,8 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -223,6 +223,15 @@ window.PAINEL = {
                          "out":  "08:44:51",
                          "km":  13.59,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "08:01:52",
+                         "out":  "10:03:33",
+                         "km":  0,
+                         "dur":  "02:01:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -252,6 +261,15 @@ window.PAINEL = {
                          "dur":  "01:25:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
+                         "mun":  "ARARAQUARA",
+                         "in":  "08:31:49",
+                         "out":  "10:03:27",
+                         "km":  38.53,
+                         "dur":  "01:31:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -270,6 +288,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:45:49",
+                         "out":  "09:59:25",
+                         "km":  3.63,
+                         "dur":  "01:13:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
                          "mun":  "ITAPETININGA",
@@ -277,6 +304,15 @@ window.PAINEL = {
                          "out":  "09:08:03",
                          "km":  4.31,
                          "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO SAO JOSE ITAPE LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "09:12:19",
+                         "out":  "10:00:02",
+                         "km":  1.09,
+                         "dur":  "00:47:00"
                      }
                  ],
     "eventos":  [
@@ -318,7 +354,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:08:36"
+                        "tempo":  "02:23:36"
                     },
                     {
                         "nome":  "Eugenio",
@@ -326,7 +362,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:56"
+                        "tempo":  "00:56:56"
                     }
                 ],
     "semped":  [
@@ -451,7 +487,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     15,
+                     21,
                      2
                  ]
              ],
@@ -2788,7 +2824,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2800,6 +2836,15 @@ window.PAINEL = {
                                                        "tv":  59
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  57.47,
+                                                       "tv":  121
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -2807,6 +2852,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  33.53,
                                                        "tv":  85
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  40.58,
+                                                       "tv":  91
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -2827,24 +2881,6 @@ window.PAINEL = {
                                                        "tv":  26
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  57.47,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.05,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -2852,6 +2888,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  4.26,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  5.4,
+                                                       "tv":  91
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -2872,13 +2917,13 @@ window.PAINEL = {
                                                        "tv":  21
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  4.31,
-                                                       "tv":  44
+                                                       "km":  17.21,
+                                                       "tv":  73
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -2890,26 +2935,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  13.58,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2924,6 +2951,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -2931,6 +2967,11 @@ window.PAINEL = {
                                                          "n":  "Eduardo",
                                                          "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -2948,6 +2989,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  1
@@ -2958,8 +3004,18 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Nelson",
                                                          "r":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO SAO JOSE ITAPE LTDA",
                                                          "p":  1
                                                      }
                                                  ]
