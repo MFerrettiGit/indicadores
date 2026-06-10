@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  "08:44",
                      "tv":  "00:59:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  61.59,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:48",
+                     "ultimo":  "09:21",
+                     "tv":  "00:32:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -60,20 +74,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  21.53,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:48",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  7.6,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:04",
+                     "ultimo":  "09:14",
+                     "tv":  "01:09:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -126,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "09:08",
                      "tv":  "00:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -138,20 +152,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:04",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -197,7 +197,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -223,6 +223,24 @@ window.PAINEL = {
                          "out":  "08:44:51",
                          "km":  13.59,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MERCADO ELDORADO LTDA",
+                         "mun":  "BARRINHA",
+                         "in":  "08:48:50",
+                         "out":  "09:21:02",
+                         "km":  40.06,
+                         "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:04:38",
+                         "out":  "09:14:31",
+                         "km":  6.77,
+                         "dur":  "01:09:00"
                      },
                      {
                          "nome":  "Castro",
@@ -282,7 +300,15 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:23:40"
+                        "tempo":  "01:38:32"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Outro",
+                        "obs":  "acompanhando minha mãe no hospital",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:52"
                     }
                 ],
     "semped":  [
@@ -407,7 +433,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     7,
+                     11,
                      2
                  ]
              ],
@@ -2744,7 +2770,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2754,6 +2780,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  17.38,
                                                        "tv":  59
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  61.59,
+                                                       "tv":  32
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2783,15 +2818,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.53,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -2808,6 +2834,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  2.16,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  7.6,
+                                                       "tv":  69
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2834,15 +2869,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  3.15,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2887,6 +2913,16 @@ window.PAINEL = {
                                                          "n":  "Eduardo",
                                                          "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "MERCADO ELDORADO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Castro",
