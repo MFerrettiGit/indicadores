@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "08:30",
+    "dataHora":  "08:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -53,11 +53,11 @@ window.PAINEL = {
                      "km":  2.05,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:31",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  16.16,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:11",
+                     "ultimo":  "08:32",
+                     "tv":  "00:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -130,20 +144,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:11",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -156,6 +156,20 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  13.58,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -198,33 +212,27 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  13.58,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
-
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPER BELO SUPERMERCADO LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:11:22",
+                         "out":  "08:32:28",
+                         "km":  16.16,
+                         "dur":  "00:21:00"
+                     }
                  ],
     "eventos":  [
                     {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Araraquara",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:12"
+                        "inicio":  "07:31",
+                        "final":  "08:31",
+                        "tempo":  "00:59:45"
                     },
                     {
                         "nome":  "Mariangela",
@@ -232,7 +240,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:32"
+                        "tempo":  "00:53:34"
                     },
                     {
                         "nome":  "Fernando",
@@ -240,7 +248,7 @@ window.PAINEL = {
                         "obs":  "viagem para Jaboticabal",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:31"
+                        "tempo":  "00:29:33"
                     },
                     {
                         "nome":  "Luis",
@@ -248,11 +256,24 @@ window.PAINEL = {
                         "obs":  "Franca a Guará",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:37"
+                        "tempo":  "00:22:39"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Outro",
+                        "obs":  "preenchendo ficha de cadastro do pistone, cliente pediu para preencher agora e levar para ela agora. 35 fichas",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:37"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Castro",
+                       "razao":  "SUPER BELO SUPERMERCADO LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "comprador ausente"
+                   }
                ],
     "hist":  [
                  [
@@ -362,8 +383,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     2,
-                     0
+                     4,
+                     1
                  ]
              ],
     "historico":  {
@@ -2699,7 +2720,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "08:30",
+                                         "dataHora":  "08:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2765,6 +2786,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  16.16,
+                                                       "tv":  21
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -2783,8 +2813,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2792,12 +2822,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  13.58,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2826,19 +2856,14 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  13.58,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
-
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPER BELO SUPERMERCADO LTDA",
+                                                         "p":  0
+                                                     }
                                                  ]
                                      }
                   }
