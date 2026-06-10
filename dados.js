@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  26.61,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "10:46",
+                     "tv":  "02:44:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:57",
                      "ultimo":  "10:23",
                      "tv":  "01:26:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  3.15,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  80.83,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "10:10",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:41",
+                     "tv":  "00:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -315,6 +315,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "PANSERINI",
+                         "mun":  "CHARQUEADA",
+                         "in":  "08:01:49",
+                         "out":  "10:46:41",
+                         "km":  23.46,
+                         "dur":  "02:44:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "GOOD MERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -331,6 +340,15 @@ window.PAINEL = {
                          "out":  "09:59:25",
                          "km":  3.63,
                          "dur":  "01:13:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "CAMPOS DO JORDA",
+                         "in":  "10:10:18",
+                         "out":  "10:41:51",
+                         "km":  80.83,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -398,7 +416,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:27:02"
+                        "tempo":  "01:42:03"
                     }
                 ],
     "semped":  [
@@ -529,7 +547,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     26,
+                     28,
                      3
                  ]
              ],
@@ -2866,7 +2884,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2950,6 +2968,15 @@ window.PAINEL = {
                                                        "tv":  91
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  26.61,
+                                                       "tv":  164
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -2977,22 +3004,13 @@ window.PAINEL = {
                                                        "tv":  86
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  3.15,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  80.83,
+                                                       "tv":  31
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3061,6 +3079,11 @@ window.PAINEL = {
                                                          "p":  0
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "PANSERINI",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "GOOD MERCADO LTDA",
                                                          "p":  1
@@ -3068,6 +3091,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VILLA SIMPATIA LTDA",
                                                          "p":  1
                                                      },
                                                      {
