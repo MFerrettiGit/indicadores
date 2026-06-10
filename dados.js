@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "15:29",
                      "tv":  "03:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -77,13 +77,13 @@ window.PAINEL = {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  44.52,
+                     "visitas":  4,
+                     "km":  47.25,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:05",
-                     "ultimo":  "12:35",
-                     "tv":  "03:09:00",
+                     "ultimo":  "15:56",
+                     "tv":  "04:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  41.79,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  44.9,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:54",
-                     "ultimo":  "15:01",
-                     "tv":  "04:29:00",
+                     "ultimo":  "16:02",
+                     "tv":  "05:17:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "15:48",
                      "tv":  "05:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -423,6 +423,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO ZARGON LTDA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "14:05:27",
+                         "out":  "15:56:26",
+                         "km":  2.73,
+                         "dur":  "01:50:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
@@ -448,6 +457,15 @@ window.PAINEL = {
                          "out":  "15:01:43",
                          "km":  2.24,
                          "dur":  "02:07:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                         "mun":  "ITAPIRA",
+                         "in":  "15:13:24",
+                         "out":  "16:02:26",
+                         "km":  3.11,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -853,7 +871,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:42:32"
+                        "tempo":  "06:57:28"
                     },
                     {
                         "nome":  "Luis",
@@ -861,7 +879,7 @@ window.PAINEL = {
                         "obs":  "Rede Big Compras",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:54"
+                        "tempo":  "01:00:50"
                     }
                 ],
     "semped":  [
@@ -900,6 +918,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                        "mun":  "ITAPIRA",
                        "obs":  "cliente abastecido"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                       "mun":  "ITAPIRA",
+                       "obs":  "comprador nao conseguiu atender"
                    },
                    {
                        "nome":  "Luis",
@@ -1064,8 +1088,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     89,
-                     17
+                     92,
+                     18
                  ]
              ],
     "historico":  {
@@ -3401,7 +3425,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3452,19 +3476,19 @@ window.PAINEL = {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  44.52,
-                                                       "tv":  189
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  47.25,
+                                                       "tv":  299
                                                    },
                                                    {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  41.79,
-                                                       "tv":  269
+                                                       "km":  44.9,
+                                                       "tv":  317
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -3656,6 +3680,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO ZARGON LTDA.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                                                          "p":  1
@@ -3669,6 +3698,11 @@ window.PAINEL = {
                                                          "n":  "Rachel",
                                                          "r":  "MERCADINHO VILA IZAURA LTDA",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",

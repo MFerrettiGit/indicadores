@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2382,19 +2382,19 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  44.52,
-                                     "tv":  189
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  47.25,
+                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  41.79,
-                                     "tv":  269
+                                     "km":  44.9,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -2586,6 +2586,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO ZARGON LTDA.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                                        "p":  1
@@ -2599,6 +2604,11 @@
                                        "n":  "Rachel",
                                        "r":  "MERCADINHO VILA IZAURA LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Sao Carlos",
