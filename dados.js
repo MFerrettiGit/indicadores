@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "11:38",
                      "tv":  "02:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "09:09",
                      "ultimo":  "11:24",
                      "tv":  "01:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  83.89,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "10:10",
+                     "ultimo":  "11:45",
+                     "tv":  "00:53:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "09:59",
                      "tv":  "01:13:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  80.83,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "10:10",
-                     "ultimo":  "10:41",
-                     "tv":  "00:31:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -369,6 +369,15 @@ window.PAINEL = {
                          "dur":  "00:41:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUILHERME ZANIOLO AIELO",
+                         "mun":  "ARARAQUARA",
+                         "in":  "11:11:23",
+                         "out":  "11:54:26",
+                         "km":  3.16,
+                         "dur":  "00:42:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -439,6 +448,15 @@ window.PAINEL = {
                          "out":  "10:41:51",
                          "km":  80.83,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
+                         "mun":  "CAMPOS DO JORDA",
+                         "in":  "11:23:19",
+                         "out":  "11:45:56",
+                         "km":  3.06,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -515,7 +533,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:27:02"
+                        "tempo":  "02:42:00"
                     },
                     {
                         "nome":  "Rachel",
@@ -523,7 +541,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:38"
+                        "tempo":  "00:17:36"
                     }
                 ],
     "semped":  [
@@ -666,7 +684,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     44,
+                     45,
                      5
                  ]
              ],
@@ -3003,7 +3021,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3096,6 +3114,15 @@ window.PAINEL = {
                                                        "tv":  132
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  83.89,
+                                                       "tv":  53
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -3121,15 +3148,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  17.21,
                                                        "tv":  73
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  80.83,
-                                                       "tv":  31
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3228,6 +3246,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "GUILHERME ZANIOLO AIELO",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  1
@@ -3265,6 +3288,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Mariangela",
                                                          "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
                                                          "p":  1
                                                      },
                                                      {

@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2424,6 +2424,15 @@
                                      "tv":  132
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  83.89,
+                                     "tv":  53
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -2449,15 +2458,6 @@
                                      "pe":  1,
                                      "km":  17.21,
                                      "tv":  73
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  80.83,
-                                     "tv":  31
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -2556,6 +2556,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GUILHERME ZANIOLO AIELO",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1
@@ -2593,6 +2598,11 @@
                                    {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "NOVA ROMA SUP E PANIFICADORA EIRELI",
                                        "p":  1
                                    },
                                    {
