@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  "08:44",
                      "tv":  "00:59:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  33.53,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:05",
+                     "ultimo":  "09:31",
+                     "tv":  "01:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -32,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  67.26,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:09",
+                     "ultimo":  "09:35",
+                     "tv":  "00:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -40,20 +68,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  4.16,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:05",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -82,20 +96,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:54",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  2.16,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:09",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -186,8 +186,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -200,8 +200,8 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  0,
@@ -232,6 +232,24 @@ window.PAINEL = {
                          "out":  "09:21:02",
                          "km":  40.06,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "FERNANDO PALMIERI",
+                         "mun":  "GUARA",
+                         "in":  "09:09:11",
+                         "out":  "09:35:54",
+                         "km":  65.1,
+                         "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPER FAUNA VAREJISTA LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "08:05:55",
+                         "out":  "09:31:19",
+                         "km":  29.37,
+                         "dur":  "01:25:00"
                      },
                      {
                          "nome":  "Alan",
@@ -300,7 +318,7 @@ window.PAINEL = {
                         "obs":  "campos do Jordão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:38:32"
+                        "tempo":  "01:53:32"
                     },
                     {
                         "nome":  "Eugenio",
@@ -308,7 +326,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:52"
+                        "tempo":  "00:26:52"
                     }
                 ],
     "semped":  [
@@ -433,7 +451,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     11,
+                     13,
                      2
                  ]
              ],
@@ -2770,7 +2788,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2782,6 +2800,15 @@ window.PAINEL = {
                                                        "tv":  59
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  33.53,
+                                                       "tv":  85
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -2791,21 +2818,21 @@ window.PAINEL = {
                                                        "tv":  32
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  67.26,
+                                                       "tv":  26
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  57.47,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.16,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2824,15 +2851,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  4.26,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.16,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2890,8 +2908,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2899,8 +2917,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -2917,6 +2935,16 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "MERCADO ELDORADO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "FERNANDO PALMIERI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPER FAUNA VAREJISTA LTDA",
                                                          "p":  1
                                                      },
                                                      {
