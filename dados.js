@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "11:00",
                      "tv":  "01:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  38.84,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:05",
+                     "ultimo":  "11:13",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -56,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "11:01",
                      "tv":  "02:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:03",
                      "tv":  "02:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  33.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:05",
-                     "ultimo":  "09:31",
-                     "tv":  "01:25:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "10:10",
                      "ultimo":  "10:41",
                      "tv":  "00:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -288,6 +288,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "ANITA PALMIERI OLIVEIRA LTDA",
+                         "mun":  "GUARA",
+                         "in":  "11:06:17",
+                         "out":  "11:24:39",
+                         "km":  0.94,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPER FAUNA VAREJISTA LTDA",
                          "mun":  "LIMEIRA",
@@ -295,6 +304,15 @@ window.PAINEL = {
                          "out":  "09:31:19",
                          "km":  29.37,
                          "dur":  "01:25:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPER FAUNA VAREJISTA LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "10:04:53",
+                         "out":  "11:13:26",
+                         "km":  5.31,
+                         "dur":  "01:08:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -452,7 +470,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:57:01"
+                        "tempo":  "02:12:10"
                     }
                 ],
     "semped":  [
@@ -467,6 +485,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "ANITA PALMIERI OLIVEIRA LTDA",
+                       "mun":  "GUARA",
+                       "obs":  "Cliente não pode atender"
                    },
                    {
                        "nome":  "Castro",
@@ -583,7 +607,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     33,
+                     35,
                      3
                  ]
              ],
@@ -2920,7 +2944,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2950,6 +2974,15 @@ window.PAINEL = {
                                                        "tv":  97
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  38.84,
+                                                       "tv":  153
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -2966,15 +2999,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  57.47,
                                                        "tv":  121
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  33.53,
-                                                       "tv":  85
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3097,6 +3121,16 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Luis",
                                                          "r":  "FERNANDO PALMIERI",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "ANITA PALMIERI OLIVEIRA LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPER FAUNA VAREJISTA LTDA",
                                                          "p":  1
                                                      },
                                                      {
