@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -50,7 +50,7 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  157.41,
+                     "km":  216.36,
                      "semPed":  1,
                      "perc":  14.29,
                      "primeiro":  "08:48",
@@ -102,18 +102,32 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  21.01,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:23",
+                     "ultimo":  "18:00",
+                     "tv":  "06:19:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  48.67,
+                     "km":  82.05,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:01",
                      "ultimo":  "16:12",
                      "tv":  "05:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -130,17 +144,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  15.82,
+                     "km":  107.14,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "16:47",
-                     "tv":  "05:43:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:45",
+                     "ultimo":  "17:55",
+                     "tv":  "07:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -155,20 +169,6 @@ window.PAINEL = {
                      "ultimo":  "17:18",
                      "tv":  "05:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  65.71,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "17:14",
-                     "tv":  "06:33:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -862,6 +862,15 @@ window.PAINEL = {
                          "out":  "16:47:34",
                          "km":  3.77,
                          "dur":  "01:14:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "in":  "17:24:11",
+                         "out":  "18:00:44",
+                         "km":  4.31,
+                         "dur":  "00:36:00"
                      }
                  ],
     "eventos":  [
@@ -986,6 +995,14 @@ window.PAINEL = {
                         "tempo":  "00:43:30"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Cadastro de produtos novos no Defavari",
+                        "inicio":  "17:14",
+                        "final":  "17:55",
+                        "tempo":  "00:41:33"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Jaboticabal",
@@ -1055,15 +1072,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:42:32"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Outro",
-                        "obs":  "Cadastro de produtos novos no Defavari",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:41:13"
+                        "tempo":  "08:57:38"
                     }
                 ],
     "semped":  [
@@ -1120,6 +1129,12 @@ window.PAINEL = {
                        "razao":  "RETA ALIMENTOS LTDA",
                        "mun":  "GUARA",
                        "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "merchandising"
                    },
                    {
                        "nome":  "Castro",
@@ -1296,8 +1311,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     118,
-                     23
+                     120,
+                     24
                  ]
              ],
     "historico":  {
@@ -3633,7 +3648,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3668,7 +3683,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  6,
-                                                       "km":  157.41,
+                                                       "km":  216.36,
                                                        "tv":  235
                                                    },
                                                    {
@@ -3699,12 +3714,21 @@ window.PAINEL = {
                                                        "tv":  361
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  21.01,
+                                                       "tv":  379
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  48.67,
+                                                       "km":  82.05,
                                                        "tv":  306
                                                    },
                                                    {
@@ -3717,13 +3741,13 @@ window.PAINEL = {
                                                        "tv":  284
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  15.82,
-                                                       "tv":  343
+                                                       "km":  107.14,
+                                                       "tv":  431
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -3733,15 +3757,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  47.03,
                                                        "tv":  342
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  65.71,
-                                                       "tv":  393
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -4131,6 +4146,11 @@ window.PAINEL = {
                                                          "n":  "Nelson",
                                                          "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  0
                                                      }
                                                  ]
                                      }

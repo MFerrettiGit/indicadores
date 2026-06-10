@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2366,7 +2366,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  6,
-                                     "km":  157.41,
+                                     "km":  216.36,
                                      "tv":  235
                                  },
                                  {
@@ -2397,12 +2397,21 @@
                                      "tv":  361
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  21.01,
+                                     "tv":  379
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  48.67,
+                                     "km":  82.05,
                                      "tv":  306
                                  },
                                  {
@@ -2415,13 +2424,13 @@
                                      "tv":  284
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  15.82,
-                                     "tv":  343
+                                     "km":  107.14,
+                                     "tv":  431
                                  },
                                  {
                                      "nome":  "Castro",
@@ -2431,15 +2440,6 @@
                                      "pe":  2,
                                      "km":  47.03,
                                      "tv":  342
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  65.71,
-                                     "tv":  393
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2829,6 +2829,11 @@
                                        "n":  "Nelson",
                                        "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0
                                    }
                                ]
                    }
