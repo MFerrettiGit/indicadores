@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2352,6 +2352,24 @@
                                      "tv":  180
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  75.83,
+                                     "tv":  315
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  54.28,
+                                     "tv":  235
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2359,24 +2377,6 @@
                                      "pe":  5,
                                      "km":  91.92,
                                      "tv":  194
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  69.14,
-                                     "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  49.03,
-                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2506,6 +2506,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "MERCADO ELDORADO LTDA",
                                        "p":  1
@@ -2608,6 +2613,11 @@
                                    {
                                        "n":  "Sao Carlos",
                                        "r":  "FONSECA SUPERMERCADOS LTDA",
+                                       "p":  0
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  0
                                    },
                                    {

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,34 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  75.83,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "15:21",
+                     "tv":  "05:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  54.28,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:31",
+                     "ultimo":  "15:16",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -42,34 +70,6 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "13:00",
                      "tv":  "03:14:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  69.14,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "14:18",
-                     "tv":  "04:40:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  49.03,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:31",
-                     "ultimo":  "12:26",
-                     "tv":  "03:20:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -98,7 +98,7 @@ window.PAINEL = {
                      "primeiro":  "08:54",
                      "ultimo":  "15:01",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "12:20",
                      "tv":  "03:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -277,6 +277,15 @@ window.PAINEL = {
                          "out":  "14:18:55",
                          "km":  4.3,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "14:45:29",
+                         "out":  "15:21:09",
+                         "km":  6.69,
+                         "dur":  "00:35:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -466,6 +475,15 @@ window.PAINEL = {
                          "out":  "12:26:58",
                          "km":  1.46,
                          "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "ARARAQUARA",
+                         "in":  "14:40:31",
+                         "out":  "15:16:34",
+                         "km":  5.25,
+                         "dur":  "00:35:00"
                      },
                      {
                          "nome":  "Alan",
@@ -799,7 +817,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:57:34"
+                        "tempo":  "06:12:23"
                     },
                     {
                         "nome":  "Luis",
@@ -807,7 +825,7 @@ window.PAINEL = {
                         "obs":  "Rede Big Compras",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:56"
+                        "tempo":  "00:15:45"
                     }
                 ],
     "semped":  [
@@ -880,6 +898,12 @@ window.PAINEL = {
                    {
                        "nome":  "Sao Carlos",
                        "razao":  "FONSECA SUPERMERCADOS LTDA",
+                       "mun":  "ARARAQUARA",
+                       "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                        "mun":  "ARARAQUARA",
                        "obs":  "prospecção"
                    }
@@ -992,8 +1016,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     80,
-                     13
+                     82,
+                     14
                  ]
              ],
     "historico":  {
@@ -3329,7 +3353,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3350,6 +3374,24 @@ window.PAINEL = {
                                                        "tv":  180
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  75.83,
+                                                       "tv":  315
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  54.28,
+                                                       "tv":  235
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3357,24 +3399,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  91.92,
                                                        "tv":  194
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  69.14,
-                                                       "tv":  280
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  49.03,
-                                                       "tv":  200
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3504,6 +3528,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "MERCADO ELDORADO LTDA",
                                                          "p":  1
@@ -3606,6 +3635,11 @@ window.PAINEL = {
                                                      {
                                                          "n":  "Sao Carlos",
                                                          "r":  "FONSECA SUPERMERCADOS LTDA",
+                                                         "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  0
                                                      },
                                                      {
