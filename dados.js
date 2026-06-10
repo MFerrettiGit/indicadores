@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -891,6 +891,14 @@ window.PAINEL = {
                         "tempo":  "00:39:00"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Outro",
+                        "obs":  "acompanhando minha mãe no hospital",
+                        "inicio":  "09:12",
+                        "final":  "18:13",
+                        "tempo":  "09:00:17"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1065,14 +1073,6 @@ window.PAINEL = {
                         "inicio":  "16:44",
                         "final":  "17:51",
                         "tempo":  "01:06:54"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Outro",
-                        "obs":  "acompanhando minha mãe no hospital",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "08:57:38"
                     }
                 ],
     "semped":  [
@@ -3648,7 +3648,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
