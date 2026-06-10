@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2341,6 +2341,15 @@
                                      "pe":  0,
                                      "km":  17.38,
                                      "tv":  59
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  81.6,
+                                     "tv":  79
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2379,15 +2388,6 @@
                                      "tv":  91
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  61.59,
-                                     "tv":  32
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -2397,6 +2397,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  14.52,
+                                     "tv":  109
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -2404,15 +2413,6 @@
                                      "pe":  2,
                                      "km":  5.4,
                                      "tv":  91
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.6,
-                                     "tv":  69
                                  },
                                  {
                                      "nome":  "Castro",
@@ -2486,6 +2486,11 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO NOVA COMERCIAL.",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "FERNANDO PALMIERI",
                                        "p":  1
@@ -2509,6 +2514,11 @@
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "MERCADINHO YEDA LTDA-ME.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Castro",

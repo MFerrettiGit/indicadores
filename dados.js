@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  81.6,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:48",
+                     "ultimo":  "10:30",
+                     "tv":  "01:19:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -28,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "09:09",
                      "ultimo":  "10:20",
                      "tv":  "01:04:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:03",
                      "tv":  "02:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  61.59,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:48",
-                     "ultimo":  "09:21",
-                     "tv":  "00:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  14.52,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:04",
+                     "ultimo":  "10:29",
+                     "tv":  "01:49:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "10:00",
                      "tv":  "01:31:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  7.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:04",
-                     "ultimo":  "09:14",
-                     "tv":  "01:09:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "09:59",
                      "tv":  "01:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -243,6 +243,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO NOVA COMERCIAL.",
+                         "mun":  "JABOTICABAL",
+                         "in":  "09:42:19",
+                         "out":  "10:30:21",
+                         "km":  20.01,
+                         "dur":  "00:47:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
@@ -286,6 +295,15 @@ window.PAINEL = {
                          "out":  "09:14:31",
                          "km":  6.77,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MERCADINHO YEDA LTDA-ME.",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:49:09",
+                         "out":  "10:29:42",
+                         "km":  6.92,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Castro",
@@ -380,10 +398,16 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:11:58"
+                        "tempo":  "01:27:02"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Alan",
+                       "razao":  "MERCADINHO YEDA LTDA-ME.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "primeiro contato."
+                   },
                    {
                        "nome":  "Eduardo",
                        "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
@@ -505,8 +529,8 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     24,
-                     2
+                     26,
+                     3
                  ]
              ],
     "historico":  {
@@ -2842,7 +2866,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2852,6 +2876,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  17.38,
                                                        "tv":  59
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  81.6,
+                                                       "tv":  79
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -2890,15 +2923,6 @@ window.PAINEL = {
                                                        "tv":  91
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  61.59,
-                                                       "tv":  32
-                                                   },
-                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -2908,6 +2932,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  14.52,
+                                                       "tv":  109
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -2915,15 +2948,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  5.4,
                                                        "tv":  91
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  7.6,
-                                                       "tv":  69
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -2997,6 +3021,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO NOVA COMERCIAL.",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "FERNANDO PALMIERI",
                                                          "p":  1
@@ -3020,6 +3049,11 @@ window.PAINEL = {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "MERCADINHO YEDA LTDA-ME.",
+                                                         "p":  0
                                                      },
                                                      {
                                                          "n":  "Castro",
