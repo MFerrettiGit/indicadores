@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2343,6 +2343,15 @@
                                      "tv":  259
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  72.99,
+                                     "tv":  180
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2350,15 +2359,6 @@
                                      "pe":  5,
                                      "km":  88.06,
                                      "tv":  194
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  72.14,
-                                     "tv":  137
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2415,6 +2415,15 @@
                                      "tv":  222
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  27.36,
+                                     "tv":  207
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2449,15 +2458,6 @@
                                      "pe":  2,
                                      "km":  83.89,
                                      "tv":  53
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  26.61,
-                                     "tv":  164
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -2546,6 +2546,11 @@
                                        "p":  0
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FERNANDO PALMIERI",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER FAUNA VAREJISTA LTDA",
                                        "p":  1
@@ -2614,6 +2619,11 @@
                                        "n":  "Cominato",
                                        "r":  "PANSERINI",
                                        "p":  1
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  0
                                    },
                                    {
                                        "n":  "Karina",
