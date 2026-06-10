@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "13:00",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "14:23",
                      "tv":  "03:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -141,7 +141,7 @@ window.PAINEL = {
                      "ultimo":  "13:01",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -613,6 +613,14 @@ window.PAINEL = {
                         "tempo":  "01:01:25"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:31",
+                        "final":  "14:30",
+                        "tempo":  "00:58:57"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -677,6 +685,14 @@ window.PAINEL = {
                         "tempo":  "00:38:25"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:26",
+                        "final":  "14:32",
+                        "tempo":  "01:05:42"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -722,23 +738,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:12:15"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:20"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:12"
+                        "tempo":  "05:27:16"
                     },
                     {
                         "nome":  "Luis",
@@ -746,7 +746,15 @@ window.PAINEL = {
                         "obs":  "Guará a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:10"
+                        "tempo":  "00:49:11"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Charqueada  a São Pedro",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:53"
                     }
                 ],
     "semped":  [
@@ -919,7 +927,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     73,
+                     74,
                      11
                  ]
              ],
@@ -3256,7 +3264,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
