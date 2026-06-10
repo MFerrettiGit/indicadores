@@ -2331,7 +2331,7 @@
                                ]
                    },
     "2026-06-10":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2346,19 +2346,28 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  81.6,
-                                     "tv":  79
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  83.95,
+                                     "tv":  99
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  69.66,
+                                     "tv":  97
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  68.48,
-                                     "tv":  64
+                                     "km":  44.41,
+                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Costa",
@@ -2379,22 +2388,13 @@
                                      "tv":  85
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.58,
-                                     "tv":  91
-                                 },
-                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  4.26,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  38,
+                                     "tv":  124
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2491,6 +2491,16 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ROGER",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "FERNANDO PALMIERI",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "FERNANDO PALMIERI",
                                        "p":  1
@@ -2506,8 +2516,18 @@
                                        "p":  1
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                       "p":  1
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
+                                       "p":  1
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
                                        "p":  1
                                    },
                                    {

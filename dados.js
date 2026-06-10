@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,28 +21,42 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  81.6,
+                     "visitas":  3,
+                     "km":  83.95,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:48",
-                     "ultimo":  "10:30",
-                     "tv":  "01:19:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:00",
+                     "tv":  "01:39:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  68.48,
+                     "visitas":  3,
+                     "km":  69.66,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:09",
-                     "ultimo":  "10:20",
-                     "tv":  "01:04:00",
+                     "ultimo":  "10:59",
+                     "tv":  "01:37:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  44.41,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:31",
+                     "ultimo":  "11:01",
+                     "tv":  "02:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -74,30 +88,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  40.58,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:31",
-                     "ultimo":  "10:03",
-                     "tv":  "01:31:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  4.26,
+                     "visitas":  1,
+                     "km":  38,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:54",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "10:58",
+                     "tv":  "02:04:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:46",
                      "tv":  "02:44:00",
-                     "emVisita":  1,
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -252,6 +252,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "ROGER",
+                         "mun":  "JABOTICABAL",
+                         "in":  "10:39:11",
+                         "out":  "11:00:05",
+                         "km":  2.35,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
@@ -270,6 +279,15 @@ window.PAINEL = {
                          "dur":  "00:38:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "FERNANDO PALMIERI",
+                         "mun":  "GUARA",
+                         "in":  "10:25:55",
+                         "out":  "10:59:23",
+                         "km":  1.18,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPER FAUNA VAREJISTA LTDA",
                          "mun":  "LIMEIRA",
@@ -279,6 +297,15 @@ window.PAINEL = {
                          "dur":  "01:25:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "08:54:26",
+                         "out":  "10:58:40",
+                         "km":  33.74,
+                         "dur":  "02:04:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
@@ -286,6 +313,15 @@ window.PAINEL = {
                          "out":  "10:03:27",
                          "km":  38.53,
                          "dur":  "01:31:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
+                         "mun":  "ARARAQUARA",
+                         "in":  "10:20:30",
+                         "out":  "11:01:42",
+                         "km":  3.83,
+                         "dur":  "00:41:00"
                      },
                      {
                          "nome":  "Alan",
@@ -416,7 +452,7 @@ window.PAINEL = {
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:42:03"
+                        "tempo":  "01:57:01"
                     }
                 ],
     "semped":  [
@@ -547,7 +583,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     28,
+                     33,
                      3
                  ]
              ],
@@ -2884,7 +2920,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2899,19 +2935,28 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  81.6,
-                                                       "tv":  79
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  83.95,
+                                                       "tv":  99
                                                    },
                                                    {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  69.66,
+                                                       "tv":  97
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  68.48,
-                                                       "tv":  64
+                                                       "km":  44.41,
+                                                       "tv":  132
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2932,22 +2977,13 @@ window.PAINEL = {
                                                        "tv":  85
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  40.58,
-                                                       "tv":  91
-                                                   },
-                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.26,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  38,
+                                                       "tv":  124
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -3044,6 +3080,16 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "ROGER",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "FERNANDO PALMIERI",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "FERNANDO PALMIERI",
                                                          "p":  1
@@ -3059,8 +3105,18 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
+                                                         "p":  1
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
                                                          "p":  1
                                                      },
                                                      {
