@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "10/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  "08:44",
                      "tv":  "00:59:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  68.48,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:09",
+                     "ultimo":  "10:20",
+                     "tv":  "01:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "10:03",
                      "tv":  "01:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "09:21",
                      "tv":  "00:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  67.26,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:09",
-                     "ultimo":  "09:35",
-                     "tv":  "00:26:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  4.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:57",
+                     "ultimo":  "10:23",
+                     "tv":  "01:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:57",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -193,11 +193,11 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "10:10",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -252,6 +252,15 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "FERNANDO PALMIERI",
+                         "mun":  "GUARA",
+                         "in":  "09:42:17",
+                         "out":  "10:20:25",
+                         "km":  1.22,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPER FAUNA VAREJISTA LTDA",
                          "mun":  "LIMEIRA",
@@ -286,6 +295,15 @@ window.PAINEL = {
                          "out":  "08:32:28",
                          "km":  16.16,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "GOOD MERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "08:57:42",
+                         "out":  "10:23:52",
+                         "km":  4.29,
+                         "dur":  "01:26:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -341,6 +359,14 @@ window.PAINEL = {
                         "tempo":  "00:38:25"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Em Viagem",
+                        "obs":  "campos do Jordão",
+                        "inicio":  "07:46",
+                        "final":  "10:09",
+                        "tempo":  "02:23:44"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Araraquara",
@@ -349,20 +375,12 @@ window.PAINEL = {
                         "tempo":  "00:59:45"
                     },
                     {
-                        "nome":  "Mariangela",
-                        "tipo":  "Em Viagem",
-                        "obs":  "campos do Jordão",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:23:36"
-                    },
-                    {
                         "nome":  "Eugenio",
                         "tipo":  "Outro",
                         "obs":  "acompanhando minha mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:56:56"
+                        "tempo":  "01:11:58"
                     }
                 ],
     "semped":  [
@@ -487,7 +505,7 @@ window.PAINEL = {
                  ],
                  [
                      "10/06",
-                     21,
+                     24,
                      2
                  ]
              ],
@@ -2824,7 +2842,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-10":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -2834,6 +2852,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  17.38,
                                                        "tv":  59
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  68.48,
+                                                       "tv":  64
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -2870,15 +2897,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  61.59,
                                                        "tv":  32
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  67.26,
-                                                       "tv":  26
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -2926,21 +2944,21 @@ window.PAINEL = {
                                                        "tv":  73
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.29,
+                                                       "tv":  86
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  3.15,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -2984,6 +3002,11 @@ window.PAINEL = {
                                                          "p":  1
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "FERNANDO PALMIERI",
+                                                         "p":  1
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPER FAUNA VAREJISTA LTDA",
                                                          "p":  1
@@ -3002,6 +3025,11 @@ window.PAINEL = {
                                                          "n":  "Castro",
                                                          "r":  "SUPER BELO SUPERMERCADO LTDA",
                                                          "p":  0
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "GOOD MERCADO LTDA",
+                                                         "p":  1
                                                      },
                                                      {
                                                          "n":  "Lucas",
