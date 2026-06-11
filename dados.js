@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -74,6 +74,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  10.2,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:09",
+                     "ultimo":  "17:24",
+                     "tv":  "06:10:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -84,20 +98,6 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "17:07",
                      "tv":  "07:05:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  7.12,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:09",
-                     "ultimo":  "16:09",
-                     "tv":  "05:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -105,13 +105,13 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  10,
-                     "km":  252.48,
+                     "visitas":  11,
+                     "km":  252.99,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
-                     "ultimo":  "16:52",
-                     "tv":  "04:46:00",
+                     "ultimo":  "17:12",
+                     "tv":  "05:02:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "16:53",
                      "tv":  "05:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "17:00",
                      "tv":  "06:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -486,6 +486,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JADE CAROLINE CONFELLA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:40:48",
+                         "out":  "17:24:14",
+                         "km":  3.08,
+                         "dur":  "00:43:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "C CARVALHO MERCADO",
                          "mun":  "CAMPINAS",
@@ -690,6 +699,15 @@ window.PAINEL = {
                          "in":  "16:35:51",
                          "out":  "16:52:08",
                          "km":  0,
+                         "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "JOSE ARIMATEIA DE OLIVEIRA-ME.",
+                         "mun":  "LAGOINHA",
+                         "in":  "16:56:00",
+                         "out":  "17:12:10",
+                         "km":  0.51,
                          "dur":  "00:16:00"
                      },
                      {
@@ -1063,7 +1081,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:02"
+                        "tempo":  "01:29:53"
                     },
                     {
                         "nome":  "Maira",
@@ -1071,7 +1089,7 @@ window.PAINEL = {
                         "obs":  "pedido Fauna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:44"
+                        "tempo":  "01:16:35"
                     },
                     {
                         "nome":  "Cominato",
@@ -1079,7 +1097,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido Scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:58"
+                        "tempo":  "00:49:49"
                     },
                     {
                         "nome":  "Rachel",
@@ -1087,7 +1105,7 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:14"
+                        "tempo":  "00:25:05"
                     }
                 ],
     "semped":  [
@@ -1210,6 +1228,12 @@ window.PAINEL = {
                        "razao":  "MERCEARIA 3M LTDA",
                        "mun":  "SAO CARLOS",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "JADE CAROLINE CONFELLA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "hist":  [
@@ -1320,8 +1344,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     115,
-                     22
+                     118,
+                     23
                  ]
              ],
     "historico":  {
@@ -4164,7 +4188,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4212,6 +4236,15 @@ window.PAINEL = {
                                                        "tv":  211
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  10.2,
+                                                       "tv":  370
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -4221,22 +4254,13 @@ window.PAINEL = {
                                                        "tv":  425
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  7.12,
-                                                       "tv":  327
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  10,
-                                                       "pe":  10,
-                                                       "km":  252.48,
-                                                       "tv":  286
+                                                       "vi":  11,
+                                                       "pe":  11,
+                                                       "km":  252.99,
+                                                       "tv":  302
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4514,6 +4538,13 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "JADE CAROLINE CONFELLA",
+                                                         "p":  0,
+                                                         "km":  3.08,
+                                                         "tv":  43
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "C CARVALHO MERCADO",
                                                          "p":  0,
@@ -4672,6 +4703,13 @@ window.PAINEL = {
                                                          "r":  "MINIMERCADO ANACLETO LAGOINHA LTDA",
                                                          "p":  1,
                                                          "km":  0,
+                                                         "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "JOSE ARIMATEIA DE OLIVEIRA-ME.",
+                                                         "p":  1,
+                                                         "km":  0.51,
                                                          "tv":  16
                                                      },
                                                      {

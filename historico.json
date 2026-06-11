@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2886,6 +2886,15 @@
                                      "tv":  211
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  10.2,
+                                     "tv":  370
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -2895,22 +2904,13 @@
                                      "tv":  425
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  7.12,
-                                     "tv":  327
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  10,
-                                     "pe":  10,
-                                     "km":  252.48,
-                                     "tv":  286
+                                     "vi":  11,
+                                     "pe":  11,
+                                     "km":  252.99,
+                                     "tv":  302
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3188,6 +3188,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JADE CAROLINE CONFELLA",
+                                       "p":  0,
+                                       "km":  3.08,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "C CARVALHO MERCADO",
                                        "p":  0,
@@ -3346,6 +3353,13 @@
                                        "r":  "MINIMERCADO ANACLETO LAGOINHA LTDA",
                                        "p":  1,
                                        "km":  0,
+                                       "tv":  16
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "JOSE ARIMATEIA DE OLIVEIRA-ME.",
+                                       "p":  1,
+                                       "km":  0.51,
                                        "tv":  16
                                    },
                                    {
