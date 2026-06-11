@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -50,13 +50,27 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  1,
-                     "km":  28.27,
+                     "km":  28.99,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:14",
                      "ultimo":  "09:09",
                      "tv":  "00:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  23.85,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:39",
+                     "ultimo":  "09:11",
+                     "tv":  "00:31:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -88,20 +102,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:39",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  7.28,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "09:18",
+                     "tv":  "01:12:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -126,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "09:04",
                      "tv":  "00:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  7.28,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:06",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -225,6 +225,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "COMERCIAL 3D LTDA",
+                         "mun":  "PATROCINIO PAUL",
+                         "in":  "08:39:31",
+                         "out":  "09:11:17",
+                         "km":  23.85,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
@@ -259,6 +268,15 @@ window.PAINEL = {
                          "out":  "08:41:18",
                          "km":  22.24,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "EMPORIUM LEAO SANTA RITA LTDA",
+                         "mun":  "APARECIDA",
+                         "in":  "08:06:38",
+                         "out":  "09:18:53",
+                         "km":  0,
+                         "dur":  "01:12:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -301,7 +319,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:17:48"
+                        "tempo":  "01:32:44"
                     },
                     {
                         "nome":  "Maira",
@@ -309,7 +327,7 @@ window.PAINEL = {
                         "obs":  "limeira",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:02"
+                        "tempo":  "00:26:58"
                     }
                 ],
     "semped":  [
@@ -324,6 +342,12 @@ window.PAINEL = {
                        "razao":  "C CARVALHO MERCADO",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de pedido"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "COMERCIAL 3D LTDA",
+                       "mun":  "PATROCINIO PAUL",
+                       "obs":  "visita de rotina"
                    },
                    {
                        "nome":  "Nelson",
@@ -440,8 +464,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     11,
-                     3
+                     15,
+                     4
                  ]
              ],
     "historico":  {
@@ -3284,7 +3308,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3319,8 +3343,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  28.27,
+                                                       "km":  28.99,
                                                        "tv":  54
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  23.85,
+                                                       "tv":  31
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3341,15 +3374,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3357,6 +3381,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  10.75,
                                                        "tv":  37
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  7.28,
+                                                       "tv":  72
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -3395,15 +3428,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  7.28,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -3429,6 +3453,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.45,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "COMERCIAL 3D LTDA",
+                                                         "p":  0,
+                                                         "km":  23.85,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -3457,6 +3488,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.24,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "EMPORIUM LEAO SANTA RITA LTDA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  72
                                                      },
                                                      {
                                                          "n":  "Nelson",

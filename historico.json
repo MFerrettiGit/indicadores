@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2873,8 +2873,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  28.27,
+                                     "km":  28.99,
                                      "tv":  54
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  23.85,
+                                     "tv":  31
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2895,15 +2904,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2911,6 +2911,15 @@
                                      "pe":  0,
                                      "km":  10.75,
                                      "tv":  37
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.28,
+                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2949,15 +2958,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  7.28,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -2983,6 +2983,13 @@
                                        "p":  1,
                                        "km":  0.45,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "COMERCIAL 3D LTDA",
+                                       "p":  0,
+                                       "km":  23.85,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Maira",
@@ -3011,6 +3018,13 @@
                                        "p":  1,
                                        "km":  22.24,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "EMPORIUM LEAO SANTA RITA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  72
                                    },
                                    {
                                        "n":  "Nelson",
