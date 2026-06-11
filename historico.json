@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2855,7 +2855,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  163.02,
+                                     "km":  172.82,
                                      "tv":  313
                                  },
                                  {
@@ -2891,7 +2891,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  56.98,
+                                     "km":  59.34,
                                      "tv":  211
                                  },
                                  {
@@ -2934,10 +2934,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  35.95,
-                                     "tv":  403
+                                     "km":  37.43,
+                                     "tv":  433
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  15.3,
+                                     "tv":  463
                                  },
                                  {
                                      "nome":  "Castro",
@@ -2956,15 +2965,6 @@
                                      "pe":  0,
                                      "km":  170.18,
                                      "tv":  262
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  13.79,
-                                     "tv":  273
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -3237,6 +3237,13 @@
                                        "tv":  181
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                                       "p":  0,
+                                       "km":  1.48,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "PIRANA - AUTO SERVICO LTDA.",
                                        "p":  1,
@@ -3405,6 +3412,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  1.51,
+                                       "tv":  190
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                        "p":  1,
@@ -3515,6 +3529,13 @@
                                        "p":  0,
                                        "km":  0.64,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                                       "p":  1,
+                                       "km":  4.3,
+                                       "tv":  45
                                    }
                                ]
                    }

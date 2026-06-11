@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -22,7 +22,7 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  163.02,
+                     "km":  172.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:09",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "16:02",
                      "tv":  "04:39:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -78,7 +78,7 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  56.98,
+                     "km":  59.34,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:39",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "17:40",
                      "tv":  "05:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -147,14 +147,28 @@ window.PAINEL = {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  35.95,
-                     "semPed":  1,
-                     "perc":  25,
+                     "visitas":  5,
+                     "km":  37.43,
+                     "semPed":  2,
+                     "perc":  40,
                      "primeiro":  "08:02",
-                     "ultimo":  "17:00",
-                     "tv":  "06:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:49",
+                     "tv":  "07:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  15.3,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:05",
+                     "ultimo":  "17:50",
+                     "tv":  "07:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -184,20 +198,6 @@ window.PAINEL = {
                      "tv":  "04:22:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  13.79,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:05",
-                     "ultimo":  "14:32",
-                     "tv":  "04:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -549,6 +549,15 @@ window.PAINEL = {
                          "dur":  "03:01:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "17:18:28",
+                         "out":  "17:49:15",
+                         "km":  1.48,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
@@ -765,6 +774,15 @@ window.PAINEL = {
                          "dur":  "00:57:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "CATO ANTONIALE",
+                         "mun":  "INDAIATUBA",
+                         "in":  "14:38:36",
+                         "out":  "17:50:00",
+                         "km":  1.51,
+                         "dur":  "03:10:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EMPORIUM LEAO SANTA RITA LTDA",
                          "mun":  "APARECIDA",
@@ -907,6 +925,15 @@ window.PAINEL = {
                          "out":  "16:53:53",
                          "km":  0.64,
                          "dur":  "00:29:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                         "mun":  "ITAPETININGA",
+                         "in":  "17:10:16",
+                         "out":  "17:55:22",
+                         "km":  4.3,
+                         "dur":  "00:45:00"
                      }
                  ],
     "eventos":  [
@@ -925,6 +952,14 @@ window.PAINEL = {
                         "inicio":  "12:51",
                         "final":  "13:51",
                         "tempo":  "00:59:36"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedido Fauna",
+                        "inicio":  "16:09",
+                        "final":  "17:43",
+                        "tempo":  "01:33:50"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1071,6 +1106,14 @@ window.PAINEL = {
                         "tempo":  "01:00:34"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido Scoton",
+                        "inicio":  "16:36",
+                        "final":  "17:54",
+                        "tempo":  "01:17:55"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1108,23 +1151,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:46:46"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "pedido Fauna",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:33:28"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Digitar pedido Scoton",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:06:42"
+                        "tempo":  "01:59:05"
                     },
                     {
                         "nome":  "Rachel",
@@ -1132,7 +1159,15 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:58"
+                        "tempo":  "00:54:17"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:24"
                     }
                 ],
     "semped":  [
@@ -1159,6 +1194,12 @@ window.PAINEL = {
                        "razao":  "C CARVALHO MERCADO",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de pedido"
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "levantamento de pedido"
                    },
                    {
                        "nome":  "Eduardo",
@@ -1377,8 +1418,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     121,
-                     24
+                     123,
+                     25
                  ]
              ],
     "historico":  {
@@ -4221,7 +4262,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4238,7 +4279,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  163.02,
+                                                       "km":  172.82,
                                                        "tv":  313
                                                    },
                                                    {
@@ -4274,7 +4315,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  56.98,
+                                                       "km":  59.34,
                                                        "tv":  211
                                                    },
                                                    {
@@ -4317,10 +4358,19 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  3,
-                                                       "km":  35.95,
-                                                       "tv":  403
+                                                       "km":  37.43,
+                                                       "tv":  433
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  15.3,
+                                                       "tv":  463
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4339,15 +4389,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  170.18,
                                                        "tv":  262
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  13.79,
-                                                       "tv":  273
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4620,6 +4661,13 @@ window.PAINEL = {
                                                          "tv":  181
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  1.48,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "PIRANA - AUTO SERVICO LTDA.",
                                                          "p":  1,
@@ -4788,6 +4836,13 @@ window.PAINEL = {
                                                          "tv":  57
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "CATO ANTONIALE",
+                                                         "p":  1,
+                                                         "km":  1.51,
+                                                         "tv":  190
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                                          "p":  1,
@@ -4898,6 +4953,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.64,
                                                          "tv":  29
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                                                         "p":  1,
+                                                         "km":  4.3,
+                                                         "tv":  45
                                                      }
                                                  ]
                                      }
