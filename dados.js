@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -22,14 +22,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  52.33,
+                     "km":  67.4,
                      "semPed":  3,
                      "perc":  50,
                      "primeiro":  "08:14",
                      "ultimo":  "14:56",
                      "tv":  "03:39:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "15:19",
                      "tv":  "03:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "11:30",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -98,7 +98,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "14:53",
                      "tv":  "05:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -119,13 +119,13 @@ window.PAINEL = {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  20.37,
+                     "visitas":  7,
+                     "km":  23.38,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
-                     "ultimo":  "14:30",
-                     "tv":  "04:44:00",
+                     "ultimo":  "15:43",
+                     "tv":  "05:06:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -203,14 +203,14 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  8.3,
+                     "visitas":  2,
+                     "km":  21.17,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "10:02",
-                     "ultimo":  "12:12",
-                     "tv":  "02:10:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:40",
+                     "tv":  "03:32:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -522,6 +522,15 @@ window.PAINEL = {
                          "dur":  "02:10:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "14:17:25",
+                         "out":  "15:40:20",
+                         "km":  12.49,
+                         "dur":  "01:22:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "JAQUELINE ANDRADE PIAO",
                          "mun":  "REDENCAO DA SER",
@@ -675,6 +684,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "RECOBASE COMERCIAL LTDA",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "15:20:20",
+                         "out":  "15:43:01",
+                         "km":  3.01,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
@@ -790,8 +808,16 @@ window.PAINEL = {
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
                         "inicio":  "11:55",
-                        "final":  "12:54",
-                        "tempo":  "00:59:18"
+                        "final":  "15:52",
+                        "tempo":  "03:57:07"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "uniao posse",
+                        "inicio":  "15:16",
+                        "final":  "15:52",
+                        "tempo":  "00:36:26"
                     },
                     {
                         "nome":  "Luis",
@@ -816,6 +842,14 @@ window.PAINEL = {
                         "inicio":  "12:01",
                         "final":  "13:03",
                         "tempo":  "01:02:05"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "manutenção do Radiador do carro",
+                        "inicio":  "13:21",
+                        "final":  "15:49",
+                        "tempo":  "02:28:23"
                     },
                     {
                         "nome":  "Lucas",
@@ -888,22 +922,6 @@ window.PAINEL = {
                         "inicio":  "12:26",
                         "final":  "13:25",
                         "tempo":  "00:58:37"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "manutenção do Radiador do carro",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:18:56"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "uniao posse",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:24:01"
                     }
                 ],
     "semped":  [
@@ -1088,7 +1106,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     92,
+                     95,
                      13
                  ]
              ],
@@ -3932,7 +3950,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3949,7 +3967,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  3,
-                                                       "km":  52.33,
+                                                       "km":  67.4,
                                                        "tv":  219
                                                    },
                                                    {
@@ -4010,10 +4028,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  20.37,
-                                                       "tv":  284
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  23.38,
+                                                       "tv":  306
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -4064,10 +4082,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  8.3,
-                                                       "tv":  130
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  21.17,
+                                                       "tv":  212
                                                    }
                                                ],
                                          "cli":  [
@@ -4310,6 +4328,13 @@ window.PAINEL = {
                                                          "tv":  130
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  12.49,
+                                                         "tv":  82
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "JAQUELINE ANDRADE PIAO",
                                                          "p":  1,
@@ -4427,6 +4452,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.1,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "RECOBASE COMERCIAL LTDA",
+                                                         "p":  1,
+                                                         "km":  3.01,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Nelson",

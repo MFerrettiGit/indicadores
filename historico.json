@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2855,7 +2855,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  3,
-                                     "km":  52.33,
+                                     "km":  67.4,
                                      "tv":  219
                                  },
                                  {
@@ -2916,10 +2916,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  20.37,
-                                     "tv":  284
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  23.38,
+                                     "tv":  306
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2970,10 +2970,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  8.3,
-                                     "tv":  130
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  21.17,
+                                     "tv":  212
                                  }
                              ],
                        "cli":  [
@@ -3216,6 +3216,13 @@
                                        "tv":  130
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  12.49,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "JAQUELINE ANDRADE PIAO",
                                        "p":  1,
@@ -3333,6 +3340,13 @@
                                        "p":  1,
                                        "km":  1.1,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "RECOBASE COMERCIAL LTDA",
+                                       "p":  1,
+                                       "km":  3.01,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Nelson",
