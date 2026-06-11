@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2922,6 +2922,15 @@
                                      "tv":  265
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  8.52,
+                                     "tv":  222
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2929,15 +2938,6 @@
                                      "pe":  2,
                                      "km":  24.23,
                                      "tv":  222
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  5.28,
-                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3277,6 +3277,13 @@
                                        "p":  1,
                                        "km":  1.2,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
+                                       "p":  1,
+                                       "km":  3.24,
+                                       "tv":  48
                                    }
                                ]
                    }

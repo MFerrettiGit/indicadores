@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "14:00",
                      "tv":  "03:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,8 +126,22 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "13:08",
                      "tv":  "04:25:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  8.52,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:13",
+                     "ultimo":  "14:19",
+                     "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -144,20 +158,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  5.28,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:13",
-                     "ultimo":  "11:21",
-                     "tv":  "02:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "14:03",
                      "tv":  "01:04:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "10:02",
                      "ultimo":  "12:12",
                      "tv":  "02:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -601,6 +601,15 @@ window.PAINEL = {
                          "out":  "11:21:56",
                          "km":  1.2,
                          "dur":  "00:55:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
+                         "mun":  "ITAPETININGA",
+                         "in":  "13:30:03",
+                         "out":  "14:19:06",
+                         "km":  3.24,
+                         "dur":  "00:48:00"
                      }
                  ],
     "eventos":  [
@@ -778,7 +787,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:46"
+                        "tempo":  "01:03:44"
                     }
                 ],
     "semped":  [
@@ -945,7 +954,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     70,
+                     72,
                      10
                  ]
              ],
@@ -3789,7 +3798,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3873,6 +3882,15 @@ window.PAINEL = {
                                                        "tv":  265
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  8.52,
+                                                       "tv":  222
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3880,15 +3898,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  24.23,
                                                        "tv":  222
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  5.28,
-                                                       "tv":  174
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4228,6 +4237,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.2,
                                                          "tv":  55
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
+                                                         "p":  1,
+                                                         "km":  3.24,
+                                                         "tv":  48
                                                      }
                                                  ]
                                      }
