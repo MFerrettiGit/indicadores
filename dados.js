@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -11,9 +11,23 @@ window.PAINEL = {
                      "km":  8.29,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "14:04",
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  49.23,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:14",
+                     "ultimo":  "14:00",
+                     "tv":  "03:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -29,20 +43,6 @@ window.PAINEL = {
                      "ultimo":  "12:59",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  47.55,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:14",
-                     "ultimo":  "11:45",
-                     "tv":  "02:39:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -84,8 +84,8 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "13:03",
                      "tv":  "04:37:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "12:14",
                      "tv":  "03:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  42.43,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "14:03",
+                     "tv":  "01:04:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "11:48",
                      "tv":  "03:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  42.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "13:42",
-                     "tv":  "00:44:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -369,6 +369,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "COMERCIAL REMAFRA LTDA.",
+                         "mun":  "HOLAMBRA",
+                         "in":  "13:39:46",
+                         "out":  "14:00:50",
+                         "km":  1.68,
+                         "dur":  "00:21:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
@@ -421,6 +430,15 @@ window.PAINEL = {
                          "out":  "13:42:48",
                          "km":  20.19,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MERCADO UNIAO",
+                         "mun":  "ITUPEVA",
+                         "in":  "13:43:51",
+                         "out":  "14:03:56",
+                         "km":  0,
+                         "dur":  "00:20:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -723,6 +741,30 @@ window.PAINEL = {
                         "tempo":  "01:00:34"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:01",
+                        "final":  "14:04",
+                        "tempo":  "01:02:28"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:06",
+                        "final":  "14:06",
+                        "tempo":  "01:00:03"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:09",
+                        "final":  "14:09",
+                        "tempo":  "01:00:33"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -731,36 +773,12 @@ window.PAINEL = {
                         "tempo":  "00:58:37"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:03"
-                    },
-                    {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:43"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:32"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Outro",
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:40"
+                        "tempo":  "00:48:46"
                     }
                 ],
     "semped":  [
@@ -787,6 +805,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                        "mun":  "HOLAMBRA",
                        "obs":  "cliente nao.quis fazer compra essa semana"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "COMERCIAL REMAFRA LTDA.",
+                       "mun":  "HOLAMBRA",
+                       "obs":  "reagendado para terca"
                    },
                    {
                        "nome":  "Luis",
@@ -921,8 +945,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     68,
-                     9
+                     70,
+                     10
                  ]
              ],
     "historico":  {
@@ -3765,7 +3789,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3777,6 +3801,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  49.23,
+                                                       "tv":  180
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3784,15 +3817,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  112.29,
                                                        "tv":  186
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  47.55,
-                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3867,6 +3891,15 @@ window.PAINEL = {
                                                        "tv":  174
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  42.43,
+                                                       "tv":  64
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -3874,15 +3907,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  9.54,
                                                        "tv":  216
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  42.43,
-                                                       "tv":  44
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4024,6 +4048,13 @@ window.PAINEL = {
                                                          "tv":  19
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "COMERCIAL REMAFRA LTDA.",
+                                                         "p":  0,
+                                                         "km":  1.68,
+                                                         "tv":  21
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "COGEB SUPERMERCADOS LTDA.",
                                                          "p":  0,
@@ -4064,6 +4095,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  20.19,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "MERCADO UNIAO",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Cominato",

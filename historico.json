@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2850,6 +2850,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  49.23,
+                                     "tv":  180
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2857,15 +2866,6 @@
                                      "pe":  4,
                                      "km":  112.29,
                                      "tv":  186
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  47.55,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2940,6 +2940,15 @@
                                      "tv":  174
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  42.43,
+                                     "tv":  64
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -2947,15 +2956,6 @@
                                      "pe":  2,
                                      "km":  9.54,
                                      "tv":  216
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  42.43,
-                                     "tv":  44
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3097,6 +3097,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "COMERCIAL REMAFRA LTDA.",
+                                       "p":  0,
+                                       "km":  1.68,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "COGEB SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -3137,6 +3144,13 @@
                                        "p":  1,
                                        "km":  20.19,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO UNIAO",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Cominato",
