@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,6 +29,20 @@ window.PAINEL = {
                      "ultimo":  "14:56",
                      "tv":  "03:39:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  61.65,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:08",
+                     "ultimo":  "16:02",
+                     "tv":  "04:39:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -46,20 +60,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  54.43,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:08",
-                     "ultimo":  "14:27",
-                     "tv":  "03:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -70,6 +70,20 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "11:30",
                      "tv":  "02:24:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  5.26,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:09",
+                     "ultimo":  "16:09",
+                     "tv":  "05:27:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -88,20 +102,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  3.14,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:09",
-                     "ultimo":  "14:53",
-                     "tv":  "05:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "15:36",
                      "tv":  "04:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -133,13 +133,13 @@ window.PAINEL = {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  11.69,
-                     "semPed":  1,
-                     "perc":  20,
+                     "visitas":  6,
+                     "km":  14.49,
+                     "semPed":  2,
+                     "perc":  33.33,
                      "primeiro":  "08:13",
-                     "ultimo":  "15:15",
-                     "tv":  "04:22:00",
+                     "ultimo":  "16:01",
+                     "tv":  "05:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "14:32",
                      "tv":  "01:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "15:40",
                      "tv":  "03:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -360,6 +360,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                         "mun":  "LIMEIRA",
+                         "in":  "14:59:49",
+                         "out":  "16:02:53",
+                         "km":  7.22,
+                         "dur":  "01:02:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                          "mun":  "SANTO ANTONIO D",
@@ -430,6 +439,15 @@ window.PAINEL = {
                          "out":  "14:53:12",
                          "km":  0.37,
                          "dur":  "01:08:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MERCEARIA 3M LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:51:57",
+                         "out":  "16:09:05",
+                         "km":  2.12,
+                         "dur":  "00:17:00"
                      },
                      {
                          "nome":  "Alan",
@@ -736,6 +754,15 @@ window.PAINEL = {
                          "out":  "15:15:14",
                          "km":  3.17,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:21:50",
+                         "out":  "16:01:07",
+                         "km":  2.8,
+                         "dur":  "00:39:00"
                      }
                  ],
     "eventos":  [
@@ -922,6 +949,30 @@ window.PAINEL = {
                         "inicio":  "12:26",
                         "final":  "13:25",
                         "tempo":  "00:58:37"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Outro",
+                        "obs":  "acompanhando mãe no hospital",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:47"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:46"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedido Fauna",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:29"
                     }
                 ],
     "semped":  [
@@ -930,6 +981,12 @@ window.PAINEL = {
                        "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador não conseguiu atender( remarcou)"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                       "mun":  "LIMEIRA",
+                       "obs":  "."
                    },
                    {
                        "nome":  "Eugenio",
@@ -974,6 +1031,12 @@ window.PAINEL = {
                        "obs":  "cliente estocado"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "MESQUITA M",
                        "mun":  "JUNDIAI",
@@ -992,10 +1055,22 @@ window.PAINEL = {
                        "obs":  "Tentativa de falar com comprador"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "N N NASTARO LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Tentativa de falar com comprador"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "COGEB SUPERMERCADOS LTDA.",
                        "mun":  "SAO CARLOS",
                        "obs":  "apresentação de farnese cloy"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "MERCEARIA 3M LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "hist":  [
@@ -1106,8 +1181,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     95,
-                     13
+                     100,
+                     17
                  ]
              ],
     "historico":  {
@@ -3950,7 +4025,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3971,6 +4046,15 @@ window.PAINEL = {
                                                        "tv":  219
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  61.65,
+                                                       "tv":  279
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3978,15 +4062,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  113.37,
                                                        "tv":  236
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  54.43,
-                                                       "tv":  217
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3998,6 +4073,15 @@ window.PAINEL = {
                                                        "tv":  144
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  5.26,
+                                                       "tv":  327
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -4005,15 +4089,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  62.69,
                                                        "tv":  322
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  3.14,
-                                                       "tv":  310
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -4037,10 +4112,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  4,
-                                                       "km":  11.69,
-                                                       "tv":  262
+                                                       "km":  14.49,
+                                                       "tv":  301
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4202,6 +4277,13 @@ window.PAINEL = {
                                                          "tv":  32
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                                         "p":  0,
+                                                         "km":  7.22,
+                                                         "tv":  62
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                                                          "p":  1,
@@ -4256,6 +4338,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.37,
                                                          "tv":  68
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MERCEARIA 3M LTDA",
+                                                         "p":  0,
+                                                         "km":  2.12,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -4494,6 +4583,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.17,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
+                                                         "p":  0,
+                                                         "km":  2.8,
+                                                         "tv":  39
                                                      }
                                                  ]
                                      }

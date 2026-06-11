@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2859,6 +2859,15 @@
                                      "tv":  219
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  61.65,
+                                     "tv":  279
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2866,15 +2875,6 @@
                                      "pe":  5,
                                      "km":  113.37,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  54.43,
-                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2886,6 +2886,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  5.26,
+                                     "tv":  327
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -2893,15 +2902,6 @@
                                      "pe":  3,
                                      "km":  62.69,
                                      "tv":  322
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  3.14,
-                                     "tv":  310
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2925,10 +2925,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  4,
-                                     "km":  11.69,
-                                     "tv":  262
+                                     "km":  14.49,
+                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3090,6 +3090,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                       "p":  0,
+                                       "km":  7.22,
+                                       "tv":  62
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                                        "p":  1,
@@ -3144,6 +3151,13 @@
                                        "p":  1,
                                        "km":  0.37,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCEARIA 3M LTDA",
+                                       "p":  0,
+                                       "km":  2.12,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Alan",
@@ -3382,6 +3396,13 @@
                                        "p":  1,
                                        "km":  3.17,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
+                                       "p":  0,
+                                       "km":  2.8,
+                                       "tv":  39
                                    }
                                ]
                    }
