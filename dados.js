@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "11:30",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "13:08",
                      "tv":  "04:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "12:30",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "10:25",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "08:41",
                      "tv":  "00:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -668,9 +668,9 @@ window.PAINEL = {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:04"
+                        "inicio":  "12:20",
+                        "final":  "13:21",
+                        "tempo":  "01:00:34"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -678,7 +678,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:12"
+                        "tempo":  "00:58:17"
                     },
                     {
                         "nome":  "Lucas",
@@ -686,7 +686,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:52"
+                        "tempo":  "00:45:57"
                     },
                     {
                         "nome":  "Eugenio",
@@ -694,7 +694,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:10"
+                        "tempo":  "00:42:15"
                     },
                     {
                         "nome":  "Alan",
@@ -702,7 +702,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:51"
+                        "tempo":  "00:41:56"
                     },
                     {
                         "nome":  "Maira",
@@ -710,7 +710,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:45"
+                        "tempo":  "00:32:50"
                     },
                     {
                         "nome":  "Fernando",
@@ -718,7 +718,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:52"
+                        "tempo":  "00:22:57"
                     },
                     {
                         "nome":  "Costa",
@@ -726,7 +726,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:32"
+                        "tempo":  "00:18:37"
                     },
                     {
                         "nome":  "Mariangela",
@@ -734,7 +734,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:21"
+                        "tempo":  "00:15:26"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "manutenção do Radiador do carro",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:34"
                     }
                 ],
     "semped":  [
@@ -895,7 +903,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     61,
+                     62,
                      9
                  ]
              ],
@@ -3739,7 +3747,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
