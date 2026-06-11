@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "09:18",
                      "tv":  "01:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  146.13,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "09:26",
+                     "tv":  "00:30:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -180,20 +194,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:55",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -270,6 +270,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "JAQUELINE ANDRADE PIAO",
+                         "mun":  "REDENCAO DA SER",
+                         "in":  "08:55:27",
+                         "out":  "09:26:29",
+                         "km":  145.95,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EMPORIUM LEAO SANTA RITA LTDA",
                          "mun":  "APARECIDA",
@@ -319,7 +328,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:32:44"
+                        "tempo":  "01:47:46"
                     },
                     {
                         "nome":  "Maira",
@@ -327,7 +336,7 @@ window.PAINEL = {
                         "obs":  "limeira",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:58"
+                        "tempo":  "00:42:00"
                     }
                 ],
     "semped":  [
@@ -464,7 +473,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     15,
+                     16,
                      4
                  ]
              ],
@@ -3308,7 +3317,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3410,6 +3419,15 @@ window.PAINEL = {
                                                        "tv":  25
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  146.13,
+                                                       "tv":  30
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -3425,15 +3443,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.61,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.18,
                                                        "tv":  0
                                                    },
                                                    {
@@ -3488,6 +3497,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.24,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "JAQUELINE ANDRADE PIAO",
+                                                         "p":  1,
+                                                         "km":  145.95,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Mariangela",

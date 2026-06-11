@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2940,6 +2940,15 @@
                                      "tv":  25
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  146.13,
+                                     "tv":  30
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -2955,15 +2964,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.61,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
                                      "tv":  0
                                  },
                                  {
@@ -3018,6 +3018,13 @@
                                        "p":  1,
                                        "km":  22.24,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "JAQUELINE ANDRADE PIAO",
+                                       "p":  1,
+                                       "km":  145.95,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Mariangela",
