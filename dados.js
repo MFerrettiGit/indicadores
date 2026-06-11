@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  7,
-                     "km":  228.24,
+                     "visitas":  8,
+                     "km":  228.45,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
-                     "ultimo":  "15:14",
-                     "tv":  "03:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:36",
+                     "tv":  "04:08:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -585,6 +585,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "J. M. SANTOS MINIMERCADO LTDA",
+                         "mun":  "SAO LUIS DO PAR",
+                         "in":  "15:15:45",
+                         "out":  "15:36:25",
+                         "km":  0.21,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -886,7 +895,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:03:48"
+                        "tempo":  "02:18:56"
                     },
                     {
                         "nome":  "Rachel",
@@ -894,7 +903,7 @@ window.PAINEL = {
                         "obs":  "uniao posse",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:53"
+                        "tempo":  "00:24:01"
                     }
                 ],
     "semped":  [
@@ -1079,7 +1088,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     90,
+                     92,
                      13
                  ]
              ],
@@ -3923,7 +3932,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3992,10 +4001,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  7,
-                                                       "km":  228.24,
-                                                       "tv":  228
+                                                       "vi":  8,
+                                                       "pe":  8,
+                                                       "km":  228.45,
+                                                       "tv":  248
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4348,6 +4357,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  57.82,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "J. M. SANTOS MINIMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.21,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Lucas",

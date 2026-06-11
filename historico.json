@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2907,10 +2907,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  7,
-                                     "km":  228.24,
-                                     "tv":  228
+                                     "vi":  8,
+                                     "pe":  8,
+                                     "km":  228.45,
+                                     "tv":  248
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3263,6 +3263,13 @@
                                        "p":  1,
                                        "km":  57.82,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "J. M. SANTOS MINIMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.21,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Lucas",
