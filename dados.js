@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  10.44,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:08",
+                     "ultimo":  "08:56",
+                     "tv":  "00:48:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -28,21 +42,21 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "08:33",
                      "tv":  "00:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  4.95,
+                     "visitas":  1,
+                     "km":  28.27,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:08",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "09:09",
+                     "tv":  "00:54:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -54,20 +68,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:09",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.75,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:14",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -113,6 +113,20 @@ window.PAINEL = {
                      "ultimo":  "08:39",
                      "tv":  "00:37:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  2.35,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:13",
+                     "ultimo":  "09:04",
+                     "tv":  "00:50:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.5,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:13",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -193,11 +193,11 @@ window.PAINEL = {
                      "km":  0.18,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:55",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -225,6 +225,24 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "08:08:25",
+                         "out":  "08:56:55",
+                         "km":  5.49,
+                         "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
+                         "mun":  "SANTO ANTONIO D",
+                         "in":  "08:14:53",
+                         "out":  "09:09:12",
+                         "km":  27.52,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "C CARVALHO MERCADO",
                          "mun":  "CAMPINAS",
@@ -241,9 +259,26 @@ window.PAINEL = {
                          "out":  "08:41:18",
                          "km":  22.24,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "M S SUPERMERCADO LTDA.",
+                         "mun":  "ITAPETININGA",
+                         "in":  "08:13:49",
+                         "out":  "09:04:26",
+                         "km":  1.85,
+                         "dur":  "00:50:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Em Viagem",
+                        "obs":  "indo pra Natividade",
+                        "inicio":  "06:52",
+                        "final":  "08:54",
+                        "tempo":  "02:02:20"
+                    },
                     {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
@@ -261,28 +296,40 @@ window.PAINEL = {
                         "tempo":  "00:29:49"
                     },
                     {
-                        "nome":  "Karina",
-                        "tipo":  "Em Viagem",
-                        "obs":  "indo pra Natividade",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:01:45"
-                    },
-                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:02:30"
+                        "tempo":  "01:17:48"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "limeira",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:02"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "comprador não conseguiu atender( remarcou)"
+                   },
                    {
                        "nome":  "Alan",
                        "razao":  "C CARVALHO MERCADO",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de pedido"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "M S SUPERMERCADO LTDA.",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
                    }
                ],
     "hist":  [
@@ -393,8 +440,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     7,
-                     1
+                     11,
+                     3
                  ]
              ],
     "historico":  {
@@ -3237,7 +3284,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3249,6 +3296,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  10.44,
+                                                       "tv":  48
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3258,13 +3314,13 @@ window.PAINEL = {
                                                        "tv":  23
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.95,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  28.27,
+                                                       "tv":  54
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3273,15 +3329,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.75,
                                                        "tv":  0
                                                    },
                                                    {
@@ -3310,6 +3357,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  10.75,
                                                        "tv":  37
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  2.35,
+                                                       "tv":  50
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -3348,15 +3404,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.5,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -3384,6 +3431,20 @@ window.PAINEL = {
                                                          "tv":  23
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                                         "p":  0,
+                                                         "km":  5.49,
+                                                         "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
+                                                         "p":  1,
+                                                         "km":  27.52,
+                                                         "tv":  54
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "C CARVALHO MERCADO",
                                                          "p":  0,
@@ -3396,6 +3457,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.24,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "M S SUPERMERCADO LTDA.",
+                                                         "p":  0,
+                                                         "km":  1.85,
+                                                         "tv":  50
                                                      }
                                                  ]
                                      }
