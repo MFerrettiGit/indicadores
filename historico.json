@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2889,19 +2889,19 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  62.38,
-                                     "tv":  277
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  62.69,
+                                     "tv":  322
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.77,
-                                     "tv":  242
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  3.14,
+                                     "tv":  310
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2990,6 +2990,13 @@
                                        "p":  1,
                                        "km":  0.9,
                                        "tv":  107
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "VIZINHO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0.31,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Fernando",
@@ -3116,6 +3123,13 @@
                                        "p":  0,
                                        "km":  0.94,
                                        "tv":  242
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "ROSARIO DE JESUS MARTINEZ-ME",
+                                       "p":  1,
+                                       "km":  0.37,
+                                       "tv":  68
                                    },
                                    {
                                        "n":  "Alan",

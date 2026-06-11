@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -77,28 +77,28 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  62.38,
+                     "visitas":  3,
+                     "km":  62.69,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:20",
-                     "ultimo":  "13:03",
-                     "tv":  "04:37:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:54",
+                     "tv":  "05:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  2.77,
+                     "visitas":  2,
+                     "km":  3.14,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "08:09",
-                     "ultimo":  "12:12",
-                     "tv":  "04:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:53",
+                     "tv":  "05:10:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -232,6 +232,15 @@ window.PAINEL = {
                          "out":  "13:03:20",
                          "km":  0.9,
                          "dur":  "01:47:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "VIZINHO SUPERMERCADOS LTDA",
+                         "mun":  "IRACEMAPOLIS",
+                         "in":  "14:08:37",
+                         "out":  "14:54:04",
+                         "km":  0.31,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -394,6 +403,15 @@ window.PAINEL = {
                          "out":  "12:12:13",
                          "km":  0.94,
                          "dur":  "04:02:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "ROSARIO DE JESUS MARTINEZ-ME",
+                         "mun":  "SAO CARLOS",
+                         "in":  "13:44:39",
+                         "out":  "14:53:12",
+                         "km":  0.37,
+                         "dur":  "01:08:00"
                      },
                      {
                          "nome":  "Alan",
@@ -823,7 +841,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:18:57"
+                        "tempo":  "01:33:44"
                     }
                 ],
     "semped":  [
@@ -996,7 +1014,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     76,
+                     79,
                      11
                  ]
              ],
@@ -3840,7 +3858,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3891,19 +3909,19 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  62.38,
-                                                       "tv":  277
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  62.69,
+                                                       "tv":  322
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  2.77,
-                                                       "tv":  242
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  3.14,
+                                                       "tv":  310
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3992,6 +4010,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.9,
                                                          "tv":  107
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "VIZINHO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  0.31,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -4118,6 +4143,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.94,
                                                          "tv":  242
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "ROSARIO DE JESUS MARTINEZ-ME",
+                                                         "p":  1,
+                                                         "km":  0.37,
+                                                         "tv":  68
                                                      },
                                                      {
                                                          "n":  "Alan",
