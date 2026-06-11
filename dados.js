@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -70,8 +70,8 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "12:30",
                      "tv":  "03:05:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:25",
                      "tv":  "02:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -736,7 +736,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:10"
+                        "tempo":  "00:53:03"
                     },
                     {
                         "nome":  "Costa",
@@ -744,7 +744,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:50"
+                        "tempo":  "00:48:43"
                     },
                     {
                         "nome":  "Mariangela",
@@ -752,7 +752,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:39"
+                        "tempo":  "00:45:32"
                     },
                     {
                         "nome":  "Luis",
@@ -760,7 +760,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:47"
+                        "tempo":  "00:33:40"
                     }
                 ],
     "semped":  [
@@ -921,7 +921,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     67,
+                     68,
                      9
                  ]
              ],
@@ -3765,7 +3765,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
