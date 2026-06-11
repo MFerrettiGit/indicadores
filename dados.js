@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "11:45",
                      "tv":  "02:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -92,13 +92,13 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  1,
-                     "km":  0.94,
+                     "km":  2.77,
                      "semPed":  1,
                      "perc":  100,
                      "primeiro":  "08:09",
                      "ultimo":  "12:12",
                      "tv":  "04:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -172,6 +172,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  42.43,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "13:42",
+                     "tv":  "00:44:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -186,20 +200,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  22.24,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "08:41",
-                     "tv":  "00:25:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:12",
                      "tv":  "02:10:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -414,6 +414,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                         "mun":  "ITUPEVA",
+                         "in":  "13:23:25",
+                         "out":  "13:42:48",
+                         "km":  20.19,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -586,6 +595,22 @@ window.PAINEL = {
                         "tempo":  "00:48:34"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:51",
+                        "final":  "13:51",
+                        "tempo":  "00:59:36"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:42",
+                        "final":  "13:48",
+                        "tempo":  "01:05:27"
+                    },
+                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -706,28 +731,12 @@ window.PAINEL = {
                         "tempo":  "00:58:37"
                     },
                     {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:12"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:47"
-                    },
-                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:54"
+                        "tempo":  "00:50:10"
                     },
                     {
                         "nome":  "Costa",
@@ -735,7 +744,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:34"
+                        "tempo":  "00:45:50"
                     },
                     {
                         "nome":  "Mariangela",
@@ -743,7 +752,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:23"
+                        "tempo":  "00:42:39"
                     },
                     {
                         "nome":  "Luis",
@@ -751,7 +760,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:31"
+                        "tempo":  "00:30:47"
                     }
                 ],
     "semped":  [
@@ -912,7 +921,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     63,
+                     67,
                      9
                  ]
              ],
@@ -3818,7 +3827,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0.94,
+                                                       "km":  2.77,
                                                        "tv":  242
                                                    },
                                                    {
@@ -3867,6 +3876,15 @@ window.PAINEL = {
                                                        "tv":  216
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  42.43,
+                                                       "tv":  44
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
@@ -3874,15 +3892,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  87.69,
                                                        "tv":  144
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  22.24,
-                                                       "tv":  25
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4048,6 +4057,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.24,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                                         "p":  1,
+                                                         "km":  20.19,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Cominato",
