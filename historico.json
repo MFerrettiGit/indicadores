@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2848,6 +2848,15 @@
                                      "pe":  0,
                                      "km":  8.29,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  138.29,
+                                     "tv":  286
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -2866,15 +2875,6 @@
                                      "pe":  3,
                                      "km":  61.65,
                                      "tv":  279
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  113.37,
-                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2904,6 +2904,15 @@
                                      "tv":  322
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  9,
+                                     "pe":  9,
+                                     "km":  252.48,
+                                     "tv":  270
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -2911,15 +2920,6 @@
                                      "pe":  8,
                                      "km":  24.48,
                                      "tv":  329
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  8,
-                                     "pe":  8,
-                                     "km":  228.45,
-                                     "tv":  248
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -3031,6 +3031,13 @@
                                        "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
                                        "p":  1,
                                        "km":  1.08,
+                                       "tv":  50
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO TONELLI LTDA",
+                                       "p":  1,
+                                       "km":  24.92,
                                        "tv":  50
                                    },
                                    {
@@ -3298,6 +3305,13 @@
                                        "p":  1,
                                        "km":  0.21,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ANISIO JACINTO EPP",
+                                       "p":  1,
+                                       "km":  24.03,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Lucas",

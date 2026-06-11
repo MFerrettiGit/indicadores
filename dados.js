@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  138.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:09",
+                     "ultimo":  "16:31",
+                     "tv":  "04:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -44,20 +58,6 @@ window.PAINEL = {
                      "tv":  "04:39:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  113.37,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "15:19",
-                     "tv":  "03:56:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  9,
+                     "km":  252.48,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "16:29",
+                     "tv":  "04:30:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -116,20 +130,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  8,
-                     "km":  228.45,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "15:36",
-                     "tv":  "04:08:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "16:22",
                      "tv":  "05:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "16:10",
                      "tv":  "04:22:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -285,6 +285,15 @@ window.PAINEL = {
                          "in":  "14:27:57",
                          "out":  "15:19:02",
                          "km":  1.08,
+                         "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO TONELLI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "15:41:08",
+                         "out":  "16:31:34",
+                         "km":  24.92,
                          "dur":  "00:50:00"
                      },
                      {
@@ -628,6 +637,15 @@ window.PAINEL = {
                          "out":  "15:36:25",
                          "km":  0.21,
                          "dur":  "00:20:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ANISIO JACINTO EPP",
+                         "mun":  "LAGOINHA",
+                         "in":  "16:06:40",
+                         "out":  "16:29:30",
+                         "km":  24.03,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -983,7 +1001,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:48"
+                        "tempo":  "00:43:55"
                     },
                     {
                         "nome":  "Rachel",
@@ -991,7 +1009,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:47"
+                        "tempo":  "00:42:54"
                     },
                     {
                         "nome":  "Maira",
@@ -999,7 +1017,15 @@ window.PAINEL = {
                         "obs":  "pedido Fauna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:30"
+                        "tempo":  "00:30:37"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido Scoton",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:51"
                     }
                 ],
     "semped":  [
@@ -1214,7 +1240,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     103,
+                     105,
                      19
                  ]
              ],
@@ -4058,7 +4084,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4068,6 +4094,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.29,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  138.29,
+                                                       "tv":  286
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -4086,15 +4121,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  61.65,
                                                        "tv":  279
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  113.37,
-                                                       "tv":  236
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4124,6 +4150,15 @@ window.PAINEL = {
                                                        "tv":  322
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  9,
+                                                       "pe":  9,
+                                                       "km":  252.48,
+                                                       "tv":  270
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -4131,15 +4166,6 @@ window.PAINEL = {
                                                        "pe":  8,
                                                        "km":  24.48,
                                                        "tv":  329
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  8,
-                                                       "pe":  8,
-                                                       "km":  228.45,
-                                                       "tv":  248
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -4251,6 +4277,13 @@ window.PAINEL = {
                                                          "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
                                                          "p":  1,
                                                          "km":  1.08,
+                                                         "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO TONELLI LTDA",
+                                                         "p":  1,
+                                                         "km":  24.92,
                                                          "tv":  50
                                                      },
                                                      {
@@ -4518,6 +4551,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.21,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "ANISIO JACINTO EPP",
+                                                         "p":  1,
+                                                         "km":  24.03,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Lucas",
