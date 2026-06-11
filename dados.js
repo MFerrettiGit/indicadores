@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  8.29,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  101.82,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "14:04",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:56",
+                     "tv":  "02:52:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "16:31",
                      "tv":  "04:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -63,14 +63,28 @@ window.PAINEL = {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  27.65,
-                     "semPed":  1,
-                     "perc":  25,
+                     "visitas":  5,
+                     "km":  56.98,
+                     "semPed":  2,
+                     "perc":  40,
                      "primeiro":  "08:39",
-                     "ultimo":  "11:30",
-                     "tv":  "02:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:05",
+                     "tv":  "03:31:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  64.01,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:20",
+                     "ultimo":  "17:07",
+                     "tv":  "07:05:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -88,20 +102,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  62.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:20",
-                     "ultimo":  "14:54",
-                     "tv":  "05:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "16:52",
                      "tv":  "04:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -140,6 +140,20 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "16:53",
                      "tv":  "05:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  35.95,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:02",
+                     "ultimo":  "17:00",
+                     "tv":  "06:43:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  24.23,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:02",
-                     "ultimo":  "12:14",
-                     "tv":  "03:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -216,6 +216,15 @@ window.PAINEL = {
              ],
     "checkins":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "14:04:05",
+                         "out":  "16:56:41",
+                         "km":  93.53,
+                         "dur":  "02:52:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "BATISTA PEZZATE LTDA.",
                          "mun":  "IRACEMAPOLIS",
@@ -241,6 +250,15 @@ window.PAINEL = {
                          "out":  "14:54:04",
                          "km":  0.31,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "C. CAMARGO",
+                         "mun":  "IRACEMAPOLIS",
+                         "in":  "15:23:40",
+                         "out":  "17:07:19",
+                         "km":  1.32,
+                         "dur":  "01:43:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -331,6 +349,15 @@ window.PAINEL = {
                          "out":  "11:30:51",
                          "km":  1.28,
                          "dur":  "00:27:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:57:26",
+                         "out":  "17:05:25",
+                         "km":  29.33,
+                         "dur":  "01:07:00"
                      },
                      {
                          "nome":  "Maira",
@@ -484,6 +511,15 @@ window.PAINEL = {
                          "out":  "12:14:37",
                          "km":  9.76,
                          "dur":  "00:49:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO CAMP. WENG LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:58:44",
+                         "out":  "17:00:21",
+                         "km":  11.72,
+                         "dur":  "03:01:00"
                      },
                      {
                          "nome":  "Castro",
@@ -910,6 +946,14 @@ window.PAINEL = {
                         "tempo":  "00:36:26"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "15:57",
+                        "final":  "17:00",
+                        "tempo":  "01:03:22"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Patrocínio Paulista",
@@ -1019,15 +1063,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:51"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:50"
+                        "tempo":  "01:14:02"
                     },
                     {
                         "nome":  "Maira",
@@ -1035,7 +1071,7 @@ window.PAINEL = {
                         "obs":  "pedido Fauna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:33"
+                        "tempo":  "01:00:44"
                     },
                     {
                         "nome":  "Cominato",
@@ -1043,7 +1079,15 @@ window.PAINEL = {
                         "obs":  "Digitar pedido Scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:47"
+                        "tempo":  "00:33:58"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Consulta",
+                        "obs":  "consulta médica",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:14"
                     }
                 ],
     "semped":  [
@@ -1072,6 +1116,12 @@ window.PAINEL = {
                        "obs":  "merchandising e levantamento de pedido"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Rachel",
                        "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                        "mun":  "HOLAMBRA",
@@ -1093,6 +1143,12 @@ window.PAINEL = {
                        "nome":  "Luis",
                        "razao":  "COMERCIAL 3D LTDA",
                        "mun":  "PATROCINIO PAUL",
+                       "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
                        "obs":  "visita de rotina"
                    },
                    {
@@ -1264,8 +1320,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     109,
-                     20
+                     115,
+                     22
                  ]
              ],
     "historico":  {
@@ -4108,16 +4164,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  8.29,
-                                                       "tv":  0
+                                                       "km":  101.82,
+                                                       "tv":  172
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -4150,10 +4206,19 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  3,
-                                                       "km":  27.65,
-                                                       "tv":  144
+                                                       "km":  56.98,
+                                                       "tv":  211
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  64.01,
+                                                       "tv":  425
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -4163,15 +4228,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  7.12,
                                                        "tv":  327
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  62.69,
-                                                       "tv":  322
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -4201,6 +4257,15 @@ window.PAINEL = {
                                                        "tv":  345
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  35.95,
+                                                       "tv":  403
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -4217,15 +4282,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  170.18,
                                                        "tv":  262
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  24.23,
-                                                       "tv":  222
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -4248,6 +4304,13 @@ window.PAINEL = {
                                                ],
                                          "cli":  [
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0,
+                                                         "km":  93.53,
+                                                         "tv":  172
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "BATISTA PEZZATE LTDA.",
                                                          "p":  1,
@@ -4267,6 +4330,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.31,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "C. CAMARGO",
+                                                         "p":  1,
+                                                         "km":  1.32,
+                                                         "tv":  103
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -4337,6 +4407,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.28,
                                                          "tv":  27
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  29.33,
+                                                         "tv":  67
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -4456,6 +4533,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.76,
                                                          "tv":  49
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                                         "p":  1,
+                                                         "km":  11.72,
+                                                         "tv":  181
                                                      },
                                                      {
                                                          "n":  "Castro",

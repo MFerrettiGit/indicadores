@@ -2838,16 +2838,16 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  8.29,
-                                     "tv":  0
+                                     "km":  101.82,
+                                     "tv":  172
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -2880,10 +2880,19 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  27.65,
-                                     "tv":  144
+                                     "km":  56.98,
+                                     "tv":  211
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  64.01,
+                                     "tv":  425
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2893,15 +2902,6 @@
                                      "pe":  1,
                                      "km":  7.12,
                                      "tv":  327
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  62.69,
-                                     "tv":  322
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2931,6 +2931,15 @@
                                      "tv":  345
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  35.95,
+                                     "tv":  403
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -2947,15 +2956,6 @@
                                      "pe":  0,
                                      "km":  170.18,
                                      "tv":  262
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  24.23,
-                                     "tv":  222
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -2978,6 +2978,13 @@
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  93.53,
+                                       "tv":  172
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "BATISTA PEZZATE LTDA.",
                                        "p":  1,
@@ -2997,6 +3004,13 @@
                                        "p":  1,
                                        "km":  0.31,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "C. CAMARGO",
+                                       "p":  1,
+                                       "km":  1.32,
+                                       "tv":  103
                                    },
                                    {
                                        "n":  "Fernando",
@@ -3067,6 +3081,13 @@
                                        "p":  1,
                                        "km":  1.28,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  29.33,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Maira",
@@ -3186,6 +3207,13 @@
                                        "p":  1,
                                        "km":  9.76,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                       "p":  1,
+                                       "km":  11.72,
+                                       "tv":  181
                                    },
                                    {
                                        "n":  "Castro",
