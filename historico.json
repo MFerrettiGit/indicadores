@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2886,6 +2886,15 @@
                                      "tv":  137
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  0.94,
+                                     "tv":  242
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -2893,15 +2902,6 @@
                                      "pe":  1,
                                      "km":  61.48,
                                      "tv":  170
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2922,6 +2922,15 @@
                                      "tv":  146
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  24.23,
+                                     "tv":  222
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -2929,15 +2938,6 @@
                                      "pe":  2,
                                      "km":  5.28,
                                      "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  14.47,
-                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -2970,10 +2970,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  8.3,
+                                     "tv":  130
                                  }
                              ],
                        "cli":  [
@@ -3076,6 +3076,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "COGEB SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  0.94,
+                                       "tv":  242
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "C CARVALHO MERCADO",
                                        "p":  0,
@@ -3090,6 +3097,13 @@
                                        "tv":  136
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                       "p":  1,
+                                       "km":  9.76,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "PIRANA - AUTO SERVICO LTDA.",
                                        "p":  1,
@@ -3102,6 +3116,13 @@
                                        "p":  0,
                                        "km":  87.69,
                                        "tv":  144
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  0,
+                                       "km":  8.3,
+                                       "tv":  130
                                    },
                                    {
                                        "n":  "Karina",

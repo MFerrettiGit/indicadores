@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "11:44",
                      "tv":  "02:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -74,6 +74,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  0.94,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:09",
+                     "ultimo":  "12:12",
+                     "tv":  "04:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -88,20 +102,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:09",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "11:51",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  24.23,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:02",
+                     "ultimo":  "12:14",
+                     "tv":  "03:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -142,20 +156,6 @@ window.PAINEL = {
                      "tv":  "02:54:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  14.47,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:02",
-                     "ultimo":  "11:08",
-                     "tv":  "02:53:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "10:25",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -197,20 +197,20 @@ window.PAINEL = {
                      "ultimo":  "08:41",
                      "tv":  "00:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  8.3,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "10:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:12",
+                     "tv":  "02:10:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -342,6 +342,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "08:09:54",
+                         "out":  "12:12:13",
+                         "km":  0.94,
+                         "dur":  "04:02:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "C CARVALHO MERCADO",
                          "mun":  "CAMPINAS",
@@ -360,6 +369,15 @@ window.PAINEL = {
                          "dur":  "02:16:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:24:36",
+                         "out":  "12:14:37",
+                         "km":  9.76,
+                         "dur":  "00:49:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
@@ -376,6 +394,15 @@ window.PAINEL = {
                          "out":  "10:25:57",
                          "km":  87.69,
                          "dur":  "02:24:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "10:02:08",
+                         "out":  "12:12:28",
+                         "km":  8.3,
+                         "dur":  "02:10:00"
                      },
                      {
                          "nome":  "Karina",
@@ -558,7 +585,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:24"
+                        "tempo":  "00:29:23"
                     },
                     {
                         "nome":  "Luis",
@@ -566,7 +593,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:10"
+                        "tempo":  "00:23:09"
                     },
                     {
                         "nome":  "Nelson",
@@ -574,7 +601,23 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:23"
+                        "tempo":  "00:22:22"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:50"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:04"
                     }
                 ],
     "semped":  [
@@ -583,6 +626,12 @@ window.PAINEL = {
                        "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador não conseguiu atender( remarcou)"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                       "mun":  "ATIBAIA",
+                       "obs":  "e.c. Rede Big"
                    },
                    {
                        "nome":  "Alan",
@@ -613,6 +662,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
                        "obs":  "Inauguração"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "COGEB SUPERMERCADOS LTDA.",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "apresentação de farnese cloy"
                    }
                ],
     "hist":  [
@@ -723,8 +778,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     50,
-                     7
+                     54,
+                     9
                  ]
              ],
     "historico":  {
@@ -3567,7 +3622,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3615,6 +3670,15 @@ window.PAINEL = {
                                                        "tv":  137
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  0.94,
+                                                       "tv":  242
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -3622,15 +3686,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  61.48,
                                                        "tv":  170
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -3651,6 +3706,15 @@ window.PAINEL = {
                                                        "tv":  146
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  24.23,
+                                                       "tv":  222
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3658,15 +3722,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  5.28,
                                                        "tv":  174
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  14.47,
-                                                       "tv":  173
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -3699,10 +3754,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  8.3,
+                                                       "tv":  130
                                                    }
                                                ],
                                          "cli":  [
@@ -3805,6 +3860,13 @@ window.PAINEL = {
                                                          "tv":  19
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "COGEB SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  0.94,
+                                                         "tv":  242
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "C CARVALHO MERCADO",
                                                          "p":  0,
@@ -3819,6 +3881,13 @@ window.PAINEL = {
                                                          "tv":  136
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                                         "p":  1,
+                                                         "km":  9.76,
+                                                         "tv":  49
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "PIRANA - AUTO SERVICO LTDA.",
                                                          "p":  1,
@@ -3831,6 +3900,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  87.69,
                                                          "tv":  144
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                                         "p":  0,
+                                                         "km":  8.3,
+                                                         "tv":  130
                                                      },
                                                      {
                                                          "n":  "Karina",
