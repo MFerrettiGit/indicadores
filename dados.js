@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  49.17,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:09",
+                     "ultimo":  "09:44",
+                     "tv":  "01:01:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "08:56",
                      "tv":  "00:48:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  21.82,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "08:33",
-                     "tv":  "00:23:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -225,6 +225,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "COMERCIAL ELDORADO DA SERRA LTDA.",
+                         "mun":  "SERRANA",
+                         "in":  "09:05:49",
+                         "out":  "09:44:46",
+                         "km":  27.35,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "PATROCINIO PAUL",
@@ -299,6 +308,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "limeira",
+                        "inicio":  "08:57",
+                        "final":  "09:46",
+                        "tempo":  "00:48:34"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Em Viagem",
                         "obs":  "indo pra Natividade",
@@ -328,15 +345,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:47:46"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "limeira",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:00"
+                        "tempo":  "02:02:47"
                     }
                 ],
     "semped":  [
@@ -473,7 +482,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     16,
+                     19,
                      4
                  ]
              ],
@@ -3317,7 +3326,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3329,6 +3338,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  49.17,
+                                                       "tv":  61
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -3336,15 +3354,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  10.44,
                                                        "tv":  48
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  21.82,
-                                                       "tv":  23
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3462,6 +3471,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.45,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "COMERCIAL ELDORADO DA SERRA LTDA.",
+                                                         "p":  1,
+                                                         "km":  27.35,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Luis",
