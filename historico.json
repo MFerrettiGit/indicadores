@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2868,6 +2868,15 @@
                                      "tv":  117
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  48.34,
+                                     "tv":  137
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2877,13 +2886,13 @@
                                      "tv":  61
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  1,
-                                     "pe":  0,
-                                     "km":  10.44,
-                                     "tv":  48
+                                     "pe":  1,
+                                     "km":  61.48,
+                                     "tv":  170
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2895,15 +2904,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  61.48,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -2911,6 +2911,15 @@
                                      "pe":  3,
                                      "km":  9.36,
                                      "tv":  158
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  5.28,
+                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2929,15 +2938,6 @@
                                      "pe":  1,
                                      "km":  14.47,
                                      "tv":  173
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  4.08,
-                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -2977,6 +2977,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "BATISTA PEZZATE LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  170
+                                   },
                                    {
                                        "n":  "Fernando",
                                        "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
@@ -3018,6 +3025,13 @@
                                        "p":  0,
                                        "km":  5.49,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO ZARGON EIRELI",
+                                       "p":  1,
+                                       "km":  37.9,
+                                       "tv":  89
                                    },
                                    {
                                        "n":  "Rachel",
@@ -3130,6 +3144,13 @@
                                        "p":  1,
                                        "km":  1.73,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  55
                                    }
                                ]
                    }

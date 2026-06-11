@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  48.34,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:08",
+                     "ultimo":  "11:16",
+                     "tv":  "02:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -60,16 +74,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  1,
-                     "km":  10.44,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:08",
-                     "ultimo":  "08:56",
-                     "tv":  "00:48:00",
+                     "km":  61.48,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:20",
+                     "ultimo":  "11:11",
+                     "tv":  "02:50:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -88,20 +102,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  61.48,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:20",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -113,6 +113,20 @@ window.PAINEL = {
                      "ultimo":  "10:54",
                      "tv":  "02:38:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  5.28,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:13",
+                     "ultimo":  "11:21",
+                     "tv":  "02:54:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -141,20 +155,6 @@ window.PAINEL = {
                      "ultimo":  "11:08",
                      "tv":  "02:53:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  4.08,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:13",
-                     "ultimo":  "10:20",
-                     "tv":  "01:59:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -216,6 +216,15 @@ window.PAINEL = {
              ],
     "checkins":  [
                      {
+                         "nome":  "Costa",
+                         "razao":  "BATISTA PEZZATE LTDA.",
+                         "mun":  "IRACEMAPOLIS",
+                         "in":  "08:20:57",
+                         "out":  "11:11:05",
+                         "km":  0,
+                         "dur":  "02:50:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -268,6 +277,15 @@ window.PAINEL = {
                          "out":  "08:56:55",
                          "km":  5.49,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO ZARGON EIRELI",
+                         "mun":  "LIMEIRA",
+                         "in":  "09:47:02",
+                         "out":  "11:16:38",
+                         "km":  37.9,
+                         "dur":  "01:29:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -412,6 +430,15 @@ window.PAINEL = {
                          "out":  "10:20:40",
                          "km":  1.73,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                         "mun":  "ITAPETININGA",
+                         "in":  "10:26:22",
+                         "out":  "11:21:56",
+                         "km":  1.2,
+                         "dur":  "00:55:00"
                      }
                  ],
     "eventos":  [
@@ -453,7 +480,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:17:52"
+                        "tempo":  "03:32:49"
                     },
                     {
                         "nome":  "Cominato",
@@ -461,7 +488,7 @@ window.PAINEL = {
                         "obs":  "Tatui a Piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:36"
+                        "tempo":  "00:48:33"
                     }
                 ],
     "semped":  [
@@ -604,7 +631,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     35,
+                     39,
                      5
                  ]
              ],
@@ -3448,7 +3475,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3478,6 +3505,15 @@ window.PAINEL = {
                                                        "tv":  117
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  48.34,
+                                                       "tv":  137
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3487,13 +3523,13 @@ window.PAINEL = {
                                                        "tv":  61
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  10.44,
-                                                       "tv":  48
+                                                       "pe":  1,
+                                                       "km":  61.48,
+                                                       "tv":  170
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3505,15 +3541,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  61.48,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -3521,6 +3548,15 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  9.36,
                                                        "tv":  158
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  5.28,
+                                                       "tv":  174
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3539,15 +3575,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  14.47,
                                                        "tv":  173
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  4.08,
-                                                       "tv":  119
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -3587,6 +3614,13 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "BATISTA PEZZATE LTDA.",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  170
+                                                     },
                                                      {
                                                          "n":  "Fernando",
                                                          "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
@@ -3628,6 +3662,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  5.49,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO ZARGON EIRELI",
+                                                         "p":  1,
+                                                         "km":  37.9,
+                                                         "tv":  89
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -3740,6 +3781,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.73,
                                                          "tv":  69
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                                                         "p":  1,
+                                                         "km":  1.2,
+                                                         "tv":  55
                                                      }
                                                  ]
                                      }
