@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2868,6 +2868,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  49.81,
+                                     "tv":  185
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2875,15 +2884,6 @@
                                      "pe":  3,
                                      "km":  73.46,
                                      "tv":  150
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  48.34,
-                                     "tv":  137
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2904,6 +2904,15 @@
                                      "tv":  170
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  170.09,
+                                     "tv":  168
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -2911,15 +2920,6 @@
                                      "pe":  4,
                                      "km":  10.99,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  169.78,
-                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Alan",
@@ -3048,6 +3048,13 @@
                                        "tv":  89
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  1.47,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                                        "p":  1,
@@ -3151,6 +3158,13 @@
                                        "p":  1,
                                        "km":  20.6,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "NELSON CORREA ARMARINHOS",
+                                       "p":  1,
+                                       "km":  0.31,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Lucas",

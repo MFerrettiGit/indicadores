@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  49.81,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:08",
+                     "ultimo":  "12:30",
+                     "tv":  "03:05:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "11:44",
                      "tv":  "02:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  48.34,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:08",
-                     "ultimo":  "11:16",
-                     "tv":  "02:17:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "12:12",
                      "tv":  "04:02:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  170.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "12:30",
+                     "tv":  "02:48:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "11:51",
                      "tv":  "03:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  169.78,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "12:03",
-                     "tv":  "02:26:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "11:48",
                      "tv":  "03:36:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -306,6 +306,15 @@ window.PAINEL = {
                          "dur":  "01:29:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:42:47",
+                         "out":  "12:30:59",
+                         "km":  1.47,
+                         "dur":  "00:48:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                          "mun":  "SANTO ANTONIO D",
@@ -439,6 +448,15 @@ window.PAINEL = {
                          "out":  "12:03:49",
                          "km":  20.6,
                          "dur":  "00:33:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "NELSON CORREA ARMARINHOS",
+                         "mun":  "NATIVIDADE DA S",
+                         "in":  "12:07:53",
+                         "out":  "12:30:33",
+                         "km":  0.31,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -585,7 +603,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:23"
+                        "tempo":  "00:44:18"
                     },
                     {
                         "nome":  "Luis",
@@ -593,7 +611,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:09"
+                        "tempo":  "00:38:04"
                     },
                     {
                         "nome":  "Nelson",
@@ -601,7 +619,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:22"
+                        "tempo":  "00:37:17"
                     },
                     {
                         "nome":  "Castro",
@@ -609,7 +627,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:50"
+                        "tempo":  "00:22:45"
                     },
                     {
                         "nome":  "Cominato",
@@ -617,7 +635,31 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:04"
+                        "tempo":  "00:18:59"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:07"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:20"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:47"
                     }
                 ],
     "semped":  [
@@ -778,7 +820,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     54,
+                     57,
                      9
                  ]
              ],
@@ -3622,7 +3664,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3652,6 +3694,15 @@ window.PAINEL = {
                                                        "tv":  144
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  49.81,
+                                                       "tv":  185
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3659,15 +3710,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  73.46,
                                                        "tv":  150
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  48.34,
-                                                       "tv":  137
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3688,6 +3730,15 @@ window.PAINEL = {
                                                        "tv":  170
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  170.09,
+                                                       "tv":  168
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -3695,15 +3746,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  10.99,
                                                        "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  169.78,
-                                                       "tv":  146
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -3832,6 +3874,13 @@ window.PAINEL = {
                                                          "tv":  89
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  1.47,
+                                                         "tv":  48
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                                                          "p":  1,
@@ -3935,6 +3984,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  20.6,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "NELSON CORREA ARMARINHOS",
+                                                         "p":  1,
+                                                         "km":  0.31,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Lucas",
