@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2850,6 +2850,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  27.65,
+                                     "tv":  144
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -2857,15 +2866,6 @@
                                      "pe":  3,
                                      "km":  31.51,
                                      "tv":  140
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  26.37,
-                                     "tv":  117
                                  },
                                  {
                                      "nome":  "Maira",
@@ -3018,6 +3018,13 @@
                                        "p":  1,
                                        "km":  1.52,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "ALINE ANDRADE VIEIRA",
+                                       "p":  1,
+                                       "km":  1.28,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Maira",

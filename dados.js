@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  27.65,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:39",
+                     "ultimo":  "11:30",
+                     "tv":  "02:24:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "10:54",
                      "tv":  "02:20:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  26.37,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:39",
-                     "ultimo":  "10:53",
-                     "tv":  "01:57:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "11:00",
                      "tv":  "01:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "11:08",
                      "tv":  "02:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -268,6 +268,15 @@ window.PAINEL = {
                          "out":  "10:53:14",
                          "km":  1.52,
                          "dur":  "00:46:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "ALINE ANDRADE VIEIRA",
+                         "mun":  "PATROCINIO PAUL",
+                         "in":  "11:03:08",
+                         "out":  "11:30:51",
+                         "km":  1.28,
+                         "dur":  "00:27:00"
                      },
                      {
                          "nome":  "Maira",
@@ -480,7 +489,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:32:49"
+                        "tempo":  "03:47:56"
                     },
                     {
                         "nome":  "Cominato",
@@ -488,7 +497,15 @@ window.PAINEL = {
                         "obs":  "Tatui a Piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:33"
+                        "tempo":  "01:03:40"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Patrocinio Paulista a Franca",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:13"
                     }
                 ],
     "semped":  [
@@ -631,7 +648,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     39,
+                     42,
                      5
                  ]
              ],
@@ -3475,7 +3492,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3487,6 +3504,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  27.65,
+                                                       "tv":  144
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -3494,15 +3520,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  31.51,
                                                        "tv":  140
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  26.37,
-                                                       "tv":  117
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3655,6 +3672,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.52,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "ALINE ANDRADE VIEIRA",
+                                                         "p":  1,
+                                                         "km":  1.28,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Maira",
