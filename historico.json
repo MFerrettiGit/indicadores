@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2848,6 +2848,15 @@
                                      "pe":  0,
                                      "km":  8.29,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  21.82,
+                                     "tv":  23
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2865,15 +2874,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.37,
                                      "tv":  0
                                  },
                                  {
@@ -2958,15 +2958,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -2974,10 +2965,25 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.18,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
-
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                                       "p":  1,
+                                       "km":  0.45,
+                                       "tv":  23
+                                   }
                                ]
                    }
 }

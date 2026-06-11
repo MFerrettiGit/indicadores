@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "08:30",
+    "dataHora":  "08:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -16,6 +16,20 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  21.82,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:09",
+                     "ultimo":  "08:33",
+                     "tv":  "00:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -37,20 +51,6 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "visitas":  0,
                      "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:09",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  21.37,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:09",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -186,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -212,10 +198,32 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  0.18,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
-
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "08:09:23",
+                         "out":  "08:33:22",
+                         "km":  0.45,
+                         "dur":  "00:23:00"
+                     }
                  ],
     "eventos":  [
                     {
@@ -227,12 +235,20 @@ window.PAINEL = {
                         "tempo":  "00:45:04"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Patrocínio Paulista",
+                        "inicio":  "08:08",
+                        "final":  "08:38",
+                        "tempo":  "00:29:49"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Em Viagem",
                         "obs":  "indo pra Natividade",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:31:48"
+                        "tempo":  "01:46:50"
                     },
                     {
                         "nome":  "Eduardo",
@@ -240,15 +256,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:33"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Franca a Patrocínio Paulista",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:16:05"
+                        "tempo":  "00:47:35"
                     }
                 ],
     "semped":  [
@@ -362,7 +370,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     2,
+                     4,
                      0
                  ]
              ],
@@ -3206,7 +3214,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "08:30",
+                                         "dataHora":  "08:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3216,6 +3224,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.29,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  21.82,
+                                                       "tv":  23
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3233,15 +3250,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.37,
                                                        "tv":  0
                                                    },
                                                    {
@@ -3326,15 +3334,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.18,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -3342,10 +3341,25 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.18,
+                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
-
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  0.45,
+                                                         "tv":  23
+                                                     }
                                                  ]
                                      }
                   }
