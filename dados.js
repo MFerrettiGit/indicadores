@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,7 +15,21 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  47.55,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:14",
+                     "ultimo":  "11:45",
+                     "tv":  "02:39:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -32,17 +46,17 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  3,
-                     "km":  31.51,
+                     "km":  73.46,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "10:54",
-                     "tv":  "02:20:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:09",
+                     "ultimo":  "11:44",
+                     "tv":  "02:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "11:16",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  49.17,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "09:44",
-                     "tv":  "01:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  9.36,
+                     "visitas":  4,
+                     "km":  10.99,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
-                     "ultimo":  "10:54",
-                     "tv":  "02:38:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:51",
+                     "tv":  "03:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  9.54,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:05",
+                     "ultimo":  "11:48",
+                     "tv":  "03:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
@@ -169,20 +183,6 @@ window.PAINEL = {
                      "ultimo":  "10:25",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  7.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:05",
-                     "ultimo":  "10:29",
-                     "tv":  "02:24:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -241,6 +241,15 @@ window.PAINEL = {
                          "out":  "09:44:46",
                          "km":  27.35,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "LOCAL COMERCIAL DE ALIMENTOS LTDA.",
+                         "mun":  "CRAVINHOS",
+                         "in":  "10:14:51",
+                         "out":  "11:44:42",
+                         "km":  24.29,
+                         "dur":  "01:29:00"
                      },
                      {
                          "nome":  "Luis",
@@ -324,6 +333,15 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "mun":  "HOLAMBRA",
+                         "in":  "11:25:24",
+                         "out":  "11:45:00",
+                         "km":  16.04,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "C CARVALHO MERCADO",
                          "mun":  "CAMPINAS",
@@ -396,6 +414,15 @@ window.PAINEL = {
                          "dur":  "02:24:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "10:35:56",
+                         "out":  "11:48:59",
+                         "km":  2.21,
+                         "dur":  "01:12:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EMPORIUM LEAO SANTA RITA LTDA",
                          "mun":  "APARECIDA",
@@ -421,6 +448,15 @@ window.PAINEL = {
                          "out":  "10:54:31",
                          "km":  0.74,
                          "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "MARILIA VALENTIM DA SILVA PORTO",
+                         "mun":  "POTIM",
+                         "in":  "11:00:07",
+                         "out":  "11:51:59",
+                         "km":  1.63,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -468,6 +504,14 @@ window.PAINEL = {
                         "tempo":  "02:02:20"
                     },
                     {
+                        "nome":  "Eduardo",
+                        "tipo":  "Outro",
+                        "obs":  "administrativo",
+                        "inicio":  "07:51",
+                        "final":  "11:43",
+                        "tempo":  "03:51:38"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "posse",
@@ -484,20 +528,12 @@ window.PAINEL = {
                         "tempo":  "00:29:49"
                     },
                     {
-                        "nome":  "Eduardo",
-                        "tipo":  "Outro",
-                        "obs":  "administrativo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "03:47:56"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Tatui a Piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:03:40"
+                        "inicio":  "10:36",
+                        "final":  "11:46",
+                        "tempo":  "01:10:29"
                     },
                     {
                         "nome":  "Luis",
@@ -505,7 +541,7 @@ window.PAINEL = {
                         "obs":  "Patrocinio Paulista a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:13"
+                        "tempo":  "00:23:12"
                     }
                 ],
     "semped":  [
@@ -520,6 +556,12 @@ window.PAINEL = {
                        "razao":  "C CARVALHO MERCADO",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de pedido"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                       "mun":  "HOLAMBRA",
+                       "obs":  "cliente nao.quis fazer compra essa semana"
                    },
                    {
                        "nome":  "Luis",
@@ -648,8 +690,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     42,
-                     5
+                     46,
+                     6
                  ]
              ],
     "historico":  {
@@ -3492,7 +3534,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3504,6 +3546,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  47.55,
+                                                       "tv":  159
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -3513,13 +3564,13 @@ window.PAINEL = {
                                                        "tv":  144
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  31.51,
-                                                       "tv":  140
+                                                       "km":  73.46,
+                                                       "tv":  150
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3529,15 +3580,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  48.34,
                                                        "tv":  137
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  49.17,
-                                                       "tv":  61
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3561,10 +3603,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  9.36,
-                                                       "tv":  158
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  10.99,
+                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -3594,21 +3636,21 @@ window.PAINEL = {
                                                        "tv":  173
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  9.54,
+                                                       "tv":  216
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  0,
                                                        "km":  87.69,
-                                                       "tv":  144
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  7.33,
                                                        "tv":  144
                                                    },
                                                    {
@@ -3651,6 +3693,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  27.35,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "LOCAL COMERCIAL DE ALIMENTOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  24.29,
+                                                         "tv":  89
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -3716,6 +3765,13 @@ window.PAINEL = {
                                                          "tv":  44
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                                         "p":  0,
+                                                         "km":  16.04,
+                                                         "tv":  19
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "C CARVALHO MERCADO",
                                                          "p":  0,
@@ -3772,6 +3828,13 @@ window.PAINEL = {
                                                          "tv":  144
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  2.21,
+                                                         "tv":  72
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                                          "p":  1,
@@ -3791,6 +3854,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.74,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MARILIA VALENTIM DA SILVA PORTO",
+                                                         "p":  1,
+                                                         "km":  1.63,
+                                                         "tv":  51
                                                      },
                                                      {
                                                          "n":  "Nelson",

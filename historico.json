@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2850,6 +2850,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  47.55,
+                                     "tv":  159
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -2859,13 +2868,13 @@
                                      "tv":  144
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  31.51,
-                                     "tv":  140
+                                     "km":  73.46,
+                                     "tv":  150
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2875,15 +2884,6 @@
                                      "pe":  1,
                                      "km":  48.34,
                                      "tv":  137
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  49.17,
-                                     "tv":  61
                                  },
                                  {
                                      "nome":  "Costa",
@@ -2907,10 +2907,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  9.36,
-                                     "tv":  158
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  10.99,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2940,21 +2940,21 @@
                                      "tv":  173
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  9.54,
+                                     "tv":  216
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  0,
                                      "km":  87.69,
-                                     "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.33,
                                      "tv":  144
                                  },
                                  {
@@ -2997,6 +2997,13 @@
                                        "p":  1,
                                        "km":  27.35,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "LOCAL COMERCIAL DE ALIMENTOS LTDA.",
+                                       "p":  1,
+                                       "km":  24.29,
+                                       "tv":  89
                                    },
                                    {
                                        "n":  "Luis",
@@ -3062,6 +3069,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                       "p":  0,
+                                       "km":  16.04,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "C CARVALHO MERCADO",
                                        "p":  0,
@@ -3118,6 +3132,13 @@
                                        "tv":  144
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  2.21,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                        "p":  1,
@@ -3137,6 +3158,13 @@
                                        "p":  1,
                                        "km":  0.74,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MARILIA VALENTIM DA SILVA PORTO",
+                                       "p":  1,
+                                       "km":  1.63,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Nelson",
