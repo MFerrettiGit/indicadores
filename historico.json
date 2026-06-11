@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2907,10 +2907,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  9,
-                                     "pe":  9,
+                                     "vi":  10,
+                                     "pe":  10,
                                      "km":  252.48,
-                                     "tv":  270
+                                     "tv":  286
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2925,10 +2925,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  4,
-                                     "km":  16.61,
-                                     "tv":  316
+                                     "km":  17.25,
+                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3314,6 +3314,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MINIMERCADO ANACLETO LAGOINHA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -3438,6 +3445,13 @@
                                        "p":  0,
                                        "km":  2.12,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                                       "p":  0,
+                                       "km":  0.64,
+                                       "tv":  29
                                    }
                                ]
                    }

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "16:09",
                      "tv":  "05:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  9,
+                     "visitas":  10,
                      "km":  252.48,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
-                     "ultimo":  "16:29",
-                     "tv":  "04:30:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:52",
+                     "tv":  "04:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -133,14 +133,14 @@ window.PAINEL = {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  7,
-                     "km":  16.61,
-                     "semPed":  3,
-                     "perc":  42.86,
+                     "visitas":  8,
+                     "km":  17.25,
+                     "semPed":  4,
+                     "perc":  50,
                      "primeiro":  "08:13",
-                     "ultimo":  "16:22",
-                     "tv":  "05:16:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:53",
+                     "tv":  "05:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -648,6 +648,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MINIMERCADO ANACLETO LAGOINHA LTDA",
+                         "mun":  "LAGOINHA",
+                         "in":  "16:35:51",
+                         "out":  "16:52:08",
+                         "km":  0,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -808,6 +817,15 @@ window.PAINEL = {
                          "out":  "16:22:49",
                          "km":  2.12,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:24:37",
+                         "out":  "16:53:53",
+                         "km":  0.64,
+                         "dur":  "00:29:00"
                      }
                  ],
     "eventos":  [
@@ -1001,7 +1019,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:55"
+                        "tempo":  "00:58:51"
                     },
                     {
                         "nome":  "Rachel",
@@ -1009,7 +1027,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:54"
+                        "tempo":  "00:57:50"
                     },
                     {
                         "nome":  "Maira",
@@ -1017,7 +1035,7 @@ window.PAINEL = {
                         "obs":  "pedido Fauna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:37"
+                        "tempo":  "00:45:33"
                     },
                     {
                         "nome":  "Cominato",
@@ -1025,7 +1043,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido Scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:51"
+                        "tempo":  "00:18:47"
                     }
                 ],
     "semped":  [
@@ -1094,6 +1112,12 @@ window.PAINEL = {
                        "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente ausente"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
                    },
                    {
                        "nome":  "Castro",
@@ -1240,8 +1264,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     105,
-                     19
+                     109,
+                     20
                  ]
              ],
     "historico":  {
@@ -4084,7 +4108,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4153,10 +4177,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  9,
-                                                       "pe":  9,
+                                                       "vi":  10,
+                                                       "pe":  10,
                                                        "km":  252.48,
-                                                       "tv":  270
+                                                       "tv":  286
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4171,10 +4195,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  7,
+                                                       "vi":  8,
                                                        "pe":  4,
-                                                       "km":  16.61,
-                                                       "tv":  316
+                                                       "km":  17.25,
+                                                       "tv":  345
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4560,6 +4584,13 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "MINIMERCADO ANACLETO LAGOINHA LTDA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -4684,6 +4715,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.12,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0.64,
+                                                         "tv":  29
                                                      }
                                                  ]
                                      }
