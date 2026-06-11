@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2913,6 +2913,24 @@
                                      "tv":  114
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  4.08,
+                                     "tv":  119
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  148.88,
+                                     "tv":  71
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2922,15 +2940,6 @@
                                      "tv":  37
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.35,
-                                     "tv":  50
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -2938,15 +2947,6 @@
                                      "pe":  1,
                                      "km":  22.24,
                                      "tv":  25
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  146.13,
-                                     "tv":  30
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3048,6 +3048,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MAGNO GALDINO CARDOSO DE PAULA",
+                                       "p":  1,
+                                       "km":  2.75,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                        "p":  1,
@@ -3067,6 +3074,13 @@
                                        "p":  0,
                                        "km":  1.85,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                                       "p":  1,
+                                       "km":  1.73,
+                                       "tv":  69
                                    }
                                ]
                    }

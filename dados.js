@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "09:44",
                      "tv":  "01:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "09:57",
                      "tv":  "01:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,7 +112,35 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "10:06",
                      "tv":  "01:54:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  4.08,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:13",
+                     "ultimo":  "10:20",
+                     "tv":  "01:59:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  148.88,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "10:15",
+                     "tv":  "01:11:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -130,20 +158,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  2.35,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:13",
-                     "ultimo":  "09:04",
-                     "tv":  "00:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -155,20 +169,6 @@ window.PAINEL = {
                      "ultimo":  "08:41",
                      "tv":  "00:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  146.13,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "09:26",
-                     "tv":  "00:30:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -306,6 +306,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MAGNO GALDINO CARDOSO DE PAULA",
+                         "mun":  "REDENCAO DA SER",
+                         "in":  "09:34:14",
+                         "out":  "10:15:33",
+                         "km":  2.75,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EMPORIUM LEAO SANTA RITA LTDA",
                          "mun":  "APARECIDA",
@@ -331,6 +340,15 @@ window.PAINEL = {
                          "out":  "09:04:26",
                          "km":  1.85,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "09:10:56",
+                         "out":  "10:20:40",
+                         "km":  1.73,
+                         "dur":  "01:09:00"
                      }
                  ],
     "eventos":  [
@@ -372,7 +390,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:17:48"
+                        "tempo":  "02:32:52"
                     }
                 ],
     "semped":  [
@@ -509,7 +527,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     23,
+                     25,
                      4
                  ]
              ],
@@ -3353,7 +3371,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3428,6 +3446,24 @@ window.PAINEL = {
                                                        "tv":  114
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  4.08,
+                                                       "tv":  119
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  148.88,
+                                                       "tv":  71
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3437,15 +3473,6 @@ window.PAINEL = {
                                                        "tv":  37
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  2.35,
-                                                       "tv":  50
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -3453,15 +3480,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  22.24,
                                                        "tv":  25
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  146.13,
-                                                       "tv":  30
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -3563,6 +3581,13 @@ window.PAINEL = {
                                                          "tv":  30
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "MAGNO GALDINO CARDOSO DE PAULA",
+                                                         "p":  1,
+                                                         "km":  2.75,
+                                                         "tv":  41
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                                          "p":  1,
@@ -3582,6 +3607,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.85,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                                                         "p":  1,
+                                                         "km":  1.73,
+                                                         "tv":  69
                                                      }
                                                  ]
                                      }
