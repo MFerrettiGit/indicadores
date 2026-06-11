@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2859,6 +2859,15 @@
                                      "tv":  219
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  113.37,
+                                     "tv":  236
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -2866,15 +2875,6 @@
                                      "pe":  3,
                                      "km":  54.43,
                                      "tv":  217
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  112.29,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Luis",
@@ -2904,6 +2904,15 @@
                                      "tv":  310
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  228.24,
+                                     "tv":  228
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -2913,22 +2922,13 @@
                                      "tv":  284
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  170.42,
-                                     "tv":  183
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  8.52,
-                                     "tv":  222
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  11.69,
+                                     "tv":  262
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3025,6 +3025,13 @@
                                        "p":  1,
                                        "km":  38.83,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                                       "p":  1,
+                                       "km":  1.08,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Luis",
@@ -3251,6 +3258,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MINIMERCADO ANACLETO LTDA",
+                                       "p":  1,
+                                       "km":  57.82,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -3340,6 +3354,13 @@
                                        "p":  1,
                                        "km":  3.24,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO SAO JOSE ITAPE LTDA",
+                                       "p":  1,
+                                       "km":  3.17,
+                                       "tv":  40
                                    }
                                ]
                    }

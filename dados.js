@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,6 +29,20 @@ window.PAINEL = {
                      "ultimo":  "14:56",
                      "tv":  "03:39:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  113.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:09",
+                     "ultimo":  "15:19",
+                     "tv":  "03:56:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -42,20 +56,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "14:27",
                      "tv":  "03:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  112.29,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "12:59",
-                     "tv":  "03:06:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "14:54",
                      "tv":  "05:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  7,
+                     "km":  228.24,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "15:14",
+                     "tv":  "03:48:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "14:30",
                      "tv":  "04:44:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  170.42,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "13:33",
-                     "tv":  "03:03:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -133,13 +133,13 @@ window.PAINEL = {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  8.52,
+                     "visitas":  5,
+                     "km":  11.69,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:13",
-                     "ultimo":  "14:19",
-                     "tv":  "03:42:00",
+                     "ultimo":  "15:15",
+                     "tv":  "04:22:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:57",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -277,6 +277,15 @@ window.PAINEL = {
                          "out":  "12:59:18",
                          "km":  38.83,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "14:27:57",
+                         "out":  "15:19:02",
+                         "km":  1.08,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Luis",
@@ -567,6 +576,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MINIMERCADO ANACLETO LTDA",
+                         "mun":  "SAO LUIS DO PAR",
+                         "in":  "14:28:43",
+                         "out":  "15:14:19",
+                         "km":  57.82,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -682,6 +700,15 @@ window.PAINEL = {
                          "out":  "14:19:06",
                          "km":  3.24,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO SAO JOSE ITAPE LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:34:20",
+                         "out":  "15:15:14",
+                         "km":  3.17,
+                         "dur":  "00:40:00"
                      }
                  ],
     "eventos":  [
@@ -859,7 +886,15 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:48:52"
+                        "tempo":  "02:03:48"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "uniao posse",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:53"
                     }
                 ],
     "semped":  [
@@ -1044,7 +1079,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     85,
+                     90,
                      13
                  ]
              ],
@@ -3888,7 +3923,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3909,6 +3944,15 @@ window.PAINEL = {
                                                        "tv":  219
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  113.37,
+                                                       "tv":  236
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -3916,15 +3960,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  54.43,
                                                        "tv":  217
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  112.29,
-                                                       "tv":  186
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -3954,6 +3989,15 @@ window.PAINEL = {
                                                        "tv":  310
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  228.24,
+                                                       "tv":  228
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -3963,22 +4007,13 @@ window.PAINEL = {
                                                        "tv":  284
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  170.42,
-                                                       "tv":  183
-                                                   },
-                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  8.52,
-                                                       "tv":  222
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  11.69,
+                                                       "tv":  262
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4075,6 +4110,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  38.83,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                                                         "p":  1,
+                                                         "km":  1.08,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -4301,6 +4343,13 @@ window.PAINEL = {
                                                          "tv":  15
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "MINIMERCADO ANACLETO LTDA",
+                                                         "p":  1,
+                                                         "km":  57.82,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -4390,6 +4439,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.24,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO SAO JOSE ITAPE LTDA",
+                                                         "p":  1,
+                                                         "km":  3.17,
+                                                         "tv":  40
                                                      }
                                                  ]
                                      }
