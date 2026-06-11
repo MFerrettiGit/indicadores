@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2850,6 +2850,24 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  31.51,
+                                     "tv":  140
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  26.37,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2857,24 +2875,6 @@
                                      "pe":  2,
                                      "km":  49.17,
                                      "tv":  61
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  30.07,
-                                     "tv":  96
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  24.85,
-                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2907,10 +2907,28 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.36,
+                                     "tv":  158
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  149.18,
+                                     "tv":  113
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.62,
-                                     "tv":  114
+                                     "pe":  1,
+                                     "km":  14.47,
+                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2922,15 +2940,6 @@
                                      "tv":  119
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  148.88,
-                                     "tv":  71
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
@@ -2938,15 +2947,6 @@
                                      "pe":  0,
                                      "km":  87.69,
                                      "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  10.75,
-                                     "tv":  37
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -3006,6 +3006,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "D",
+                                       "p":  1,
+                                       "km":  1.52,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                                        "p":  0,
@@ -3027,11 +3034,25 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B.R. DOMINGUES",
+                                       "p":  1,
+                                       "km":  1.44,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "C CARVALHO MERCADO",
                                        "p":  0,
                                        "km":  10.75,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ARIEL SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  3.72,
+                                       "tv":  136
                                    },
                                    {
                                        "n":  "Castro",
@@ -3062,6 +3083,13 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO RIBEIRO BONFA LTDA",
+                                       "p":  1,
+                                       "km":  0.3,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -3081,6 +3109,13 @@
                                        "p":  1,
                                        "km":  1.34,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SK SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0.74,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Nelson",
