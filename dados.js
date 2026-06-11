@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "02:39:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  169.78,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "12:03",
+                     "tv":  "02:26:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -127,21 +141,7 @@ window.PAINEL = {
                      "ultimo":  "11:21",
                      "tv":  "02:54:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  149.18,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "11:00",
-                     "tv":  "01:53:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -405,6 +405,15 @@ window.PAINEL = {
                          "dur":  "00:42:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "J O SILVA MERCADO EIRELI",
+                         "mun":  "NATIVIDADE DA S",
+                         "in":  "11:30:04",
+                         "out":  "12:03:49",
+                         "km":  20.6,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -528,6 +537,14 @@ window.PAINEL = {
                         "tempo":  "00:29:49"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Patrocinio Paulista a Franca",
+                        "inicio":  "11:31",
+                        "final":  "11:55",
+                        "tempo":  "00:23:51"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Tatui a Piracicaba",
@@ -536,12 +553,28 @@ window.PAINEL = {
                         "tempo":  "01:10:29"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Patrocinio Paulista a Franca",
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:12"
+                        "tempo":  "00:14:24"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:10"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:23"
                     }
                 ],
     "semped":  [
@@ -690,8 +723,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     46,
-                     6
+                     50,
+                     7
                  ]
              ],
     "historico":  {
@@ -3534,7 +3567,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3609,6 +3642,15 @@ window.PAINEL = {
                                                        "tv":  209
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  169.78,
+                                                       "tv":  146
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -3616,15 +3658,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  5.28,
                                                        "tv":  174
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  149.18,
-                                                       "tv":  113
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -3819,6 +3852,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.3,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "J O SILVA MERCADO EIRELI",
+                                                         "p":  1,
+                                                         "km":  20.6,
+                                                         "tv":  33
                                                      },
                                                      {
                                                          "n":  "Lucas",

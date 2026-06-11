@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2913,6 +2913,15 @@
                                      "tv":  209
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  169.78,
+                                     "tv":  146
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -2920,15 +2929,6 @@
                                      "pe":  2,
                                      "km":  5.28,
                                      "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  149.18,
-                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Alan",
@@ -3123,6 +3123,13 @@
                                        "p":  1,
                                        "km":  0.3,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "J O SILVA MERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  20.6,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Lucas",
