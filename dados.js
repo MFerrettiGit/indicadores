@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  49.23,
-                     "semPed":  2,
-                     "perc":  40,
+                     "visitas":  6,
+                     "km":  52.33,
+                     "semPed":  3,
+                     "perc":  50,
                      "primeiro":  "08:14",
-                     "ultimo":  "14:00",
-                     "tv":  "03:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:56",
+                     "tv":  "03:39:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "14:27",
                      "tv":  "03:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  87.69,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  166.67,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:01",
-                     "ultimo":  "10:25",
-                     "tv":  "02:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:57",
+                     "tv":  "03:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -396,6 +396,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "J. L. DAOLIO",
+                         "mun":  "HOLAMBRA",
+                         "in":  "14:17:15",
+                         "out":  "14:56:27",
+                         "km":  3.1,
+                         "dur":  "00:39:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
@@ -484,6 +493,15 @@ window.PAINEL = {
                          "out":  "10:25:57",
                          "km":  87.69,
                          "dur":  "02:24:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:51:35",
+                         "out":  "14:57:06",
+                         "km":  78.98,
+                         "dur":  "01:05:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -841,7 +859,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:33:44"
+                        "tempo":  "01:48:52"
                     }
                 ],
     "semped":  [
@@ -876,6 +894,12 @@ window.PAINEL = {
                        "obs":  "reagendado para terca"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "J. L. DAOLIO",
+                       "mun":  "HOLAMBRA",
+                       "obs":  "analise de loja"
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "COMERCIAL 3D LTDA",
                        "mun":  "PATROCINIO PAUL",
@@ -898,6 +922,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
                        "obs":  "Inauguração"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "MONTE BELLO",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Tentativa de falar com comprador"
                    },
                    {
                        "nome":  "Sao Carlos",
@@ -1014,8 +1044,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     79,
-                     11
+                     85,
+                     13
                  ]
              ],
     "historico":  {
@@ -3858,7 +3888,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3873,10 +3903,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  3,
-                                                       "km":  49.23,
-                                                       "tv":  180
+                                                       "km":  52.33,
+                                                       "tv":  219
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -3981,10 +4011,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  87.69,
-                                                       "tv":  144
+                                                       "km":  166.67,
+                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4138,6 +4168,13 @@ window.PAINEL = {
                                                          "tv":  21
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "J. L. DAOLIO",
+                                                         "p":  0,
+                                                         "km":  3.1,
+                                                         "tv":  39
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "COGEB SUPERMERCADOS LTDA.",
                                                          "p":  0,
@@ -4206,6 +4243,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  87.69,
                                                          "tv":  144
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MONTE BELLO",
+                                                         "p":  0,
+                                                         "km":  78.98,
+                                                         "tv":  65
                                                      },
                                                      {
                                                          "n":  "Eugenio",

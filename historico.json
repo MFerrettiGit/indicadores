@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2853,10 +2853,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  3,
-                                     "km":  49.23,
-                                     "tv":  180
+                                     "km":  52.33,
+                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Maira",
@@ -2961,10 +2961,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  87.69,
-                                     "tv":  144
+                                     "km":  166.67,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -3118,6 +3118,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "J. L. DAOLIO",
+                                       "p":  0,
+                                       "km":  3.1,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "COGEB SUPERMERCADOS LTDA.",
                                        "p":  0,
@@ -3186,6 +3193,13 @@
                                        "p":  0,
                                        "km":  87.69,
                                        "tv":  144
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO",
+                                       "p":  0,
+                                       "km":  78.98,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Eugenio",
