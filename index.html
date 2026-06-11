@@ -534,7 +534,7 @@ function renderSuspeitos(){
   document.getElementById('susList').innerHTML=list.map(v=>{
     const sev=Math.max(0,...v.suspeitos.map(s=>s.sev));
     return `<div class="pcard sev-${sev}"><div class="ph"><span class="pn">${v.nome}</span><span class="tag">${v.setor} · ${v.regional}</span><span class="cnt">${v.suspeitos.length}</span></div><ul>${liList(v.suspeitos)}</ul></div>`;
-  }).join('') || '<div class="okbox">✅ Nenhum padrão suspeito detectado hoje.</div>';
+  }).join('') || '<div class="okbox">✅ Nada a conferir hoje.</div>';
 }
 
 /* ====================== RESUMO DO TRABALHO ====================== */
