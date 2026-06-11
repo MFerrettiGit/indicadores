@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  138.29,
+                     "visitas":  7,
+                     "km":  163.02,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:09",
-                     "ultimo":  "16:31",
-                     "tv":  "04:46:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:26",
+                     "tv":  "05:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  64.37,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:20",
+                     "ultimo":  "17:27",
+                     "tv":  "07:22:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -88,31 +102,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  64.01,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:20",
-                     "ultimo":  "17:07",
-                     "tv":  "07:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  11,
-                     "km":  252.99,
+                     "visitas":  12,
+                     "km":  253.36,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
-                     "ultimo":  "17:12",
-                     "tv":  "05:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:40",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -261,6 +261,15 @@ window.PAINEL = {
                          "dur":  "01:43:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "FRASSON",
+                         "mun":  "IRACEMAPOLIS",
+                         "in":  "17:10:29",
+                         "out":  "17:27:37",
+                         "km":  0.36,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -313,6 +322,15 @@ window.PAINEL = {
                          "out":  "16:31:34",
                          "km":  24.92,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:58:44",
+                         "out":  "17:26:29",
+                         "km":  24.73,
+                         "dur":  "00:27:00"
                      },
                      {
                          "nome":  "Luis",
@@ -711,6 +729,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "V.J. MONTEIRO",
+                         "mun":  "LAGOINHA",
+                         "in":  "17:16:19",
+                         "out":  "17:40:56",
+                         "km":  0.37,
+                         "dur":  "00:24:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -1081,7 +1108,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:53"
+                        "tempo":  "01:46:46"
                     },
                     {
                         "nome":  "Maira",
@@ -1089,7 +1116,7 @@ window.PAINEL = {
                         "obs":  "pedido Fauna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:16:35"
+                        "tempo":  "01:33:28"
                     },
                     {
                         "nome":  "Cominato",
@@ -1097,7 +1124,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido Scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:49"
+                        "tempo":  "01:06:42"
                     },
                     {
                         "nome":  "Rachel",
@@ -1105,7 +1132,7 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:05"
+                        "tempo":  "00:41:58"
                     }
                 ],
     "semped":  [
@@ -1216,6 +1243,12 @@ window.PAINEL = {
                        "razao":  "N N NASTARO LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Tentativa de falar com comprador"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "FRASSON",
+                       "mun":  "IRACEMAPOLIS",
+                       "obs":  "cliente abastecido"
                    },
                    {
                        "nome":  "Sao Carlos",
@@ -1344,8 +1377,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     118,
-                     23
+                     121,
+                     24
                  ]
              ],
     "historico":  {
@@ -4188,7 +4221,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4203,10 +4236,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  138.29,
-                                                       "tv":  286
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  163.02,
+                                                       "tv":  313
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -4227,6 +4260,15 @@ window.PAINEL = {
                                                        "tv":  279
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  64.37,
+                                                       "tv":  442
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -4245,22 +4287,13 @@ window.PAINEL = {
                                                        "tv":  370
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  64.01,
-                                                       "tv":  425
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  11,
-                                                       "pe":  11,
-                                                       "km":  252.99,
-                                                       "tv":  302
+                                                       "vi":  12,
+                                                       "pe":  12,
+                                                       "km":  253.36,
+                                                       "tv":  326
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4363,6 +4396,13 @@ window.PAINEL = {
                                                          "tv":  103
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "FRASSON",
+                                                         "p":  0,
+                                                         "km":  0.36,
+                                                         "tv":  17
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                                          "p":  1,
@@ -4403,6 +4443,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.92,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "POSTO DO TREVO LTDA",
+                                                         "p":  1,
+                                                         "km":  24.73,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -4711,6 +4758,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.51,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "V.J. MONTEIRO",
+                                                         "p":  1,
+                                                         "km":  0.37,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Lucas",
