@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2859,6 +2859,24 @@
                                      "tv":  61
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  30.07,
+                                     "tv":  96
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  24.85,
+                                     "tv":  71
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -2866,24 +2884,6 @@
                                      "pe":  0,
                                      "km":  10.44,
                                      "tv":  48
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  28.99,
-                                     "tv":  54
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  23.85,
-                                     "tv":  31
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2904,6 +2904,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.62,
+                                     "tv":  114
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2911,15 +2920,6 @@
                                      "pe":  0,
                                      "km":  10.75,
                                      "tv":  37
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.28,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2999,6 +2999,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "ANTONIO QUERINO DA SILVA LTDA",
+                                       "p":  1,
+                                       "km":  1,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                                        "p":  0,
@@ -3011,6 +3018,13 @@
                                        "p":  1,
                                        "km":  27.52,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.R. DOMINGUES E CIA LTDA",
+                                       "p":  1,
+                                       "km":  1.08,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Alan",
@@ -3039,6 +3053,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  72
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "EMPORIUM LEAO PONTE ALTA LTDA",
+                                       "p":  1,
+                                       "km":  1.34,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Nelson",

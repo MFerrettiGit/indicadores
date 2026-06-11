@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  30.07,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "09:57",
+                     "tv":  "01:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  24.85,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:39",
+                     "ultimo":  "09:58",
+                     "tv":  "01:11:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -42,34 +70,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "08:56",
                      "tv":  "00:48:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  28.99,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "09:09",
-                     "tv":  "00:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  23.85,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:39",
-                     "ultimo":  "09:11",
-                     "tv":  "00:31:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  8.62,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "10:06",
+                     "tv":  "01:54:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "08:39",
                      "tv":  "00:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  7.28,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "09:18",
-                     "tv":  "01:12:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -207,10 +207,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "10:02",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -243,6 +243,15 @@ window.PAINEL = {
                          "dur":  "00:31:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "ANTONIO QUERINO DA SILVA LTDA",
+                         "mun":  "PATROCINIO PAUL",
+                         "in":  "09:16:42",
+                         "out":  "09:58:14",
+                         "km":  1,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
@@ -259,6 +268,15 @@ window.PAINEL = {
                          "out":  "09:09:12",
                          "km":  27.52,
                          "dur":  "00:54:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B.R. DOMINGUES E CIA LTDA",
+                         "mun":  "SANTO ANTONIO D",
+                         "in":  "09:14:24",
+                         "out":  "09:57:43",
+                         "km":  1.08,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Alan",
@@ -295,6 +313,15 @@ window.PAINEL = {
                          "out":  "09:18:53",
                          "km":  0,
                          "dur":  "01:12:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "EMPORIUM LEAO PONTE ALTA LTDA",
+                         "mun":  "APARECIDA",
+                         "in":  "09:24:26",
+                         "out":  "10:06:41",
+                         "km":  1.34,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -345,7 +372,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:02:47"
+                        "tempo":  "02:17:48"
                     }
                 ],
     "semped":  [
@@ -482,7 +509,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     19,
+                     23,
                      4
                  ]
              ],
@@ -3326,7 +3353,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3347,6 +3374,24 @@ window.PAINEL = {
                                                        "tv":  61
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  30.07,
+                                                       "tv":  96
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  24.85,
+                                                       "tv":  71
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -3354,24 +3399,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  10.44,
                                                        "tv":  48
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  28.99,
-                                                       "tv":  54
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  23.85,
-                                                       "tv":  31
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3392,6 +3419,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  8.62,
+                                                       "tv":  114
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3399,15 +3435,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  10.75,
                                                        "tv":  37
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  7.28,
-                                                       "tv":  72
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -3487,6 +3514,13 @@ window.PAINEL = {
                                                          "tv":  31
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "ANTONIO QUERINO DA SILVA LTDA",
+                                                         "p":  1,
+                                                         "km":  1,
+                                                         "tv":  40
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                                                          "p":  0,
@@ -3499,6 +3533,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  27.52,
                                                          "tv":  54
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "B.R. DOMINGUES E CIA LTDA",
+                                                         "p":  1,
+                                                         "km":  1.08,
+                                                         "tv":  42
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -3527,6 +3568,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  72
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "EMPORIUM LEAO PONTE ALTA LTDA",
+                                                         "p":  1,
+                                                         "km":  1.34,
+                                                         "tv":  42
                                                      },
                                                      {
                                                          "n":  "Nelson",
