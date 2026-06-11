@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2931,6 +2931,15 @@
                                      "tv":  71
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  87.69,
+                                     "tv":  144
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2940,6 +2949,15 @@
                                      "tv":  37
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.33,
+                                     "tv":  144
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -2947,24 +2965,6 @@
                                      "pe":  1,
                                      "km":  22.24,
                                      "tv":  25
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.61,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -3041,6 +3041,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  87.69,
+                                       "tv":  144
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "JAQUELINE ANDRADE PIAO",
                                        "p":  1,
@@ -3053,6 +3060,13 @@
                                        "p":  1,
                                        "km":  2.75,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  6.72,
+                                       "tv":  144
                                    },
                                    {
                                        "n":  "Mariangela",

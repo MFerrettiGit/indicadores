@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "10:20",
                      "tv":  "01:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  87.69,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "10:25",
+                     "tv":  "02:24:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -154,6 +168,20 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "08:39",
                      "tv":  "00:37:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  7.33,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:05",
+                     "ultimo":  "10:29",
+                     "tv":  "02:24:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -169,34 +197,6 @@ window.PAINEL = {
                      "ultimo":  "08:41",
                      "tv":  "00:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.61,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -297,6 +297,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "TATUI",
+                         "in":  "08:01:44",
+                         "out":  "10:25:57",
+                         "km":  87.69,
+                         "dur":  "02:24:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "JAQUELINE ANDRADE PIAO",
                          "mun":  "REDENCAO DA SER",
@@ -313,6 +322,15 @@ window.PAINEL = {
                          "out":  "10:15:33",
                          "km":  2.75,
                          "dur":  "00:41:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:05:16",
+                         "out":  "10:29:57",
+                         "km":  6.72,
+                         "dur":  "02:24:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -390,7 +408,15 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:32:52"
+                        "tempo":  "02:47:49"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Tatui a Piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:33"
                     }
                 ],
     "semped":  [
@@ -417,6 +443,12 @@ window.PAINEL = {
                        "razao":  "M S SUPERMERCADO LTDA.",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "TATUI",
+                       "obs":  "Inauguração"
                    }
                ],
     "hist":  [
@@ -527,8 +559,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     25,
-                     4
+                     27,
+                     5
                  ]
              ],
     "historico":  {
@@ -3371,7 +3403,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3464,6 +3496,15 @@ window.PAINEL = {
                                                        "tv":  71
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  87.69,
+                                                       "tv":  144
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3473,6 +3514,15 @@ window.PAINEL = {
                                                        "tv":  37
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  7.33,
+                                                       "tv":  144
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -3480,24 +3530,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  22.24,
                                                        "tv":  25
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.61,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -3574,6 +3606,13 @@ window.PAINEL = {
                                                          "tv":  25
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  87.69,
+                                                         "tv":  144
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "JAQUELINE ANDRADE PIAO",
                                                          "p":  1,
@@ -3586,6 +3625,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.75,
                                                          "tv":  41
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  6.72,
+                                                         "tv":  144
                                                      },
                                                      {
                                                          "n":  "Mariangela",
