@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2848,6 +2848,15 @@
                                      "pe":  0,
                                      "km":  8.29,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  112.29,
+                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -2877,13 +2886,13 @@
                                      "tv":  185
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  73.46,
-                                     "tv":  150
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.38,
+                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -2895,13 +2904,13 @@
                                      "tv":  242
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  61.48,
-                                     "tv":  170
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  19.27,
+                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Karina",
@@ -2911,15 +2920,6 @@
                                      "pe":  5,
                                      "km":  170.09,
                                      "tv":  168
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  10.99,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2985,6 +2985,13 @@
                                        "tv":  170
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERC. PEG MAIS DE IRACEMAPOLIS LTDA",
+                                       "p":  1,
+                                       "km":  0.9,
+                                       "tv":  107
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                        "p":  1,
@@ -3004,6 +3011,13 @@
                                        "p":  1,
                                        "km":  24.29,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "HALINE RODRIGUES SEGHETTO",
+                                       "p":  1,
+                                       "km":  38.83,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Luis",
@@ -3207,6 +3221,13 @@
                                        "p":  1,
                                        "km":  1.63,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SM MAIS SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  8.28,
+                                       "tv":  56
                                    },
                                    {
                                        "n":  "Nelson",

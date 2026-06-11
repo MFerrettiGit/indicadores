@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  112.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:09",
+                     "ultimo":  "12:59",
+                     "tv":  "03:06:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -29,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "02:39:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -43,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "11:30",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -60,18 +74,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  73.46,
+                     "visitas":  2,
+                     "km":  62.38,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "11:44",
-                     "tv":  "02:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "primeiro":  "08:20",
+                     "ultimo":  "13:03",
+                     "tv":  "04:37:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -88,17 +102,17 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  61.48,
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  19.27,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:20",
-                     "ultimo":  "11:11",
-                     "tv":  "02:50:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:06",
+                     "ultimo":  "13:08",
+                     "tv":  "04:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -113,20 +127,6 @@ window.PAINEL = {
                      "ultimo":  "12:30",
                      "tv":  "02:48:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  10.99,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "11:51",
-                     "tv":  "03:29:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -155,7 +155,7 @@ window.PAINEL = {
                      "ultimo":  "11:21",
                      "tv":  "02:54:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -197,7 +197,7 @@ window.PAINEL = {
                      "ultimo":  "08:41",
                      "tv":  "00:25:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -225,6 +225,15 @@ window.PAINEL = {
                          "dur":  "02:50:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERC. PEG MAIS DE IRACEMAPOLIS LTDA",
+                         "mun":  "IRACEMAPOLIS",
+                         "in":  "11:15:38",
+                         "out":  "13:03:20",
+                         "km":  0.9,
+                         "dur":  "01:47:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -250,6 +259,15 @@ window.PAINEL = {
                          "out":  "11:44:42",
                          "km":  24.29,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "HALINE RODRIGUES SEGHETTO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "12:22:55",
+                         "out":  "12:59:18",
+                         "km":  38.83,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Luis",
@@ -513,6 +531,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SM MAIS SUPERMERCADOS LTDA",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "12:11:37",
+                         "out":  "13:08:37",
+                         "km":  8.28,
+                         "dur":  "00:56:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
@@ -558,6 +585,14 @@ window.PAINEL = {
                         "tempo":  "02:02:20"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:34",
+                        "final":  "12:56",
+                        "tempo":  "00:22:19"
+                    },
+                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
@@ -598,6 +633,30 @@ window.PAINEL = {
                         "tempo":  "00:23:51"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:01",
+                        "final":  "13:03",
+                        "tempo":  "01:02:05"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:02",
+                        "final":  "13:03",
+                        "tempo":  "01:01:31"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:16",
+                        "final":  "12:59",
+                        "tempo":  "00:42:28"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Tatui a Piracicaba",
@@ -606,36 +665,12 @@ window.PAINEL = {
                         "tempo":  "01:10:29"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:09"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:22"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:37:50"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:04"
+                        "tempo":  "00:49:04"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -643,15 +678,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:12"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:20:25"
+                        "tempo":  "00:43:12"
                     },
                     {
                         "nome":  "Lucas",
@@ -659,7 +686,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:52"
+                        "tempo":  "00:30:52"
                     },
                     {
                         "nome":  "Eugenio",
@@ -667,7 +694,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:10"
+                        "tempo":  "00:27:10"
                     },
                     {
                         "nome":  "Alan",
@@ -675,7 +702,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:51"
+                        "tempo":  "00:26:51"
                     },
                     {
                         "nome":  "Maira",
@@ -683,7 +710,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:45"
+                        "tempo":  "00:17:45"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:52"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:32"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:21"
                     }
                 ],
     "semped":  [
@@ -844,7 +895,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     57,
+                     61,
                      9
                  ]
              ],
@@ -3688,7 +3739,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3698,6 +3749,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.29,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  112.29,
+                                                       "tv":  186
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -3727,13 +3787,13 @@ window.PAINEL = {
                                                        "tv":  185
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  73.46,
-                                                       "tv":  150
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  62.38,
+                                                       "tv":  277
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -3745,13 +3805,13 @@ window.PAINEL = {
                                                        "tv":  242
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  61.48,
-                                                       "tv":  170
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  19.27,
+                                                       "tv":  265
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -3761,15 +3821,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  170.09,
                                                        "tv":  168
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  10.99,
-                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -3835,6 +3886,13 @@ window.PAINEL = {
                                                          "tv":  170
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERC. PEG MAIS DE IRACEMAPOLIS LTDA",
+                                                         "p":  1,
+                                                         "km":  0.9,
+                                                         "tv":  107
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                                          "p":  1,
@@ -3854,6 +3912,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.29,
                                                          "tv":  89
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "HALINE RODRIGUES SEGHETTO",
+                                                         "p":  1,
+                                                         "km":  38.83,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -4057,6 +4122,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.63,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SM MAIS SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  8.28,
+                                                         "tv":  56
                                                      },
                                                      {
                                                          "n":  "Nelson",
