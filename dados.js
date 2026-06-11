@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  54.43,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:08",
+                     "ultimo":  "14:27",
+                     "tv":  "03:37:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -42,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "12:59",
                      "tv":  "03:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -58,20 +72,6 @@ window.PAINEL = {
                      "tv":  "02:24:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  49.81,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:08",
-                     "ultimo":  "12:30",
-                     "tv":  "03:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  20.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "14:30",
+                     "tv":  "04:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "13:33",
                      "tv":  "03:03:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  19.27,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "13:08",
-                     "tv":  "04:25:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -140,6 +140,20 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "14:19",
                      "tv":  "03:42:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  46.63,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:16",
+                     "ultimo":  "14:32",
+                     "tv":  "01:20:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -158,30 +172,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  42.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "14:03",
-                     "tv":  "01:04:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  9.54,
+                     "visitas":  3,
+                     "km":  13.79,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:05",
-                     "ultimo":  "11:48",
-                     "tv":  "03:36:00",
+                     "ultimo":  "14:32",
+                     "tv":  "04:33:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -333,6 +333,15 @@ window.PAINEL = {
                          "dur":  "00:48:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "YURI PADOVAN CALSA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "13:54:14",
+                         "out":  "14:27:04",
+                         "km":  4.62,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                          "mun":  "SANTO ANTONIO D",
@@ -441,6 +450,15 @@ window.PAINEL = {
                          "dur":  "00:20:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MESQUITA M",
+                         "mun":  "JUNDIAI",
+                         "in":  "14:15:21",
+                         "out":  "14:32:02",
+                         "km":  4.2,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -531,6 +549,15 @@ window.PAINEL = {
                          "dur":  "01:12:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCEARIA LOPES LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "13:35:17",
+                         "out":  "14:32:32",
+                         "km":  4.25,
+                         "dur":  "00:57:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EMPORIUM LEAO SANTA RITA LTDA",
                          "mun":  "APARECIDA",
@@ -574,6 +601,15 @@ window.PAINEL = {
                          "out":  "13:08:37",
                          "km":  8.28,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "EMPORIUM LEAO CARAMURUS LTDA",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "14:10:13",
+                         "out":  "14:30:11",
+                         "km":  1.1,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -787,7 +823,7 @@ window.PAINEL = {
                         "obs":  "manutenção do Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:03:44"
+                        "tempo":  "01:18:57"
                     }
                 ],
     "semped":  [
@@ -832,6 +868,12 @@ window.PAINEL = {
                        "razao":  "M S SUPERMERCADO LTDA.",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "MESQUITA M",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
                    },
                    {
                        "nome":  "Cominato",
@@ -954,8 +996,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     72,
-                     10
+                     76,
+                     11
                  ]
              ],
     "historico":  {
@@ -3798,7 +3840,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3819,6 +3861,15 @@ window.PAINEL = {
                                                        "tv":  180
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  54.43,
+                                                       "tv":  217
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -3835,15 +3886,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  27.65,
                                                        "tv":  144
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  49.81,
-                                                       "tv":  185
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3864,6 +3906,15 @@ window.PAINEL = {
                                                        "tv":  242
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  20.37,
+                                                       "tv":  284
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -3871,15 +3922,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  170.42,
                                                        "tv":  183
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  19.27,
-                                                       "tv":  265
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -3891,6 +3933,15 @@ window.PAINEL = {
                                                        "tv":  222
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  46.63,
+                                                       "tv":  80
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -3900,22 +3951,13 @@ window.PAINEL = {
                                                        "tv":  222
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  42.43,
-                                                       "tv":  64
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  9.54,
-                                                       "tv":  216
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  13.79,
+                                                       "tv":  273
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4029,6 +4071,13 @@ window.PAINEL = {
                                                          "tv":  48
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "YURI PADOVAN CALSA.",
+                                                         "p":  1,
+                                                         "km":  4.62,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                                                          "p":  1,
@@ -4113,6 +4162,13 @@ window.PAINEL = {
                                                          "tv":  20
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "MESQUITA M",
+                                                         "p":  0,
+                                                         "km":  4.2,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0,
@@ -4183,6 +4239,13 @@ window.PAINEL = {
                                                          "tv":  72
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCEARIA LOPES LTDA",
+                                                         "p":  1,
+                                                         "km":  4.25,
+                                                         "tv":  57
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                                          "p":  1,
@@ -4216,6 +4279,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.28,
                                                          "tv":  56
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "EMPORIUM LEAO CARAMURUS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.1,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Nelson",

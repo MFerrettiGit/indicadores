@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2859,6 +2859,15 @@
                                      "tv":  180
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  54.43,
+                                     "tv":  217
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -2875,15 +2884,6 @@
                                      "pe":  3,
                                      "km":  27.65,
                                      "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  49.81,
-                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Costa",
@@ -2904,6 +2904,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  20.37,
+                                     "tv":  284
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -2911,15 +2920,6 @@
                                      "pe":  6,
                                      "km":  170.42,
                                      "tv":  183
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  19.27,
-                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -2931,6 +2931,15 @@
                                      "tv":  222
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  46.63,
+                                     "tv":  80
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -2940,22 +2949,13 @@
                                      "tv":  222
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  42.43,
-                                     "tv":  64
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  9.54,
-                                     "tv":  216
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  13.79,
+                                     "tv":  273
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3069,6 +3069,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "YURI PADOVAN CALSA.",
+                                       "p":  1,
+                                       "km":  4.62,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SIM EMPREENDIMENTOS COMERCIAIS-SUPERMERC",
                                        "p":  1,
@@ -3153,6 +3160,13 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MESQUITA M",
+                                       "p":  0,
+                                       "km":  4.2,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0,
@@ -3223,6 +3237,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCEARIA LOPES LTDA",
+                                       "p":  1,
+                                       "km":  4.25,
+                                       "tv":  57
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EMPORIUM LEAO SANTA RITA LTDA",
                                        "p":  1,
@@ -3256,6 +3277,13 @@
                                        "p":  1,
                                        "km":  8.28,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "EMPORIUM LEAO CARAMURUS LTDA",
+                                       "p":  1,
+                                       "km":  1.1,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Nelson",
