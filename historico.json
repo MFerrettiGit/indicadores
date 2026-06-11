@@ -2838,7 +2838,7 @@
                                ]
                    },
     "2026-06-11":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -2873,7 +2873,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  61.65,
+                                     "km":  87.18,
                                      "tv":  279
                                  },
                                  {
@@ -2882,7 +2882,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  4,
-                                     "km":  64.37,
+                                     "km":  122.15,
                                      "tv":  442
                                  },
                                  {
@@ -2907,10 +2907,19 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  12,
-                                     "pe":  12,
-                                     "km":  253.36,
-                                     "tv":  326
+                                     "vi":  13,
+                                     "pe":  13,
+                                     "km":  253.93,
+                                     "tv":  346
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  9,
+                                     "pe":  5,
+                                     "km":  21.55,
+                                     "tv":  390
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -2918,17 +2927,8 @@
                                      "regional":  "SUL",
                                      "vi":  8,
                                      "pe":  8,
-                                     "km":  24.48,
+                                     "km":  29.77,
                                      "tv":  329
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  8,
-                                     "pe":  4,
-                                     "km":  17.25,
-                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Alan",
@@ -2963,7 +2963,7 @@
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  170.18,
+                                     "km":  187.43,
                                      "tv":  262
                                  },
                                  {
@@ -3389,6 +3389,13 @@
                                        "p":  1,
                                        "km":  0.37,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "JOSE CARLOS COELHO-LAGOINHA",
+                                       "p":  1,
+                                       "km":  0.57,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Lucas",

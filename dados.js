@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -50,7 +50,7 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  61.65,
+                     "km":  87.18,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:08",
@@ -64,7 +64,7 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  64.37,
+                     "km":  122.15,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:20",
@@ -105,27 +105,13 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  12,
-                     "km":  253.36,
+                     "visitas":  13,
+                     "km":  253.93,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:55",
-                     "ultimo":  "17:40",
-                     "tv":  "05:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  8,
-                     "km":  24.48,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "16:11",
-                     "tv":  "05:29:00",
+                     "ultimo":  "18:06",
+                     "tv":  "05:46:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -133,14 +119,28 @@ window.PAINEL = {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  8,
-                     "km":  17.25,
+                     "visitas":  9,
+                     "km":  21.55,
                      "semPed":  4,
-                     "perc":  50,
+                     "perc":  44.44,
                      "primeiro":  "08:13",
-                     "ultimo":  "16:53",
-                     "tv":  "05:45:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:55",
+                     "tv":  "06:30:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  8,
+                     "km":  29.77,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "16:11",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -190,14 +190,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
                      "visitas":  3,
-                     "km":  170.18,
+                     "km":  187.43,
                      "semPed":  3,
                      "perc":  100,
                      "primeiro":  "08:01",
                      "ultimo":  "16:10",
                      "tv":  "04:22:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -747,6 +747,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "JOSE CARLOS COELHO-LAGOINHA",
+                         "mun":  "LAGOINHA",
+                         "in":  "17:45:33",
+                         "out":  "18:06:28",
+                         "km":  0.57,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -1146,12 +1155,20 @@ window.PAINEL = {
                         "tempo":  "00:58:37"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  "17:55",
+                        "final":  "18:11",
+                        "tempo":  "00:16:44"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Outro",
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:59:05"
+                        "tempo":  "02:16:44"
                     },
                     {
                         "nome":  "Rachel",
@@ -1159,15 +1176,7 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:17"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:00:24"
+                        "tempo":  "01:11:56"
                     }
                 ],
     "semped":  [
@@ -1418,7 +1427,7 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     123,
+                     125,
                      25
                  ]
              ],
@@ -4262,7 +4271,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4297,7 +4306,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  61.65,
+                                                       "km":  87.18,
                                                        "tv":  279
                                                    },
                                                    {
@@ -4306,7 +4315,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  64.37,
+                                                       "km":  122.15,
                                                        "tv":  442
                                                    },
                                                    {
@@ -4331,10 +4340,19 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  12,
-                                                       "pe":  12,
-                                                       "km":  253.36,
-                                                       "tv":  326
+                                                       "vi":  13,
+                                                       "pe":  13,
+                                                       "km":  253.93,
+                                                       "tv":  346
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  9,
+                                                       "pe":  5,
+                                                       "km":  21.55,
+                                                       "tv":  390
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4342,17 +4360,8 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  8,
                                                        "pe":  8,
-                                                       "km":  24.48,
+                                                       "km":  29.77,
                                                        "tv":  329
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  8,
-                                                       "pe":  4,
-                                                       "km":  17.25,
-                                                       "tv":  345
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4387,7 +4396,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  170.18,
+                                                       "km":  187.43,
                                                        "tv":  262
                                                    },
                                                    {
@@ -4813,6 +4822,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.37,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "JOSE CARLOS COELHO-LAGOINHA",
+                                                         "p":  1,
+                                                         "km":  0.57,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Lucas",
