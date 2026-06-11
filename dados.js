@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "16:02",
                      "tv":  "04:39:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -78,7 +78,7 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  3,
-                     "km":  5.26,
+                     "km":  7.12,
                      "semPed":  2,
                      "perc":  66.67,
                      "primeiro":  "08:09",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  8,
+                     "km":  24.48,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "16:11",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -116,31 +130,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  7,
-                     "km":  23.38,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "15:43",
-                     "tv":  "05:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  14.49,
-                     "semPed":  2,
-                     "perc":  33.33,
+                     "visitas":  7,
+                     "km":  16.61,
+                     "semPed":  3,
+                     "perc":  42.86,
                      "primeiro":  "08:13",
-                     "ultimo":  "16:01",
-                     "tv":  "05:01:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:22",
+                     "tv":  "05:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -155,6 +155,20 @@ window.PAINEL = {
                      "ultimo":  "14:32",
                      "tv":  "01:20:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  170.18,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "16:10",
+                     "tv":  "04:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -182,20 +196,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "14:32",
                      "tv":  "04:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  166.67,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "14:57",
-                     "tv":  "03:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -531,6 +531,15 @@ window.PAINEL = {
                          "dur":  "01:05:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "N N NASTARO LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:16:33",
+                         "out":  "16:10:13",
+                         "km":  3.51,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -711,6 +720,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO PARQUE DO SOL LTDA",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "15:47:47",
+                         "out":  "16:11:37",
+                         "km":  1.1,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
@@ -763,6 +781,15 @@ window.PAINEL = {
                          "out":  "16:01:07",
                          "km":  2.8,
                          "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:07:07",
+                         "out":  "16:22:49",
+                         "km":  2.12,
+                         "dur":  "00:15:00"
                      }
                  ],
     "eventos":  [
@@ -956,7 +983,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:47"
+                        "tempo":  "00:28:48"
                     },
                     {
                         "nome":  "Rachel",
@@ -964,7 +991,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:46"
+                        "tempo":  "00:27:47"
                     },
                     {
                         "nome":  "Maira",
@@ -972,7 +999,7 @@ window.PAINEL = {
                         "obs":  "pedido Fauna",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:29"
+                        "tempo":  "00:15:30"
                     }
                 ],
     "semped":  [
@@ -1035,6 +1062,12 @@ window.PAINEL = {
                        "razao":  "EMPORIO DOS BANCARIOS EXPRESS LTDA",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente ausente"
                    },
                    {
                        "nome":  "Castro",
@@ -1181,8 +1214,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     100,
-                     17
+                     103,
+                     19
                  ]
              ],
     "historico":  {
@@ -4025,7 +4058,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4078,7 +4111,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  1,
-                                                       "km":  5.26,
+                                                       "km":  7.12,
                                                        "tv":  327
                                                    },
                                                    {
@@ -4091,6 +4124,15 @@ window.PAINEL = {
                                                        "tv":  322
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  8,
+                                                       "pe":  8,
+                                                       "km":  24.48,
+                                                       "tv":  329
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -4100,22 +4142,13 @@ window.PAINEL = {
                                                        "tv":  248
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  7,
-                                                       "km":  23.38,
-                                                       "tv":  306
-                                                   },
-                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  4,
-                                                       "km":  14.49,
-                                                       "tv":  301
+                                                       "km":  16.61,
+                                                       "tv":  316
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4125,6 +4158,15 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  46.63,
                                                        "tv":  80
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  170.18,
+                                                       "tv":  262
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4143,15 +4185,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  13.79,
                                                        "tv":  273
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  166.67,
-                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4410,6 +4443,13 @@ window.PAINEL = {
                                                          "tv":  65
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "N N NASTARO LTDA",
+                                                         "p":  0,
+                                                         "km":  3.51,
+                                                         "tv":  53
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  0,
@@ -4550,6 +4590,13 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO PARQUE DO SOL LTDA",
+                                                         "p":  1,
+                                                         "km":  1.1,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Nelson",
                                                          "r":  "M S SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -4590,6 +4637,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.8,
                                                          "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                                         "p":  0,
+                                                         "km":  2.12,
+                                                         "tv":  15
                                                      }
                                                  ]
                                      }
