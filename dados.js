@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "11/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -95,9 +95,37 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:39",
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  10.75,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:02",
+                     "ultimo":  "08:39",
+                     "tv":  "00:37:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  22.24,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "08:41",
+                     "tv":  "00:25:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -110,20 +138,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:02",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -172,18 +186,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  0.18,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  "08:16",
+                     "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -223,6 +223,24 @@ window.PAINEL = {
                          "out":  "08:33:22",
                          "km":  0.45,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "C CARVALHO MERCADO",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:02:02",
+                         "out":  "08:39:32",
+                         "km":  10.75,
+                         "dur":  "00:37:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:16:02",
+                         "out":  "08:41:18",
+                         "km":  22.24,
+                         "dur":  "00:25:00"
                      }
                  ],
     "eventos":  [
@@ -248,7 +266,7 @@ window.PAINEL = {
                         "obs":  "indo pra Natividade",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:46:50"
+                        "tempo":  "02:01:45"
                     },
                     {
                         "nome":  "Eduardo",
@@ -256,11 +274,16 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:35"
+                        "tempo":  "01:02:30"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Alan",
+                       "razao":  "C CARVALHO MERCADO",
+                       "mun":  "CAMPINAS",
+                       "obs":  "merchandising e levantamento de pedido"
+                   }
                ],
     "hist":  [
                  [
@@ -370,8 +393,8 @@ window.PAINEL = {
                  ],
                  [
                      "11/06",
-                     4,
-                     0
+                     7,
+                     1
                  ]
              ],
     "historico":  {
@@ -3214,7 +3237,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-11":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3280,17 +3303,26 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  10.75,
+                                                       "tv":  37
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  22.24,
+                                                       "tv":  25
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -3325,12 +3357,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  0.18,
                                                        "tv":  0
                                                    },
                                                    {
@@ -3341,15 +3373,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.18,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -3359,6 +3382,20 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.45,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "C CARVALHO MERCADO",
+                                                         "p":  0,
+                                                         "km":  10.75,
+                                                         "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  1,
+                                                         "km":  22.24,
+                                                         "tv":  25
                                                      }
                                                  ]
                                      }
