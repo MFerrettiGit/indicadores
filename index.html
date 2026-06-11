@@ -92,6 +92,11 @@
   .c-info{background:var(--panel2);color:var(--brand2);border:1px solid var(--line)} .c-mut{background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
   .c-evt{background:var(--panel2);color:var(--brand2);border:1px solid var(--line)} .c-evt+.c-evt{margin-left:4px}
   .num{font-variant-numeric:tabular-nums;font-weight:600}
+  .gfilter{display:flex;gap:10px;align-items:center;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 16px;margin-bottom:18px;box-shadow:var(--shadow);position:sticky;top:82px;z-index:40}
+  .gfilter .gf-ico{font-size:1.1rem}
+  .gfilter label{font-weight:700;font-size:.9rem}
+  .gfilter select{padding:8px 12px;border-radius:9px;border:1px solid var(--line);background:var(--panel2);color:var(--text);font-size:.9rem;font-weight:600;min-width:200px}
+  .gfilter .gf-info{margin-left:auto;color:var(--muted)}
   .filterbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
   .filterbar select,.filterbar input{padding:7px 11px;border-radius:9px;border:1px solid var(--line);background:var(--panel2);color:var(--text);font-size:.84rem}
   .btn{cursor:pointer;border:none;background:var(--accent);color:#fff;font-weight:700;font-size:.84rem;padding:8px 15px;border-radius:9px;margin-left:auto;display:flex;align-items:center;gap:6px}
@@ -141,6 +146,14 @@
 
 <div class="wrap">
 
+  <!-- ===== FILTRO GLOBAL DE REGIONAL ===== -->
+  <div class="gfilter">
+    <span class="gf-ico">📍</span>
+    <label for="gReg">Regional:</label>
+    <select id="gReg" onchange="setRegional(this.value)"><option value="">Todas as regionais</option></select>
+    <span class="gf-info small" id="gRegInfo"></span>
+  </div>
+
   <!-- ===== DESTAQUES ===== -->
   <section>
     <h2 class="sec"><span class="ico">🏆</span> Destaques do dia</h2>
@@ -164,8 +177,8 @@
 
   <!-- ===== PADRÕES SUSPEITOS ===== -->
   <section>
-    <h2 class="sec"><span class="ico">🔎</span> Padrões suspeitos <span class="badge" id="badgeSus">0</span></h2>
-    <div class="lead">Comportamentos fora do comum que merecem conferência.</div>
+    <h2 class="sec"><span class="ico">🔎</span> Pontos de conferência <span class="badge" id="badgeSus">0</span></h2>
+    <div class="lead">Situações fora do comum que valem uma verificação — não são acusações, apenas pontos para conferir.</div>
     <div class="cardgrid" id="susList"></div>
   </section>
 
@@ -174,8 +187,6 @@
     <h2 class="sec"><span class="ico">📋</span> Resumo do trabalho da equipe</h2>
     <div class="lead">A situação de cada vendedor. Clique em um nome para ver a rota completa.</div>
     <div class="filterbar">
-      <label class="small">Regional:</label>
-      <select id="fReg" onchange="renderResumo()"><option value="">Todas</option></select>
       <input id="fName" placeholder="🔍 buscar por nome..." oninput="renderResumo()">
       <button class="btn" onclick="exportXlsx()">⬇️ Exportar para Excel</button>
     </div>
@@ -239,6 +250,8 @@
 const P=window.PAINEL||{};
 const DATA_DT=P.dataDT||'—', DATA_HORA=P.dataHora||'';
 const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos:4,fimAval:1035};
+// parâmetros da régua de conferência "cliente próximo, demorado e recorrente"
+const SUS={longMin:60, kmPerto:5, freqMes:4, freqSem:2};  // >1h de visita, rodou ≤5 km, 4x/mês ou 2x/semana
 const ANALISE_EXCLUI={'Eduardo':true};
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
 const VEND=P.vend||[];
@@ -376,21 +389,31 @@ function buildSuspeitos(v){
   let nowMin=toMin(DATA_HORA); if(nowMin==null)nowMin=1439;
   if(nowMin>=META.fimAval && v.visitas>=4&&v.orders===0) out.push({sev:2,cat:'Dia sem pedido',txt:`${v.visitas} visitas e nenhum pedido no dia inteiro.`});
   v.checkins.forEach(c=>{ if(c.km>=18&&durMin(c.dur)<=18) out.push({sev:1,cat:'Deslocamento',txt:`Rodou ${c.km} km para uma visita de só ${c.dur.slice(0,5)} em "${c.razao}".`}); });
-  // mesma LOJA (mesma razão) visitada 2+ vezes no MESMO dia (grupo com várias lojas é normal, mesma loja não)
-  const g={}; v.checkins.forEach(c=>{ const k=norm(c.razao); (g[k]=g[k]||[]).push(c); });
-  Object.values(g).forEach(arr=>{ if(arr.length>=2){ const semP=arr.every(c=>v.semL.some(s=>s.razao===c.razao)); out.push({sev:semP?2:1,cat:'Visita repetida',txt:`Visitou a mesma loja "${arr[0].razao}" ${arr.length}x hoje`+(semP?' e não fechou pedido.':'.')}); } });
+  // CLIENTE PRÓXIMO, DEMORADO e RECORRENTE: rodou pouco (≤5 km) para chegar, ficou >1h e
+  // visita esse mesmo cliente com frequência (≥4x no mês ou ≥2x na semana). Atrela o tempo ao km:
+  // pouco deslocamento + muito tempo + alta frequência = visita que merece conferência.
+  const sf=STORE_FREQ[v.nome]||{};
+  v.checkins.forEach(c=>{ const d=durMin(c.dur);
+    if(d>=SUS.longMin && c.km<=SUS.kmPerto){
+      const fr=sf[norm(c.razao)]; const mes=fr?fr.monthDias.size:1, sem=fr?fr.weekDias.size:1;
+      if(mes>=SUS.freqMes || sem>=SUS.freqSem){
+        out.push({sev:(mes>=SUS.freqMes&&sem>=SUS.freqSem)?2:1,cat:'Cliente próximo e demorado',
+          txt:`Fica ${c.dur.slice(0,5)} em "${c.razao}" rodando só ${c.km} km até lá e visita com frequência (${mes}x no mês, ${sem}x na semana) — vale conferir o motivo.`});
+      }
+    } });
   // mesma LOJA em vários dias da SEMANA sem fechar pedido (resultado pequeno)
-  const wk=WEEK_STORE[v.nome]||{};
-  Object.values(wk).forEach(s=>{ if(s.dias.size>=2 && s.ped===0) out.push({sev:1,cat:'Loja na semana',txt:`Visitou a loja "${s.label}" em ${s.dias.size} dias diferentes nesta semana e não fechou nenhum pedido.`}); });
+  Object.values(sf).forEach(s=>{ if(s.weekDias.size>=2 && s.weekPed===0) out.push({sev:1,cat:'Loja na semana',txt:`Visitou a loja "${s.label}" em ${s.weekDias.size} dias diferentes nesta semana e não fechou nenhum pedido.`}); });
   return out;
 }
-// repetições de loja na semana, por vendedor: nome -> razaoNorm -> {label, dias:Set, vis, ped}
-const WEEK_STORE=(function(){
+// frequência de cada loja por vendedor (mês e semana atuais): nome -> razaoNorm -> {label, monthDias:Set, weekDias:Set, weekPed}
+const STORE_FREQ=(function(){
   const keys=Object.keys(HISTORICO).sort(); const map={}; if(!keys.length)return map;
-  const today=keys[keys.length-1], d=new Date(today+'T00:00:00');
+  const today=keys[keys.length-1], d=new Date(today+'T00:00:00'), ym=today.slice(0,7);
   const dow=(d.getDay()+6)%7, mon=new Date(d); mon.setDate(d.getDate()-dow); const sun=new Date(mon); sun.setDate(mon.getDate()+6);
-  keys.filter(k=>{const x=new Date(k+'T00:00:00');return x>=mon&&x<=sun;}).forEach(dt=>{
-    (((HISTORICO[dt]||{}).cli)||[]).forEach(c=>{ const nm=c.n,rk=norm(c.r); map[nm]=map[nm]||{}; const e=map[nm][rk]||(map[nm][rk]={label:c.r,dias:new Set(),vis:0,ped:0}); e.dias.add(dt); e.vis++; e.ped+=(c.p||0); });
+  keys.forEach(dt=>{ const x=new Date(dt+'T00:00:00'); const inMonth=dt.slice(0,7)===ym, inWeek=x>=mon&&x<=sun; if(!inMonth&&!inWeek)return;
+    (((HISTORICO[dt]||{}).cli)||[]).forEach(c=>{ const nm=c.n,rk=norm(c.r); map[nm]=map[nm]||{};
+      const e=map[nm][rk]||(map[nm][rk]={label:c.r,monthDias:new Set(),weekDias:new Set(),weekPed:0});
+      if(inMonth)e.monthDias.add(dt); if(inWeek){e.weekDias.add(dt); e.weekPed+=(c.p||0);} });
   });
   return map;
 })();
@@ -434,11 +457,31 @@ function chip(v){ const s=workStatus(v);
     ? '<span class="chip c-mut">padrão</span>'
     : `<span class="chip ${s.cls}">${s.label}</span>`; }
 
+/* ====================== FILTRO GLOBAL DE REGIONAL ====================== */
+let gReg='';                                   // '' = todas as regionais
+function curVEND(){ return gReg? VEND.filter(v=>v.regional===gReg) : VEND; }
+function inScope(nome){ const v=VEND.find(x=>x.nome===nome); return !gReg || (v&&v.regional===gReg); }
+function setRegional(r){
+  gReg=r||'';
+  const info=document.getElementById('gRegInfo');
+  if(info) info.textContent = gReg? ('Mostrando só a regional '+gReg+' ('+curVEND().length+' vendedores).') : ('Mostrando todas as regionais ('+VEND.length+' vendedores).');
+  renderAll();
+}
+function renderAll(){
+  renderDestaques(); renderLeitura(); renderImportant(); renderSuspeitos();
+  renderResumo(); renderCharts(); renderEvt();
+  const at=document.querySelector('.tab.active'); const tk=at?at.dataset.tab:'dia';
+  if(tk==='sem') renderSem(); else if(tk==='mes') renderMes(); else renderDia();
+}
+
 /* ====================== DESTAQUES ====================== */
 function renderDestaques(){
-  const worked=VEND.filter(v=>v.visitas>0&&!v.semAnalise);
-  const best=[...worked].sort((a,b)=>b.perfScore-a.perfScore)[0];
-  const worst=[...worked].sort((a,b)=>a.perfScore-b.perfScore)[0];
+  const worked=curVEND().filter(v=>v.visitas>0&&!v.semAnalise);
+  const el=document.getElementById('destaques');
+  if(!worked.length){ el.innerHTML='<div class="okbox" style="grid-column:1/-1">Ainda não há visitas registradas para destacar nesta seleção.</div>'; return; }
+  const sorted=[...worked].sort((a,b)=>b.perfScore-a.perfScore);
+  const best=sorted[0];
+  const worst=sorted.length>1?sorted[sorted.length-1]:best;
   // motivos
   const bWhy=[];
   bWhy.push(`<b>${best.visitas} visitas</b> e <b>${best.orders} pedidos</b>`);
@@ -452,27 +495,27 @@ function renderDestaques(){
   const wSus=worst.suspeitos[0]; if(wSus) wWhy.push(wSus.txt);
   if(worst.lateStart) wWhy.push(worst.inicio.find(a=>a.cat==='Atraso').txt);
   if(!wWhy.length) wWhy.push(`${worst.visitas} visitas, ${worst.orders} pedidos.`);
-  document.getElementById('destaques').innerHTML=`
+  el.innerHTML=`
    <div class="dcard best"><span class="em">🥇</span>
      <div class="dl">Melhor desempenho</div><div class="dn">${best.nome}</div>
      <div class="dsub">${best.setor} · ${best.regional}</div>
      <div class="dwhy">${bWhyTxt}</div>
      <div class="dmeta"><div>👣 ${best.visitas} visitas</div><div>🧾 ${best.orders} pedidos</div><div>🚗 ${best.km.toFixed(0)} km</div></div>
-   </div>
+   </div>`+(worst!==best?`
    <div class="dcard worst"><span class="em">⚠️</span>
      <div class="dl">Precisa de cobrança</div><div class="dn">${worst.nome}</div>
      <div class="dsub">${worst.setor} · ${worst.regional}</div>
      <div class="dwhy">${wWhy.slice(0,3).join(' ')}</div>
      <div class="dmeta"><div>👣 ${worst.visitas} visitas</div><div>🧾 ${worst.orders} pedidos</div><div>🚩 ${worst.errCount} pontos de atenção</div></div>
-   </div>`;
+   </div>`:'');
 }
 
 /* ====================== INFORMAÇÕES IMPORTANTES ====================== */
 function liList(arr){ return arr.map(a=>`<li class="s${a.sev}"><span class="ct">${a.cat}:</span> ${a.txt}</li>`).join(''); }
 function renderImportant(){
-  const list=VEND.filter(v=>v.cardSev>=1||v.agenda.length>0)
+  const list=curVEND().filter(v=>v.cardSev>=1||v.agenda.length>0)
     .sort((a,b)=> b.cardSev-a.cardSev || b.errCount-a.errCount);
-  document.getElementById('badgeImp').textContent=VEND.filter(v=>v.cardSev>=1).length+' p/ cobrar';
+  document.getElementById('badgeImp').textContent=curVEND().filter(v=>v.cardSev>=1).length+' p/ cobrar';
   document.getElementById('impList').innerHTML=list.map(v=>{
     let body='';
     if(v.agenda.length) body+=`<div class="grp">Agenda do dia</div><ul>${liList(v.agenda)}</ul>`;
@@ -485,7 +528,7 @@ function renderImportant(){
 
 /* ====================== PADRÕES SUSPEITOS ====================== */
 function renderSuspeitos(){
-  const list=VEND.filter(v=>v.suspeitos.length>0)
+  const list=curVEND().filter(v=>v.suspeitos.length>0)
     .sort((a,b)=>Math.max(0,...b.suspeitos.map(s=>s.sev))-Math.max(0,...a.suspeitos.map(s=>s.sev))||b.suspeitos.length-a.suspeitos.length);
   document.getElementById('badgeSus').textContent=list.length+' vendedores';
   document.getElementById('susList').innerHTML=list.map(v=>{
@@ -497,9 +540,8 @@ function renderSuspeitos(){
 /* ====================== RESUMO DO TRABALHO ====================== */
 let sortK='nome',sortDir=1;
 function currentRows(){
-  const reg=document.getElementById('fReg').value;
   const nm=norm(document.getElementById('fName').value);
-  let rows=VEND.filter(v=>(!reg||v.regional===reg)&&(!nm||norm(v.nome).includes(nm)));
+  let rows=curVEND().filter(v=>(!nm||norm(v.nome).includes(nm)));
   rows.sort((a,b)=>{ let x=a[sortK],y=b[sortK]; if(x==null)x=-1; if(y==null)y=-1; if(typeof x==='string')return sortDir*x.localeCompare(y); return sortDir*(x-y); });
   return rows;
 }
@@ -568,9 +610,10 @@ document.querySelectorAll('#resTable th').forEach(th=>th.onclick=()=>{ const k=t
 
 /* ====================== RESUMO POR PERÍODO ====================== */
 function statKpis(){
-  const tVis=VEND.reduce((a,v)=>a+v.visitas,0),tPed=VEND.reduce((a,v)=>a+v.orders,0),
-        tKm=VEND.reduce((a,v)=>a+v.km,0),tTv=VEND.reduce((a,v)=>a+v.tvMin,0),
-        spans=VEND.filter(v=>v.span!=null),jorMed=spans.length?spans.reduce((a,v)=>a+v.span,0)/spans.length:0;
+  const VV=curVEND();
+  const tVis=VV.reduce((a,v)=>a+v.visitas,0),tPed=VV.reduce((a,v)=>a+v.orders,0),
+        tKm=VV.reduce((a,v)=>a+v.km,0),tTv=VV.reduce((a,v)=>a+v.tvMin,0),
+        spans=VV.filter(v=>v.span!=null),jorMed=spans.length?spans.reduce((a,v)=>a+v.span,0)/spans.length:0;
   return `<div class="kpis">
     <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
     <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
@@ -580,8 +623,9 @@ function statKpis(){
    </div>`;
 }
 function vendBars(){
-  const max=Math.max(...VEND.map(v=>v.visitas))||1;
-  const rows=[...VEND].sort((a,b)=>b.visitas-a.visitas).map(v=>{
+  const VV=curVEND();
+  const max=Math.max(1,...VV.map(v=>v.visitas));
+  const rows=[...VV].sort((a,b)=>b.visitas-a.visitas).map(v=>{
     const w=Math.max(2,v.visitas/max*100);
     const cls=v.visitas>=META.visitas?'b-ok':(v.visitas>0?'b-warn':'b-bad');
     return `<div class="barrow"><span class="small">${v.nome}</span><div class="bartrack"><div class="bar ${cls}" style="width:${w}%"></div></div><span class="num">${v.visitas}v · ${v.orders}p</span></div>`;
@@ -597,7 +641,7 @@ function periodDates(kind){
   return [today];
 }
 function aggPeriod(kind){ const dates=periodDates(kind),map={};
-  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:r.regional,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=r.pe;m.km+=r.km;m.tv+=r.tv; }); });
+  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ if(gReg && r.regional!==gReg) return; const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:r.regional,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=r.pe;m.km+=r.km;m.tv+=r.tv; }); });
   return {dates,rows:Object.values(map)};
 }
 function periodView(kind){
@@ -639,15 +683,16 @@ function barChart(items,meta,fmt){
   }).join('');
 }
 function renderCharts(){
-  document.getElementById('chartVis').innerHTML=barChart([...VEND].sort((a,b)=>b.visitas-a.visitas).map(v=>({label:v.nome,val:v.visitas,cls:v.visitas>=5?'b-ok':(v.visitas>0?'b-warn':'b-bad')})),5);
-  document.getElementById('chartPed').innerHTML=barChart([...VEND].sort((a,b)=>b.orders-a.orders).map(v=>({label:v.nome,val:v.orders,cls:v.orders>=4?'b-ok':(v.orders>0?'b-warn':'b-bad')})),4);
-  document.getElementById('chartKm').innerHTML=barChart([...VEND].sort((a,b)=>b.km-a.km).map(v=>({label:v.nome,val:+v.km.toFixed(1),cls:'b-ok'})),null,x=>x.toFixed(1));
+  const VV=curVEND();
+  document.getElementById('chartVis').innerHTML=barChart([...VV].sort((a,b)=>b.visitas-a.visitas).map(v=>({label:v.nome,val:v.visitas,cls:v.visitas>=5?'b-ok':(v.visitas>0?'b-warn':'b-bad')})),5);
+  document.getElementById('chartPed').innerHTML=barChart([...VV].sort((a,b)=>b.orders-a.orders).map(v=>({label:v.nome,val:v.orders,cls:v.orders>=4?'b-ok':(v.orders>0?'b-warn':'b-bad')})),4);
+  document.getElementById('chartKm').innerHTML=barChart([...VV].sort((a,b)=>b.km-a.km).map(v=>({label:v.nome,val:+v.km.toFixed(1),cls:'b-ok'})),null,x=>x.toFixed(1));
   document.getElementById('chartDonut').innerHTML=donut();
   document.getElementById('chartLine').innerHTML=lineChart();
 }
 function donut(){
   const cats={'Cliente ausente':0,'Estocado':0,'Cotação':0,'Prospecção':0,'Merchandising':0,'Outro':0};
-  SEMPED.forEach(s=>{ const o=norm(s.obs);
+  SEMPED.filter(s=>inScope(s.nome)).forEach(s=>{ const o=norm(s.obs);
     if(/ausente|nao atendeu|nao me atendeu/.test(o))cats['Cliente ausente']++;
     else if(/estoc/.test(o))cats['Estocado']++; else if(/cota/.test(o))cats['Cotação']++;
     else if(/prospec/.test(o))cats['Prospecção']++; else if(/merchan|levant/.test(o))cats['Merchandising']++; else cats['Outro']++; });
@@ -671,7 +716,7 @@ function lineChart(){
 
 /* ====================== EVENTOS ====================== */
 function renderEvt(){
-  document.querySelector('#evtTable tbody').innerHTML=[...EVENTOS].sort((a,b)=>a.nome.localeCompare(b.nome)).map(e=>
+  document.querySelector('#evtTable tbody').innerHTML=EVENTOS.filter(e=>inScope(e.nome)).sort((a,b)=>a.nome.localeCompare(b.nome)).map(e=>
     `<tr><td><b>${e.nome}</b></td><td>${e.tipo}</td><td class="small">${e.obs}</td><td class="num">${e.inicio||'—'}</td><td class="num">${e.final||'—'}</td><td class="num">${e.tempo.slice(0,5)}</td></tr>`).join('');
 }
 
@@ -720,7 +765,7 @@ function toggleTheme(){ const h=document.documentElement,dark=h.getAttribute('da
   document.getElementById('themeBtn').textContent=dark?'🌙 Escuro':'☀️ Claro';
   try{localStorage.setItem('pv-theme',dark?'light':'dark');}catch(e){} }
 function renderLeitura(){
-  const ov=VEND.filter(v=>!v.semAnalise), n=ov.length;
+  const ov=curVEND().filter(v=>!v.semAnalise), n=ov.length;
   const tVis=ov.reduce((a,v)=>a+v.visitas,0), tPed=ov.reduce((a,v)=>a+v.orders,0), tKm=ov.reduce((a,v)=>a+v.km,0);
   const cobrar=ov.filter(v=>v.cardSev>=2), atencao=ov.filter(v=>v.cardSev===1);
   const semPedTot=ov.filter(v=>v.visitas>0&&v.orders===0);
@@ -752,9 +797,9 @@ function renderLeitura(){
   try{ const t=localStorage.getItem('pv-theme'); if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');document.getElementById('themeBtn').textContent='☀️ Claro';} }catch(e){}
   document.getElementById('hupd').textContent=DATA_DT+' às '+DATA_HORA;
   document.getElementById('foot').innerHTML=`M. Ferretti — Painel de gestão da equipe de vendas.<br>Dados de campo atualizados em <b>${DATA_DT} às ${DATA_HORA}</b>.`;
-  const regs=[...new Set(VEND.map(v=>v.regional))];
-  document.getElementById('fReg').innerHTML='<option value="">Todas</option>'+regs.map(r=>`<option>${r}</option>`).join('');
-  renderDestaques(); renderLeitura(); renderImportant(); renderSuspeitos(); renderResumo(); renderDia(); renderCharts(); renderEvt();
+  const regs=[...new Set(VEND.map(v=>v.regional))].sort();
+  document.getElementById('gReg').innerHTML='<option value="">Todas as regionais</option>'+regs.map(r=>`<option>${r}</option>`).join('');
+  setRegional('');   // popula info e renderiza tudo (todas as regionais)
 })();
 </script>
 </body>
