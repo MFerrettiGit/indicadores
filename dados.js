@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -35,15 +35,15 @@ window.PAINEL = {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  83.95,
+                     "visitas":  7,
+                     "km":  120.96,
                      "semPed":  5,
-                     "perc":  83.33,
+                     "perc":  71.43,
                      "primeiro":  "08:30",
-                     "ultimo":  "15:39",
-                     "tv":  "05:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "17:21",
+                     "tv":  "05:57:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -56,6 +56,20 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "16:50",
                      "tv":  "05:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  73.65,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:28",
+                     "ultimo":  "17:24",
+                     "tv":  "06:05:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -88,17 +102,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  44.32,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:28",
-                     "ultimo":  "15:54",
-                     "tv":  "05:02:00",
-                     "emVisita":  1,
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  8,
+                     "km":  5.68,
+                     "semPed":  1,
+                     "perc":  12.5,
+                     "primeiro":  "08:11",
+                     "ultimo":  "17:19",
+                     "tv":  "07:53:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -130,45 +144,31 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  7,
-                     "km":  5.23,
-                     "semPed":  1,
-                     "perc":  14.29,
-                     "primeiro":  "08:11",
-                     "ultimo":  "16:21",
-                     "tv":  "07:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  74,
+                     "visitas":  7,
+                     "km":  82.21,
                      "semPed":  1,
-                     "perc":  16.67,
+                     "perc":  14.29,
                      "primeiro":  "08:09",
-                     "ultimo":  "15:03",
-                     "tv":  "03:50:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:19",
+                     "tv":  "05:59:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  84.18,
+                     "visitas":  5,
+                     "km":  90.4,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
-                     "ultimo":  "16:06",
-                     "tv":  "04:14:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:16",
+                     "tv":  "05:18:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -313,6 +313,15 @@ window.PAINEL = {
                          "out":  "15:54:55",
                          "km":  10.98,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO TONELLI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:20:31",
+                         "out":  "17:24:28",
+                         "km":  29.33,
+                         "dur":  "01:03:00"
                      },
                      {
                          "nome":  "Luis",
@@ -495,6 +504,15 @@ window.PAINEL = {
                          "dur":  "01:01:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:29:32",
+                         "out":  "17:21:14",
+                         "km":  37.01,
+                         "dur":  "00:51:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "MARCOS NUNES DA SILVA",
                          "mun":  "CAMPINAS",
@@ -610,6 +628,15 @@ window.PAINEL = {
                          "out":  "15:03:58",
                          "km":  7.96,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO TULON LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "15:09:04",
+                         "out":  "17:19:14",
+                         "km":  8.21,
+                         "dur":  "02:09:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -747,6 +774,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "W. A. DE CAMPOS - MERCEARIA",
+                         "mun":  "CUNHA",
+                         "in":  "16:27:09",
+                         "out":  "17:19:11",
+                         "km":  0.45,
+                         "dur":  "00:51:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -799,6 +835,15 @@ window.PAINEL = {
                          "out":  "16:06:27",
                          "km":  69.9,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "in":  "16:11:14",
+                         "out":  "17:16:20",
+                         "km":  6.22,
+                         "dur":  "01:04:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1011,7 +1056,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:19:55"
+                        "tempo":  "03:35:04"
                     },
                     {
                         "nome":  "Lucas",
@@ -1019,7 +1064,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:09:25"
+                        "tempo":  "02:24:34"
                     },
                     {
                         "nome":  "Cominato",
@@ -1027,7 +1072,15 @@ window.PAINEL = {
                         "obs":  "Planejamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:17"
+                        "tempo":  "00:16:26"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "digitação de pedido",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:43"
                     }
                 ],
     "semped":  [
@@ -1190,46 +1243,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO TONELLI LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:51:16"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:42:15"
-                     },
-                     {
                          "nome":  "Alan",
                          "razao":  "MINI MERCADO EULISA LTDA ME",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:52"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "W. A. DE CAMPOS - MERCEARIA",
-                         "mun":  "CUNHA",
-                         "tempo":  "00:44:38"
+                         "tempo":  "00:15:54"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:23:21"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO TULON LTDA.",
-                         "mun":  "ITATIBA",
-                         "tempo":  "02:02:43"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
-                         "mun":  "CACAPAVA",
-                         "tempo":  "01:00:33"
+                         "tempo":  "01:38:23"
                      }
                  ],
     "hist":  [
@@ -1340,7 +1363,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     104,
+                     109,
                      26
                  ]
              ],
@@ -4893,7 +4916,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4917,10 +4940,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  1,
-                                                       "km":  83.95,
-                                                       "tv":  306
+                                                       "vi":  7,
+                                                       "pe":  2,
+                                                       "km":  120.96,
+                                                       "tv":  357
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4930,6 +4953,15 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  47.91,
                                                        "tv":  326
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  73.65,
+                                                       "tv":  365
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4950,13 +4982,13 @@ window.PAINEL = {
                                                        "tv":  374
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  44.32,
-                                                       "tv":  302
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  8,
+                                                       "pe":  7,
+                                                       "km":  5.68,
+                                                       "tv":  473
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4977,31 +5009,22 @@ window.PAINEL = {
                                                        "tv":  332
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  6,
-                                                       "km":  5.23,
-                                                       "tv":  422
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  74,
-                                                       "tv":  230
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  82.21,
+                                                       "tv":  359
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  84.18,
-                                                       "tv":  254
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  90.4,
+                                                       "tv":  318
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -5108,6 +5131,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  10.98,
                                                          "tv":  106
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO TONELLI LTDA",
+                                                         "p":  1,
+                                                         "km":  29.33,
+                                                         "tv":  63
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -5250,6 +5280,13 @@ window.PAINEL = {
                                                          "tv":  61
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                                         "p":  1,
+                                                         "km":  37.01,
+                                                         "tv":  51
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "MARCOS NUNES DA SILVA",
                                                          "p":  1,
@@ -5339,6 +5376,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.96,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO TULON LTDA.",
+                                                         "p":  1,
+                                                         "km":  8.21,
+                                                         "tv":  129
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -5446,6 +5490,13 @@ window.PAINEL = {
                                                          "tv":  35
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "W. A. DE CAMPOS - MERCEARIA",
+                                                         "p":  1,
+                                                         "km":  0.45,
+                                                         "tv":  51
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -5486,6 +5537,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  69.9,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                                         "p":  1,
+                                                         "km":  6.22,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Nelson",

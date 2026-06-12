@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3571,10 +3571,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  1,
-                                     "km":  83.95,
-                                     "tv":  306
+                                     "vi":  7,
+                                     "pe":  2,
+                                     "km":  120.96,
+                                     "tv":  357
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3584,6 +3584,15 @@
                                      "pe":  5,
                                      "km":  47.91,
                                      "tv":  326
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  73.65,
+                                     "tv":  365
                                  },
                                  {
                                      "nome":  "Luis",
@@ -3604,13 +3613,13 @@
                                      "tv":  374
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  44.32,
-                                     "tv":  302
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  8,
+                                     "pe":  7,
+                                     "km":  5.68,
+                                     "tv":  473
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3631,31 +3640,22 @@
                                      "tv":  332
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  6,
-                                     "km":  5.23,
-                                     "tv":  422
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  74,
-                                     "tv":  230
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  82.21,
+                                     "tv":  359
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  84.18,
-                                     "tv":  254
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  90.4,
+                                     "tv":  318
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -3762,6 +3762,13 @@
                                        "p":  1,
                                        "km":  10.98,
                                        "tv":  106
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO TONELLI LTDA",
+                                       "p":  1,
+                                       "km":  29.33,
+                                       "tv":  63
                                    },
                                    {
                                        "n":  "Luis",
@@ -3904,6 +3911,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  1,
+                                       "km":  37.01,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MARCOS NUNES DA SILVA",
                                        "p":  1,
@@ -3993,6 +4007,13 @@
                                        "p":  1,
                                        "km":  7.96,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO TULON LTDA.",
+                                       "p":  1,
+                                       "km":  8.21,
+                                       "tv":  129
                                    },
                                    {
                                        "n":  "Cominato",
@@ -4100,6 +4121,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "W. A. DE CAMPOS - MERCEARIA",
+                                       "p":  1,
+                                       "km":  0.45,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -4140,6 +4168,13 @@
                                        "p":  1,
                                        "km":  69.9,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                       "p":  1,
+                                       "km":  6.22,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Nelson",
