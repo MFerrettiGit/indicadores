@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,7 +14,7 @@ window.PAINEL = {
                      "primeiro":  "07:46",
                      "ultimo":  "09:16",
                      "tv":  "01:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "09:18",
                      "tv":  "00:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -133,14 +133,14 @@ window.PAINEL = {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  22.39,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:05",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:36",
+                     "tv":  "01:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -241,6 +241,15 @@ window.PAINEL = {
                          "out":  "09:18:19",
                          "km":  17.94,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MARCOS NUNES DA SILVA",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:05:04",
+                         "out":  "09:36:46",
+                         "km":  22.39,
+                         "dur":  "01:31:00"
                      },
                      {
                          "nome":  "Castro",
@@ -433,7 +442,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     15,
+                     17,
                      3
                  ]
              ],
@@ -3986,7 +3995,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4073,10 +4082,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  22.39,
+                                                       "tv":  91
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4145,6 +4154,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  17.94,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "MARCOS NUNES DA SILVA",
+                                                         "p":  1,
+                                                         "km":  22.39,
+                                                         "tv":  91
                                                      },
                                                      {
                                                          "n":  "Castro",
