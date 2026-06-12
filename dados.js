@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,6 +29,20 @@ window.PAINEL = {
                      "ultimo":  "11:52",
                      "tv":  "02:32:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  58.07,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:30",
+                     "ultimo":  "12:31",
+                     "tv":  "03:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -46,17 +60,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  57.75,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:30",
-                     "ultimo":  "12:00",
-                     "tv":  "03:12:00",
-                     "emVisita":  1,
+                     "visitas":  2,
+                     "km":  18.49,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "12:25",
+                     "tv":  "03:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -71,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "12:08",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -86,20 +100,6 @@ window.PAINEL = {
                      "tv":  "03:14:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  15.14,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "10:32",
-                     "tv":  "02:09:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -141,20 +141,20 @@ window.PAINEL = {
                      "ultimo":  "11:50",
                      "tv":  "03:05:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  6.87,
+                     "visitas":  3,
+                     "km":  14.28,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
-                     "ultimo":  "11:23",
-                     "tv":  "02:40:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:38",
+                     "tv":  "03:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "12:22",
                      "tv":  "03:58:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,6 +315,15 @@ window.PAINEL = {
                          "dur":  "02:09:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "GONCALVES E GONCALVES LTDA",
+                         "mun":  "SUMARE",
+                         "in":  "11:05:46",
+                         "out":  "12:25:54",
+                         "km":  3.35,
+                         "dur":  "01:20:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "SERRA NEGRA",
@@ -376,6 +385,15 @@ window.PAINEL = {
                          "out":  "12:00:45",
                          "km":  1.53,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LEANDRO APARECIDO PIEROBON",
+                         "mun":  "ANALANDIA",
+                         "in":  "12:05:37",
+                         "out":  "12:31:57",
+                         "km":  0.32,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Alan",
@@ -558,6 +576,15 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "AMIGOS SUPERMERCADOS LTDA",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "12:04:24",
+                         "out":  "12:38:11",
+                         "km":  7.41,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
                          "mun":  "ITAPETININGA",
@@ -607,7 +634,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:59"
+                        "tempo":  "00:29:56"
                     },
                     {
                         "nome":  "Luis",
@@ -615,7 +642,31 @@ window.PAINEL = {
                         "obs":  "Orlandia a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:40"
+                        "tempo":  "00:24:37"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:04"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:15"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:29"
                     }
                 ],
     "semped":  [
@@ -702,26 +753,20 @@ window.PAINEL = {
                        "razao":  "64.293.385 DANIEL DONIZETE DE MORAES",
                        "mun":  "ALVINLANDIA",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "LEANDRO APARECIDO PIEROBON",
+                       "mun":  "ANALANDIA",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "GONCALVES E GONCALVES LTDA",
-                         "mun":  "SUMARE",
-                         "tempo":  "01:18:24"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "LEANDRO APARECIDO PIEROBON",
-                         "mun":  "ANALANDIA",
-                         "tempo":  "00:18:33"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "AMIGOS SUPERMERCADOS LTDA",
-                         "mun":  "GUARATINGUETA",
-                         "tempo":  "00:19:46"
+                         "nome":  "Karina",
+                         "razao":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
+                         "mun":  "CUNHA",
+                         "tempo":  "00:09:06"
                      }
                  ],
     "hist":  [
@@ -832,8 +877,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     61,
-                     14
+                     64,
+                     15
                  ]
              ],
     "historico":  {
@@ -4385,7 +4430,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4406,6 +4451,15 @@ window.PAINEL = {
                                                        "tv":  152
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  58.07,
+                                                       "tv":  218
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -4415,13 +4469,13 @@ window.PAINEL = {
                                                        "tv":  225
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  57.75,
-                                                       "tv":  192
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  18.49,
+                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -4440,15 +4494,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  80.79,
                                                        "tv":  194
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  15.14,
-                                                       "tv":  129
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4481,10 +4526,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  6.87,
-                                                       "tv":  160
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  14.28,
+                                                       "tv":  193
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -4602,6 +4647,13 @@ window.PAINEL = {
                                                          "tv":  129
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "GONCALVES E GONCALVES LTDA",
+                                                         "p":  1,
+                                                         "km":  3.35,
+                                                         "tv":  80
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
@@ -4649,6 +4701,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.53,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "LEANDRO APARECIDO PIEROBON",
+                                                         "p":  0,
+                                                         "km":  0.32,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -4789,6 +4848,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.51,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "AMIGOS SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  7.41,
+                                                         "tv":  33
                                                      },
                                                      {
                                                          "n":  "Nelson",
