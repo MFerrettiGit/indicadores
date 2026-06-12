@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  31.07,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:29",
+                     "ultimo":  "14:49",
+                     "tv":  "02:48:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "13:08",
                      "tv":  "04:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  30.46,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:29",
-                     "ultimo":  "11:52",
-                     "tv":  "02:32:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  28.47,
-                     "semPed":  5,
+                     "visitas":  6,
+                     "km":  49.1,
+                     "semPed":  6,
                      "perc":  100,
                      "primeiro":  "08:01",
-                     "ultimo":  "13:36",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:50",
+                     "tv":  "03:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "12:06",
                      "tv":  "03:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -360,6 +360,15 @@ window.PAINEL = {
                          "dur":  "00:28:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO COLORADO LTDA",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "14:32:06",
+                         "out":  "14:49:23",
+                         "km":  0.61,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                          "mun":  "ANALANDIA",
@@ -538,6 +547,15 @@ window.PAINEL = {
                          "out":  "13:36:54",
                          "km":  1.95,
                          "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:03:16",
+                         "out":  "14:50:03",
+                         "km":  20.63,
+                         "dur":  "00:46:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -823,7 +841,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:58"
+                        "tempo":  "01:02:04"
                     }
                 ],
     "semped":  [
@@ -862,6 +880,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO COLORADO LTDA",
                        "mun":  "SERRA NEGRA",
                        "obs":  "visita para análise da loja"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO COLORADO LTDA",
+                       "mun":  "SERRA NEGRA",
+                       "obs":  "analise da loja"
                    },
                    {
                        "nome":  "Luis",
@@ -906,6 +930,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MARCHESANI",
                        "mun":  "ANALANDIA",
@@ -935,49 +965,43 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:26:50"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO COLORADO LTDA",
-                         "mun":  "SERRA NEGRA",
-                         "tempo":  "00:07:04"
+                         "tempo":  "00:41:50"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "L. F. DE ANDRADE E CIA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:07:45"
+                         "tempo":  "00:22:45"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:31:11"
+                         "tempo":  "00:46:11"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BIANCHINI",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:01:10"
+                         "tempo":  "00:16:10"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "JOSE C. S. DOS REIS",
                          "mun":  "CUNHA",
-                         "tempo":  "00:03:33"
+                         "tempo":  "00:18:33"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL MEDEIROS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:16"
+                         "tempo":  "00:22:16"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:35:54"
+                         "nome":  "Castro",
+                         "razao":  "ROBERTA FACIPIERRE MANDRO",
+                         "mun":  "ITATIBA",
+                         "tempo":  "00:06:24"
                      }
                  ],
     "hist":  [
@@ -1088,8 +1112,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     75,
-                     17
+                     77,
+                     19
                  ]
              ],
     "historico":  {
@@ -4641,7 +4665,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4653,6 +4677,15 @@ window.PAINEL = {
                                                        "tv":  251
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  31.07,
+                                                       "tv":  168
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -4660,15 +4693,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  59.52,
                                                        "tv":  245
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  30.46,
-                                                       "tv":  152
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4710,10 +4734,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  28.47,
-                                                       "tv":  163
+                                                       "km":  49.1,
+                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4893,6 +4917,13 @@ window.PAINEL = {
                                                          "tv":  28
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO COLORADO LTDA",
+                                                         "p":  0,
+                                                         "km":  0.61,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                                          "p":  1,
@@ -5031,6 +5062,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.95,
                                                          "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  20.63,
+                                                         "tv":  46
                                                      },
                                                      {
                                                          "n":  "Eugenio",

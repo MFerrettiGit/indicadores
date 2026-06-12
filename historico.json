@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3559,6 +3559,15 @@
                                      "tv":  251
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  31.07,
+                                     "tv":  168
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -3566,15 +3575,6 @@
                                      "pe":  1,
                                      "km":  59.52,
                                      "tv":  245
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  30.46,
-                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3616,10 +3616,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  28.47,
-                                     "tv":  163
+                                     "km":  49.1,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Alan",
@@ -3799,6 +3799,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO COLORADO LTDA",
+                                       "p":  0,
+                                       "km":  0.61,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                        "p":  1,
@@ -3937,6 +3944,13 @@
                                        "p":  0,
                                        "km":  1.95,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  20.63,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Eugenio",
