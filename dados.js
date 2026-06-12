@@ -1,20 +1,34 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  1,
-                     "km":  12.12,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  12.23,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "07:46",
-                     "ultimo":  "08:49",
-                     "tv":  "01:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:16",
+                     "tv":  "01:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  23.59,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:29",
+                     "ultimo":  "09:18",
+                     "tv":  "00:48:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -60,20 +74,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  5.65,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:29",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -105,20 +105,20 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  2,
+                     "visitas":  3,
                      "km":  35.07,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:09",
-                     "ultimo":  "08:55",
-                     "tv":  "00:39:00",
+                     "ultimo":  "09:13",
+                     "tv":  "00:56:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
-                     "regional":  "SUL",
+                     "regional":  "NORDESTE",
                      "visitas":  1,
                      "km":  8.17,
                      "semPed":  1,
@@ -225,6 +225,24 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.01",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:49:38",
+                         "out":  "09:16:12",
+                         "km":  0.11,
+                         "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "08:29:59",
+                         "out":  "09:18:19",
+                         "km":  17.94,
+                         "dur":  "00:48:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "INFANGER",
                          "mun":  "VINHEDO",
@@ -241,6 +259,15 @@ window.PAINEL = {
                          "out":  "08:55:20",
                          "km":  1.24,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "INFANGER E CIA LTDA",
+                         "mun":  "VINHEDO",
+                         "in":  "08:56:12",
+                         "out":  "09:13:48",
+                         "km":  0,
+                         "dur":  "00:17:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -282,6 +309,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA (VL ARENS)",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA - LJ.01",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
@@ -400,8 +433,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     11,
-                     2
+                     15,
+                     3
                  ]
              ],
     "historico":  {
@@ -3953,16 +3986,25 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  12.12,
-                                                       "tv":  62
+                                                       "km":  12.23,
+                                                       "tv":  88
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  23.59,
+                                                       "tv":  48
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -3992,15 +4034,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  5.65,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -4022,15 +4055,15 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
+                                                       "vi":  3,
+                                                       "pe":  3,
                                                        "km":  35.07,
-                                                       "tv":  39
+                                                       "tv":  56
                                                    },
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
-                                                       "regional":  "SUL",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  0,
                                                        "km":  8.17,
@@ -4100,6 +4133,20 @@ window.PAINEL = {
                                                          "tv":  62
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.01",
+                                                         "p":  0,
+                                                         "km":  0.11,
+                                                         "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  17.94,
+                                                         "tv":  48
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "INFANGER",
                                                          "p":  1,
@@ -4112,6 +4159,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.24,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "INFANGER E CIA LTDA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Cominato",

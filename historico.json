@@ -3547,16 +3547,25 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  12.12,
-                                     "tv":  62
+                                     "km":  12.23,
+                                     "tv":  88
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  23.59,
+                                     "tv":  48
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3586,15 +3595,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  5.65,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -3616,15 +3616,15 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
+                                     "vi":  3,
+                                     "pe":  3,
                                      "km":  35.07,
-                                     "tv":  39
+                                     "tv":  56
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
-                                     "regional":  "SUL",
+                                     "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  0,
                                      "km":  8.17,
@@ -3694,6 +3694,20 @@
                                        "tv":  62
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.01",
+                                       "p":  0,
+                                       "km":  0.11,
+                                       "tv":  26
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  17.94,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "INFANGER",
                                        "p":  1,
@@ -3706,6 +3720,13 @@
                                        "p":  1,
                                        "km":  1.24,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "INFANGER E CIA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Cominato",
