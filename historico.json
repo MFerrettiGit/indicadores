@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3613,6 +3613,15 @@
                                      "tv":  374
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  8,
+                                     "pe":  5,
+                                     "km":  60.34,
+                                     "tv":  355
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  0,
                                      "km":  57.77,
                                      "tv":  249
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  5,
-                                     "km":  60.34,
-                                     "tv":  332
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3965,6 +3965,13 @@
                                        "p":  1,
                                        "km":  5.12,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "MINI MERCADO EULISA LTDA ME",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Castro",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  8,
+                     "km":  60.34,
+                     "semPed":  3,
+                     "perc":  37.5,
+                     "primeiro":  "08:05",
+                     "ultimo":  "17:34",
+                     "tv":  "05:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -113,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "17:19",
                      "tv":  "07:53:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -128,20 +142,6 @@ window.PAINEL = {
                      "tv":  "04:09:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  7,
-                     "km":  60.34,
-                     "semPed":  2,
-                     "perc":  28.57,
-                     "primeiro":  "08:05",
-                     "ultimo":  "16:50",
-                     "tv":  "05:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -197,7 +197,7 @@ window.PAINEL = {
                      "ultimo":  "12:15",
                      "tv":  "03:40:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -574,6 +574,15 @@ window.PAINEL = {
                          "out":  "16:50:55",
                          "km":  5.12,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MINI MERCADO EULISA LTDA ME",
+                         "mun":  "CAMPINAS",
+                         "in":  "17:10:55",
+                         "out":  "17:34:24",
+                         "km":  0,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Castro",
@@ -963,6 +972,14 @@ window.PAINEL = {
                         "tempo":  "01:24:32"
                     },
                     {
+                        "nome":  "Lucas",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
+                        "inicio":  "15:03",
+                        "final":  "17:30",
+                        "tempo":  "02:27:05"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1056,15 +1073,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:35:04"
-                    },
-                    {
-                        "nome":  "Lucas",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:24:34"
+                        "tempo":  "03:47:34"
                     },
                     {
                         "nome":  "Cominato",
@@ -1072,7 +1081,7 @@ window.PAINEL = {
                         "obs":  "Planejamento",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:26"
+                        "tempo":  "00:28:56"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1080,7 +1089,15 @@ window.PAINEL = {
                         "obs":  "digitação de pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:43"
+                        "tempo":  "00:14:13"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Em Viagem",
+                        "obs":  "retorno caragua",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:46"
                     }
                 ],
     "semped":  [
@@ -1095,6 +1112,12 @@ window.PAINEL = {
                        "razao":  "PAM PRODUTOS PARA LIMPEZA LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "cliente estocado."
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "MINI MERCADO EULISA LTDA ME",
+                       "mun":  "CAMPINAS",
+                       "obs":  "prospecção de cliente"
                    },
                    {
                        "nome":  "Karina",
@@ -1243,16 +1266,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Alan",
-                         "razao":  "MINI MERCADO EULISA LTDA ME",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:15:54"
-                     },
-                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:38:23"
+                         "tempo":  "01:50:47"
                      }
                  ],
     "hist":  [
@@ -1363,8 +1380,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     109,
-                     26
+                     110,
+                     27
                  ]
              ],
     "historico":  {
@@ -4916,7 +4933,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4982,6 +4999,15 @@ window.PAINEL = {
                                                        "tv":  374
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  8,
+                                                       "pe":  5,
+                                                       "km":  60.34,
+                                                       "tv":  355
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -4998,15 +5024,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  57.77,
                                                        "tv":  249
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  5,
-                                                       "km":  60.34,
-                                                       "tv":  332
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -5334,6 +5351,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.12,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "MINI MERCADO EULISA LTDA ME",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Castro",
