@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  "09:16",
                      "tv":  "01:28:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  44.28,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:01",
+                     "tv":  "02:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -32,20 +46,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  41.89,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "10:34",
-                     "tv":  "02:27:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "10:32",
                      "tv":  "02:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:37",
                      "tv":  "01:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "10:52",
                      "tv":  "02:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -241,6 +241,15 @@ window.PAINEL = {
                          "out":  "10:34:42",
                          "km":  0,
                          "dur":  "02:27:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "ALTARUGIO",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "10:43:10",
+                         "out":  "11:01:58",
+                         "km":  2.39,
+                         "dur":  "00:18:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -553,7 +562,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     36,
+                     37,
                      5
                  ]
              ],
@@ -4106,7 +4115,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4118,6 +4127,15 @@ window.PAINEL = {
                                                        "tv":  88
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  44.28,
+                                                       "tv":  165
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -4125,15 +4143,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  25.12,
                                                        "tv":  95
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  41.89,
-                                                       "tv":  147
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -4265,6 +4274,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  147
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "ALTARUGIO",
+                                                         "p":  1,
+                                                         "km":  2.39,
+                                                         "tv":  18
                                                      },
                                                      {
                                                          "n":  "Fernando",

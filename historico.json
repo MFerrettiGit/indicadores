@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3559,6 +3559,15 @@
                                      "tv":  88
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  44.28,
+                                     "tv":  165
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -3566,15 +3575,6 @@
                                      "pe":  2,
                                      "km":  25.12,
                                      "tv":  95
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.89,
-                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Maira",
@@ -3706,6 +3706,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  147
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "ALTARUGIO",
+                                       "p":  1,
+                                       "km":  2.39,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Fernando",
