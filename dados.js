@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "10:27",
                      "tv":  "01:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:34",
                      "tv":  "02:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -63,27 +63,27 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  21.36,
+                     "visitas":  1,
+                     "km":  25.68,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:28",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:51",
+                     "tv":  "02:21:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  5.23,
+                     "visitas":  1,
+                     "km":  55.83,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:30",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "10:40",
+                     "tv":  "02:10:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "10:15",
                      "tv":  "02:03:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -155,6 +155,20 @@ window.PAINEL = {
                      "ultimo":  "10:03",
                      "tv":  "01:56:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  7.1,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "10:52",
+                     "tv":  "02:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.61,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:23",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -243,6 +243,15 @@ window.PAINEL = {
                          "dur":  "02:27:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "08:28:34",
+                         "out":  "10:51:25",
+                         "km":  4.32,
+                         "dur":  "02:21:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO MADEAN LTDA.",
                          "mun":  "SUMARE",
@@ -268,6 +277,15 @@ window.PAINEL = {
                          "out":  "10:27:12",
                          "km":  1.53,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
+                         "mun":  "ANALANDIA",
+                         "in":  "08:30:51",
+                         "out":  "10:40:59",
+                         "km":  50.6,
+                         "dur":  "02:10:00"
                      },
                      {
                          "nome":  "Alan",
@@ -340,6 +358,15 @@ window.PAINEL = {
                          "out":  "10:37:31",
                          "km":  16.11,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:23:20",
+                         "out":  "10:52:47",
+                         "km":  6.49,
+                         "dur":  "02:29:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -526,7 +553,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     31,
+                     36,
                      5
                  ]
              ],
@@ -4079,7 +4106,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4121,19 +4148,19 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.36,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  25.68,
+                                                       "tv":  141
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  5.23,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  55.83,
+                                                       "tv":  130
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4181,6 +4208,15 @@ window.PAINEL = {
                                                        "tv":  116
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  7.1,
+                                                       "tv":  149
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -4205,15 +4241,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.61,
                                                        "tv":  0
                                                    }
                                                ],
@@ -4240,6 +4267,13 @@ window.PAINEL = {
                                                          "tv":  147
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  4.32,
+                                                         "tv":  141
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO MADEAN LTDA.",
                                                          "p":  1,
@@ -4259,6 +4293,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.53,
                                                          "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
+                                                         "p":  1,
+                                                         "km":  50.6,
+                                                         "tv":  130
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -4315,6 +4356,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  16.11,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  6.49,
+                                                         "tv":  149
                                                      },
                                                      {
                                                          "n":  "Mariangela",
