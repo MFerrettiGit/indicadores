@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -22,7 +22,7 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  50.8,
+                     "km":  52.08,
                      "semPed":  4,
                      "perc":  57.14,
                      "primeiro":  "08:29",
@@ -78,7 +78,7 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  159.81,
+                     "km":  161.93,
                      "semPed":  3,
                      "perc":  75,
                      "primeiro":  "08:47",
@@ -134,14 +134,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "visitas":  7,
-                     "km":  57.77,
+                     "km":  61.95,
                      "semPed":  7,
                      "perc":  100,
                      "primeiro":  "08:01",
                      "ultimo":  "16:29",
                      "tv":  "04:09:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -162,7 +162,7 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  90.4,
+                     "km":  119.11,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
@@ -1004,6 +1004,14 @@ window.PAINEL = {
                         "tempo":  "00:59:19"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Planejamento",
+                        "inicio":  "17:11",
+                        "final":  "17:49",
+                        "tempo":  "00:37:47"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1073,15 +1081,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:47:34"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Outro",
-                        "obs":  "Planejamento",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:28:56"
+                        "tempo":  "04:02:22"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1089,7 +1089,7 @@ window.PAINEL = {
                         "obs":  "digitação de pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:13"
+                        "tempo":  "00:29:01"
                     },
                     {
                         "nome":  "Karina",
@@ -1097,7 +1097,7 @@ window.PAINEL = {
                         "obs":  "retorno caragua",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:46"
+                        "tempo":  "00:23:34"
                     }
                 ],
     "semped":  [
@@ -1269,7 +1269,7 @@ window.PAINEL = {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:50:47"
+                         "tempo":  "02:05:42"
                      }
                  ],
     "hist":  [
@@ -4933,7 +4933,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4950,7 +4950,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  3,
-                                                       "km":  50.8,
+                                                       "km":  52.08,
                                                        "tv":  225
                                                    },
                                                    {
@@ -4986,7 +4986,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  1,
-                                                       "km":  159.81,
+                                                       "km":  161.93,
                                                        "tv":  278
                                                    },
                                                    {
@@ -5022,7 +5022,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  57.77,
+                                                       "km":  61.95,
                                                        "tv":  249
                                                    },
                                                    {
@@ -5040,7 +5040,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  90.4,
+                                                       "km":  119.11,
                                                        "tv":  318
                                                    },
                                                    {
