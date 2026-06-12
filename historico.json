@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3586,6 +3586,15 @@
                                      "tv":  261
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  44.32,
+                                     "tv":  302
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -3602,15 +3611,6 @@
                                      "pe":  2,
                                      "km":  18.49,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  33.34,
-                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3652,10 +3652,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  14.28,
-                                     "tv":  193
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  84.18,
+                                     "tv":  254
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4084,6 +4084,13 @@
                                        "p":  1,
                                        "km":  7.41,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  69.9,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Nelson",

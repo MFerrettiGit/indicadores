@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "15:24",
                      "tv":  "03:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  44.32,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:28",
+                     "ultimo":  "15:54",
+                     "tv":  "05:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -84,20 +98,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "12:25",
                      "tv":  "03:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  33.34,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:28",
-                     "ultimo":  "12:08",
-                     "tv":  "03:16:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -161,14 +161,14 @@ window.PAINEL = {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  14.28,
+                     "visitas":  4,
+                     "km":  84.18,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
-                     "ultimo":  "12:38",
-                     "tv":  "03:13:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:06",
+                     "tv":  "04:14:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -729,6 +729,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "CACAPAVA",
+                         "in":  "15:05:13",
+                         "out":  "16:06:27",
+                         "km":  69.9,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
                          "mun":  "ITAPETININGA",
@@ -931,7 +940,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:01:51"
+                        "tempo":  "02:17:13"
                     },
                     {
                         "nome":  "Lucas",
@@ -939,7 +948,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:21"
+                        "tempo":  "01:06:43"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -947,7 +956,7 @@ window.PAINEL = {
                         "obs":  "Itirapina a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:26"
+                        "tempo":  "00:28:48"
                     }
                 ],
     "semped":  [
@@ -1095,61 +1104,55 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "01:41:23"
+                         "tempo":  "01:56:49"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:09:33"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "R. A. PRODUTOS HIDRAULICOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:13:35"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "MIALICH SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:45:44"
+                         "tempo":  "00:29:01"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MERCEARIA CORDEIROPOLIS LTDA.",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:09:01"
+                         "tempo":  "00:24:27"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:44"
+                         "tempo":  "00:20:10"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROMILDO A F DE CARVALHO",
                          "mun":  "CUNHA",
-                         "tempo":  "00:07:53"
+                         "tempo":  "00:23:19"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:05:17"
+                         "tempo":  "00:20:43"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:44:39"
+                         "tempo":  "01:00:05"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:04:51"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
-                         "mun":  "CACAPAVA",
-                         "tempo":  "00:48:30"
+                         "tempo":  "00:20:17"
                      }
                  ],
     "hist":  [
@@ -1260,7 +1263,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     91,
+                     97,
                      23
                  ]
              ],
@@ -4813,7 +4816,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4852,6 +4855,15 @@ window.PAINEL = {
                                                        "tv":  261
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  44.32,
+                                                       "tv":  302
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -4868,15 +4880,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.49,
                                                        "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  33.34,
-                                                       "tv":  196
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4918,10 +4921,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  14.28,
-                                                       "tv":  193
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  84.18,
+                                                       "tv":  254
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -5350,6 +5353,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.41,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                                         "p":  1,
+                                                         "km":  69.9,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Nelson",
