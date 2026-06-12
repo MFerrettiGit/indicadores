@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3577,12 +3577,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  21.36,
                                      "tv":  0
                                  },
                                  {
@@ -3595,15 +3595,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.36,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -3611,6 +3602,24 @@
                                      "pe":  0,
                                      "km":  5.23,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  33.83,
+                                     "tv":  18
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3649,15 +3658,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -3686,7 +3686,13 @@
                                  }
                              ],
                        "cli":  [
-
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "INFANGER",
+                                       "p":  1,
+                                       "km":  33.83,
+                                       "tv":  18
+                                   }
                                ]
                    }
 }

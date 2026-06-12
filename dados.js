@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "08:30",
+    "dataHora":  "08:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,48 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  21.36,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:28",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  5.65,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:29",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  5.23,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:30",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -60,46 +102,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  5.65,
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  33.83,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  21.36,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "perc":  0,
+                     "primeiro":  "08:09",
+                     "ultimo":  "08:28",
+                     "tv":  "00:18:00",
+                     "emVisita":  1,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  5.23,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -158,20 +172,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:09",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -207,40 +207,48 @@ window.PAINEL = {
                      "km":  0.51,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:37",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
     "checkins":  [
-
+                     {
+                         "nome":  "Castro",
+                         "razao":  "INFANGER",
+                         "mun":  "VINHEDO",
+                         "in":  "08:09:21",
+                         "out":  "08:28:14",
+                         "km":  33.83,
+                         "dur":  "00:18:00"
+                     }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "serra negra",
+                        "inicio":  "08:03",
+                        "final":  "08:29",
+                        "tempo":  "00:26:18"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Carlos a Analandia",
+                        "inicio":  "07:36",
+                        "final":  "08:30",
+                        "tempo":  "00:53:42"
+                    },
                     {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Orlandia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:34"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Carlos a Analandia",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:58"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "serra negra",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:21:19"
+                        "tempo":  "01:05:33"
                     }
                 ],
     "semped":  [
@@ -354,7 +362,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     3,
+                     6,
                      0
                  ]
              ],
@@ -3907,7 +3915,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "08:30",
+                                         "dataHora":  "08:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3937,12 +3945,12 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  21.36,
                                                        "tv":  0
                                                    },
                                                    {
@@ -3955,15 +3963,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.36,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -3971,6 +3970,24 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  5.23,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  33.83,
+                                                       "tv":  18
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4009,15 +4026,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -4046,7 +4054,13 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
-
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "INFANGER",
+                                                         "p":  1,
+                                                         "km":  33.83,
+                                                         "tv":  18
+                                                     }
                                                  ]
                                      }
                   }
