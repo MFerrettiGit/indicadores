@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3622,6 +3622,15 @@
                                      "tv":  209
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  74,
+                                     "tv":  230
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  3,
                                      "km":  41.51,
                                      "tv":  239
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  66.04,
-                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Karina",
@@ -3909,6 +3909,13 @@
                                        "p":  1,
                                        "km":  30.12,
                                        "tv":  119
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "ROBERTA FACIPIERRE MANDRO",
+                                       "p":  1,
+                                       "km":  7.96,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Cominato",

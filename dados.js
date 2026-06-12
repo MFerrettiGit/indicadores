@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "14:49",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:14",
                      "tv":  "03:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  74,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:09",
+                     "ultimo":  "15:03",
+                     "tv":  "03:50:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "14:34",
                      "tv":  "03:59:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  66.04,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:09",
-                     "ultimo":  "12:06",
-                     "tv":  "03:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "12:38",
                      "tv":  "03:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "12:15",
                      "tv":  "03:40:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -502,6 +502,15 @@ window.PAINEL = {
                          "out":  "12:06:18",
                          "km":  30.12,
                          "dur":  "01:59:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "ROBERTA FACIPIERRE MANDRO",
+                         "mun":  "ITATIBA",
+                         "in":  "14:47:46",
+                         "out":  "15:03:58",
+                         "km":  7.96,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -841,7 +850,15 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:02:04"
+                        "tempo":  "01:17:05"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:35"
                     }
                 ],
     "semped":  [
@@ -965,43 +982,67 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:41:50"
+                         "tempo":  "00:56:51"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MARTA GUEDES SARAGIOTTO",
+                         "mun":  "SERRA NEGRA",
+                         "tempo":  "00:03:33"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "L. F. DE ANDRADE E CIA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:22:45"
+                         "tempo":  "00:37:46"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:46:11"
+                         "tempo":  "01:01:12"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:10:18"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BIANCHINI",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:16:10"
+                         "tempo":  "00:31:11"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:06:56"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "JOSE C. S. DOS REIS",
                          "mun":  "CUNHA",
-                         "tempo":  "00:18:33"
+                         "tempo":  "00:33:34"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL MEDEIROS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:22:16"
+                         "tempo":  "00:37:17"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "ROBERTA FACIPIERRE MANDRO",
+                         "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:06:24"
+                         "tempo":  "00:00:07"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "CACAPAVA",
+                         "tempo":  "00:03:58"
                      }
                  ],
     "hist":  [
@@ -1112,7 +1153,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     77,
+                     80,
                      19
                  ]
              ],
@@ -4665,7 +4706,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4740,6 +4781,15 @@ window.PAINEL = {
                                                        "tv":  209
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  74,
+                                                       "tv":  230
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -4747,15 +4797,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  41.51,
                                                        "tv":  239
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  66.04,
-                                                       "tv":  214
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -5027,6 +5068,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  30.12,
                                                          "tv":  119
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "ROBERTA FACIPIERRE MANDRO",
+                                                         "p":  1,
+                                                         "km":  7.96,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Cominato",
