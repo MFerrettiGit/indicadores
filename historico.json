@@ -3547,16 +3547,16 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  12.23,
-                                     "tv":  88
+                                     "km":  24.98,
+                                     "tv":  251
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -3568,6 +3568,15 @@
                                      "tv":  152
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  44.79,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -3575,15 +3584,6 @@
                                      "pe":  1,
                                      "km":  57.75,
                                      "tv":  192
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  44.28,
-                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -3595,6 +3595,15 @@
                                      "tv":  196
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  80.79,
+                                     "tv":  194
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -3602,15 +3611,6 @@
                                      "pe":  1,
                                      "km":  15.14,
                                      "tv":  129
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  78.69,
-                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3649,6 +3649,33 @@
                                      "tv":  160
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  1.62,
+                                     "tv":  238
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  10.72,
+                                     "tv":  220
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  67.92,
+                                     "tv":  114
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -3656,33 +3683,6 @@
                                      "pe":  1,
                                      "km":  4.63,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0.58,
-                                     "tv":  196
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.1,
-                                     "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  32.09,
-                                     "tv":  70
                                  }
                              ],
                        "cli":  [
@@ -3701,6 +3701,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.03",
+                                       "p":  0,
+                                       "km":  12.75,
+                                       "tv":  163
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "SOLIDEA DELA COLETA",
                                        "p":  1,
@@ -3713,6 +3720,13 @@
                                        "p":  1,
                                        "km":  2.39,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "RONALDO DE SOUZA TULHER EIRELI",
+                                       "p":  1,
+                                       "km":  0.51,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Fernando",
@@ -3734,6 +3748,13 @@
                                        "p":  1,
                                        "km":  78.69,
                                        "tv":  158
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  2.1,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Maira",
@@ -3897,11 +3918,25 @@
                                        "tv":  196
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO VICALI PARATY LTDA.",
+                                       "p":  1,
+                                       "km":  1.04,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
                                        "km":  6.49,
                                        "tv":  149
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.62,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Mariangela",
@@ -3923,6 +3958,13 @@
                                        "p":  1,
                                        "km":  31.58,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO SAO JOSE ITAPE LTDA",
+                                       "p":  1,
+                                       "km":  35.83,
+                                       "tv":  44
                                    }
                                ]
                    }
