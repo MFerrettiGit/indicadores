@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -105,13 +105,13 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  35.07,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  35.92,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:09",
-                     "ultimo":  "09:13",
-                     "tv":  "00:56:00",
+                     "ultimo":  "09:57",
+                     "tv":  "01:35:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "08:59",
                      "tv":  "00:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  1.36,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "10:03",
+                     "tv":  "01:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -155,20 +169,6 @@ window.PAINEL = {
                      "ultimo":  "09:48",
                      "tv":  "01:10:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.27,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:06",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -279,6 +279,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                         "mun":  "VINHEDO",
+                         "in":  "09:17:43",
+                         "out":  "09:57:33",
+                         "km":  0.85,
+                         "dur":  "00:39:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "BALAN SUPERMERCADO LTDA",
                          "mun":  "PIRACICABA",
@@ -286,6 +295,15 @@ window.PAINEL = {
                          "out":  "08:59:16",
                          "km":  8.17,
                          "dur":  "00:57:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "MAXIMO SUPERMERCADOS ATACADISTA LTDA.",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "08:06:28",
+                         "out":  "10:03:28",
+                         "km":  1.09,
+                         "dur":  "01:56:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -335,6 +353,12 @@ window.PAINEL = {
                        "razao":  "IRMAOS BOA LTDA - LJ.01",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                       "mun":  "VINHEDO",
+                       "obs":  "visita merchandising"
                    },
                    {
                        "nome":  "Cominato",
@@ -451,8 +475,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     21,
-                     3
+                     24,
+                     4
                  ]
              ],
     "historico":  {
@@ -4004,7 +4028,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4073,10 +4097,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  35.07,
-                                                       "tv":  56
+                                                       "km":  35.92,
+                                                       "tv":  95
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4097,6 +4121,15 @@ window.PAINEL = {
                                                        "tv":  91
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  1.36,
+                                                       "tv":  116
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -4104,15 +4137,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  32.09,
                                                        "tv":  70
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.27,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4193,11 +4217,25 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0.85,
+                                                         "tv":  39
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "BALAN SUPERMERCADO LTDA",
                                                          "p":  0,
                                                          "km":  8.17,
                                                          "tv":  57
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MAXIMO SUPERMERCADOS ATACADISTA LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.09,
+                                                         "tv":  116
                                                      },
                                                      {
                                                          "n":  "Nelson",
