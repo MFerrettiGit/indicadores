@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  "12:10",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "12:06",
                      "tv":  "03:34:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:00",
                      "tv":  "02:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -630,6 +630,14 @@ window.PAINEL = {
                         "tempo":  "01:12:50"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Orlandia a Franca",
+                        "inicio":  "12:15",
+                        "final":  "13:24",
+                        "tempo":  "01:09:02"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -646,12 +654,20 @@ window.PAINEL = {
                         "tempo":  "00:53:42"
                     },
                     {
-                        "nome":  "Luis",
+                        "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
-                        "obs":  "Orlandia a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:52"
+                        "obs":  "Analandia a Itirapina",
+                        "inicio":  "13:08",
+                        "final":  "13:16",
+                        "tempo":  "00:08:00"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:16",
+                        "final":  "13:17",
+                        "tempo":  "00:00:24"
                     },
                     {
                         "nome":  "Alan",
@@ -659,7 +675,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:19"
+                        "tempo":  "00:53:26"
                     },
                     {
                         "nome":  "Fernando",
@@ -667,7 +683,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:30"
+                        "tempo":  "00:51:37"
                     },
                     {
                         "nome":  "Rachel",
@@ -675,7 +691,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:44"
+                        "tempo":  "00:48:51"
                     },
                     {
                         "nome":  "Eugenio",
@@ -683,7 +699,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:36"
+                        "tempo":  "00:43:43"
                     },
                     {
                         "nome":  "Nelson",
@@ -691,7 +707,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:43"
+                        "tempo":  "00:41:50"
                     },
                     {
                         "nome":  "Lucas",
@@ -699,7 +715,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:57"
+                        "tempo":  "00:30:04"
                     },
                     {
                         "nome":  "Maira",
@@ -707,7 +723,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:50"
+                        "tempo":  "00:23:57"
                     },
                     {
                         "nome":  "Mariangela",
@@ -715,15 +731,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:02"
+                        "tempo":  "00:20:09"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:52"
                     },
                     {
                         "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Analandia a Itirapina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:21"
+                        "tempo":  "00:08:01"
                     }
                 ],
     "semped":  [
@@ -829,7 +853,13 @@ window.PAINEL = {
                          "nome":  "Karina",
                          "razao":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
                          "mun":  "CUNHA",
-                         "tempo":  "00:39:14"
+                         "tempo":  "00:54:15"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO LTDA",
+                         "mun":  "RIO DAS PEDRAS",
+                         "tempo":  "00:05:19"
                      }
                  ],
     "hist":  [
@@ -940,7 +970,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     67,
+                     69,
                      16
                  ]
              ],
@@ -4493,7 +4523,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
