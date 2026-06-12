@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "12:25",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "ultimo":  "12:10",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "12:15",
                      "tv":  "03:40:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -697,6 +697,22 @@ window.PAINEL = {
                         "tempo":  "01:09:02"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "13:26",
+                        "final":  "14:20",
+                        "tempo":  "00:53:34"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:55",
+                        "final":  "14:19",
+                        "tempo":  "01:24:32"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -761,28 +777,12 @@ window.PAINEL = {
                         "tempo":  "00:00:24"
                     },
                     {
-                        "nome":  "Lucas",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:14:52"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:49"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:43:35"
+                        "inicio":  "13:17",
+                        "final":  "14:13",
+                        "tempo":  "00:55:54"
                     },
                     {
                         "nome":  "Rachel",
@@ -790,7 +790,7 @@ window.PAINEL = {
                         "obs":  "uniao",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:24"
+                        "tempo":  "00:55:35"
                     },
                     {
                         "nome":  "Eugenio",
@@ -798,7 +798,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:54"
+                        "tempo":  "00:32:05"
                     },
                     {
                         "nome":  "Karina",
@@ -806,7 +806,15 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:22"
+                        "tempo":  "00:20:33"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Analandia a Itirapina",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:44"
                     }
                 ],
     "semped":  [
@@ -915,22 +923,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Maira",
+                         "razao":  "A.A.DE MELO",
+                         "mun":  "NOVA ODESSA",
+                         "tempo":  "00:11:52"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:07"
+                         "tempo":  "00:16:13"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO SAO BERNARDO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:29:08"
+                         "tempo":  "00:44:14"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:05:50"
+                         "tempo":  "00:20:56"
                      }
                  ],
     "hist":  [
@@ -4594,7 +4608,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
