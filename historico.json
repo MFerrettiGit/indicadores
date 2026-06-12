@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3640,6 +3640,15 @@
                                      "tv":  185
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  2.63,
+                                     "tv":  327
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -3647,15 +3656,6 @@
                                      "pe":  3,
                                      "km":  14.28,
                                      "tv":  193
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  2.63,
-                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -3958,6 +3958,13 @@
                                        "p":  1,
                                        "km":  1.01,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ANDREIA A. DE C. OLIVEIRA TOLEDO",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Lucas",
