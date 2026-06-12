@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3586,6 +3586,15 @@
                                      "tv":  261
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  159.81,
+                                     "tv":  278
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -3595,15 +3604,6 @@
                                      "tv":  302
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  158.51,
-                                     "tv":  239
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -3611,6 +3611,15 @@
                                      "pe":  2,
                                      "km":  18.49,
                                      "tv":  209
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  5.23,
+                                     "tv":  422
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3638,15 +3647,6 @@
                                      "pe":  5,
                                      "km":  74,
                                      "tv":  230
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  4.93,
-                                     "tv":  387
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3776,6 +3776,13 @@
                                        "p":  0,
                                        "km":  77.72,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "R. A. PRODUTOS HIDRAULICOS LTDA",
+                                       "p":  0,
+                                       "km":  1.3,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Maira",
@@ -4049,6 +4056,13 @@
                                        "p":  1,
                                        "km":  0.8,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ROMILDO A F DE CARVALHO",
+                                       "p":  1,
+                                       "km":  0.3,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Lucas",

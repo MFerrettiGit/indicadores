@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  159.81,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:47",
+                     "ultimo":  "16:19",
+                     "tv":  "04:38:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "15:54",
                      "tv":  "05:02:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  158.51,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:47",
-                     "ultimo":  "15:17",
-                     "tv":  "03:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -99,6 +99,20 @@ window.PAINEL = {
                      "ultimo":  "12:25",
                      "tv":  "03:29:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  7,
+                     "km":  5.23,
+                     "semPed":  1,
+                     "perc":  14.29,
+                     "primeiro":  "08:11",
+                     "ultimo":  "16:21",
+                     "tv":  "07:02:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -144,20 +158,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  4.93,
-                     "semPed":  1,
-                     "perc":  16.67,
-                     "primeiro":  "08:11",
-                     "ultimo":  "15:41",
-                     "tv":  "06:27:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "16:06",
                      "tv":  "04:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,6 +331,15 @@ window.PAINEL = {
                          "out":  "15:17:29",
                          "km":  77.72,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "R. A. PRODUTOS HIDRAULICOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:40:08",
+                         "out":  "16:19:27",
+                         "km":  1.3,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Maira",
@@ -684,6 +693,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "ROMILDO A F DE CARVALHO",
+                         "mun":  "CUNHA",
+                         "in":  "15:45:50",
+                         "out":  "16:21:28",
+                         "km":  0.3,
+                         "dur":  "00:35:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -940,7 +958,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:17:13"
+                        "tempo":  "02:32:11"
                     },
                     {
                         "nome":  "Lucas",
@@ -948,7 +966,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:06:43"
+                        "tempo":  "01:21:41"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -956,7 +974,7 @@ window.PAINEL = {
                         "obs":  "Itirapina a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:48"
+                        "tempo":  "00:43:46"
                     }
                 ],
     "semped":  [
@@ -1023,6 +1041,12 @@ window.PAINEL = {
                    {
                        "nome":  "Luis",
                        "razao":  "L. F. DE ANDRADE E CIA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "R. A. PRODUTOS HIDRAULICOS LTDA",
                        "mun":  "FRANCA",
                        "obs":  "prospecção"
                    },
@@ -1104,55 +1128,55 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "01:56:49"
+                         "tempo":  "02:11:47"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:09:33"
+                         "tempo":  "00:24:31"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "R. A. PRODUTOS HIDRAULICOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:29:01"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO TONELLI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:03:36"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MERCEARIA CORDEIROPOLIS LTDA.",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:24:27"
+                         "tempo":  "00:39:25"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:20:10"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "ROMILDO A F DE CARVALHO",
-                         "mun":  "CUNHA",
-                         "tempo":  "00:23:19"
+                         "tempo":  "00:35:08"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:20:43"
+                         "tempo":  "00:35:41"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:00:05"
+                         "tempo":  "01:15:03"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:20:17"
+                         "tempo":  "00:35:15"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "tempo":  "00:12:53"
                      }
                  ],
     "hist":  [
@@ -1263,8 +1287,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     97,
-                     23
+                     99,
+                     24
                  ]
              ],
     "historico":  {
@@ -4816,7 +4840,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4855,6 +4879,15 @@ window.PAINEL = {
                                                        "tv":  261
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  159.81,
+                                                       "tv":  278
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -4864,15 +4897,6 @@ window.PAINEL = {
                                                        "tv":  302
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  158.51,
-                                                       "tv":  239
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -4880,6 +4904,15 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.49,
                                                        "tv":  209
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  5.23,
+                                                       "tv":  422
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4907,15 +4940,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  74,
                                                        "tv":  230
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  4.93,
-                                                       "tv":  387
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -5045,6 +5069,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  77.72,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "R. A. PRODUTOS HIDRAULICOS LTDA",
+                                                         "p":  0,
+                                                         "km":  1.3,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -5318,6 +5349,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.8,
                                                          "tv":  22
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "ROMILDO A F DE CARVALHO",
+                                                         "p":  1,
+                                                         "km":  0.3,
+                                                         "tv":  35
                                                      },
                                                      {
                                                          "n":  "Lucas",
