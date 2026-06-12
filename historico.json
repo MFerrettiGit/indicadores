@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3586,6 +3586,15 @@
                                      "tv":  225
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  158.51,
+                                     "tv":  239
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -3602,15 +3611,6 @@
                                      "pe":  2,
                                      "km":  33.34,
                                      "tv":  196
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  80.79,
-                                     "tv":  194
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3643,10 +3643,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  4,
-                                     "km":  2.63,
-                                     "tv":  327
+                                     "km":  4.13,
+                                     "tv":  365
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3658,6 +3658,15 @@
                                      "tv":  193
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  71.26,
+                                     "tv":  163
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -3665,15 +3674,6 @@
                                      "pe":  2,
                                      "km":  10.72,
                                      "tv":  220
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  67.92,
-                                     "tv":  114
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -3757,6 +3757,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "L. F. DE ANDRADE E CIA LTDA",
+                                       "p":  0,
+                                       "km":  77.72,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO MADEAN LTDA.",
                                        "p":  1,
@@ -3804,6 +3811,13 @@
                                        "p":  0,
                                        "km":  0.61,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MARTA GUEDES SARAGIOTTO",
+                                       "p":  0,
+                                       "km":  0.46,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -3995,6 +4009,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "JOSE C. S. DOS REIS",
+                                       "p":  0,
+                                       "km":  1.5,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -4042,6 +4063,13 @@
                                        "p":  1,
                                        "km":  35.83,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIAL MEDEIROS LTDA",
+                                       "p":  1,
+                                       "km":  3.34,
+                                       "tv":  49
                                    }
                                ]
                    }

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -60,6 +60,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  158.51,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:47",
+                     "ultimo":  "15:17",
+                     "tv":  "03:59:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -84,20 +98,6 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "12:08",
                      "tv":  "03:16:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  80.79,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:47",
-                     "ultimo":  "12:10",
-                     "tv":  "03:14:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -147,13 +147,13 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  2.63,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  5,
+                     "km":  4.13,
+                     "semPed":  1,
+                     "perc":  20,
                      "primeiro":  "08:11",
-                     "ultimo":  "14:04",
-                     "tv":  "05:27:00",
+                     "ultimo":  "15:14",
+                     "tv":  "06:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -172,6 +172,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  71.26,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:37",
+                     "ultimo":  "15:21",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -184,20 +198,6 @@ window.PAINEL = {
                      "tv":  "03:40:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  67.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:37",
-                     "ultimo":  "12:13",
-                     "tv":  "01:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -306,6 +306,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "L. F. DE ANDRADE E CIA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "14:31:25",
+                         "out":  "15:17:29",
+                         "km":  77.72,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO MADEAN LTDA.",
                          "mun":  "SUMARE",
@@ -367,6 +376,15 @@ window.PAINEL = {
                          "out":  "14:49:23",
                          "km":  0.61,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MARTA GUEDES SARAGIOTTO",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "15:05:38",
+                         "out":  "15:24:44",
+                         "km":  0.46,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -612,6 +630,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "JOSE C. S. DOS REIS",
+                         "mun":  "CUNHA",
+                         "in":  "14:35:37",
+                         "out":  "15:14:24",
+                         "km":  1.5,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -673,6 +700,15 @@ window.PAINEL = {
                          "out":  "12:13:40",
                          "km":  35.83,
                          "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIAL MEDEIROS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:31:54",
+                         "out":  "15:21:36",
+                         "km":  3.34,
+                         "dur":  "00:49:00"
                      }
                  ],
     "eventos":  [
@@ -850,7 +886,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:17:05"
+                        "tempo":  "01:32:05"
                     },
                     {
                         "nome":  "Lucas",
@@ -858,7 +894,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:35"
+                        "tempo":  "00:21:35"
                     }
                 ],
     "semped":  [
@@ -873,6 +909,12 @@ window.PAINEL = {
                        "razao":  "PAM PRODUTOS PARA LIMPEZA LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "cliente estocado."
+                   },
+                   {
+                       "nome":  "Karina",
+                       "razao":  "JOSE C. S. DOS REIS",
+                       "mun":  "CUNHA",
+                       "obs":  "cliente com boleto em atraso"
                    },
                    {
                        "nome":  "Eduardo",
@@ -905,10 +947,22 @@ window.PAINEL = {
                        "obs":  "analise da loja"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "MARTA GUEDES SARAGIOTTO",
+                       "mun":  "SERRA NEGRA",
+                       "obs":  "cliente ainda nao esta precisando"
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "RETA ALIMENTOS LTDA",
                        "mun":  "ORLANDIA",
                        "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "L. F. DE ANDRADE E CIA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
                    },
                    {
                        "nome":  "Castro",
@@ -982,67 +1036,55 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:56:51"
+                         "tempo":  "01:11:47"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MARTA GUEDES SARAGIOTTO",
                          "mun":  "SERRA NEGRA",
-                         "tempo":  "00:03:33"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "L. F. DE ANDRADE E CIA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:37:46"
+                         "tempo":  "00:18:29"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:01:12"
+                         "tempo":  "01:16:08"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "RODRIGUES",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:10:18"
+                         "tempo":  "00:25:14"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BIANCHINI",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:31:11"
+                         "tempo":  "00:46:07"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ILIDIA MARIA DE FARIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:56"
+                         "tempo":  "00:21:52"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "JOSE C. S. DOS REIS",
+                         "razao":  "RENATO SUPERMERCADO LTDA",
                          "mun":  "CUNHA",
-                         "tempo":  "00:33:34"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COMERCIAL MEDEIROS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:37:17"
+                         "tempo":  "00:05:21"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:00:07"
+                         "tempo":  "00:15:03"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:03:58"
+                         "tempo":  "00:18:54"
                      }
                  ],
     "hist":  [
@@ -1153,8 +1195,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     80,
-                     19
+                     83,
+                     21
                  ]
              ],
     "historico":  {
@@ -4706,7 +4748,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4745,6 +4787,15 @@ window.PAINEL = {
                                                        "tv":  225
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  158.51,
+                                                       "tv":  239
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -4761,15 +4812,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  33.34,
                                                        "tv":  196
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  80.79,
-                                                       "tv":  194
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4802,10 +4844,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  4,
-                                                       "km":  2.63,
-                                                       "tv":  327
+                                                       "km":  4.13,
+                                                       "tv":  365
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4817,6 +4859,15 @@ window.PAINEL = {
                                                        "tv":  193
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  71.26,
+                                                       "tv":  163
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -4824,15 +4875,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  10.72,
                                                        "tv":  220
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  67.92,
-                                                       "tv":  114
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4916,6 +4958,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "L. F. DE ANDRADE E CIA LTDA",
+                                                         "p":  0,
+                                                         "km":  77.72,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO MADEAN LTDA.",
                                                          "p":  1,
@@ -4963,6 +5012,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.61,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MARTA GUEDES SARAGIOTTO",
+                                                         "p":  0,
+                                                         "km":  0.46,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -5154,6 +5210,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "JOSE C. S. DOS REIS",
+                                                         "p":  0,
+                                                         "km":  1.5,
+                                                         "tv":  38
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -5201,6 +5264,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  35.83,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COMERCIAL MEDEIROS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.34,
+                                                         "tv":  49
                                                      }
                                                  ]
                                      }
