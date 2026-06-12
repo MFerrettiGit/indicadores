@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,42 +21,42 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  23.59,
+                     "visitas":  2,
+                     "km":  25.12,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:29",
-                     "ultimo":  "09:18",
-                     "tv":  "00:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:27",
+                     "tv":  "01:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
+                     "visitas":  1,
                      "km":  41.89,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:34",
+                     "tv":  "02:27:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  15.14,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:23",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:32",
+                     "tv":  "02:09:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  24.28,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "10:37",
+                     "tv":  "01:39:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -130,20 +144,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  8.17,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "08:59",
-                     "tv":  "00:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "10:03",
                      "tv":  "01:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -234,6 +234,24 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "SOLIDEA DELA COLETA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "08:01:11",
+                         "out":  "10:34:42",
+                         "km":  0,
+                         "dur":  "02:27:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO MADEAN LTDA.",
+                         "mun":  "SUMARE",
+                         "in":  "08:23:12",
+                         "out":  "10:32:40",
+                         "km":  15.14,
+                         "dur":  "02:09:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "SERRA NEGRA",
@@ -241,6 +259,15 @@ window.PAINEL = {
                          "out":  "09:18:19",
                          "km":  17.94,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "09:27:33",
+                         "out":  "10:27:12",
+                         "km":  1.53,
+                         "dur":  "00:47:00"
                      },
                      {
                          "nome":  "Alan",
@@ -304,6 +331,15 @@ window.PAINEL = {
                          "out":  "08:59:16",
                          "km":  8.17,
                          "dur":  "00:57:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DEFAVARI LTDA.",
+                         "mun":  "RIO DAS PEDRAS",
+                         "in":  "09:54:30",
+                         "out":  "10:37:31",
+                         "km":  16.11,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -374,6 +410,12 @@ window.PAINEL = {
                        "razao":  "BALAN SUPERMERCADO LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Merchandising"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DEFAVARI LTDA.",
+                       "mun":  "RIO DAS PEDRAS",
+                       "obs":  "Levantamento e entrega de amostras para apresentação a diretoria"
                    }
                ],
     "hist":  [
@@ -484,8 +526,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     26,
-                     4
+                     31,
+                     5
                  ]
              ],
     "historico":  {
@@ -4037,7 +4079,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4052,28 +4094,28 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  23.59,
-                                                       "tv":  48
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  25.12,
+                                                       "tv":  95
                                                    },
                                                    {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
+                                                       "vi":  1,
+                                                       "pe":  1,
                                                        "km":  41.89,
-                                                       "tv":  0
+                                                       "tv":  147
                                                    },
                                                    {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  15.14,
+                                                       "tv":  129
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -4112,6 +4154,15 @@ window.PAINEL = {
                                                        "tv":  95
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  24.28,
+                                                       "tv":  99
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -4119,15 +4170,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  24.07,
                                                        "tv":  123
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  8.17,
-                                                       "tv":  57
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4191,11 +4233,32 @@ window.PAINEL = {
                                                          "tv":  26
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "SOLIDEA DELA COLETA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  147
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO MADEAN LTDA.",
+                                                         "p":  1,
+                                                         "km":  15.14,
+                                                         "tv":  129
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
                                                          "km":  17.94,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.53,
+                                                         "tv":  47
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -4245,6 +4308,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  8.17,
                                                          "tv":  57
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                                         "p":  0,
+                                                         "km":  16.11,
+                                                         "tv":  42
                                                      },
                                                      {
                                                          "n":  "Mariangela",

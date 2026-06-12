@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3562,28 +3562,28 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  23.59,
-                                     "tv":  48
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  25.12,
+                                     "tv":  95
                                  },
                                  {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
+                                     "vi":  1,
+                                     "pe":  1,
                                      "km":  41.89,
-                                     "tv":  0
+                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  15.14,
+                                     "tv":  129
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -3622,6 +3622,15 @@
                                      "tv":  95
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  24.28,
+                                     "tv":  99
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  2,
                                      "km":  24.07,
                                      "tv":  123
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  8.17,
-                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3701,11 +3701,32 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  147
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO MADEAN LTDA.",
+                                       "p":  1,
+                                       "km":  15.14,
+                                       "tv":  129
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                        "p":  1,
                                        "km":  17.94,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                       "p":  1,
+                                       "km":  1.53,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Alan",
@@ -3755,6 +3776,13 @@
                                        "p":  0,
                                        "km":  8.17,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  0,
+                                       "km":  16.11,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Mariangela",
