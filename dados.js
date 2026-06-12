@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  27.87,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  30.46,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:29",
-                     "ultimo":  "11:10",
-                     "tv":  "02:04:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:52",
+                     "tv":  "02:32:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  35.68,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:05",
+                     "ultimo":  "11:50",
+                     "tv":  "03:05:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "11:28",
                      "tv":  "02:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  35.28,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:05",
-                     "ultimo":  "11:19",
-                     "tv":  "02:39:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -306,6 +306,15 @@ window.PAINEL = {
                          "dur":  "00:29:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO COLORADO LTDA",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "11:22:53",
+                         "out":  "11:52:02",
+                         "km":  2.59,
+                         "dur":  "00:28:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                          "mun":  "ANALANDIA",
@@ -349,6 +358,15 @@ window.PAINEL = {
                          "out":  "11:19:12",
                          "km":  11.21,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "PAM PRODUTOS PARA LIMPEZA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:23:17",
+                         "out":  "11:50:19",
+                         "km":  0.4,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Castro",
@@ -493,6 +511,12 @@ window.PAINEL = {
                        "obs":  "comprador ausente até o momento"
                    },
                    {
+                       "nome":  "Alan",
+                       "razao":  "PAM PRODUTOS PARA LIMPEZA LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "cliente estocado."
+                   },
+                   {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA (VL ARENS)",
                        "mun":  "JUNDIAI",
@@ -503,6 +527,12 @@ window.PAINEL = {
                        "razao":  "IRMAOS BOA LTDA - LJ.01",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO COLORADO LTDA",
+                       "mun":  "SERRA NEGRA",
+                       "obs":  "visita para análise da loja"
                    },
                    {
                        "nome":  "Castro",
@@ -540,85 +570,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:07:32"
+                         "tempo":  "02:18:38"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "GONCALVES E GONCALVES LTDA",
                          "mun":  "SUMARE",
-                         "tempo":  "00:37:17"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO COLORADO LTDA",
-                         "mun":  "SERRA NEGRA",
-                         "tempo":  "00:20:10"
+                         "tempo":  "00:48:23"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RETA ALIMENTOS LTDA",
                          "mun":  "ORLANDIA",
-                         "tempo":  "00:08:29"
+                         "tempo":  "00:19:35"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:30:06"
+                         "tempo":  "00:41:12"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "RONALDO DE SOUZA TULHER EIRELI",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:29:41"
+                         "tempo":  "00:40:47"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "64.293.385 DANIEL DONIZETE DE MORAES",
                          "mun":  "ALVINLANDIA",
-                         "tempo":  "00:12:55"
+                         "tempo":  "00:24:01"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "03:33:49"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "PAM PRODUTOS PARA LIMPEZA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:19:46"
+                         "tempo":  "03:44:55"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO VICALI PARATY LTDA.",
                          "mun":  "CUNHA",
-                         "tempo":  "00:02:39"
+                         "tempo":  "00:13:45"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:39:37"
+                         "tempo":  "00:50:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO SAO JOSE ITAPE LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:13:40"
+                         "tempo":  "00:24:46"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "DAMA COM. DE MATERIAIS P/LIMPEZA LTDA-ME",
                          "mun":  "VINHEDO",
-                         "tempo":  "01:36:27"
+                         "tempo":  "01:47:33"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:07:27"
+                         "tempo":  "00:18:33"
                      }
                  ],
     "hist":  [
@@ -729,8 +747,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     46,
-                     8
+                     48,
+                     10
                  ]
              ],
     "historico":  {
@@ -4282,7 +4300,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4297,10 +4315,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  27.87,
-                                                       "tv":  124
+                                                       "km":  30.46,
+                                                       "tv":  152
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4348,6 +4366,15 @@ window.PAINEL = {
                                                        "tv":  158
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  35.68,
+                                                       "tv":  185
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -4364,15 +4391,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  25.37,
                                                        "tv":  122
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  35.28,
-                                                       "tv":  159
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4492,6 +4510,13 @@ window.PAINEL = {
                                                          "tv":  29
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO COLORADO LTDA",
+                                                         "p":  0,
+                                                         "km":  2.59,
+                                                         "tv":  28
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                                          "p":  1,
@@ -4525,6 +4550,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  11.21,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "PAM PRODUTOS PARA LIMPEZA LTDA",
+                                                         "p":  0,
+                                                         "km":  0.4,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Castro",

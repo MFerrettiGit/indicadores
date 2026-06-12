@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3562,10 +3562,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  27.87,
-                                     "tv":  124
+                                     "km":  30.46,
+                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3613,6 +3613,15 @@
                                      "tv":  158
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  35.68,
+                                     "tv":  185
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  0,
                                      "km":  25.37,
                                      "tv":  122
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  35.28,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3757,6 +3757,13 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO COLORADO LTDA",
+                                       "p":  0,
+                                       "km":  2.59,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                        "p":  1,
@@ -3790,6 +3797,13 @@
                                        "p":  0,
                                        "km":  11.21,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "PAM PRODUTOS PARA LIMPEZA LTDA",
+                                       "p":  0,
+                                       "km":  0.4,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Castro",
