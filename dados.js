@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  24.07,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:05",
+                     "ultimo":  "10:15",
+                     "tv":  "02:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "08:59",
                      "tv":  "00:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  22.39,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:05",
-                     "ultimo":  "09:36",
-                     "tv":  "01:31:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -250,6 +250,15 @@ window.PAINEL = {
                          "out":  "09:36:46",
                          "km":  22.39,
                          "dur":  "01:31:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MARCOS NUNES DA SILVA",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:42:29",
+                         "out":  "10:15:19",
+                         "km":  1.68,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Castro",
@@ -475,7 +484,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     24,
+                     26,
                      4
                  ]
              ],
@@ -4028,7 +4037,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4103,6 +4112,15 @@ window.PAINEL = {
                                                        "tv":  95
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  24.07,
+                                                       "tv":  123
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -4110,15 +4128,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.17,
                                                        "tv":  57
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  22.39,
-                                                       "tv":  91
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4194,6 +4203,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.39,
                                                          "tv":  91
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "MARCOS NUNES DA SILVA",
+                                                         "p":  1,
+                                                         "km":  1.68,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Castro",

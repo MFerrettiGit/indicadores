@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3622,6 +3622,15 @@
                                      "tv":  95
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  24.07,
+                                     "tv":  123
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -3629,15 +3638,6 @@
                                      "pe":  0,
                                      "km":  8.17,
                                      "tv":  57
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  22.39,
-                                     "tv":  91
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3713,6 +3713,13 @@
                                        "p":  1,
                                        "km":  22.39,
                                        "tv":  91
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "MARCOS NUNES DA SILVA",
+                                       "p":  1,
+                                       "km":  1.68,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Castro",
