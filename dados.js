@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "12:31",
                      "tv":  "03:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -197,7 +197,7 @@ window.PAINEL = {
                      "ultimo":  "12:13",
                      "tv":  "01:54:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:05",
                      "tv":  "03:56:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -634,7 +634,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:56"
+                        "tempo":  "00:45:04"
                     },
                     {
                         "nome":  "Luis",
@@ -642,7 +642,7 @@ window.PAINEL = {
                         "obs":  "Orlandia a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:37"
+                        "tempo":  "00:39:45"
                     },
                     {
                         "nome":  "Alan",
@@ -650,7 +650,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:04"
+                        "tempo":  "00:23:12"
                     },
                     {
                         "nome":  "Fernando",
@@ -658,7 +658,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:15"
+                        "tempo":  "00:21:23"
                     },
                     {
                         "nome":  "Rachel",
@@ -666,7 +666,23 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:29"
+                        "tempo":  "00:18:37"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:29"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:36"
                     }
                 ],
     "semped":  [
@@ -763,10 +779,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SYLVIO MARCHEZELI JUNIOR- ME.",
+                         "mun":  "ANALANDIA",
+                         "tempo":  "00:13:32"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
                          "mun":  "CUNHA",
-                         "tempo":  "00:09:06"
+                         "tempo":  "00:24:11"
                      }
                  ],
     "hist":  [
@@ -877,7 +899,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     64,
+                     65,
                      15
                  ]
              ],
@@ -4430,7 +4452,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
