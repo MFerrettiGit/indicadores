@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -105,13 +105,13 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  33.83,
+                     "visitas":  2,
+                     "km":  35.07,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:09",
-                     "ultimo":  "08:28",
-                     "tv":  "00:18:00",
+                     "ultimo":  "08:55",
+                     "tv":  "00:39:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -119,14 +119,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  8.17,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "08:59",
+                     "tv":  "00:57:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -232,6 +232,24 @@ window.PAINEL = {
                          "out":  "08:28:14",
                          "km":  33.83,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COMERCIAL RUZALEM LTDA",
+                         "mun":  "VINHEDO",
+                         "in":  "08:33:20",
+                         "out":  "08:55:20",
+                         "km":  1.24,
+                         "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "BALAN SUPERMERCADO LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "08:01:58",
+                         "out":  "08:59:16",
+                         "km":  8.17,
+                         "dur":  "00:57:00"
                      }
                  ],
     "eventos":  [
@@ -266,6 +284,12 @@ window.PAINEL = {
                        "razao":  "IRMAOS BOA LTDA (VL ARENS)",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "BALAN SUPERMERCADO LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
                    }
                ],
     "hist":  [
@@ -376,8 +400,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     7,
-                     1
+                     11,
+                     2
                  ]
              ],
     "historico":  {
@@ -3929,7 +3953,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -3998,19 +4022,19 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  33.83,
-                                                       "tv":  18
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  35.07,
+                                                       "tv":  39
                                                    },
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  8.17,
+                                                       "tv":  57
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4081,6 +4105,20 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  33.83,
                                                          "tv":  18
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COMERCIAL RUZALEM LTDA",
+                                                         "p":  1,
+                                                         "km":  1.24,
+                                                         "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "BALAN SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  8.17,
+                                                         "tv":  57
                                                      }
                                                  ]
                                      }
