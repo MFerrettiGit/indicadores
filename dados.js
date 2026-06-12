@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  31.53,
-                     "semPed":  3,
-                     "perc":  50,
+                     "visitas":  7,
+                     "km":  50.8,
+                     "semPed":  4,
+                     "perc":  57.14,
                      "primeiro":  "08:29",
-                     "ultimo":  "15:24",
-                     "tv":  "03:07:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:38",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -42,8 +42,8 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "15:39",
                      "tv":  "05:06:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "visitas":  7,
+                     "km":  57.77,
+                     "semPed":  7,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "16:29",
+                     "tv":  "04:09:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "16:21",
                      "tv":  "07:02:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "visitas":  6,
-                     "km":  49.1,
-                     "semPed":  6,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "14:50",
-                     "tv":  "03:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -414,6 +414,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
+                         "mun":  "AMPARO",
+                         "in":  "15:59:36",
+                         "out":  "16:38:25",
+                         "km":  19.27,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                          "mun":  "ANALANDIA",
@@ -628,6 +637,15 @@ window.PAINEL = {
                          "out":  "14:50:03",
                          "km":  20.63,
                          "dur":  "00:46:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:48:52",
+                         "out":  "16:29:40",
+                         "km":  8.67,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -953,12 +971,20 @@ window.PAINEL = {
                         "tempo":  "00:23:09"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Itirapina a São Carlos",
+                        "inicio":  "15:41",
+                        "final":  "16:29",
+                        "tempo":  "00:47:24"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Outro",
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:32:11"
+                        "tempo":  "02:47:21"
                     },
                     {
                         "nome":  "Lucas",
@@ -966,15 +992,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:21:41"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Itirapina a São Carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:43:46"
+                        "tempo":  "01:36:51"
                     }
                 ],
     "semped":  [
@@ -1031,6 +1049,12 @@ window.PAINEL = {
                        "razao":  "MARTA GUEDES SARAGIOTTO",
                        "mun":  "SERRA NEGRA",
                        "obs":  "cliente ainda nao esta precisando"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
+                       "mun":  "AMPARO",
+                       "obs":  "visita na loja"
                    },
                    {
                        "nome":  "Luis",
@@ -1093,6 +1117,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MARCHESANI",
                        "mun":  "ANALANDIA",
@@ -1128,55 +1158,55 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "02:11:47"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
-                         "mun":  "AMPARO",
-                         "tempo":  "00:24:31"
+                         "tempo":  "02:26:52"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO TONELLI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:03:36"
+                         "tempo":  "00:18:41"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MERCEARIA CORDEIROPOLIS LTDA.",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:39:25"
+                         "tempo":  "00:54:30"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:09:40"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:35:08"
+                         "tempo":  "00:50:13"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "W. A. DE CAMPOS - MERCEARIA",
+                         "mun":  "CUNHA",
+                         "tempo":  "00:12:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:35:41"
+                         "tempo":  "00:50:46"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:15:03"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:35:15"
+                         "tempo":  "01:30:08"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO DA CIDADE LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:12:53"
+                         "tempo":  "00:27:58"
                      }
                  ],
     "hist":  [
@@ -1287,8 +1317,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     99,
-                     24
+                     101,
+                     26
                  ]
              ],
     "historico":  {
@@ -4840,7 +4870,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4855,10 +4885,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  3,
-                                                       "km":  31.53,
-                                                       "tv":  187
+                                                       "km":  50.8,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -4906,6 +4936,15 @@ window.PAINEL = {
                                                        "tv":  209
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  0,
+                                                       "km":  57.77,
+                                                       "tv":  249
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -4913,15 +4952,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  5.23,
                                                        "tv":  422
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  0,
-                                                       "km":  49.1,
-                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5134,6 +5164,13 @@ window.PAINEL = {
                                                          "tv":  19
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
+                                                         "p":  0,
+                                                         "km":  19.27,
+                                                         "tv":  38
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                                          "p":  1,
@@ -5300,6 +5337,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  20.63,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  8.67,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Eugenio",

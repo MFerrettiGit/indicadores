@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3562,10 +3562,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  3,
-                                     "km":  31.53,
-                                     "tv":  187
+                                     "km":  50.8,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -3613,6 +3613,15 @@
                                      "tv":  209
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  57.77,
+                                     "tv":  249
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -3620,15 +3629,6 @@
                                      "pe":  6,
                                      "km":  5.23,
                                      "tv":  422
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  0,
-                                     "km":  49.1,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Alan",
@@ -3841,6 +3841,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
+                                       "p":  0,
+                                       "km":  19.27,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                        "p":  1,
@@ -4007,6 +4014,13 @@
                                        "p":  0,
                                        "km":  20.63,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  8.67,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Eugenio",
