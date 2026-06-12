@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  12.12,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "07:46",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "08:49",
+                     "tv":  "01:02:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -95,11 +95,11 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:47",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -216,6 +216,15 @@ window.PAINEL = {
              ],
     "checkins":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA (VL ARENS)",
+                         "mun":  "JUNDIAI",
+                         "in":  "07:46:07",
+                         "out":  "08:49:13",
+                         "km":  12.12,
+                         "dur":  "01:02:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "INFANGER",
                          "mun":  "VINHEDO",
@@ -235,24 +244,29 @@ window.PAINEL = {
                         "tempo":  "00:26:18"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Orlandia",
+                        "inicio":  "07:34",
+                        "final":  "08:46",
+                        "tempo":  "01:12:50"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Analandia",
                         "inicio":  "07:36",
                         "final":  "08:30",
                         "tempo":  "00:53:42"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Franca a Orlandia",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:05:33"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA (VL ARENS)",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   }
                ],
     "hist":  [
                  [
@@ -362,8 +376,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     6,
-                     0
+                     7,
+                     1
                  ]
              ],
     "historico":  {
@@ -3915,16 +3929,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  12.12,
+                                                       "tv":  62
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4054,6 +4068,13 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA (VL ARENS)",
+                                                         "p":  0,
+                                                         "km":  12.12,
+                                                         "tv":  62
+                                                     },
                                                      {
                                                          "n":  "Castro",
                                                          "r":  "INFANGER",

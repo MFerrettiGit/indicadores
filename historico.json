@@ -3547,16 +3547,16 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  12.12,
+                                     "tv":  62
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3686,6 +3686,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA (VL ARENS)",
+                                       "p":  0,
+                                       "km":  12.12,
+                                       "tv":  62
+                                   },
                                    {
                                        "n":  "Castro",
                                        "r":  "INFANGER",
