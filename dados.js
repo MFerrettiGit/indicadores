@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -35,15 +35,15 @@ window.PAINEL = {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  59.52,
-                     "semPed":  4,
-                     "perc":  80,
+                     "visitas":  6,
+                     "km":  83.95,
+                     "semPed":  5,
+                     "perc":  83.33,
                      "primeiro":  "08:30",
-                     "ultimo":  "13:08",
-                     "tv":  "04:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "15:39",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "15:35",
                      "tv":  "04:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:47",
                      "ultimo":  "15:17",
                      "tv":  "03:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:50",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "15:34",
                      "tv":  "04:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -147,13 +147,13 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  4.13,
+                     "visitas":  6,
+                     "km":  4.93,
                      "semPed":  1,
-                     "perc":  20,
+                     "perc":  16.67,
                      "primeiro":  "08:11",
-                     "ultimo":  "15:14",
-                     "tv":  "06:05:00",
+                     "ultimo":  "15:41",
+                     "tv":  "06:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -182,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "08:37",
                      "ultimo":  "15:21",
                      "tv":  "02:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -295,6 +295,15 @@ window.PAINEL = {
                          "out":  "12:08:21",
                          "km":  7.66,
                          "dur":  "00:55:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "14:07:59",
+                         "out":  "15:54:55",
+                         "km":  10.98,
+                         "dur":  "01:46:00"
                      },
                      {
                          "nome":  "Luis",
@@ -666,6 +675,15 @@ window.PAINEL = {
                          "dur":  "00:38:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "RENATO SUPERMERCADO LTDA",
+                         "mun":  "CUNHA",
+                         "in":  "15:18:46",
+                         "out":  "15:41:46",
+                         "km":  0.8,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -913,7 +931,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:47:17"
+                        "tempo":  "02:01:51"
                     },
                     {
                         "nome":  "Lucas",
@@ -921,7 +939,15 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:47"
+                        "tempo":  "00:51:21"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Itirapina a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:26"
                     }
                 ],
     "semped":  [
@@ -1069,37 +1095,61 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "01:26:54"
+                         "tempo":  "01:41:23"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "R. A. PRODUTOS HIDRAULICOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:13:35"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:31:15"
+                         "tempo":  "01:45:44"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "BIANCHINI",
-                         "mun":  "ITIRAPINA",
-                         "tempo":  "01:01:14"
+                         "nome":  "Costa",
+                         "razao":  "MERCEARIA CORDEIROPOLIS LTDA.",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:09:01"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:04:44"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "RENATO SUPERMERCADO LTDA",
+                         "razao":  "ROMILDO A F DE CARVALHO",
                          "mun":  "CUNHA",
-                         "tempo":  "00:20:28"
+                         "tempo":  "00:07:53"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:05:17"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:30:10"
+                         "tempo":  "00:44:39"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:04:51"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:34:01"
+                         "tempo":  "00:48:30"
                      }
                  ],
     "hist":  [
@@ -1210,8 +1260,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     88,
-                     22
+                     91,
+                     23
                  ]
              ],
     "historico":  {
@@ -4763,7 +4813,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4787,10 +4837,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  1,
-                                                       "km":  59.52,
-                                                       "tv":  245
+                                                       "km":  83.95,
+                                                       "tv":  306
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4859,10 +4909,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  4.13,
-                                                       "tv":  365
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  4.93,
+                                                       "tv":  387
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -4964,6 +5014,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.66,
                                                          "tv":  55
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "MIALICH SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  10.98,
+                                                         "tv":  106
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -5251,6 +5308,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.5,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "RENATO SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.8,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Lucas",

@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3571,10 +3571,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  1,
-                                     "km":  59.52,
-                                     "tv":  245
+                                     "km":  83.95,
+                                     "tv":  306
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3643,10 +3643,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  4.13,
-                                     "tv":  365
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  4.93,
+                                     "tv":  387
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -3748,6 +3748,13 @@
                                        "p":  1,
                                        "km":  7.66,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "MIALICH SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  10.98,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Luis",
@@ -4035,6 +4042,13 @@
                                        "p":  0,
                                        "km":  1.5,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "RENATO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.8,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Lucas",
