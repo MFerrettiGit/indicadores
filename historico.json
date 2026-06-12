@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3580,10 +3580,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  47.05,
-                                     "tv":  261
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  47.91,
+                                     "tv":  326
                                  },
                                  {
                                      "nome":  "Luis",
@@ -3622,6 +3622,15 @@
                                      "tv":  249
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  5,
+                                     "km":  60.34,
+                                     "tv":  332
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  6,
                                      "km":  5.23,
                                      "tv":  422
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  4,
-                                     "km":  55.22,
-                                     "tv":  271
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3734,6 +3734,13 @@
                                        "p":  1,
                                        "km":  2.26,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "MERCEARIA CORDEIROPOLIS LTDA.",
+                                       "p":  1,
+                                       "km":  0.86,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Fernando",
@@ -3930,6 +3937,13 @@
                                        "p":  1,
                                        "km":  13.71,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                                       "p":  1,
+                                       "km":  5.12,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Castro",

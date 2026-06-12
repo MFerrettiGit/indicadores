@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -49,14 +49,14 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  47.05,
+                     "visitas":  5,
+                     "km":  47.91,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "15:35",
-                     "tv":  "04:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:50",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  7,
+                     "km":  60.34,
+                     "semPed":  2,
+                     "perc":  28.57,
+                     "primeiro":  "08:05",
+                     "ultimo":  "16:50",
+                     "tv":  "05:32:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "16:21",
                      "tv":  "07:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  55.22,
-                     "semPed":  2,
-                     "perc":  33.33,
-                     "primeiro":  "08:05",
-                     "ultimo":  "15:34",
-                     "tv":  "04:31:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -277,6 +277,15 @@ window.PAINEL = {
                          "out":  "15:35:18",
                          "km":  2.26,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "MERCEARIA CORDEIROPOLIS LTDA.",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "15:44:42",
+                         "out":  "16:50:18",
+                         "km":  0.86,
+                         "dur":  "01:05:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -529,6 +538,15 @@ window.PAINEL = {
                          "out":  "15:34:32",
                          "km":  13.71,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:48:59",
+                         "out":  "16:50:55",
+                         "km":  5.12,
+                         "dur":  "01:01:00"
                      },
                      {
                          "nome":  "Castro",
@@ -984,7 +1002,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:47:21"
+                        "tempo":  "03:04:28"
                     },
                     {
                         "nome":  "Lucas",
@@ -992,7 +1010,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:36:51"
+                        "tempo":  "01:53:58"
                     }
                 ],
     "semped":  [
@@ -1158,55 +1176,43 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "02:26:52"
+                         "tempo":  "02:44:01"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO TONELLI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:18:41"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "MERCEARIA CORDEIROPOLIS LTDA.",
-                         "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:54:30"
+                         "tempo":  "00:35:50"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:09:40"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:50:13"
+                         "tempo":  "00:26:49"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "W. A. DE CAMPOS - MERCEARIA",
                          "mun":  "CUNHA",
-                         "tempo":  "00:12:03"
+                         "tempo":  "00:29:12"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:50:46"
+                         "tempo":  "01:07:55"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:30:08"
+                         "tempo":  "01:47:17"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO DA CIDADE LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:27:58"
+                         "tempo":  "00:45:07"
                      }
                  ],
     "hist":  [
@@ -1317,7 +1323,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     101,
+                     103,
                      26
                  ]
              ],
@@ -4870,7 +4876,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4903,10 +4909,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  47.05,
-                                                       "tv":  261
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  47.91,
+                                                       "tv":  326
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4945,6 +4951,15 @@ window.PAINEL = {
                                                        "tv":  249
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  5,
+                                                       "km":  60.34,
+                                                       "tv":  332
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -4952,15 +4967,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  5.23,
                                                        "tv":  422
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  4,
-                                                       "km":  55.22,
-                                                       "tv":  271
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -5057,6 +5063,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.26,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "MERCEARIA CORDEIROPOLIS LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.86,
+                                                         "tv":  65
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -5253,6 +5266,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  13.71,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                                                         "p":  1,
+                                                         "km":  5.12,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Castro",
