@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3562,10 +3562,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  3,
-                                     "km":  31.07,
-                                     "tv":  168
+                                     "km":  31.53,
+                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -3580,10 +3580,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  44.79,
-                                     "tv":  225
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  47.05,
+                                     "tv":  261
                                  },
                                  {
                                      "nome":  "Luis",
@@ -3622,6 +3622,15 @@
                                      "tv":  209
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  55.22,
+                                     "tv":  271
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  5,
                                      "km":  74,
                                      "tv":  230
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  41.51,
-                                     "tv":  239
                                  },
                                  {
                                      "nome":  "Karina",
@@ -3727,6 +3727,13 @@
                                        "p":  1,
                                        "km":  0.51,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  2.26,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Fernando",
@@ -3855,6 +3862,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BIANCHINI",
+                                       "p":  0,
+                                       "km":  24.43,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MARCOS NUNES DA SILVA",
                                        "p":  1,
@@ -3888,6 +3902,13 @@
                                        "p":  1,
                                        "km":  5.83,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1,
+                                       "km":  13.71,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Castro",

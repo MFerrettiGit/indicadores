@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  31.07,
-                     "semPed":  2,
-                     "perc":  40,
+                     "visitas":  6,
+                     "km":  31.53,
+                     "semPed":  3,
+                     "perc":  50,
                      "primeiro":  "08:29",
-                     "ultimo":  "14:49",
-                     "tv":  "02:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:24",
+                     "tv":  "03:07:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -49,14 +49,14 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  44.79,
+                     "visitas":  4,
+                     "km":  47.05,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "12:14",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:35",
+                     "tv":  "04:21:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  55.22,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:05",
+                     "ultimo":  "15:34",
+                     "tv":  "04:31:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "15:03",
                      "tv":  "03:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  41.51,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:05",
-                     "ultimo":  "14:34",
-                     "tv":  "03:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -268,6 +268,15 @@ window.PAINEL = {
                          "out":  "12:14:24",
                          "km":  0.51,
                          "dur":  "01:00:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "14:58:53",
+                         "out":  "15:35:18",
+                         "km":  2.26,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -432,6 +441,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BIANCHINI",
+                         "mun":  "ITIRAPINA",
+                         "in":  "14:38:00",
+                         "out":  "15:39:30",
+                         "km":  24.43,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "MARCOS NUNES DA SILVA",
                          "mun":  "CAMPINAS",
@@ -475,6 +493,15 @@ window.PAINEL = {
                          "out":  "14:34:52",
                          "km":  5.83,
                          "dur":  "00:54:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:02:15",
+                         "out":  "15:34:32",
+                         "km":  13.71,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Castro",
@@ -886,7 +913,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:32:05"
+                        "tempo":  "01:47:17"
                     },
                     {
                         "nome":  "Lucas",
@@ -894,7 +921,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:35"
+                        "tempo":  "00:36:47"
                     }
                 ],
     "semped":  [
@@ -1029,6 +1056,12 @@ window.PAINEL = {
                        "razao":  "SYLVIO MARCHEZELI JUNIOR- ME.",
                        "mun":  "ANALANDIA",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "BIANCHINI",
+                       "mun":  "ITIRAPINA",
+                       "obs":  "apresentação Farnese e cloy nova linha"
                    }
                ],
     "emvisita":  [
@@ -1036,55 +1069,37 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "01:11:47"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "MARTA GUEDES SARAGIOTTO",
-                         "mun":  "SERRA NEGRA",
-                         "tempo":  "00:18:29"
+                         "tempo":  "01:26:54"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:16:08"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "RODRIGUES",
-                         "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:25:14"
+                         "tempo":  "01:31:15"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BIANCHINI",
                          "mun":  "ITIRAPINA",
-                         "tempo":  "00:46:07"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:21:52"
+                         "tempo":  "01:01:14"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "RENATO SUPERMERCADO LTDA",
                          "mun":  "CUNHA",
-                         "tempo":  "00:05:21"
+                         "tempo":  "00:20:28"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:15:03"
+                         "tempo":  "00:30:10"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:18:54"
+                         "tempo":  "00:34:01"
                      }
                  ],
     "hist":  [
@@ -1195,8 +1210,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     83,
-                     21
+                     88,
+                     22
                  ]
              ],
     "historico":  {
@@ -4748,7 +4763,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4763,10 +4778,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  3,
-                                                       "km":  31.07,
-                                                       "tv":  168
+                                                       "km":  31.53,
+                                                       "tv":  187
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -4781,10 +4796,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  44.79,
-                                                       "tv":  225
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  47.05,
+                                                       "tv":  261
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4823,6 +4838,15 @@ window.PAINEL = {
                                                        "tv":  209
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  55.22,
+                                                       "tv":  271
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -4830,15 +4854,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  74,
                                                        "tv":  230
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  41.51,
-                                                       "tv":  239
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -4928,6 +4943,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.51,
                                                          "tv":  60
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "RODRIGUES",
+                                                         "p":  1,
+                                                         "km":  2.26,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -5056,6 +5078,13 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "BIANCHINI",
+                                                         "p":  0,
+                                                         "km":  24.43,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "MARCOS NUNES DA SILVA",
                                                          "p":  1,
@@ -5089,6 +5118,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.83,
                                                          "tv":  54
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  13.71,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Castro",
