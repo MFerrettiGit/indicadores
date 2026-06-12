@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "11:20",
                      "tv":  "02:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  78.69,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:47",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "11:26",
+                     "tv":  "02:38:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  25.37,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:28",
+                     "tv":  "02:02:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "11:19",
                      "tv":  "02:39:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  24.28,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "10:37",
-                     "tv":  "01:39:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -155,6 +155,20 @@ window.PAINEL = {
                      "ultimo":  "11:23",
                      "tv":  "02:40:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  0.58,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:11",
+                     "ultimo":  "11:28",
+                     "tv":  "03:16:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:37",
                      "ultimo":  "09:48",
                      "tv":  "01:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -194,20 +208,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:09",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:11",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -259,6 +259,15 @@ window.PAINEL = {
                          "out":  "10:51:25",
                          "km":  4.32,
                          "dur":  "02:21:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "VICENTE",
+                         "mun":  "ORLANDIA",
+                         "in":  "08:47:25",
+                         "out":  "11:26:19",
+                         "km":  78.69,
+                         "dur":  "02:38:00"
                      },
                      {
                          "nome":  "Maira",
@@ -396,6 +405,24 @@ window.PAINEL = {
                          "dur":  "00:42:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:03:53",
+                         "out":  "11:28:40",
+                         "km":  1.09,
+                         "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "O.E.S GUEDES MERCADO LTDA",
+                         "mun":  "CUNHA",
+                         "in":  "08:11:27",
+                         "out":  "11:28:00",
+                         "km":  0.58,
+                         "dur":  "03:16:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -496,12 +523,104 @@ window.PAINEL = {
                        "obs":  "Levantamento e entrega de amostras para apresentação a diretoria"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "MONTE BELLO",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento para enviar proposta pois comprador não atende"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MARCHESANI",
                        "mun":  "ANALANDIA",
                        "obs":  "estocado"
                    }
                ],
+    "emvisita":  [
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "02:07:32"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "GONCALVES E GONCALVES LTDA",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:37:17"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO COLORADO LTDA",
+                         "mun":  "SERRA NEGRA",
+                         "tempo":  "00:20:10"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "RETA ALIMENTOS LTDA",
+                         "mun":  "ORLANDIA",
+                         "tempo":  "00:08:29"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:30:06"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RONALDO DE SOUZA TULHER EIRELI",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:29:41"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "64.293.385 DANIEL DONIZETE DE MORAES",
+                         "mun":  "ALVINLANDIA",
+                         "tempo":  "00:12:55"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "03:33:49"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "PAM PRODUTOS PARA LIMPEZA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:19:46"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SUPERMERCADO VICALI PARATY LTDA.",
+                         "mun":  "CUNHA",
+                         "tempo":  "00:02:39"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "CATO ANTONIALE",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:39:37"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO SAO JOSE ITAPE LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:13:40"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "DAMA COM. DE MATERIAIS P/LIMPEZA LTDA-ME",
+                         "mun":  "VINHEDO",
+                         "tempo":  "01:36:27"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                         "mun":  "RIO DAS PEDRAS",
+                         "tempo":  "00:07:27"
+                     }
+                 ],
     "hist":  [
                  [
                      "13/05",
@@ -610,8 +729,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     43,
-                     7
+                     46,
+                     8
                  ]
              ],
     "historico":  {
@@ -4223,10 +4342,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  78.69,
+                                                       "tv":  158
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -4238,6 +4357,15 @@ window.PAINEL = {
                                                        "tv":  95
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  25.37,
+                                                       "tv":  122
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -4247,15 +4375,6 @@ window.PAINEL = {
                                                        "tv":  159
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  24.28,
-                                                       "tv":  99
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -4263,6 +4382,15 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  6.87,
                                                        "tv":  160
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  0.58,
+                                                       "tv":  196
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -4285,15 +4413,6 @@ window.PAINEL = {
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -4336,6 +4455,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.32,
                                                          "tv":  141
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "VICENTE",
+                                                         "p":  1,
+                                                         "km":  78.69,
+                                                         "tv":  158
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -4441,6 +4567,20 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  16.11,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MONTE BELLO",
+                                                         "p":  0,
+                                                         "km":  1.09,
+                                                         "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "O.E.S GUEDES MERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.58,
+                                                         "tv":  196
                                                      },
                                                      {
                                                          "n":  "Lucas",

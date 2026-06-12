@@ -129,6 +129,7 @@
   .tl .ev::before{content:'';position:absolute;left:-22px;top:13px;width:10px;height:10px;border-radius:50%;background:var(--brand)}
   .tl .ev.noped::before{background:var(--red)}
   .tl .ev.evt::before{background:var(--orange)}
+  .tl .ev.now::before{background:var(--green);box-shadow:0 0 0 3px var(--greenbg)}
   .small{font-size:.78rem;color:var(--muted)}
   footer{text-align:center;color:var(--muted);font-size:.8rem;padding:24px;line-height:1.6}
 </style>
@@ -208,11 +209,16 @@
   <section>
     <h2 class="sec"><span class="ico">🗓️</span> Resumo por período</h2>
     <div class="tabs">
-      <div class="tab active" data-tab="dia" onclick="setTab('dia')">Dia</div>
+      <div class="tab active" data-tab="dia" onclick="setTab('dia')">Hoje</div>
+      <div class="tab" data-tab="pick" onclick="setTab('pick')">Escolher dia</div>
       <div class="tab" data-tab="sem" onclick="setTab('sem')">Semana</div>
       <div class="tab" data-tab="mes" onclick="setTab('mes')">Mês</div>
     </div>
     <div class="tabpane active" id="pane-dia"></div>
+    <div class="tabpane" id="pane-pick">
+      <div class="filterbar"><label class="small">Dia:</label><select id="histDay" onchange="renderPick()"></select></div>
+      <div id="pickBody"></div>
+    </div>
     <div class="tabpane" id="pane-sem"></div>
     <div class="tabpane" id="pane-mes"></div>
   </section>
@@ -261,6 +267,7 @@ const VEND=P.vend||[];
 const CHECKINS=P.checkins||[];
 const EVENTOS=P.eventos||[];
 const SEMPED=P.semped||[];
+const EMVISITA=P.emvisita||[];   // quem está em visita AGORA (cliente/município/tempo)
 const HIST=P.hist||[];
 const HISTORICO=P.historico||{};
 /* ====================== HELPERS ====================== */
@@ -329,6 +336,7 @@ VEND.forEach(v=>{
   v.emEvento=(v.emEvento===1||v.emEvento===true)?1:0;
   v.inProgress=(v.emVisita===1||v.emEvento===1);
   v.started=(v.firstAct!=null)||v.inProgress||v.eventos.length>0;
+  v.atual=EMVISITA.find(e=>e.nome===v.nome)||null;   // cliente que está visitando AGORA (razao/mun/tempo)
   v.span=(v.firstAct!=null&&v.lastAct!=null)?v.lastAct-v.firstAct:null;
   v.lunch=v.eventos.filter(e=>/refei/i.test(e.tipo)).reduce((a,e)=>a+durMin(e.tempo),0);
   v.fullDayEvt=v.eventos.some(e=>/reuniao|manuten|viagem|treina|capacita/i.test(e.tipo)&&durMin(e.tempo)>=240)||v.eventos.some(e=>durMin(e.tempo)>=300)||v.nome==='Lucas';
@@ -475,7 +483,7 @@ function renderAll(){
   renderDestaques(); renderLeitura(); renderImportant(); renderSuspeitos();
   renderResumo(); renderCharts(); renderEvt();
   const at=document.querySelector('.tab.active'); const tk=at?at.dataset.tab:'dia';
-  if(tk==='sem') renderSem(); else if(tk==='mes') renderMes(); else renderDia();
+  if(tk==='sem') renderSem(); else if(tk==='mes') renderMes(); else if(tk==='pick') renderPick(); else renderDia();
 }
 
 /* ====================== DESTAQUES ====================== */
@@ -604,7 +612,8 @@ function renderResumo(){
     const pC=v.orders>=META.pedidos?'c-ok':(v.orders>0?'c-warn':'c-bad');
     const perc=v.perc==null?'—':Math.round(v.perc)+'%';
     const pcC=v.perc==null?'':(v.perc>=80?'c-bad':(v.perc>=40?'c-warn':''));
-    const live=v.emVisita?'<span class="chip c-live">● em visita agora</span>':(v.emEvento?'<span class="chip c-liveb">● em evento agora</span>':'');
+    const liveTip=v.atual?(v.atual.razao+(v.atual.mun?' — '+v.atual.mun:'')+(v.atual.tempo?' (há '+v.atual.tempo.slice(0,5)+')':'')).replace(/"/g,'&quot;'):'';
+    const live=v.emVisita?`<span class="chip c-live"${liveTip?` title="${liveTip}"`:''}>● em visita agora</span>`:(v.emEvento?'<span class="chip c-liveb">● em evento agora</span>':'');
     return `<tr onclick="openVend('${v.nome}')"><td><b>${v.nome}</b>${live}</td><td class="small">${v.setor}</td><td class="small">${v.regional}</td>
       <td><span class="chip ${vC}">${v.visitas}</span></td><td><span class="chip ${pC}">${v.orders}</span></td>
       <td class="num">${v.km.toFixed(1)}</td><td>${pcC?`<span class="chip ${pcC}">${perc}</span>`:perc}</td>
@@ -679,6 +688,24 @@ function periodLeitura(kind){
 function renderDia(){ document.getElementById('pane-dia').innerHTML=statKpis()+'<div style="height:14px"></div>'+vendBars(); }
 function renderSem(){ document.getElementById('pane-sem').innerHTML=`<div class="note">Acúmulo da semana atual (segunda a domingo). Cresce a cada dia capturado.</div>`+periodLeitura('sem')+periodView('sem'); }
 function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">Acúmulo do mês atual. Cresce a cada dia capturado.</div>`+periodLeitura('mes')+periodView('mes')+`<div class="card" style="margin-top:14px"><h3>Evolução diária</h3><div class="cap">Total de visitas e de clientes sem pedido por dia (número em cada ponto)</div>${lineChart()}</div>`; }
+// "Escolher dia": números de UM dia já capturado (snapshot = última atualização daquele dia)
+function fmtDay(key){ const p=(key||'').split('-'); return p.length===3?`${p[2]}/${p[1]}/${p[0]}`:key; }
+function renderPick(){
+  const sel=document.getElementById('histDay'); const day=sel?sel.value:'';
+  const body=document.getElementById('pickBody'); const snap=day?HISTORICO[day]:null;
+  if(!day||!snap||!snap.v||!snap.v.length){ body.innerHTML='<div class="note">Escolha um dia acima para ver os números daquele dia.</div>'; return; }
+  const rows=snap.v.filter(r=>{ const reg=REGIONAL_FIX[r.nome]||r.regional; return !gReg||reg===gReg; });
+  if(!rows.length){ body.innerHTML='<div class="note">Sem dados desse dia para a regional selecionada.</div>'; return; }
+  const tVis=rows.reduce((a,r)=>a+r.vi,0),tPed=rows.reduce((a,r)=>a+r.pe,0),tKm=rows.reduce((a,r)=>a+r.km,0),tTv=rows.reduce((a,r)=>a+r.tv,0);
+  const kpi=`<div class="kpis">
+    <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
+    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
+    <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)}</div><div class="l">Km rodados</div></div>
+    <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div></div>`;
+  const max=Math.max(1,...rows.map(r=>r.vi));
+  const bars=[...rows].sort((a,b)=>b.vi-a.vi).map(r=>`<div class="barrow"><span class="small">${r.nome}</span><div class="bartrack"><div class="bar b-ok" style="width:${Math.max(2,r.vi/max*100)}%"></div></div><span class="num">${r.vi}v · ${r.pe}p</span></div>`).join('');
+  body.innerHTML=`<div class="note">Resultados de <b>${fmtDay(day)}</b> — última atualização do dia${snap.dataHora?' às '+snap.dataHora:''}.</div>`+kpi+'<div style="height:14px"></div><div class="card"><h3>Por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>'+(bars||'<div class="small">Sem dados.</div>')+'</div>';
+}
 
 /* ====================== GRÁFICOS ====================== */
 function barChart(items,meta,fmt){
@@ -734,9 +761,11 @@ function openVend(nome){
   const items=[];
   v.checkins.forEach(c=>items.push({t:toMin(c.in),tipo:'visita',c}));
   v.eventos.forEach(e=>{ if(e.inicio)items.push({t:toMin(e.inicio),tipo:'evento',e}); });
+  if(v.emVisita&&v.atual) items.push({t:1e9,tipo:'agora'});   // visita em andamento entra por último
   items.sort((a,b)=>a.t-b.t);
   let tl=items.map(it=>{ if(it.tipo==='visita'){ const c=it.c,noPed=v.semL.some(s=>s.razao===c.razao);
       return `<div class="ev ${noPed?'noped':''}"><b>${c.in.slice(0,5)}–${c.out.slice(0,5)}</b> · ${c.razao} <span class="small">(${c.mun})</span><br><span class="small">${c.dur.slice(0,5)} · ${c.km} km · ${noPed?'<b style="color:var(--red)">sem pedido</b>':'<b style="color:var(--green)">com pedido</b>'}</span></div>`; }
+    else if(it.tipo==='agora'){ return `<div class="ev now"><b style="color:var(--green)">Agora</b> · ${v.atual.razao} <span class="small">(${v.atual.mun})</span><br><span class="small">há ${v.atual.tempo.slice(0,5)} · <b style="color:var(--green)">em visita</b></span></div>`; }
     else{ const e=it.e; return `<div class="ev evt"><b>${(e.inicio||'').slice(0,5)}${e.final?'–'+e.final.slice(0,5):''}</b> · <b>${e.tipo}</b> <span class="small">${e.obs}</span></div>`; } }).join('');
   if(!items.length) tl='<p class="small">Sem visitas ou eventos com horário.</p>';
   const cob=[...v.inicio,...v.fim,...v.suspeitos];
@@ -754,7 +783,7 @@ function openVend(nome){
       <div class="kpi"><div class="v">${v.lunch?Math.round(v.lunch)+'m':'—'}</div><div class="l">Almoço</div></div>
       <div class="kpi"><div class="v">${v.perc==null?'—':Math.round(v.perc)+'%'}</div><div class="l">Sem pedido</div></div>
     </div>
-    ${v.inProgress?`<div class="okbox" style="background:var(--panel2);border-color:var(--brand2);color:var(--brand2);margin-bottom:10px">🟢 ${v.emVisita?'Em visita':'Em evento'} no momento${v.visitas===0&&v.firstAct!=null?' — desde '+mmToStr(v.firstAct):''}.</div>`:''}
+    ${v.inProgress?`<div class="okbox" style="background:var(--panel2);border-color:var(--brand2);color:var(--brand2);margin-bottom:10px">🟢 ${v.emVisita?'Em visita':'Em evento'} no momento${v.emVisita&&v.atual?' — <b>'+v.atual.razao+'</b>'+(v.atual.mun?' · '+v.atual.mun:'')+(v.atual.tempo?' · há '+v.atual.tempo.slice(0,5):''):(v.visitas===0&&v.firstAct!=null?' — desde '+mmToStr(v.firstAct):'')}.</div>`:''}
     <div class="small" style="margin-bottom:10px">Metas: 5 visitas, 4 pedidos, jornada 08:00–17:48.</div>
     <h3 style="margin:6px 0">Pontos de atenção</h3><ul class="pcard" style="border:none;background:none;box-shadow:none;padding:0">${al}</ul>
     <h3 style="margin:14px 0 6px">Rota do dia</h3><div class="tl">${tl}</div>`;
@@ -767,7 +796,7 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape')closeModal(); });
 function setTab(t){ document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.tab===t));
   document.querySelectorAll('.tabpane').forEach(p=>p.classList.remove('active'));
   document.getElementById('pane-'+t).classList.add('active');
-  if(t==='sem')renderSem(); if(t==='mes')renderMes(); }
+  if(t==='sem')renderSem(); if(t==='mes')renderMes(); if(t==='pick')renderPick(); }
 function toggleTheme(){ const h=document.documentElement,dark=h.getAttribute('data-theme')==='dark';
   h.setAttribute('data-theme',dark?'light':'dark');
   document.getElementById('themeBtn').textContent=dark?'🌙 Escuro':'☀️ Claro';
@@ -807,6 +836,8 @@ function renderLeitura(){
   document.getElementById('foot').innerHTML=`M. Ferretti — Painel de gestão da equipe de vendas.<br>Dados de campo atualizados em <b>${DATA_DT} às ${DATA_HORA}</b>.`;
   const regs=[...new Set(VEND.map(v=>v.regional))].sort();
   document.getElementById('gReg').innerHTML='<option value="">Todas as regionais</option>'+regs.map(r=>`<option>${r}</option>`).join('');
+  const hkeys=Object.keys(HISTORICO).sort().reverse();   // dias capturados, mais recente primeiro
+  document.getElementById('histDay').innerHTML='<option value="">— escolha um dia —</option>'+hkeys.map(k=>`<option value="${k}">${fmtDay(k)}</option>`).join('');
   setRegional('');   // popula info e renderiza tudo (todas as regionais)
 })();
 </script>

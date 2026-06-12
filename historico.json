@@ -3607,10 +3607,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  78.69,
+                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Castro",
@@ -3622,6 +3622,15 @@
                                      "tv":  95
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  25.37,
+                                     "tv":  122
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -3631,15 +3640,6 @@
                                      "tv":  159
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  24.28,
-                                     "tv":  99
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -3647,6 +3647,15 @@
                                      "pe":  2,
                                      "km":  6.87,
                                      "tv":  160
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0.58,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -3669,15 +3678,6 @@
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -3720,6 +3720,13 @@
                                        "p":  1,
                                        "km":  4.32,
                                        "tv":  141
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "VICENTE",
+                                       "p":  1,
+                                       "km":  78.69,
+                                       "tv":  158
                                    },
                                    {
                                        "n":  "Maira",
@@ -3825,6 +3832,20 @@
                                        "p":  0,
                                        "km":  16.11,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO",
+                                       "p":  0,
+                                       "km":  1.09,
+                                       "tv":  23
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "O.E.S GUEDES MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.58,
+                                       "tv":  196
                                    },
                                    {
                                        "n":  "Lucas",
