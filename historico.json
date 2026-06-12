@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3595,6 +3595,15 @@
                                      "tv":  278
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  26.25,
+                                     "tv":  374
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -3602,15 +3611,6 @@
                                      "pe":  3,
                                      "km":  44.32,
                                      "tv":  302
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  18.49,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -3804,6 +3804,13 @@
                                        "p":  1,
                                        "km":  3.35,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.A.DE MELO",
+                                       "p":  1,
+                                       "km":  7.76,
+                                       "tv":  165
                                    },
                                    {
                                        "n":  "Rachel",

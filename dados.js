@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -74,6 +74,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  26.25,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:23",
+                     "ultimo":  "16:59",
+                     "tv":  "06:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -84,20 +98,6 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "15:54",
                      "tv":  "05:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  18.49,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:23",
-                     "ultimo":  "12:25",
-                     "tv":  "03:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "16:29",
                      "tv":  "04:09:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "16:50",
                      "tv":  "05:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -367,6 +367,15 @@ window.PAINEL = {
                          "out":  "12:25:54",
                          "km":  3.35,
                          "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "A.A.DE MELO",
+                         "mun":  "NOVA ODESSA",
+                         "in":  "14:12:20",
+                         "out":  "16:59:22",
+                         "km":  7.76,
+                         "dur":  "02:45:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -1002,7 +1011,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:04:28"
+                        "tempo":  "03:19:55"
                     },
                     {
                         "nome":  "Lucas",
@@ -1010,7 +1019,15 @@ window.PAINEL = {
                         "obs":  "digitando pedido pistone, fichas de cadastros Sumerbol e cato",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:58"
+                        "tempo":  "02:09:25"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Planejamento",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:17"
                     }
                 ],
     "semped":  [
@@ -1173,46 +1190,46 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "A.A.DE MELO",
-                         "mun":  "NOVA ODESSA",
-                         "tempo":  "02:44:01"
-                     },
-                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO TONELLI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:35:50"
+                         "tempo":  "00:51:16"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:26:49"
+                         "tempo":  "00:42:15"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MINI MERCADO EULISA LTDA ME",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:00:52"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "W. A. DE CAMPOS - MERCEARIA",
                          "mun":  "CUNHA",
-                         "tempo":  "00:29:12"
+                         "tempo":  "00:44:38"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:07:55"
+                         "tempo":  "01:23:21"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:47:17"
+                         "tempo":  "02:02:43"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO DA CIDADE LTDA",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:45:07"
+                         "tempo":  "01:00:33"
                      }
                  ],
     "hist":  [
@@ -1323,7 +1340,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     103,
+                     104,
                      26
                  ]
              ],
@@ -4876,7 +4893,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4924,6 +4941,15 @@ window.PAINEL = {
                                                        "tv":  278
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  26.25,
+                                                       "tv":  374
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -4931,15 +4957,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  44.32,
                                                        "tv":  302
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  18.49,
-                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5133,6 +5150,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.35,
                                                          "tv":  80
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "A.A.DE MELO",
+                                                         "p":  1,
+                                                         "km":  7.76,
+                                                         "tv":  165
                                                      },
                                                      {
                                                          "n":  "Rachel",
