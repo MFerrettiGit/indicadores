@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3613,6 +3613,15 @@
                                      "tv":  194
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  28.47,
+                                     "tv":  163
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -3620,15 +3629,6 @@
                                      "pe":  4,
                                      "km":  66.04,
                                      "tv":  214
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  26.52,
-                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Alan",
@@ -3652,10 +3652,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  1.62,
-                                     "tv":  238
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  2.63,
+                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -3925,6 +3925,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SERTOP OPERACAO E GESTAO DO VAREJO LTDA",
+                                       "p":  0,
+                                       "km":  1.95,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -3944,6 +3951,13 @@
                                        "p":  1,
                                        "km":  1.04,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
+                                       "p":  1,
+                                       "km":  1.01,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Lucas",

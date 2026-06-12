@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "12:08",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -98,6 +98,20 @@ window.PAINEL = {
                      "primeiro":  "08:47",
                      "ultimo":  "12:10",
                      "tv":  "03:14:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  28.47,
+                     "semPed":  5,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "13:36",
+                     "tv":  "02:43:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -116,20 +130,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  26.52,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "12:00",
-                     "tv":  "02:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -141,7 +141,7 @@ window.PAINEL = {
                      "ultimo":  "11:50",
                      "tv":  "03:05:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -161,13 +161,13 @@ window.PAINEL = {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  1.62,
+                     "visitas":  3,
+                     "km":  2.63,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:11",
-                     "ultimo":  "12:22",
-                     "tv":  "03:58:00",
+                     "ultimo":  "13:26",
+                     "tv":  "04:53:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -522,6 +522,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO LTDA",
+                         "mun":  "RIO DAS PEDRAS",
+                         "in":  "13:18:56",
+                         "out":  "13:36:54",
+                         "km":  1.95,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -547,6 +556,15 @@ window.PAINEL = {
                          "out":  "12:22:38",
                          "km":  1.04,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
+                         "mun":  "CUNHA",
+                         "in":  "12:30:00",
+                         "out":  "13:26:02",
+                         "km":  1.01,
+                         "dur":  "00:55:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -614,12 +632,28 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:31",
+                        "final":  "13:32",
+                        "tempo":  "01:00:41"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "serra negra",
                         "inicio":  "08:03",
                         "final":  "08:29",
                         "tempo":  "00:26:18"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:36",
+                        "final":  "13:29",
+                        "tempo":  "00:53:05"
                     },
                     {
                         "nome":  "Luis",
@@ -646,6 +680,14 @@ window.PAINEL = {
                         "tempo":  "00:59:19"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:33",
+                        "final":  "13:35",
+                        "tempo":  "01:02:00"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Analandia",
@@ -670,36 +712,12 @@ window.PAINEL = {
                         "tempo":  "00:00:24"
                     },
                     {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:26"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:37"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:51"
-                    },
-                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:43"
+                        "tempo":  "00:58:29"
                     },
                     {
                         "nome":  "Nelson",
@@ -707,7 +725,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:50"
+                        "tempo":  "00:56:36"
                     },
                     {
                         "nome":  "Lucas",
@@ -715,7 +733,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:04"
+                        "tempo":  "00:44:50"
                     },
                     {
                         "nome":  "Maira",
@@ -723,7 +741,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:57"
+                        "tempo":  "00:38:43"
                     },
                     {
                         "nome":  "Mariangela",
@@ -731,7 +749,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:09"
+                        "tempo":  "00:34:55"
                     },
                     {
                         "nome":  "Castro",
@@ -739,7 +757,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:52"
+                        "tempo":  "00:29:38"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -747,7 +765,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:01"
+                        "tempo":  "00:22:47"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:33"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "uniao",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:22"
                     }
                 ],
     "semped":  [
@@ -824,6 +858,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO LTDA",
+                       "mun":  "RIO DAS PEDRAS",
+                       "obs":  "Levantamento"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "MARCHESANI",
                        "mun":  "ANALANDIA",
@@ -851,15 +891,9 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Karina",
-                         "razao":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
+                         "razao":  "ANDREIA A. DE C. OLIVEIRA TOLEDO",
                          "mun":  "CUNHA",
-                         "tempo":  "00:54:15"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SERTOP OPERACAO E GESTAO DO VAREJO LTDA",
-                         "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:05:19"
+                         "tempo":  "00:09:43"
                      }
                  ],
     "hist":  [
@@ -970,8 +1004,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     69,
-                     16
+                     71,
+                     17
                  ]
              ],
     "historico":  {
@@ -4523,7 +4557,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4589,6 +4623,15 @@ window.PAINEL = {
                                                        "tv":  194
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  28.47,
+                                                       "tv":  163
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -4596,15 +4639,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  66.04,
                                                        "tv":  214
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  26.52,
-                                                       "tv":  146
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4628,10 +4662,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  1.62,
-                                                       "tv":  238
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  2.63,
+                                                       "tv":  293
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -4901,6 +4935,13 @@ window.PAINEL = {
                                                          "tv":  24
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SERTOP OPERACAO E GESTAO DO VAREJO LTDA",
+                                                         "p":  0,
+                                                         "km":  1.95,
+                                                         "tv":  17
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
@@ -4920,6 +4961,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.04,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
+                                                         "p":  1,
+                                                         "km":  1.01,
+                                                         "tv":  55
                                                      },
                                                      {
                                                          "n":  "Lucas",
