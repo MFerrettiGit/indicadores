@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  59.52,
+                     "semPed":  4,
+                     "perc":  80,
+                     "primeiro":  "08:30",
+                     "ultimo":  "13:08",
+                     "tv":  "04:05:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -30,20 +44,6 @@ window.PAINEL = {
                      "tv":  "02:32:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  58.07,
-                     "semPed":  3,
-                     "perc":  75,
-                     "primeiro":  "08:30",
-                     "ultimo":  "12:31",
-                     "tv":  "03:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "12:25",
                      "tv":  "03:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "12:00",
                      "tv":  "02:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -155,7 +155,7 @@ window.PAINEL = {
                      "ultimo":  "12:38",
                      "tv":  "03:13:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "12:15",
                      "tv":  "03:40:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -394,6 +394,15 @@ window.PAINEL = {
                          "out":  "12:31:57",
                          "km":  0.32,
                          "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SYLVIO MARCHEZELI JUNIOR- ME.",
+                         "mun":  "ANALANDIA",
+                         "in":  "12:40:39",
+                         "out":  "13:08:04",
+                         "km":  1.45,
+                         "dur":  "00:27:00"
                      },
                      {
                          "nome":  "Alan",
@@ -621,6 +630,14 @@ window.PAINEL = {
                         "tempo":  "01:12:50"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:10",
+                        "final":  "13:09",
+                        "tempo":  "00:59:19"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Analandia",
@@ -629,20 +646,12 @@ window.PAINEL = {
                         "tempo":  "00:53:42"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:04"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Orlandia a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:45"
+                        "tempo":  "00:54:52"
                     },
                     {
                         "nome":  "Alan",
@@ -650,7 +659,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:12"
+                        "tempo":  "00:38:19"
                     },
                     {
                         "nome":  "Fernando",
@@ -658,7 +667,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:23"
+                        "tempo":  "00:36:30"
                     },
                     {
                         "nome":  "Rachel",
@@ -666,7 +675,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:37"
+                        "tempo":  "00:33:44"
                     },
                     {
                         "nome":  "Eugenio",
@@ -674,7 +683,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:29"
+                        "tempo":  "00:28:36"
                     },
                     {
                         "nome":  "Nelson",
@@ -682,7 +691,39 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:36"
+                        "tempo":  "00:26:43"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:57"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:50"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:02"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Analandia a Itirapina",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:21"
                     }
                 ],
     "semped":  [
@@ -775,20 +816,20 @@ window.PAINEL = {
                        "razao":  "LEANDRO APARECIDO PIEROBON",
                        "mun":  "ANALANDIA",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SYLVIO MARCHEZELI JUNIOR- ME.",
+                       "mun":  "ANALANDIA",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SYLVIO MARCHEZELI JUNIOR- ME.",
-                         "mun":  "ANALANDIA",
-                         "tempo":  "00:13:32"
-                     },
-                     {
                          "nome":  "Karina",
                          "razao":  "DEBORA CRISTINA DE OLIVEIRA DOS SANTOS Q",
                          "mun":  "CUNHA",
-                         "tempo":  "00:24:11"
+                         "tempo":  "00:39:14"
                      }
                  ],
     "hist":  [
@@ -899,8 +940,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     65,
-                     15
+                     67,
+                     16
                  ]
              ],
     "historico":  {
@@ -4452,7 +4493,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4464,6 +4505,15 @@ window.PAINEL = {
                                                        "tv":  251
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  1,
+                                                       "km":  59.52,
+                                                       "tv":  245
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -4471,15 +4521,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  30.46,
                                                        "tv":  152
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  1,
-                                                       "km":  58.07,
-                                                       "tv":  218
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4730,6 +4771,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.32,
                                                          "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SYLVIO MARCHEZELI JUNIOR- ME.",
+                                                         "p":  0,
+                                                         "km":  1.45,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Alan",

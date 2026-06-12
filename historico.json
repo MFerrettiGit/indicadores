@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3559,6 +3559,15 @@
                                      "tv":  251
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  59.52,
+                                     "tv":  245
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -3566,15 +3575,6 @@
                                      "pe":  3,
                                      "km":  30.46,
                                      "tv":  152
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  58.07,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Costa",
@@ -3825,6 +3825,13 @@
                                        "p":  0,
                                        "km":  0.32,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SYLVIO MARCHEZELI JUNIOR- ME.",
+                                       "p":  0,
+                                       "km":  1.45,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Alan",
