@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3559,6 +3559,15 @@
                                      "tv":  88
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  27.87,
+                                     "tv":  124
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -3568,13 +3577,13 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
-                                     "pe":  2,
-                                     "km":  25.12,
-                                     "tv":  95
+                                     "pe":  1,
+                                     "km":  56.22,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Maira",
@@ -3595,15 +3604,6 @@
                                      "tv":  141
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  55.83,
-                                     "tv":  130
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -3622,6 +3622,15 @@
                                      "tv":  95
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  35.28,
+                                     "tv":  159
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -3631,22 +3640,13 @@
                                      "tv":  99
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  24.07,
-                                     "tv":  123
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.36,
-                                     "tv":  116
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  6.87,
+                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -3743,11 +3743,25 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "ALMIR ROGERIO RODRIGUES PRANDO",
+                                       "p":  1,
+                                       "km":  2.75,
+                                       "tv":  29
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                        "p":  1,
                                        "km":  50.6,
                                        "tv":  130
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MARCHESANI",
+                                       "p":  0,
+                                       "km":  0.39,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Alan",
@@ -3762,6 +3776,13 @@
                                        "p":  1,
                                        "km":  1.68,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "M. S. PRODUTOS DE LIMPEZA LTDA",
+                                       "p":  0,
+                                       "km":  11.21,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Castro",
@@ -3818,6 +3839,13 @@
                                        "p":  1,
                                        "km":  1.09,
                                        "tv":  116
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO VICALI PARATY LTDA.",
+                                       "p":  1,
+                                       "km":  5.51,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Nelson",

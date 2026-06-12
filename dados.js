@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  27.87,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:29",
+                     "ultimo":  "11:10",
+                     "tv":  "02:04:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -28,21 +42,21 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "11:01",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  2,
-                     "km":  25.12,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:29",
-                     "ultimo":  "10:27",
-                     "tv":  "01:35:00",
-                     "emVisita":  1,
+                     "km":  56.22,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:30",
+                     "ultimo":  "11:20",
+                     "tv":  "02:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "10:51",
                      "tv":  "02:21:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  55.83,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:30",
-                     "ultimo":  "10:40",
-                     "tv":  "02:10:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  35.28,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:05",
+                     "ultimo":  "11:19",
+                     "tv":  "02:39:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -130,31 +144,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  24.07,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:05",
-                     "ultimo":  "10:15",
-                     "tv":  "02:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  1.36,
+                     "visitas":  2,
+                     "km":  6.87,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
-                     "ultimo":  "10:03",
-                     "tv":  "01:56:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:23",
+                     "tv":  "02:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -288,6 +288,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "ALMIR ROGERIO RODRIGUES PRANDO",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "10:41:11",
+                         "out":  "11:10:48",
+                         "km":  2.75,
+                         "dur":  "00:29:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                          "mun":  "ANALANDIA",
@@ -295,6 +304,15 @@ window.PAINEL = {
                          "out":  "10:40:59",
                          "km":  50.6,
                          "dur":  "02:10:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MARCHESANI",
+                         "mun":  "ANALANDIA",
+                         "in":  "10:47:51",
+                         "out":  "11:20:32",
+                         "km":  0.39,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Alan",
@@ -313,6 +331,15 @@ window.PAINEL = {
                          "out":  "10:15:19",
                          "km":  1.68,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "M. S. PRODUTOS DE LIMPEZA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:43:06",
+                         "out":  "11:19:12",
+                         "km":  11.21,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Castro",
@@ -387,6 +414,15 @@ window.PAINEL = {
                          "dur":  "01:56:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO VICALI PARATY LTDA.",
+                         "mun":  "GUARATINGUETA",
+                         "in":  "10:39:14",
+                         "out":  "11:23:39",
+                         "km":  5.51,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
                          "mun":  "ITAPETININGA",
@@ -424,6 +460,12 @@ window.PAINEL = {
                 ],
     "semped":  [
                    {
+                       "nome":  "Alan",
+                       "razao":  "M. S. PRODUTOS DE LIMPEZA LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "comprador ausente até o momento"
+                   },
+                   {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA (VL ARENS)",
                        "mun":  "JUNDIAI",
@@ -452,6 +494,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                        "mun":  "RIO DAS PEDRAS",
                        "obs":  "Levantamento e entrega de amostras para apresentação a diretoria"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "MARCHESANI",
+                       "mun":  "ANALANDIA",
+                       "obs":  "estocado"
                    }
                ],
     "hist":  [
@@ -562,8 +610,8 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     37,
-                     5
+                     43,
+                     7
                  ]
              ],
     "historico":  {
@@ -4115,7 +4163,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4127,6 +4175,15 @@ window.PAINEL = {
                                                        "tv":  88
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  27.87,
+                                                       "tv":  124
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -4136,13 +4193,13 @@ window.PAINEL = {
                                                        "tv":  165
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  25.12,
-                                                       "tv":  95
+                                                       "pe":  1,
+                                                       "km":  56.22,
+                                                       "tv":  162
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -4163,15 +4220,6 @@ window.PAINEL = {
                                                        "tv":  141
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  55.83,
-                                                       "tv":  130
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -4190,6 +4238,15 @@ window.PAINEL = {
                                                        "tv":  95
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  35.28,
+                                                       "tv":  159
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -4199,22 +4256,13 @@ window.PAINEL = {
                                                        "tv":  99
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  24.07,
-                                                       "tv":  123
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  1.36,
-                                                       "tv":  116
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  6.87,
+                                                       "tv":  160
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -4311,11 +4359,25 @@ window.PAINEL = {
                                                          "tv":  47
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "ALMIR ROGERIO RODRIGUES PRANDO",
+                                                         "p":  1,
+                                                         "km":  2.75,
+                                                         "tv":  29
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO TRADICIONAL LTDA-EPP.",
                                                          "p":  1,
                                                          "km":  50.6,
                                                          "tv":  130
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MARCHESANI",
+                                                         "p":  0,
+                                                         "km":  0.39,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -4330,6 +4392,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.68,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "M. S. PRODUTOS DE LIMPEZA LTDA",
+                                                         "p":  0,
+                                                         "km":  11.21,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Castro",
@@ -4386,6 +4455,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.09,
                                                          "tv":  116
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO VICALI PARATY LTDA.",
+                                                         "p":  1,
+                                                         "km":  5.51,
+                                                         "tv":  44
                                                      },
                                                      {
                                                          "n":  "Nelson",
