@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -140,6 +140,20 @@ window.PAINEL = {
                      "primeiro":  "08:05",
                      "ultimo":  "09:36",
                      "tv":  "01:31:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  32.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:37",
+                     "ultimo":  "09:48",
+                     "tv":  "01:10:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -194,20 +208,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:23",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.51,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:37",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -286,6 +286,15 @@ window.PAINEL = {
                          "out":  "08:59:16",
                          "km":  8.17,
                          "dur":  "00:57:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "08:37:31",
+                         "out":  "09:48:23",
+                         "km":  31.58,
+                         "dur":  "01:10:00"
                      }
                  ],
     "eventos":  [
@@ -442,7 +451,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     17,
+                     21,
                      3
                  ]
              ],
@@ -3995,7 +4004,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4088,6 +4097,15 @@ window.PAINEL = {
                                                        "tv":  91
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  32.09,
+                                                       "tv":  70
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -4121,15 +4139,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.61,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.51,
                                                        "tv":  0
                                                    }
                                                ],
@@ -4189,6 +4198,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  8.17,
                                                          "tv":  57
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "SARAIVA E CAMARGO MERCEARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  31.58,
+                                                         "tv":  70
                                                      }
                                                  ]
                                      }
