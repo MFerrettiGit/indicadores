@@ -90,6 +90,7 @@
   .chip{display:inline-block;padding:2px 9px;border-radius:20px;font-size:.74rem;font-weight:700}
   .c-ok{background:var(--greenbg);color:var(--green)} .c-warn{background:var(--orangebg);color:var(--orange)} .c-bad{background:var(--redbg);color:var(--red)}
   .c-info{background:var(--panel2);color:var(--brand2);border:1px solid var(--line)} .c-mut{background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
+  .c-live{background:var(--greenbg);color:var(--green);border:1px solid var(--green);font-size:.66rem;font-weight:700;margin-left:6px} .c-liveb{background:var(--panel2);color:var(--brand2);border:1px solid var(--brand2);font-size:.66rem;font-weight:700;margin-left:6px}
   .c-evt{background:var(--panel2);color:var(--brand2);border:1px solid var(--line)} .c-evt+.c-evt{margin-left:4px}
   .num{font-variant-numeric:tabular-nums;font-weight:600}
   .gfilter{display:flex;gap:10px;align-items:center;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 16px;margin-bottom:18px;box-shadow:var(--shadow);position:sticky;top:82px;z-index:40}
@@ -226,7 +227,7 @@
       <div class="card"><h3>Quilômetros rodados por vendedor</h3><div class="cap">Distância percorrida no dia</div><div id="chartKm"></div></div>
       <div class="card"><h3>Motivos das visitas sem pedido</h3><div class="cap">Por que a visita não gerou pedido</div><div id="chartDonut"></div></div>
     </div>
-    <div class="card" style="margin-top:18px"><h3>Evolução de maio</h3><div class="cap">Total diário de visitas e de clientes sem pedido em toda a operação</div><div id="chartLine"></div></div>
+    <div class="card" style="margin-top:18px"><h3>Evolução diária</h3><div class="cap">Total de visitas e de clientes sem pedido por dia, em toda a operação (número em cada ponto)</div><div id="chartLine"></div></div>
   </section>
 
   <!-- ===== EVENTOS ===== -->
@@ -253,6 +254,8 @@ const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos
 // parâmetros da régua de conferência "cliente próximo, demorado e recorrente"
 const SUS={longMin:60, kmPerto:5, freqMes:4, freqSem:2};  // >1h de visita, rodou ≤5 km, 4x/mês ou 2x/semana
 const ANALISE_EXCLUI={'Eduardo':true};
+// correções de regional pedidas pela gerência (a base TimeService traz errada p/ alguns)
+const REGIONAL_FIX={'Cominato':'NORDESTE'};
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
 const VEND=P.vend||[];
 const CHECKINS=P.checkins||[];
@@ -304,6 +307,7 @@ function fimCell(v){
 
 /* ====================== ENRIQUECER ====================== */
 VEND.forEach(v=>{
+  if(REGIONAL_FIX[v.nome]) v.regional=REGIONAL_FIX[v.nome];   // corrige regional antes de tudo
   v.coord=COORD[v.regional]||'';
   v.orders=v.visitas-v.semPed;
   v.checkins=CHECKINS.filter(c=>c.nome===v.nome);
@@ -600,7 +604,8 @@ function renderResumo(){
     const pC=v.orders>=META.pedidos?'c-ok':(v.orders>0?'c-warn':'c-bad');
     const perc=v.perc==null?'—':Math.round(v.perc)+'%';
     const pcC=v.perc==null?'':(v.perc>=80?'c-bad':(v.perc>=40?'c-warn':''));
-    return `<tr onclick="openVend('${v.nome}')"><td><b>${v.nome}</b></td><td class="small">${v.setor}</td><td class="small">${v.regional}</td>
+    const live=v.emVisita?'<span class="chip c-live">● em visita agora</span>':(v.emEvento?'<span class="chip c-liveb">● em evento agora</span>':'');
+    return `<tr onclick="openVend('${v.nome}')"><td><b>${v.nome}</b>${live}</td><td class="small">${v.setor}</td><td class="small">${v.regional}</td>
       <td><span class="chip ${vC}">${v.visitas}</span></td><td><span class="chip ${pC}">${v.orders}</span></td>
       <td class="num">${v.km.toFixed(1)}</td><td>${pcC?`<span class="chip ${pcC}">${perc}</span>`:perc}</td>
       <td class="num">${mmToStr(v.firstAct)}</td><td class="num">${fimCell(v)}</td><td class="num">${hStr(v.tvMin)}</td><td>${evtCell(v)}</td><td>${chip(v)}</td></tr>`;
@@ -641,7 +646,7 @@ function periodDates(kind){
   return [today];
 }
 function aggPeriod(kind){ const dates=periodDates(kind),map={};
-  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ if(gReg && r.regional!==gReg) return; const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:r.regional,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=r.pe;m.km+=r.km;m.tv+=r.tv; }); });
+  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ const reg=REGIONAL_FIX[r.nome]||r.regional; if(gReg && reg!==gReg) return; const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:reg,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=r.pe;m.km+=r.km;m.tv+=r.tv; }); });
   return {dates,rows:Object.values(map)};
 }
 function periodView(kind){
@@ -673,7 +678,7 @@ function periodLeitura(kind){
 }
 function renderDia(){ document.getElementById('pane-dia').innerHTML=statKpis()+'<div style="height:14px"></div>'+vendBars(); }
 function renderSem(){ document.getElementById('pane-sem').innerHTML=`<div class="note">Acúmulo da semana atual (segunda a domingo). Cresce a cada dia capturado.</div>`+periodLeitura('sem')+periodView('sem'); }
-function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">Acúmulo do mês atual. Cresce a cada dia capturado.</div>`+periodLeitura('mes')+periodView('mes')+`<div class="card" style="margin-top:14px"><h3>Evolução de maio</h3><div class="cap">Total diário de visitas e de clientes sem pedido</div>${lineChart()}</div>`; }
+function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">Acúmulo do mês atual. Cresce a cada dia capturado.</div>`+periodLeitura('mes')+periodView('mes')+`<div class="card" style="margin-top:14px"><h3>Evolução diária</h3><div class="cap">Total de visitas e de clientes sem pedido por dia (número em cada ponto)</div>${lineChart()}</div>`; }
 
 /* ====================== GRÁFICOS ====================== */
 function barChart(items,meta,fmt){
@@ -703,14 +708,17 @@ function donut(){
   return `<div class="donutwrap"><div class="donut" style="background:conic-gradient(${seg.join(',')})"></div><div class="legend">${leg}<div class="small" style="margin-top:6px">Total: ${total} visitas sem pedido</div></div></div>`;
 }
 function lineChart(){
-  const W=720,H=220,pad=34,maxV=Math.max(...HIST.map(d=>d[1]));
+  const W=720,H=230,pad=38,maxV=Math.max(1,...HIST.map(d=>d[1]));
   const xs=i=>pad+i*(W-2*pad)/(HIST.length-1), ys=v=>H-pad-(v/maxV)*(H-2*pad);
   const pl=idx=>HIST.map((d,i)=>`${xs(i).toFixed(0)},${ys(d[idx]).toFixed(0)}`).join(' ');
   const dots=(idx,col)=>HIST.map((d,i)=>`<circle cx="${xs(i).toFixed(0)}" cy="${ys(d[idx]).toFixed(0)}" r="2.5" fill="${col}"/>`).join('');
-  const lbls=HIST.map((d,i)=>(i%2===0||i===HIST.length-1)?`<text x="${xs(i)}" y="${H-10}" font-size="9" text-anchor="middle" fill="var(--muted)">${d[0]}</text>`:'').join('');
+  // números em CADA ponto (visitas em destaque acima; clientes sem pedido abaixo) — antes ficava vago
+  const num=(idx,col,dy,bold)=>HIST.map((d,i)=>`<text x="${xs(i).toFixed(0)}" y="${(ys(d[idx])+dy).toFixed(0)}" font-size="8.5" text-anchor="middle" fill="${col}"${bold?' font-weight="700"':''}>${d[idx]}</text>`).join('');
+  const lbls=HIST.map((d,i)=>(i%2===0||i===HIST.length-1)?`<text x="${xs(i)}" y="${H-9}" font-size="9" text-anchor="middle" fill="var(--muted)">${d[0]}</text>`:'').join('');
   return `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto">
     <polyline fill="none" stroke="var(--brand2)" stroke-width="2.5" points="${pl(1)}"/>${dots(1,'var(--brand2)')}
     <polyline fill="none" stroke="var(--red)" stroke-width="2" stroke-dasharray="4 3" points="${pl(2)}"/>${dots(2,'var(--red)')}
+    ${num(1,'var(--brand2)',-6,true)}${num(2,'var(--red)',12,false)}
     ${lbls}<text x="${pad}" y="16" font-size="11" fill="var(--brand2)">● Visitas/dia</text><text x="${pad+110}" y="16" font-size="11" fill="var(--red)">● Sem pedido/dia</text></svg>`;
 }
 
