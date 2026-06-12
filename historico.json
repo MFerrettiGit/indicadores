@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3622,6 +3622,15 @@
                                      "tv":  163
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  41.51,
+                                     "tv":  239
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -3629,15 +3638,6 @@
                                      "pe":  4,
                                      "km":  66.04,
                                      "tv":  214
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  35.68,
-                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Karina",
@@ -3860,6 +3860,13 @@
                                        "p":  0,
                                        "km":  0.4,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO SAO BERNARDO LTDA",
+                                       "p":  1,
+                                       "km":  5.83,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Castro",

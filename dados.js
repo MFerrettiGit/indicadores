@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "12/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,8 +28,8 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "13:08",
                      "tv":  "04:05:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -42,8 +42,8 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "11:52",
                      "tv":  "02:32:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -98,7 +98,7 @@ window.PAINEL = {
                      "primeiro":  "08:47",
                      "ultimo":  "12:10",
                      "tv":  "03:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  41.51,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:05",
+                     "ultimo":  "14:34",
+                     "tv":  "03:59:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -130,20 +144,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  35.68,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:05",
-                     "ultimo":  "11:50",
-                     "tv":  "03:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -154,8 +154,8 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "14:04",
                      "tv":  "05:27:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:37",
                      "ultimo":  "12:13",
                      "tv":  "01:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -441,6 +441,15 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO SAO BERNARDO LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:39:58",
+                         "out":  "14:34:52",
+                         "km":  5.83,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "INFANGER",
                          "mun":  "VINHEDO",
@@ -665,6 +674,14 @@ window.PAINEL = {
                         "tempo":  "01:00:41"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "14:04",
+                        "final":  "14:33",
+                        "tempo":  "00:29:11"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "serra negra",
@@ -679,6 +696,14 @@ window.PAINEL = {
                         "inicio":  "12:36",
                         "final":  "13:29",
                         "tempo":  "00:53:05"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "uniao",
+                        "inicio":  "13:29",
+                        "final":  "14:29",
+                        "tempo":  "00:59:46"
                     },
                     {
                         "nome":  "Luis",
@@ -785,12 +810,12 @@ window.PAINEL = {
                         "tempo":  "00:55:54"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "uniao",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:35"
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Analandia a Itirapina",
+                        "inicio":  "14:13",
+                        "final":  "14:36",
+                        "tempo":  "00:23:09"
                     },
                     {
                         "nome":  "Eugenio",
@@ -798,23 +823,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:05"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:20:33"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Analandia a Itirapina",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:11:44"
+                        "tempo":  "00:46:58"
                     }
                 ],
     "semped":  [
@@ -926,25 +935,49 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:11:52"
+                         "tempo":  "00:26:50"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO COLORADO LTDA",
+                         "mun":  "SERRA NEGRA",
+                         "tempo":  "00:07:04"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "L. F. DE ANDRADE E CIA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:07:45"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:16:13"
+                         "tempo":  "00:31:11"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "SUPERMERCADO SAO BERNARDO LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:44:14"
+                         "nome":  "Sao Carlos",
+                         "razao":  "BIANCHINI",
+                         "mun":  "ITIRAPINA",
+                         "tempo":  "00:01:10"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "JOSE C. S. DOS REIS",
+                         "mun":  "CUNHA",
+                         "tempo":  "00:03:33"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIAL MEDEIROS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:16"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:20:56"
+                         "tempo":  "00:35:54"
                      }
                  ],
     "hist":  [
@@ -1055,7 +1088,7 @@ window.PAINEL = {
                  ],
                  [
                      "12/06",
-                     73,
+                     75,
                      17
                  ]
              ],
@@ -4608,7 +4641,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-12":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4683,6 +4716,15 @@ window.PAINEL = {
                                                        "tv":  163
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  41.51,
+                                                       "tv":  239
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -4690,15 +4732,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  66.04,
                                                        "tv":  214
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  35.68,
-                                                       "tv":  185
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -4921,6 +4954,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.4,
                                                          "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO SAO BERNARDO LTDA",
+                                                         "p":  1,
+                                                         "km":  5.83,
+                                                         "tv":  54
                                                      },
                                                      {
                                                          "n":  "Castro",
