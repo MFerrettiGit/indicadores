@@ -3547,7 +3547,7 @@
                                ]
                    },
     "2026-06-12":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -3568,6 +3568,15 @@
                                      "tv":  152
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  57.75,
+                                     "tv":  192
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -3577,13 +3586,13 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  56.22,
-                                     "tv":  162
+                                     "pe":  2,
+                                     "km":  33.34,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Maira",
@@ -3595,15 +3604,6 @@
                                      "tv":  129
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  25.68,
-                                     "tv":  141
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -3611,6 +3611,24 @@
                                      "pe":  1,
                                      "km":  78.69,
                                      "tv":  158
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  66.04,
+                                     "tv":  214
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  26.52,
+                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Alan",
@@ -3622,24 +3640,6 @@
                                      "tv":  185
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  35.92,
-                                     "tv":  95
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  25.37,
-                                     "tv":  122
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -3647,6 +3647,15 @@
                                      "pe":  2,
                                      "km":  6.87,
                                      "tv":  160
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.63,
+                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Karina",
@@ -3674,15 +3683,6 @@
                                      "pe":  1,
                                      "km":  32.09,
                                      "tv":  70
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -3720,6 +3720,13 @@
                                        "p":  1,
                                        "km":  4.32,
                                        "tv":  141
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.66,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Luis",
@@ -3778,6 +3785,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "64.293.385 DANIEL DONIZETE DE MORAES",
+                                       "p":  0,
+                                       "km":  1.53,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "MARCOS NUNES DA SILVA",
                                        "p":  1,
@@ -3834,6 +3848,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "DAMA COM. DE MATERIAIS P/LIMPEZA LTDA-ME",
+                                       "p":  1,
+                                       "km":  30.12,
+                                       "tv":  119
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "BALAN SUPERMERCADO LTDA",
                                        "p":  0,
@@ -3853,6 +3874,20 @@
                                        "p":  0,
                                        "km":  1.09,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SERTOP OPERACAO E GESTAO DO VAREJO ALIME",
+                                       "p":  0,
+                                       "km":  1.15,
+                                       "tv":  24
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.63,
+                                       "tv":  236
                                    },
                                    {
                                        "n":  "Karina",
