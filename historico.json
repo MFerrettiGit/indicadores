@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4242,8 +4242,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  2,
-                                     "km":  13.47,
+                                     "km":  18.83,
                                      "tv":  317
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  121.17,
+                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -4255,21 +4264,12 @@
                                      "tv":  313
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  91.26,
-                                     "tv":  110
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  3,
-                                     "km":  49.03,
+                                     "km":  79.2,
                                      "tv":  279
                                  },
                                  {
@@ -4278,8 +4278,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  68.67,
+                                     "km":  78.71,
                                      "tv":  185
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  50.75,
+                                     "tv":  445
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4309,13 +4318,13 @@
                                      "tv":  377
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  4,
-                                     "km":  48.94,
-                                     "tv":  419
+                                     "pe":  3,
+                                     "km":  13.82,
+                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4325,15 +4334,6 @@
                                      "pe":  3,
                                      "km":  34.93,
                                      "tv":  422
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  8.39,
-                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Castro",
@@ -4359,6 +4359,13 @@
                                        "p":  0,
                                        "km":  5.86,
                                        "tv":  163
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  3.18,
+                                       "tv":  203
                                    },
                                    {
                                        "n":  "Costa",
@@ -4387,6 +4394,13 @@
                                        "p":  1,
                                        "km":  15.63,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SCOTTON",
+                                       "p":  1,
+                                       "km":  29.91,
+                                       "tv":  156
                                    },
                                    {
                                        "n":  "Fernando",
@@ -4737,6 +4751,13 @@
                                        "p":  1,
                                        "km":  2.09,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "RORLANDE CEREZER PACINATE",
+                                       "p":  1,
+                                       "km":  1.81,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Mariangela",

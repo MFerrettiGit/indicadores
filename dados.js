@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -50,12 +50,26 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  13.47,
+                     "km":  18.83,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:01",
                      "ultimo":  "15:55",
                      "tv":  "05:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  121.17,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:02",
+                     "ultimo":  "17:52",
+                     "tv":  "04:26:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -74,44 +88,44 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  91.26,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:02",
-                     "ultimo":  "14:09",
-                     "tv":  "01:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  49.03,
+                     "km":  79.2,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "08:33",
                      "ultimo":  "15:37",
                      "tv":  "04:39:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  68.67,
+                     "km":  78.71,
                      "semPed":  6,
                      "perc":  100,
                      "primeiro":  "08:09",
                      "ultimo":  "15:58",
                      "tv":  "03:05:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  50.75,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:36",
+                     "ultimo":  "17:42",
+                     "tv":  "07:25:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -158,17 +172,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "visitas":  4,
-                     "km":  48.94,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:36",
-                     "ultimo":  "17:06",
-                     "tv":  "06:59:00",
-                     "emVisita":  1,
+                     "km":  13.82,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:58",
+                     "ultimo":  "17:39",
+                     "tv":  "04:37:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -183,20 +197,6 @@ window.PAINEL = {
                      "ultimo":  "16:38",
                      "tv":  "07:02:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  8.39,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:58",
-                     "ultimo":  "16:42",
-                     "tv":  "04:01:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -234,6 +234,15 @@ window.PAINEL = {
                          "dur":  "02:43:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "14:31:31",
+                         "out":  "17:55:22",
+                         "km":  3.18,
+                         "dur":  "03:23:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "MARTINS",
                          "mun":  "RIO CLARO",
@@ -268,6 +277,15 @@ window.PAINEL = {
                          "out":  "14:09:28",
                          "km":  15.63,
                          "dur":  "01:03:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SCOTTON",
+                         "mun":  "IPEUNA",
+                         "in":  "15:16:02",
+                         "out":  "17:52:11",
+                         "km":  29.91,
+                         "dur":  "02:36:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -720,6 +738,15 @@ window.PAINEL = {
                          "dur":  "01:22:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "RORLANDE CEREZER PACINATE",
+                         "mun":  "CAPIVARI",
+                         "in":  "17:15:58",
+                         "out":  "17:42:39",
+                         "km":  1.81,
+                         "dur":  "00:26:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                          "mun":  "CACAPAVA",
@@ -817,6 +844,14 @@ window.PAINEL = {
                         "inicio":  "13:12",
                         "final":  "14:16",
                         "tempo":  "01:03:05"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedido Calegaris",
+                        "inicio":  "15:51",
+                        "final":  "17:48",
+                        "tempo":  "01:57:08"
                     },
                     {
                         "nome":  "Eugenio",
@@ -976,15 +1011,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:44:01"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "pedido Calegaris",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:49:13"
+                        "tempo":  "02:59:12"
                     },
                     {
                         "nome":  "Eugenio",
@@ -992,7 +1019,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:41:37"
+                        "tempo":  "01:56:48"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1000,7 +1027,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:35"
+                        "tempo":  "00:44:46"
                     },
                     {
                         "nome":  "Rachel",
@@ -1008,7 +1035,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:58"
+                        "tempo":  "00:39:09"
                     }
                 ],
     "semped":  [
@@ -1033,6 +1060,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA - LJ.02",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
@@ -1162,25 +1195,7 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "03:08:03"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "SCOTTON",
-                         "mun":  "IPEUNA",
-                         "tempo":  "02:23:32"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "EDSON LUCIO PASSOS",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:35:58"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "RORLANDE CEREZER PACINATE",
-                         "mun":  "CAPIVARI",
-                         "tempo":  "00:23:36"
+                         "tempo":  "03:23:05"
                      }
                  ],
     "hist":  [
@@ -1281,7 +1296,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     110,
+                     113,
                      26
                  ]
              ],
@@ -5494,7 +5509,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5529,8 +5544,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  13.47,
+                                                       "km":  18.83,
                                                        "tv":  317
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  121.17,
+                                                       "tv":  266
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -5542,21 +5566,12 @@ window.PAINEL = {
                                                        "tv":  313
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  91.26,
-                                                       "tv":  110
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  49.03,
+                                                       "km":  79.2,
                                                        "tv":  279
                                                    },
                                                    {
@@ -5565,8 +5580,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  68.67,
+                                                       "km":  78.71,
                                                        "tv":  185
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  50.75,
+                                                       "tv":  445
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5596,13 +5620,13 @@ window.PAINEL = {
                                                        "tv":  377
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  48.94,
-                                                       "tv":  419
+                                                       "pe":  3,
+                                                       "km":  13.82,
+                                                       "tv":  277
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5612,15 +5636,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  34.93,
                                                        "tv":  422
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  8.39,
-                                                       "tv":  241
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -5646,6 +5661,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  5.86,
                                                          "tv":  163
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  3.18,
+                                                         "tv":  203
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -5674,6 +5696,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  15.63,
                                                          "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SCOTTON",
+                                                         "p":  1,
+                                                         "km":  29.91,
+                                                         "tv":  156
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -6024,6 +6053,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.09,
                                                          "tv":  82
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "RORLANDE CEREZER PACINATE",
+                                                         "p":  1,
+                                                         "km":  1.81,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Mariangela",
