@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4226,6 +4226,15 @@
                                      "pe":  1,
                                      "km":  75.63,
                                      "tv":  47
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  42.58,
+                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4255,15 +4264,6 @@
                                      "tv":  117
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.75,
-                                     "tv":  45
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -4271,6 +4271,15 @@
                                      "pe":  1,
                                      "km":  21.39,
                                      "tv":  15
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  42.65,
+                                     "tv":  68
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4289,15 +4298,6 @@
                                      "pe":  2,
                                      "km":  28.55,
                                      "tv":  62
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.24,
-                                     "tv":  46
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4403,6 +4403,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                                       "p":  0,
+                                       "km":  2.83,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                        "p":  1,
@@ -4464,6 +4471,13 @@
                                        "p":  1,
                                        "km":  1.83,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                       "p":  1,
+                                       "km":  2.41,
+                                       "tv":  22
                                    }
                                ]
                    }

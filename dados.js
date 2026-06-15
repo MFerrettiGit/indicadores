@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,6 +28,20 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "10:08",
                      "tv":  "00:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  42.58,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:42",
+                     "ultimo":  "10:59",
+                     "tv":  "02:01:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  39.75,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:42",
-                     "ultimo":  "09:28",
-                     "tv":  "00:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  42.65,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:38",
+                     "ultimo":  "11:08",
+                     "tv":  "01:08:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -112,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "10:21",
                      "tv":  "01:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "09:16",
                      "ultimo":  "10:26",
                      "tv":  "01:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  40.24,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:38",
-                     "ultimo":  "10:34",
-                     "tv":  "00:46:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -288,6 +288,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                         "mun":  "ITAPIRA",
+                         "in":  "09:42:16",
+                         "out":  "10:59:06",
+                         "km":  2.83,
+                         "dur":  "01:16:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
@@ -367,6 +376,15 @@ window.PAINEL = {
                          "out":  "10:34:58",
                          "km":  1.83,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "in":  "10:45:59",
+                         "out":  "11:08:42",
+                         "km":  2.41,
+                         "dur":  "00:22:00"
                      }
                  ],
     "eventos":  [
@@ -425,6 +443,12 @@ window.PAINEL = {
                        "obs":  "cliente pediu pra voltar mas ainda nao esta precisando"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                       "mun":  "ITAPIRA",
+                       "obs":  "alinhamento ação sabonete estoque alto"
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "SM. SAO PAULO LTDA.",
                        "mun":  "FRANCA",
@@ -466,79 +490,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:19:30"
+                         "tempo":  "01:34:55"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SOUZA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:14:00"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
-                         "mun":  "ITAPIRA",
-                         "tempo":  "01:11:52"
+                         "tempo":  "00:29:25"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
                          "mun":  "FRANCA",
-                         "tempo":  "01:11:07"
+                         "tempo":  "01:26:32"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:01:04"
+                         "tempo":  "01:16:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:21:27"
+                         "tempo":  "00:36:52"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:18:11"
+                         "tempo":  "00:33:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:46:47"
+                         "tempo":  "01:02:12"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:55:43"
+                         "tempo":  "02:11:08"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "02:17:30"
+                         "tempo":  "02:32:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:34:51"
+                         "tempo":  "02:50:16"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:47:48"
+                         "tempo":  "02:03:13"
                      },
                      {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
-                         "mun":  "CACAPAVA",
-                         "tempo":  "00:08:09"
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:14:22"
                      }
                  ],
     "hist":  [
@@ -639,8 +657,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     34,
-                     8
+                     37,
+                     10
                  ]
              ],
     "historico":  {
@@ -4852,7 +4870,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4871,6 +4889,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  75.63,
                                                        "tv":  47
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  42.58,
+                                                       "tv":  121
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -4900,15 +4927,6 @@ window.PAINEL = {
                                                        "tv":  117
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  39.75,
-                                                       "tv":  45
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -4916,6 +4934,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  21.39,
                                                        "tv":  15
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  42.65,
+                                                       "tv":  68
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -4934,15 +4961,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  28.55,
                                                        "tv":  62
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  40.24,
-                                                       "tv":  46
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5048,6 +5066,13 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                                                         "p":  0,
+                                                         "km":  2.83,
+                                                         "tv":  76
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                                          "p":  1,
@@ -5109,6 +5134,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.83,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                                         "p":  1,
+                                                         "km":  2.41,
+                                                         "tv":  22
                                                      }
                                                  ]
                                      }
