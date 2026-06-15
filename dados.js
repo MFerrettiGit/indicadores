@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -15,6 +15,20 @@ window.PAINEL = {
                      "ultimo":  "12:18",
                      "tv":  "04:17:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  9.61,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:01",
+                     "ultimo":  "15:05",
+                     "tv":  "04:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "07:51",
                      "ultimo":  "11:52",
                      "tv":  "03:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  7.07,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:01",
-                     "ultimo":  "14:06",
-                     "tv":  "03:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -119,14 +119,14 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  4,
+                     "visitas":  5,
                      "km":  33.47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:16",
-                     "ultimo":  "14:09",
-                     "tv":  "03:25:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:05",
+                     "tv":  "04:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "12:20",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -182,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "14:52",
                      "tv":  "04:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "13:03",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -322,6 +322,15 @@ window.PAINEL = {
                          "out":  "14:06:29",
                          "km":  3.23,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "14:17:11",
+                         "out":  "15:05:23",
+                         "km":  2.54,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Maira",
@@ -531,6 +540,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "14:13:45",
+                         "out":  "15:05:16",
+                         "km":  0,
+                         "dur":  "00:51:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
@@ -646,6 +664,14 @@ window.PAINEL = {
                         "tempo":  "00:36:29"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "13:39",
+                        "final":  "14:57",
+                        "tempo":  "01:17:47"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "itapira",
@@ -758,12 +784,12 @@ window.PAINEL = {
                         "tempo":  "01:01:43"
                     },
                     {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
+                        "nome":  "Castro",
+                        "tipo":  "Manutencao",
+                        "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:16:14"
+                        "tempo":  "00:13:51"
                     }
                 ],
     "semped":  [
@@ -808,6 +834,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
                        "mun":  "FRANCA",
                        "obs":  "estoque alto"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "Estoque alto"
                    },
                    {
                        "nome":  "Nelson",
@@ -881,61 +913,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:23:07"
+                         "tempo":  "00:38:04"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:10:46"
+                         "tempo":  "00:25:43"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:00:14"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:37:27"
+                         "tempo":  "00:15:11"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:30:08"
+                         "tempo":  "00:45:05"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "RN SUPERMERCADO LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:16:50"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:40:53"
+                         "tempo":  "00:31:47"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:49:56"
+                         "tempo":  "01:04:53"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:52:22"
+                         "tempo":  "01:07:19"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "VIVIANE MACHADO SALAS RODRIGUES",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:04:19"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:18:32"
+                         "tempo":  "01:33:29"
                      }
                  ],
     "hist":  [
@@ -1036,8 +1062,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     78,
-                     20
+                     80,
+                     21
                  ]
              ],
     "historico":  {
@@ -5249,7 +5275,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5259,6 +5285,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  23.38,
                                                        "tv":  257
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  9.61,
+                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -5286,15 +5321,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  7.06,
                                                        "tv":  225
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  7.07,
-                                                       "tv":  232
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -5327,10 +5353,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
+                                                       "vi":  5,
+                                                       "pe":  5,
                                                        "km":  33.47,
-                                                       "tv":  205
+                                                       "tv":  256
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -5471,6 +5497,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.23,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  2.54,
+                                                         "tv":  48
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -5632,6 +5665,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.49,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  51
                                                      },
                                                      {
                                                          "n":  "Karina",
