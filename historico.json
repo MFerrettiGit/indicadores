@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4276,10 +4276,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  38.37,
-                                     "tv":  98
+                                     "km":  55.45,
+                                     "tv":  126
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4527,6 +4527,13 @@
                                        "p":  0,
                                        "km":  13.72,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "D. NASTARO SUPERMERCADOS EIRELI",
+                                       "p":  0,
+                                       "km":  17.08,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Eugenio",

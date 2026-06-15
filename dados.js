@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "12:02",
                      "tv":  "02:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  38.37,
-                     "semPed":  3,
+                     "visitas":  4,
+                     "km":  55.45,
+                     "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:09",
-                     "ultimo":  "11:12",
-                     "tv":  "01:38:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:48",
+                     "tv":  "02:06:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -155,7 +155,7 @@ window.PAINEL = {
                      "ultimo":  "12:40",
                      "tv":  "04:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -169,7 +169,7 @@ window.PAINEL = {
                      "ultimo":  "12:20",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:23",
                      "tv":  "04:03:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -450,6 +450,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:20:10",
+                         "out":  "13:48:36",
+                         "km":  17.08,
+                         "dur":  "00:28:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
@@ -567,6 +576,14 @@ window.PAINEL = {
                         "tempo":  "01:00:32"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:10",
+                        "final":  "13:46",
+                        "tempo":  "00:36:29"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "itapira",
@@ -589,6 +606,14 @@ window.PAINEL = {
                         "inicio":  "12:00",
                         "final":  "12:52",
                         "tempo":  "00:52:24"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:41",
+                        "final":  "13:41",
+                        "tempo":  "01:00:08"
                     },
                     {
                         "nome":  "Cominato",
@@ -615,6 +640,14 @@ window.PAINEL = {
                         "tempo":  "00:45:34"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:54",
+                        "final":  "13:55",
+                        "tempo":  "01:00:21"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -639,36 +672,12 @@ window.PAINEL = {
                         "tempo":  "00:58:50"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:41"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:03"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:30"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:30:04"
+                        "inicio":  "12:53",
+                        "final":  "13:55",
+                        "tempo":  "01:01:43"
                     },
                     {
                         "nome":  "Maira",
@@ -676,7 +685,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:34"
+                        "tempo":  "00:42:38"
                     },
                     {
                         "nome":  "Lucas",
@@ -684,7 +693,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:08"
+                        "tempo":  "00:38:12"
                     },
                     {
                         "nome":  "Karina",
@@ -692,7 +701,15 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:03"
+                        "tempo":  "00:16:07"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:17"
                     }
                 ],
     "semped":  [
@@ -763,6 +780,12 @@ window.PAINEL = {
                        "obs":  "Tentativa de ser atendido pelo comprador"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Tentativa de ser atendido pelo comprador"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "MARTINS",
                        "mun":  "RIO CLARO",
@@ -783,34 +806,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Rachel",
+                         "razao":  "MERCADINHO VILA IZAURA LTDA",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:10:10"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:18:55"
+                         "tempo":  "00:33:58"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "CASAGRANDE",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:33:25"
+                         "tempo":  "00:48:28"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO MW METEORO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:11:01"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:19:25"
+                         "tempo":  "00:26:04"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:03:29"
+                         "tempo":  "00:18:32"
                      }
                  ],
     "hist":  [
@@ -911,8 +934,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     65,
-                     16
+                     67,
+                     17
                  ]
              ],
     "historico":  {
@@ -5124,7 +5147,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5193,10 +5216,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  38.37,
-                                                       "tv":  98
+                                                       "km":  55.45,
+                                                       "tv":  126
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5444,6 +5467,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  13.72,
                                                          "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "D. NASTARO SUPERMERCADOS EIRELI",
+                                                         "p":  0,
+                                                         "km":  17.08,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Eugenio",
