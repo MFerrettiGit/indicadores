@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  14.2,
-                     "semPed":  1,
-                     "perc":  20,
+                     "visitas":  6,
+                     "km":  15.2,
+                     "semPed":  2,
+                     "perc":  33.33,
                      "primeiro":  "07:51",
-                     "ultimo":  "16:32",
-                     "tv":  "05:35:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:58",
+                     "tv":  "05:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "15:55",
                      "tv":  "05:17:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "09:18",
                      "ultimo":  "16:50",
                      "tv":  "05:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  73.88,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:38",
+                     "ultimo":  "17:02",
+                     "tv":  "03:59:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -144,17 +158,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "visitas":  4,
-                     "km":  70.73,
+                     "km":  48.94,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "09:38",
-                     "ultimo":  "15:23",
-                     "tv":  "02:55:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:36",
+                     "ultimo":  "17:06",
+                     "tv":  "06:59:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  46.85,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:36",
-                     "ultimo":  "15:35",
-                     "tv":  "05:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "16:42",
                      "tv":  "04:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -486,6 +486,15 @@ window.PAINEL = {
                          "dur":  "01:05:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GIANINI",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:41:46",
+                         "out":  "16:58:10",
+                         "km":  1,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
@@ -684,6 +693,15 @@ window.PAINEL = {
                          "dur":  "01:33:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO ARMELIN LTDA.",
+                         "mun":  "CAPIVARI",
+                         "in":  "15:43:38",
+                         "out":  "17:06:48",
+                         "km":  2.09,
+                         "dur":  "01:22:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                          "mun":  "CACAPAVA",
@@ -718,6 +736,15 @@ window.PAINEL = {
                          "out":  "15:23:56",
                          "km":  28.08,
                          "dur":  "01:47:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "15:57:08",
+                         "out":  "17:02:15",
+                         "km":  3.15,
+                         "dur":  "01:04:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -830,6 +857,14 @@ window.PAINEL = {
                         "tempo":  "00:52:24"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Exames de rotina",
+                        "inicio":  "16:16",
+                        "final":  "17:04",
+                        "tempo":  "00:48:39"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -923,7 +958,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:59:14"
+                        "tempo":  "02:14:05"
                     },
                     {
                         "nome":  "Maira",
@@ -931,7 +966,7 @@ window.PAINEL = {
                         "obs":  "pedido Calegaris",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:26"
+                        "tempo":  "01:19:17"
                     },
                     {
                         "nome":  "Eugenio",
@@ -939,15 +974,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:56:50"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "Exames de rotina",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:49"
+                        "tempo":  "01:11:41"
                     }
                 ],
     "semped":  [
@@ -1088,6 +1115,12 @@ window.PAINEL = {
                        "razao":  "BUENO SERVICE LTDA",
                        "mun":  "SAO CARLOS",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "GIANINI",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
@@ -1095,31 +1128,25 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:23:11"
+                         "tempo":  "02:38:04"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:01:06"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "01:38:40"
+                         "tempo":  "01:53:33"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "GIANINI",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:12:56"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO ARMELIN LTDA.",
-                         "mun":  "CAPIVARI",
-                         "tempo":  "01:11:04"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:57:34"
+                         "nome":  "Karina",
+                         "razao":  "EDSON LUCIO PASSOS",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:05:59"
                      }
                  ],
     "hist":  [
@@ -1220,8 +1247,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     105,
-                     25
+                     108,
+                     26
                  ]
              ],
     "historico":  {
@@ -5433,7 +5460,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5448,10 +5475,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  4,
-                                                       "km":  14.2,
-                                                       "tv":  335
+                                                       "km":  15.2,
+                                                       "tv":  351
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -5517,6 +5544,15 @@ window.PAINEL = {
                                                        "tv":  256
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  73.88,
+                                                       "tv":  239
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -5526,13 +5562,13 @@ window.PAINEL = {
                                                        "tv":  377
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  70.73,
-                                                       "tv":  175
+                                                       "km":  48.94,
+                                                       "tv":  419
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5542,15 +5578,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  34.93,
                                                        "tv":  422
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  46.85,
-                                                       "tv":  337
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -5783,6 +5810,13 @@ window.PAINEL = {
                                                          "tv":  65
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "GIANINI",
+                                                         "p":  0,
+                                                         "km":  1,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                                          "p":  1,
@@ -5937,6 +5971,13 @@ window.PAINEL = {
                                                          "tv":  93
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO ARMELIN LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.09,
+                                                         "tv":  82
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                                                          "p":  1,
@@ -5963,6 +6004,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  28.08,
                                                          "tv":  107
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                                                         "p":  1,
+                                                         "km":  3.15,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Nelson",
