@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "11:52",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "11:32",
                      "tv":  "03:07:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  17.71,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "12:40",
+                     "tv":  "04:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -158,20 +172,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  16.75,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "09:57",
-                     "tv":  "01:56:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -183,7 +183,7 @@ window.PAINEL = {
                      "ultimo":  "12:23",
                      "tv":  "04:03:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -387,6 +387,15 @@ window.PAINEL = {
                          "dur":  "01:56:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO FELTRIN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:07:21",
+                         "out":  "12:40:39",
+                         "km":  0.96,
+                         "dur":  "02:33:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO PARAZZI LTDA",
                          "mun":  "JUNDIAI",
@@ -531,6 +540,14 @@ window.PAINEL = {
                         "tempo":  "00:45:22"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:00",
+                        "final":  "12:52",
+                        "tempo":  "00:52:24"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Manutencao",
                         "obs":  "problema elétrico no veículo não está dando partida",
@@ -555,20 +572,12 @@ window.PAINEL = {
                         "tempo":  "00:48:35"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:56"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:23"
+                        "tempo":  "00:52:28"
                     },
                     {
                         "nome":  "Costa",
@@ -576,7 +585,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:56"
+                        "tempo":  "00:50:01"
                     },
                     {
                         "nome":  "Eugenio",
@@ -584,7 +593,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:18"
+                        "tempo":  "00:34:23"
                     },
                     {
                         "nome":  "Rachel",
@@ -592,7 +601,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:04"
+                        "tempo":  "00:29:09"
                     },
                     {
                         "nome":  "Mariangela",
@@ -600,7 +609,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:55"
+                        "tempo":  "00:20:00"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:35"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:57"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:24"
                     }
                 ],
     "semped":  [
@@ -694,25 +727,19 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.T. CAETANO-ME.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:42:21"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "SUPERMERCADO FELTRIN LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:32:12"
+                         "tempo":  "00:57:24"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:11:03"
+                         "tempo":  "00:26:06"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:53:34"
+                         "tempo":  "01:08:37"
                      }
                  ],
     "hist":  [
@@ -813,7 +840,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     58,
+                     61,
                      16
                  ]
              ],
@@ -5026,7 +5053,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5119,6 +5146,15 @@ window.PAINEL = {
                                                        "tv":  68
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  17.71,
+                                                       "tv":  269
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -5126,15 +5162,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  40.99,
                                                        "tv":  226
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  16.75,
-                                                       "tv":  116
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -5297,6 +5324,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  16.75,
                                                          "tv":  116
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO FELTRIN LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.96,
+                                                         "tv":  153
                                                      },
                                                      {
                                                          "n":  "Castro",

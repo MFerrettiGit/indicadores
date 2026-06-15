@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4300,6 +4300,15 @@
                                      "tv":  68
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  17.71,
+                                     "tv":  269
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -4307,15 +4316,6 @@
                                      "pe":  1,
                                      "km":  40.99,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.75,
-                                     "tv":  116
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4478,6 +4478,13 @@
                                        "p":  1,
                                        "km":  16.75,
                                        "tv":  116
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO FELTRIN LTDA.",
+                                       "p":  1,
+                                       "km":  0.96,
+                                       "tv":  153
                                    },
                                    {
                                        "n":  "Castro",
