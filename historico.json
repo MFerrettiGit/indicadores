@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4222,10 +4222,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  74.91,
-                                     "tv":  32
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  75.63,
+                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4273,6 +4273,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  16.75,
+                                     "tv":  116
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -4300,13 +4309,13 @@
                                      "tv":  27
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  38.41,
+                                     "tv":  27
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4334,15 +4343,6 @@
                                      "pe":  0,
                                      "km":  0.18,
                                      "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.18,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -4368,6 +4368,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "MERCEARIA AFONSO E PEREIRA LTDA",
+                                       "p":  1,
+                                       "km":  0.72,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                        "p":  1,
@@ -4389,6 +4396,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
+                                       "p":  1,
+                                       "km":  16.75,
+                                       "tv":  116
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO PARAZZI LTDA",
                                        "p":  0,
@@ -4407,6 +4421,13 @@
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1,
                                        "km":  19.03,
+                                       "tv":  27
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
+                                       "p":  1,
+                                       "km":  32.23,
                                        "tv":  27
                                    }
                                ]
