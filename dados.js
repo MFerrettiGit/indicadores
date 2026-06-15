@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  14.2,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "07:51",
+                     "ultimo":  "16:32",
+                     "tv":  "05:35:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -30,20 +44,6 @@ window.PAINEL = {
                      "tv":  "05:17:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  14.09,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "07:51",
-                     "ultimo":  "15:22",
-                     "tv":  "04:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  34.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "16:38",
+                     "tv":  "07:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -172,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  17.71,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "12:40",
-                     "tv":  "04:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "13:03",
                      "tv":  "03:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -459,6 +459,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JBI E   PRESENTES LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:26:22",
+                         "out":  "16:32:10",
+                         "km":  0.11,
+                         "dur":  "01:05:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
@@ -474,6 +483,15 @@ window.PAINEL = {
                          "in":  "10:07:21",
                          "out":  "12:40:39",
                          "km":  0.96,
+                         "dur":  "02:33:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO GALASSI LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:04:42",
+                         "out":  "16:38:08",
+                         "km":  17.22,
                          "dur":  "02:33:00"
                      },
                      {
@@ -869,7 +887,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:12"
+                        "tempo":  "01:44:07"
                     },
                     {
                         "nome":  "Maira",
@@ -877,7 +895,7 @@ window.PAINEL = {
                         "obs":  "pedido Calegaris",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:24"
+                        "tempo":  "00:49:19"
                     },
                     {
                         "nome":  "Eugenio",
@@ -885,7 +903,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:48"
+                        "tempo":  "00:41:43"
                     },
                     {
                         "nome":  "Luis",
@@ -893,7 +911,7 @@ window.PAINEL = {
                         "obs":  "Exames de rotina",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:47"
+                        "tempo":  "00:24:42"
                     }
                 ],
     "semped":  [
@@ -1035,55 +1053,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:53:13"
+                         "tempo":  "02:08:08"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:30:20"
+                         "tempo":  "01:45:15"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:50:07"
+                         "tempo":  "01:05:02"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "01:08:42"
+                         "tempo":  "01:23:37"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "JBI E   PRESENTES LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:58:22"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "SUPERMERCADO GALASSI LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:20:02"
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:13:20"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:41:06"
+                         "tempo":  "00:56:01"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS VMS EIRELI",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:38:43"
+                         "tempo":  "00:53:38"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:27:36"
+                         "tempo":  "00:42:31"
                      }
                  ],
     "hist":  [
@@ -1184,7 +1196,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     93,
+                     95,
                      24
                  ]
              ],
@@ -5397,7 +5409,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5409,6 +5421,15 @@ window.PAINEL = {
                                                        "tv":  257
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  14.2,
+                                                       "tv":  335
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -5416,15 +5437,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  13.47,
                                                        "tv":  317
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  14.09,
-                                                       "tv":  270
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -5490,6 +5502,15 @@ window.PAINEL = {
                                                        "tv":  175
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  34.93,
+                                                       "tv":  422
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -5506,15 +5527,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  46.85,
                                                        "tv":  337
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  17.71,
-                                                       "tv":  269
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -5726,6 +5738,13 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "JBI E   PRESENTES LTDA",
+                                                         "p":  1,
+                                                         "km":  0.11,
+                                                         "tv":  65
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                                          "p":  1,
@@ -5737,6 +5756,13 @@ window.PAINEL = {
                                                          "r":  "SUPERMERCADO FELTRIN LTDA.",
                                                          "p":  1,
                                                          "km":  0.96,
+                                                         "tv":  153
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO GALASSI LTDA.",
+                                                         "p":  1,
+                                                         "km":  17.22,
                                                          "tv":  153
                                                      },
                                                      {

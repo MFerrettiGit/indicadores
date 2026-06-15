@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4219,6 +4219,15 @@
                                      "tv":  257
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  14.2,
+                                     "tv":  335
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -4226,15 +4235,6 @@
                                      "pe":  2,
                                      "km":  13.47,
                                      "tv":  317
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  14.09,
-                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Costa",
@@ -4300,6 +4300,15 @@
                                      "tv":  175
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  34.93,
+                                     "tv":  422
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -4316,15 +4325,6 @@
                                      "pe":  3,
                                      "km":  46.85,
                                      "tv":  337
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  17.71,
-                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Castro",
@@ -4536,6 +4536,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JBI E   PRESENTES LTDA",
+                                       "p":  1,
+                                       "km":  0.11,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                        "p":  1,
@@ -4547,6 +4554,13 @@
                                        "r":  "SUPERMERCADO FELTRIN LTDA.",
                                        "p":  1,
                                        "km":  0.96,
+                                       "tv":  153
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO GALASSI LTDA.",
+                                       "p":  1,
+                                       "km":  17.22,
                                        "tv":  153
                                    },
                                    {
