@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,8 +42,22 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "10:08",
                      "tv":  "00:47:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  47.85,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "12:57",
+                     "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -71,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "12:32",
                      "tv":  "02:48:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -85,20 +99,6 @@ window.PAINEL = {
                      "ultimo":  "11:32",
                      "tv":  "03:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  42.66,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "11:30",
-                     "tv":  "02:47:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -172,6 +172,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  6.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:58",
+                     "ultimo":  "13:03",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -196,20 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "11:12",
                      "tv":  "02:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  4.87,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:58",
-                     "ultimo":  "12:09",
-                     "tv":  "03:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -322,6 +322,15 @@ window.PAINEL = {
                          "out":  "11:30:31",
                          "km":  0.23,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "A.T. CAETANO-ME.",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:57:12",
+                         "out":  "12:57:10",
+                         "km":  5.19,
+                         "dur":  "00:59:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -477,6 +486,15 @@ window.PAINEL = {
                          "dur":  "03:11:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "12:28:30",
+                         "out":  "13:03:24",
+                         "km":  1.22,
+                         "dur":  "00:34:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
@@ -564,6 +582,14 @@ window.PAINEL = {
                         "tempo":  "00:45:34"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:05",
+                        "final":  "13:05",
+                        "tempo":  "01:00:02"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Em Viagem",
                         "obs":  "cacapava",
@@ -577,15 +603,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:28"
-                    },
-                    {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:01"
+                        "tempo":  "01:07:36"
                     },
                     {
                         "nome":  "Eugenio",
@@ -593,7 +611,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:23"
+                        "tempo":  "00:49:31"
                     },
                     {
                         "nome":  "Rachel",
@@ -601,7 +619,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:09"
+                        "tempo":  "00:44:17"
                     },
                     {
                         "nome":  "Mariangela",
@@ -609,7 +627,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:00"
+                        "tempo":  "00:35:08"
                     },
                     {
                         "nome":  "Nelson",
@@ -617,7 +635,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:35"
+                        "tempo":  "00:28:43"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -625,7 +643,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:57"
+                        "tempo":  "00:17:05"
                     },
                     {
                         "nome":  "Fernando",
@@ -633,7 +651,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:24"
+                        "tempo":  "00:15:32"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:06"
                     }
                 ],
     "semped":  [
@@ -724,22 +750,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "A.T. CAETANO-ME.",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:57:24"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:26:06"
+                         "nome":  "Costa",
+                         "razao":  "CASAGRANDE",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:03:27"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "01:08:37"
+                         "tempo":  "01:23:38"
                      }
                  ],
     "hist":  [
@@ -840,7 +860,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     61,
+                     63,
                      16
                  ]
              ],
@@ -5053,7 +5073,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5083,6 +5103,15 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  47.85,
+                                                       "tv":  226
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -5108,15 +5137,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  3.84,
                                                        "tv":  187
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  42.66,
-                                                       "tv":  167
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5164,6 +5184,15 @@ window.PAINEL = {
                                                        "tv":  226
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  6.09,
+                                                       "tv":  225
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -5180,15 +5209,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  15.43,
                                                        "tv":  156
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  4.87,
-                                                       "tv":  191
                                                    }
                                                ],
                                          "cli":  [
@@ -5275,6 +5295,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.23,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "A.T. CAETANO-ME.",
+                                                         "p":  1,
+                                                         "km":  5.19,
+                                                         "tv":  59
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -5394,6 +5421,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.69,
                                                          "tv":  191
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.22,
+                                                         "tv":  34
                                                      },
                                                      {
                                                          "n":  "Lucas",

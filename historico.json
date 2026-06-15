@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4237,6 +4237,15 @@
                                      "tv":  47
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  47.85,
+                                     "tv":  226
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4262,15 +4271,6 @@
                                      "pe":  1,
                                      "km":  3.84,
                                      "tv":  187
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  42.66,
-                                     "tv":  167
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4318,6 +4318,15 @@
                                      "tv":  226
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  6.09,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -4334,15 +4343,6 @@
                                      "pe":  1,
                                      "km":  15.43,
                                      "tv":  156
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.87,
-                                     "tv":  191
                                  }
                              ],
                        "cli":  [
@@ -4429,6 +4429,13 @@
                                        "p":  1,
                                        "km":  0.23,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.T. CAETANO-ME.",
+                                       "p":  1,
+                                       "km":  5.19,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Rachel",
@@ -4548,6 +4555,13 @@
                                        "p":  1,
                                        "km":  4.69,
                                        "tv":  191
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                       "p":  1,
+                                       "km":  1.22,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Lucas",
