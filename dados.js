@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  7.06,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "07:51",
+                     "ultimo":  "11:52",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -29,20 +43,6 @@ window.PAINEL = {
                      "ultimo":  "10:08",
                      "tv":  "00:47:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  6.93,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "07:51",
-                     "ultimo":  "11:15",
-                     "tv":  "03:10:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "11:12",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -340,6 +340,15 @@ window.PAINEL = {
                          "out":  "11:15:48",
                          "km":  4.08,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO IEMBO LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "11:17:42",
+                         "out":  "11:52:54",
+                         "km":  0.13,
+                         "dur":  "00:35:00"
                      },
                      {
                          "nome":  "Alan",
@@ -556,55 +565,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:04:58"
+                         "tempo":  "02:19:55"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:07:59"
+                         "tempo":  "00:22:56"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:08:51"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO IEMBO LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:21:54"
+                         "tempo":  "00:23:48"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "01:03:39"
+                         "tempo":  "01:18:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:32:15"
+                         "tempo":  "01:47:12"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:41:11"
+                         "tempo":  "02:56:08"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:08:34"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:20:19"
+                         "tempo":  "03:35:16"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:33:16"
+                         "tempo":  "02:48:13"
                      }
                  ],
     "hist":  [
@@ -705,7 +714,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     44,
+                     46,
                      12
                  ]
              ],
@@ -4918,7 +4927,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4930,6 +4939,15 @@ window.PAINEL = {
                                                        "tv":  94
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  7.06,
+                                                       "tv":  225
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -4937,15 +4955,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  75.63,
                                                        "tv":  47
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  6.93,
-                                                       "tv":  190
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -5154,6 +5163,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.08,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO IEMBO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.13,
+                                                         "tv":  35
                                                      },
                                                      {
                                                          "n":  "Alan",

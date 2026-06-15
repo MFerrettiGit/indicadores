@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4219,6 +4219,15 @@
                                      "tv":  94
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  7.06,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4226,15 +4235,6 @@
                                      "pe":  1,
                                      "km":  75.63,
                                      "tv":  47
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  6.93,
-                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4443,6 +4443,13 @@
                                        "p":  0,
                                        "km":  4.08,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO IEMBO LTDA",
+                                       "p":  1,
+                                       "km":  0.13,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Alan",
