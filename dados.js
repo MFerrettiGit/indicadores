@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "09:20",
                      "tv":  "00:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "09:23",
                      "tv":  "01:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "09:28",
                      "tv":  "00:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "09:18",
                      "ultimo":  "09:35",
                      "tv":  "00:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,7 +126,21 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "08:57",
                      "tv":  "00:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  27.01,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:16",
+                     "ultimo":  "09:43",
+                     "tv":  "00:27:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,20 +194,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:58",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  7.98,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:16",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -286,6 +286,15 @@ window.PAINEL = {
                          "out":  "08:57:43",
                          "km":  11.89,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "09:16:19",
+                         "out":  "09:43:28",
+                         "km":  19.03,
+                         "dur":  "00:27:00"
                      }
                  ],
     "eventos":  [
@@ -379,61 +388,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:04:58"
+                         "tempo":  "00:20:05"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "EDSON MARCON EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "01:06:14"
+                         "tempo":  "01:21:21"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:12:27"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:11:42"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:01:39"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "MERCEARIA AFONSO E PEREIRA LTDA",
+                         "mun":  "CORUMBATAI",
+                         "tempo":  "00:01:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:48:17"
+                         "tempo":  "02:03:24"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                         "razao":  "LUCIANO FERREIRA DA SILVA MINIMERCADO",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:23:17"
+                         "tempo":  "00:03:47"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:38:31"
+                         "tempo":  "01:53:38"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:41:11"
+                         "tempo":  "00:56:18"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "01:02:58"
+                         "tempo":  "01:18:05"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:20:19"
+                         "tempo":  "01:35:26"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:33:16"
+                         "tempo":  "00:48:23"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:07:26"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                          "mun":  "CACAPAVA",
-                         "tempo":  "00:00:45"
+                         "tempo":  "00:15:52"
                      }
                  ],
     "hist":  [
@@ -534,7 +573,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     16,
+                     18,
                      7
                  ]
              ],
@@ -4747,7 +4786,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4831,6 +4870,15 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  27.01,
+                                                       "tv":  27
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -4864,15 +4912,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.18,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  7.98,
                                                        "tv":  0
                                                    },
                                                    {
@@ -4941,6 +4980,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  11.89,
                                                          "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                                                         "p":  1,
+                                                         "km":  19.03,
+                                                         "tv":  27
                                                      }
                                                  ]
                                      }

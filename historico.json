@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4291,6 +4291,15 @@
                                      "tv":  47
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  27.01,
+                                     "tv":  27
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -4324,15 +4333,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.18,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  7.98,
                                      "tv":  0
                                  },
                                  {
@@ -4401,6 +4401,13 @@
                                        "p":  0,
                                        "km":  11.89,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                                       "p":  1,
+                                       "km":  19.03,
+                                       "tv":  27
                                    }
                                ]
                    }
