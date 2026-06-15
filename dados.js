@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "12:57",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "12:02",
                      "tv":  "02:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -98,7 +98,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "11:32",
                      "tv":  "03:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,8 +112,8 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "11:12",
                      "tv":  "01:38:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "12:19",
                      "tv":  "02:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -155,7 +155,7 @@ window.PAINEL = {
                      "ultimo":  "12:40",
                      "tv":  "04:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -170,6 +170,20 @@ window.PAINEL = {
                      "tv":  "03:46:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  45.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:36",
+                     "ultimo":  "13:16",
+                     "tv":  "04:04:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "04:03:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  15.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:36",
-                     "ultimo":  "11:12",
-                     "tv":  "02:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -504,6 +504,15 @@ window.PAINEL = {
                          "dur":  "02:36:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                         "mun":  "CAPIVARI",
+                         "in":  "11:45:59",
+                         "out":  "13:16:21",
+                         "km":  30.5,
+                         "dur":  "01:28:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                          "mun":  "CACAPAVA",
@@ -550,12 +559,28 @@ window.PAINEL = {
                         "tempo":  "00:35:06"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:21",
+                        "final":  "13:21",
+                        "tempo":  "01:00:32"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "itapira",
                         "inicio":  "07:56",
                         "final":  "08:41",
                         "tempo":  "00:45:22"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:26",
+                        "final":  "13:17",
+                        "tempo":  "00:51:09"
                     },
                     {
                         "nome":  "Luis",
@@ -572,6 +597,14 @@ window.PAINEL = {
                         "inicio":  "09:21",
                         "final":  "09:37",
                         "tempo":  "00:15:46"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:02",
+                        "final":  "13:11",
+                        "tempo":  "01:08:32"
                     },
                     {
                         "nome":  "Fernando",
@@ -598,36 +631,12 @@ window.PAINEL = {
                         "tempo":  "00:48:35"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:07:36"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:49:31"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:17"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:08"
+                        "tempo":  "00:50:03"
                     },
                     {
                         "nome":  "Nelson",
@@ -635,7 +644,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:43"
+                        "tempo":  "00:43:38"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -643,7 +652,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:05"
+                        "tempo":  "00:32:00"
                     },
                     {
                         "nome":  "Fernando",
@@ -651,7 +660,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:32"
+                        "tempo":  "00:30:27"
                     },
                     {
                         "nome":  "Alan",
@@ -659,7 +668,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:06"
+                        "tempo":  "00:15:01"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:31"
+                    },
+                    {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:05"
                     }
                 ],
     "semped":  [
@@ -750,16 +775,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:03:58"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "CASAGRANDE",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:03:27"
+                         "tempo":  "00:18:28"
                      },
                      {
-                         "nome":  "Lucas",
-                         "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
-                         "mun":  "CAPIVARI",
-                         "tempo":  "01:23:38"
+                         "nome":  "Cominato",
+                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:04:28"
                      }
                  ],
     "hist":  [
@@ -860,7 +891,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     63,
+                     64,
                      16
                  ]
              ],
@@ -5073,7 +5104,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5184,6 +5215,15 @@ window.PAINEL = {
                                                        "tv":  226
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  45.93,
+                                                       "tv":  244
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -5200,15 +5240,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  2.96,
                                                        "tv":  243
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  15.43,
-                                                       "tv":  156
                                                    }
                                                ],
                                          "cli":  [
@@ -5435,6 +5466,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  15.43,
                                                          "tv":  156
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                                                         "p":  1,
+                                                         "km":  30.5,
+                                                         "tv":  88
                                                      },
                                                      {
                                                          "n":  "Mariangela",

@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4318,6 +4318,15 @@
                                      "tv":  226
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  45.93,
+                                     "tv":  244
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -4334,15 +4343,6 @@
                                      "pe":  0,
                                      "km":  2.96,
                                      "tv":  243
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  15.43,
-                                     "tv":  156
                                  }
                              ],
                        "cli":  [
@@ -4569,6 +4569,13 @@
                                        "p":  1,
                                        "km":  15.43,
                                        "tv":  156
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                                       "p":  1,
+                                       "km":  30.5,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Mariangela",
