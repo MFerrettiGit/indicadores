@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,7 +14,7 @@ window.PAINEL = {
                      "primeiro":  "07:54",
                      "ultimo":  "12:18",
                      "tv":  "04:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  45.48,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:42",
+                     "ultimo":  "14:34",
+                     "tv":  "03:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -42,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "07:51",
                      "ultimo":  "11:52",
                      "tv":  "03:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -71,20 +85,6 @@ window.PAINEL = {
                      "ultimo":  "12:57",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  44.89,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:42",
-                     "ultimo":  "12:02",
-                     "tv":  "02:31:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -376,6 +376,15 @@ window.PAINEL = {
                          "out":  "12:02:00",
                          "km":  2.31,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MERCADINHO VILA IZAURA LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "13:44:28",
+                         "out":  "14:34:47",
+                         "km":  0.59,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -728,7 +737,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:44"
+                        "tempo":  "01:01:11"
                     },
                     {
                         "nome":  "Castro",
@@ -736,7 +745,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:54"
+                        "tempo":  "00:55:21"
                     }
                 ],
     "semped":  [
@@ -839,58 +848,64 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Rachel",
-                         "razao":  "MERCADINHO VILA IZAURA LTDA",
-                         "mun":  "ITAPIRA",
-                         "tempo":  "00:40:44"
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:08:06"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:08:01"
+                         "tempo":  "00:22:26"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:00:42"
+                         "tempo":  "00:15:07"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "RN SUPERMERCADO LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:01:49"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:11:27"
+                         "tempo":  "00:25:52"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:20:30"
+                         "tempo":  "00:34:55"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:22:56"
+                         "tempo":  "00:37:21"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:22:41"
+                         "tempo":  "00:37:06"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "DE CASA LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:19:32"
+                         "tempo":  "00:33:57"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:49:06"
+                         "tempo":  "01:03:31"
                      }
                  ],
     "hist":  [
@@ -991,7 +1006,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     71,
+                     76,
                      18
                  ]
              ],
@@ -5204,7 +5219,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5223,6 +5238,15 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  91.26,
                                                        "tv":  110
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  45.48,
+                                                       "tv":  201
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -5250,15 +5274,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  47.85,
                                                        "tv":  226
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  44.89,
-                                                       "tv":  151
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -5468,6 +5483,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.31,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MERCADINHO VILA IZAURA LTDA",
+                                                         "p":  1,
+                                                         "km":  0.59,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",

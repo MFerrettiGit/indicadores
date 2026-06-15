@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4226,6 +4226,15 @@
                                      "pe":  2,
                                      "km":  91.26,
                                      "tv":  110
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  45.48,
+                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4253,15 +4262,6 @@
                                      "pe":  3,
                                      "km":  47.85,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  44.89,
-                                     "tv":  151
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -4471,6 +4471,13 @@
                                        "p":  0,
                                        "km":  2.31,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MERCADINHO VILA IZAURA LTDA",
+                                       "p":  1,
+                                       "km":  0.59,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Sao Carlos",
