@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4246,6 +4246,15 @@
                                      "tv":  151
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  43.67,
+                                     "tv":  168
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -4262,15 +4271,6 @@
                                      "pe":  2,
                                      "km":  42.66,
                                      "tv":  167
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  42.7,
-                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4394,6 +4394,13 @@
                                        "p":  1,
                                        "km":  21.31,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SILMELO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.97,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Luis",

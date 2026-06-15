@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -57,6 +57,20 @@ window.PAINEL = {
                      "ultimo":  "12:02",
                      "tv":  "02:31:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  43.67,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:18",
+                     "ultimo":  "12:32",
+                     "tv":  "02:48:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -84,20 +98,6 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "11:30",
                      "tv":  "02:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  42.7,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:18",
-                     "ultimo":  "11:25",
-                     "tv":  "01:47:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -141,7 +141,7 @@ window.PAINEL = {
                      "ultimo":  "11:08",
                      "tv":  "01:08:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "12:09",
                      "tv":  "03:11:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -277,6 +277,15 @@ window.PAINEL = {
                          "out":  "11:25:58",
                          "km":  21.31,
                          "dur":  "01:32:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "11:30:45",
+                         "out":  "12:32:31",
+                         "km":  0.97,
+                         "dur":  "01:01:00"
                      },
                      {
                          "nome":  "Luis",
@@ -551,7 +560,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:56"
+                        "tempo":  "00:39:56"
                     },
                     {
                         "nome":  "Cominato",
@@ -559,7 +568,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:23"
+                        "tempo":  "00:37:23"
                     },
                     {
                         "nome":  "Costa",
@@ -567,7 +576,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:56"
+                        "tempo":  "00:34:56"
                     },
                     {
                         "nome":  "Eugenio",
@@ -575,7 +584,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:18"
+                        "tempo":  "00:19:18"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:04"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:55"
                     }
                 ],
     "semped":  [
@@ -669,25 +694,25 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "A.T. CAETANO-ME.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:27:21"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SILMELO SUPERMERCADO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:53:48"
+                         "tempo":  "00:42:21"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:17:12"
+                         "tempo":  "02:32:12"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:11:03"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:38:34"
+                         "tempo":  "00:53:34"
                      }
                  ],
     "hist":  [
@@ -788,7 +813,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     57,
+                     58,
                      16
                  ]
              ],
@@ -5001,7 +5026,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5040,6 +5065,15 @@ window.PAINEL = {
                                                        "tv":  151
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  43.67,
+                                                       "tv":  168
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -5056,15 +5090,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  42.66,
                                                        "tv":  167
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  42.7,
-                                                       "tv":  107
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5188,6 +5213,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.31,
                                                          "tv":  92
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.97,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Luis",
