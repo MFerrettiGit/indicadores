@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4217,6 +4217,15 @@
                                      "pe":  0,
                                      "km":  23.38,
                                      "tv":  257
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  14.09,
+                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4244,15 +4253,6 @@
                                      "pe":  1,
                                      "km":  45.48,
                                      "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  7.06,
-                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Maira",
@@ -4294,10 +4294,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  42.65,
-                                     "tv":  68
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  70.73,
+                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4508,6 +4508,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "RN SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  7.03,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                        "p":  1,
@@ -4653,6 +4660,13 @@
                                        "p":  1,
                                        "km":  2.41,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                                       "p":  1,
+                                       "km":  28.08,
+                                       "tv":  107
                                    },
                                    {
                                        "n":  "Nelson",

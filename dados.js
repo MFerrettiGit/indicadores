@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  14.09,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "07:51",
+                     "ultimo":  "15:22",
+                     "tv":  "04:30:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -28,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "15:05",
                      "tv":  "04:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "14:09",
                      "tv":  "01:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "14:34",
                      "tv":  "03:21:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  7.06,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "07:51",
-                     "ultimo":  "11:52",
-                     "tv":  "03:45:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -133,14 +133,14 @@ window.PAINEL = {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  42.65,
+                     "visitas":  4,
+                     "km":  70.73,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:38",
-                     "ultimo":  "11:08",
-                     "tv":  "01:08:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:23",
+                     "tv":  "02:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "13:03",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -423,6 +423,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "RN SUPERMERCADO LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "14:37:48",
+                         "out":  "15:22:57",
+                         "km":  7.03,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
@@ -612,6 +621,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "13:36:06",
+                         "out":  "15:23:56",
+                         "km":  28.08,
+                         "dur":  "01:47:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
@@ -789,7 +807,15 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:51"
+                        "tempo":  "00:28:47"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Outro",
+                        "obs":  "trocando o pneu do carro",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:14"
                     }
                 ],
     "semped":  [
@@ -913,55 +939,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:38:04"
+                         "tempo":  "00:53:03"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:25:43"
+                         "tempo":  "00:40:42"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:15:11"
+                         "tempo":  "00:30:10"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO DONNA BELLA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:06:49"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:45:05"
+                         "tempo":  "01:00:04"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "RN SUPERMERCADO LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:31:47"
+                         "nome":  "Costa",
+                         "razao":  "SCOTTON",
+                         "mun":  "IPEUNA",
+                         "tempo":  "00:08:32"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:04:53"
+                         "tempo":  "01:19:52"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "01:07:19"
+                         "tempo":  "01:22:18"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "VIVIANE MACHADO SALAS RODRIGUES",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:04:19"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:33:29"
+                         "tempo":  "00:19:18"
                      }
                  ],
     "hist":  [
@@ -1062,7 +1088,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     80,
+                     82,
                      21
                  ]
              ],
@@ -5275,7 +5301,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5285,6 +5311,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  23.38,
                                                        "tv":  257
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  14.09,
+                                                       "tv":  270
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -5312,15 +5347,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  45.48,
                                                        "tv":  201
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  7.06,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -5362,10 +5388,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  42.65,
-                                                       "tv":  68
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  70.73,
+                                                       "tv":  175
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5576,6 +5602,13 @@ window.PAINEL = {
                                                          "tv":  35
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "RN SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  7.03,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                                          "p":  1,
@@ -5721,6 +5754,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.41,
                                                          "tv":  22
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                                                         "p":  1,
+                                                         "km":  28.08,
+                                                         "tv":  107
                                                      },
                                                      {
                                                          "n":  "Nelson",
