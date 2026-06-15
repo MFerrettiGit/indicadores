@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -22,14 +22,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  15.2,
+                     "km":  20.02,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "07:51",
                      "ultimo":  "16:58",
                      "tv":  "05:51:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -78,14 +78,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  49.6,
+                     "km":  84.97,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:42",
                      "ultimo":  "16:47",
                      "tv":  "05:13:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -141,7 +141,7 @@ window.PAINEL = {
                      "ultimo":  "15:05",
                      "tv":  "04:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -176,7 +176,7 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "visitas":  4,
-                     "km":  13.82,
+                     "km":  14.8,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "08:58",
@@ -862,6 +862,14 @@ window.PAINEL = {
                         "tempo":  "01:00:32"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Outro",
+                        "obs":  "acompanhando mãe no hospital",
+                        "inicio":  "15:59",
+                        "final":  "18:11",
+                        "tempo":  "02:11:49"
+                    },
+                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -908,6 +916,14 @@ window.PAINEL = {
                         "inicio":  "17:16",
                         "final":  "18:03",
                         "tempo":  "00:46:30"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "popular",
+                        "inicio":  "18:03",
+                        "final":  "18:20",
+                        "tempo":  "00:16:59"
                     },
                     {
                         "nome":  "Luis",
@@ -1014,36 +1030,20 @@ window.PAINEL = {
                         "tempo":  "01:01:43"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  "17:11",
+                        "final":  "18:15",
+                        "tempo":  "01:04:37"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Manutencao",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:14:01"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Outro",
-                        "obs":  "acompanhando mãe no hospital",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:11:37"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:35"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "popular",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:07:12"
+                        "tempo":  "03:28:56"
                     }
                 ],
     "semped":  [
@@ -5512,7 +5512,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5529,7 +5529,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  15.2,
+                                                       "km":  20.02,
                                                        "tv":  351
                                                    },
                                                    {
@@ -5565,7 +5565,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  49.6,
+                                                       "km":  84.97,
                                                        "tv":  313
                                                    },
                                                    {
@@ -5628,7 +5628,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  13.82,
+                                                       "km":  14.8,
                                                        "tv":  277
                                                    },
                                                    {
