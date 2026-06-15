@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "07:51",
                      "ultimo":  "10:19",
                      "tv":  "02:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -57,6 +57,20 @@ window.PAINEL = {
                      "ultimo":  "09:23",
                      "tv":  "01:20:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  42.43,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "10:30",
+                     "tv":  "01:57:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -88,20 +102,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  2.26,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:33",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -112,6 +112,34 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "10:21",
                      "tv":  "01:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  28.55,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:16",
+                     "ultimo":  "10:26",
+                     "tv":  "01:02:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  40.24,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:38",
+                     "ultimo":  "10:34",
+                     "tv":  "00:46:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -140,34 +168,6 @@ window.PAINEL = {
                      "primeiro":  "08:08",
                      "ultimo":  "08:41",
                      "tv":  "00:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  27.01,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:16",
-                     "ultimo":  "09:43",
-                     "tv":  "00:27:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  38.41,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:38",
-                     "ultimo":  "10:06",
-                     "tv":  "00:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -270,6 +270,15 @@ window.PAINEL = {
                          "dur":  "01:20:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "EDSON MARCON EIRELI",
+                         "mun":  "LIMEIRA",
+                         "in":  "08:33:22",
+                         "out":  "10:30:51",
+                         "km":  40.17,
+                         "dur":  "01:57:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                          "mun":  "ITAPIRA",
@@ -333,6 +342,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "LUCIANO FERREIRA DA SILVA MINIMERCADO",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "09:50:56",
+                         "out":  "10:26:41",
+                         "km":  1.54,
+                         "dur":  "00:35:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                          "mun":  "CACAPAVA",
@@ -340,6 +358,15 @@ window.PAINEL = {
                          "out":  "10:06:01",
                          "km":  32.23,
                          "dur":  "00:27:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "in":  "10:15:14",
+                         "out":  "10:34:58",
+                         "km":  1.83,
+                         "dur":  "00:19:00"
                      }
                  ],
     "eventos":  [
@@ -439,73 +466,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:50:02"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "EDSON MARCON EIRELI",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "01:51:18"
+                         "tempo":  "01:04:55"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:42:24"
+                         "tempo":  "00:57:17"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:41:39"
+                         "tempo":  "00:56:32"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:31:36"
+                         "tempo":  "00:46:29"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BUENO SERVICE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:06:52"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "LUCIANO FERREIRA DA SILVA MINIMERCADO",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:33:44"
+                         "tempo":  "00:03:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:19"
+                         "tempo":  "00:32:12"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:26:15"
+                         "tempo":  "01:41:08"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "01:48:02"
+                         "tempo":  "02:02:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:05:23"
+                         "tempo":  "02:20:16"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:18:20"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
-                         "mun":  "CACAPAVA",
-                         "tempo":  "00:09:26"
+                         "tempo":  "01:33:13"
                      }
                  ],
     "hist":  [
@@ -606,7 +627,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     26,
+                     31,
                      8
                  ]
              ],
@@ -4819,7 +4840,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4858,6 +4879,15 @@ window.PAINEL = {
                                                        "tv":  80
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  42.43,
+                                                       "tv":  117
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -4876,15 +4906,6 @@ window.PAINEL = {
                                                        "tv":  15
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.26,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -4892,6 +4913,24 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  24.65,
                                                        "tv":  81
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  28.55,
+                                                       "tv":  62
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  40.24,
+                                                       "tv":  46
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4910,24 +4949,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  18.22,
                                                        "tv":  33
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  27.01,
-                                                       "tv":  27
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  38.41,
-                                                       "tv":  27
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -5001,6 +5022,13 @@ window.PAINEL = {
                                                          "tv":  80
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "EDSON MARCON EIRELI",
+                                                         "p":  1,
+                                                         "km":  40.17,
+                                                         "tv":  117
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                                                          "p":  0,
@@ -5050,11 +5078,25 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "LUCIANO FERREIRA DA SILVA MINIMERCADO",
+                                                         "p":  1,
+                                                         "km":  1.54,
+                                                         "tv":  35
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                                                          "p":  1,
                                                          "km":  32.23,
                                                          "tv":  27
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                                         "p":  1,
+                                                         "km":  1.83,
+                                                         "tv":  19
                                                      }
                                                  ]
                                      }

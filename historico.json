@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4246,6 +4246,15 @@
                                      "tv":  80
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  42.43,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4264,15 +4273,6 @@
                                      "tv":  15
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.26,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -4280,6 +4280,24 @@
                                      "pe":  0,
                                      "km":  24.65,
                                      "tv":  81
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  28.55,
+                                     "tv":  62
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  40.24,
+                                     "tv":  46
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4298,24 +4316,6 @@
                                      "pe":  0,
                                      "km":  18.22,
                                      "tv":  33
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  27.01,
-                                     "tv":  27
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  38.41,
-                                     "tv":  27
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4389,6 +4389,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "EDSON MARCON EIRELI",
+                                       "p":  1,
+                                       "km":  40.17,
+                                       "tv":  117
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                                        "p":  0,
@@ -4438,11 +4445,25 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "LUCIANO FERREIRA DA SILVA MINIMERCADO",
+                                       "p":  1,
+                                       "km":  1.54,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                                        "p":  1,
                                        "km":  32.23,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO DA CIDADE LTDA",
+                                       "p":  1,
+                                       "km":  1.83,
+                                       "tv":  19
                                    }
                                ]
                    }
