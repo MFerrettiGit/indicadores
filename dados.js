@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,28 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  38.4,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  74.91,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:02",
-                     "ultimo":  "08:17",
-                     "tv":  "00:15:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:20",
+                     "tv":  "00:32:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  1.55,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "09:23",
+                     "tv":  "01:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -40,20 +54,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "07:51",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.66,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -95,10 +95,10 @@ window.PAINEL = {
                      "km":  21.24,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:18",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "08:57",
                      "tv":  "00:47:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -186,25 +186,25 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  6.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "visitas":  0,
                      "km":  7.98,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "09:16",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "visitas":  0,
+                     "km":  6.18,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -223,6 +223,24 @@ window.PAINEL = {
                          "out":  "08:17:57",
                          "km":  0,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "MARIA OZANGELA PEREIRA GOMES DE OLIVEIRA",
+                         "mun":  "CORUMBATAI",
+                         "in":  "09:02:42",
+                         "out":  "09:20:46",
+                         "km":  36.51,
+                         "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SM. SAO PAULO LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "08:01:39",
+                         "out":  "09:23:05",
+                         "km":  0.89,
+                         "dur":  "01:20:00"
                      },
                      {
                          "nome":  "Castro",
@@ -275,9 +293,23 @@ window.PAINEL = {
                         "inicio":  "08:08",
                         "final":  "08:57",
                         "tempo":  "00:48:35"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Manutencao",
+                        "obs":  "problema elétrico no veículo não está dando partida",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:05"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SM. SAO PAULO LTDA.",
+                       "mun":  "FRANCA",
+                       "obs":  "comprador pediu para retornar próxima semana"
+                   },
                    {
                        "nome":  "Castro",
                        "razao":  "SUPERMERCADO PARAZZI LTDA",
@@ -295,6 +327,12 @@ window.PAINEL = {
                        "razao":  "MARTINS",
                        "mun":  "RIO CLARO",
                        "obs":  "cliente abastecido"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "MARIA OZANGELA PEREIRA GOMES DE OLIVEIRA",
+                       "mun":  "CORUMBATAI",
+                       "obs":  "cotação"
                    }
                ],
     "emvisita":  [
@@ -302,67 +340,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:16:02"
+                         "tempo":  "01:30:39"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "EDSON MARCON EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:36:46"
+                         "tempo":  "00:51:23"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:27:31"
+                         "tempo":  "00:42:08"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "SM. SAO PAULO LTDA.",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:08:29"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "MARIA OZANGELA PEREIRA GOMES DE OLIVEIRA",
-                         "mun":  "CORUMBATAI",
-                         "tempo":  "00:07:26"
+                         "nome":  "Fernando",
+                         "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:05:54"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:18:49"
+                         "tempo":  "01:33:26"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:08:26"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:09:03"
+                         "tempo":  "01:23:40"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:11:43"
+                         "tempo":  "00:26:20"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "00:33:30"
+                         "tempo":  "00:48:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:50:51"
+                         "tempo":  "01:05:28"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:03:48"
+                         "tempo":  "00:18:25"
                      }
                  ],
     "hist":  [
@@ -463,8 +501,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     8,
-                     3
+                     12,
+                     5
                  ]
              ],
     "historico":  {
@@ -4676,7 +4714,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4691,10 +4729,19 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  74.91,
+                                                       "tv":  32
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  1,
                                                        "pe":  0,
-                                                       "km":  38.4,
-                                                       "tv":  15
+                                                       "km":  1.55,
+                                                       "tv":  80
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -4703,15 +4750,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.88,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.66,
                                                        "tv":  0
                                                    },
                                                    {
@@ -4796,21 +4834,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  6.18,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  7.98,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  6.18,
                                                        "tv":  0
                                                    }
                                                ],
@@ -4821,6 +4859,20 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "MARIA OZANGELA PEREIRA GOMES DE OLIVEIRA",
+                                                         "p":  0,
+                                                         "km":  36.51,
+                                                         "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SM. SAO PAULO LTDA.",
+                                                         "p":  0,
+                                                         "km":  0.89,
+                                                         "tv":  80
                                                      },
                                                      {
                                                          "n":  "Castro",

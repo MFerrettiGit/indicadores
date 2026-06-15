@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4222,10 +4222,19 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  74.91,
+                                     "tv":  32
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
                                      "vi":  1,
                                      "pe":  0,
-                                     "km":  38.4,
-                                     "tv":  15
+                                     "km":  1.55,
+                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4234,15 +4243,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.88,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.66,
                                      "tv":  0
                                  },
                                  {
@@ -4327,21 +4327,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.18,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  7.98,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  6.18,
                                      "tv":  0
                                  }
                              ],
@@ -4352,6 +4352,20 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "MARIA OZANGELA PEREIRA GOMES DE OLIVEIRA",
+                                       "p":  0,
+                                       "km":  36.51,
+                                       "tv":  17
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SM. SAO PAULO LTDA.",
+                                       "p":  0,
+                                       "km":  0.89,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Castro",
