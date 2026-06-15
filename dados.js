@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  1,
-                     "km":  17.52,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  23.38,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "07:54",
-                     "ultimo":  "09:29",
-                     "tv":  "01:34:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:18",
+                     "tv":  "04:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  30.98,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:16",
+                     "ultimo":  "12:19",
+                     "tv":  "02:45:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -130,17 +144,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "visitas":  2,
-                     "km":  28.55,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:16",
-                     "ultimo":  "10:26",
-                     "tv":  "01:02:00",
-                     "emVisita":  1,
+                     "km":  40.99,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:08",
+                     "ultimo":  "12:20",
+                     "tv":  "03:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -158,17 +172,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "visitas":  1,
-                     "km":  18.22,
+                     "km":  2.96,
                      "semPed":  1,
                      "perc":  100,
-                     "primeiro":  "08:08",
-                     "ultimo":  "08:41",
-                     "tv":  "00:33:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:19",
+                     "ultimo":  "12:23",
+                     "tv":  "04:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "03:11:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:19",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -223,6 +223,15 @@ window.PAINEL = {
                          "out":  "09:29:13",
                          "km":  10.72,
                          "dur":  "01:34:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.02",
+                         "mun":  "JUNDIAI",
+                         "in":  "09:34:38",
+                         "out":  "12:18:32",
+                         "km":  5.86,
+                         "dur":  "02:43:00"
                      },
                      {
                          "nome":  "Costa",
@@ -378,6 +387,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MAGOGA HORTIFRUTI LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "09:06:20",
+                         "out":  "12:20:38",
+                         "km":  22.77,
+                         "dur":  "03:13:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "ANTONIO CESAR DETONI",
                          "mun":  "PIRACICABA",
@@ -423,6 +441,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "10:35:57",
+                         "out":  "12:19:44",
+                         "km":  2.43,
+                         "dur":  "01:43:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
@@ -466,6 +493,15 @@ window.PAINEL = {
                          "out":  "11:08:42",
                          "km":  2.41,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "08:19:17",
+                         "out":  "12:23:00",
+                         "km":  2.96,
+                         "dur":  "04:03:00"
                      }
                  ],
     "eventos":  [
@@ -515,7 +551,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:55"
+                        "tempo":  "00:24:56"
                     },
                     {
                         "nome":  "Cominato",
@@ -523,7 +559,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:22"
+                        "tempo":  "00:22:23"
                     },
                     {
                         "nome":  "Costa",
@@ -531,13 +567,27 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:55"
+                        "tempo":  "00:19:56"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:18"
                     }
                 ],
     "semped":  [
                    {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA - LJ.02",
                        "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
@@ -564,6 +614,12 @@ window.PAINEL = {
                        "razao":  "SM. SAO PAULO LTDA.",
                        "mun":  "FRANCA",
                        "obs":  "comprador pediu para retornar próxima semana"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "merchandising"
                    },
                    {
                        "nome":  "Castro",
@@ -610,52 +666,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "IRMAOS BOA LTDA - LJ.02",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "02:34:54"
-                     },
-                     {
                          "nome":  "Maira",
                          "razao":  "A.T. CAETANO-ME.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:12:20"
+                         "tempo":  "00:27:21"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:38:47"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "01:33:35"
+                         "tempo":  "00:53:48"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:02:11"
+                         "tempo":  "02:17:12"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:23:33"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "03:50:15"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "MAGOGA HORTIFRUTI LTDA.",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "03:03:12"
+                         "tempo":  "00:38:34"
                      }
                  ],
     "hist":  [
@@ -756,8 +788,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     50,
-                     14
+                     57,
+                     16
                  ]
              ],
     "historico":  {
@@ -4969,16 +5001,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  17.52,
-                                                       "tv":  94
+                                                       "km":  23.38,
+                                                       "tv":  257
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -5044,6 +5076,15 @@ window.PAINEL = {
                                                        "tv":  98
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  30.98,
+                                                       "tv":  165
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -5053,13 +5094,13 @@ window.PAINEL = {
                                                        "tv":  68
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
                                                        "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  28.55,
-                                                       "tv":  62
+                                                       "pe":  1,
+                                                       "km":  40.99,
+                                                       "tv":  226
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5071,13 +5112,13 @@ window.PAINEL = {
                                                        "tv":  116
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  0,
-                                                       "km":  18.22,
-                                                       "tv":  33
+                                                       "km":  2.96,
+                                                       "tv":  243
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -5096,15 +5137,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  4.87,
                                                        "tv":  191
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -5114,6 +5146,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  10.72,
                                                          "tv":  94
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.02",
+                                                         "p":  0,
+                                                         "km":  5.86,
+                                                         "tv":  163
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -5235,6 +5274,13 @@ window.PAINEL = {
                                                          "tv":  33
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "MAGOGA HORTIFRUTI LTDA.",
+                                                         "p":  1,
+                                                         "km":  22.77,
+                                                         "tv":  193
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "ANTONIO CESAR DETONI",
                                                          "p":  0,
@@ -5270,6 +5316,13 @@ window.PAINEL = {
                                                          "tv":  35
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.43,
+                                                         "tv":  103
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                                                          "p":  1,
@@ -5303,6 +5356,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.41,
                                                          "tv":  22
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                                         "p":  0,
+                                                         "km":  2.96,
+                                                         "tv":  243
                                                      }
                                                  ]
                                      }
