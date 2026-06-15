@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  91.26,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:02",
+                     "ultimo":  "14:09",
+                     "tv":  "01:50:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -29,20 +43,20 @@ window.PAINEL = {
                      "ultimo":  "11:52",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  3,
-                     "km":  75.63,
+                     "km":  7.07,
                      "semPed":  2,
                      "perc":  66.67,
-                     "primeiro":  "08:02",
-                     "ultimo":  "10:08",
-                     "tv":  "00:47:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:01",
+                     "ultimo":  "14:06",
+                     "tv":  "03:52:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -85,20 +99,6 @@ window.PAINEL = {
                      "ultimo":  "12:32",
                      "tv":  "02:48:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  3.84,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:01",
-                     "ultimo":  "11:32",
-                     "tv":  "03:07:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,21 +112,21 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "13:48",
                      "tv":  "02:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  30.98,
+                     "visitas":  4,
+                     "km":  33.47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:16",
-                     "ultimo":  "12:19",
-                     "tv":  "02:45:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:09",
+                     "tv":  "03:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:40",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,8 +182,8 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "13:16",
                      "tv":  "04:04:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "12:23",
                      "tv":  "04:03:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -261,6 +261,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "CASAGRANDE",
+                         "mun":  "RIO CLARO",
+                         "in":  "13:06:10",
+                         "out":  "14:09:28",
+                         "km":  15.63,
+                         "dur":  "01:03:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -304,6 +313,15 @@ window.PAINEL = {
                          "out":  "11:32:13",
                          "km":  2.29,
                          "dur":  "01:47:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "13:20:40",
+                         "out":  "14:06:29",
+                         "km":  3.23,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Maira",
@@ -486,6 +504,15 @@ window.PAINEL = {
                          "dur":  "01:43:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO MW METEORO LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "13:28:34",
+                         "out":  "14:09:29",
+                         "km":  2.49,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
@@ -608,6 +635,14 @@ window.PAINEL = {
                         "tempo":  "00:52:24"
                     },
                     {
+                        "nome":  "Lucas",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:17",
+                        "final":  "14:02",
+                        "tempo":  "00:44:41"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -685,15 +720,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:38"
-                    },
-                    {
-                        "nome":  "Lucas",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:38:12"
+                        "tempo":  "00:57:36"
                     },
                     {
                         "nome":  "Karina",
@@ -701,7 +728,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:07"
+                        "tempo":  "00:31:05"
                     },
                     {
                         "nome":  "Castro",
@@ -709,7 +736,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:17"
+                        "tempo":  "00:25:15"
                     }
                 ],
     "semped":  [
@@ -748,6 +775,12 @@ window.PAINEL = {
                        "razao":  "SM. SAO PAULO LTDA.",
                        "mun":  "FRANCA",
                        "obs":  "comprador pediu para retornar próxima semana"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "estoque alto"
                    },
                    {
                        "nome":  "Nelson",
@@ -809,31 +842,37 @@ window.PAINEL = {
                          "nome":  "Rachel",
                          "razao":  "MERCADINHO VILA IZAURA LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:10:10"
+                         "tempo":  "00:25:07"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:33:58"
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO GALASSI LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:04:53"
                      },
                      {
-                         "nome":  "Costa",
-                         "razao":  "CASAGRANDE",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "00:48:28"
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO ARMELIN LTDA",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:07:19"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO MW METEORO LTDA.",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:26:04"
+                         "nome":  "Nelson",
+                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:04"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "DE CASA LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:03:55"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:18:32"
+                         "tempo":  "00:33:29"
                      }
                  ],
     "hist":  [
@@ -934,8 +973,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     67,
-                     17
+                     71,
+                     18
                  ]
              ],
     "historico":  {
@@ -5147,7 +5186,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5159,6 +5198,15 @@ window.PAINEL = {
                                                        "tv":  257
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  91.26,
+                                                       "tv":  110
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -5168,13 +5216,13 @@ window.PAINEL = {
                                                        "tv":  225
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  1,
-                                                       "km":  75.63,
-                                                       "tv":  47
+                                                       "km":  7.07,
+                                                       "tv":  232
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -5204,15 +5252,6 @@ window.PAINEL = {
                                                        "tv":  168
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  3.84,
-                                                       "tv":  187
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -5225,10 +5264,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  30.98,
-                                                       "tv":  165
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  33.47,
+                                                       "tv":  205
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -5322,6 +5361,13 @@ window.PAINEL = {
                                                          "tv":  15
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "CASAGRANDE",
+                                                         "p":  1,
+                                                         "km":  15.63,
+                                                         "tv":  63
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                                          "p":  1,
@@ -5355,6 +5401,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.29,
                                                          "tv":  107
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                                                         "p":  0,
+                                                         "km":  3.23,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -5495,6 +5548,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.43,
                                                          "tv":  103
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO MW METEORO LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.49,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Karina",
