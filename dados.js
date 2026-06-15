@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "16:58",
                      "tv":  "05:51:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "16:47",
                      "tv":  "05:13:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "17:06",
                      "tv":  "06:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -958,7 +958,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:14:05"
+                        "tempo":  "02:29:09"
                     },
                     {
                         "nome":  "Maira",
@@ -966,7 +966,7 @@ window.PAINEL = {
                         "obs":  "pedido Calegaris",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:17"
+                        "tempo":  "01:34:21"
                     },
                     {
                         "nome":  "Eugenio",
@@ -974,7 +974,23 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:11:41"
+                        "tempo":  "01:26:45"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:43"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:06"
                     }
                 ],
     "semped":  [
@@ -1128,25 +1144,31 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:38:04"
+                         "tempo":  "02:53:08"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "POSTO DO TREVO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:06"
+                         "tempo":  "00:16:10"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "01:53:33"
+                         "tempo":  "02:08:37"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:05:59"
+                         "tempo":  "00:21:03"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "RORLANDE CEREZER PACINATE",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:08:41"
                      }
                  ],
     "hist":  [
@@ -5460,7 +5482,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
