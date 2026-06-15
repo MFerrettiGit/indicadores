@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "15:55",
                      "tv":  "05:17:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -869,7 +869,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:13:56"
+                        "tempo":  "01:29:12"
                     },
                     {
                         "nome":  "Maira",
@@ -877,7 +877,7 @@ window.PAINEL = {
                         "obs":  "pedido Calegaris",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:08"
+                        "tempo":  "00:34:24"
                     },
                     {
                         "nome":  "Eugenio",
@@ -885,7 +885,15 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:32"
+                        "tempo":  "00:26:48"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Exames de rotina",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:47"
                     }
                 ],
     "semped":  [
@@ -1027,55 +1035,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:37:57"
+                         "tempo":  "01:53:13"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:15:04"
+                         "tempo":  "01:30:20"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:34:51"
+                         "tempo":  "00:50:07"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "00:53:26"
+                         "tempo":  "01:08:42"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JBI E   PRESENTES LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:43:06"
+                         "tempo":  "00:58:22"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:04:46"
+                         "tempo":  "02:20:02"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:25:50"
+                         "tempo":  "00:41:06"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS VMS EIRELI",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:23:27"
+                         "tempo":  "00:38:43"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:12:20"
+                         "tempo":  "00:27:36"
                      }
                  ],
     "hist":  [
@@ -5389,7 +5397,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
