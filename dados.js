@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:06",
                      "tv":  "03:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "12:57",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -98,7 +98,7 @@ window.PAINEL = {
                      "primeiro":  "09:18",
                      "ultimo":  "12:32",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "09:16",
                      "ultimo":  "14:09",
                      "tv":  "03:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -595,6 +595,14 @@ window.PAINEL = {
                         "tempo":  "00:35:06"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:12",
+                        "final":  "14:16",
+                        "tempo":  "01:03:05"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -715,20 +723,12 @@ window.PAINEL = {
                         "tempo":  "01:01:43"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:36"
-                    },
-                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:05"
+                        "tempo":  "00:46:44"
                     },
                     {
                         "nome":  "Castro",
@@ -736,7 +736,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:15"
+                        "tempo":  "00:40:54"
                     }
                 ],
     "semped":  [
@@ -842,37 +842,55 @@ window.PAINEL = {
                          "nome":  "Rachel",
                          "razao":  "MERCADINHO VILA IZAURA LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:25:07"
+                         "tempo":  "00:40:44"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:08:01"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:00:42"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:11:27"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:53"
+                         "tempo":  "00:20:30"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:07:19"
+                         "tempo":  "00:22:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:04"
+                         "tempo":  "00:22:41"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "DE CASA LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:03:55"
+                         "tempo":  "00:19:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:33:29"
+                         "tempo":  "00:49:06"
                      }
                  ],
     "hist":  [
@@ -5186,7 +5204,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
