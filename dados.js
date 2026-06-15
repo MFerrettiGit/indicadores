@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "10:30",
                      "tv":  "01:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "09:38",
                      "ultimo":  "10:34",
                      "tv":  "00:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -466,67 +466,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:04:55"
+                         "tempo":  "01:19:30"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SOUZA",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:14:00"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:57:17"
+                         "tempo":  "01:11:52"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:56:32"
+                         "tempo":  "01:11:07"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:46:29"
+                         "tempo":  "01:01:04"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO SERVICE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:06:52"
+                         "tempo":  "00:21:27"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:03:36"
+                         "tempo":  "00:18:11"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:32:12"
+                         "tempo":  "00:46:47"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:41:08"
+                         "tempo":  "01:55:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "02:02:55"
+                         "tempo":  "02:17:30"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:20:16"
+                         "tempo":  "02:34:51"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:33:13"
+                         "tempo":  "01:47:48"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "tempo":  "00:08:09"
                      }
                  ],
     "hist":  [
@@ -627,7 +639,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     31,
+                     34,
                      8
                  ]
              ],
@@ -4840,7 +4852,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
