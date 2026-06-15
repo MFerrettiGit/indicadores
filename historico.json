@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4237,6 +4237,15 @@
                                      "tv":  47
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  44.89,
+                                     "tv":  151
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -4253,15 +4262,6 @@
                                      "pe":  2,
                                      "km":  42.66,
                                      "tv":  167
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  42.58,
-                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -4327,21 +4327,21 @@
                                      "tv":  156
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.87,
+                                     "tv":  191
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
                                      "tv":  0
                                  }
                              ],
@@ -4431,6 +4431,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                                       "p":  0,
+                                       "km":  2.31,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                        "p":  1,
@@ -4499,6 +4506,13 @@
                                        "p":  1,
                                        "km":  1.54,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  4.69,
+                                       "tv":  191
                                    },
                                    {
                                        "n":  "Lucas",

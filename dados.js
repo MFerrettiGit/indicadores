@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -43,6 +43,20 @@ window.PAINEL = {
                      "ultimo":  "10:08",
                      "tv":  "00:47:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  44.89,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:42",
+                     "ultimo":  "12:02",
+                     "tv":  "02:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -57,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "11:32",
                      "tv":  "03:07:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "11:30",
                      "tv":  "02:47:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  42.58,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:42",
-                     "ultimo":  "10:59",
-                     "tv":  "02:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "11:12",
                      "tv":  "01:38:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -186,6 +186,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  4.87,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:58",
+                     "ultimo":  "12:09",
+                     "tv":  "03:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -194,20 +208,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:19",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0.18,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:58",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -324,6 +324,15 @@ window.PAINEL = {
                          "dur":  "01:16:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                         "mun":  "ITAPIRA",
+                         "in":  "11:31:37",
+                         "out":  "12:02:00",
+                         "km":  2.31,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
@@ -414,6 +423,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "08:58:25",
+                         "out":  "12:09:32",
+                         "km":  4.69,
+                         "dur":  "03:11:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
@@ -490,6 +508,30 @@ window.PAINEL = {
                         "inicio":  "08:08",
                         "final":  "08:57",
                         "tempo":  "00:48:35"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:55"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:22"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:55"
                     }
                 ],
     "semped":  [
@@ -510,6 +552,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                        "mun":  "ITAPIRA",
                        "obs":  "alinhamento ação sabonete estoque alto"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                       "mun":  "ITAPIRA",
+                       "obs":  "visita prospecção contador ausente"
                    },
                    {
                        "nome":  "Luis",
@@ -565,55 +613,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:19:55"
+                         "tempo":  "02:34:54"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
-                         "mun":  "ITAPIRA",
-                         "tempo":  "00:22:56"
+                         "nome":  "Maira",
+                         "razao":  "A.T. CAETANO-ME.",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:12:20"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:23:48"
+                         "tempo":  "00:38:47"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "01:18:36"
+                         "tempo":  "01:33:35"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:47:12"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:56:08"
+                         "tempo":  "02:02:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:08:34"
+                         "tempo":  "00:23:33"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:35:16"
+                         "tempo":  "03:50:15"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:48:13"
+                         "tempo":  "03:03:12"
                      }
                  ],
     "hist":  [
@@ -714,8 +756,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     46,
-                     12
+                     50,
+                     14
                  ]
              ],
     "historico":  {
@@ -4927,7 +4969,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4957,6 +4999,15 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  44.89,
+                                                       "tv":  151
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -4973,15 +5024,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  42.66,
                                                        "tv":  167
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  42.58,
-                                                       "tv":  121
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -5047,21 +5089,21 @@ window.PAINEL = {
                                                        "tv":  156
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.87,
+                                                       "tv":  191
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.18,
                                                        "tv":  0
                                                    }
                                                ],
@@ -5151,6 +5193,13 @@ window.PAINEL = {
                                                          "tv":  76
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                                                         "p":  0,
+                                                         "km":  2.31,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO ARCO IRIS LTDA.",
                                                          "p":  1,
@@ -5219,6 +5268,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.54,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.69,
+                                                         "tv":  191
                                                      },
                                                      {
                                                          "n":  "Lucas",
