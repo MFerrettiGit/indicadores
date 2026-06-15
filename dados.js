@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "15:37",
                      "tv":  "04:39:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "15:30",
                      "tv":  "05:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "15:35",
                      "tv":  "05:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -340,6 +340,15 @@ window.PAINEL = {
                          "out":  "15:05:23",
                          "km":  2.54,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO DONNA BELLA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:17:45",
+                         "out":  "15:55:24",
+                         "km":  3.86,
+                         "dur":  "00:37:00"
                      },
                      {
                          "nome":  "Maira",
@@ -843,7 +852,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:54"
+                        "tempo":  "00:58:58"
                     },
                     {
                         "nome":  "Karina",
@@ -851,7 +860,15 @@ window.PAINEL = {
                         "obs":  "trocando o pneu do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:21"
+                        "tempo":  "00:44:25"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedido Calegaris",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:10"
                     }
                 ],
     "semped":  [
@@ -987,49 +1004,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:08:05"
+                         "tempo":  "01:23:06"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:45:12"
+                         "tempo":  "01:00:13"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO DONNA BELLA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:21:51"
+                         "tempo":  "00:36:52"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:04:59"
+                         "tempo":  "00:20:00"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "00:23:34"
+                         "tempo":  "00:38:35"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JBI E   PRESENTES LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:13:14"
+                         "tempo":  "00:28:15"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:34:54"
+                         "tempo":  "01:49:55"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO ARMELIN LTDA.",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:10:59"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "SUPERMERCADOS VMS EIRELI",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:08:36"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MINI MERCADO JJR LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:03:40"
+                         "tempo":  "00:18:41"
                      }
                  ],
     "hist":  [
@@ -1130,7 +1159,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     88,
+                     89,
                      23
                  ]
              ],
@@ -5343,7 +5372,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5579,6 +5608,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.54,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO DONNA BELLA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.86,
+                                                         "tv":  37
                                                      },
                                                      {
                                                          "n":  "Maira",
