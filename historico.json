@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4237,6 +4237,24 @@
                                      "tv":  317
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  49.6,
+                                     "tv":  313
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  46.52,
+                                     "tv":  308
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4253,24 +4271,6 @@
                                      "pe":  3,
                                      "km":  49.03,
                                      "tv":  279
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  45.48,
-                                     "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  44.66,
-                                     "tv":  233
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4291,6 +4291,15 @@
                                      "tv":  256
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  19.89,
+                                     "tv":  377
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -4309,15 +4318,6 @@
                                      "tv":  422
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  15.05,
-                                     "tv":  316
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -4327,6 +4327,15 @@
                                      "tv":  337
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  8.39,
+                                     "tv":  241
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -4334,15 +4343,6 @@
                                      "pe":  1,
                                      "km":  40.99,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  6.09,
-                                     "tv":  225
                                  }
                              ],
                        "cli":  [
@@ -4415,6 +4415,13 @@
                                        "p":  1,
                                        "km":  0.99,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  1.86,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Luis",
@@ -4506,6 +4513,13 @@
                                        "p":  1,
                                        "km":  0.59,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "DAVID BARBOSA SUPERMERCADO - EPP.",
+                                       "p":  1,
+                                       "km":  4.12,
+                                       "tv":  112
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -4669,6 +4683,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                       "p":  0,
+                                       "km":  2.3,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "J A CRUVINEL",
                                        "p":  1,
@@ -4737,6 +4758,13 @@
                                        "p":  0,
                                        "km":  5.35,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADOS VMS EIRELI",
+                                       "p":  1,
+                                       "km":  4.84,
+                                       "tv":  61
                                    }
                                ]
                    }
