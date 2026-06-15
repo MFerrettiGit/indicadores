@@ -4207,16 +4207,16 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  23.38,
-                                     "tv":  257
+                                     "km":  37.78,
+                                     "tv":  460
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4233,7 +4233,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  56.8,
+                                     "km":  66.68,
                                      "tv":  329
                                  },
                                  {
@@ -4332,7 +4332,7 @@
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  34.93,
+                                     "km":  56.84,
                                      "tv":  422
                                  },
                                  {

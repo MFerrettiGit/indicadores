@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  2,
-                     "km":  23.38,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  37.78,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "07:54",
-                     "ultimo":  "12:18",
-                     "tv":  "04:17:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:55",
+                     "tv":  "07:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -36,7 +36,7 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  56.8,
+                     "km":  66.68,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:18",
@@ -190,7 +190,7 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "visitas":  3,
-                     "km":  34.93,
+                     "km":  56.84,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -902,6 +902,14 @@ window.PAINEL = {
                         "tempo":  "00:51:09"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "17:16",
+                        "final":  "18:03",
+                        "tempo":  "00:46:30"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1011,7 +1019,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:59:12"
+                        "tempo":  "03:14:01"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1019,7 +1027,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:56:48"
+                        "tempo":  "02:11:37"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1027,15 +1035,15 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:46"
+                        "tempo":  "00:59:35"
                     },
                     {
                         "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "popular",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:09"
+                        "tempo":  "00:07:12"
                     }
                 ],
     "semped":  [
@@ -1191,12 +1199,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Eduardo",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "03:23:05"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1296,8 +1299,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     113,
-                     26
+                     114,
+                     27
                  ]
              ],
     "historico":  {
@@ -5509,16 +5512,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  23.38,
-                                                       "tv":  257
+                                                       "km":  37.78,
+                                                       "tv":  460
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -5535,7 +5538,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  56.8,
+                                                       "km":  66.68,
                                                        "tv":  329
                                                    },
                                                    {
@@ -5634,7 +5637,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  34.93,
+                                                       "km":  56.84,
                                                        "tv":  422
                                                    },
                                                    {
