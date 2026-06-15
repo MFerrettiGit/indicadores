@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  56.8,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:18",
+                     "ultimo":  "17:30",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -58,20 +72,6 @@ window.PAINEL = {
                      "tv":  "05:13:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  46.52,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:18",
-                     "ultimo":  "16:50",
-                     "tv":  "05:08:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -134,7 +134,7 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "visitas":  5,
-                     "km":  73.88,
+                     "km":  84.56,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:38",
@@ -313,6 +313,15 @@ window.PAINEL = {
                          "out":  "16:50:24",
                          "km":  1.86,
                          "dur":  "01:15:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:08:29",
+                         "out":  "17:30:04",
+                         "km":  10.28,
+                         "dur":  "00:21:00"
                      },
                      {
                          "nome":  "Luis",
@@ -666,6 +675,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "EDSON LUCIO PASSOS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:03:36",
+                         "out":  "17:39:51",
+                         "km":  5.43,
+                         "dur":  "00:36:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
@@ -958,7 +976,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:29:09"
+                        "tempo":  "02:44:01"
                     },
                     {
                         "nome":  "Maira",
@@ -966,7 +984,7 @@ window.PAINEL = {
                         "obs":  "pedido Calegaris",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:34:21"
+                        "tempo":  "01:49:13"
                     },
                     {
                         "nome":  "Eugenio",
@@ -974,7 +992,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:26:45"
+                        "tempo":  "01:41:37"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -982,7 +1000,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:43"
+                        "tempo":  "00:29:35"
                     },
                     {
                         "nome":  "Rachel",
@@ -990,7 +1008,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:06"
+                        "tempo":  "00:23:58"
                     }
                 ],
     "semped":  [
@@ -1144,31 +1162,25 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:53:08"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "POSTO DO TREVO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:16:10"
+                         "tempo":  "03:08:03"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "02:08:37"
+                         "tempo":  "02:23:32"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:21:03"
+                         "tempo":  "00:35:58"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "RORLANDE CEREZER PACINATE",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:08:41"
+                         "tempo":  "00:23:36"
                      }
                  ],
     "hist":  [
@@ -1269,7 +1281,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     108,
+                     110,
                      26
                  ]
              ],
@@ -5482,7 +5494,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5503,6 +5515,15 @@ window.PAINEL = {
                                                        "tv":  351
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  56.8,
+                                                       "tv":  329
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -5519,15 +5540,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  49.6,
                                                        "tv":  313
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  46.52,
-                                                       "tv":  308
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -5571,7 +5583,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  73.88,
+                                                       "km":  84.56,
                                                        "tv":  239
                                                    },
                                                    {
@@ -5697,6 +5709,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.86,
                                                          "tv":  75
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "POSTO DO TREVO LTDA",
+                                                         "p":  1,
+                                                         "km":  10.28,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -5970,6 +5989,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.3,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "EDSON LUCIO PASSOS",
+                                                         "p":  1,
+                                                         "km":  5.43,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Lucas",

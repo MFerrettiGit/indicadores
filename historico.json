@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4228,6 +4228,15 @@
                                      "tv":  351
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  56.8,
+                                     "tv":  329
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -4244,15 +4253,6 @@
                                      "pe":  2,
                                      "km":  49.6,
                                      "tv":  313
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  46.52,
-                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Costa",
@@ -4296,7 +4296,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  73.88,
+                                     "km":  84.56,
                                      "tv":  239
                                  },
                                  {
@@ -4422,6 +4422,13 @@
                                        "p":  1,
                                        "km":  1.86,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "POSTO DO TREVO LTDA",
+                                       "p":  1,
+                                       "km":  10.28,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Luis",
@@ -4695,6 +4702,13 @@
                                        "p":  0,
                                        "km":  2.3,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "EDSON LUCIO PASSOS",
+                                       "p":  1,
+                                       "km":  5.43,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Lucas",
