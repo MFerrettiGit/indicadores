@@ -4207,16 +4207,16 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  6.8,
-                                     "tv":  0
+                                     "km":  17.52,
+                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Costa",
@@ -4237,6 +4237,24 @@
                                      "tv":  80
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  39.75,
+                                     "tv":  45
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  21.39,
+                                     "tv":  15
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -4252,24 +4270,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.26,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.64,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.24,
                                      "tv":  0
                                  },
                                  {
@@ -4347,6 +4347,13 @@
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  10.72,
+                                       "tv":  94
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "MARTINS",
                                        "p":  0,
@@ -4361,11 +4368,25 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                                       "p":  1,
+                                       "km":  0.15,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  0,
                                        "km":  0.89,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
+                                       "p":  0,
+                                       "km":  39.11,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Castro",

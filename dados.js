@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  6.8,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  17.52,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "07:54",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "09:29",
+                     "tv":  "01:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -46,6 +46,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  39.75,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:42",
+                     "ultimo":  "09:28",
+                     "tv":  "00:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  21.39,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:18",
+                     "ultimo":  "09:35",
+                     "tv":  "00:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -68,34 +96,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:33",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.64,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:42",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  21.24,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "09:18",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "08:57",
                      "tv":  "00:47:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -207,14 +207,23 @@ window.PAINEL = {
                      "km":  6.18,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:38",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "07:54:06",
+                         "out":  "09:29:13",
+                         "km":  10.72,
+                         "dur":  "01:34:00"
+                     },
                      {
                          "nome":  "Costa",
                          "razao":  "MARTINS",
@@ -234,6 +243,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "09:18:51",
+                         "out":  "09:35:10",
+                         "km":  0.15,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SM. SAO PAULO LTDA.",
                          "mun":  "FRANCA",
@@ -241,6 +259,15 @@ window.PAINEL = {
                          "out":  "09:23:05",
                          "km":  0.89,
                          "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "08:42:37",
+                         "out":  "09:28:33",
+                         "km":  39.11,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Castro",
@@ -279,6 +306,14 @@ window.PAINEL = {
                         "tempo":  "00:45:22"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Manutencao",
+                        "obs":  "problema elétrico no veículo não está dando partida",
+                        "inicio":  "09:21",
+                        "final":  "09:37",
+                        "tempo":  "00:15:46"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a psicóloga",
@@ -293,17 +328,21 @@ window.PAINEL = {
                         "inicio":  "08:08",
                         "final":  "08:57",
                         "tempo":  "00:48:35"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Manutencao",
-                        "obs":  "problema elétrico no veículo não está dando partida",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:04:05"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
+                       "mun":  "ITAPIRA",
+                       "obs":  "cliente pediu pra voltar mas ainda nao esta precisando"
+                   },
                    {
                        "nome":  "Luis",
                        "razao":  "SM. SAO PAULO LTDA.",
@@ -338,69 +377,63 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Eduardo",
-                         "razao":  "IRMAOS BOA LTDA",
+                         "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:30:39"
+                         "tempo":  "00:04:58"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "EDSON MARCON EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:51:23"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
-                         "mun":  "ITAPIRA",
-                         "tempo":  "00:42:08"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:05:54"
+                         "tempo":  "01:06:14"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:33:26"
+                         "tempo":  "01:48:17"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:08:26"
+                         "tempo":  "00:23:17"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:23:40"
+                         "tempo":  "01:38:31"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:26:20"
+                         "tempo":  "00:41:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "00:48:07"
+                         "tempo":  "01:02:58"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:05:28"
+                         "tempo":  "01:20:19"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:18:25"
+                         "tempo":  "00:33:16"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
+                         "mun":  "CACAPAVA",
+                         "tempo":  "00:00:45"
                      }
                  ],
     "hist":  [
@@ -501,8 +534,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     12,
-                     5
+                     16,
+                     7
                  ]
              ],
     "historico":  {
@@ -4714,16 +4747,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  6.8,
-                                                       "tv":  0
+                                                       "km":  17.52,
+                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -4744,6 +4777,24 @@ window.PAINEL = {
                                                        "tv":  80
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  39.75,
+                                                       "tv":  45
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  21.39,
+                                                       "tv":  15
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -4759,24 +4810,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  2.26,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.64,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.24,
                                                        "tv":  0
                                                    },
                                                    {
@@ -4854,6 +4887,13 @@ window.PAINEL = {
                                                ],
                                          "cli":  [
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  0,
+                                                         "km":  10.72,
+                                                         "tv":  94
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "MARTINS",
                                                          "p":  0,
@@ -4868,11 +4908,25 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  0.15,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SM. SAO PAULO LTDA.",
                                                          "p":  0,
                                                          "km":  0.89,
                                                          "tv":  80
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO JARDIM DE ITAPIRA LTDA",
+                                                         "p":  0,
+                                                         "km":  39.11,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Castro",
