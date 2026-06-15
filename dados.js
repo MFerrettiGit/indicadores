@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "19:30",
+    "dataHora":  "19:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -64,7 +64,7 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  121.17,
+                     "km":  178.84,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:02",
@@ -204,14 +204,14 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "visitas":  2,
-                     "km":  40.99,
+                     "km":  48.18,
                      "semPed":  1,
                      "perc":  50,
                      "primeiro":  "08:08",
                      "ultimo":  "12:20",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -966,6 +966,14 @@ window.PAINEL = {
                         "tempo":  "01:06:58"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Manutencao",
+                        "obs":  ".",
+                        "inicio":  "14:56",
+                        "final":  "19:31",
+                        "tempo":  "04:34:56"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Manutencao",
                         "obs":  "problema elétrico no veículo não está dando partida",
@@ -1036,14 +1044,6 @@ window.PAINEL = {
                         "inicio":  "17:11",
                         "final":  "18:15",
                         "tempo":  "01:04:37"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Manutencao",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "04:28:29"
                     }
                 ],
     "semped":  [
@@ -5512,7 +5512,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "19:30",
+                                         "dataHora":  "19:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5556,7 +5556,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  121.17,
+                                                       "km":  178.84,
                                                        "tv":  266
                                                    },
                                                    {
@@ -5646,7 +5646,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  2,
                                                        "pe":  1,
-                                                       "km":  40.99,
+                                                       "km":  48.18,
                                                        "tv":  226
                                                    }
                                                ],
