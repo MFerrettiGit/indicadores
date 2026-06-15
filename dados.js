@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  13.47,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:01",
+                     "ultimo":  "15:55",
+                     "tv":  "05:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "07:51",
                      "ultimo":  "15:22",
                      "tv":  "04:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  9.61,
-                     "semPed":  3,
-                     "perc":  75,
-                     "primeiro":  "08:01",
-                     "ultimo":  "15:05",
-                     "tv":  "04:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  58.13,
-                     "semPed":  5,
+                     "visitas":  6,
+                     "km":  68.67,
+                     "semPed":  6,
                      "perc":  100,
                      "primeiro":  "08:09",
-                     "ultimo":  "14:43",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:58",
+                     "tv":  "03:05:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "15:05",
                      "tv":  "04:16:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "09:38",
                      "ultimo":  "15:23",
                      "tv":  "02:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "13:03",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -540,6 +540,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "MINI MERCADO JJR LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:35:56",
+                         "out":  "15:58:53",
+                         "km":  10.54,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
@@ -735,6 +744,14 @@ window.PAINEL = {
                         "tempo":  "01:17:47"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Outro",
+                        "obs":  "trocando o pneu do carro",
+                        "inicio":  "15:11",
+                        "final":  "16:09",
+                        "tempo":  "00:58:11"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "itapira",
@@ -852,15 +869,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:58"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Outro",
-                        "obs":  "trocando o pneu do carro",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:25"
+                        "tempo":  "01:13:56"
                     },
                     {
                         "nome":  "Maira",
@@ -868,7 +877,15 @@ window.PAINEL = {
                         "obs":  "pedido Calegaris",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:10"
+                        "tempo":  "00:19:08"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Outro",
+                        "obs":  "acompanhando mãe no hospital",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:32"
                     }
                 ],
     "semped":  [
@@ -981,6 +998,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "MINI MERCADO JJR LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Ausente"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "MARTINS",
                        "mun":  "RIO CLARO",
@@ -1004,61 +1027,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:23:06"
+                         "tempo":  "01:37:57"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:00:13"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO DONNA BELLA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:36:52"
+                         "tempo":  "01:15:04"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:20:00"
+                         "tempo":  "00:34:51"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SCOTTON",
                          "mun":  "IPEUNA",
-                         "tempo":  "00:38:35"
+                         "tempo":  "00:53:26"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JBI E   PRESENTES LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:28:15"
+                         "tempo":  "00:43:06"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:49:55"
+                         "tempo":  "02:04:46"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:10:59"
+                         "tempo":  "00:25:50"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS VMS EIRELI",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:08:36"
+                         "tempo":  "00:23:27"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "MINI MERCADO JJR LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:18:41"
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:12:20"
                      }
                  ],
     "hist":  [
@@ -1159,8 +1176,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     89,
-                     23
+                     93,
+                     24
                  ]
              ],
     "historico":  {
@@ -5372,7 +5389,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5384,6 +5401,15 @@ window.PAINEL = {
                                                        "tv":  257
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  13.47,
+                                                       "tv":  317
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -5391,15 +5417,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  14.09,
                                                        "tv":  270
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  1,
-                                                       "km":  9.61,
-                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -5441,10 +5458,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  58.13,
-                                                       "tv":  163
+                                                       "km":  68.67,
+                                                       "tv":  185
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5762,6 +5779,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.68,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MINI MERCADO JJR LTDA",
+                                                         "p":  0,
+                                                         "km":  10.54,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Eugenio",

@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4219,6 +4219,15 @@
                                      "tv":  257
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  13.47,
+                                     "tv":  317
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -4226,15 +4235,6 @@
                                      "pe":  3,
                                      "km":  14.09,
                                      "tv":  270
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  9.61,
-                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Costa",
@@ -4276,10 +4276,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  58.13,
-                                     "tv":  163
+                                     "km":  68.67,
+                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4597,6 +4597,13 @@
                                        "p":  0,
                                        "km":  2.68,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MINI MERCADO JJR LTDA",
+                                       "p":  0,
+                                       "km":  10.54,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Eugenio",
