@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4228,6 +4228,15 @@
                                      "tv":  47
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  6.93,
+                                     "tv":  190
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4235,15 +4244,6 @@
                                      "pe":  0,
                                      "km":  42.58,
                                      "tv":  121
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.85,
-                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4273,6 +4273,15 @@
                                      "tv":  15
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  38.37,
+                                     "tv":  98
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -4280,15 +4289,6 @@
                                      "pe":  3,
                                      "km":  42.65,
                                      "tv":  68
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  24.65,
-                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4318,17 +4318,17 @@
                                      "tv":  33
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  15.43,
+                                     "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -4417,6 +4417,13 @@
                                        "tv":  148
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO SERVICE LTDA",
+                                       "p":  0,
+                                       "km":  4.08,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                        "p":  1,
@@ -4445,6 +4452,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO",
+                                       "p":  0,
+                                       "km":  13.72,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1,
@@ -4457,6 +4471,13 @@
                                        "p":  1,
                                        "km":  1.54,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "J A CRUVINEL",
+                                       "p":  1,
+                                       "km":  15.43,
+                                       "tv":  156
                                    },
                                    {
                                        "n":  "Mariangela",

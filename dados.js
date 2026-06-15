@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  6.93,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "07:51",
+                     "ultimo":  "11:15",
+                     "tv":  "03:10:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -43,20 +57,6 @@ window.PAINEL = {
                      "ultimo":  "10:59",
                      "tv":  "02:01:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  2.85,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:51",
-                     "ultimo":  "10:19",
-                     "tv":  "02:28:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  38.37,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:09",
+                     "ultimo":  "11:12",
+                     "tv":  "01:38:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -113,20 +127,6 @@ window.PAINEL = {
                      "ultimo":  "11:08",
                      "tv":  "01:08:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  24.65,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:09",
-                     "ultimo":  "10:21",
-                     "tv":  "01:21:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -172,6 +172,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  15.43,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:36",
+                     "ultimo":  "11:12",
+                     "tv":  "02:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -180,20 +194,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:19",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:36",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -306,6 +306,15 @@ window.PAINEL = {
                          "dur":  "02:28:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "BUENO SERVICE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "10:32:41",
+                         "out":  "11:15:48",
+                         "km":  4.08,
+                         "dur":  "00:42:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
@@ -342,6 +351,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO",
+                         "mun":  "PIRACICABA",
+                         "in":  "10:55:11",
+                         "out":  "11:12:55",
+                         "km":  13.72,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
@@ -358,6 +376,15 @@ window.PAINEL = {
                          "out":  "10:26:41",
                          "km":  1.54,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "J A CRUVINEL",
+                         "mun":  "SALTO",
+                         "in":  "08:36:38",
+                         "out":  "11:12:44",
+                         "km":  15.43,
+                         "dur":  "02:36:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -473,6 +500,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "MONTE BELLO",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Tentativa de ser atendido pelo comprador"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "MARTINS",
                        "mun":  "RIO CLARO",
@@ -483,6 +516,12 @@ window.PAINEL = {
                        "razao":  "MARIA OZANGELA PEREIRA GOMES DE OLIVEIRA",
                        "mun":  "CORUMBATAI",
                        "obs":  "cotação"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "BUENO SERVICE LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
@@ -490,73 +529,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:34:55"
+                         "tempo":  "01:50:08"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SOUZA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:29:25"
+                         "tempo":  "00:44:38"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
                          "mun":  "FRANCA",
-                         "tempo":  "01:26:32"
+                         "tempo":  "01:41:45"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:16:29"
+                         "tempo":  "01:31:42"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "BUENO SERVICE LTDA",
+                         "razao":  "SUPERMERCADO IEMBO LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:36:52"
+                         "tempo":  "00:07:04"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:33:36"
+                         "tempo":  "00:48:49"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:02:12"
+                         "tempo":  "01:17:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:11:08"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "J A CRUVINEL",
-                         "mun":  "SALTO",
-                         "tempo":  "02:32:55"
+                         "tempo":  "02:26:21"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:50:16"
+                         "tempo":  "03:05:29"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:03:13"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "MONTE BELLO",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:14:22"
+                         "tempo":  "02:18:26"
                      }
                  ],
     "hist":  [
@@ -657,8 +684,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     37,
-                     10
+                     41,
+                     12
                  ]
              ],
     "historico":  {
@@ -4870,7 +4897,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4891,6 +4918,15 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  6.93,
+                                                       "tv":  190
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -4898,15 +4934,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  42.58,
                                                        "tv":  121
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  2.85,
-                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4936,6 +4963,15 @@ window.PAINEL = {
                                                        "tv":  15
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  38.37,
+                                                       "tv":  98
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -4943,15 +4979,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  42.65,
                                                        "tv":  68
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  24.65,
-                                                       "tv":  81
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4981,17 +5008,17 @@ window.PAINEL = {
                                                        "tv":  33
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  15.43,
+                                                       "tv":  156
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -5080,6 +5107,13 @@ window.PAINEL = {
                                                          "tv":  148
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "BUENO SERVICE LTDA",
+                                                         "p":  0,
+                                                         "km":  4.08,
+                                                         "tv":  42
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                                          "p":  1,
@@ -5108,6 +5142,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "MONTE BELLO",
+                                                         "p":  0,
+                                                         "km":  13.72,
+                                                         "tv":  17
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                                          "p":  1,
@@ -5120,6 +5161,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.54,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "J A CRUVINEL",
+                                                         "p":  1,
+                                                         "km":  15.43,
+                                                         "tv":  156
                                                      },
                                                      {
                                                          "n":  "Mariangela",
