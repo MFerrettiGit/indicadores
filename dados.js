@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "09:16",
                      "ultimo":  "12:19",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -140,8 +140,8 @@ window.PAINEL = {
                      "primeiro":  "09:38",
                      "ultimo":  "11:08",
                      "tv":  "01:08:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -197,7 +197,7 @@ window.PAINEL = {
                      "ultimo":  "13:03",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -634,9 +634,9 @@ window.PAINEL = {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:03"
+                        "inicio":  "12:35",
+                        "final":  "13:34",
+                        "tempo":  "00:58:50"
                     },
                     {
                         "nome":  "Nelson",
@@ -644,7 +644,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:38"
+                        "tempo":  "00:58:41"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -652,7 +652,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:00"
+                        "tempo":  "00:47:03"
                     },
                     {
                         "nome":  "Fernando",
@@ -660,7 +660,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:27"
+                        "tempo":  "00:45:30"
                     },
                     {
                         "nome":  "Alan",
@@ -668,7 +668,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:01"
+                        "tempo":  "00:30:04"
                     },
                     {
                         "nome":  "Maira",
@@ -676,7 +676,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:31"
+                        "tempo":  "00:27:34"
                     },
                     {
                         "nome":  "Lucas",
@@ -684,7 +684,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:05"
+                        "tempo":  "00:23:08"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:03"
                     }
                 ],
     "semped":  [
@@ -778,19 +786,31 @@ window.PAINEL = {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:03:58"
+                         "tempo":  "00:18:55"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "CASAGRANDE",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:18:28"
+                         "tempo":  "00:33:25"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO MW METEORO LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:11:01"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:04:28"
+                         "tempo":  "00:19:25"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:03:29"
                      }
                  ],
     "hist":  [
@@ -891,7 +911,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     64,
+                     65,
                      16
                  ]
              ],
@@ -5104,7 +5124,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
