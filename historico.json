@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4246,6 +4246,15 @@
                                      "tv":  110
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  49.03,
+                                     "tv":  279
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4255,22 +4264,13 @@
                                      "tv":  201
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  47.85,
-                                     "tv":  226
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  43.67,
-                                     "tv":  168
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  44.66,
+                                     "tv":  233
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4300,6 +4300,24 @@
                                      "tv":  175
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  15.05,
+                                     "tv":  316
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  46.85,
+                                     "tv":  337
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -4316,24 +4334,6 @@
                                      "pe":  1,
                                      "km":  40.99,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  9.7,
-                                     "tv":  292
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  45.93,
-                                     "tv":  244
                                  },
                                  {
                                      "nome":  "Karina",
@@ -4410,6 +4410,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                                       "p":  1,
+                                       "km":  0.99,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  0,
@@ -4457,6 +4464,13 @@
                                        "p":  1,
                                        "km":  5.19,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "J.F. MENDES E CIA LTDA.",
+                                       "p":  0,
+                                       "km":  1.18,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Rachel",
@@ -4641,6 +4655,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO ARMELIN LTDA",
+                                       "p":  1,
+                                       "km":  0.92,
+                                       "tv":  93
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "G A. CARVALHO COMERCIO VAREJISTA DE PROD",
                                        "p":  1,
@@ -4681,6 +4702,13 @@
                                        "p":  0,
                                        "km":  6.74,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "VIVIANE MACHADO SALAS RODRIGUES",
+                                       "p":  0,
+                                       "km":  5.35,
+                                       "tv":  24
                                    }
                                ]
                    }
