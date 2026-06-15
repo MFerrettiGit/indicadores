@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4276,10 +4276,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  55.45,
-                                     "tv":  126
+                                     "km":  58.13,
+                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4318,6 +4318,15 @@
                                      "tv":  226
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  9.7,
+                                     "tv":  292
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -4334,15 +4343,6 @@
                                      "pe":  2,
                                      "km":  6.09,
                                      "tv":  225
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.96,
-                                     "tv":  243
                                  }
                              ],
                        "cli":  [
@@ -4557,6 +4557,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "DE CASA LTDA",
+                                       "p":  0,
+                                       "km":  2.68,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                        "p":  1,
@@ -4639,6 +4646,13 @@
                                        "p":  0,
                                        "km":  2.96,
                                        "tv":  243
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "48.441.595 MARCOS ROGERIO VENTURA",
+                                       "p":  0,
+                                       "km":  6.74,
+                                       "tv":  49
                                    }
                                ]
                    }

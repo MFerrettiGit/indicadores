@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "14:34",
                      "tv":  "03:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "12:57",
                      "tv":  "03:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,14 +105,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  55.45,
-                     "semPed":  4,
+                     "visitas":  5,
+                     "km":  58.13,
+                     "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:09",
-                     "ultimo":  "13:48",
-                     "tv":  "02:06:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:43",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,7 +169,21 @@ window.PAINEL = {
                      "ultimo":  "12:20",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  9.7,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:19",
+                     "ultimo":  "14:52",
+                     "tv":  "04:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -198,20 +212,6 @@ window.PAINEL = {
                      "tv":  "03:45:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  2.96,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:19",
-                     "ultimo":  "12:23",
-                     "tv":  "04:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -486,6 +486,15 @@ window.PAINEL = {
                          "dur":  "00:28:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "DE CASA LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:05:40",
+                         "out":  "14:43:24",
+                         "km":  2.68,
+                         "dur":  "00:37:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
@@ -592,6 +601,15 @@ window.PAINEL = {
                          "out":  "12:23:00",
                          "km":  2.96,
                          "dur":  "04:03:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:02:31",
+                         "out":  "14:52:22",
+                         "km":  6.74,
+                         "dur":  "00:49:00"
                      }
                  ],
     "eventos":  [
@@ -668,6 +686,14 @@ window.PAINEL = {
                         "tempo":  "01:00:08"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "13:45",
+                        "final":  "14:52",
+                        "tempo":  "01:06:58"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Manutencao",
                         "obs":  "problema elétrico no veículo não está dando partida",
@@ -737,15 +763,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:01:11"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:21"
+                        "tempo":  "01:16:14"
                     }
                 ],
     "semped":  [
@@ -798,6 +816,12 @@ window.PAINEL = {
                        "obs":  "merchandising"
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "SUPERMERCADO PARAZZI LTDA",
                        "mun":  "JUNDIAI",
@@ -828,6 +852,12 @@ window.PAINEL = {
                        "obs":  "Tentativa de ser atendido pelo comprador"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "DE CASA LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "MARTINS",
                        "mun":  "RIO CLARO",
@@ -851,61 +881,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:08:06"
+                         "tempo":  "00:23:07"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "J.F. MENDES E CIA LTDA.",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:10:46"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:00:14"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "DE PAULA FRANCA SUPERMERCADO LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:22:26"
+                         "tempo":  "00:37:27"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:15:07"
+                         "tempo":  "00:30:08"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "RN SUPERMERCADO LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:01:49"
+                         "tempo":  "00:16:50"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:25:52"
+                         "tempo":  "00:40:53"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GALASSI LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:34:55"
+                         "tempo":  "00:49:56"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:37:21"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:37:06"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "DE CASA LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:33:57"
+                         "tempo":  "00:52:22"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:03:31"
+                         "tempo":  "01:18:32"
                      }
                  ],
     "hist":  [
@@ -1006,8 +1036,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     76,
-                     18
+                     78,
+                     20
                  ]
              ],
     "historico":  {
@@ -5219,7 +5249,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5288,10 +5318,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  55.45,
-                                                       "tv":  126
+                                                       "km":  58.13,
+                                                       "tv":  163
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5330,6 +5360,15 @@ window.PAINEL = {
                                                        "tv":  226
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  9.7,
+                                                       "tv":  292
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -5346,15 +5385,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  6.09,
                                                        "tv":  225
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  2.96,
-                                                       "tv":  243
                                                    }
                                                ],
                                          "cli":  [
@@ -5569,6 +5599,13 @@ window.PAINEL = {
                                                          "tv":  28
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "DE CASA LTDA",
+                                                         "p":  0,
+                                                         "km":  2.68,
+                                                         "tv":  37
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                                                          "p":  1,
@@ -5651,6 +5688,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.96,
                                                          "tv":  243
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "48.441.595 MARCOS ROGERIO VENTURA",
+                                                         "p":  0,
+                                                         "km":  6.74,
+                                                         "tv":  49
                                                      }
                                                  ]
                                      }
