@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4226,6 +4226,15 @@
                                      "pe":  1,
                                      "km":  75.63,
                                      "tv":  47
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.85,
+                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4255,15 +4264,6 @@
                                      "tv":  15
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.88,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -4271,6 +4271,15 @@
                                      "pe":  0,
                                      "km":  2.26,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  24.65,
+                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4289,15 +4298,6 @@
                                      "pe":  0,
                                      "km":  18.22,
                                      "tv":  33
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  11.89,
-                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4396,6 +4396,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                       "p":  1,
+                                       "km":  1.97,
+                                       "tv":  148
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                        "p":  1,
@@ -4415,6 +4422,13 @@
                                        "p":  0,
                                        "km":  11.89,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MONTE BELLO NASTARO EIRELI - EPP",
+                                       "p":  0,
+                                       "km":  12.76,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Eugenio",

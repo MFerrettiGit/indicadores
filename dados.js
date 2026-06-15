@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,6 +28,20 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "10:08",
                      "tv":  "00:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  2.85,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:51",
+                     "ultimo":  "10:19",
+                     "tv":  "02:28:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0.88,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:51",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -99,6 +99,20 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  24.65,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:09",
+                     "ultimo":  "10:21",
+                     "tv":  "01:21:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -130,20 +144,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  11.89,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:09",
-                     "ultimo":  "08:57",
-                     "tv":  "00:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "09:38",
                      "ultimo":  "10:06",
                      "tv":  "00:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -279,6 +279,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "07:51:19",
+                         "out":  "10:19:46",
+                         "km":  1.97,
+                         "dur":  "02:28:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                          "mun":  "CAMPINAS",
@@ -304,6 +313,15 @@ window.PAINEL = {
                          "out":  "08:57:43",
                          "km":  11.89,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
+                         "mun":  "PIRACICABA",
+                         "in":  "09:47:17",
+                         "out":  "10:21:40",
+                         "km":  12.76,
+                         "dur":  "00:34:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -398,6 +416,12 @@ window.PAINEL = {
                        "obs":  "Estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "MARTINS",
                        "mun":  "RIO CLARO",
@@ -415,79 +439,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:35:01"
+                         "tempo":  "00:50:02"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "EDSON MARCON EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "01:36:17"
+                         "tempo":  "01:51:18"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO PENHA CENTER LTDA-ME.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:27:23"
+                         "tempo":  "00:42:24"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:26:38"
+                         "tempo":  "00:41:39"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:16:35"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "02:18:20"
+                         "tempo":  "00:31:36"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "LUCIANO FERREIRA DA SILVA MINIMERCADO",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:18:43"
+                         "tempo":  "00:33:44"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:02:18"
+                         "tempo":  "00:17:19"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:11:14"
+                         "tempo":  "01:26:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
-                         "tempo":  "01:33:01"
+                         "tempo":  "01:48:02"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:50:22"
+                         "tempo":  "02:05:23"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:03:19"
+                         "tempo":  "01:18:20"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "MONTE BELLO NASTARO EIRELI - EPP",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:22:22"
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO DA CIDADE LTDA",
+                         "mun":  "CACAPAVA",
+                         "tempo":  "00:09:26"
                      }
                  ],
     "hist":  [
@@ -588,8 +606,8 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     21,
-                     7
+                     26,
+                     8
                  ]
              ],
     "historico":  {
@@ -4801,7 +4819,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4820,6 +4838,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  75.63,
                                                        "tv":  47
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2.85,
+                                                       "tv":  148
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -4849,15 +4876,6 @@ window.PAINEL = {
                                                        "tv":  15
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.88,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -4865,6 +4883,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  2.26,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  24.65,
+                                                       "tv":  81
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -4883,15 +4910,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  18.22,
                                                        "tv":  33
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  11.89,
-                                                       "tv":  47
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -4990,6 +5008,13 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.97,
+                                                         "tv":  148
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "WANLONG COM. DE PROD ALIMENTICIOS EIRELE",
                                                          "p":  1,
@@ -5009,6 +5034,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  11.89,
                                                          "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "MONTE BELLO NASTARO EIRELI - EPP",
+                                                         "p":  0,
+                                                         "km":  12.76,
+                                                         "tv":  34
                                                      },
                                                      {
                                                          "n":  "Eugenio",
