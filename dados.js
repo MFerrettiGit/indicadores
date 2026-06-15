@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "15/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  3.84,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:32",
+                     "tv":  "03:07:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  42.66,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "11:30",
+                     "tv":  "02:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -56,34 +84,6 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "10:59",
                      "tv":  "02:01:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  1.55,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "09:23",
-                     "tv":  "01:20:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  42.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "10:30",
-                     "tv":  "01:57:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  21.39,
+                     "visitas":  2,
+                     "km":  42.7,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:18",
-                     "ultimo":  "09:35",
-                     "tv":  "00:15:00",
+                     "ultimo":  "11:25",
+                     "tv":  "01:47:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -261,6 +261,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "09:53:04",
+                         "out":  "11:25:58",
+                         "km":  21.31,
+                         "dur":  "01:32:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SM. SAO PAULO LTDA.",
                          "mun":  "FRANCA",
@@ -270,6 +279,15 @@ window.PAINEL = {
                          "dur":  "01:20:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                         "mun":  "FRANCA",
+                         "in":  "09:43:01",
+                         "out":  "11:32:13",
+                         "km":  2.29,
+                         "dur":  "01:47:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "EDSON MARCON EIRELI",
                          "mun":  "LIMEIRA",
@@ -277,6 +295,15 @@ window.PAINEL = {
                          "out":  "10:30:51",
                          "km":  40.17,
                          "dur":  "01:57:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SOUZA",
+                         "mun":  "LIMEIRA",
+                         "in":  "10:40:08",
+                         "out":  "11:30:31",
+                         "km":  0.23,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -529,61 +556,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.02",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:50:08"
+                         "tempo":  "02:04:58"
                      },
                      {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO SOUZA",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:44:38"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:41:45"
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO DALALANA ITAPIRA LTDA-EPP.",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:07:59"
                      },
                      {
                          "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:31:42"
+                         "tempo":  "00:08:51"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO IEMBO LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:07:04"
+                         "tempo":  "00:21:54"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:48:49"
+                         "tempo":  "01:03:39"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO FELTRIN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:17:25"
+                         "tempo":  "01:32:15"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:26:21"
+                         "tempo":  "02:41:11"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:05:29"
+                         "tempo":  "03:20:19"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MAGOGA HORTIFRUTI LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:18:26"
+                         "tempo":  "02:33:16"
                      }
                  ],
     "hist":  [
@@ -684,7 +705,7 @@ window.PAINEL = {
                  ],
                  [
                      "15/06",
-                     41,
+                     44,
                      12
                  ]
              ],
@@ -4897,7 +4918,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-15":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -4927,6 +4948,24 @@ window.PAINEL = {
                                                        "tv":  190
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  3.84,
+                                                       "tv":  187
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  42.66,
+                                                       "tv":  167
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -4936,31 +4975,13 @@ window.PAINEL = {
                                                        "tv":  121
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  1.55,
-                                                       "tv":  80
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  42.43,
-                                                       "tv":  117
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  21.39,
-                                                       "tv":  15
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  42.7,
+                                                       "tv":  107
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5072,6 +5093,13 @@ window.PAINEL = {
                                                          "tv":  15
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  1,
+                                                         "km":  21.31,
+                                                         "tv":  92
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SM. SAO PAULO LTDA.",
                                                          "p":  0,
@@ -5079,11 +5107,25 @@ window.PAINEL = {
                                                          "tv":  80
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                                                         "p":  1,
+                                                         "km":  2.29,
+                                                         "tv":  107
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "EDSON MARCON EIRELI",
                                                          "p":  1,
                                                          "km":  40.17,
                                                          "tv":  117
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO SOUZA",
+                                                         "p":  1,
+                                                         "km":  0.23,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Rachel",

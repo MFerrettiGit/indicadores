@@ -4207,7 +4207,7 @@
                                ]
                    },
     "2026-06-15":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4237,6 +4237,24 @@
                                      "tv":  190
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  3.84,
+                                     "tv":  187
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  42.66,
+                                     "tv":  167
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4246,31 +4264,13 @@
                                      "tv":  121
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  1.55,
-                                     "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  42.43,
-                                     "tv":  117
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  21.39,
-                                     "tv":  15
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  42.7,
+                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4382,6 +4382,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  21.31,
+                                       "tv":  92
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  0,
@@ -4389,11 +4396,25 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FRANCISLENE DE ARAUJO DAMAS-ME.",
+                                       "p":  1,
+                                       "km":  2.29,
+                                       "tv":  107
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "EDSON MARCON EIRELI",
                                        "p":  1,
                                        "km":  40.17,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO SOUZA",
+                                       "p":  1,
+                                       "km":  0.23,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Rachel",
