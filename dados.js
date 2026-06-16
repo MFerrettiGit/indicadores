@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "14:21",
                      "tv":  "05:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -42,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "12:27",
                      "tv":  "03:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -70,8 +70,8 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "11:08",
                      "tv":  "02:22:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "11:45",
                      "tv":  "03:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  107.96,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:02",
+                     "ultimo":  "14:32",
+                     "tv":  "03:16:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -141,20 +155,6 @@ window.PAINEL = {
                      "ultimo":  "13:57",
                      "tv":  "04:25:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  81.23,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "11:50",
-                     "tv":  "02:58:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "12:49",
                      "tv":  "03:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -558,6 +558,15 @@ window.PAINEL = {
                          "dur":  "01:35:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "14:14:22",
+                         "out":  "14:32:52",
+                         "km":  26.73,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
@@ -674,6 +683,14 @@ window.PAINEL = {
                         "tempo":  "00:56:02"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "14:00",
+                        "final":  "14:28",
+                        "tempo":  "00:27:13"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "holambra",
@@ -688,6 +705,14 @@ window.PAINEL = {
                         "inicio":  "11:19",
                         "final":  "12:25",
                         "tempo":  "01:05:39"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta zeferino",
+                        "inicio":  "12:37",
+                        "final":  "14:34",
+                        "tempo":  "01:57:01"
                     },
                     {
                         "nome":  "Luis",
@@ -770,28 +795,12 @@ window.PAINEL = {
                         "tempo":  "01:00:17"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta zeferino",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:47:56"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:24:23"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Outro",
                         "obs":  "Atualização de preços rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:28"
+                        "tempo":  "00:19:22"
                     }
                 ],
     "semped":  [
@@ -806,6 +815,12 @@ window.PAINEL = {
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                       "mun":  "BRAGANCA PAULIS",
+                       "obs":  "comprador afastado/saúde"
                    },
                    {
                        "nome":  "Alan",
@@ -915,43 +930,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:55:58"
+                         "tempo":  "01:10:56"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:10:25"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:01:26"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:28:13"
+                         "tempo":  "00:43:11"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:09:49"
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "tempo":  "00:09:16"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:09:37"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "C CARVALHO MERCADO",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:16"
+                         "tempo":  "00:15:14"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "M S SUPERMERCADO LTDA.",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:50"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:06:30"
+                         "tempo":  "00:21:28"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:10:53"
+                         "tempo":  "00:25:51"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "06:22:34"
+                         "tempo":  "06:37:32"
                      }
                  ],
     "hist":  [
@@ -1057,8 +1096,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     75,
-                     19
+                     77,
+                     20
                  ]
              ],
     "historico":  {
@@ -5888,7 +5927,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5972,6 +6011,15 @@ window.PAINEL = {
                                                        "tv":  259
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  107.96,
+                                                       "tv":  196
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -5979,15 +6027,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  23.93,
                                                        "tv":  265
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  81.23,
-                                                       "tv":  178
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -6292,6 +6331,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  31.35,
                                                          "tv":  95
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                                                         "p":  0,
+                                                         "km":  26.73,
+                                                         "tv":  18
                                                      },
                                                      {
                                                          "n":  "Karina",

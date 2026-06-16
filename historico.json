@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4909,6 +4909,15 @@
                                      "tv":  259
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  107.96,
+                                     "tv":  196
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -4916,15 +4925,6 @@
                                      "pe":  4,
                                      "km":  23.93,
                                      "tv":  265
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  81.23,
-                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5229,6 +5229,13 @@
                                        "p":  1,
                                        "km":  31.35,
                                        "tv":  95
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                                       "p":  0,
+                                       "km":  26.73,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Karina",
