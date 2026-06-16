@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -36,7 +36,7 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "visitas":  6,
-                     "km":  171.35,
+                     "km":  180.77,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:00",
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  73.74,
+                     "visitas":  3,
+                     "km":  130.47,
                      "semPed":  2,
-                     "perc":  100,
+                     "perc":  66.67,
                      "primeiro":  "09:21",
-                     "ultimo":  "11:57",
-                     "tv":  "02:11:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:58",
+                     "tv":  "05:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -1041,7 +1041,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:42:12"
+                        "tempo":  "01:54:28"
                     }
                 ],
     "semped":  [
@@ -1207,19 +1207,13 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:02:26"
+                         "tempo":  "00:14:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:09:52"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "03:43:33"
+                         "tempo":  "01:22:09"
                      }
                  ],
     "hist":  [
@@ -1325,7 +1319,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     118,
+                     119,
                      27
                  ]
              ],
@@ -6156,7 +6150,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6182,7 +6176,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  171.35,
+                                                       "km":  180.77,
                                                        "tv":  370
                                                    },
                                                    {
@@ -6279,10 +6273,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  73.74,
-                                                       "tv":  131
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  130.47,
+                                                       "tv":  346
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
