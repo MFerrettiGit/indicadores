@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -74,6 +74,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  78.77,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:00",
+                     "ultimo":  "14:43",
+                     "tv":  "04:22:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -88,17 +102,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  77.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:00",
-                     "ultimo":  "12:41",
-                     "tv":  "03:35:00",
-                     "emVisita":  1,
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  34.73,
+                     "semPed":  4,
+                     "perc":  66.67,
+                     "primeiro":  "08:00",
+                     "ultimo":  "14:54",
+                     "tv":  "04:49:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -116,20 +130,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  33.61,
-                     "semPed":  3,
-                     "perc":  60,
-                     "primeiro":  "08:00",
-                     "ultimo":  "14:14",
-                     "tv":  "04:19:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "14:32",
                      "tv":  "03:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "13:57",
                      "tv":  "04:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -295,6 +295,15 @@ window.PAINEL = {
                          "out":  "12:41:34",
                          "km":  0.99,
                          "dur":  "02:06:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "JOSE CARLOS NORI",
+                         "mun":  "BATATAIS",
+                         "in":  "13:55:58",
+                         "out":  "14:43:24",
+                         "km":  1.66,
+                         "dur":  "00:47:00"
                      },
                      {
                          "nome":  "Luis",
@@ -457,6 +466,15 @@ window.PAINEL = {
                          "out":  "14:14:03",
                          "km":  0.89,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "C CARVALHO MERCADO",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:23:55",
+                         "out":  "14:54:09",
+                         "km":  1.12,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Castro",
@@ -800,7 +818,7 @@ window.PAINEL = {
                         "obs":  "Atualização de preços rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:22"
+                        "tempo":  "00:34:30"
                     }
                 ],
     "semped":  [
@@ -839,6 +857,12 @@ window.PAINEL = {
                        "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "levantamento de pedido ."
+                   },
+                   {
+                       "nome":  "Alan",
+                       "razao":  "C CARVALHO MERCADO",
+                       "mun":  "CAMPINAS",
+                       "obs":  "merchandising e levantamento de pedido"
                    },
                    {
                        "nome":  "Eduardo",
@@ -930,67 +954,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:10:56"
+                         "tempo":  "01:25:57"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:10:25"
+                         "tempo":  "00:25:26"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:01:26"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "JOSE CARLOS NORI",
-                         "mun":  "BATATAIS",
-                         "tempo":  "00:43:11"
+                         "tempo":  "00:16:27"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:09:16"
+                         "tempo":  "00:24:17"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:09:37"
+                         "tempo":  "00:24:38"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "C CARVALHO MERCADO",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:15:14"
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:10:55"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MAMUTIS MERCADO E ADEGA LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:05:10"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:50"
+                         "tempo":  "00:22:51"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:21:28"
+                         "tempo":  "00:36:29"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:25:51"
+                         "tempo":  "00:40:52"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "06:37:32"
+                         "tempo":  "06:52:33"
                      }
                  ],
     "hist":  [
@@ -1096,8 +1120,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     77,
-                     20
+                     80,
+                     21
                  ]
              ],
     "historico":  {
@@ -5927,7 +5951,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5975,6 +5999,15 @@ window.PAINEL = {
                                                        "tv":  142
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  78.77,
+                                                       "tv":  262
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -5984,13 +6017,13 @@ window.PAINEL = {
                                                        "tv":  212
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
                                                        "pe":  2,
-                                                       "km":  77.11,
-                                                       "tv":  215
+                                                       "km":  34.73,
+                                                       "tv":  289
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -6000,15 +6033,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  36.1,
                                                        "tv":  241
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  2,
-                                                       "km":  33.61,
-                                                       "tv":  259
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -6128,6 +6152,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.99,
                                                          "tv":  126
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "JOSE CARLOS NORI",
+                                                         "p":  1,
+                                                         "km":  1.66,
+                                                         "tv":  47
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -6254,6 +6285,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.89,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "C CARVALHO MERCADO",
+                                                         "p":  0,
+                                                         "km":  1.12,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Castro",

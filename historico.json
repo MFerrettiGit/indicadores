@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4873,6 +4873,15 @@
                                      "tv":  142
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  78.77,
+                                     "tv":  262
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -4882,13 +4891,13 @@
                                      "tv":  212
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  6,
                                      "pe":  2,
-                                     "km":  77.11,
-                                     "tv":  215
+                                     "km":  34.73,
+                                     "tv":  289
                                  },
                                  {
                                      "nome":  "Castro",
@@ -4898,15 +4907,6 @@
                                      "pe":  2,
                                      "km":  36.1,
                                      "tv":  241
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  2,
-                                     "km":  33.61,
-                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -5026,6 +5026,13 @@
                                        "p":  1,
                                        "km":  0.99,
                                        "tv":  126
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  1.66,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Luis",
@@ -5152,6 +5159,13 @@
                                        "p":  0,
                                        "km":  0.89,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "C CARVALHO MERCADO",
+                                       "p":  0,
+                                       "km":  1.12,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Castro",
