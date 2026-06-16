@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4903,19 +4903,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  2,
-                                     "km":  34.73,
-                                     "tv":  289
+                                     "vi":  7,
+                                     "pe":  3,
+                                     "km":  43.41,
+                                     "tv":  392
                                  },
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  35.97,
-                                     "tv":  323
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  39.31,
+                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4939,10 +4939,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  16.98,
-                                     "tv":  175
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  20.09,
+                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5210,6 +5210,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LUNGA SUPERMERCADO LTDA - EPP",
+                                       "p":  1,
+                                       "km":  8.68,
+                                       "tv":  103
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                        "p":  0,
@@ -5357,6 +5364,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO TIDA LTDA",
+                                       "p":  1,
+                                       "km":  3.34,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -5376,6 +5390,13 @@
                                        "p":  1,
                                        "km":  8.68,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SM DIA CIDADE NOVA EIRELI",
+                                       "p":  1,
+                                       "km":  3.11,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Mariangela",

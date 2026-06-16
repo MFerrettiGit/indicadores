@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -119,28 +119,28 @@ window.PAINEL = {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  34.73,
+                     "visitas":  7,
+                     "km":  43.41,
                      "semPed":  4,
-                     "perc":  66.67,
+                     "perc":  57.14,
                      "primeiro":  "08:00",
-                     "ultimo":  "14:54",
-                     "tv":  "04:49:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:53",
+                     "tv":  "06:32:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  6,
-                     "km":  35.97,
+                     "visitas":  7,
+                     "km":  39.31,
                      "semPed":  1,
-                     "perc":  16.67,
+                     "perc":  14.29,
                      "primeiro":  "08:39",
-                     "ultimo":  "16:03",
-                     "tv":  "05:23:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:41",
+                     "tv":  "05:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -168,21 +168,21 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "16:33",
                      "tv":  "05:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  16.98,
+                     "visitas":  4,
+                     "km":  20.09,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:50",
-                     "ultimo":  "12:21",
-                     "tv":  "02:55:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:50",
+                     "tv":  "04:00:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -531,6 +531,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:10:44",
+                         "out":  "16:53:59",
+                         "km":  8.68,
+                         "dur":  "01:43:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                          "mun":  "LOUVEIRA",
@@ -720,6 +729,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TIDA LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:18:58",
+                         "out":  "16:41:20",
+                         "km":  3.34,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -745,6 +763,15 @@ window.PAINEL = {
                          "out":  "12:21:50",
                          "km":  8.68,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SM DIA CIDADE NOVA EIRELI",
+                         "mun":  "INDAIATUBA",
+                         "in":  "15:45:01",
+                         "out":  "16:50:51",
+                         "km":  3.11,
+                         "dur":  "01:05:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -943,7 +970,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:21"
+                        "tempo":  "00:39:31"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -951,7 +978,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:35"
+                        "tempo":  "00:28:45"
                     }
                 ],
     "semped":  [
@@ -1105,43 +1132,31 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:09:43"
+                         "tempo":  "00:24:46"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "02:01:25"
+                         "tempo":  "02:16:28"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:47:44"
+                         "tempo":  "01:02:47"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:28:24"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MERCADO TIDA LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:20:10"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SM DIA CIDADE NOVA EIRELI",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:54:07"
+                         "nome":  "Nelson",
+                         "razao":  "MERCADO SUPER BOM LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:12"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "02:25:50"
+                         "tempo":  "02:40:53"
                      }
                  ],
     "hist":  [
@@ -1247,7 +1262,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     102,
+                     107,
                      24
                  ]
              ],
@@ -6078,7 +6093,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6156,19 +6171,19 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  2,
-                                                       "km":  34.73,
-                                                       "tv":  289
+                                                       "vi":  7,
+                                                       "pe":  3,
+                                                       "km":  43.41,
+                                                       "tv":  392
                                                    },
                                                    {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  35.97,
-                                                       "tv":  323
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  39.31,
+                                                       "tv":  345
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -6192,10 +6207,10 @@ window.PAINEL = {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  16.98,
-                                                       "tv":  175
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  20.09,
+                                                       "tv":  240
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -6463,6 +6478,13 @@ window.PAINEL = {
                                                          "tv":  30
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "LUNGA SUPERMERCADO LTDA - EPP",
+                                                         "p":  1,
+                                                         "km":  8.68,
+                                                         "tv":  103
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                                          "p":  0,
@@ -6610,6 +6632,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO TIDA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.34,
+                                                         "tv":  22
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -6629,6 +6658,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.68,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SM DIA CIDADE NOVA EIRELI",
+                                                         "p":  1,
+                                                         "km":  3.11,
+                                                         "tv":  65
                                                      },
                                                      {
                                                          "n":  "Mariangela",
