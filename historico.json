@@ -4825,16 +4825,16 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  49.02,
-                                     "tv":  77
+                                     "km":  59.36,
+                                     "tv":  137
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -4900,6 +4900,15 @@
                                      "tv":  156
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  25.91,
+                                     "tv":  147
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -4907,15 +4916,6 @@
                                      "pe":  2,
                                      "km":  49.88,
                                      "tv":  83
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  25.55,
-                                     "tv":  102
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4927,6 +4927,15 @@
                                      "tv":  115
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.3,
+                                     "tv":  132
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -4934,15 +4943,6 @@
                                      "pe":  1,
                                      "km":  4.17,
                                      "tv":  138
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.93,
-                                     "tv":  54
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4970,6 +4970,13 @@
                                        "p":  0,
                                        "km":  49.02,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  0,
+                                       "km":  10.34,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Costa",
@@ -5084,6 +5091,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  0.36,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0,
@@ -5117,6 +5131,13 @@
                                        "p":  1,
                                        "km":  3.93,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "REMARO COMERCIAL LTDA",
+                                       "p":  1,
+                                       "km":  4.37,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Nelson",

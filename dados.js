@@ -1,19 +1,19 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  1,
-                     "km":  49.02,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  59.36,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:24",
-                     "ultimo":  "09:41",
-                     "tv":  "01:17:00",
+                     "ultimo":  "11:10",
+                     "tv":  "02:17:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "11:08",
                      "tv":  "02:22:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -112,7 +112,21 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "11:02",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  25.91,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:40",
+                     "ultimo":  "11:16",
+                     "tv":  "02:27:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,20 +140,6 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "09:30",
                      "tv":  "01:23:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  25.55,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:40",
-                     "ultimo":  "10:30",
-                     "tv":  "01:42:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  8.3,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:50",
+                     "ultimo":  "11:16",
+                     "tv":  "02:12:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "10:58",
                      "tv":  "02:18:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  3.93,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:50",
-                     "ultimo":  "09:45",
-                     "tv":  "00:54:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -223,6 +223,15 @@ window.PAINEL = {
                          "out":  "09:41:13",
                          "km":  49.02,
                          "dur":  "01:17:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:10:05",
+                         "out":  "11:10:20",
+                         "km":  10.34,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Costa",
@@ -369,6 +378,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                         "mun":  "LOUVEIRA",
+                         "in":  "10:31:02",
+                         "out":  "11:16:55",
+                         "km":  0.36,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -412,6 +430,15 @@ window.PAINEL = {
                          "out":  "09:45:43",
                          "km":  3.93,
                          "dur":  "00:54:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "REMARO COMERCIAL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "09:58:33",
+                         "out":  "11:16:50",
+                         "km":  4.37,
+                         "dur":  "01:18:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -463,7 +490,15 @@ window.PAINEL = {
                         "obs":  "São Miguel Arcando a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:13"
+                        "tempo":  "00:35:24"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:10"
                     }
                 ],
     "semped":  [
@@ -498,6 +533,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Rachel",
                        "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                        "mun":  "SANTO ANTONIO D",
@@ -528,6 +569,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                       "mun":  "LOUVEIRA",
+                       "obs":  "visita merchandising"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
@@ -537,63 +584,69 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Eduardo",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:59:08"
+                         "tempo":  "00:01:52"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "BRAIT",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:24:12"
+                         "tempo":  "00:39:13"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:07:46"
+                         "tempo":  "00:22:47"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:33:48"
+                         "tempo":  "00:48:49"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:40:29"
+                         "tempo":  "01:55:30"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JADE CAROLINE CONFELLA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:56:02"
+                         "tempo":  "01:11:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "COMERCIAL A. C. DE LIMA",
                          "mun":  "PEDRA BELA",
-                         "tempo":  "00:53:59"
+                         "tempo":  "01:09:00"
                      },
                      {
-                         "nome":  "Lucas",
-                         "razao":  "REMARO COMERCIAL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "01:10:40"
+                         "nome":  "Alan",
+                         "razao":  "G DE A SANTOS MERCADO",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:08"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ROCHA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:11:43"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                         "razao":  "SUPERMERCADO LOUVEIRA LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:38:11"
+                         "tempo":  "00:06:15"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "03:07:36"
+                         "tempo":  "03:22:37"
                      }
                  ],
     "hist":  [
@@ -699,8 +752,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     37,
-                     11
+                     41,
+                     13
                  ]
              ],
     "historico":  {
@@ -5530,16 +5583,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  49.02,
-                                                       "tv":  77
+                                                       "km":  59.36,
+                                                       "tv":  137
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -5605,6 +5658,15 @@ window.PAINEL = {
                                                        "tv":  156
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  25.91,
+                                                       "tv":  147
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -5612,15 +5674,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  49.88,
                                                        "tv":  83
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  25.55,
-                                                       "tv":  102
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -5632,6 +5685,15 @@ window.PAINEL = {
                                                        "tv":  115
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  8.3,
+                                                       "tv":  132
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -5639,15 +5701,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  4.17,
                                                        "tv":  138
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  3.93,
-                                                       "tv":  54
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5675,6 +5728,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  49.02,
                                                          "tv":  77
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                                         "p":  0,
+                                                         "km":  10.34,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -5789,6 +5849,13 @@ window.PAINEL = {
                                                          "tv":  71
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0.36,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0,
@@ -5822,6 +5889,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.93,
                                                          "tv":  54
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "REMARO COMERCIAL LTDA",
+                                                         "p":  1,
+                                                         "km":  4.37,
+                                                         "tv":  78
                                                      },
                                                      {
                                                          "n":  "Nelson",
