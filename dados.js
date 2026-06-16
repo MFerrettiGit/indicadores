@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -28,7 +28,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "09:19",
                      "tv":  "01:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "09:19",
                      "tv":  "00:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -102,6 +102,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  49.88,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "09:30",
+                     "tv":  "01:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -112,20 +126,6 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "09:12",
                      "tv":  "01:11:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  49.58,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "08:38",
-                     "tv":  "00:35:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -277,6 +277,15 @@ window.PAINEL = {
                          "out":  "08:38:45",
                          "km":  22.27,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SM SUPERMERCADOS MENDONCA LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "08:41:09",
+                         "out":  "09:30:00",
+                         "km":  0.3,
+                         "dur":  "00:48:00"
                      }
                  ],
     "eventos":  [
@@ -336,79 +345,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:00:02"
+                         "tempo":  "01:15:01"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:09:31"
+                         "tempo":  "01:24:30"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:30:13"
+                         "tempo":  "00:45:12"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:11:25"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:23:55"
+                         "tempo":  "00:38:54"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO DE PENIDO LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "tempo":  "00:10:26"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:24:24"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SM SUPERMERCADOS MENDONCA LTDA",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:43:02"
+                         "tempo":  "01:39:23"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:03"
+                         "tempo":  "00:21:02"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:44:14"
+                         "tempo":  "00:59:13"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:33:31"
+                         "tempo":  "00:48:30"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
                          "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "00:41:44"
+                         "tempo":  "00:56:43"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:05:54"
+                         "tempo":  "00:20:53"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "00:02:33"
+                         "tempo":  "00:17:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:22:34"
+                         "tempo":  "01:37:33"
                      }
                  ],
     "hist":  [
@@ -514,7 +529,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     12,
+                     16,
                      4
                  ]
              ],
@@ -5345,7 +5360,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5411,6 +5426,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  49.88,
+                                                       "tv":  83
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -5418,15 +5442,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  13.96,
                                                        "tv":  71
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  49.58,
-                                                       "tv":  35
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -5532,6 +5547,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  22.27,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SM SUPERMERCADOS MENDONCA LTDA",
+                                                         "p":  1,
+                                                         "km":  0.3,
+                                                         "tv":  48
                                                      }
                                                  ]
                                      }

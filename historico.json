@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4891,6 +4891,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  49.88,
+                                     "tv":  83
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -4898,15 +4907,6 @@
                                      "pe":  0,
                                      "km":  13.96,
                                      "tv":  71
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  49.58,
-                                     "tv":  35
                                  },
                                  {
                                      "nome":  "Castro",
@@ -5012,6 +5012,13 @@
                                        "p":  1,
                                        "km":  22.27,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SM SUPERMERCADOS MENDONCA LTDA",
+                                       "p":  1,
+                                       "km":  0.3,
+                                       "tv":  48
                                    }
                                ]
                    }
