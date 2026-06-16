@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  49.02,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:24",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:41",
+                     "tv":  "01:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  13.41,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:14",
+                     "ultimo":  "09:48",
+                     "tv":  "01:34:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -68,20 +82,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "07:59",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:14",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  3.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:50",
+                     "ultimo":  "09:45",
+                     "tv":  "00:54:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -186,20 +200,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:50",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -215,6 +215,15 @@ window.PAINEL = {
                  }
              ],
     "checkins":  [
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:24:09",
+                         "out":  "09:41:13",
+                         "km":  49.02,
+                         "dur":  "01:17:00"
+                     },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
@@ -243,6 +252,15 @@ window.PAINEL = {
                          "dur":  "00:59:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "F.M.TRES SUPERMERCADO LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "08:14:40",
+                         "out":  "09:48:50",
+                         "km":  13.41,
+                         "dur":  "01:34:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "SANTO ANTONIO D",
@@ -250,6 +268,15 @@ window.PAINEL = {
                          "out":  "08:29:41",
                          "km":  26.39,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "mun":  "HOLAMBRA",
+                         "in":  "08:53:58",
+                         "out":  "09:54:39",
+                         "km":  16.86,
+                         "dur":  "00:59:00"
                      },
                      {
                          "nome":  "Alan",
@@ -286,6 +313,15 @@ window.PAINEL = {
                          "out":  "09:30:00",
                          "km":  0.3,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:50:40",
+                         "out":  "09:45:43",
+                         "km":  3.93,
+                         "dur":  "00:54:00"
                      }
                  ],
     "eventos":  [
@@ -316,10 +352,22 @@ window.PAINEL = {
                 ],
     "semped":  [
                    {
+                       "nome":  "Maira",
+                       "razao":  "F.M.TRES SUPERMERCADO LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
                        "nome":  "Alan",
                        "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                        "mun":  "CAMPINAS",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
                    },
                    {
                        "nome":  "Rachel",
@@ -342,88 +390,70 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:15:01"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "F.M.TRES SUPERMERCADO LTDA",
-                         "mun":  "AMERICANA",
-                         "tempo":  "01:24:30"
-                     },
-                     {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:45:12"
+                         "tempo":  "01:00:11"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:11:25"
+                         "tempo":  "00:26:24"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:38:54"
+                         "tempo":  "00:53:53"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:10:26"
+                         "tempo":  "00:25:25"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:39:23"
+                         "tempo":  "01:54:22"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:21:02"
+                         "tempo":  "00:36:01"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:59:13"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:48:30"
+                         "tempo":  "01:14:12"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
                          "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "00:56:43"
+                         "tempo":  "01:11:42"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:20:53"
+                         "tempo":  "00:35:52"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "00:17:32"
+                         "tempo":  "00:32:31"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:37:33"
+                         "tempo":  "01:52:32"
                      }
                  ],
     "hist":  [
@@ -529,8 +559,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     16,
-                     4
+                     20,
+                     6
                  ]
              ],
     "historico":  {
@@ -5360,16 +5390,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  49.02,
+                                                       "tv":  77
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -5390,6 +5420,15 @@ window.PAINEL = {
                                                        "tv":  15
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  13.41,
+                                                       "tv":  94
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -5405,15 +5444,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  1.95,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -5453,6 +5483,15 @@ window.PAINEL = {
                                                        "tv":  31
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  3.93,
+                                                       "tv":  54
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -5480,15 +5519,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -5499,6 +5529,13 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                                         "p":  0,
+                                                         "km":  49.02,
+                                                         "tv":  77
+                                                     },
                                                      {
                                                          "n":  "Costa",
                                                          "r":  "EXAMINE SUPERMERCADOS LTDA",
@@ -5521,11 +5558,25 @@ window.PAINEL = {
                                                          "tv":  59
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "F.M.TRES SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  13.41,
+                                                         "tv":  94
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                                          "p":  0,
                                                          "km":  26.39,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                                         "p":  1,
+                                                         "km":  16.86,
+                                                         "tv":  59
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -5554,6 +5605,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.3,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  3.93,
+                                                         "tv":  54
                                                      }
                                                  ]
                                      }

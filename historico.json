@@ -4825,16 +4825,16 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  49.02,
+                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Costa",
@@ -4855,6 +4855,15 @@
                                      "tv":  15
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  13.41,
+                                     "tv":  94
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -4870,15 +4879,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.95,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -4918,6 +4918,15 @@
                                      "tv":  31
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  3.93,
+                                     "tv":  54
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -4945,15 +4954,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -4964,6 +4964,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                       "p":  0,
+                                       "km":  49.02,
+                                       "tv":  77
+                                   },
                                    {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
@@ -4986,11 +4993,25 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "F.M.TRES SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  13.41,
+                                       "tv":  94
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                        "p":  0,
                                        "km":  26.39,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                       "p":  1,
+                                       "km":  16.86,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Alan",
@@ -5019,6 +5040,13 @@
                                        "p":  1,
                                        "km":  0.3,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  3.93,
+                                       "tv":  54
                                    }
                                ]
                    }
