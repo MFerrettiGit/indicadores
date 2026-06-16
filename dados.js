@@ -1,14 +1,14 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "visitas":  4,
-                     "km":  69.52,
+                     "km":  132.14,
                      "semPed":  3,
                      "perc":  75,
                      "primeiro":  "08:24",
@@ -1041,7 +1041,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:54:28"
+                        "tempo":  "02:09:30"
                     }
                 ],
     "semped":  [
@@ -1207,13 +1207,13 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:14:43"
+                         "tempo":  "00:29:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:22:09"
+                         "tempo":  "01:37:09"
                      }
                  ],
     "hist":  [
@@ -6150,7 +6150,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6158,7 +6158,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  4,
                                                        "pe":  1,
-                                                       "km":  69.52,
+                                                       "km":  132.14,
                                                        "tv":  385
                                                    },
                                                    {
