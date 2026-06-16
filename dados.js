@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -91,13 +91,13 @@ window.PAINEL = {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  21.52,
+                     "visitas":  1,
+                     "km":  76.12,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "09:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "10:29",
+                     "tv":  "01:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "10:07",
                      "tv":  "02:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -133,13 +133,13 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  19.75,
+                     "visitas":  2,
+                     "km":  25.55,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "08:40",
-                     "ultimo":  "09:12",
-                     "tv":  "00:31:00",
+                     "ultimo":  "10:30",
+                     "tv":  "01:42:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -243,6 +243,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
+                         "mun":  "BATATAIS",
+                         "in":  "09:00:16",
+                         "out":  "10:29:56",
+                         "km":  54.6,
+                         "dur":  "01:29:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
@@ -322,6 +331,15 @@ window.PAINEL = {
                          "out":  "09:12:42",
                          "km":  19.75,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
+                         "mun":  "LOUVEIRA",
+                         "in":  "09:18:17",
+                         "out":  "10:30:11",
+                         "km":  5.8,
+                         "dur":  "01:11:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -435,79 +453,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:04"
+                         "tempo":  "00:29:04"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "COMERCIAL REMAFRA LTDA.",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:24:22"
+                         "tempo":  "00:39:22"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:56:24"
+                         "tempo":  "01:11:24"
                      },
                      {
                          "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
+                         "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "01:23:53"
+                         "tempo":  "00:03:44"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:55:25"
+                         "tempo":  "01:10:25"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JADE CAROLINE CONFELLA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:10:58"
+                         "tempo":  "00:25:58"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "COMERCIAL A. C. DE LIMA",
                          "mun":  "PEDRA BELA",
-                         "tempo":  "00:08:55"
+                         "tempo":  "00:23:55"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "S M DOS SANTOS MERC- ME",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:48"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:44:12"
+                         "tempo":  "01:59:12"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "REMARO COMERCIAL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:25:36"
+                         "tempo":  "00:40:36"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SOL POENTE ATACADO E VAREJO LTDA",
                          "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "00:13:41"
+                         "tempo":  "00:28:41"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "01:05:52"
+                         "tempo":  "00:08:07"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "01:02:31"
+                         "tempo":  "01:17:31"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "02:22:32"
+                         "tempo":  "02:37:32"
                      }
                  ],
     "hist":  [
@@ -613,7 +637,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     25,
+                     27,
                      7
                  ]
              ],
@@ -5444,7 +5468,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5504,10 +5528,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.52,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  76.12,
+                                                       "tv":  89
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -5531,10 +5555,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  19.75,
-                                                       "tv":  31
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  25.55,
+                                                       "tv":  102
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -5605,6 +5629,13 @@ window.PAINEL = {
                                                          "tv":  40
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
+                                                         "p":  1,
+                                                         "km":  54.6,
+                                                         "tv":  89
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                                          "p":  0,
@@ -5666,6 +5697,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  19.75,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
+                                                         "p":  1,
+                                                         "km":  5.8,
+                                                         "tv":  71
                                                      },
                                                      {
                                                          "n":  "Eugenio",

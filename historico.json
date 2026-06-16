@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4885,10 +4885,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.52,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  76.12,
+                                     "tv":  89
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4912,10 +4912,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  19.75,
-                                     "tv":  31
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  25.55,
+                                     "tv":  102
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4986,6 +4986,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
+                                       "p":  1,
+                                       "km":  54.6,
+                                       "tv":  89
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -5047,6 +5054,13 @@
                                        "p":  0,
                                        "km":  19.75,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
+                                       "p":  1,
+                                       "km":  5.8,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Eugenio",
