@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4894,19 +4894,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  1,
-                                     "km":  26.26,
-                                     "tv":  189
+                                     "km":  26.45,
+                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  29.73,
-                                     "tv":  156
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  32.72,
+                                     "tv":  228
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4918,6 +4918,24 @@
                                      "tv":  178
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  16.98,
+                                     "tv":  175
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  12.53,
+                                     "tv":  199
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -4927,15 +4945,6 @@
                                      "tv":  115
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.3,
-                                     "tv":  132
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -4943,15 +4952,6 @@
                                      "pe":  0,
                                      "km":  73.74,
                                      "tv":  131
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.17,
-                                     "tv":  138
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -5098,6 +5098,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "G DE A SANTOS MERCADO",
+                                       "p":  1,
+                                       "km":  2.99,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                        "p":  0,
@@ -5124,6 +5131,13 @@
                                        "p":  0,
                                        "km":  0.35,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                       "p":  0,
+                                       "km":  0.19,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Cominato",
@@ -5168,6 +5182,13 @@
                                        "tv":  138
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "ROCHA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  8.36,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -5180,6 +5201,13 @@
                                        "p":  1,
                                        "km":  4.37,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                                       "p":  1,
+                                       "km":  8.68,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Nelson",

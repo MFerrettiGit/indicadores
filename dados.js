@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -105,28 +105,28 @@ window.PAINEL = {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  26.26,
-                     "semPed":  3,
-                     "perc":  75,
+                     "visitas":  5,
+                     "km":  26.45,
+                     "semPed":  4,
+                     "perc":  80,
                      "primeiro":  "08:40",
-                     "ultimo":  "12:00",
-                     "tv":  "03:09:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:22",
+                     "tv":  "03:27:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  29.73,
+                     "visitas":  4,
+                     "km":  32.72,
                      "semPed":  2,
-                     "perc":  66.67,
+                     "perc":  50,
                      "primeiro":  "08:00",
-                     "ultimo":  "11:02",
-                     "tv":  "02:36:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:22",
+                     "tv":  "03:48:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -140,6 +140,34 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "11:50",
                      "tv":  "02:58:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  16.98,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:50",
+                     "ultimo":  "12:21",
+                     "tv":  "02:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  12.53,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:39",
+                     "ultimo":  "12:14",
+                     "tv":  "03:19:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -158,20 +186,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  8.3,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:50",
-                     "ultimo":  "11:16",
-                     "tv":  "02:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -184,20 +198,6 @@ window.PAINEL = {
                      "tv":  "02:11:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  4.17,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:39",
-                     "ultimo":  "10:58",
-                     "tv":  "02:18:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -387,6 +387,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "G DE A SANTOS MERCADO",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:10:06",
+                         "out":  "12:22:31",
+                         "km":  2.99,
+                         "dur":  "01:12:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                          "mun":  "LOUVEIRA",
@@ -421,6 +430,15 @@ window.PAINEL = {
                          "out":  "12:00:24",
                          "km":  0.35,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO LOUVEIRA LTDA",
+                         "mun":  "LOUVEIRA",
+                         "in":  "12:03:18",
+                         "out":  "12:22:00",
+                         "km":  0.19,
+                         "dur":  "00:18:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -477,6 +495,15 @@ window.PAINEL = {
                          "dur":  "02:18:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "ROCHA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "11:12:31",
+                         "out":  "12:14:19",
+                         "km":  8.36,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -493,6 +520,15 @@ window.PAINEL = {
                          "out":  "11:16:50",
                          "km":  4.37,
                          "dur":  "01:18:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "11:38:04",
+                         "out":  "12:21:50",
+                         "km":  8.68,
+                         "dur":  "00:43:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -552,7 +588,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:59"
+                        "tempo":  "01:04:58"
                     },
                     {
                         "nome":  "Cominato",
@@ -560,7 +596,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:26"
+                        "tempo":  "00:22:25"
                     },
                     {
                         "nome":  "Luis",
@@ -568,7 +604,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:18"
+                        "tempo":  "00:17:17"
                     }
                 ],
     "semped":  [
@@ -651,6 +687,12 @@ window.PAINEL = {
                        "obs":  "visita merchandising"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "SUPERMERCADO LOUVEIRA LTDA",
+                       "mun":  "LOUVEIRA",
+                       "obs":  "visita merchandising"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "TATUI",
@@ -668,61 +710,37 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:46:45"
+                         "tempo":  "01:01:43"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:24:10"
+                         "tempo":  "00:39:08"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "01:33:42"
+                         "tempo":  "01:48:40"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "02:40:23"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "G DE A SANTOS MERCADO",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:59:01"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "ROCHA SUPERMERCADO LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:56:36"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:31:03"
+                         "tempo":  "02:55:21"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:37:42"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO LOUVEIRA LTDA",
-                         "mun":  "LOUVEIRA",
-                         "tempo":  "00:05:49"
+                         "tempo":  "00:52:40"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "04:07:30"
+                         "tempo":  "04:22:28"
                      }
                  ],
     "hist":  [
@@ -828,8 +846,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     52,
-                     15
+                     57,
+                     16
                  ]
              ],
     "historico":  {
@@ -5659,7 +5677,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5728,19 +5746,19 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  1,
-                                                       "km":  26.26,
-                                                       "tv":  189
+                                                       "km":  26.45,
+                                                       "tv":  207
                                                    },
                                                    {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  29.73,
-                                                       "tv":  156
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  32.72,
+                                                       "tv":  228
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5752,6 +5770,24 @@ window.PAINEL = {
                                                        "tv":  178
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  16.98,
+                                                       "tv":  175
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  12.53,
+                                                       "tv":  199
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -5761,15 +5797,6 @@ window.PAINEL = {
                                                        "tv":  115
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  8.3,
-                                                       "tv":  132
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -5777,15 +5804,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  73.74,
                                                        "tv":  131
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  4.17,
-                                                       "tv":  138
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -5932,6 +5950,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "G DE A SANTOS MERCADO",
+                                                         "p":  1,
+                                                         "km":  2.99,
+                                                         "tv":  72
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                                          "p":  0,
@@ -5958,6 +5983,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.35,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                                         "p":  0,
+                                                         "km":  0.19,
+                                                         "tv":  18
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -6002,6 +6034,13 @@ window.PAINEL = {
                                                          "tv":  138
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "ROCHA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  8.36,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -6014,6 +6053,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.37,
                                                          "tv":  78
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                                                         "p":  1,
+                                                         "km":  8.68,
+                                                         "tv":  43
                                                      },
                                                      {
                                                          "n":  "Nelson",
