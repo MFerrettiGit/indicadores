@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4835,6 +4835,15 @@
                                      "pe":  1,
                                      "km":  69.52,
                                      "tv":  385
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  55.92,
+                                     "tv":  421
                                  },
                                  {
                                      "nome":  "Maira",
@@ -4853,15 +4862,6 @@
                                      "pe":  5,
                                      "km":  109.95,
                                      "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  55,
-                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4930,10 +4930,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  91.71,
-                                     "tv":  192
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  96.63,
+                                     "tv":  313
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -5019,6 +5019,13 @@
                                        "p":  1,
                                        "km":  0.66,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO JAIR TOLEDO LTDA",
+                                       "p":  1,
+                                       "km":  0.92,
+                                       "tv":  120
                                    },
                                    {
                                        "n":  "Fernando",
@@ -5397,6 +5404,13 @@
                                        "p":  1,
                                        "km":  42.69,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "M S SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.92,
+                                       "tv":  121
                                    }
                                ]
                    }

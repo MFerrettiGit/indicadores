@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  55.92,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:03",
+                     "ultimo":  "16:30",
+                     "tv":  "07:01:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -28,7 +42,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "15:06",
                      "tv":  "04:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -43,20 +57,6 @@ window.PAINEL = {
                      "ultimo":  "16:21",
                      "tv":  "05:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  55,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:03",
-                     "ultimo":  "14:21",
-                     "tv":  "05:01:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "16:04",
                      "tv":  "05:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -161,14 +161,14 @@ window.PAINEL = {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  91.71,
+                     "visitas":  4,
+                     "km":  96.63,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:42",
-                     "ultimo":  "12:49",
-                     "tv":  "03:12:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:33",
+                     "tv":  "05:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -286,6 +286,15 @@ window.PAINEL = {
                          "out":  "14:21:15",
                          "km":  0.66,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "14:29:53",
+                         "out":  "16:30:10",
+                         "km":  0.92,
+                         "dur":  "02:00:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -772,6 +781,15 @@ window.PAINEL = {
                          "out":  "12:49:24",
                          "km":  42.69,
                          "dur":  "01:17:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "M S SUPERMERCADO LTDA.",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:31:19",
+                         "out":  "16:33:14",
+                         "km":  4.92,
+                         "dur":  "02:01:00"
                      }
                  ],
     "eventos":  [
@@ -925,7 +943,15 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:44"
+                        "tempo":  "00:24:21"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:35"
                     }
                 ],
     "semped":  [
@@ -1076,52 +1102,46 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Maira",
+                         "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:09:43"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:46:42"
+                         "tempo":  "02:01:25"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:33:01"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
-                         "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:54:32"
+                         "tempo":  "00:47:44"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:13:41"
+                         "tempo":  "01:28:24"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TIDA LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:05:27"
+                         "tempo":  "00:20:10"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:39:24"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "M S SUPERMERCADO LTDA.",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:53:06"
+                         "tempo":  "00:54:07"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "02:11:07"
+                         "tempo":  "02:25:50"
                      }
                  ],
     "hist":  [
@@ -1227,7 +1247,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     100,
+                     102,
                      24
                  ]
              ],
@@ -6058,7 +6078,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6068,6 +6088,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  69.52,
                                                        "tv":  385
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  55.92,
+                                                       "tv":  421
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -6086,15 +6115,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  109.95,
                                                        "tv":  326
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  55,
-                                                       "tv":  301
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -6163,10 +6183,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  91.71,
-                                                       "tv":  192
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  96.63,
+                                                       "tv":  313
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -6252,6 +6272,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.66,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERCADO JAIR TOLEDO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.92,
+                                                         "tv":  120
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -6630,6 +6657,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  42.69,
                                                          "tv":  77
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "M S SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.92,
+                                                         "tv":  121
                                                      }
                                                  ]
                                      }
