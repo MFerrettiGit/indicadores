@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  33.53,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:14",
+                     "ultimo":  "17:34",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -29,20 +43,6 @@ window.PAINEL = {
                      "ultimo":  "16:30",
                      "tv":  "07:01:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  27.75,
-                     "semPed":  3,
-                     "perc":  60,
-                     "primeiro":  "08:14",
-                     "ultimo":  "15:06",
-                     "tv":  "04:02:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -74,6 +74,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  107.2,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:14",
+                     "ultimo":  "17:31",
+                     "tv":  "05:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -88,17 +102,17 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  45.12,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:14",
-                     "ultimo":  "11:08",
-                     "tv":  "02:22:00",
-                     "emVisita":  1,
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  8,
+                     "km":  47.27,
+                     "semPed":  2,
+                     "perc":  25,
+                     "primeiro":  "08:39",
+                     "ultimo":  "17:35",
+                     "tv":  "06:01:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -130,20 +144,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  7,
-                     "km":  39.31,
-                     "semPed":  1,
-                     "perc":  14.29,
-                     "primeiro":  "08:39",
-                     "ultimo":  "16:41",
-                     "tv":  "05:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -158,6 +158,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  5,
+                     "km":  24.75,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:50",
+                     "ultimo":  "17:34",
+                     "tv":  "04:31:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "16:33",
                      "tv":  "05:13:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  20.09,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:50",
-                     "ultimo":  "16:50",
-                     "tv":  "04:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -432,6 +432,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "16:29:25",
+                         "out":  "17:34:09",
+                         "km":  5.78,
+                         "dur":  "01:04:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "SANTO ANTONIO D",
@@ -457,6 +466,15 @@ window.PAINEL = {
                          "out":  "11:08:15",
                          "km":  1.68,
                          "dur":  "01:08:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "14:37:43",
+                         "out":  "17:31:23",
+                         "km":  62.08,
+                         "dur":  "02:52:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -747,6 +765,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:18:12",
+                         "out":  "17:35:25",
+                         "km":  7.96,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -781,6 +808,15 @@ window.PAINEL = {
                          "out":  "16:50:51",
                          "km":  3.11,
                          "dur":  "01:05:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "PF MINIMERCADO PONTO CERTO LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "17:02:37",
+                         "out":  "17:34:02",
+                         "km":  4.66,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -979,7 +1015,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:09:29"
+                        "tempo":  "01:26:39"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -987,7 +1023,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:43"
+                        "tempo":  "01:15:53"
                     }
                 ],
     "semped":  [
@@ -1046,6 +1082,12 @@ window.PAINEL = {
                        "obs":  "comprador é o Carlinhos dono... só se encontra por volta das 10h"
                    },
                    {
+                       "nome":  "Karina",
+                       "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                       "mun":  "CARAGUATATUBA",
+                       "obs":  "gerente não estava"
+                   },
+                   {
                        "nome":  "Eduardo",
                        "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                        "mun":  "CAMPINAS",
@@ -1068,6 +1110,12 @@ window.PAINEL = {
                        "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                        "mun":  "SANTO ANTONIO D",
                        "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                       "mun":  "ITAPIRA",
+                       "obs":  "reunião aumento de mix"
                    },
                    {
                        "nome":  "Luis",
@@ -1138,46 +1186,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:54:45"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
-                         "mun":  "ITAPIRA",
-                         "tempo":  "02:46:27"
-                     },
-                     {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:18:08"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:05:58"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "PF MINIMERCADO PONTO CERTO LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:21:33"
+                         "tempo":  "00:35:19"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:37:11"
+                         "tempo":  "00:54:22"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "03:10:52"
+                         "tempo":  "03:28:03"
                      }
                  ],
     "hist":  [
@@ -1283,8 +1307,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     112,
-                     25
+                     117,
+                     27
                  ]
              ],
     "historico":  {
@@ -6114,7 +6138,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6126,6 +6150,15 @@ window.PAINEL = {
                                                        "tv":  385
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  33.53,
+                                                       "tv":  306
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -6133,15 +6166,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  55.92,
                                                        "tv":  421
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  2,
-                                                       "km":  27.75,
-                                                       "tv":  242
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -6162,6 +6186,15 @@ window.PAINEL = {
                                                        "tv":  326
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  107.2,
+                                                       "tv":  314
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -6171,13 +6204,13 @@ window.PAINEL = {
                                                        "tv":  306
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  45.12,
-                                                       "tv":  142
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  8,
+                                                       "pe":  6,
+                                                       "km":  47.27,
+                                                       "tv":  361
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -6198,15 +6231,6 @@ window.PAINEL = {
                                                        "tv":  392
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  6,
-                                                       "km":  39.31,
-                                                       "tv":  345
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -6216,6 +6240,15 @@ window.PAINEL = {
                                                        "tv":  228
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  24.75,
+                                                       "tv":  271
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -6223,15 +6256,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  96.63,
                                                        "tv":  313
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  20.09,
-                                                       "tv":  240
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -6422,6 +6446,13 @@ window.PAINEL = {
                                                          "tv":  37
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                                         "p":  1,
+                                                         "km":  5.78,
+                                                         "tv":  64
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                                          "p":  0,
@@ -6441,6 +6472,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.68,
                                                          "tv":  68
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                                         "p":  0,
+                                                         "km":  62.08,
+                                                         "tv":  172
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -6667,6 +6705,13 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                                         "p":  0,
+                                                         "km":  7.96,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO SUMERBOL LTDA",
                                                          "p":  1,
@@ -6693,6 +6738,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.11,
                                                          "tv":  65
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "PF MINIMERCADO PONTO CERTO LTDA",
+                                                         "p":  1,
+                                                         "km":  4.66,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Mariangela",

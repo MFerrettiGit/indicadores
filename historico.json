@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4837,6 +4837,15 @@
                                      "tv":  385
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  33.53,
+                                     "tv":  306
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4844,15 +4853,6 @@
                                      "pe":  5,
                                      "km":  55.92,
                                      "tv":  421
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  2,
-                                     "km":  27.75,
-                                     "tv":  242
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4873,6 +4873,15 @@
                                      "tv":  326
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  107.2,
+                                     "tv":  314
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -4882,13 +4891,13 @@
                                      "tv":  306
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  45.12,
-                                     "tv":  142
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  8,
+                                     "pe":  6,
+                                     "km":  47.27,
+                                     "tv":  361
                                  },
                                  {
                                      "nome":  "Castro",
@@ -4909,15 +4918,6 @@
                                      "tv":  392
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  6,
-                                     "km":  39.31,
-                                     "tv":  345
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -4927,6 +4927,15 @@
                                      "tv":  228
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  24.75,
+                                     "tv":  271
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -4934,15 +4943,6 @@
                                      "pe":  3,
                                      "km":  96.63,
                                      "tv":  313
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  20.09,
-                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5133,6 +5133,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                       "p":  1,
+                                       "km":  5.78,
+                                       "tv":  64
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                        "p":  0,
@@ -5152,6 +5159,13 @@
                                        "p":  1,
                                        "km":  1.68,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                       "p":  0,
+                                       "km":  62.08,
+                                       "tv":  172
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -5378,6 +5392,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                       "p":  0,
+                                       "km":  7.96,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -5404,6 +5425,13 @@
                                        "p":  1,
                                        "km":  3.11,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "PF MINIMERCADO PONTO CERTO LTDA",
+                                       "p":  1,
+                                       "km":  4.66,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Mariangela",
