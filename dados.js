@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  17.73,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:19",
+                     "ultimo":  "17:17",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "16:21",
                      "tv":  "05:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  15.8,
-                     "semPed":  3,
-                     "perc":  75,
-                     "primeiro":  "08:19",
-                     "ultimo":  "14:20",
-                     "tv":  "04:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -140,7 +140,7 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "16:41",
                      "tv":  "05:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -376,6 +376,15 @@ window.PAINEL = {
                          "out":  "14:20:13",
                          "km":  4.62,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "15:51:24",
+                         "out":  "17:17:21",
+                         "km":  1.93,
+                         "dur":  "01:25:00"
                      },
                      {
                          "nome":  "Maira",
@@ -970,7 +979,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:04"
+                        "tempo":  "01:09:29"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -978,7 +987,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:18"
+                        "tempo":  "00:58:43"
                     }
                 ],
     "semped":  [
@@ -1132,43 +1141,43 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:39:16"
+                         "tempo":  "00:54:45"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "02:30:58"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:17:17"
+                         "tempo":  "02:46:27"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:02:39"
+                         "tempo":  "00:18:08"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:05:58"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "PF MINIMERCADO PONTO CERTO LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:06:04"
+                         "tempo":  "00:21:33"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:21:42"
+                         "tempo":  "00:37:11"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "02:55:23"
+                         "tempo":  "03:10:52"
                      }
                  ],
     "hist":  [
@@ -1274,8 +1283,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     109,
-                     24
+                     112,
+                     25
                  ]
              ],
     "historico":  {
@@ -6105,7 +6114,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6135,6 +6144,15 @@ window.PAINEL = {
                                                        "tv":  242
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  17.73,
+                                                       "tv":  326
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -6142,15 +6160,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  109.95,
                                                        "tv":  326
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  1,
-                                                       "km":  15.8,
-                                                       "tv":  241
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -6369,6 +6378,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.62,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.93,
+                                                         "tv":  85
                                                      },
                                                      {
                                                          "n":  "Maira",

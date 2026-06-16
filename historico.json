@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4855,6 +4855,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  17.73,
+                                     "tv":  326
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -4862,15 +4871,6 @@
                                      "pe":  5,
                                      "km":  109.95,
                                      "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  15.8,
-                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -5089,6 +5089,13 @@
                                        "p":  0,
                                        "km":  4.62,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  1.93,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Maira",
