@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  24.98,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:14",
+                     "ultimo":  "12:27",
+                     "tv":  "03:25:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  54.34,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:03",
+                     "ultimo":  "12:38",
+                     "tv":  "04:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -30,20 +58,6 @@ window.PAINEL = {
                      "tv":  "02:22:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  22.96,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:14",
-                     "ultimo":  "11:35",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -71,20 +85,6 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "03:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  53.27,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:03",
-                     "ultimo":  "09:19",
-                     "tv":  "01:12:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -127,7 +127,7 @@ window.PAINEL = {
                      "ultimo":  "12:22",
                      "tv":  "03:48:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -252,6 +252,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO DE PENIDO LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "09:28:44",
+                         "out":  "12:38:33",
+                         "km":  1.07,
+                         "dur":  "03:09:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                          "mun":  "BATATAIS",
@@ -313,6 +322,15 @@ window.PAINEL = {
                          "out":  "11:35:57",
                          "km":  9.05,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                         "mun":  "AMERICANA",
+                         "in":  "11:44:57",
+                         "out":  "12:27:47",
+                         "km":  2.02,
+                         "dur":  "00:42:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -559,6 +577,14 @@ window.PAINEL = {
                         "tempo":  "00:27:31"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "11:19",
+                        "final":  "12:25",
+                        "tempo":  "01:05:39"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a São Miguel Arcando",
@@ -583,20 +609,12 @@ window.PAINEL = {
                         "tempo":  "00:47:14"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:04:58"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:25"
+                        "tempo":  "00:37:27"
                     },
                     {
                         "nome":  "Luis",
@@ -604,7 +622,23 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:17"
+                        "tempo":  "00:32:19"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta zeferino",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:32"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:47"
                     }
                 ],
     "semped":  [
@@ -710,37 +744,25 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:01:43"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "BRAIT E PELISSON LTDA - LOJA 02.",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:39:08"
+                         "tempo":  "01:16:45"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "01:48:40"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "SUPERMERCADO DE PENIDO LTDA",
-                         "mun":  "SANTA GERTRUDES",
-                         "tempo":  "02:55:21"
+                         "tempo":  "02:03:42"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:52:40"
+                         "tempo":  "01:07:42"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "04:22:28"
+                         "tempo":  "04:37:30"
                      }
                  ],
     "hist":  [
@@ -846,7 +868,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     57,
+                     59,
                      16
                  ]
              ],
@@ -5677,7 +5699,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5689,6 +5711,24 @@ window.PAINEL = {
                                                        "tv":  137
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  24.98,
+                                                       "tv":  205
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  54.34,
+                                                       "tv":  261
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -5696,15 +5736,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  45.12,
                                                        "tv":  142
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  22.96,
-                                                       "tv":  163
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -5723,15 +5754,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  8.05,
                                                        "tv":  212
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  53.27,
-                                                       "tv":  72
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -5845,6 +5867,13 @@ window.PAINEL = {
                                                          "tv":  40
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                                         "p":  1,
+                                                         "km":  1.07,
+                                                         "tv":  189
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                                                          "p":  1,
@@ -5892,6 +5921,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.05,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                                                         "p":  1,
+                                                         "km":  2.02,
+                                                         "tv":  42
                                                      },
                                                      {
                                                          "n":  "Rachel",

@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4837,6 +4837,24 @@
                                      "tv":  137
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  24.98,
+                                     "tv":  205
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  54.34,
+                                     "tv":  261
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4844,15 +4862,6 @@
                                      "pe":  2,
                                      "km":  45.12,
                                      "tv":  142
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  22.96,
-                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4871,15 +4880,6 @@
                                      "pe":  2,
                                      "km":  8.05,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  53.27,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -4993,6 +4993,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                       "p":  1,
+                                       "km":  1.07,
+                                       "tv":  189
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                                        "p":  1,
@@ -5040,6 +5047,13 @@
                                        "p":  1,
                                        "km":  9.05,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "BRAIT E PELISSON LTDA - LOJA 02.",
+                                       "p":  1,
+                                       "km":  2.02,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Rachel",
