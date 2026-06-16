@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -18,6 +18,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  5,
+                     "km":  27.75,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:14",
+                     "ultimo":  "15:06",
+                     "tv":  "04:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -28,20 +42,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "14:21",
                      "tv":  "05:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  4,
-                     "km":  24.98,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:14",
-                     "ultimo":  "12:27",
-                     "tv":  "03:25:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -376,6 +376,15 @@ window.PAINEL = {
                          "out":  "12:27:47",
                          "km":  2.02,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "14:28:44",
+                         "out":  "15:06:13",
+                         "km":  2.77,
+                         "dur":  "00:37:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -818,7 +827,7 @@ window.PAINEL = {
                         "obs":  "Atualização de preços rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:30"
+                        "tempo":  "00:50:02"
                     }
                 ],
     "semped":  [
@@ -831,6 +840,12 @@ window.PAINEL = {
                    {
                        "nome":  "Maira",
                        "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
                        "mun":  "AMERICANA",
                        "obs":  "comprador ausente"
                    },
@@ -954,67 +969,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:25:57"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:25:26"
+                         "tempo":  "01:41:11"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:16:27"
+                         "tempo":  "00:31:41"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:24:17"
+                         "tempo":  "00:39:31"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:24:38"
+                         "tempo":  "00:39:52"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:10:55"
+                         "tempo":  "00:26:09"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MAMUTIS MERCADO E ADEGA LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:05:10"
+                         "tempo":  "00:20:24"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:22:51"
+                         "tempo":  "00:38:05"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:36:29"
+                         "tempo":  "00:51:43"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:40:52"
+                         "tempo":  "00:56:06"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "06:52:33"
+                         "tempo":  "07:07:47"
                      }
                  ],
     "hist":  [
@@ -1120,8 +1129,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     80,
-                     21
+                     83,
+                     22
                  ]
              ],
     "historico":  {
@@ -5951,7 +5960,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5963,6 +5972,15 @@ window.PAINEL = {
                                                        "tv":  244
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  27.75,
+                                                       "tv":  242
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -5970,15 +5988,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  55,
                                                        "tv":  301
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  24.98,
-                                                       "tv":  205
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -6215,6 +6224,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.02,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                                                         "p":  0,
+                                                         "km":  2.77,
+                                                         "tv":  37
                                                      },
                                                      {
                                                          "n":  "Rachel",

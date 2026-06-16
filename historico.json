@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4837,6 +4837,15 @@
                                      "tv":  244
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  27.75,
+                                     "tv":  242
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4844,15 +4853,6 @@
                                      "pe":  4,
                                      "km":  55,
                                      "tv":  301
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  24.98,
-                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Luis",
@@ -5089,6 +5089,13 @@
                                        "p":  1,
                                        "km":  2.02,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO SAO JUDAS DE AMERICANA LTDA",
+                                       "p":  0,
+                                       "km":  2.77,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Rachel",
