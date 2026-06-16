@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4864,6 +4864,15 @@
                                      "tv":  113
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.97,
+                                     "tv":  136
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -4871,15 +4880,6 @@
                                      "pe":  1,
                                      "km":  6.67,
                                      "tv":  120
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.12,
-                                     "tv":  59
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -4921,10 +4921,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  47.62,
-                                     "tv":  78
+                                     "km":  49.02,
+                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -4998,6 +4998,13 @@
                                        "p":  0,
                                        "km":  3.96,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.85,
+                                       "tv":  77
                                    },
                                    {
                                        "n":  "Maira",
@@ -5089,6 +5096,13 @@
                                        "p":  1,
                                        "km":  45.73,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SOL POENTE ATACADO E VAREJO LTDA",
+                                       "p":  0,
+                                       "km":  1.4,
+                                       "tv":  37
                                    }
                                ]
                    }

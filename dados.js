@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -56,6 +56,20 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "10:14",
                      "tv":  "01:53:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  8.97,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:19",
+                     "ultimo":  "10:45",
+                     "tv":  "02:16:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -70,20 +84,6 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "10:00",
                      "tv":  "02:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  6.12,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:19",
-                     "ultimo":  "09:19",
-                     "tv":  "00:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -147,15 +147,15 @@ window.PAINEL = {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  47.62,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  2,
+                     "km":  49.02,
+                     "semPed":  1,
+                     "perc":  50,
                      "primeiro":  "08:42",
-                     "ultimo":  "10:00",
-                     "tv":  "01:18:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "10:48",
+                     "tv":  "01:55:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -259,6 +259,15 @@ window.PAINEL = {
                          "out":  "09:19:44",
                          "km":  3.96,
                          "dur":  "00:59:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "09:27:45",
+                         "out":  "10:45:40",
+                         "km":  2.85,
+                         "dur":  "01:17:00"
                      },
                      {
                          "nome":  "Maira",
@@ -376,6 +385,15 @@ window.PAINEL = {
                          "out":  "10:00:48",
                          "km":  45.73,
                          "dur":  "01:18:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "SOL POENTE ATACADO E VAREJO LTDA",
+                         "mun":  "SAO MIGUEL ARCA",
+                         "in":  "10:10:28",
+                         "out":  "10:48:32",
+                         "km":  1.4,
+                         "dur":  "00:37:00"
                      }
                  ],
     "eventos":  [
@@ -402,6 +420,14 @@ window.PAINEL = {
                         "inicio":  "08:12",
                         "final":  "09:00",
                         "tempo":  "00:47:14"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Miguel Arcando a Itapetininga",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:03"
                     }
                 ],
     "semped":  [
@@ -442,6 +468,18 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "SOL POENTE ATACADO E VAREJO LTDA",
+                       "mun":  "SAO MIGUEL ARCA",
+                       "obs":  "cliente estocado"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                        "mun":  "LOUVEIRA",
@@ -453,85 +491,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:29:04"
+                         "tempo":  "00:44:03"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "BRAIT",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:09:07"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "COMERCIAL REMAFRA LTDA.",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:39:22"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:11:24"
+                         "tempo":  "00:54:21"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:03:44"
+                         "tempo":  "00:18:43"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:10:25"
+                         "tempo":  "01:25:24"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JADE CAROLINE CONFELLA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:25:58"
+                         "tempo":  "00:40:57"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "COMERCIAL A. C. DE LIMA",
                          "mun":  "PEDRA BELA",
-                         "tempo":  "00:23:55"
+                         "tempo":  "00:38:54"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "S M DOS SANTOS MERC- ME",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:13:48"
+                         "tempo":  "00:28:47"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:59:12"
+                         "tempo":  "02:14:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "REMARO COMERCIAL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:40:36"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "SOL POENTE ATACADO E VAREJO LTDA",
-                         "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "00:28:41"
+                         "tempo":  "00:55:35"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "ZARELLI SUPERMERCADOS LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:08:07"
+                         "tempo":  "00:23:06"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "01:17:31"
+                         "tempo":  "01:32:30"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "02:37:32"
+                         "tempo":  "02:52:31"
                      }
                  ],
     "hist":  [
@@ -637,8 +669,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     27,
-                     7
+                     31,
+                     9
                  ]
              ],
     "historico":  {
@@ -5468,7 +5500,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5507,6 +5539,15 @@ window.PAINEL = {
                                                        "tv":  113
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  8.97,
+                                                       "tv":  136
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -5514,15 +5555,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  6.67,
                                                        "tv":  120
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  6.12,
-                                                       "tv":  59
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -5564,10 +5596,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  1,
-                                                       "km":  47.62,
-                                                       "tv":  78
+                                                       "km":  49.02,
+                                                       "tv":  115
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -5641,6 +5673,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.96,
                                                          "tv":  59
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  2.85,
+                                                         "tv":  77
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -5732,6 +5771,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  45.73,
                                                          "tv":  78
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "SOL POENTE ATACADO E VAREJO LTDA",
+                                                         "p":  0,
+                                                         "km":  1.4,
+                                                         "tv":  37
                                                      }
                                                  ]
                                      }
