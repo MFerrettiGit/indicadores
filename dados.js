@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "08:15",
+    "dataHora":  "08:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -46,17 +46,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "visitas":  0,
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:14",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -67,24 +67,10 @@ window.PAINEL = {
                      "km":  0.19,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:14",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -95,11 +81,25 @@ window.PAINEL = {
                      "km":  2.16,
                      "semPed":  0,
                      "perc":  null,
+                     "primeiro":  "08:19",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  0,
+                     "km":  21.52,
+                     "semPed":  0,
+                     "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -222,9 +222,9 @@ window.PAINEL = {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "holambra",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:24:19"
+                        "inicio":  "07:45",
+                        "final":  "08:12",
+                        "tempo":  "00:27:31"
                     },
                     {
                         "nome":  "Nelson",
@@ -232,7 +232,15 @@ window.PAINEL = {
                         "obs":  "Itapetininga a São Miguel Arcando",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:28"
+                        "tempo":  "00:23:07"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "viagem para Batatais",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:26"
                     }
                 ],
     "semped":  [
@@ -240,34 +248,52 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Maira",
+                         "razao":  "F.M.TRES SUPERMERCADO LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:08:58"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "SANTO ANTONIO D",
+                         "tempo":  "00:09:28"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:03:58"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:05:19"
+                         "tempo":  "00:19:51"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:09:19"
+                         "tempo":  "00:23:51"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:06:18"
+                         "tempo":  "00:20:50"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:43"
+                         "tempo":  "00:23:15"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:07:29"
+                         "tempo":  "00:22:01"
                      }
                  ],
     "hist":  [
@@ -5204,7 +5230,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "08:15",
+                                         "dataHora":  "08:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5234,8 +5260,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -5252,21 +5278,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  2.16,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  21.52,
                                                        "tv":  0
                                                    },
                                                    {
