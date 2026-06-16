@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,6 +32,20 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  22.96,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:14",
+                     "ultimo":  "11:35",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -42,20 +56,6 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "09:19",
                      "tv":  "01:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  13.91,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:14",
-                     "ultimo":  "10:14",
-                     "tv":  "01:53:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -154,8 +154,8 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "10:48",
                      "tv":  "01:55:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -168,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:50",
                      "ultimo":  "11:16",
                      "tv":  "02:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "primeiro":  "09:21",
                      "ultimo":  "11:05",
                      "tv":  "01:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -295,6 +295,15 @@ window.PAINEL = {
                          "out":  "10:14:20",
                          "km":  0.5,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "BRAIT",
+                         "mun":  "AMERICANA",
+                         "in":  "10:45:01",
+                         "out":  "11:35:57",
+                         "km":  9.05,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -477,6 +486,14 @@ window.PAINEL = {
                         "tempo":  "00:40:42"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Miguel Arcando a Itapetininga",
+                        "inicio":  "10:49",
+                        "final":  "11:30",
+                        "tempo":  "00:40:53"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Batatais",
@@ -485,20 +502,12 @@ window.PAINEL = {
                         "tempo":  "00:47:14"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Miguel Arcando a Itapetininga",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:24"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:10"
+                        "tempo":  "00:19:55"
                     }
                 ],
     "semped":  [
@@ -586,67 +595,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:01:52"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "BRAIT",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:39:13"
+                         "tempo":  "00:16:45"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:22:47"
+                         "tempo":  "00:37:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:48:49"
+                         "tempo":  "01:03:42"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:55:30"
+                         "tempo":  "02:10:23"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JADE CAROLINE CONFELLA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:11:03"
+                         "tempo":  "01:25:56"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "COMERCIAL A. C. DE LIMA",
                          "mun":  "PEDRA BELA",
-                         "tempo":  "01:09:00"
+                         "tempo":  "01:23:53"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "G DE A SANTOS MERCADO",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:08"
+                         "tempo":  "00:29:01"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROCHA SUPERMERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:11:43"
+                         "tempo":  "00:26:36"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:01:03"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:42"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:06:15"
+                         "tempo":  "00:21:08"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:10:37"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "03:22:37"
+                         "tempo":  "03:37:30"
                      }
                  ],
     "hist":  [
@@ -752,7 +773,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     41,
+                     43,
                      13
                  ]
              ],
@@ -5583,7 +5604,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5604,6 +5625,15 @@ window.PAINEL = {
                                                        "tv":  142
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  22.96,
+                                                       "tv":  163
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -5611,15 +5641,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  53.27,
                                                        "tv":  72
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  13.91,
-                                                       "tv":  113
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -5784,6 +5805,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.5,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "BRAIT",
+                                                         "p":  1,
+                                                         "km":  9.05,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Rachel",
