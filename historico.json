@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4837,6 +4837,15 @@
                                      "tv":  77
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  45.12,
+                                     "tv":  142
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4844,15 +4853,6 @@
                                      "pe":  2,
                                      "km":  53.27,
                                      "tv":  72
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  43.44,
-                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Maira",
@@ -4894,10 +4894,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  14.69,
-                                     "tv":  120
+                                     "km":  29.73,
+                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4927,6 +4927,15 @@
                                      "tv":  115
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.17,
+                                     "tv":  138
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -4936,30 +4945,21 @@
                                      "tv":  54
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  69.29,
+                                     "tv":  103
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.27,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.01,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  4.65,
                                      "tv":  0
                                  }
                              ],
@@ -5035,6 +5035,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "COMERCIAL REMAFRA LTDA.",
+                                       "p":  1,
+                                       "km":  1.68,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "JAMIR ANTONIO BISCALCHIN-ME.",
                                        "p":  1,
@@ -5056,6 +5063,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "S M DOS SANTOS MERC- ME",
+                                       "p":  0,
+                                       "km":  15.04,
+                                       "tv":  36
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                        "p":  0,
@@ -5070,6 +5084,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  64.64,
+                                       "tv":  103
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                                        "p":  1,
@@ -5082,6 +5103,13 @@
                                        "p":  1,
                                        "km":  0.3,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
+                                       "p":  1,
+                                       "km":  2.16,
+                                       "tv":  138
                                    },
                                    {
                                        "n":  "Lucas",
