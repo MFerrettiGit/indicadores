@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4840,10 +4840,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  52.5,
-                                     "tv":  32
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  53.27,
+                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -4853,6 +4853,15 @@
                                      "pe":  0,
                                      "km":  26.58,
                                      "tv":  15
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  6.12,
+                                     "tv":  59
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4873,15 +4882,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.16,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -4889,6 +4889,15 @@
                                      "pe":  0,
                                      "km":  21.52,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  13.96,
+                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4900,13 +4909,13 @@
                                      "tv":  35
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  19.75,
+                                     "tv":  31
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -4924,15 +4933,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.01,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -4972,11 +4972,39 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
+                                       "p":  1,
+                                       "km":  0.77,
+                                       "tv":  40
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  3.96,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                        "p":  0,
                                        "km":  26.39,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                                       "p":  0,
+                                       "km":  13.96,
+                                       "tv":  71
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA.",
+                                       "p":  0,
+                                       "km":  19.75,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Eugenio",

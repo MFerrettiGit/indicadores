@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -21,14 +21,14 @@ window.PAINEL = {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  52.5,
+                     "visitas":  2,
+                     "km":  53.27,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
-                     "ultimo":  "08:36",
-                     "tv":  "00:32:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:19",
+                     "tv":  "01:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -43,6 +43,20 @@ window.PAINEL = {
                      "ultimo":  "08:29",
                      "tv":  "00:15:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  6.12,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:19",
+                     "ultimo":  "09:19",
+                     "tv":  "00:59:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  2.16,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:19",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -98,6 +98,20 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  13.96,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:00",
+                     "ultimo":  "09:12",
+                     "tv":  "01:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -116,16 +130,16 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:00",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "visitas":  1,
+                     "km":  19.75,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:40",
+                     "ultimo":  "09:12",
+                     "tv":  "00:31:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -152,20 +166,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:39",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:40",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -207,10 +207,10 @@ window.PAINEL = {
                      "km":  4.65,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:21",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -225,6 +225,24 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
+                         "mun":  "SANTA GERTRUDES",
+                         "in":  "08:39:43",
+                         "out":  "09:19:51",
+                         "km":  0.77,
+                         "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "08:19:40",
+                         "out":  "09:19:44",
+                         "km":  3.96,
+                         "dur":  "00:59:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "SANTO ANTONIO D",
@@ -232,6 +250,24 @@ window.PAINEL = {
                          "out":  "08:29:41",
                          "km":  26.39,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:00:23",
+                         "out":  "09:12:22",
+                         "km":  13.96,
+                         "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
+                         "mun":  "LOUVEIRA",
+                         "in":  "08:40:34",
+                         "out":  "09:12:42",
+                         "km":  19.75,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -271,10 +307,28 @@ window.PAINEL = {
                 ],
     "semped":  [
                    {
+                       "nome":  "Alan",
+                       "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                       "mun":  "CAMPINAS",
+                       "obs":  "comprador ausente"
+                   },
+                   {
                        "nome":  "Rachel",
                        "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                        "mun":  "SANTO ANTONIO D",
                        "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Castro",
+                       "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
+                       "mun":  "LOUVEIRA",
+                       "obs":  "estocado"
                    }
                ],
     "emvisita":  [
@@ -282,85 +336,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:45:01"
+                         "tempo":  "01:00:02"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:54:30"
+                         "tempo":  "01:09:31"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:15:12"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:49:30"
+                         "tempo":  "00:30:13"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:08:54"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
-                         "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:29:27"
+                         "tempo":  "00:23:55"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:09:23"
+                         "tempo":  "01:24:24"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SM SUPERMERCADOS MENDONCA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:28:01"
+                         "tempo":  "00:43:02"
                      },
                      {
                          "nome":  "Alan",
-                         "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                         "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:08:47"
+                         "tempo":  "00:06:03"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:29:13"
+                         "tempo":  "00:44:14"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:18:30"
+                         "tempo":  "00:33:31"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
                          "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "00:26:43"
+                         "tempo":  "00:41:44"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
+                         "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:28:36"
+                         "tempo":  "00:05:54"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "TATUI",
+                         "tempo":  "00:02:33"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:07:33"
+                         "tempo":  "01:22:34"
                      }
                  ],
     "hist":  [
@@ -466,8 +514,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     7,
-                     1
+                     12,
+                     4
                  ]
              ],
     "historico":  {
@@ -5297,7 +5345,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5312,10 +5360,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  52.5,
-                                                       "tv":  32
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  53.27,
+                                                       "tv":  72
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -5325,6 +5373,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  26.58,
                                                        "tv":  15
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  6.12,
+                                                       "tv":  59
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -5345,15 +5402,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.16,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -5361,6 +5409,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  21.52,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  13.96,
+                                                       "tv":  71
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5372,13 +5429,13 @@ window.PAINEL = {
                                                        "tv":  35
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  19.75,
+                                                       "tv":  31
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -5396,15 +5453,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  2.01,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -5444,11 +5492,39 @@ window.PAINEL = {
                                                          "tv":  32
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
+                                                         "p":  1,
+                                                         "km":  0.77,
+                                                         "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  3.96,
+                                                         "tv":  59
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                                          "p":  0,
                                                          "km":  26.39,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
+                                                         "p":  0,
+                                                         "km":  13.96,
+                                                         "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO LOUVEIRA LTDA.",
+                                                         "p":  0,
+                                                         "km":  19.75,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Eugenio",
