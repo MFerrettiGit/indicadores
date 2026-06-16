@@ -4825,16 +4825,16 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  63.74,
-                                     "tv":  244
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  69.52,
+                                     "tv":  385
                                  },
                                  {
                                      "nome":  "Maira",
@@ -4891,6 +4891,15 @@
                                      "tv":  212
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  2,
+                                     "km":  58.72,
+                                     "tv":  329
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -4898,15 +4907,6 @@
                                      "pe":  2,
                                      "km":  34.73,
                                      "tv":  289
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  2,
-                                     "km":  36.1,
-                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4986,6 +4986,13 @@
                                        "tv":  107
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  5.78,
+                                       "tv":  141
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -5033,6 +5040,13 @@
                                        "p":  1,
                                        "km":  1.66,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ELDER I. DE SOUZA",
+                                       "p":  1,
+                                       "km":  30.51,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Luis",
@@ -5215,6 +5229,13 @@
                                        "p":  0,
                                        "km":  9.65,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  22.62,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Cominato",
