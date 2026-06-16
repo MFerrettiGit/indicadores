@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -43,7 +43,7 @@ window.PAINEL = {
                      "ultimo":  "12:38",
                      "tv":  "04:21:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -85,21 +85,21 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "03:32:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  76.12,
+                     "visitas":  2,
+                     "km":  77.11,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:00",
-                     "ultimo":  "10:29",
-                     "tv":  "01:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "12:41",
+                     "tv":  "03:35:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -113,7 +113,7 @@ window.PAINEL = {
                      "ultimo":  "12:22",
                      "tv":  "03:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  91.71,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:42",
+                     "ultimo":  "12:49",
+                     "tv":  "03:12:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -168,20 +182,6 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "12:14",
                      "tv":  "03:19:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  49.02,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:42",
-                     "ultimo":  "10:48",
-                     "tv":  "01:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -268,6 +268,15 @@ window.PAINEL = {
                          "out":  "10:29:56",
                          "km":  54.6,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "JOSE CARLOS NORI",
+                         "mun":  "BATATAIS",
+                         "in":  "10:35:25",
+                         "out":  "12:41:34",
+                         "km":  0.99,
+                         "dur":  "02:06:00"
                      },
                      {
                          "nome":  "Luis",
@@ -565,6 +574,15 @@ window.PAINEL = {
                          "out":  "10:48:32",
                          "km":  1.4,
                          "dur":  "00:37:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "11:31:25",
+                         "out":  "12:49:24",
+                         "km":  42.69,
+                         "dur":  "01:17:00"
                      }
                  ],
     "eventos":  [
@@ -614,7 +632,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:27"
+                        "tempo":  "00:52:28"
                     },
                     {
                         "nome":  "Luis",
@@ -622,7 +640,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:19"
+                        "tempo":  "00:47:20"
                     },
                     {
                         "nome":  "Rachel",
@@ -630,7 +648,7 @@ window.PAINEL = {
                         "obs":  "proposta zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:32"
+                        "tempo":  "00:17:33"
                     },
                     {
                         "nome":  "Alan",
@@ -638,7 +656,39 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:47"
+                        "tempo":  "00:16:48"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:21"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:30"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:20"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:20"
                     }
                 ],
     "semped":  [
@@ -744,25 +794,19 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:16:45"
+                         "tempo":  "01:31:44"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "JOSE CARLOS NORI",
-                         "mun":  "BATATAIS",
-                         "tempo":  "02:03:42"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:07:42"
+                         "nome":  "Karina",
+                         "razao":  "IZABEL CRISTINA NASCIMENTO ROCHA LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:14:44"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "04:37:30"
+                         "tempo":  "04:52:29"
                      }
                  ],
     "hist":  [
@@ -868,7 +912,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     59,
+                     62,
                      16
                  ]
              ],
@@ -5699,7 +5743,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5759,10 +5803,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  76.12,
-                                                       "tv":  89
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  77.11,
+                                                       "tv":  215
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -5792,6 +5836,15 @@ window.PAINEL = {
                                                        "tv":  178
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  91.71,
+                                                       "tv":  192
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -5808,15 +5861,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  12.53,
                                                        "tv":  199
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  49.02,
-                                                       "tv":  115
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5879,6 +5923,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  54.6,
                                                          "tv":  89
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "JOSE CARLOS NORI",
+                                                         "p":  1,
+                                                         "km":  0.99,
+                                                         "tv":  126
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -6110,6 +6161,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.4,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                                         "p":  1,
+                                                         "km":  42.69,
+                                                         "tv":  77
                                                      }
                                                  ]
                                      }

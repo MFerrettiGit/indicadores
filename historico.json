@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4885,10 +4885,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  76.12,
-                                     "tv":  89
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  77.11,
+                                     "tv":  215
                                  },
                                  {
                                      "nome":  "Castro",
@@ -4918,6 +4918,15 @@
                                      "tv":  178
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  91.71,
+                                     "tv":  192
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -4934,15 +4943,6 @@
                                      "pe":  2,
                                      "km":  12.53,
                                      "tv":  199
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  49.02,
-                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5005,6 +5005,13 @@
                                        "p":  1,
                                        "km":  54.6,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  0.99,
+                                       "tv":  126
                                    },
                                    {
                                        "n":  "Luis",
@@ -5236,6 +5243,13 @@
                                        "p":  0,
                                        "km":  1.4,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                       "p":  1,
+                                       "km":  42.69,
+                                       "tv":  77
                                    }
                                ]
                    }
