@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4855,6 +4855,24 @@
                                      "tv":  163
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  11.18,
+                                     "tv":  180
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.05,
+                                     "tv":  212
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4862,24 +4880,6 @@
                                      "pe":  2,
                                      "km":  53.27,
                                      "tv":  72
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.97,
-                                     "tv":  136
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.67,
-                                     "tv":  120
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -4891,6 +4891,15 @@
                                      "tv":  89
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  26.26,
+                                     "tv":  189
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -4900,22 +4909,13 @@
                                      "tv":  156
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  25.91,
-                                     "tv":  147
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  49.88,
-                                     "tv":  83
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  81.23,
+                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -4936,6 +4936,15 @@
                                      "tv":  132
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  73.74,
+                                     "tv":  131
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -4943,15 +4952,6 @@
                                      "pe":  1,
                                      "km":  4.17,
                                      "tv":  138
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  69.29,
-                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -5014,6 +5014,13 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "COMERCIAL 3D LTDA",
+                                       "p":  1,
+                                       "km":  2.21,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "F.M.TRES SUPERMERCADO LTDA",
                                        "p":  0,
@@ -5063,6 +5070,13 @@
                                        "tv":  120
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JADE CAROLINE CONFELLA",
+                                       "p":  1,
+                                       "km":  1.38,
+                                       "tv":  92
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                                        "p":  0,
@@ -5105,11 +5119,25 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                       "p":  0,
+                                       "km":  0.35,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0,
                                        "km":  64.64,
                                        "tv":  103
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  4.45,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -5124,6 +5152,13 @@
                                        "p":  1,
                                        "km":  0.3,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "COMERCIAL A. C. DE LIMA",
+                                       "p":  1,
+                                       "km":  31.35,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Karina",
