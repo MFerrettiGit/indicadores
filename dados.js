@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "10:15",
+    "dataHora":  "10:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -14,7 +14,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "09:41",
                      "tv":  "01:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -46,6 +46,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "visitas":  2,
+                     "km":  13.91,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:14",
+                     "ultimo":  "10:14",
+                     "tv":  "01:53:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -56,20 +70,6 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "10:00",
                      "tv":  "02:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  13.41,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:14",
-                     "ultimo":  "09:48",
-                     "tv":  "01:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "09:30",
                      "tv":  "01:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:42",
                      "ultimo":  "10:00",
                      "tv":  "01:18:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,15 @@ window.PAINEL = {
                          "out":  "09:48:50",
                          "km":  13.41,
                          "dur":  "01:34:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "09:54:16",
+                         "out":  "10:14:20",
+                         "km":  0.5,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -385,6 +394,12 @@ window.PAINEL = {
                        "obs":  "comprador ausente"
                    },
                    {
+                       "nome":  "Maira",
+                       "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                       "mun":  "AMERICANA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
                        "nome":  "Alan",
                        "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                        "mun":  "CAMPINAS",
@@ -417,64 +432,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:14:50"
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:04"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "COMERCIAL REMAFRA LTDA.",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:09:19"
+                         "tempo":  "00:24:22"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:41:21"
+                         "tempo":  "00:56:24"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                          "mun":  "BATATAIS",
-                         "tempo":  "01:08:50"
+                         "tempo":  "01:23:53"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:40:22"
+                         "tempo":  "00:55:25"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JADE CAROLINE CONFELLA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:10:58"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "COMERCIAL A. C. DE LIMA",
+                         "mun":  "PEDRA BELA",
+                         "tempo":  "00:08:55"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:29:09"
+                         "tempo":  "01:44:12"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "REMARO COMERCIAL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:10:33"
+                         "tempo":  "00:25:36"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "SOL POENTE ATACADO E VAREJO LTDA",
+                         "mun":  "SAO MIGUEL ARCA",
+                         "tempo":  "00:13:41"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:50:49"
+                         "tempo":  "01:05:52"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "00:47:28"
+                         "tempo":  "01:02:31"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "02:07:29"
+                         "tempo":  "02:22:32"
                      }
                  ],
     "hist":  [
@@ -580,8 +613,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     24,
-                     6
+                     25,
+                     7
                  ]
              ],
     "historico":  {
@@ -5411,7 +5444,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "10:15",
+                                         "dataHora":  "10:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5441,6 +5474,15 @@ window.PAINEL = {
                                                        "tv":  74
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  13.91,
+                                                       "tv":  113
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -5448,15 +5490,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  6.67,
                                                        "tv":  120
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  13.41,
-                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -5584,6 +5617,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  13.41,
                                                          "tv":  94
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  0.5,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Rachel",

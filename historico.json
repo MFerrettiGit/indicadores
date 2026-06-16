@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4855,6 +4855,15 @@
                                      "tv":  74
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  13.91,
+                                     "tv":  113
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -4862,15 +4871,6 @@
                                      "pe":  1,
                                      "km":  6.67,
                                      "tv":  120
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  13.41,
-                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Luis",
@@ -4998,6 +4998,13 @@
                                        "p":  0,
                                        "km":  13.41,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  0.5,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Rachel",
