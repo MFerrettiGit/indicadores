@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4846,6 +4846,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  109.95,
+                                     "tv":  326
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -4862,15 +4871,6 @@
                                      "pe":  1,
                                      "km":  15.8,
                                      "tv":  241
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  109.28,
-                                     "tv":  304
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4957,10 +4957,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.27,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  5.42,
+                                     "tv":  490
                                  }
                              ],
                        "cli":  [
@@ -5047,6 +5047,13 @@
                                        "p":  1,
                                        "km":  30.51,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ELDER I. DE SOUZA",
+                                       "p":  1,
+                                       "km":  0.67,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Luis",
@@ -5362,6 +5369,13 @@
                                        "p":  1,
                                        "km":  8.68,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  5.15,
+                                       "tv":  490
                                    },
                                    {
                                        "n":  "Nelson",
