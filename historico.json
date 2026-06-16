@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4849,10 +4849,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  43.44,
+                                     "tv":  74
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
                                      "vi":  1,
-                                     "pe":  0,
-                                     "km":  26.58,
-                                     "tv":  15
+                                     "pe":  1,
+                                     "km":  6.67,
+                                     "tv":  120
                                  },
                                  {
                                      "nome":  "Maira",
@@ -4873,15 +4882,6 @@
                                      "tv":  59
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.95,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -4889,6 +4889,15 @@
                                      "pe":  0,
                                      "km":  21.52,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  14.69,
+                                     "tv":  120
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -4900,15 +4909,6 @@
                                      "tv":  83
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  13.96,
-                                     "tv":  71
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -4916,6 +4916,15 @@
                                      "pe":  0,
                                      "km":  19.75,
                                      "tv":  31
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  47.62,
+                                     "tv":  78
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -4942,15 +4951,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.01,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.89,
                                      "tv":  0
                                  },
                                  {
@@ -5014,11 +5014,25 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JAMIR ANTONIO BISCALCHIN-ME.",
+                                       "p":  1,
+                                       "km":  4.72,
+                                       "tv":  120
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                                        "p":  0,
                                        "km":  13.96,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
+                                       "p":  1,
+                                       "km":  0.73,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Castro",
@@ -5047,6 +5061,13 @@
                                        "p":  1,
                                        "km":  3.93,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
+                                       "p":  1,
+                                       "km":  45.73,
+                                       "tv":  78
                                    }
                                ]
                    }

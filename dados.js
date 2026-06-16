@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -35,14 +35,28 @@ window.PAINEL = {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
-                     "visitas":  1,
-                     "km":  26.58,
+                     "visitas":  2,
+                     "km":  43.44,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "08:14",
-                     "ultimo":  "08:29",
-                     "tv":  "00:15:00",
+                     "ultimo":  "09:54",
+                     "tv":  "01:14:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  1,
+                     "km":  6.67,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:59",
+                     "ultimo":  "10:00",
+                     "tv":  "02:00:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -74,20 +88,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  0,
-                     "km":  1.95,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:59",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -99,6 +99,20 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "visitas":  2,
+                     "km":  14.69,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:00",
+                     "ultimo":  "10:07",
+                     "tv":  "02:00:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -116,20 +130,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  13.96,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:00",
-                     "ultimo":  "09:12",
-                     "tv":  "01:11:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -144,6 +144,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  47.62,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:42",
+                     "ultimo":  "10:00",
+                     "tv":  "01:18:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -154,7 +168,7 @@ window.PAINEL = {
                      "primeiro":  "08:50",
                      "ultimo":  "09:45",
                      "tv":  "00:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,20 +194,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:39",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  1.89,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:42",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -279,6 +279,15 @@ window.PAINEL = {
                          "dur":  "00:59:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "07:59:47",
+                         "out":  "10:00:24",
+                         "km":  4.72,
+                         "dur":  "02:00:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                          "mun":  "CAMPINAS",
@@ -286,6 +295,15 @@ window.PAINEL = {
                          "out":  "09:12:22",
                          "km":  13.96,
                          "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:18:08",
+                         "out":  "10:07:35",
+                         "km":  0.73,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Castro",
@@ -322,6 +340,15 @@ window.PAINEL = {
                          "out":  "09:45:43",
                          "km":  3.93,
                          "dur":  "00:54:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
+                         "mun":  "SAO MIGUEL ARCA",
+                         "in":  "08:42:27",
+                         "out":  "10:00:48",
+                         "km":  45.73,
+                         "dur":  "01:18:00"
                      }
                  ],
     "eventos":  [
@@ -390,70 +417,64 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Maira",
+                         "razao":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:14:50"
+                     },
+                     {
                          "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "razao":  "COMERCIAL REMAFRA LTDA.",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "01:00:11"
+                         "tempo":  "00:09:19"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:26:24"
+                         "tempo":  "00:41:21"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:53:53"
+                         "tempo":  "01:08:50"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:25:25"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:54:22"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:36:01"
+                         "tempo":  "00:40:22"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:14:12"
+                         "tempo":  "01:29:09"
                      },
                      {
-                         "nome":  "Nelson",
-                         "razao":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
-                         "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "01:11:42"
+                         "nome":  "Lucas",
+                         "razao":  "REMARO COMERCIAL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:10:33"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO SARTORATO E XAVIER LTDA",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:35:52"
+                         "tempo":  "00:50:49"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
-                         "tempo":  "00:32:31"
+                         "tempo":  "00:47:28"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:52:32"
+                         "tempo":  "02:07:29"
                      }
                  ],
     "hist":  [
@@ -559,7 +580,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     20,
+                     24,
                      6
                  ]
              ],
@@ -5390,7 +5411,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5414,10 +5435,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  43.44,
+                                                       "tv":  74
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  26.58,
-                                                       "tv":  15
+                                                       "pe":  1,
+                                                       "km":  6.67,
+                                                       "tv":  120
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -5438,15 +5468,6 @@ window.PAINEL = {
                                                        "tv":  59
                                                    },
                                                    {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  1.95,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -5454,6 +5475,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  21.52,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  14.69,
+                                                       "tv":  120
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -5465,15 +5495,6 @@ window.PAINEL = {
                                                        "tv":  83
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  13.96,
-                                                       "tv":  71
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -5481,6 +5502,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  19.75,
                                                        "tv":  31
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  47.62,
+                                                       "tv":  78
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -5507,15 +5537,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  2.01,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  1.89,
                                                        "tv":  0
                                                    },
                                                    {
@@ -5579,11 +5600,25 @@ window.PAINEL = {
                                                          "tv":  59
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "JAMIR ANTONIO BISCALCHIN-ME.",
+                                                         "p":  1,
+                                                         "km":  4.72,
+                                                         "tv":  120
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                                                          "p":  0,
                                                          "km":  13.96,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "OLIVEIRA - CASA DE CARNE E EMPORIO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.73,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Castro",
@@ -5612,6 +5647,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.93,
                                                          "tv":  54
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
+                                                         "p":  1,
+                                                         "km":  45.73,
+                                                         "tv":  78
                                                      }
                                                  ]
                                      }
