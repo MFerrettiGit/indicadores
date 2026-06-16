@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4918,6 +4918,15 @@
                                      "tv":  178
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  17.11,
+                                     "tv":  224
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -4934,15 +4943,6 @@
                                      "pe":  3,
                                      "km":  16.98,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  12.53,
-                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -4977,6 +4977,13 @@
                                        "p":  0,
                                        "km":  10.34,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  4.38,
+                                       "tv":  107
                                    },
                                    {
                                        "n":  "Costa",
@@ -5208,6 +5215,13 @@
                                        "p":  1,
                                        "km":  8.36,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "IZABEL CRISTINA NASCIMENTO ROCHA LTDA",
+                                       "p":  1,
+                                       "km":  4.58,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Lucas",

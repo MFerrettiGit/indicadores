@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "12:27",
                      "tv":  "03:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -71,7 +71,7 @@ window.PAINEL = {
                      "ultimo":  "11:46",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -141,6 +141,20 @@ window.PAINEL = {
                      "ultimo":  "11:50",
                      "tv":  "02:58:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  3,
+                     "km":  17.11,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:39",
+                     "ultimo":  "13:04",
+                     "tv":  "03:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,20 +183,6 @@ window.PAINEL = {
                      "ultimo":  "12:21",
                      "tv":  "02:55:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  2,
-                     "km":  12.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:39",
-                     "ultimo":  "12:14",
-                     "tv":  "03:19:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -232,6 +232,15 @@ window.PAINEL = {
                          "out":  "11:10:20",
                          "km":  10.34,
                          "dur":  "01:00:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:22:22",
+                         "out":  "13:09:35",
+                         "km":  4.38,
+                         "dur":  "01:47:00"
                      },
                      {
                          "nome":  "Costa",
@@ -531,6 +540,15 @@ window.PAINEL = {
                          "dur":  "01:01:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "IZABEL CRISTINA NASCIMENTO ROCHA LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "12:39:22",
+                         "out":  "13:04:30",
+                         "km":  4.58,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -603,6 +621,14 @@ window.PAINEL = {
                         "tempo":  "01:05:39"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:07",
+                        "final":  "13:07",
+                        "tempo":  "00:59:46"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a São Miguel Arcando",
@@ -619,6 +645,14 @@ window.PAINEL = {
                         "tempo":  "00:40:53"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:02",
+                        "final":  "13:09",
+                        "tempo":  "01:07:00"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Batatais",
@@ -627,28 +661,12 @@ window.PAINEL = {
                         "tempo":  "00:47:14"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:28"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:20"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "proposta zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:33"
+                        "tempo":  "00:32:35"
                     },
                     {
                         "nome":  "Alan",
@@ -656,7 +674,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:48"
+                        "tempo":  "00:31:50"
                     },
                     {
                         "nome":  "Costa",
@@ -664,7 +682,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:21"
+                        "tempo":  "00:29:23"
                     },
                     {
                         "nome":  "Castro",
@@ -672,7 +690,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:30"
+                        "tempo":  "00:28:32"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -680,7 +698,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:20"
+                        "tempo":  "00:18:22"
                     },
                     {
                         "nome":  "Fernando",
@@ -688,7 +706,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:20"
+                        "tempo":  "00:16:22"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:08"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:24"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "cerquilho piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:09"
                     }
                 ],
     "semped":  [
@@ -725,6 +767,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
                        "mun":  "CAMPINAS",
                        "obs":  "estocado"
                    },
@@ -794,19 +842,13 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:31:44"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "IZABEL CRISTINA NASCIMENTO ROCHA LTDA",
-                         "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:14:44"
+                         "tempo":  "01:46:44"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "04:52:29"
+                         "tempo":  "05:07:29"
                      }
                  ],
     "hist":  [
@@ -912,7 +954,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     62,
+                     65,
                      16
                  ]
              ],
@@ -5743,7 +5785,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5836,6 +5878,15 @@ window.PAINEL = {
                                                        "tv":  178
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  17.11,
+                                                       "tv":  224
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -5852,15 +5903,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  16.98,
                                                        "tv":  175
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  12.53,
-                                                       "tv":  199
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -5895,6 +5937,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  10.34,
                                                          "tv":  60
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  4.38,
+                                                         "tv":  107
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -6126,6 +6175,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.36,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "IZABEL CRISTINA NASCIMENTO ROCHA LTDA",
+                                                         "p":  1,
+                                                         "km":  4.58,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Lucas",
