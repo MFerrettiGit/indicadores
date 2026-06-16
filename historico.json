@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4837,6 +4837,15 @@
                                      "tv":  244
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  55,
+                                     "tv":  301
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -4846,13 +4855,13 @@
                                      "tv":  205
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  54.34,
-                                     "tv":  261
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  15.8,
+                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -4862,15 +4871,6 @@
                                      "pe":  2,
                                      "km":  45.12,
                                      "tv":  142
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  11.18,
-                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -4894,19 +4894,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  1,
-                                     "km":  26.45,
-                                     "tv":  207
+                                     "vi":  6,
+                                     "pe":  2,
+                                     "km":  36.1,
+                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  2,
-                                     "km":  32.72,
-                                     "tv":  228
+                                     "km":  33.61,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Karina",
@@ -5007,6 +5007,13 @@
                                        "tv":  189
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  0.66,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
                                        "p":  1,
@@ -5040,6 +5047,13 @@
                                        "p":  1,
                                        "km":  2.21,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "CITY COMERCIAL LTDA",
+                                       "p":  0,
+                                       "km":  4.62,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Maira",
@@ -5133,6 +5147,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                                       "p":  0,
+                                       "km":  0.89,
+                                       "tv":  31
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                        "p":  0,
@@ -5166,6 +5187,13 @@
                                        "p":  0,
                                        "km":  0.19,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  9.65,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Cominato",
