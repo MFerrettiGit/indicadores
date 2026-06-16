@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "14:43",
                      "tv":  "04:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "14:54",
                      "tv":  "04:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -133,28 +133,28 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  107.96,
+                     "visitas":  5,
+                     "km":  109.07,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:02",
-                     "ultimo":  "14:32",
-                     "tv":  "03:16:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:16",
+                     "tv":  "03:48:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
-                     "visitas":  4,
-                     "km":  23.93,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  5,
+                     "km":  27.61,
+                     "semPed":  1,
+                     "perc":  20,
                      "primeiro":  "08:39",
-                     "ultimo":  "13:57",
-                     "tv":  "04:25:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:11",
+                     "tv":  "04:47:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -594,6 +594,15 @@ window.PAINEL = {
                          "dur":  "00:18:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "14:43:15",
+                         "out":  "15:16:08",
+                         "km":  1.11,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
@@ -628,6 +637,15 @@ window.PAINEL = {
                          "out":  "13:57:33",
                          "km":  6.82,
                          "dur":  "00:41:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MAMUTIS MERCADO E ADEGA LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "14:49:00",
+                         "out":  "15:11:26",
+                         "km":  3.68,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -827,7 +845,7 @@ window.PAINEL = {
                         "obs":  "Atualização de preços rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:02"
+                        "tempo":  "01:04:54"
                     }
                 ],
     "semped":  [
@@ -878,6 +896,12 @@ window.PAINEL = {
                        "razao":  "C CARVALHO MERCADO",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising e levantamento de pedido"
+                   },
+                   {
+                       "nome":  "Karina",
+                       "razao":  "MAMUTIS MERCADO E ADEGA LTDA",
+                       "mun":  "SAO SEBASTIAO",
+                       "obs":  "comprador é o Carlinhos dono... só se encontra por volta das 10h"
                    },
                    {
                        "nome":  "Eduardo",
@@ -969,61 +993,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:41:11"
+                         "tempo":  "01:56:09"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:31:41"
+                         "tempo":  "00:46:39"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ELDER I. DE SOUZA",
+                         "mun":  "ALTINOPOLIS",
+                         "tempo":  "00:10:44"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:39:31"
+                         "tempo":  "00:54:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:39:52"
+                         "tempo":  "00:54:50"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:26:09"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MAMUTIS MERCADO E ADEGA LTDA",
-                         "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:20:24"
+                         "nome":  "Alan",
+                         "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:38"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:38:05"
+                         "tempo":  "00:53:03"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:51:43"
+                         "tempo":  "01:06:41"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:56:06"
+                         "tempo":  "01:11:04"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "07:07:47"
+                         "tempo":  "07:22:45"
                      }
                  ],
     "hist":  [
@@ -1129,8 +1153,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     83,
-                     22
+                     86,
+                     23
                  ]
              ],
     "historico":  {
@@ -5960,7 +5984,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6047,19 +6071,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  107.96,
-                                                       "tv":  196
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  109.07,
+                                                       "tv":  228
                                                    },
                                                    {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  4,
-                                                       "km":  23.93,
-                                                       "tv":  265
+                                                       "km":  27.61,
+                                                       "tv":  287
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -6394,6 +6418,13 @@ window.PAINEL = {
                                                          "tv":  18
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                                         "p":  1,
+                                                         "km":  1.11,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                                                          "p":  1,
@@ -6420,6 +6451,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.82,
                                                          "tv":  41
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MAMUTIS MERCADO E ADEGA LTDA",
+                                                         "p":  0,
+                                                         "km":  3.68,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Lucas",

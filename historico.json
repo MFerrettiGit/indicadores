@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4912,19 +4912,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  107.96,
-                                     "tv":  196
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  109.07,
+                                     "tv":  228
                                  },
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  4,
-                                     "km":  23.93,
-                                     "tv":  265
+                                     "km":  27.61,
+                                     "tv":  287
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5259,6 +5259,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                       "p":  1,
+                                       "km":  1.11,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                                        "p":  1,
@@ -5285,6 +5292,13 @@
                                        "p":  1,
                                        "km":  6.82,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MAMUTIS MERCADO E ADEGA LTDA",
+                                       "p":  0,
+                                       "km":  3.68,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Lucas",
