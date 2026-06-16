@@ -4825,16 +4825,16 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  59.36,
-                                     "tv":  137
+                                     "km":  63.74,
+                                     "tv":  244
                                  },
                                  {
                                      "nome":  "Maira",

@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eduardo",
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
-                     "visitas":  2,
-                     "km":  59.36,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  63.74,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "08:24",
-                     "ultimo":  "11:10",
-                     "tv":  "02:17:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:09",
+                     "tv":  "04:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -70,7 +70,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "11:46",
                      "tv":  "03:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "13:04",
                      "tv":  "03:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -666,7 +666,7 @@ window.PAINEL = {
                         "obs":  "proposta zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:35"
+                        "tempo":  "00:47:39"
                     },
                     {
                         "nome":  "Alan",
@@ -674,7 +674,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:50"
+                        "tempo":  "00:46:54"
                     },
                     {
                         "nome":  "Costa",
@@ -682,7 +682,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:23"
+                        "tempo":  "00:44:27"
                     },
                     {
                         "nome":  "Castro",
@@ -690,7 +690,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:32"
+                        "tempo":  "00:43:36"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -698,7 +698,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:22"
+                        "tempo":  "00:33:26"
                     },
                     {
                         "nome":  "Fernando",
@@ -706,7 +706,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:22"
+                        "tempo":  "00:31:26"
                     },
                     {
                         "nome":  "Maira",
@@ -714,7 +714,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:08"
+                        "tempo":  "00:28:12"
                     },
                     {
                         "nome":  "Eugenio",
@@ -722,7 +722,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:24"
+                        "tempo":  "00:22:28"
                     },
                     {
                         "nome":  "Cominato",
@@ -730,7 +730,7 @@ window.PAINEL = {
                         "obs":  "cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:09"
+                        "tempo":  "00:15:13"
                     }
                 ],
     "semped":  [
@@ -839,16 +839,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:46:44"
+                         "nome":  "Luis",
+                         "razao":  "CITY COMERCIAL LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:07:28"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "G. NASCIMENTO MERCADOS LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:08:04"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "05:07:29"
+                         "tempo":  "05:22:29"
                      }
                  ],
     "hist":  [
@@ -954,8 +960,8 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     65,
-                     16
+                     67,
+                     17
                  ]
              ],
     "historico":  {
@@ -5785,16 +5791,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  59.36,
-                                                       "tv":  137
+                                                       "km":  63.74,
+                                                       "tv":  244
                                                    },
                                                    {
                                                        "nome":  "Maira",
