@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4909,6 +4909,15 @@
                                      "tv":  228
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  23.93,
+                                     "tv":  265
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -4916,15 +4925,6 @@
                                      "pe":  3,
                                      "km":  81.23,
                                      "tv":  178
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  17.11,
-                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5222,6 +5222,13 @@
                                        "p":  1,
                                        "km":  4.58,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "G. NASCIMENTO MERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  6.82,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Lucas",

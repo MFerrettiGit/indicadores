@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -29,7 +29,7 @@ window.PAINEL = {
                      "ultimo":  "12:27",
                      "tv":  "03:25:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -98,8 +98,8 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "12:41",
                      "tv":  "03:35:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  4,
+                     "km":  23.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:39",
+                     "ultimo":  "13:57",
+                     "tv":  "04:25:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -141,20 +155,6 @@ window.PAINEL = {
                      "ultimo":  "11:50",
                      "tv":  "02:58:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  3,
-                     "km":  17.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:39",
-                     "ultimo":  "13:04",
-                     "tv":  "03:44:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -549,6 +549,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "G. NASCIMENTO MERCADOS LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "13:16:02",
+                         "out":  "13:57:33",
+                         "km":  6.82,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -604,6 +613,22 @@ window.PAINEL = {
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:56",
+                        "final":  "13:56",
+                        "tempo":  "00:59:30"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:02",
+                        "final":  "14:03",
+                        "tempo":  "01:00:55"
+                    },
                     {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
@@ -706,31 +731,7 @@ window.PAINEL = {
                         "obs":  "proposta zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:17:44"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:01:31"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:17"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:33"
+                        "tempo":  "01:32:50"
                     },
                     {
                         "nome":  "Cominato",
@@ -738,7 +739,15 @@ window.PAINEL = {
                         "obs":  "cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:18"
+                        "tempo":  "01:00:24"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:17"
                     }
                 ],
     "semped":  [
@@ -850,43 +859,43 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:25:56"
+                         "tempo":  "00:40:57"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "CITY COMERCIAL LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:37:31"
+                         "tempo":  "00:52:32"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "JOSE CARLOS NORI",
+                         "mun":  "BATATAIS",
+                         "tempo":  "00:13:12"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "RODRIGUES",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:13:03"
+                         "tempo":  "00:28:04"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:12:05"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "G. NASCIMENTO MERCADOS LTDA",
-                         "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:38:07"
+                         "tempo":  "00:27:06"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "ZARELLI SUPERMERCADOS LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:12:41"
+                         "tempo":  "00:27:42"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "05:52:32"
+                         "tempo":  "06:07:33"
                      }
                  ],
     "hist":  [
@@ -992,7 +1001,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     69,
+                     71,
                      17
                  ]
              ],
@@ -5823,7 +5832,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -5907,6 +5916,15 @@ window.PAINEL = {
                                                        "tv":  228
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  23.93,
+                                                       "tv":  265
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -5914,15 +5932,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  81.23,
                                                        "tv":  178
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  17.11,
-                                                       "tv":  224
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -6220,6 +6229,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.58,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "G. NASCIMENTO MERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  6.82,
+                                                         "tv":  41
                                                      },
                                                      {
                                                          "n":  "Lucas",
