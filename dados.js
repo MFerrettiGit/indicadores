@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -57,7 +57,7 @@ window.PAINEL = {
                      "ultimo":  "14:20",
                      "tv":  "04:01:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -154,7 +154,7 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "15:11",
                      "tv":  "04:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -768,6 +768,14 @@ window.PAINEL = {
                         "tempo":  "00:59:46"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Atualização de preços rede Reta Alimentos",
+                        "inicio":  "14:20",
+                        "final":  "15:33",
+                        "tempo":  "01:12:12"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a São Miguel Arcando",
@@ -838,14 +846,6 @@ window.PAINEL = {
                         "inicio":  "12:51",
                         "final":  "13:51",
                         "tempo":  "01:00:17"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "Atualização de preços rede Reta Alimentos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:04:54"
                     }
                 ],
     "semped":  [
@@ -993,61 +993,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:56:09"
+                         "tempo":  "02:11:03"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:46:39"
+                         "tempo":  "01:01:33"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ELDER I. DE SOUZA",
                          "mun":  "ALTINOPOLIS",
-                         "tempo":  "00:10:44"
+                         "tempo":  "00:25:38"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:54:29"
+                         "tempo":  "01:09:23"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:54:50"
+                         "tempo":  "01:09:44"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:13:38"
+                         "tempo":  "00:28:32"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ROCHA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:12:11"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:53:03"
+                         "tempo":  "01:07:57"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "01:06:41"
+                         "tempo":  "01:21:35"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:11:04"
+                         "tempo":  "01:25:58"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "07:22:45"
+                         "tempo":  "07:37:39"
                      }
                  ],
     "hist":  [
@@ -1153,7 +1159,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     86,
+                     88,
                      23
                  ]
              ],
@@ -5984,7 +5990,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
