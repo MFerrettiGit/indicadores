@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -42,8 +42,8 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "12:38",
                      "tv":  "04:21:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -85,7 +85,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "03:32:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:40",
                      "ultimo":  "12:22",
                      "tv":  "03:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -126,7 +126,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "12:22",
                      "tv":  "03:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -677,28 +677,36 @@ window.PAINEL = {
                         "tempo":  "00:47:14"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta zeferino",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:02:45"
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:53",
+                        "final":  "13:55",
+                        "tempo":  "01:01:32"
                     },
                     {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:33"
+                        "inicio":  "12:40",
+                        "final":  "13:40",
+                        "tempo":  "01:00:02"
                     },
                     {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
+                        "inicio":  "12:51",
+                        "final":  "13:51",
+                        "tempo":  "01:00:17"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta zeferino",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:32"
+                        "tempo":  "01:17:44"
                     },
                     {
                         "nome":  "Fernando",
@@ -706,7 +714,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:32"
+                        "tempo":  "01:01:31"
                     },
                     {
                         "nome":  "Maira",
@@ -714,7 +722,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:18"
+                        "tempo":  "00:58:17"
                     },
                     {
                         "nome":  "Eugenio",
@@ -722,7 +730,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:34"
+                        "tempo":  "00:52:33"
                     },
                     {
                         "nome":  "Cominato",
@@ -730,7 +738,7 @@ window.PAINEL = {
                         "obs":  "cerquilho piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:19"
+                        "tempo":  "00:45:18"
                     }
                 ],
     "semped":  [
@@ -842,25 +850,43 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:10:56"
+                         "tempo":  "00:25:56"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "CITY COMERCIAL LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:22:31"
+                         "tempo":  "00:37:31"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RODRIGUES",
+                         "mun":  "SANTA GERTRUDES",
+                         "tempo":  "00:13:03"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "C. CARVALHO GENEROSO MERCADO LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:05"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "G. NASCIMENTO MERCADOS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:23:07"
+                         "tempo":  "00:38:07"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                         "mun":  "VINHEDO",
+                         "tempo":  "00:12:41"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "05:37:32"
+                         "tempo":  "05:52:32"
                      }
                  ],
     "hist":  [
@@ -5797,7 +5823,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
