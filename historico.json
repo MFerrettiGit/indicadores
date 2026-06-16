@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4846,12 +4846,21 @@
                                      "tv":  306
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  171.35,
+                                     "tv":  370
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  55.92,
+                                     "km":  104.11,
                                      "tv":  421
                                  },
                                  {
@@ -4860,16 +4869,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  2,
-                                     "km":  17.73,
-                                     "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  109.95,
+                                     "km":  18.95,
                                      "tv":  326
                                  },
                                  {
@@ -4878,7 +4878,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  107.2,
+                                     "km":  119.46,
                                      "tv":  314
                                  },
                                  {
@@ -5061,6 +5061,13 @@
                                        "p":  1,
                                        "km":  0.67,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "MIALICH SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  61.4,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Luis",
@@ -5306,6 +5313,13 @@
                                        "p":  0,
                                        "km":  4.45,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  1,
+                                       "km":  56.73,
+                                       "tv":  215
                                    },
                                    {
                                        "n":  "Eugenio",

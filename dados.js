@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -32,11 +32,25 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  6,
+                     "km":  171.35,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:00",
+                     "ultimo":  "17:52",
+                     "tv":  "06:10:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  55.92,
+                     "km":  104.11,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
@@ -50,7 +64,7 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "visitas":  5,
-                     "km":  17.73,
+                     "km":  18.95,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:19",
@@ -60,25 +74,11 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  5,
-                     "km":  109.95,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:00",
-                     "ultimo":  "16:21",
-                     "tv":  "05:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "visitas":  4,
-                     "km":  107.2,
+                     "km":  119.46,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:14",
@@ -98,8 +98,8 @@ window.PAINEL = {
                      "primeiro":  "07:59",
                      "ultimo":  "16:04",
                      "tv":  "05:06:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -340,6 +340,15 @@ window.PAINEL = {
                          "out":  "16:21:46",
                          "km":  0.67,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:06:02",
+                         "out":  "17:52:19",
+                         "km":  61.4,
+                         "dur":  "00:44:00"
                      },
                      {
                          "nome":  "Luis",
@@ -655,6 +664,15 @@ window.PAINEL = {
                          "out":  "11:57:23",
                          "km":  4.45,
                          "dur":  "00:28:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:13:18",
+                         "out":  "17:58:14",
+                         "km":  56.73,
+                         "dur":  "03:35:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1010,20 +1028,20 @@ window.PAINEL = {
                         "tempo":  "01:00:17"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  "16:26",
+                        "final":  "17:54",
+                        "tempo":  "01:27:15"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Outro",
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:26:39"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:15:53"
+                        "tempo":  "01:42:12"
                     }
                 ],
     "semped":  [
@@ -1186,22 +1204,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "MIALICH SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:35:19"
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:02:26"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:54:22"
+                         "tempo":  "01:09:52"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "03:28:03"
+                         "tempo":  "03:43:33"
                      }
                  ],
     "hist":  [
@@ -1307,7 +1325,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     117,
+                     118,
                      27
                  ]
              ],
@@ -6138,7 +6156,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6159,12 +6177,21 @@ window.PAINEL = {
                                                        "tv":  306
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  171.35,
+                                                       "tv":  370
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  55.92,
+                                                       "km":  104.11,
                                                        "tv":  421
                                                    },
                                                    {
@@ -6173,16 +6200,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  17.73,
-                                                       "tv":  326
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  109.95,
+                                                       "km":  18.95,
                                                        "tv":  326
                                                    },
                                                    {
@@ -6191,7 +6209,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  107.2,
+                                                       "km":  119.46,
                                                        "tv":  314
                                                    },
                                                    {
@@ -6374,6 +6392,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.67,
                                                          "tv":  22
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "MIALICH SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  61.4,
+                                                         "tv":  44
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -6619,6 +6644,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.45,
                                                          "tv":  28
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  1,
+                                                         "km":  56.73,
+                                                         "tv":  215
                                                      },
                                                      {
                                                          "n":  "Eugenio",
