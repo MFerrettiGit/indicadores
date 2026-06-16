@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -56,7 +56,7 @@ window.PAINEL = {
                      "primeiro":  "09:00",
                      "ultimo":  "16:21",
                      "tv":  "05:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,7 +182,7 @@ window.PAINEL = {
                      "primeiro":  "08:50",
                      "ultimo":  "16:50",
                      "tv":  "04:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -970,7 +970,7 @@ window.PAINEL = {
                         "obs":  "acompanhando mãe no hospital",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:31"
+                        "tempo":  "00:54:04"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -978,7 +978,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:45"
+                        "tempo":  "00:43:18"
                     }
                 ],
     "semped":  [
@@ -1132,31 +1132,43 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:24:46"
+                         "tempo":  "00:39:16"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "02:16:28"
+                         "tempo":  "02:30:58"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "01:02:47"
+                         "tempo":  "01:17:17"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:02:39"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "PF MINIMERCADO PONTO CERTO LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:06:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:12"
+                         "tempo":  "00:21:42"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "02:40:53"
+                         "tempo":  "02:55:23"
                      }
                  ],
     "hist":  [
@@ -1262,7 +1274,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     107,
+                     109,
                      24
                  ]
              ],
@@ -6093,7 +6105,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
