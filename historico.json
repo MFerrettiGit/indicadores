@@ -4825,7 +4825,7 @@
                                ]
                    },
     "2026-06-16":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -4864,6 +4864,24 @@
                                      "tv":  241
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  109.28,
+                                     "tv":  304
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  12.73,
+                                     "tv":  306
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -4873,31 +4891,13 @@
                                      "tv":  142
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  78.77,
-                                     "tv":  262
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.05,
-                                     "tv":  212
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  2,
+                                     "vi":  8,
+                                     "pe":  3,
                                      "km":  58.72,
-                                     "tv":  329
+                                     "tv":  348
                                  },
                                  {
                                      "nome":  "Alan",
@@ -4909,6 +4909,15 @@
                                      "tv":  289
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  35.97,
+                                     "tv":  323
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -4916,15 +4925,6 @@
                                      "pe":  4,
                                      "km":  109.07,
                                      "tv":  228
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  27.61,
-                                     "tv":  287
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5147,6 +5147,13 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  1,
+                                       "km":  4.68,
+                                       "tv":  94
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                                        "p":  0,
@@ -5238,6 +5245,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  0,
@@ -5320,6 +5334,13 @@
                                        "p":  0,
                                        "km":  3.68,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ROCHA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  8.36,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Lucas",

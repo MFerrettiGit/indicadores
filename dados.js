@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -60,6 +60,34 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "visitas":  4,
+                     "km":  109.28,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:00",
+                     "ultimo":  "15:55",
+                     "tv":  "05:04:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "visitas":  3,
+                     "km":  12.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:59",
+                     "ultimo":  "16:04",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -74,45 +102,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "visitas":  3,
-                     "km":  78.77,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:00",
-                     "ultimo":  "14:43",
-                     "tv":  "04:22:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "visitas":  2,
-                     "km":  8.05,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:59",
-                     "ultimo":  "11:45",
-                     "tv":  "03:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
-                     "visitas":  7,
+                     "visitas":  8,
                      "km":  58.72,
                      "semPed":  5,
-                     "perc":  71.43,
+                     "perc":  62.5,
                      "primeiro":  "08:40",
-                     "ultimo":  "15:46",
-                     "tv":  "05:29:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:07",
+                     "tv":  "05:48:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -130,6 +130,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  6,
+                     "km":  35.97,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:39",
+                     "ultimo":  "16:03",
+                     "tv":  "05:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -141,20 +155,6 @@ window.PAINEL = {
                      "ultimo":  "15:16",
                      "tv":  "03:48:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  5,
-                     "km":  27.61,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:39",
-                     "ultimo":  "15:11",
-                     "tv":  "04:47:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -450,6 +450,15 @@ window.PAINEL = {
                          "dur":  "01:32:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "in":  "14:29:32",
+                         "out":  "16:04:21",
+                         "km":  4.68,
+                         "dur":  "01:34:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                          "mun":  "CAMPINAS",
@@ -567,6 +576,15 @@ window.PAINEL = {
                          "dur":  "01:28:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "15:47:51",
+                         "out":  "16:07:59",
+                         "km":  0,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "TATUI",
@@ -673,6 +691,15 @@ window.PAINEL = {
                          "out":  "15:11:26",
                          "km":  3.68,
                          "dur":  "00:22:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ROCHA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "15:27:05",
+                         "out":  "16:03:26",
+                         "km":  8.36,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1026,73 +1053,55 @@ window.PAINEL = {
                          "nome":  "Rachel",
                          "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:16:43"
+                         "tempo":  "01:31:30"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FIRMAFORT COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:03:02"
+                         "tempo":  "00:17:49"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ELDER I. DE SOUZA",
                          "mun":  "ALTINOPOLIS",
-                         "tempo":  "00:40:48"
+                         "tempo":  "00:10:00"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO JAIR TOLEDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:24:33"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:24:54"
+                         "tempo":  "01:39:20"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LUNGA SUPERMERCADO LTDA - EPP",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:43:42"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "ROCHA SUPERMERCADO LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:27:21"
+                         "tempo":  "00:58:29"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:09:25"
+                         "tempo":  "00:24:12"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "M S SUPERMERCADO LTDA.",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:23:07"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "00:06:35"
+                         "tempo":  "01:37:54"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:41:08"
+                         "tempo":  "01:55:55"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "07:52:49"
+                         "tempo":  "08:07:36"
                      }
                  ],
     "hist":  [
@@ -1198,7 +1207,7 @@ window.PAINEL = {
                  ],
                  [
                      "16/06",
-                     91,
+                     95,
                      24
                  ]
              ],
@@ -6029,7 +6038,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6068,6 +6077,24 @@ window.PAINEL = {
                                                        "tv":  241
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  109.28,
+                                                       "tv":  304
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  12.73,
+                                                       "tv":  306
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -6077,31 +6104,13 @@ window.PAINEL = {
                                                        "tv":  142
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  78.77,
-                                                       "tv":  262
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  8.05,
-                                                       "tv":  212
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  2,
+                                                       "vi":  8,
+                                                       "pe":  3,
                                                        "km":  58.72,
-                                                       "tv":  329
+                                                       "tv":  348
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -6113,6 +6122,15 @@ window.PAINEL = {
                                                        "tv":  289
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  35.97,
+                                                       "tv":  323
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -6120,15 +6138,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  109.07,
                                                        "tv":  228
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  27.61,
-                                                       "tv":  287
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -6351,6 +6360,13 @@ window.PAINEL = {
                                                          "tv":  92
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                                         "p":  1,
+                                                         "km":  4.68,
+                                                         "tv":  94
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                                                          "p":  0,
@@ -6442,6 +6458,13 @@ window.PAINEL = {
                                                          "tv":  88
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  19
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  0,
@@ -6524,6 +6547,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.68,
                                                          "tv":  22
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "ROCHA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  8.36,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Lucas",
