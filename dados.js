@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "16/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -95,11 +95,11 @@ window.PAINEL = {
                      "km":  21.52,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:00",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -264,9 +264,9 @@ window.PAINEL = {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Batatais",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:01"
+                        "inicio":  "08:12",
+                        "final":  "09:00",
+                        "tempo":  "00:47:14"
                     }
                 ],
     "semped":  [
@@ -282,79 +282,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:30:06"
+                         "tempo":  "00:45:01"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:39:35"
+                         "tempo":  "00:54:30"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:00:17"
+                         "tempo":  "00:15:12"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:34:35"
+                         "tempo":  "00:49:30"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO REAL DE BATATAIS LTDA - LJ.",
+                         "mun":  "BATATAIS",
+                         "tempo":  "00:08:54"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FATIMA H. FASSIS TOLETO SANTA GETRUDES M",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:14:32"
+                         "tempo":  "00:29:27"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JAMIR ANTONIO BISCALCHIN-ME.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:54:28"
+                         "tempo":  "01:09:23"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SM SUPERMERCADOS MENDONCA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:13:06"
+                         "tempo":  "00:28:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "NOVO HORTIFRUTI COM HORTIFRUTIGRANJEIROS",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:53:52"
+                         "tempo":  "01:08:47"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "59.382.209 JONATAS ANTONIO GONCALVES DIN",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:14:18"
+                         "tempo":  "00:29:13"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:03:35"
+                         "tempo":  "00:18:30"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIO DE ALIMENTOS SAO MIGUEL LTDA",
                          "mun":  "SAO MIGUEL ARCA",
-                         "tempo":  "00:11:48"
+                         "tempo":  "00:26:43"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                          "mun":  "LOUVEIRA",
-                         "tempo":  "00:13:41"
+                         "tempo":  "00:28:36"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:52:38"
+                         "tempo":  "01:07:33"
                      }
                  ],
     "hist":  [
@@ -5291,7 +5297,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-16":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
