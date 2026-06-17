@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  84.44,
+                     "visitas":  6,
+                     "km":  105.19,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
-                     "ultimo":  "14:48",
-                     "tv":  "04:38:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:54",
+                     "tv":  "05:22:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  54.54,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:10",
+                     "ultimo":  "15:49",
+                     "tv":  "05:16:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -259,17 +274,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  53.42,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:10",
-                     "ultimo":  "15:19",
-                     "tv":  "04:56:00",
+                     "km":  36.5,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:41",
+                     "ultimo":  "15:40",
+                     "tv":  "03:37:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -285,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "15:09",
                      "tv":  "03:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:25",
                      "ultimo":  "14:03",
                      "tv":  "03:41:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  33.47,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:41",
-                     "ultimo":  "14:47",
-                     "tv":  "02:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -330,8 +330,8 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "15:11",
                      "tv":  "05:02:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -618,6 +618,15 @@ window.PAINEL = {
                          "dur":  "01:04:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
+                         "mun":  "AMERICANA",
+                         "in":  "15:05:31",
+                         "out":  "15:54:58",
+                         "km":  3.76,
+                         "dur":  "00:49:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -780,6 +789,15 @@ window.PAINEL = {
                          "dur":  "00:38:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "PRIMOS PEROLA LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "14:30:08",
+                         "out":  "15:54:55",
+                         "km":  37.66,
+                         "dur":  "01:24:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -823,6 +841,15 @@ window.PAINEL = {
                          "out":  "14:48:29",
                          "km":  0,
                          "dur":  "01:22:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO SB BABA LTDA.",
+                         "mun":  "JARDINOPOLIS",
+                         "in":  "15:09:23",
+                         "out":  "15:54:21",
+                         "km":  20.75,
+                         "dur":  "00:44:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -931,6 +958,15 @@ window.PAINEL = {
                          "out":  "15:19:35",
                          "km":  2.42,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
+                         "mun":  "ITUPEVA",
+                         "in":  "15:28:34",
+                         "out":  "15:49:07",
+                         "km":  1.12,
+                         "dur":  "00:20:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -1075,6 +1111,15 @@ window.PAINEL = {
                          "out":  "14:47:12",
                          "km":  5.67,
                          "dur":  "00:33:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "MERCADO BEIJA FLOR LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "15:02:28",
+                         "out":  "15:40:44",
+                         "km":  3.03,
+                         "dur":  "00:38:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1283,8 +1328,16 @@ window.PAINEL = {
                         "tipo":  "Em Viagem",
                         "obs":  "Laranjal Paulista a Cezari Lange",
                         "inicio":  "13:30",
-                        "final":  "14:16",
-                        "tempo":  "00:45:32"
+                        "final":  "15:45",
+                        "tempo":  "02:14:38"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Cesario Lange a Laranjal Paulista",
+                        "inicio":  "15:12",
+                        "final":  "15:45",
+                        "tempo":  "00:32:22"
                     },
                     {
                         "nome":  "Debora",
@@ -1396,15 +1449,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:30"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Cesario Lange a Laranjal Paulista",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:27:14"
+                        "tempo":  "01:00:45"
                     },
                     {
                         "nome":  "Luis",
@@ -1412,7 +1457,7 @@ window.PAINEL = {
                         "obs":  "Rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:34"
+                        "tempo":  "00:17:49"
                     }
                 ],
     "semped":  [
@@ -1421,6 +1466,12 @@ window.PAINEL = {
                        "razao":  "E G DAROS",
                        "mun":  "LIMEIRA",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "PRIMOS PEROLA LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "sugestão"
                    },
                    {
                        "nome":  "Eugenio",
@@ -1548,85 +1599,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:58:36"
+                         "tempo":  "02:13:42"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:43:51"
+                         "tempo":  "00:58:57"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:26:57"
+                         "tempo":  "00:42:03"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.22",
                          "mun":  "ITU",
-                         "tempo":  "00:45:28"
+                         "tempo":  "01:00:34"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:33:34"
+                         "tempo":  "00:48:40"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "PRIMOS PEROLA LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:08:57"
+                         "tempo":  "01:24:03"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:47:23"
+                         "tempo":  "02:02:29"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:29:42"
+                         "tempo":  "00:44:48"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:31:43"
+                         "tempo":  "00:46:49"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:01:59"
+                         "tempo":  "00:17:05"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:56:25"
+                         "tempo":  "01:11:31"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL PRIMAVERA MARESIAS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:17:12"
+                         "tempo":  "00:32:18"
                      },
                      {
                          "nome":  "Lucas",
-                         "razao":  "MERCADO BEIJA FLOR LTDA",
+                         "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:36:37"
+                         "tempo":  "00:04:56"
                      },
                      {
-                         "nome":  "Castro",
-                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
-                         "mun":  "ITUPEVA",
-                         "tempo":  "00:10:31"
+                         "nome":  "Nelson",
+                         "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:00:42"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADOS MARCON LTDA.",
+                         "mun":  "LARANJAL PAULIS",
+                         "tempo":  "00:07:27"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:13:39"
                      }
                  ],
     "hist":  [
@@ -1737,7 +1800,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     89,
+                     91,
                      22
                  ]
              ],
@@ -7228,7 +7291,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7306,10 +7369,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  84.44,
-                                                       "tv":  278
+                                                       "km":  105.19,
+                                                       "tv":  322
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -7375,6 +7438,15 @@ window.PAINEL = {
                                                        "tv":  213
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  54.54,
+                                                       "tv":  316
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -7384,13 +7456,13 @@ window.PAINEL = {
                                                        "tv":  225
                                                    },
                                                    {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  53.42,
-                                                       "tv":  296
+                                                       "pe":  3,
+                                                       "km":  36.5,
+                                                       "tv":  217
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -7409,15 +7481,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  50.98,
                                                        "tv":  221
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  33.47,
-                                                       "tv":  179
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -7645,6 +7708,13 @@ window.PAINEL = {
                                                          "tv":  64
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
+                                                         "p":  1,
+                                                         "km":  3.76,
+                                                         "tv":  49
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  1,
@@ -7771,6 +7841,13 @@ window.PAINEL = {
                                                          "tv":  38
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "PRIMOS PEROLA LTDA",
+                                                         "p":  0,
+                                                         "km":  37.66,
+                                                         "tv":  84
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                                          "p":  1,
@@ -7804,6 +7881,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  82
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADO SB BABA LTDA.",
+                                                         "p":  1,
+                                                         "km":  20.75,
+                                                         "tv":  44
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -7888,6 +7972,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.42,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
+                                                         "p":  1,
+                                                         "km":  1.12,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -8000,6 +8091,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  5.67,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "MERCADO BEIJA FLOR LTDA",
+                                                         "p":  1,
+                                                         "km":  3.03,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Mariangela",

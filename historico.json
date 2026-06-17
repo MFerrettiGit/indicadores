@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5563,10 +5563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  84.44,
-                                     "tv":  278
+                                     "km":  105.19,
+                                     "tv":  322
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -5632,6 +5632,15 @@
                                      "tv":  213
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  54.54,
+                                     "tv":  316
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -5641,13 +5650,13 @@
                                      "tv":  225
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  5,
-                                     "km":  53.42,
-                                     "tv":  296
+                                     "pe":  3,
+                                     "km":  36.5,
+                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -5666,15 +5675,6 @@
                                      "pe":  2,
                                      "km":  50.98,
                                      "tv":  221
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  33.47,
-                                     "tv":  179
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5902,6 +5902,13 @@
                                        "tv":  64
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
+                                       "p":  1,
+                                       "km":  3.76,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -6028,6 +6035,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "PRIMOS PEROLA LTDA",
+                                       "p":  0,
+                                       "km":  37.66,
+                                       "tv":  84
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -6061,6 +6075,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO SB BABA LTDA.",
+                                       "p":  1,
+                                       "km":  20.75,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Rachel",
@@ -6145,6 +6166,13 @@
                                        "p":  1,
                                        "km":  2.42,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
+                                       "p":  1,
+                                       "km":  1.12,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Cominato",
@@ -6257,6 +6285,13 @@
                                        "p":  0,
                                        "km":  5.67,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "MERCADO BEIJA FLOR LTDA",
+                                       "p":  1,
+                                       "km":  3.03,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Mariangela",
