@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -5605,6 +5605,15 @@
                                      "tv":  242
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  33.37,
+                                     "tv":  345
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -5621,15 +5630,6 @@
                                      "pe":  1,
                                      "km":  4.99,
                                      "tv":  339
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  27.68,
-                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Castro",
@@ -5650,6 +5650,15 @@
                                      "tv":  225
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  60.49,
+                                     "tv":  249
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -5657,15 +5666,6 @@
                                      "pe":  3,
                                      "km":  36.5,
                                      "tv":  217
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  54.34,
-                                     "tv":  195
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5965,6 +5965,13 @@
                                        "tv":  123
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "J. CAMARGO DE SOUZA LTDA",
+                                       "p":  1,
+                                       "km":  5.69,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIZARRI LTDA",
                                        "p":  1,
@@ -6217,6 +6224,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADOS MARCON LTDA.",
+                                       "p":  0,
+                                       "km":  31.04,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1,
@@ -6287,6 +6301,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO IGUACU MARESIAS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                                        "p":  1,
@@ -6348,6 +6369,13 @@
                                        "p":  1,
                                        "km":  4.12,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  6.15,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Nelson",
