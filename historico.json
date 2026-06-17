@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5545,10 +5545,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  51.68,
+                                     "tv":  95
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5635,10 +5635,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  28.16,
+                                     "tv":  74
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
                                      "pe":  1,
-                                     "km":  22.05,
-                                     "tv":  51
+                                     "km":  14.93,
+                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5693,15 +5702,6 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  7.87,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -5725,6 +5725,13 @@
                                        "p":  1,
                                        "km":  1.16,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                                       "p":  1,
+                                       "km":  51.68,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Eliana",
@@ -5804,6 +5811,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO NAKAMITSU LTDA",
+                                       "p":  1,
+                                       "km":  6.11,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "JONAS F DOS SANTOS MERCADO",
                                        "p":  1,
@@ -5816,6 +5830,13 @@
                                        "p":  1,
                                        "km":  6.82,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  7.06,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Nelson",

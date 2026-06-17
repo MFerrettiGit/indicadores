@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "09:34",
                      "tv":  "02:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -98,14 +98,14 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  51.68,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:30",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:06",
+                     "tv":  "01:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -248,14 +248,29 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  22.05,
+                     "visitas":  3,
+                     "km":  28.16,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "08:13",
-                     "ultimo":  "09:22",
-                     "tv":  "00:51:00",
+                     "ultimo":  "09:55",
+                     "tv":  "01:14:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  14.93,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:24",
+                     "ultimo":  "09:59",
+                     "tv":  "01:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "09:29",
                      "tv":  "00:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  7.87,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:24",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "09:18:15",
                          "km":  1.16,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "08:30:47",
+                         "out":  "10:06:39",
+                         "km":  51.68,
+                         "dur":  "01:35:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -492,6 +501,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO NAKAMITSU LTDA",
+                         "mun":  "PIRACAIA",
+                         "in":  "09:32:12",
+                         "out":  "09:55:29",
+                         "km":  6.11,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "JONAS F DOS SANTOS MERCADO",
                          "mun":  "CARAGUATATUBA",
@@ -508,6 +526,15 @@ window.PAINEL = {
                          "out":  "09:29:07",
                          "km":  6.82,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "08:24:31",
+                         "out":  "09:59:30",
+                         "km":  7.06,
+                         "dur":  "01:34:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -596,97 +623,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:27:52"
+                         "tempo":  "00:42:55"
                      },
                      {
-                         "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
-                         "mun":  "HORTOLANDIA",
-                         "tempo":  "01:23:24"
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:08:41"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:19:06"
+                         "tempo":  "00:34:09"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:44:10"
+                         "tempo":  "01:59:13"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO PAULAO LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:03:38"
+                         "tempo":  "00:18:41"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERRANA",
-                         "tempo":  "00:02:01"
+                         "tempo":  "00:17:04"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
-                         "tempo":  "01:04:21"
+                         "tempo":  "01:19:24"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "01:38:05"
+                         "tempo":  "01:53:08"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "01:40:49"
+                         "tempo":  "01:55:52"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO NAKAMITSU LTDA",
+                         "razao":  "GOYOS SUPERMERCADO LTDA.",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:21:59"
+                         "tempo":  "00:04:46"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:51:24"
+                         "tempo":  "02:06:27"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:48:40"
+                         "tempo":  "01:03:43"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:03:49"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADO CARVALHO DE SARAPUI LTDA",
                          "mun":  "SARAPUI",
-                         "tempo":  "00:06:15"
+                         "tempo":  "00:21:18"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:43:15"
+                         "tempo":  "01:58:18"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "01:51:33"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:29:40"
+                         "tempo":  "02:06:36"
                      }
                  ],
     "hist":  [
@@ -797,7 +824,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     17,
+                     21,
                      2
                  ]
              ],
@@ -6288,7 +6315,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -6348,10 +6375,10 @@ window.PAINEL = {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  51.68,
+                                                       "tv":  95
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -6438,10 +6465,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  28.16,
+                                                       "tv":  74
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
                                                        "pe":  1,
-                                                       "km":  22.05,
-                                                       "tv":  51
+                                                       "km":  14.93,
+                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -6496,15 +6532,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  7.87,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -6528,6 +6555,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.16,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
+                                                         "p":  1,
+                                                         "km":  51.68,
+                                                         "tv":  95
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -6607,6 +6641,13 @@ window.PAINEL = {
                                                          "tv":  30
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO NAKAMITSU LTDA",
+                                                         "p":  1,
+                                                         "km":  6.11,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "JONAS F DOS SANTOS MERCADO",
                                                          "p":  1,
@@ -6619,6 +6660,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.82,
                                                          "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                                         "p":  1,
+                                                         "km":  7.06,
+                                                         "tv":  94
                                                      },
                                                      {
                                                          "n":  "Nelson",
