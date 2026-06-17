@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5547,7 +5547,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  15.76,
+                                     "km":  19.66,
                                      "tv":  485
                                  },
                                  {
@@ -5565,7 +5565,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  105.19,
+                                     "km":  126.21,
                                      "tv":  322
                                  },
                                  {
@@ -5587,6 +5587,15 @@
                                      "tv":  379
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  36.53,
+                                     "tv":  378
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -5603,15 +5612,6 @@
                                      "pe":  3,
                                      "km":  98.61,
                                      "tv":  303
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  35.88,
-                                     "tv":  362
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -5632,6 +5632,24 @@
                                      "tv":  339
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  5,
+                                     "km":  61.62,
+                                     "tv":  345
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  57.52,
+                                     "tv":  370
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -5639,24 +5657,6 @@
                                      "pe":  6,
                                      "km":  54.54,
                                      "tv":  316
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  4,
-                                     "km":  31.65,
-                                     "tv":  225
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  56.82,
-                                     "tv":  350
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -6021,6 +6021,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                                       "p":  1,
+                                       "km":  0.65,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIZARRI LTDA",
                                        "p":  1,
@@ -6336,6 +6343,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  29.97,
+                                       "tv":  120
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "JONAS F DOS SANTOS MERCADO",
                                        "p":  1,
@@ -6375,6 +6389,13 @@
                                        "r":  "LEILA MARIA SILVA PEREIRA - ME",
                                        "p":  1,
                                        "km":  0.81,
+                                       "tv":  20
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                                       "p":  1,
+                                       "km":  0.7,
                                        "tv":  20
                                    },
                                    {

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  15.76,
+                     "km":  19.66,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  105.19,
+                     "km":  126.21,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  36.53,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "17:27",
+                     "tv":  "06:18:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "17:22",
                      "tv":  "05:03:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  35.88,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "17:04",
-                     "tv":  "06:02:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,36 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  61.62,
+                     "semPed":  2,
+                     "perc":  28.57,
+                     "primeiro":  "08:13",
+                     "ultimo":  "17:37",
+                     "tv":  "05:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  57.52,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "17:31",
+                     "tv":  "06:10:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -256,36 +286,6 @@ window.PAINEL = {
                      "ultimo":  "15:49",
                      "tv":  "05:16:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  31.65,
-                     "semPed":  2,
-                     "perc":  33.33,
-                     "primeiro":  "08:13",
-                     "ultimo":  "12:53",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  56.82,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "17:04",
-                     "tv":  "05:50:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -771,6 +771,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                         "mun":  "ARARAS",
+                         "in":  "17:10:58",
+                         "out":  "17:27:26",
+                         "km":  0.65,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
@@ -1176,6 +1185,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "15:37:06",
+                         "out":  "17:37:53",
+                         "km":  29.97,
+                         "dur":  "02:00:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "JONAS F DOS SANTOS MERCADO",
                          "mun":  "CARAGUATATUBA",
@@ -1227,6 +1245,15 @@ window.PAINEL = {
                          "in":  "16:43:42",
                          "out":  "17:04:36",
                          "km":  0.81,
+                         "dur":  "00:20:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "17:10:36",
+                         "out":  "17:31:02",
+                         "km":  0.7,
                          "dur":  "00:20:00"
                      },
                      {
@@ -1628,7 +1655,7 @@ window.PAINEL = {
                         "obs":  "Rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:47:42"
+                        "tempo":  "02:02:54"
                     },
                     {
                         "nome":  "Rachel",
@@ -1636,7 +1663,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:21:00"
+                        "tempo":  "01:36:12"
                     },
                     {
                         "nome":  "Cominato",
@@ -1644,7 +1671,7 @@ window.PAINEL = {
                         "obs":  "retorno piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:51"
+                        "tempo":  "00:54:03"
                     },
                     {
                         "nome":  "Lucas",
@@ -1652,7 +1679,7 @@ window.PAINEL = {
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:51"
+                        "tempo":  "00:48:03"
                     }
                 ],
     "semped":  [
@@ -1812,43 +1839,25 @@ window.PAINEL = {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:41:02"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
-                         "mun":  "ARARAS",
-                         "tempo":  "00:13:07"
+                         "tempo":  "00:56:05"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:17:09"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "01:46:59"
+                         "tempo":  "00:32:12"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:41:25"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
-                         "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:13:29"
+                         "tempo":  "02:56:28"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:30:36"
+                         "tempo":  "01:45:39"
                      }
                  ],
     "hist":  [
@@ -1959,7 +1968,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     114,
+                     117,
                      26
                  ]
              ],
@@ -7450,7 +7459,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7512,7 +7521,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  15.76,
+                                                       "km":  19.66,
                                                        "tv":  485
                                                    },
                                                    {
@@ -7530,7 +7539,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  105.19,
+                                                       "km":  126.21,
                                                        "tv":  322
                                                    },
                                                    {
@@ -7552,6 +7561,15 @@ window.PAINEL = {
                                                        "tv":  379
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  36.53,
+                                                       "tv":  378
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -7568,15 +7586,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  98.61,
                                                        "tv":  303
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  35.88,
-                                                       "tv":  362
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -7597,6 +7606,24 @@ window.PAINEL = {
                                                        "tv":  339
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  5,
+                                                       "km":  61.62,
+                                                       "tv":  345
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  57.52,
+                                                       "tv":  370
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -7604,24 +7631,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  54.54,
                                                        "tv":  316
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  4,
-                                                       "km":  31.65,
-                                                       "tv":  225
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  56.82,
-                                                       "tv":  350
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -7986,6 +7995,13 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                                                         "p":  1,
+                                                         "km":  0.65,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO BIZARRI LTDA",
                                                          "p":  1,
@@ -8301,6 +8317,13 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  29.97,
+                                                         "tv":  120
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "JONAS F DOS SANTOS MERCADO",
                                                          "p":  1,
@@ -8340,6 +8363,13 @@ window.PAINEL = {
                                                          "r":  "LEILA MARIA SILVA PEREIRA - ME",
                                                          "p":  1,
                                                          "km":  0.81,
+                                                         "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                                                         "p":  1,
+                                                         "km":  0.7,
                                                          "tv":  20
                                                      },
                                                      {
