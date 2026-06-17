@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  91,
+                                     "tv":  260
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -5495,15 +5504,6 @@
                                      "pe":  0,
                                      "km":  58.03,
                                      "tv":  323
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  81.71,
-                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -5641,6 +5641,15 @@
                                      "tv":  225
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  51,
+                                     "tv":  264
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -5650,13 +5659,13 @@
                                      "tv":  221
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  3,
-                                     "pe":  3,
-                                     "km":  48.8,
-                                     "tv":  212
+                                     "pe":  2,
+                                     "km":  50.22,
+                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -5684,15 +5693,6 @@
                                      "pe":  0,
                                      "km":  65.03,
                                      "tv":  252
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  40.49,
-                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Karina",
@@ -6084,6 +6084,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                       "p":  1,
+                                       "km":  2.2,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADOS MARCON LTDA.",
                                        "p":  0,
@@ -6187,6 +6194,13 @@
                                        "p":  0,
                                        "km":  13.37,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                                       "p":  1,
+                                       "km":  9.73,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Nelson",
