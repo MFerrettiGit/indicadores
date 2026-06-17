@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  70.04,
+                                     "tv":  352
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -5513,15 +5522,6 @@
                                      "pe":  0,
                                      "km":  30.78,
                                      "tv":  354
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  68.36,
-                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Aline",
@@ -5578,6 +5578,15 @@
                                      "tv":  104
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  57.12,
+                                     "tv":  355
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -5585,15 +5594,6 @@
                                      "pe":  1,
                                      "km":  16.83,
                                      "tv":  238
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  53.6,
-                                     "tv":  284
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5677,6 +5677,15 @@
                                      "tv":  221
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  56.01,
+                                     "tv":  306
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -5684,15 +5693,6 @@
                                      "pe":  0,
                                      "km":  102.53,
                                      "tv":  302
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  34.4,
-                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Alan",
@@ -5944,6 +5944,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.22",
+                                       "p":  1,
+                                       "km":  1.68,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "FAVETTA",
                                        "p":  1,
@@ -6126,6 +6133,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
+                                       "p":  1,
+                                       "km":  3.52,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "LESSA",
                                        "p":  1,
@@ -6264,6 +6278,13 @@
                                        "p":  1,
                                        "km":  32.4,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL PRIMAVERA MARESIAS LTDA",
+                                       "p":  1,
+                                       "km":  21.61,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Lucas",
