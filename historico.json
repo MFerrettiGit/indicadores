@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5578,6 +5578,15 @@
                                      "tv":  104
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  16.83,
+                                     "tv":  238
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -5585,15 +5594,6 @@
                                      "pe":  2,
                                      "km":  53.6,
                                      "tv":  284
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  15.01,
-                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5641,6 +5641,15 @@
                                      "tv":  225
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  50.98,
+                                     "tv":  221
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -5648,15 +5657,6 @@
                                      "pe":  3,
                                      "km":  48.8,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  38.76,
-                                     "tv":  190
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -5944,6 +5944,13 @@
                                        "tv":  62
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO SANTA TEREZINHA LTDA",
+                                       "p":  0,
+                                       "km":  1.82,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "E G DAROS",
                                        "p":  0,
@@ -6187,6 +6194,13 @@
                                        "p":  1,
                                        "km":  2.27,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "PAULO CESAR DE ALMEIDA MERCEARIA",
+                                       "p":  0,
+                                       "km":  12.22,
+                                       "tv":  31
                                    }
                                ]
                    }

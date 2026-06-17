@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "13:37",
                      "tv":  "05:05:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Vinicius",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:53",
                      "ultimo":  "13:51",
                      "tv":  "03:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  16.83,
+                     "semPed":  4,
+                     "perc":  80,
+                     "primeiro":  "08:20",
+                     "ultimo":  "14:01",
+                     "tv":  "03:58:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -167,21 +182,6 @@ window.PAINEL = {
                      "tv":  "04:44:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  15.01,
-                     "semPed":  3,
-                     "perc":  75,
-                     "primeiro":  "08:20",
-                     "ultimo":  "13:10",
-                     "tv":  "03:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  50.98,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:25",
+                     "ultimo":  "14:03",
+                     "tv":  "03:41:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -270,21 +285,6 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "12:39",
                      "tv":  "03:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  38.76,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:25",
-                     "ultimo":  "12:00",
-                     "tv":  "03:10:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "11:18",
                      "tv":  "02:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -672,6 +672,15 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO SANTA TEREZINHA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "13:29:19",
+                         "out":  "14:01:55",
+                         "km":  1.82,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "E G DAROS",
                          "mun":  "LIMEIRA",
@@ -985,6 +994,15 @@ window.PAINEL = {
                          "out":  "12:00:03",
                          "km":  2.27,
                          "dur":  "01:30:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "PAULO CESAR DE ALMEIDA MERCEARIA",
+                         "mun":  "SARAPUI",
+                         "in":  "13:32:04",
+                         "out":  "14:03:28",
+                         "km":  12.22,
+                         "dur":  "00:31:00"
                      }
                  ],
     "eventos":  [
@@ -1178,7 +1196,7 @@ window.PAINEL = {
                         "obs":  "Laranjal Paulista a Cezari Lange",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:39"
+                        "tempo":  "00:39:39"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1186,7 +1204,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:47"
+                        "tempo":  "00:33:47"
                     },
                     {
                         "nome":  "Alan",
@@ -1194,7 +1212,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:57"
+                        "tempo":  "00:31:57"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1202,7 +1220,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:27"
+                        "tempo":  "00:27:27"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:01"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "sarapui a Itapetininga",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:58"
                     }
                 ],
     "semped":  [
@@ -1267,6 +1301,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO SANTA TEREZINHA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
+                   },
+                   {
                        "nome":  "Lucas",
                        "razao":  "SUPERMERCADO SUMERBOL LTDA",
                        "mun":  "INDAIATUBA",
@@ -1275,6 +1315,12 @@ window.PAINEL = {
                    {
                        "nome":  "Nelson",
                        "razao":  "SUPERMERCADO CARVALHO DE SARAPUI LTDA",
+                       "mun":  "SARAPUI",
+                       "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "PAULO CESAR DE ALMEIDA MERCEARIA",
                        "mun":  "SARAPUI",
                        "obs":  "cliente estocado"
                    },
@@ -1314,85 +1360,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:13:41"
+                         "tempo":  "00:28:39"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:31:31"
+                         "tempo":  "00:46:29"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
                          "mun":  "SUMARE",
-                         "tempo":  "00:17:36"
+                         "tempo":  "00:32:34"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:45"
+                         "tempo":  "00:21:43"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:17:11"
+                         "tempo":  "00:32:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:42:49"
+                         "tempo":  "00:57:47"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:06:57"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "00:02:28"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO SANTA TEREZINHA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:24:51"
+                         "tempo":  "00:17:26"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "00:28:42"
+                         "tempo":  "00:43:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "00:43:35"
+                         "tempo":  "00:58:33"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:26:47"
+                         "tempo":  "00:41:45"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EMPORIO BAREQUECABA LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:04:47"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "PAULO CESAR DE ALMEIDA MERCEARIA",
-                         "mun":  "SARAPUI",
-                         "tempo":  "00:22:06"
+                         "tempo":  "00:19:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:17:12"
+                         "tempo":  "00:32:10"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:08:44"
                      }
                  ],
     "hist":  [
@@ -1503,8 +1549,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     71,
-                     18
+                     73,
+                     20
                  ]
              ],
     "historico":  {
@@ -6994,7 +7040,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7087,6 +7133,15 @@ window.PAINEL = {
                                                        "tv":  104
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  1,
+                                                       "km":  16.83,
+                                                       "tv":  238
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -7094,15 +7149,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  53.6,
                                                        "tv":  284
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  1,
-                                                       "km":  15.01,
-                                                       "tv":  206
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -7150,6 +7196,15 @@ window.PAINEL = {
                                                        "tv":  225
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  50.98,
+                                                       "tv":  221
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -7157,15 +7212,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  48.8,
                                                        "tv":  212
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  38.76,
-                                                       "tv":  190
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -7453,6 +7499,13 @@ window.PAINEL = {
                                                          "tv":  62
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO SANTA TEREZINHA LTDA",
+                                                         "p":  0,
+                                                         "km":  1.82,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "E G DAROS",
                                                          "p":  0,
@@ -7696,6 +7749,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.27,
                                                          "tv":  90
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "PAULO CESAR DE ALMEIDA MERCEARIA",
+                                                         "p":  0,
+                                                         "km":  12.22,
+                                                         "tv":  31
                                                      }
                                                  ]
                                      }
