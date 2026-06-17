@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5644,10 +5644,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  51,
-                                     "tv":  264
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  53.42,
+                                     "tv":  296
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -5677,6 +5677,15 @@
                                      "tv":  179
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  102.53,
+                                     "tv":  302
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -5693,15 +5702,6 @@
                                      "pe":  2,
                                      "km":  7.21,
                                      "tv":  264
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  65.03,
-                                     "tv":  252
                                  }
                              ],
                        "cli":  [
@@ -6119,6 +6119,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                       "p":  1,
+                                       "km":  2.42,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADOS MARCON LTDA.",
                                        "p":  0,
@@ -6131,6 +6138,13 @@
                                        "p":  0,
                                        "km":  1.66,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADOS MARCON LTDA.",
+                                       "p":  0,
+                                       "km":  37.5,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Eugenio",

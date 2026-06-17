@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "15:03",
                      "tv":  "06:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  51,
+                     "visitas":  5,
+                     "km":  53.42,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:10",
-                     "ultimo":  "14:29",
-                     "tv":  "04:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:19",
+                     "tv":  "04:56:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "14:03",
                      "tv":  "03:41:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  102.53,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:02",
+                     "ultimo":  "15:11",
+                     "tv":  "05:02:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -330,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "14:47",
                      "tv":  "04:18:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -345,21 +360,6 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "13:01",
                      "tv":  "04:24:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  65.03,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:02",
-                     "ultimo":  "13:28",
-                     "tv":  "04:12:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -897,6 +897,15 @@ window.PAINEL = {
                          "dur":  "00:52:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                         "mun":  "ITUPEVA",
+                         "in":  "14:46:15",
+                         "out":  "15:19:35",
+                         "km":  2.42,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
@@ -913,6 +922,15 @@ window.PAINEL = {
                          "out":  "13:28:48",
                          "km":  1.66,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADOS MARCON LTDA.",
+                         "mun":  "CESARIO LANGE",
+                         "in":  "14:20:46",
+                         "out":  "15:11:41",
+                         "km":  37.5,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1210,6 +1228,14 @@ window.PAINEL = {
                         "tempo":  "01:03:42"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "sarapui a Itapetininga",
+                        "inicio":  "14:04",
+                        "final":  "15:24",
+                        "tempo":  "01:19:57"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
@@ -1338,20 +1364,20 @@ window.PAINEL = {
                         "tempo":  "01:00:55"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "sarapui a Itapetininga",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:06:28"
-                    },
-                    {
                         "nome":  "Aline",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:57"
+                        "tempo":  "00:30:44"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Cesario Lange a Laranjal Paulista",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:28"
                     }
                 ],
     "semped":  [
@@ -1458,6 +1484,12 @@ window.PAINEL = {
                        "obs":  "Ausente"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADOS MARCON LTDA.",
+                       "mun":  "CESARIO LANGE",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Mariangela",
                        "razao":  "LOJAS ESTRELA DO LAR LTDA",
                        "mun":  "JACAREI",
@@ -1481,91 +1513,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:28:51"
+                         "tempo":  "01:43:43"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:06"
+                         "tempo":  "00:28:58"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:32:21"
+                         "tempo":  "01:47:13"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:12:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.22",
                          "mun":  "ITU",
-                         "tempo":  "00:15:43"
+                         "tempo":  "00:30:35"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:03:49"
+                         "tempo":  "00:18:41"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "PRIMOS PEROLA LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:39:12"
+                         "tempo":  "00:54:04"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:17:38"
+                         "tempo":  "01:32:30"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO SB BABA LTDA.",
+                         "mun":  "JARDINOPOLIS",
+                         "tempo":  "00:14:49"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "01:58:45"
+                         "tempo":  "02:13:37"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "01:41:57"
+                         "tempo":  "01:56:49"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:01:58"
+                         "tempo":  "00:16:50"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:26:40"
+                         "tempo":  "00:41:32"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL PRIMAVERA MARESIAS LTDA",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:02:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "MERCADO BEIJA FLOR LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:06:52"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
-                         "mun":  "ITUPEVA",
-                         "tempo":  "00:23:05"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADOS MARCON LTDA.",
-                         "mun":  "CESARIO LANGE",
-                         "tempo":  "00:48:34"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:27:11"
+                         "tempo":  "00:21:44"
                      }
                  ],
     "hist":  [
@@ -1676,8 +1708,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     83,
-                     21
+                     86,
+                     22
                  ]
              ],
     "historico":  {
@@ -7167,7 +7199,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7326,10 +7358,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  51,
-                                                       "tv":  264
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  53.42,
+                                                       "tv":  296
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -7359,6 +7391,15 @@ window.PAINEL = {
                                                        "tv":  179
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  102.53,
+                                                       "tv":  302
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -7375,15 +7416,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  7.21,
                                                        "tv":  264
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  65.03,
-                                                       "tv":  252
                                                    }
                                                ],
                                          "cli":  [
@@ -7801,6 +7833,13 @@ window.PAINEL = {
                                                          "tv":  52
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                                         "p":  1,
+                                                         "km":  2.42,
+                                                         "tv":  32
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADOS MARCON LTDA.",
                                                          "p":  0,
@@ -7813,6 +7852,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.66,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADOS MARCON LTDA.",
+                                                         "p":  0,
+                                                         "km":  37.5,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Eugenio",
