@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  117.85,
+                     "km":  140.54,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  102.66,
+                     "km":  144.22,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:30",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  36.53,
+                     "km":  54.48,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:16",
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  16.83,
+                     "km":  19.82,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:20",
                      "ultimo":  "14:01",
                      "tv":  "03:58:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  98.61,
+                     "km":  99.56,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:41",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "17:31",
                      "tv":  "06:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -309,12 +309,27 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  60.49,
+                     "km":  66.28,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:24",
                      "ultimo":  "16:34",
                      "tv":  "04:09:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  97.09,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:25",
+                     "ultimo":  "17:50",
+                     "tv":  "05:37:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -334,33 +349,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  50.98,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:25",
-                     "ultimo":  "14:03",
-                     "tv":  "03:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  7.21,
+                     "visitas":  3,
+                     "km":  21.88,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:02",
-                     "ultimo":  "13:01",
-                     "tv":  "04:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:48",
+                     "tv":  "07:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -1041,6 +1041,15 @@ window.PAINEL = {
                          "dur":  "01:36:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:42:40",
+                         "out":  "17:48:37",
+                         "km":  14.67,
+                         "dur":  "03:05:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
@@ -1390,6 +1399,15 @@ window.PAINEL = {
                          "out":  "14:03:28",
                          "km":  12.22,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:53:29",
+                         "out":  "17:50:16",
+                         "km":  46.11,
+                         "dur":  "01:56:00"
                      }
                  ],
     "eventos":  [
@@ -1472,6 +1490,14 @@ window.PAINEL = {
                         "inicio":  "14:19",
                         "final":  "14:52",
                         "tempo":  "00:32:56"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Reta Alimentos",
+                        "inicio":  "15:37",
+                        "final":  "17:49",
+                        "tempo":  "02:11:34"
                     },
                     {
                         "nome":  "Nelson",
@@ -1650,20 +1676,12 @@ window.PAINEL = {
                         "tempo":  "01:00:55"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Reta Alimentos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:02:54"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:36:12"
+                        "tempo":  "01:51:02"
                     },
                     {
                         "nome":  "Cominato",
@@ -1671,7 +1689,7 @@ window.PAINEL = {
                         "obs":  "retorno piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:03"
+                        "tempo":  "01:08:53"
                     },
                     {
                         "nome":  "Lucas",
@@ -1679,7 +1697,7 @@ window.PAINEL = {
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:03"
+                        "tempo":  "01:02:53"
                     }
                 ],
     "semped":  [
@@ -1839,25 +1857,19 @@ window.PAINEL = {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:56:05"
+                         "tempo":  "01:11:03"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:32:12"
+                         "tempo":  "00:47:10"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:56:28"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:45:39"
+                         "nome":  "Karina",
+                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:08:11"
                      }
                  ],
     "hist":  [
@@ -1968,7 +1980,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     117,
+                     119,
                      26
                  ]
              ],
@@ -7459,7 +7471,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7467,7 +7479,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  117.85,
+                                                       "km":  140.54,
                                                        "tv":  378
                                                    },
                                                    {
@@ -7512,7 +7524,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  102.66,
+                                                       "km":  144.22,
                                                        "tv":  355
                                                    },
                                                    {
@@ -7566,7 +7578,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  36.53,
+                                                       "km":  54.48,
                                                        "tv":  378
                                                    },
                                                    {
@@ -7575,7 +7587,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  16.83,
+                                                       "km":  19.82,
                                                        "tv":  238
                                                    },
                                                    {
@@ -7584,7 +7596,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  98.61,
+                                                       "km":  99.56,
                                                        "tv":  303
                                                    },
                                                    {
@@ -7647,8 +7659,17 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  60.49,
+                                                       "km":  66.28,
                                                        "tv":  249
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  97.09,
+                                                       "tv":  337
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -7660,22 +7681,13 @@ window.PAINEL = {
                                                        "tv":  355
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  50.98,
-                                                       "tv":  221
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  7.21,
-                                                       "tv":  264
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  21.88,
+                                                       "tv":  449
                                                    }
                                                ],
                                          "cli":  [
@@ -8205,6 +8217,13 @@ window.PAINEL = {
                                                          "tv":  96
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
+                                                         "p":  1,
+                                                         "km":  14.67,
+                                                         "tv":  185
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                                                          "p":  1,
@@ -8476,6 +8495,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  12.22,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                                                         "p":  1,
+                                                         "km":  46.11,
+                                                         "tv":  116
                                                      }
                                                  ]
                                      }

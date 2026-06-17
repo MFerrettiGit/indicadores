@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5493,7 +5493,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  117.85,
+                                     "km":  140.54,
                                      "tv":  378
                                  },
                                  {
@@ -5538,7 +5538,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  102.66,
+                                     "km":  144.22,
                                      "tv":  355
                                  },
                                  {
@@ -5592,7 +5592,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  36.53,
+                                     "km":  54.48,
                                      "tv":  378
                                  },
                                  {
@@ -5601,7 +5601,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  16.83,
+                                     "km":  19.82,
                                      "tv":  238
                                  },
                                  {
@@ -5610,7 +5610,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  98.61,
+                                     "km":  99.56,
                                      "tv":  303
                                  },
                                  {
@@ -5673,8 +5673,17 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  4,
-                                     "km":  60.49,
+                                     "km":  66.28,
                                      "tv":  249
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  97.09,
+                                     "tv":  337
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5686,22 +5695,13 @@
                                      "tv":  355
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  50.98,
-                                     "tv":  221
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.21,
-                                     "tv":  264
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  21.88,
+                                     "tv":  449
                                  }
                              ],
                        "cli":  [
@@ -6231,6 +6231,13 @@
                                        "tv":  96
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
+                                       "p":  1,
+                                       "km":  14.67,
+                                       "tv":  185
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                                        "p":  1,
@@ -6502,6 +6509,13 @@
                                        "p":  0,
                                        "km":  12.22,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                                       "p":  1,
+                                       "km":  46.11,
+                                       "tv":  116
                                    }
                                ]
                    }
