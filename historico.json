@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5563,10 +5563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  38.22,
-                                     "tv":  90
+                                     "km":  84.44,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -5668,6 +5668,15 @@
                                      "tv":  146
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.21,
+                                     "tv":  264
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -5684,15 +5693,6 @@
                                      "pe":  2,
                                      "km":  2,
                                      "tv":  200
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  5.88,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5951,6 +5951,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  46.22,
+                                       "tv":  106
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -5984,6 +5991,13 @@
                                        "p":  1,
                                        "km":  5.88,
                                        "tv":  168
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA S LUIZ SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.33,
+                                       "tv":  96
                                    },
                                    {
                                        "n":  "Castro",
