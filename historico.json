@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5506,6 +5506,15 @@
                                      "tv":  323
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  30.78,
+                                     "tv":  354
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -5513,15 +5522,6 @@
                                      "pe":  0,
                                      "km":  68.36,
                                      "tv":  270
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  27.02,
-                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Aline",
@@ -5599,10 +5599,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  53.1,
-                                     "tv":  158
+                                     "km":  90.76,
+                                     "tv":  242
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -5614,6 +5614,15 @@
                                      "tv":  325
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  4.99,
+                                     "tv":  339
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -5621,15 +5630,6 @@
                                      "pe":  2,
                                      "km":  27.68,
                                      "tv":  329
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.82,
-                                     "tv":  213
                                  },
                                  {
                                      "nome":  "Castro",
@@ -6089,6 +6089,13 @@
                                        "p":  0,
                                        "km":  2.44,
                                        "tv":  213
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J.L. DAOLIO",
+                                       "p":  1,
+                                       "km":  2.17,
+                                       "tv":  126
                                    },
                                    {
                                        "n":  "Sao Carlos",
