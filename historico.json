@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5502,8 +5502,17 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  58.03,
+                                     "km":  67.06,
                                      "tv":  323
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  68.36,
+                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -5515,22 +5524,13 @@
                                      "tv":  305
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  67.26,
-                                     "tv":  231
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  44.26,
-                                     "tv":  269
+                                     "km":  53.13,
+                                     "tv":  338
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -5563,10 +5563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
                                      "km":  84.44,
-                                     "tv":  196
+                                     "tv":  278
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -5659,6 +5659,15 @@
                                      "tv":  221
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  33.47,
+                                     "tv":  179
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -5668,13 +5677,13 @@
                                      "tv":  168
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  3,
-                                     "pe":  2,
-                                     "km":  27.8,
-                                     "tv":  146
+                                     "pe":  3,
+                                     "km":  34.4,
+                                     "tv":  258
                                  },
                                  {
                                      "nome":  "Alan",
@@ -5693,15 +5702,6 @@
                                      "pe":  0,
                                      "km":  65.03,
                                      "tv":  252
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  2,
-                                     "tv":  200
                                  }
                              ],
                        "cli":  [
@@ -5725,6 +5725,13 @@
                                        "p":  1,
                                        "km":  4.2,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
+                                       "p":  1,
+                                       "km":  8.87,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Debora",
@@ -5909,6 +5916,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  1.1,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "FAVETTA",
                                        "p":  1,
@@ -6012,6 +6026,13 @@
                                        "p":  1,
                                        "km":  46.22,
                                        "tv":  106
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  82
                                    },
                                    {
                                        "n":  "Rachel",
@@ -6161,6 +6182,13 @@
                                        "tv":  171
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "EMPORIO BAREQUECABA LTDA",
+                                       "p":  1,
+                                       "km":  32.4,
+                                       "tv":  58
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                                        "p":  1,
@@ -6180,6 +6208,13 @@
                                        "p":  1,
                                        "km":  8.95,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  0,
+                                       "km":  5.67,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Mariangela",
