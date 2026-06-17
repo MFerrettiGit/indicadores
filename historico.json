@@ -5485,8 +5485,89 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  57.36,
+                                     "tv":  105
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.43,
+                                     "tv":  128
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.8,
+                                     "tv":  160
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.97,
+                                     "tv":  147
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  24.66,
+                                     "tv":  147
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  35.22,
+                                     "tv":  74
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Milene",
+                                     "setor":  "PROMO-RIBEIRAO",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  13.65,
+                                     "tv":  56
+                                 },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
@@ -5495,6 +5576,24 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  9.88,
+                                     "tv":  82
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  39.29,
+                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -5521,24 +5620,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  23.81,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.14,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  3.73,
                                      "tv":  0
                                  },
                                  {
@@ -5624,6 +5705,90 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  24.66,
+                                       "tv":  147
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  29.98,
+                                       "tv":  80
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  48
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.03",
+                                       "p":  1,
+                                       "km":  2.8,
+                                       "tv":  160
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  39.85,
+                                       "tv":  78
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  17.51,
+                                       "tv":  27
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  1.97,
+                                       "tv":  147
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  24.99,
+                                       "tv":  74
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "P.R.FERREIRA FRANCA",
+                                       "p":  1,
+                                       "km":  7.74,
+                                       "tv":  82
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "E G DAROS",
+                                       "p":  0,
+                                       "km":  35.56,
+                                       "tv":  65
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA",
+                                       "p":  1,
+                                       "km":  6.83,
+                                       "tv":  41
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  6.82,
+                                       "tv":  15
+                                   },
                                    {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",

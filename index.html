@@ -260,6 +260,9 @@ const META={inicio:480,fim:1068,tol:10,fimTarde:1110,almoco:60,visitas:5,pedidos
 // parâmetros da régua de conferência "cliente próximo, demorado e recorrente"
 const SUS={longMin:60, kmPerto:5, freqMes:4, freqSem:2};  // >1h de visita, rodou ≤5 km, 4x/mês ou 2x/semana
 const ANALISE_EXCLUI={'Eduardo':true};
+// PROMOTORES (merchandising): entram só nos relatórios (Resumo, gráficos, totais), agrupados na
+// regional própria abaixo. Ficam FORA de destaques, avisos, cobranças e pontos de conferência.
+const MERCH_REG='Regional Merchandising';
 // correções de regional pedidas pela gerência (a base TimeService traz errada p/ alguns)
 const REGIONAL_FIX={'Cominato':'NORDESTE'};
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
@@ -440,7 +443,7 @@ VEND.forEach(v=>{
   // pontuação de desempenho (para destaques)
   v.perfScore = v.orders*3 + v.visitas - v.semPed*2 - v.errCount*2 - v.suspeitos.length
               - (v.lateStart?2:0) - (v.earlyEnd?2:0);
-  v.semAnalise = !!ANALISE_EXCLUI[v.nome];
+  v.semAnalise = !!ANALISE_EXCLUI[v.nome] || v.tipo==='OP' || v.regional===MERCH_REG;
   if(v.semAnalise){ v.inicio=[]; v.fim=[]; v.agenda=[]; v.suspeitos=[]; v.errCount=0; v.cardSev=0; v.lateStart=false; v.earlyEnd=false; v.perfScore=-9999; }
 });
 
@@ -673,7 +676,7 @@ function periodView(kind){
 }
 function periodLeitura(kind){
   const {dates,rows}=aggPeriod(kind);
-  const rs=rows.filter(r=>!ANALISE_EXCLUI[r.nome]);
+  const rs=rows.filter(r=>!ANALISE_EXCLUI[r.nome] && (REGIONAL_FIX[r.nome]||r.regional)!==MERCH_REG);
   if(!dates.length||!rs.length) return '';
   const tVis=rs.reduce((a,r)=>a+r.vi,0),tPed=rs.reduce((a,r)=>a+r.pe,0),tKm=rs.reduce((a,r)=>a+r.km,0);
   const label=kind==='sem'?'semana':'mês';
