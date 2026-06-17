@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  117.85,
+                                     "tv":  378
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -5495,15 +5504,6 @@
                                      "pe":  0,
                                      "km":  70.04,
                                      "tv":  352
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  91,
-                                     "tv":  260
                                  },
                                  {
                                      "nome":  "Debora",
@@ -5527,28 +5527,28 @@
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  53.13,
-                                     "tv":  338
+                                     "km":  62.05,
+                                     "tv":  367
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  68.38,
-                                     "tv":  314
+                                     "km":  102.66,
+                                     "tv":  355
                                  },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  14.65,
-                                     "tv":  386
+                                     "km":  15.76,
+                                     "tv":  485
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5572,10 +5572,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  116.08,
-                                     "tv":  104
+                                     "km":  119.39,
+                                     "tv":  283
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -5650,6 +5650,15 @@
                                      "tv":  225
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  37.75,
+                                     "tv":  268
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -5659,13 +5668,22 @@
                                      "tv":  249
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  3,
-                                     "km":  36.5,
-                                     "tv":  217
+                                     "pe":  5,
+                                     "km":  56.01,
+                                     "tv":  330
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  133.57,
+                                     "tv":  355
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5675,24 +5693,6 @@
                                      "pe":  2,
                                      "km":  50.98,
                                      "tv":  221
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  56.01,
-                                     "tv":  306
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  102.53,
-                                     "tv":  302
                                  },
                                  {
                                      "nome":  "Alan",
@@ -5732,6 +5732,13 @@
                                        "p":  1,
                                        "km":  8.87,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  8.92,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Debora",
@@ -5797,6 +5804,13 @@
                                        "tv":  111
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  34.28,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                                        "p":  0,
@@ -5818,6 +5832,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                       "p":  0,
+                                       "km":  3.31,
+                                       "tv":  179
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -5837,6 +5858,13 @@
                                        "p":  1,
                                        "km":  6.3,
                                        "tv":  112
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  1.11,
+                                       "tv":  99
                                    },
                                    {
                                        "n":  "Evandro",
@@ -5872,6 +5900,13 @@
                                        "p":  1,
                                        "km":  9.29,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
+                                       "p":  1,
+                                       "km":  26.85,
+                                       "tv":  118
                                    },
                                    {
                                        "n":  "Silmara",
@@ -6341,6 +6376,13 @@
                                        "p":  1,
                                        "km":  3.03,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SM DIA CIDADE NOVA EIRELI",
+                                       "p":  1,
+                                       "km":  1.25,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Mariangela",
