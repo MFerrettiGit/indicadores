@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  80.8,
+                                     "tv":  187
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -5497,13 +5506,13 @@
                                      "tv":  208
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  57.36,
-                                     "tv":  105
+                                     "km":  64.2,
+                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -5515,13 +5524,13 @@
                                      "tv":  170
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  62.88,
-                                     "tv":  125
+                                     "km":  40.06,
+                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -5540,15 +5549,6 @@
                                      "pe":  0,
                                      "km":  2.8,
                                      "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  24.66,
-                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5646,7 +5646,7 @@
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  1,
-                                     "km":  28.3,
+                                     "km":  40.49,
                                      "tv":  140
                                  },
                                  {
@@ -5713,6 +5713,13 @@
                                        "tv":  147
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
+                                       "p":  1,
+                                       "km":  15.4,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -5776,6 +5783,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  23.44,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -5802,6 +5816,13 @@
                                        "p":  1,
                                        "km":  27.66,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.32,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Fernando",
