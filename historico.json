@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "18:15",
+                       "dataHora":  "18:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5632,6 +5632,15 @@
                                      "tv":  339
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  8,
+                                     "pe":  8,
+                                     "km":  63.09,
+                                     "tv":  396
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -5639,15 +5648,6 @@
                                      "pe":  5,
                                      "km":  61.62,
                                      "tv":  345
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  7,
-                                     "pe":  7,
-                                     "km":  57.52,
-                                     "tv":  370
                                  },
                                  {
                                      "nome":  "Castro",
@@ -5682,7 +5682,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  97.09,
+                                     "km":  100.21,
                                      "tv":  337
                                  },
                                  {

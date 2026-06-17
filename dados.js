@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  8,
+                     "km":  63.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "18:12",
+                     "tv":  "06:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -256,21 +271,6 @@ window.PAINEL = {
                      "ultimo":  "17:37",
                      "tv":  "05:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  57.52,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "17:31",
-                     "tv":  "06:10:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  97.09,
+                     "km":  100.21,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:25",
@@ -1708,7 +1708,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:08:38"
+                        "tempo":  "02:21:03"
                     },
                     {
                         "nome":  "Cominato",
@@ -1716,7 +1716,7 @@ window.PAINEL = {
                         "obs":  "retorno piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:26:29"
+                        "tempo":  "01:38:54"
                     },
                     {
                         "nome":  "Lucas",
@@ -1724,7 +1724,7 @@ window.PAINEL = {
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:20:29"
+                        "tempo":  "01:32:54"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1732,7 +1732,7 @@ window.PAINEL = {
                         "obs":  "Descalvado a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:41"
+                        "tempo":  "00:23:06"
                     }
                 ],
     "semped":  [
@@ -1894,12 +1894,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
-                         "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:25:41"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -2009,7 +2004,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     121,
+                     122,
                      27
                  ]
              ],
@@ -7500,7 +7495,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7647,6 +7642,15 @@ window.PAINEL = {
                                                        "tv":  339
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  8,
+                                                       "pe":  8,
+                                                       "km":  63.09,
+                                                       "tv":  396
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -7654,15 +7658,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  61.62,
                                                        "tv":  345
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  7,
-                                                       "km":  57.52,
-                                                       "tv":  370
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -7697,7 +7692,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  97.09,
+                                                       "km":  100.21,
                                                        "tv":  337
                                                    },
                                                    {
