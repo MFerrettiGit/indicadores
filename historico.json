@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "11:00",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  35.11,
+                                     "tv":  208
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -5495,15 +5504,6 @@
                                      "pe":  0,
                                      "km":  57.36,
                                      "tv":  105
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  34.43,
-                                     "tv":  128
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -5578,6 +5578,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  49.57,
+                                     "tv":  146
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -5585,15 +5594,6 @@
                                      "pe":  1,
                                      "km":  11.65,
                                      "tv":  123
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  46.92,
-                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5650,6 +5650,24 @@
                                      "tv":  100
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  5.88,
+                                     "tv":  168
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  25.4,
+                                     "tv":  162
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -5677,30 +5695,12 @@
                                      "tv":  47
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  4.31,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -5725,6 +5725,13 @@
                                        "p":  1,
                                        "km":  1.16,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0.68,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -5830,6 +5837,27 @@
                                        "p":  1,
                                        "km":  44.96,
                                        "tv":  127
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                                       "p":  0,
+                                       "km":  2.65,
+                                       "tv":  19
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  5.88,
+                                       "tv":  168
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  25.4,
+                                       "tv":  162
                                    },
                                    {
                                        "n":  "Eugenio",

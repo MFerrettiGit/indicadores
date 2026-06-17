@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "11:00",
     "vend":  [
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  35.11,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:00",
+                     "ultimo":  "10:46",
+                     "tv":  "03:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -15,21 +30,6 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "09:45",
                      "tv":  "01:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  34.43,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:00",
-                     "ultimo":  "09:18",
-                     "tv":  "02:08:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -147,9 +147,24 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "10:46",
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  49.57,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:13",
+                     "ultimo":  "10:50",
+                     "tv":  "02:26:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "10:31",
                      "tv":  "02:03:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  46.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "10:20",
-                     "tv":  "02:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -274,6 +274,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  5.88,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:02",
+                     "ultimo":  "10:51",
+                     "tv":  "02:48:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  25.4,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:10",
+                     "ultimo":  "10:53",
+                     "tv":  "02:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -319,21 +349,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -343,21 +358,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:10",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "09:18:15",
                          "km":  1.16,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "LEME",
+                         "in":  "09:26:19",
+                         "out":  "10:46:57",
+                         "km":  0.68,
+                         "dur":  "01:20:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -526,6 +535,33 @@ window.PAINEL = {
                          "out":  "10:20:34",
                          "km":  44.96,
                          "dur":  "02:07:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                         "mun":  "DESCALVADO",
+                         "in":  "10:31:01",
+                         "out":  "10:50:20",
+                         "km":  2.65,
+                         "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:02:47",
+                         "out":  "10:51:06",
+                         "km":  5.88,
+                         "dur":  "02:48:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:10:56",
+                         "out":  "10:53:41",
+                         "km":  25.4,
+                         "dur":  "02:42:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -697,128 +733,122 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO CARVALHO DE SARAPUI LTDA",
                        "mun":  "SARAPUI",
                        "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                       "mun":  "DESCALVADO",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "LEME",
-                         "tempo":  "01:12:55"
+                         "nome":  "Eduardo",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:07:24"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:26:02"
+                         "tempo":  "00:41:05"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:23:33"
+                         "tempo":  "00:38:36"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:02:19"
+                         "tempo":  "00:17:22"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:38:41"
+                         "tempo":  "00:53:44"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:03:58"
+                         "tempo":  "00:19:01"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:04:18"
+                         "tempo":  "00:19:21"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "BENFICA COM E SERV EIRELI - EPP",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:18:30"
+                         "tempo":  "00:33:33"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:29:13"
+                         "tempo":  "02:44:16"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:11:36"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HERNANDEZ",
                          "mun":  "PONTAL",
-                         "tempo":  "00:25:17"
+                         "tempo":  "00:40:20"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "02:23:08"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
-                         "mun":  "DESCALVADO",
-                         "tempo":  "00:08:13"
+                         "tempo":  "02:38:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADOS PANONTIM LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:03:55"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "LESSA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:36:27"
+                         "tempo":  "00:18:58"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:33:43"
+                         "tempo":  "01:48:46"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:33:49"
+                         "tempo":  "00:48:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LAURA MARIA  DA SILVA CARVALHO",
                          "mun":  "SARAPUI",
-                         "tempo":  "00:09:46"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "02:28:18"
+                         "tempo":  "00:24:49"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "02:36:36"
+                         "tempo":  "02:51:39"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:07:25"
+                         "tempo":  "00:22:28"
                      }
                  ],
     "hist":  [
@@ -929,8 +959,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     28,
-                     5
+                     32,
+                     6
                  ]
              ],
     "historico":  {
@@ -6420,8 +6450,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "11:00",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  35.11,
+                                                       "tv":  208
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -6430,15 +6469,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  57.36,
                                                        "tv":  105
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  34.43,
-                                                       "tv":  128
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -6513,6 +6543,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  49.57,
+                                                       "tv":  146
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -6520,15 +6559,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  11.65,
                                                        "tv":  123
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  46.92,
-                                                       "tv":  127
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -6585,6 +6615,24 @@ window.PAINEL = {
                                                        "tv":  100
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  5.88,
+                                                       "tv":  168
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  25.4,
+                                                       "tv":  162
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -6612,30 +6660,12 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  4.31,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],
@@ -6660,6 +6690,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.16,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.68,
+                                                         "tv":  80
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -6765,6 +6802,27 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  44.96,
                                                          "tv":  127
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
+                                                         "p":  0,
+                                                         "km":  2.65,
+                                                         "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "LESSA",
+                                                         "p":  1,
+                                                         "km":  5.88,
+                                                         "tv":  168
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
+                                                         "p":  1,
+                                                         "km":  25.4,
+                                                         "tv":  162
                                                      },
                                                      {
                                                          "n":  "Eugenio",
