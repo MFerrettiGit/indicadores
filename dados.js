@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -116,6 +116,20 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  2,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "09:02",
+                     "tv":  "00:29:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -186,20 +200,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:33",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -223,6 +223,15 @@ window.PAINEL = {
                          "out":  "08:35:02",
                          "km":  8.1,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "JONAS F DOS SANTOS MERCADO",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "08:33:04",
+                         "out":  "09:02:42",
+                         "km":  2,
+                         "dur":  "00:29:00"
                      }
                  ],
     "eventos":  [
@@ -283,85 +292,85 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "E G DAROS",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:12:45"
+                         "tempo":  "00:27:48"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:44:09"
+                         "tempo":  "00:59:12"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "P.R.FERREIRA FRANCA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:33:48"
+                         "tempo":  "00:48:51"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
-                         "tempo":  "00:04:20"
+                         "tempo":  "00:19:23"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:38:04"
+                         "tempo":  "00:53:07"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:40:48"
+                         "tempo":  "00:55:51"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "GOYOS BATA SUPERMERCADO LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:02:01"
+                         "tempo":  "00:17:04"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:51:23"
+                         "tempo":  "01:06:26"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "JONAS F DOS SANTOS MERCADO",
+                         "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:21:06"
+                         "tempo":  "00:03:42"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:13:01"
+                         "tempo":  "00:28:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LORENI FERRAIS BONFIM MARIANO",
                          "mun":  "ALAMBARI",
-                         "tempo":  "00:28:45"
+                         "tempo":  "00:43:48"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:43:14"
+                         "tempo":  "00:58:17"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:51:32"
+                         "tempo":  "01:06:35"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:29:39"
+                         "tempo":  "00:44:42"
                      }
                  ],
     "hist":  [
@@ -472,7 +481,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     4,
+                     7,
                      0
                  ]
              ],
@@ -5963,7 +5972,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6038,6 +6047,15 @@ window.PAINEL = {
                                                        "tv":  21
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  2,
+                                                       "tv":  29
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -6083,15 +6101,6 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -6108,6 +6117,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.1,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "JONAS F DOS SANTOS MERCADO",
+                                                         "p":  1,
+                                                         "km":  2,
+                                                         "tv":  29
                                                      }
                                                  ]
                                      }

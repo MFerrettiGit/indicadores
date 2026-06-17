@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Eduardo",
@@ -5560,6 +5560,15 @@
                                      "tv":  21
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2,
+                                     "tv":  29
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -5605,15 +5614,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -5630,6 +5630,13 @@
                                        "p":  1,
                                        "km":  8.1,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "JONAS F DOS SANTOS MERCADO",
+                                       "p":  1,
+                                       "km":  2,
+                                       "tv":  29
                                    }
                                ]
                    }
