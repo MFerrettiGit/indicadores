@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  81.71,
+                                     "tv":  223
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -5495,15 +5504,6 @@
                                      "pe":  0,
                                      "km":  37.73,
                                      "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  80.8,
-                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -5572,10 +5572,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  65.76,
-                                     "tv":  19
+                                     "km":  107.51,
+                                     "tv":  56
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  52.18,
+                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Luis",
@@ -5585,15 +5594,6 @@
                                      "pe":  1,
                                      "km":  14.36,
                                      "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  49.57,
-                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5635,10 +5635,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  29.48,
-                                     "tv":  98
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  31.03,
+                                     "tv":  203
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5769,6 +5769,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  0,
+                                       "km":  41.75,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -5802,6 +5809,13 @@
                                        "p":  1,
                                        "km":  23.44,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                                       "p":  1,
+                                       "km":  0.91,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Silmara",
@@ -5895,6 +5909,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "J.F. MENDES E CIA LTDA.",
+                                       "p":  1,
+                                       "km":  3.77,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -5935,6 +5956,13 @@
                                        "p":  0,
                                        "km":  2.65,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TENDOLINI LTDA",
+                                       "p":  0,
+                                       "km":  2.61,
+                                       "tv":  66
                                    },
                                    {
                                        "n":  "Alan",
@@ -5991,6 +6019,13 @@
                                        "p":  0,
                                        "km":  1.32,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADOS PANONTIM LTDA",
+                                       "p":  1,
+                                       "km":  1.55,
+                                       "tv":  105
                                    },
                                    {
                                        "n":  "Karina",
