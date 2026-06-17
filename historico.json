@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5506,6 +5506,24 @@
                                      "tv":  269
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  26.5,
+                                     "tv":  241
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  44.26,
+                                     "tv":  269
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -5522,24 +5540,6 @@
                                      "pe":  0,
                                      "km":  8.35,
                                      "tv":  274
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  17.94,
-                                     "tv":  170
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  40.06,
-                                     "tv":  219
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -5599,10 +5599,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  49.33,
-                                     "tv":  120
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  53.1,
+                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -5720,6 +5720,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.2,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -5830,6 +5837,13 @@
                                        "p":  1,
                                        "km":  15.97,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  8.56,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -5984,6 +5998,13 @@
                                        "p":  1,
                                        "km":  22.2,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Cominato",
