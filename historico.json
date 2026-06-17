@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5578,6 +5578,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  46.92,
+                                     "tv":  127
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -5596,21 +5605,21 @@
                                      "tv":  65
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  61.46,
+                                     "tv":  80
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.38,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.96,
                                      "tv":  0
                                  },
                                  {
@@ -5623,15 +5632,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  20.82,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -5641,6 +5641,15 @@
                                      "tv":  74
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  36.49,
+                                     "tv":  100
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -5648,15 +5657,6 @@
                                      "pe":  1,
                                      "km":  14.93,
                                      "tv":  94
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  21.89,
-                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Karina",
@@ -5769,6 +5769,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIZARRI LTDA",
+                                       "p":  1,
+                                       "km":  40.64,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "P.R.FERREIRA FRANCA",
                                        "p":  1,
@@ -5795,6 +5802,13 @@
                                        "p":  1,
                                        "km":  6.82,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SILVIO ANTONIO FRANZIN",
+                                       "p":  1,
+                                       "km":  44.96,
+                                       "tv":  127
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -5844,6 +5858,13 @@
                                        "p":  1,
                                        "km":  21.89,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADO CARVALHO DE SARAPUI LTDA",
+                                       "p":  0,
+                                       "km":  14.6,
+                                       "tv":  33
                                    }
                                ]
                    }
