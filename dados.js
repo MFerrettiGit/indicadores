@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "14:24",
                      "tv":  "04:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,8 +60,8 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "13:37",
                      "tv":  "05:05:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -75,6 +75,21 @@ window.PAINEL = {
                      "primeiro":  "07:25",
                      "ultimo":  "14:46",
                      "tv":  "05:38:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  14.65,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:53",
+                     "ultimo":  "15:03",
+                     "tv":  "06:26:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "13:22",
                      "tv":  "03:23:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  8.35,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:53",
-                     "ultimo":  "11:55",
-                     "tv":  "04:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "14:48",
                      "tv":  "04:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "13:36",
                      "tv":  "04:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  54.34,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:24",
+                     "ultimo":  "15:09",
+                     "tv":  "03:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "14:47",
                      "tv":  "02:59:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  50.22,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:24",
-                     "ultimo":  "14:29",
-                     "tv":  "02:48:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -517,6 +517,15 @@ window.PAINEL = {
                          "out":  "11:55:05",
                          "km":  5.55,
                          "dur":  "01:54:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "13:11:21",
+                         "out":  "15:03:42",
+                         "km":  6.3,
+                         "dur":  "01:52:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -1050,6 +1059,15 @@ window.PAINEL = {
                          "dur":  "00:28:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "14:42:09",
+                         "out":  "15:09:33",
+                         "km":  4.12,
+                         "dur":  "00:27:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "LORENI FERRAIS BONFIM MARIANO",
                          "mun":  "ALAMBARI",
@@ -1256,6 +1274,14 @@ window.PAINEL = {
                         "tempo":  "01:01:03"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:58",
+                        "final":  "14:58",
+                        "tempo":  "01:00:34"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Pontal",
@@ -1312,20 +1338,12 @@ window.PAINEL = {
                         "tempo":  "01:00:55"
                     },
                     {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:09"
-                    },
-                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "sarapui a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:06"
+                        "tempo":  "01:06:28"
                     },
                     {
                         "nome":  "Aline",
@@ -1333,7 +1351,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:35"
+                        "tempo":  "00:15:57"
                     }
                 ],
     "semped":  [
@@ -1463,73 +1481,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:13:44"
+                         "tempo":  "01:28:51"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:06"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:17:14"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "01:42:52"
+                         "tempo":  "01:32:21"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.22",
                          "mun":  "ITU",
-                         "tempo":  "00:00:36"
+                         "tempo":  "00:15:43"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:03:49"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "PRIMOS PEROLA LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:24:05"
+                         "tempo":  "00:39:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:02:31"
+                         "tempo":  "01:17:38"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "01:43:38"
+                         "tempo":  "01:58:45"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "01:26:50"
+                         "tempo":  "01:41:57"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
+                         "mun":  "DESCALVADO",
+                         "tempo":  "00:01:58"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:33"
+                         "tempo":  "00:26:40"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "MERCADO BEIJA FLOR LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:06:52"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:07:58"
+                         "tempo":  "00:23:05"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "CESARIO LANGE",
-                         "tempo":  "00:33:27"
+                         "tempo":  "00:48:34"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:12:04"
+                         "tempo":  "00:27:11"
                      }
                  ],
     "hist":  [
@@ -1640,7 +1676,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     82,
+                     83,
                      21
                  ]
              ],
@@ -7131,7 +7167,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7179,6 +7215,15 @@ window.PAINEL = {
                                                        "tv":  338
                                                    },
                                                    {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  14.65,
+                                                       "tv":  386
+                                                   },
+                                                   {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
@@ -7186,15 +7231,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  64.82,
                                                        "tv":  203
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  8.35,
-                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -7296,6 +7332,15 @@ window.PAINEL = {
                                                        "tv":  264
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  54.34,
+                                                       "tv":  195
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -7312,15 +7357,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  33.47,
                                                        "tv":  179
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  50.22,
-                                                       "tv":  168
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -7469,6 +7505,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.55,
                                                          "tv":  114
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  1,
+                                                         "km":  6.3,
+                                                         "tv":  112
                                                      },
                                                      {
                                                          "n":  "Evandro",
@@ -7882,6 +7925,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.73,
                                                          "tv":  28
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
+                                                         "p":  1,
+                                                         "km":  4.12,
+                                                         "tv":  27
                                                      },
                                                      {
                                                          "n":  "Nelson",

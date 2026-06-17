@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5533,6 +5533,15 @@
                                      "tv":  338
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  14.65,
+                                     "tv":  386
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -5540,15 +5549,6 @@
                                      "pe":  0,
                                      "km":  64.82,
                                      "tv":  203
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.35,
-                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5650,6 +5650,15 @@
                                      "tv":  264
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  54.34,
+                                     "tv":  195
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -5666,15 +5675,6 @@
                                      "pe":  2,
                                      "km":  33.47,
                                      "tv":  179
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  50.22,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Karina",
@@ -5823,6 +5823,13 @@
                                        "p":  1,
                                        "km":  5.55,
                                        "tv":  114
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.3,
+                                       "tv":  112
                                    },
                                    {
                                        "n":  "Evandro",
@@ -6236,6 +6243,13 @@
                                        "p":  1,
                                        "km":  9.73,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
+                                       "p":  1,
+                                       "km":  4.12,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Nelson",
