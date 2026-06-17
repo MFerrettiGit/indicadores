@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5511,7 +5511,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  70.04,
+                                     "km":  106.08,
                                      "tv":  352
                                  },
                                  {
@@ -5581,10 +5581,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  3,
-                                     "km":  57.94,
-                                     "tv":  379
+                                     "km":  61.54,
+                                     "tv":  432
                                  },
                                  {
                                      "nome":  "Costa",
@@ -5617,10 +5617,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  62.8,
-                                     "tv":  325
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  108.08,
+                                     "tv":  400
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -6049,6 +6049,13 @@
                                        "tv":  137
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  35.48,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "P.R.FERREIRA FRANCA",
                                        "p":  1,
@@ -6215,6 +6222,13 @@
                                        "p":  0,
                                        "km":  0.82,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  3.6,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Alan",
@@ -6404,6 +6418,13 @@
                                        "p":  1,
                                        "km":  0.7,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MATHEUS HONORATO DE OLIVEIRA",
+                                       "p":  1,
+                                       "km":  5.57,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Lucas",

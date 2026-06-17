@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  70.04,
+                     "km":  106.08,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:53",
@@ -158,15 +158,15 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  57.94,
-                     "semPed":  3,
-                     "perc":  50,
+                     "visitas":  7,
+                     "km":  61.54,
+                     "semPed":  4,
+                     "perc":  57.14,
                      "primeiro":  "08:13",
-                     "ultimo":  "16:55",
-                     "tv":  "06:19:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "18:00",
+                     "tv":  "07:12:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  62.8,
+                     "visitas":  4,
+                     "km":  108.08,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:49",
-                     "ultimo":  "15:28",
-                     "tv":  "05:25:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:58",
+                     "tv":  "06:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -807,6 +807,15 @@ window.PAINEL = {
                          "dur":  "02:17:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:43:03",
+                         "out":  "17:58:31",
+                         "km":  35.48,
+                         "dur":  "01:15:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "P.R.FERREIRA FRANCA",
                          "mun":  "FRANCA",
@@ -1021,6 +1030,15 @@ window.PAINEL = {
                          "out":  "16:55:28",
                          "km":  0.82,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
+                         "mun":  "DESCALVADO",
+                         "in":  "17:06:56",
+                         "out":  "18:00:16",
+                         "km":  3.6,
+                         "dur":  "00:53:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1264,6 +1282,15 @@ window.PAINEL = {
                          "out":  "17:31:02",
                          "km":  0.7,
                          "dur":  "00:20:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
+                         "mun":  "SAO SEBASTIAO",
+                         "in":  "17:45:55",
+                         "out":  "18:12:24",
+                         "km":  5.57,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1681,7 +1708,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:51:02"
+                        "tempo":  "02:08:38"
                     },
                     {
                         "nome":  "Cominato",
@@ -1689,7 +1716,7 @@ window.PAINEL = {
                         "obs":  "retorno piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:53"
+                        "tempo":  "01:26:29"
                     },
                     {
                         "nome":  "Lucas",
@@ -1697,7 +1724,15 @@ window.PAINEL = {
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:02:53"
+                        "tempo":  "01:20:29"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Descalvado a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:41"
                     }
                 ],
     "semped":  [
@@ -1850,26 +1885,20 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO LAZARINI EIRELI",
                        "mun":  "DESCALVADO",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
+                       "mun":  "DESCALVADO",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:11:03"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
-                         "mun":  "DESCALVADO",
-                         "tempo":  "00:47:10"
-                     },
-                     {
                          "nome":  "Karina",
                          "razao":  "MATHEUS HONORATO DE OLIVEIRA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:08:11"
+                         "tempo":  "00:25:41"
                      }
                  ],
     "hist":  [
@@ -1980,8 +2009,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     119,
-                     26
+                     121,
+                     27
                  ]
              ],
     "historico":  {
@@ -7471,7 +7500,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7497,7 +7526,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  70.04,
+                                                       "km":  106.08,
                                                        "tv":  352
                                                    },
                                                    {
@@ -7567,10 +7596,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  3,
-                                                       "km":  57.94,
-                                                       "tv":  379
+                                                       "km":  61.54,
+                                                       "tv":  432
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -7603,10 +7632,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  62.8,
-                                                       "tv":  325
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  108.08,
+                                                       "tv":  400
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -8035,6 +8064,13 @@ window.PAINEL = {
                                                          "tv":  137
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  35.48,
+                                                         "tv":  75
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "P.R.FERREIRA FRANCA",
                                                          "p":  1,
@@ -8201,6 +8237,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.82,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  3.6,
+                                                         "tv":  53
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -8390,6 +8433,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.7,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MATHEUS HONORATO DE OLIVEIRA",
+                                                         "p":  1,
+                                                         "km":  5.57,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Lucas",
