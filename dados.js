@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -105,15 +105,29 @@ window.PAINEL = {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
-                     "visitas":  1,
-                     "km":  8.1,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  2,
+                     "km":  22.05,
+                     "semPed":  1,
+                     "perc":  50,
                      "primeiro":  "08:13",
-                     "ultimo":  "08:35",
-                     "tv":  "00:21:00",
+                     "ultimo":  "09:22",
+                     "tv":  "00:51:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  21.89,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:25",
+                     "ultimo":  "09:33",
+                     "tv":  "01:07:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -127,6 +141,20 @@ window.PAINEL = {
                      "ultimo":  "09:02",
                      "tv":  "00:29:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "visitas":  1,
+                     "km":  15.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:41",
+                     "ultimo":  "09:29",
+                     "tv":  "00:47:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -184,34 +212,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:25",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "visitas":  0,
-                     "km":  8.47,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:41",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -225,6 +225,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "GOYOS BATA SUPERMERCADO LTDA",
+                         "mun":  "PIRACAIA",
+                         "in":  "08:52:09",
+                         "out":  "09:22:27",
+                         "km":  13.95,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "JONAS F DOS SANTOS MERCADO",
                          "mun":  "CARAGUATATUBA",
@@ -232,6 +241,24 @@ window.PAINEL = {
                          "out":  "09:02:42",
                          "km":  2,
                          "dur":  "00:29:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:41:09",
+                         "out":  "09:29:07",
+                         "km":  6.82,
+                         "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "LORENI FERRAIS BONFIM MARIANO",
+                         "mun":  "ALAMBARI",
+                         "in":  "08:25:25",
+                         "out":  "09:33:23",
+                         "km":  21.89,
+                         "dur":  "01:07:00"
                      }
                  ],
     "eventos":  [
@@ -282,95 +309,96 @@ window.PAINEL = {
                         "inicio":  "07:25",
                         "final":  "08:12",
                         "tempo":  "00:46:38"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Alambari a Sarapui",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:26"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "GOYOS BATA SUPERMERCADO LTDA",
+                       "mun":  "PIRACAIA",
+                       "obs":  "comprador viajando"
+                   }
                ],
     "emvisita":  [
                      {
                          "nome":  "Maira",
                          "razao":  "E G DAROS",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:27:48"
+                         "tempo":  "00:57:47"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:59:12"
+                         "tempo":  "01:29:11"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "P.R.FERREIRA FRANCA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:48:51"
+                         "tempo":  "01:18:50"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
-                         "tempo":  "00:19:23"
+                         "tempo":  "00:49:22"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:53:07"
+                         "tempo":  "01:23:06"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:55:51"
+                         "tempo":  "01:25:50"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "GOYOS BATA SUPERMERCADO LTDA",
+                         "razao":  "SUPERMERCADO NAKAMITSU LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:17:04"
+                         "tempo":  "00:07:00"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:06:26"
+                         "tempo":  "01:36:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:03:42"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:28:04"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "LORENI FERRAIS BONFIM MARIANO",
-                         "mun":  "ALAMBARI",
-                         "tempo":  "00:43:48"
+                         "tempo":  "00:33:41"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:58:17"
+                         "tempo":  "01:28:16"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "01:06:35"
+                         "tempo":  "01:36:34"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:44:42"
+                         "tempo":  "01:14:41"
                      }
                  ],
     "hist":  [
@@ -481,8 +509,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     7,
-                     0
+                     13,
+                     1
                  ]
              ],
     "historico":  {
@@ -5972,7 +6000,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
@@ -6041,10 +6069,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  22.05,
+                                                       "tv":  51
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  8.1,
-                                                       "tv":  21
+                                                       "km":  21.89,
+                                                       "tv":  67
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -6054,6 +6091,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  2,
                                                        "tv":  29
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  15.29,
+                                                       "tv":  47
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -6090,24 +6136,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.87,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  8.47,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -6119,11 +6147,32 @@ window.PAINEL = {
                                                          "tv":  21
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "GOYOS BATA SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  13.95,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "JONAS F DOS SANTOS MERCADO",
                                                          "p":  1,
                                                          "km":  2,
                                                          "tv":  29
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                                         "p":  1,
+                                                         "km":  6.82,
+                                                         "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "LORENI FERRAIS BONFIM MARIANO",
+                                                         "p":  1,
+                                                         "km":  21.89,
+                                                         "tv":  67
                                                      }
                                                  ]
                                      }
