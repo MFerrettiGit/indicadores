@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  37.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:00",
+                     "ultimo":  "11:58",
+                     "tv":  "04:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -19,21 +34,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  35.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:00",
-                     "ultimo":  "10:46",
-                     "tv":  "03:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -46,7 +46,22 @@ window.PAINEL = {
                      "ultimo":  "11:35",
                      "tv":  "03:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  2,
+                     "km":  8.35,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:53",
+                     "ultimo":  "11:55",
+                     "tv":  "04:34:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Silmara",
@@ -92,21 +107,6 @@ window.PAINEL = {
                      "tv":  "02:14:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  2.8,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:53",
-                     "ultimo":  "09:34",
-                     "tv":  "02:40:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -165,8 +165,8 @@ window.PAINEL = {
                      "primeiro":  "08:20",
                      "ultimo":  "11:04",
                      "tv":  "02:24:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  61.99,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:49",
+                     "ultimo":  "12:02",
+                     "tv":  "03:08:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -211,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "11:43",
                      "tv":  "03:33:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -229,21 +244,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  61.46,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:49",
-                     "ultimo":  "10:10",
-                     "tv":  "01:20:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -255,6 +255,51 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "10:28",
                      "tv":  "01:38:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  38.76,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:25",
+                     "ultimo":  "12:00",
+                     "tv":  "03:10:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  27.8,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:41",
+                     "ultimo":  "12:00",
+                     "tv":  "02:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  47.6,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:10",
+                     "ultimo":  "12:04",
+                     "tv":  "03:01:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -274,33 +319,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  36.49,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:25",
-                     "ultimo":  "10:21",
-                     "tv":  "01:40:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  18.85,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:41",
-                     "ultimo":  "11:15",
-                     "tv":  "01:55:00",
-                     "emVisita":  1,
+                     "km":  2,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "11:57",
+                     "tv":  "03:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -331,37 +361,7 @@ window.PAINEL = {
                      "ultimo":  "11:52",
                      "tv":  "03:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  25.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:10",
-                     "ultimo":  "10:53",
-                     "tv":  "02:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  2,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "09:02",
-                     "tv":  "00:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -411,6 +411,15 @@ window.PAINEL = {
                          "dur":  "01:20:00"
                      },
                      {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "in":  "10:56:23",
+                         "out":  "11:58:24",
+                         "km":  2.62,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                          "mun":  "HORTOLANDIA",
@@ -445,6 +454,15 @@ window.PAINEL = {
                          "out":  "09:34:11",
                          "km":  2.8,
                          "dur":  "02:40:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "10:00:33",
+                         "out":  "11:55:05",
+                         "km":  5.55,
+                         "dur":  "01:54:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -535,6 +553,15 @@ window.PAINEL = {
                          "out":  "10:10:44",
                          "km":  40.64,
                          "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "HERNANDEZ",
+                         "mun":  "PONTAL",
+                         "in":  "10:13:57",
+                         "out":  "12:02:45",
+                         "km":  0.53,
+                         "dur":  "01:48:00"
                      },
                      {
                          "nome":  "Luis",
@@ -654,6 +681,15 @@ window.PAINEL = {
                          "dur":  "02:42:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                         "mun":  "ITUPEVA",
+                         "in":  "11:44:22",
+                         "out":  "12:04:13",
+                         "km":  22.2,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
@@ -708,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:29:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "EDSON LUCIO PASSOS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "09:05:31",
+                         "out":  "11:57:20",
+                         "km":  0,
+                         "dur":  "02:51:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
@@ -724,6 +769,15 @@ window.PAINEL = {
                          "out":  "11:15:44",
                          "km":  3.56,
                          "dur":  "01:08:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "FAMBAT SUPERMERCADO RK EIRELI",
+                         "mun":  "INDAIATUBA",
+                         "in":  "11:29:25",
+                         "out":  "12:00:46",
+                         "km":  8.95,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -760,6 +814,15 @@ window.PAINEL = {
                          "out":  "10:21:21",
                          "km":  14.6,
                          "dur":  "00:33:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "LAURA MARIA  DA SILVA CARVALHO",
+                         "mun":  "SARAPUI",
+                         "in":  "10:29:28",
+                         "out":  "12:00:03",
+                         "km":  2.27,
+                         "dur":  "01:30:00"
                      }
                  ],
     "eventos":  [
@@ -778,6 +841,14 @@ window.PAINEL = {
                         "inicio":  "08:13",
                         "final":  "08:40",
                         "tempo":  "00:27:02"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "11:10",
+                        "final":  "12:02",
+                        "tempo":  "00:51:56"
                     },
                     {
                         "nome":  "Nelson",
@@ -820,20 +891,52 @@ window.PAINEL = {
                         "tempo":  "00:46:38"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:45"
-                    },
-                    {
                         "nome":  "Edimilson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:44"
+                        "tempo":  "00:52:41"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:30"
+                    },
+                    {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:01"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:58"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:51"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:50"
                     }
                 ],
     "semped":  [
@@ -915,97 +1018,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:10:22"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADOS REX LTDA.",
-                         "mun":  "LEME",
-                         "tempo":  "00:57:51"
+                         "tempo":  "00:25:22"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:07:28"
+                         "tempo":  "00:22:28"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:38"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "01:53:41"
+                         "tempo":  "00:23:38"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:36:43"
+                         "tempo":  "00:51:43"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:08:36"
+                         "tempo":  "00:23:36"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:01:36"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:43:24"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "HERNANDEZ",
-                         "mun":  "PONTAL",
-                         "tempo":  "01:40:17"
+                         "tempo":  "00:58:24"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TENDOLINI LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:42:20"
+                         "tempo":  "00:57:20"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADOS PANONTIM LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "01:18:55"
+                         "tempo":  "01:33:55"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:30:08"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "EDSON LUCIO PASSOS",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:48:43"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "FAMBAT SUPERMERCADO RK EIRELI",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:24:49"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "LAURA MARIA  DA SILVA CARVALHO",
-                         "mun":  "SARAPUI",
-                         "tempo":  "01:24:46"
+                         "tempo":  "00:45:08"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:09:52"
+                         "tempo":  "00:00:35"
                      }
                  ],
     "hist":  [
@@ -1116,7 +1189,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     46,
+                     53,
                      13
                  ]
              ],
@@ -6607,8 +6680,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  37.73,
+                                                       "tv":  269
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -6619,15 +6701,6 @@ window.PAINEL = {
                                                        "tv":  187
                                                    },
                                                    {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  35.11,
-                                                       "tv":  208
-                                                   },
-                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
@@ -6635,6 +6708,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  64.2,
                                                        "tv":  184
+                                                   },
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  8.35,
+                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -6662,15 +6744,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  56.3,
                                                        "tv":  134
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  2.8,
-                                                       "tv":  160
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -6727,6 +6800,15 @@ window.PAINEL = {
                                                        "tv":  120
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  61.99,
+                                                       "tv":  188
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -6745,15 +6827,6 @@ window.PAINEL = {
                                                        "tv":  206
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  61.46,
-                                                       "tv":  80
-                                                   },
-                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -6761,6 +6834,33 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  29.48,
                                                        "tv":  98
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  38.76,
+                                                       "tv":  190
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  27.8,
+                                                       "tv":  146
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  47.6,
+                                                       "tv":  181
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -6772,22 +6872,13 @@ window.PAINEL = {
                                                        "tv":  140
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  36.49,
-                                                       "tv":  100
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  18.85,
-                                                       "tv":  115
+                                                       "pe":  2,
+                                                       "km":  2,
+                                                       "tv":  200
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -6806,24 +6897,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  63.37,
                                                        "tv":  229
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  25.4,
-                                                       "tv":  162
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  2,
-                                                       "tv":  29
                                                    }
                                                ],
                                          "cli":  [
@@ -6863,6 +6936,13 @@ window.PAINEL = {
                                                          "tv":  80
                                                      },
                                                      {
+                                                         "n":  "Debora",
+                                                         "r":  "SUPERMERCADOS REX LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.62,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Edimilson",
                                                          "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                                          "p":  1,
@@ -6889,6 +6969,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.8,
                                                          "tv":  160
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  1,
+                                                         "km":  5.55,
+                                                         "tv":  114
                                                      },
                                                      {
                                                          "n":  "Evandro",
@@ -6959,6 +7046,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  40.64,
                                                          "tv":  80
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "HERNANDEZ",
+                                                         "p":  1,
+                                                         "km":  0.53,
+                                                         "tv":  108
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -7052,6 +7146,13 @@ window.PAINEL = {
                                                          "tv":  162
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                                                         "p":  1,
+                                                         "km":  22.2,
+                                                         "tv":  19
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "SUPERMERCADOS MARCON LTDA.",
                                                          "p":  0,
@@ -7094,6 +7195,13 @@ window.PAINEL = {
                                                          "tv":  29
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "EDSON LUCIO PASSOS",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  171
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                                                          "p":  1,
@@ -7106,6 +7214,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.56,
                                                          "tv":  68
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "FAMBAT SUPERMERCADO RK EIRELI",
+                                                         "p":  1,
+                                                         "km":  8.95,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Mariangela",
@@ -7134,6 +7249,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  14.6,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "LAURA MARIA  DA SILVA CARVALHO",
+                                                         "p":  1,
+                                                         "km":  2.27,
+                                                         "tv":  90
                                                      }
                                                  ]
                                      }

@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  37.73,
+                                     "tv":  269
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -5497,15 +5506,6 @@
                                      "tv":  187
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  35.11,
-                                     "tv":  208
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -5513,6 +5513,15 @@
                                      "pe":  0,
                                      "km":  64.2,
                                      "tv":  184
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.35,
+                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -5540,15 +5549,6 @@
                                      "pe":  0,
                                      "km":  56.3,
                                      "tv":  134
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.8,
-                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5605,6 +5605,15 @@
                                      "tv":  120
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  61.99,
+                                     "tv":  188
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -5623,15 +5632,6 @@
                                      "tv":  206
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  61.46,
-                                     "tv":  80
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -5639,6 +5639,33 @@
                                      "pe":  2,
                                      "km":  29.48,
                                      "tv":  98
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  38.76,
+                                     "tv":  190
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  27.8,
+                                     "tv":  146
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  47.6,
+                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -5650,22 +5677,13 @@
                                      "tv":  140
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  36.49,
-                                     "tv":  100
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  18.85,
-                                     "tv":  115
+                                     "pe":  2,
+                                     "km":  2,
+                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Alan",
@@ -5684,24 +5702,6 @@
                                      "pe":  0,
                                      "km":  63.37,
                                      "tv":  229
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  25.4,
-                                     "tv":  162
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2,
-                                     "tv":  29
                                  }
                              ],
                        "cli":  [
@@ -5741,6 +5741,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.62,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  1,
@@ -5767,6 +5774,13 @@
                                        "p":  1,
                                        "km":  2.8,
                                        "tv":  160
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  5.55,
+                                       "tv":  114
                                    },
                                    {
                                        "n":  "Evandro",
@@ -5837,6 +5851,13 @@
                                        "p":  1,
                                        "km":  40.64,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "HERNANDEZ",
+                                       "p":  1,
+                                       "km":  0.53,
+                                       "tv":  108
                                    },
                                    {
                                        "n":  "Luis",
@@ -5930,6 +5951,13 @@
                                        "tv":  162
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                                       "p":  1,
+                                       "km":  22.2,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADOS MARCON LTDA.",
                                        "p":  0,
@@ -5972,6 +6000,13 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "EDSON LUCIO PASSOS",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  171
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                                        "p":  1,
@@ -5984,6 +6019,13 @@
                                        "p":  0,
                                        "km":  3.56,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "FAMBAT SUPERMERCADO RK EIRELI",
+                                       "p":  1,
+                                       "km":  8.95,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Mariangela",
@@ -6012,6 +6054,13 @@
                                        "p":  0,
                                        "km":  14.6,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "LAURA MARIA  DA SILVA CARVALHO",
+                                       "p":  1,
+                                       "km":  2.27,
+                                       "tv":  90
                                    }
                                ]
                    }
