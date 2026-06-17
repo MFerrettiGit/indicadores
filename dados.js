@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -248,14 +248,29 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  31.03,
+                     "visitas":  6,
+                     "km":  31.65,
                      "semPed":  2,
-                     "perc":  40,
+                     "perc":  33.33,
                      "primeiro":  "08:13",
-                     "ultimo":  "12:20",
-                     "tv":  "03:23:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:53",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  48.8,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:10",
+                     "ultimo":  "12:39",
+                     "tv":  "03:32:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -286,21 +301,6 @@ window.PAINEL = {
                      "ultimo":  "12:00",
                      "tv":  "02:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  47.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:10",
-                     "ultimo":  "12:04",
-                     "tv":  "03:01:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -807,6 +807,15 @@ window.PAINEL = {
                          "dur":  "01:45:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADOS PANONTIM LTDA",
+                         "mun":  "PIRACAIA",
+                         "in":  "12:31:18",
+                         "out":  "12:53:56",
+                         "km":  0.62,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "JONAS F DOS SANTOS MERCADO",
                          "mun":  "CARAGUATATUBA",
@@ -976,7 +985,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:21"
+                        "tempo":  "00:57:26"
                     },
                     {
                         "nome":  "Eliana",
@@ -984,7 +993,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:52"
+                        "tempo":  "00:56:57"
                     },
                     {
                         "nome":  "Vinicius",
@@ -992,7 +1001,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:49"
+                        "tempo":  "00:52:54"
                     },
                     {
                         "nome":  "Cominato",
@@ -1000,7 +1009,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:42"
+                        "tempo":  "00:52:47"
                     },
                     {
                         "nome":  "Fernando",
@@ -1008,7 +1017,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:41"
+                        "tempo":  "00:50:46"
                     },
                     {
                         "nome":  "Nelson",
@@ -1016,7 +1025,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:03"
+                        "tempo":  "00:44:08"
                     },
                     {
                         "nome":  "Debora",
@@ -1024,7 +1033,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:53"
+                        "tempo":  "00:34:58"
                     },
                     {
                         "nome":  "Evandro",
@@ -1032,7 +1041,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:28"
+                        "tempo":  "00:30:33"
                     },
                     {
                         "nome":  "Costa",
@@ -1040,7 +1049,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:20"
+                        "tempo":  "00:28:25"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1048,7 +1057,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:28"
+                        "tempo":  "00:26:33"
                     },
                     {
                         "nome":  "Maira",
@@ -1056,7 +1065,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:15"
+                        "tempo":  "00:23:20"
                     },
                     {
                         "nome":  "Karina",
@@ -1064,7 +1073,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:33"
+                        "tempo":  "00:21:38"
                     }
                 ],
     "semped":  [
@@ -1158,55 +1167,43 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:02:20"
+                         "tempo":  "00:17:22"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:26:40"
+                         "tempo":  "00:41:42"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:06:01"
+                         "tempo":  "00:21:03"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:31:26"
+                         "tempo":  "00:46:28"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "01:28:14"
+                         "tempo":  "01:43:16"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GUELLERO",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:15:27"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADOS PANONTIM LTDA",
-                         "mun":  "PIRACAIA",
-                         "tempo":  "00:07:46"
+                         "tempo":  "00:30:29"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:14:58"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
-                         "mun":  "ITUPEVA",
-                         "tempo":  "00:30:25"
+                         "tempo":  "01:30:00"
                      }
                  ],
     "hist":  [
@@ -1317,7 +1314,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     60,
+                     62,
                      15
                  ]
              ],
@@ -6808,7 +6805,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -6958,10 +6955,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  31.65,
+                                                       "tv":  225
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
                                                        "pe":  3,
-                                                       "km":  31.03,
-                                                       "tv":  203
+                                                       "km":  48.8,
+                                                       "tv":  212
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -6980,15 +6986,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  27.8,
                                                        "tv":  146
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  47.6,
-                                                       "tv":  181
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -7370,6 +7367,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.55,
                                                          "tv":  105
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADOS PANONTIM LTDA",
+                                                         "p":  1,
+                                                         "km":  0.62,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Karina",

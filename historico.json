@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5635,10 +5635,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  31.65,
+                                     "tv":  225
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
                                      "pe":  3,
-                                     "km":  31.03,
-                                     "tv":  203
+                                     "km":  48.8,
+                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5657,15 +5666,6 @@
                                      "pe":  2,
                                      "km":  27.8,
                                      "tv":  146
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  47.6,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -6047,6 +6047,13 @@
                                        "p":  1,
                                        "km":  1.55,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADOS PANONTIM LTDA",
+                                       "p":  1,
+                                       "km":  0.62,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Karina",
