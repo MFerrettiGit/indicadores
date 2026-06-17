@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -5506,6 +5506,15 @@
                                      "tv":  105
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  17.94,
+                                     "tv":  170
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -5513,6 +5522,15 @@
                                      "pe":  0,
                                      "km":  62.88,
                                      "tv":  125
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  56.3,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -5524,15 +5542,6 @@
                                      "tv":  160
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  1.97,
-                                     "tv":  147
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -5540,15 +5549,6 @@
                                      "pe":  0,
                                      "km":  24.66,
                                      "tv":  147
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  51.68,
-                                     "tv":  95
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5572,10 +5572,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  65.76,
+                                     "tv":  19
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  14.36,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -5587,22 +5596,13 @@
                                      "tv":  146
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  11.65,
-                                     "tv":  123
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.29,
-                                     "tv":  65
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  49.33,
+                                     "tv":  120
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -5641,6 +5641,15 @@
                                      "tv":  98
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  28.3,
+                                     "tv":  140
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -5648,6 +5657,15 @@
                                      "pe":  1,
                                      "km":  36.49,
                                      "tv":  100
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  18.85,
+                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Alan",
@@ -5668,15 +5686,6 @@
                                      "tv":  162
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  14.93,
-                                     "tv":  94
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -5684,15 +5693,6 @@
                                      "pe":  1,
                                      "km":  2,
                                      "tv":  29
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  15.29,
-                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -5741,6 +5741,20 @@
                                        "tv":  95
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.62,
+                                       "tv":  39
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                       "p":  0,
+                                       "km":  65.76,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -5767,6 +5781,13 @@
                                        "p":  1,
                                        "km":  1.97,
                                        "tv":  147
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  15.97,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -5804,11 +5825,25 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADOS BIG COMPRA LTDA",
+                                       "p":  0,
+                                       "km":  2.71,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "E G DAROS",
                                        "p":  0,
                                        "km":  35.56,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "BENFICA COM E SERV EIRELI - EPP",
+                                       "p":  1,
+                                       "km":  10.04,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Milene",
@@ -5902,11 +5937,25 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  0,
+                                       "km":  3.56,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL VILLA SIMPATIA LTDA",
                                        "p":  1,
                                        "km":  7.06,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                       "p":  0,
+                                       "km":  13.37,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Nelson",
