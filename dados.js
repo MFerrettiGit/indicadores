@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  58.03,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:00",
+                     "ultimo":  "14:17",
+                     "tv":  "05:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -15,21 +30,6 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "12:22",
                      "tv":  "03:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  37.73,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:00",
-                     "ultimo":  "11:58",
-                     "tv":  "04:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "14:01",
                      "tv":  "03:58:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "12:00",
                      "tv":  "02:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -330,8 +330,8 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "13:28",
                      "tv":  "04:12:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -427,6 +427,15 @@ window.PAINEL = {
                          "out":  "11:58:24",
                          "km":  2.62,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "ARARAS",
+                         "in":  "13:22:39",
+                         "out":  "14:17:37",
+                         "km":  20.3,
+                         "dur":  "00:54:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -535,6 +544,15 @@ window.PAINEL = {
                          "out":  "12:22:18",
                          "km":  0.91,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:47:25",
+                         "out":  "14:24:42",
+                         "km":  9.29,
+                         "dur":  "00:37:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -1103,6 +1121,14 @@ window.PAINEL = {
                         "tempo":  "01:00:53"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Laranjal Paulista a Cezari Lange",
+                        "inicio":  "13:30",
+                        "final":  "14:16",
+                        "tempo":  "00:45:32"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1191,20 +1217,12 @@ window.PAINEL = {
                         "tempo":  "00:46:38"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Laranjal Paulista a Cezari Lange",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:39"
-                    },
-                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:47"
+                        "tempo":  "00:48:47"
                     },
                     {
                         "nome":  "Alan",
@@ -1212,7 +1230,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:57"
+                        "tempo":  "00:46:57"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1220,7 +1238,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:27"
+                        "tempo":  "00:42:27"
                     },
                     {
                         "nome":  "Silmara",
@@ -1228,7 +1246,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:01"
+                        "tempo":  "00:27:01"
                     },
                     {
                         "nome":  "Nelson",
@@ -1236,7 +1254,15 @@ window.PAINEL = {
                         "obs":  "sarapui a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:58"
+                        "tempo":  "00:20:58"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Exame Otorrinolaringologista",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:00"
                     }
                 ],
     "semped":  [
@@ -1360,85 +1386,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:28:39"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "ARARAS",
-                         "tempo":  "00:46:29"
+                         "tempo":  "00:43:39"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
                          "mun":  "SUMARE",
-                         "tempo":  "00:32:34"
+                         "tempo":  "00:47:34"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:21:43"
+                         "tempo":  "00:36:43"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:32:09"
+                         "tempo":  "00:47:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:57:47"
+                         "tempo":  "01:12:47"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:06:57"
+                         "tempo":  "00:21:57"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "00:17:26"
+                         "tempo":  "00:32:26"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "00:43:40"
+                         "tempo":  "00:58:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "00:58:33"
+                         "tempo":  "01:13:33"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:41:45"
+                         "tempo":  "00:56:45"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EMPORIO BAREQUECABA LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:19:45"
+                         "tempo":  "00:34:45"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:10:38"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:32:10"
+                         "tempo":  "00:47:10"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADOS MARCON LTDA.",
+                         "mun":  "CESARIO LANGE",
+                         "tempo":  "00:03:22"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:08:44"
+                         "tempo":  "00:23:44"
                      }
                  ],
     "hist":  [
@@ -1549,7 +1581,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     73,
+                     74,
                      20
                  ]
              ],
@@ -7040,8 +7072,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  58.03,
+                                                       "tv":  323
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -7050,15 +7091,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  81.71,
                                                        "tv":  223
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  37.73,
-                                                       "tv":  269
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -7310,6 +7342,13 @@ window.PAINEL = {
                                                          "tv":  61
                                                      },
                                                      {
+                                                         "n":  "Debora",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  1,
+                                                         "km":  20.3,
+                                                         "tv":  54
+                                                     },
+                                                     {
                                                          "n":  "Edimilson",
                                                          "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                                          "p":  1,
@@ -7392,6 +7431,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.91,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA",
+                                                         "p":  1,
+                                                         "km":  9.29,
+                                                         "tv":  37
                                                      },
                                                      {
                                                          "n":  "Silmara",

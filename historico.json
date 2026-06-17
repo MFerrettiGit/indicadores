@@ -5485,8 +5485,17 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  58.03,
+                                     "tv":  323
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -5495,15 +5504,6 @@
                                      "pe":  0,
                                      "km":  81.71,
                                      "tv":  223
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  37.73,
-                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -5755,6 +5755,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  1,
+                                       "km":  20.3,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  1,
@@ -5837,6 +5844,13 @@
                                        "p":  1,
                                        "km":  0.91,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  9.29,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Silmara",
