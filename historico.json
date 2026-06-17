@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5581,10 +5581,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  3,
-                                     "km":  57.12,
-                                     "tv":  355
+                                     "km":  57.94,
+                                     "tv":  379
                                  },
                                  {
                                      "nome":  "Luis",
@@ -5596,6 +5596,15 @@
                                      "tv":  238
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  35.88,
+                                     "tv":  362
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -5603,15 +5612,6 @@
                                      "pe":  2,
                                      "km":  90.76,
                                      "tv":  242
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  33.37,
-                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -5650,6 +5650,15 @@
                                      "tv":  225
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  56.82,
+                                     "tv":  350
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -5666,15 +5675,6 @@
                                      "pe":  4,
                                      "km":  60.49,
                                      "tv":  249
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  56.01,
-                                     "tv":  330
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6007,6 +6007,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "FAVETTA",
+                                       "p":  1,
+                                       "km":  2.51,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIZARRI LTDA",
                                        "p":  1,
@@ -6182,6 +6189,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO LAZARINI EIRELI",
+                                       "p":  0,
+                                       "km":  0.82,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "LESSA",
                                        "p":  1,
@@ -6341,6 +6355,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "LEILA MARIA SILVA PEREIRA - ME",
+                                       "p":  1,
+                                       "km":  0.81,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Lucas",
