@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Eduardo",
@@ -81,11 +81,11 @@ window.PAINEL = {
                      "km":  3.73,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:41",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -95,11 +95,11 @@ window.PAINEL = {
                      "km":  20.82,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:49",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -112,7 +112,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "08:35",
                      "tv":  "00:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -207,10 +207,10 @@ window.PAINEL = {
                      "km":  8.47,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:41",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -235,12 +235,28 @@ window.PAINEL = {
                         "tempo":  "00:05:42"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "limeira",
+                        "inicio":  "08:13",
+                        "final":  "08:40",
+                        "tempo":  "00:27:02"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapetininga a  Alambari",
                         "inicio":  "08:05",
                         "final":  "08:24",
                         "tempo":  "00:19:06"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "viagem para Pontal",
+                        "inicio":  "08:15",
+                        "final":  "08:49",
+                        "tempo":  "00:34:30"
                     },
                     {
                         "nome":  "Fernando",
@@ -257,22 +273,6 @@ window.PAINEL = {
                         "inicio":  "07:25",
                         "final":  "08:12",
                         "tempo":  "00:46:38"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "limeira",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:26:45"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Em Viagem",
-                        "obs":  "viagem para Pontal",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:25:20"
                     }
                 ],
     "semped":  [
@@ -280,64 +280,88 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Maira",
+                         "razao":  "E G DAROS",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:12:45"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:29:51"
+                         "tempo":  "00:44:09"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "P.R.FERREIRA FRANCA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:19:30"
+                         "tempo":  "00:33:48"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO BIZARRI LTDA",
+                         "mun":  "PONTAL",
+                         "tempo":  "00:04:20"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "FAVETTA",
                          "mun":  "ARARAS",
-                         "tempo":  "00:23:46"
+                         "tempo":  "00:38:04"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:26:30"
+                         "tempo":  "00:40:48"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "GOYOS BATA SUPERMERCADO LTDA",
+                         "mun":  "PIRACAIA",
+                         "tempo":  "00:02:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:05"
+                         "tempo":  "00:51:23"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "JONAS F DOS SANTOS MERCADO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:06:48"
+                         "tempo":  "00:21:06"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:13:01"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LORENI FERRAIS BONFIM MARIANO",
                          "mun":  "ALAMBARI",
-                         "tempo":  "00:14:27"
+                         "tempo":  "00:28:45"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:28:56"
+                         "tempo":  "00:43:14"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADOS MARCON LTDA.",
                          "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:37:14"
+                         "tempo":  "00:51:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:15:21"
+                         "tempo":  "00:29:39"
                      }
                  ],
     "hist":  [
@@ -5939,7 +5963,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eduardo",
