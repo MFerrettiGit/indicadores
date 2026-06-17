@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5533,6 +5533,15 @@
                                      "tv":  184
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.82,
+                                     "tv":  203
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -5540,15 +5549,6 @@
                                      "pe":  0,
                                      "km":  8.35,
                                      "tv":  274
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  56.3,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5578,6 +5578,15 @@
                                      "tv":  56
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  15.01,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -5585,15 +5594,6 @@
                                      "pe":  1,
                                      "km":  52.18,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  14.36,
-                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5769,6 +5769,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  8.52,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                                        "p":  0,
@@ -5907,6 +5914,13 @@
                                        "p":  0,
                                        "km":  2.71,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  0.65,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Maira",
