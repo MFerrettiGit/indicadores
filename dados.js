@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  68.38,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:30",
+                     "ultimo":  "15:28",
+                     "tv":  "05:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "15:03",
                      "tv":  "06:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  64.82,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:30",
-                     "ultimo":  "13:22",
-                     "tv":  "03:23:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "14:01",
                      "tv":  "03:58:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -203,14 +203,29 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  61.99,
+                     "visitas":  3,
+                     "km":  62.8,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:49",
-                     "ultimo":  "12:02",
-                     "tv":  "03:08:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:28",
+                     "tv":  "05:25:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  27.68,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "15:31",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -229,21 +244,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  23.81,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "11:42",
-                     "tv":  "03:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "12:53",
                      "tv":  "03:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "15:19",
                      "tv":  "04:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -474,6 +474,15 @@ window.PAINEL = {
                          "dur":  "01:09:00"
                      },
                      {
+                         "nome":  "Edimilson",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                         "mun":  "MONTE MOR",
+                         "in":  "13:36:59",
+                         "out":  "15:28:35",
+                         "km":  3.56,
+                         "dur":  "01:51:00"
+                     },
+                     {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                          "mun":  "INDAIATUBA",
@@ -663,6 +672,15 @@ window.PAINEL = {
                          "dur":  "03:26:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "FAVETTA",
+                         "mun":  "ARARAS",
+                         "in":  "13:27:23",
+                         "out":  "15:31:14",
+                         "km":  3.87,
+                         "dur":  "02:03:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
@@ -679,6 +697,15 @@ window.PAINEL = {
                          "out":  "12:02:45",
                          "km":  0.53,
                          "dur":  "01:48:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
+                         "mun":  "PONTAL",
+                         "in":  "13:10:35",
+                         "out":  "15:28:28",
+                         "km":  0.81,
+                         "dur":  "02:17:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1369,7 +1396,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:44"
+                        "tempo":  "00:45:30"
                     },
                     {
                         "nome":  "Cominato",
@@ -1377,7 +1404,15 @@ window.PAINEL = {
                         "obs":  "Cesario Lange a Laranjal Paulista",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:28"
+                        "tempo":  "00:27:14"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Reta Alimentos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:34"
                     }
                 ],
     "semped":  [
@@ -1513,91 +1548,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:43:43"
+                         "tempo":  "01:58:36"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:28:58"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
-                         "mun":  "MONTE MOR",
-                         "tempo":  "01:47:13"
+                         "tempo":  "00:43:51"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:12:04"
+                         "tempo":  "00:26:57"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.22",
                          "mun":  "ITU",
-                         "tempo":  "00:30:35"
+                         "tempo":  "00:45:28"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:18:41"
+                         "tempo":  "00:33:34"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "PRIMOS PEROLA LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:54:04"
+                         "tempo":  "01:08:57"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:32:30"
+                         "tempo":  "01:47:23"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:14:49"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
-                         "mun":  "PONTAL",
-                         "tempo":  "02:13:37"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "FAVETTA",
-                         "mun":  "ARARAS",
-                         "tempo":  "01:56:49"
+                         "tempo":  "00:29:42"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:16:50"
+                         "tempo":  "00:31:43"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:01:59"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:41:32"
+                         "tempo":  "00:56:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL PRIMAVERA MARESIAS LTDA",
                          "mun":  "SAO SEBASTIAO",
-                         "tempo":  "00:02:19"
+                         "tempo":  "00:17:12"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "MERCADO BEIJA FLOR LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:21:44"
+                         "tempo":  "00:36:37"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:10:31"
                      }
                  ],
     "hist":  [
@@ -1708,7 +1737,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     86,
+                     89,
                      22
                  ]
              ],
@@ -7199,7 +7228,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7247,6 +7276,15 @@ window.PAINEL = {
                                                        "tv":  338
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  68.38,
+                                                       "tv":  314
+                                                   },
+                                                   {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
@@ -7254,15 +7292,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  14.65,
                                                        "tv":  386
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  64.82,
-                                                       "tv":  203
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -7322,10 +7351,19 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  62.8,
+                                                       "tv":  325
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  61.99,
-                                                       "tv":  188
+                                                       "km":  27.68,
+                                                       "tv":  329
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -7335,15 +7373,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  2.82,
                                                        "tv":  213
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  23.81,
-                                                       "tv":  206
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -7504,6 +7533,13 @@ window.PAINEL = {
                                                          "tv":  69
                                                      },
                                                      {
+                                                         "n":  "Edimilson",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                                         "p":  1,
+                                                         "km":  3.56,
+                                                         "tv":  111
+                                                     },
+                                                     {
                                                          "n":  "Eduardo",
                                                          "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                                                          "p":  0,
@@ -7651,6 +7687,13 @@ window.PAINEL = {
                                                          "tv":  206
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "FAVETTA",
+                                                         "p":  1,
+                                                         "km":  3.87,
+                                                         "tv":  123
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO BIZARRI LTDA",
                                                          "p":  1,
@@ -7663,6 +7706,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.53,
                                                          "tv":  108
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
+                                                         "p":  1,
+                                                         "km":  0.81,
+                                                         "tv":  137
                                                      },
                                                      {
                                                          "n":  "Luis",

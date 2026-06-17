@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5533,6 +5533,15 @@
                                      "tv":  338
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  68.38,
+                                     "tv":  314
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -5540,15 +5549,6 @@
                                      "pe":  0,
                                      "km":  14.65,
                                      "tv":  386
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  64.82,
-                                     "tv":  203
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -5608,10 +5608,19 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  62.8,
+                                     "tv":  325
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  61.99,
-                                     "tv":  188
+                                     "km":  27.68,
+                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -5621,15 +5630,6 @@
                                      "pe":  0,
                                      "km":  2.82,
                                      "tv":  213
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  23.81,
-                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -5790,6 +5790,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                       "p":  1,
+                                       "km":  3.56,
+                                       "tv":  111
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                                        "p":  0,
@@ -5937,6 +5944,13 @@
                                        "tv":  206
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "FAVETTA",
+                                       "p":  1,
+                                       "km":  3.87,
+                                       "tv":  123
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIZARRI LTDA",
                                        "p":  1,
@@ -5949,6 +5963,13 @@
                                        "p":  1,
                                        "km":  0.53,
                                        "tv":  108
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
+                                       "p":  1,
+                                       "km":  0.81,
+                                       "tv":  137
                                    },
                                    {
                                        "n":  "Luis",
