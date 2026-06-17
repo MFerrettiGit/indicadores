@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,6 +15,21 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "16:54",
                      "tv":  "06:18:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  32.27,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:11",
+                     "ultimo":  "17:12",
+                     "tv":  "07:06:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -46,21 +61,6 @@ window.PAINEL = {
                      "ultimo":  "14:17",
                      "tv":  "05:23:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  30.78,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:11",
-                     "ultimo":  "15:54",
-                     "tv":  "05:54:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  98.61,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:41",
+                     "ultimo":  "17:22",
+                     "tv":  "05:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "17:04",
                      "tv":  "06:02:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  90.76,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:41",
-                     "ultimo":  "15:54",
-                     "tv":  "04:02:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "17:04",
                      "tv":  "05:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -672,6 +672,15 @@ window.PAINEL = {
                          "dur":  "00:49:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
+                         "mun":  "AMERICANA",
+                         "in":  "16:00:37",
+                         "out":  "17:12:56",
+                         "km":  1.49,
+                         "dur":  "01:12:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -868,6 +877,15 @@ window.PAINEL = {
                          "out":  "15:54:55",
                          "km":  37.66,
                          "dur":  "01:24:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "16:20:36",
+                         "out":  "17:22:33",
+                         "km":  7.85,
+                         "dur":  "01:01:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1610,7 +1628,7 @@ window.PAINEL = {
                         "obs":  "Rede Reta Alimentos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:33:01"
+                        "tempo":  "01:47:42"
                     },
                     {
                         "nome":  "Rachel",
@@ -1618,7 +1636,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:06:19"
+                        "tempo":  "01:21:00"
                     },
                     {
                         "nome":  "Cominato",
@@ -1626,7 +1644,7 @@ window.PAINEL = {
                         "obs":  "retorno piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:10"
+                        "tempo":  "00:38:51"
                     },
                     {
                         "nome":  "Lucas",
@@ -1634,7 +1652,7 @@ window.PAINEL = {
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:10"
+                        "tempo":  "00:32:51"
                     }
                 ],
     "semped":  [
@@ -1791,46 +1809,46 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
-                         "mun":  "AMERICANA",
-                         "tempo":  "01:08:31"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:48:32"
-                     },
-                     {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:26:05"
+                         "tempo":  "00:41:02"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:13:07"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:02:12"
+                         "tempo":  "00:17:09"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:32:02"
+                         "tempo":  "01:46:59"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:26:28"
+                         "tempo":  "02:41:25"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
+                         "mun":  "SAO SEBASTIAO",
+                         "tempo":  "00:13:29"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:15:39"
+                         "tempo":  "01:30:36"
                      }
                  ],
     "hist":  [
@@ -1941,7 +1959,7 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     112,
+                     114,
                      26
                  ]
              ],
@@ -7432,7 +7450,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -7442,6 +7460,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  117.85,
                                                        "tv":  378
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  32.27,
+                                                       "tv":  426
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -7460,15 +7487,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  67.06,
                                                        "tv":  323
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  30.78,
-                                                       "tv":  354
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -7543,6 +7561,15 @@ window.PAINEL = {
                                                        "tv":  238
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  98.61,
+                                                       "tv":  303
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -7550,15 +7577,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  35.88,
                                                        "tv":  362
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  90.76,
-                                                       "tv":  242
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -7891,6 +7909,13 @@ window.PAINEL = {
                                                          "tv":  49
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
+                                                         "p":  1,
+                                                         "km":  1.49,
+                                                         "tv":  72
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  1,
@@ -8043,6 +8068,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  37.66,
                                                          "tv":  84
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  7.85,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Milene",

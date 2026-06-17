@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5495,6 +5495,15 @@
                                      "pe":  0,
                                      "km":  117.85,
                                      "tv":  378
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  32.27,
+                                     "tv":  426
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -5513,15 +5522,6 @@
                                      "pe":  0,
                                      "km":  67.06,
                                      "tv":  323
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  30.78,
-                                     "tv":  354
                                  },
                                  {
                                      "nome":  "Aline",
@@ -5596,6 +5596,15 @@
                                      "tv":  238
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  98.61,
+                                     "tv":  303
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -5603,15 +5612,6 @@
                                      "pe":  4,
                                      "km":  35.88,
                                      "tv":  362
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  90.76,
-                                     "tv":  242
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -5944,6 +5944,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  1.49,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -6096,6 +6103,13 @@
                                        "p":  0,
                                        "km":  37.66,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.85,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Milene",
