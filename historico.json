@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5509,10 +5509,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  26.5,
-                                     "tv":  241
+                                     "km":  27.02,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Aline",
@@ -5572,10 +5572,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  107.51,
-                                     "tv":  56
+                                     "km":  116.08,
+                                     "tv":  104
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  53.6,
+                                     "tv":  284
                                  },
                                  {
                                      "nome":  "Luis",
@@ -5585,15 +5594,6 @@
                                      "pe":  1,
                                      "km":  15.01,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  52.18,
-                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5677,6 +5677,15 @@
                                      "tv":  264
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  65.03,
+                                     "tv":  252
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -5693,15 +5702,6 @@
                                      "pe":  2,
                                      "km":  2,
                                      "tv":  200
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  63.37,
-                                     "tv":  229
                                  }
                              ],
                        "cli":  [
@@ -5790,6 +5790,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  0,
+                                       "km":  8.57,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -5851,6 +5858,13 @@
                                        "p":  1,
                                        "km":  8.56,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
+                                       "p":  1,
+                                       "km":  0.52,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -6000,6 +6014,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GUELLERO",
+                                       "p":  1,
+                                       "km":  1.42,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "LESSA",
                                        "p":  1,
@@ -6040,6 +6061,13 @@
                                        "p":  0,
                                        "km":  59.06,
                                        "tv":  229
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "NELLO COMERCIAL LTDA.",
+                                       "p":  0,
+                                       "km":  1.66,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Eugenio",
