@@ -132,6 +132,9 @@
   .tl .ev.now::before{background:var(--green);box-shadow:0 0 0 3px var(--greenbg)}
   .small{font-size:.78rem;color:var(--muted)}
   footer{text-align:center;color:var(--muted);font-size:.8rem;padding:24px;line-height:1.6}
+  /* Modo merchandising: promotor não faz pedido — oculta as colunas Pedidos (5ª) e Sem pedido (7ª) */
+  #resTable.hide-ped th:nth-child(5),#resTable.hide-ped td:nth-child(5),
+  #resTable.hide-ped th:nth-child(7),#resTable.hide-ped td:nth-child(7){display:none}
 </style>
 </head>
 <body>
@@ -157,28 +160,28 @@
   </div>
 
   <!-- ===== DESTAQUES ===== -->
-  <section>
+  <section id="sec-dest">
     <h2 class="sec"><span class="ico">🏆</span> Destaques do dia</h2>
     <div class="lead">O melhor e o pior desempenho do dia, e por quê.</div>
     <div class="dest" id="destaques"></div>
   </section>
 
   <!-- ===== LEITURA DO DIA ===== -->
-  <section>
+  <section id="sec-leitura">
     <h2 class="sec"><span class="ico">📝</span> Leitura do dia</h2>
     <div class="lead" id="leituraSrc">Resumo automático do momento.</div>
     <div id="leitura"></div>
   </section>
 
   <!-- ===== INFORMAÇÕES IMPORTANTES ===== -->
-  <section>
+  <section id="sec-imp">
     <h2 class="sec"><span class="ico">🚨</span> Informações importantes <span class="badge" id="badgeImp">0</span></h2>
     <div class="lead">O que pede cobrança, reunido por vendedor.</div>
     <div class="cardgrid" id="impList"></div>
   </section>
 
   <!-- ===== PADRÕES SUSPEITOS ===== -->
-  <section>
+  <section id="sec-sus">
     <h2 class="sec"><span class="ico">🔎</span> Pontos de conferência <span class="badge" id="badgeSus">0</span></h2>
     <div class="lead">Situações fora do comum que valem uma verificação — não são acusações, apenas pontos para conferir.</div>
     <div class="cardgrid" id="susList"></div>
@@ -224,7 +227,7 @@
   </section>
 
   <!-- ===== GRÁFICOS ===== -->
-  <section>
+  <section id="sec-graf">
     <h2 class="sec"><span class="ico">📈</span> Visão gráfica</h2>
     <div class="lead">A linha vermelha marca a meta.</div>
     <div class="grid2">
@@ -237,7 +240,7 @@
   </section>
 
   <!-- ===== EVENTOS ===== -->
-  <section>
+  <section id="sec-evt">
     <h2 class="sec"><span class="ico">🧾</span> Eventos e justificativas do dia</h2>
     <div class="lead">O que tirou o vendedor da rota no dia.</div>
     <div class="tablewrap"><table id="evtTable"><thead><tr><th>Vendedor</th><th>Tipo</th><th>Descrição</th><th>Início</th><th>Fim</th><th>Duração</th></tr></thead><tbody></tbody></table></div>
@@ -263,6 +266,8 @@ const ANALISE_EXCLUI={'Eduardo':true};
 // PROMOTORES (merchandising): entram só nos relatórios (Resumo, gráficos, totais), agrupados na
 // regional própria abaixo. Ficam FORA de destaques, avisos, cobranças e pontos de conferência.
 const MERCH_REG='Regional Merchandising';
+// é promotor (merchandising)? Promotores NÃO fazem pedido e só aparecem na própria regional.
+function isMerch(v){ return !!v && (v.tipo==='OP' || v.regional===MERCH_REG); }
 // correções de regional pedidas pela gerência (a base TimeService traz errada p/ alguns)
 const REGIONAL_FIX={'Cominato':'NORDESTE'};
 const COORD={'NORDESTE':'Lopes','SUL':'Rangel','INTERIOR SP':'Paulo'};
@@ -319,7 +324,7 @@ function fimCell(v){
 VEND.forEach(v=>{
   if(REGIONAL_FIX[v.nome]) v.regional=REGIONAL_FIX[v.nome];   // corrige regional antes de tudo
   v.coord=COORD[v.regional]||'';
-  v.orders=v.visitas-v.semPed;
+  v.orders = isMerch(v) ? 0 : (v.visitas-v.semPed);   // promotor não faz pedido
   v.checkins=CHECKINS.filter(c=>c.nome===v.nome);
   v.eventos=EVENTOS.filter(e=>e.nome===v.nome);
   v.semL=SEMPED.filter(s=>s.nome===v.nome);
@@ -474,12 +479,23 @@ function chip(v){ const s=workStatus(v);
 
 /* ====================== FILTRO GLOBAL DE REGIONAL ====================== */
 let gReg='';                                   // '' = todas as regionais
-function curVEND(){ return gReg? VEND.filter(v=>v.regional===gReg) : VEND; }
-function inScope(nome){ const v=VEND.find(x=>x.nome===nome); return !gReg || (v&&v.regional===gReg); }
+function merchMode(){ return gReg===MERCH_REG; }  // filtro atual = Regional Merchandising (promotores)
+// Promotores aparecem EXCLUSIVAMENTE na própria regional: em "Todas" e nas demais regionais ficam de fora.
+function curVEND(){ return gReg ? VEND.filter(v=>v.regional===gReg) : VEND.filter(v=>!isMerch(v)); }
+function inScope(nome){ const v=VEND.find(x=>x.nome===nome); if(!v) return false; return gReg ? v.regional===gReg : !isMerch(v); }
+// No modo merchandising mostramos SÓ o Resumo do trabalho + Resumo por período (sem destaques/avisos/gráficos).
+function applyLayout(){
+  const m=merchMode();
+  ['sec-dest','sec-leitura','sec-imp','sec-sus','sec-graf','sec-evt'].forEach(id=>{ const e=document.getElementById(id); if(e) e.style.display=m?'none':''; });
+  const t=document.getElementById('resTable'); if(t) t.classList.toggle('hide-ped',m);
+}
 function setRegional(r){
   gReg=r||'';
+  applyLayout();
   const info=document.getElementById('gRegInfo');
-  if(info) info.textContent = gReg? ('Mostrando só a regional '+gReg+' ('+curVEND().length+' vendedores).') : ('Mostrando todas as regionais ('+VEND.length+' vendedores).');
+  const n=curVEND().length;
+  if(info) info.textContent = merchMode()? ('Mostrando só os promotores — Regional Merchandising ('+n+' promotores).')
+    : (gReg? ('Mostrando só a regional '+gReg+' ('+n+' vendedores).') : ('Mostrando todas as regionais ('+n+' vendedores).'));
   renderAll();
 }
 function renderAll(){
@@ -631,23 +647,24 @@ function statKpis(){
   const tVis=VV.reduce((a,v)=>a+v.visitas,0),tPed=VV.reduce((a,v)=>a+v.orders,0),
         tKm=VV.reduce((a,v)=>a+v.km,0),tTv=VV.reduce((a,v)=>a+v.tvMin,0),
         spans=VV.filter(v=>v.span!=null),jorMed=spans.length?spans.reduce((a,v)=>a+v.span,0)/spans.length:0;
+  const pedKpi = merchMode()?'':`<div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>`;
   return `<div class="kpis">
     <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
-    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
+    ${pedKpi}
     <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)}</div><div class="l">Km rodados</div></div>
     <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div>
     <div class="kpi"><div class="b">🕒</div><div class="v">${hStr(jorMed)}</div><div class="l">Jornada média em campo</div></div>
    </div>`;
 }
 function vendBars(){
-  const VV=curVEND();
+  const VV=curVEND(); const mm=merchMode();
   const max=Math.max(1,...VV.map(v=>v.visitas));
   const rows=[...VV].sort((a,b)=>b.visitas-a.visitas).map(v=>{
     const w=Math.max(2,v.visitas/max*100);
     const cls=v.visitas>=META.visitas?'b-ok':(v.visitas>0?'b-warn':'b-bad');
-    return `<div class="barrow"><span class="small">${v.nome}</span><div class="bartrack"><div class="bar ${cls}" style="width:${w}%"></div></div><span class="num">${v.visitas}v · ${v.orders}p</span></div>`;
+    return `<div class="barrow"><span class="small">${v.nome}</span><div class="bartrack"><div class="bar ${cls}" style="width:${w}%"></div></div><span class="num">${v.visitas}v${mm?'':' · '+v.orders+'p'}</span></div>`;
   }).join('');
-  return `<div class="card"><h3>Visitas e pedidos por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>${rows}</div>`;
+  return `<div class="card"><h3>${mm?'Visitas por promotor':'Visitas e pedidos por vendedor'}</h3><div class="cap">${mm?'v = visitas':'v = visitas · p = pedidos'}</div>${rows}</div>`;
 }
 function periodDates(kind){
   const keys=Object.keys(HISTORICO).sort(); if(!keys.length)return [];
@@ -657,29 +674,45 @@ function periodDates(kind){
     return keys.filter(k=>{ const x=new Date(k+'T00:00:00'); return x>=mon&&x<=sun; }); }
   return [today];
 }
-function aggPeriod(kind){ const dates=periodDates(kind),map={};
-  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ const reg=REGIONAL_FIX[r.nome]||r.regional; if(gReg && reg!==gReg) return; const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:reg,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=r.pe;m.km+=r.km;m.tv+=r.tv; }); });
+function aggPeriod(kind){ const dates=periodDates(kind),map={},mm=merchMode();
+  dates.forEach(dt=>{ ((HISTORICO[dt]&&HISTORICO[dt].v)||[]).forEach(r=>{ const reg=REGIONAL_FIX[r.nome]||r.regional;
+    const isM=(reg===MERCH_REG);
+    if(mm){ if(!isM) return; } else { if(isM) return; if(gReg && reg!==gReg) return; }   // promotores só no modo merchandising
+    const pe = isM ? 0 : (r.pe||0);   // promotor não faz pedido
+    const m=map[r.nome]||(map[r.nome]={nome:r.nome,setor:r.setor,regional:reg,vi:0,pe:0,km:0,tv:0}); m.vi+=r.vi;m.pe+=pe;m.km+=r.km;m.tv+=r.tv; }); });
   return {dates,rows:Object.values(map)};
 }
 function periodView(kind){
-  const {dates,rows}=aggPeriod(kind);
+  const {dates,rows}=aggPeriod(kind); const mm=merchMode();
   const tVis=rows.reduce((a,r)=>a+r.vi,0),tPed=rows.reduce((a,r)=>a+r.pe,0),tKm=rows.reduce((a,r)=>a+r.km,0),tTv=rows.reduce((a,r)=>a+r.tv,0);
+  const pedKpi = mm?'':`<div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>`;
   const kpi=`<div class="kpis">
     <div class="kpi"><div class="b">📅</div><div class="v">${dates.length}</div><div class="l">Dias com dados</div></div>
     <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
-    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
+    ${pedKpi}
     <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)}</div><div class="l">Km rodados</div></div>
     <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div></div>`;
   const max=Math.max(1,...rows.map(r=>r.vi));
-  const bars=[...rows].sort((a,b)=>b.vi-a.vi).map(r=>`<div class="barrow"><span class="small">${r.nome}</span><div class="bartrack"><div class="bar b-ok" style="width:${Math.max(2,r.vi/max*100)}%"></div></div><span class="num">${r.vi}v · ${r.pe}p</span></div>`).join('');
-  return kpi+'<div style="height:14px"></div><div class="card"><h3>Acumulado por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>'+(bars||'<div class="small">Sem dados ainda.</div>')+'</div>';
+  const bars=[...rows].sort((a,b)=>b.vi-a.vi).map(r=>`<div class="barrow"><span class="small">${r.nome}</span><div class="bartrack"><div class="bar b-ok" style="width:${Math.max(2,r.vi/max*100)}%"></div></div><span class="num">${r.vi}v${mm?'':' · '+r.pe+'p'}</span></div>`).join('');
+  const cap = mm? 'v = visitas' : 'v = visitas · p = pedidos';
+  return kpi+'<div style="height:14px"></div><div class="card"><h3>Acumulado por '+(mm?'promotor':'vendedor')+'</h3><div class="cap">'+cap+'</div>'+(bars||'<div class="small">Sem dados ainda.</div>')+'</div>';
 }
 function periodLeitura(kind){
   const {dates,rows}=aggPeriod(kind);
+  const label=kind==='sem'?'semana':'mês';
+  // Modo merchandising: promotor não faz pedido — leitura é só a SOMA do trabalho (visitas/km/tempo).
+  if(merchMode()){
+    if(!dates.length||!rows.length) return '';
+    const tVis=rows.reduce((a,r)=>a+r.vi,0),tKm=rows.reduce((a,r)=>a+r.km,0),tTv=rows.reduce((a,r)=>a+r.tv,0);
+    const top=[...rows].sort((a,b)=>b.vi-a.vi)[0];
+    let t=`<p style="margin:0">Acumulado da ${label} (${dates.length} dia(s)): <b>${tVis} visitas</b>, <b>${tKm.toFixed(0)} km</b> e <b>${hStr(tTv)}</b> em visita.`;
+    if(top && top.vi>0) t+=` Mais ativo: <b>${top.nome}</b> (${top.vi} visitas).`;
+    t+=`</p>`;
+    return `<div class="card" style="margin-bottom:14px"><h3>📝 Leitura da ${label}</h3>${t}</div>`;
+  }
   const rs=rows.filter(r=>!ANALISE_EXCLUI[r.nome] && (REGIONAL_FIX[r.nome]||r.regional)!==MERCH_REG);
   if(!dates.length||!rs.length) return '';
   const tVis=rs.reduce((a,r)=>a+r.vi,0),tPed=rs.reduce((a,r)=>a+r.pe,0),tKm=rs.reduce((a,r)=>a+r.km,0);
-  const label=kind==='sem'?'semana':'mês';
   const best=[...rs].filter(r=>r.vi>0).sort((a,b)=>b.pe-a.pe||b.vi-a.vi)[0];
   const fraco=[...rs].filter(r=>r.vi>=3).sort((a,b)=>(a.pe/a.vi)-(b.pe/b.vi))[0];
   let t=`<p style="margin:0">Acumulado da ${label} (${dates.length} dia(s)): <b>${tVis} visitas</b>, <b>${tPed} pedidos</b> e <b>${tKm.toFixed(0)} km</b>.`;
@@ -690,24 +723,28 @@ function periodLeitura(kind){
 }
 function renderDia(){ document.getElementById('pane-dia').innerHTML=statKpis()+'<div style="height:14px"></div>'+vendBars(); }
 function renderSem(){ document.getElementById('pane-sem').innerHTML=`<div class="note">Acúmulo da semana atual (segunda a domingo). Cresce a cada dia capturado.</div>`+periodLeitura('sem')+periodView('sem'); }
-function renderMes(){ document.getElementById('pane-mes').innerHTML=`<div class="note">Acúmulo do mês atual. Cresce a cada dia capturado.</div>`+periodLeitura('mes')+periodView('mes')+`<div class="card" style="margin-top:14px"><h3>Evolução diária</h3><div class="cap">Total de visitas e de clientes sem pedido por dia (número em cada ponto)</div>${lineChart()}</div>`; }
+function renderMes(){ const graf = merchMode()?'':`<div class="card" style="margin-top:14px"><h3>Evolução diária</h3><div class="cap">Total de visitas e de clientes sem pedido por dia (número em cada ponto)</div>${lineChart()}</div>`;
+  document.getElementById('pane-mes').innerHTML=`<div class="note">Acúmulo do mês atual. Cresce a cada dia capturado.</div>`+periodLeitura('mes')+periodView('mes')+graf; }
 // "Escolher dia": números de UM dia já capturado (snapshot = última atualização daquele dia)
 function fmtDay(key){ const p=(key||'').split('-'); return p.length===3?`${p[2]}/${p[1]}/${p[0]}`:key; }
 function renderPick(){
   const sel=document.getElementById('histDay'); const day=sel?sel.value:'';
   const body=document.getElementById('pickBody'); const snap=day?HISTORICO[day]:null;
   if(!day||!snap||!snap.v||!snap.v.length){ body.innerHTML='<div class="note">Escolha um dia acima para ver os números daquele dia.</div>'; return; }
-  const rows=snap.v.filter(r=>{ const reg=REGIONAL_FIX[r.nome]||r.regional; return !gReg||reg===gReg; });
+  const mm=merchMode();
+  const rows=snap.v.filter(r=>{ const reg=REGIONAL_FIX[r.nome]||r.regional; const isM=(reg===MERCH_REG);
+    if(mm) return isM; if(isM) return false; return !gReg||reg===gReg; });   // promotores só no modo merchandising
   if(!rows.length){ body.innerHTML='<div class="note">Sem dados desse dia para a regional selecionada.</div>'; return; }
-  const tVis=rows.reduce((a,r)=>a+r.vi,0),tPed=rows.reduce((a,r)=>a+r.pe,0),tKm=rows.reduce((a,r)=>a+r.km,0),tTv=rows.reduce((a,r)=>a+r.tv,0);
+  const tVis=rows.reduce((a,r)=>a+r.vi,0),tPed=rows.reduce((a,r)=>a+(mm?0:r.pe),0),tKm=rows.reduce((a,r)=>a+r.km,0),tTv=rows.reduce((a,r)=>a+r.tv,0);
+  const pedKpi = mm?'':`<div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>`;
   const kpi=`<div class="kpis">
     <div class="kpi"><div class="b">👣</div><div class="v">${tVis}</div><div class="l">Visitas</div></div>
-    <div class="kpi"><div class="b">🧾</div><div class="v">${tPed}</div><div class="l">Pedidos</div></div>
+    ${pedKpi}
     <div class="kpi"><div class="b">🚗</div><div class="v">${tKm.toFixed(0)}</div><div class="l">Km rodados</div></div>
     <div class="kpi"><div class="b">⏱️</div><div class="v">${hStr(tTv)}</div><div class="l">Tempo em visita</div></div></div>`;
   const max=Math.max(1,...rows.map(r=>r.vi));
-  const bars=[...rows].sort((a,b)=>b.vi-a.vi).map(r=>`<div class="barrow"><span class="small">${r.nome}</span><div class="bartrack"><div class="bar b-ok" style="width:${Math.max(2,r.vi/max*100)}%"></div></div><span class="num">${r.vi}v · ${r.pe}p</span></div>`).join('');
-  body.innerHTML=`<div class="note">Resultados de <b>${fmtDay(day)}</b> — última atualização do dia${snap.dataHora?' às '+snap.dataHora:''}.</div>`+kpi+'<div style="height:14px"></div><div class="card"><h3>Por vendedor</h3><div class="cap">v = visitas · p = pedidos</div>'+(bars||'<div class="small">Sem dados.</div>')+'</div>';
+  const bars=[...rows].sort((a,b)=>b.vi-a.vi).map(r=>`<div class="barrow"><span class="small">${r.nome}</span><div class="bartrack"><div class="bar b-ok" style="width:${Math.max(2,r.vi/max*100)}%"></div></div><span class="num">${r.vi}v${mm?'':' · '+r.pe+'p'}</span></div>`).join('');
+  body.innerHTML=`<div class="note">Resultados de <b>${fmtDay(day)}</b> — última atualização do dia${snap.dataHora?' às '+snap.dataHora:''}.</div>`+kpi+'<div style="height:14px"></div><div class="card"><h3>Por '+(mm?'promotor':'vendedor')+'</h3><div class="cap">'+(mm?'v = visitas':'v = visitas · p = pedidos')+'</div>'+(bars||'<div class="small">Sem dados.</div>')+'</div>';
 }
 
 /* ====================== GRÁFICOS ====================== */
@@ -766,8 +803,10 @@ function openVend(nome){
   v.eventos.forEach(e=>{ if(e.inicio)items.push({t:toMin(e.inicio),tipo:'evento',e}); });
   if(v.emVisita&&v.atual) items.push({t:1e9,tipo:'agora'});   // visita em andamento entra por último
   items.sort((a,b)=>a.t-b.t);
+  const mmV=isMerch(v);   // promotor: roteiro sem rótulo de pedido
   let tl=items.map(it=>{ if(it.tipo==='visita'){ const c=it.c,noPed=v.semL.some(s=>s.razao===c.razao);
-      return `<div class="ev ${noPed?'noped':''}"><b>${c.in.slice(0,5)}–${c.out.slice(0,5)}</b> · ${c.razao} <span class="small">(${c.mun})</span><br><span class="small">${c.dur.slice(0,5)} · ${c.km} km · ${noPed?'<b style="color:var(--red)">sem pedido</b>':'<b style="color:var(--green)">com pedido</b>'}</span></div>`; }
+      const pedTag = mmV?'':(' · '+(noPed?'<b style="color:var(--red)">sem pedido</b>':'<b style="color:var(--green)">com pedido</b>'));
+      return `<div class="ev ${mmV?'':(noPed?'noped':'')}"><b>${c.in.slice(0,5)}–${c.out.slice(0,5)}</b> · ${c.razao} <span class="small">(${c.mun})</span><br><span class="small">${c.dur.slice(0,5)} · ${c.km} km${pedTag}</span></div>`; }
     else if(it.tipo==='agora'){ return `<div class="ev now"><b style="color:var(--green)">Agora</b> · ${v.atual.razao} <span class="small">(${v.atual.mun})</span><br><span class="small">há ${v.atual.tempo.slice(0,5)} · <b style="color:var(--green)">em visita</b></span></div>`; }
     else{ const e=it.e; return `<div class="ev evt"><b>${(e.inicio||'').slice(0,5)}${e.final?'–'+e.final.slice(0,5):''}</b> · <b>${e.tipo}</b> <span class="small">${e.obs}</span></div>`; } }).join('');
   if(!items.length) tl='<p class="small">Sem visitas ou eventos com horário.</p>';
@@ -778,16 +817,16 @@ function openVend(nome){
     <div class="small" style="margin-bottom:12px">${v.setor} · ${v.regional} · Coordenador: ${v.coord||'—'}</div>
     <div class="kpis" style="margin-bottom:14px">
       <div class="kpi"><div class="v">${v.visitas}</div><div class="l">Visitas</div></div>
-      <div class="kpi"><div class="v">${v.orders}</div><div class="l">Pedidos</div></div>
+      ${isMerch(v)?'':`<div class="kpi"><div class="v">${v.orders}</div><div class="l">Pedidos</div></div>`}
       <div class="kpi"><div class="v">${v.km.toFixed(1)}</div><div class="l">Km</div></div>
       <div class="kpi"><div class="v">${hStr(v.tvMin)}</div><div class="l">Tempo em visita</div></div>
       <div class="kpi"><div class="v">${mmToStr(v.firstAct)}</div><div class="l">Início</div></div>
       <div class="kpi"><div class="v">${mmToStr(v.lastAct)}</div><div class="l">Fim</div></div>
       <div class="kpi"><div class="v">${v.lunch?Math.round(v.lunch)+'m':'—'}</div><div class="l">Almoço</div></div>
-      <div class="kpi"><div class="v">${v.perc==null?'—':Math.round(v.perc)+'%'}</div><div class="l">Sem pedido</div></div>
+      ${isMerch(v)?'':`<div class="kpi"><div class="v">${v.perc==null?'—':Math.round(v.perc)+'%'}</div><div class="l">Sem pedido</div></div>`}
     </div>
     ${v.inProgress?`<div class="okbox" style="background:var(--panel2);border-color:var(--brand2);color:var(--brand2);margin-bottom:10px">🟢 ${v.emVisita?'Em visita':'Em evento'} no momento${v.emVisita&&v.atual?' — <b>'+v.atual.razao+'</b>'+(v.atual.mun?' · '+v.atual.mun:'')+(v.atual.tempo?' · há '+v.atual.tempo.slice(0,5):''):(v.visitas===0&&v.firstAct!=null?' — desde '+mmToStr(v.firstAct):'')}.</div>`:''}
-    <div class="small" style="margin-bottom:10px">Metas: 5 visitas, 4 pedidos, jornada 08:00–17:48.</div>
+    ${isMerch(v)?'':`<div class="small" style="margin-bottom:10px">Metas: 5 visitas, 4 pedidos, jornada 08:00–17:48.</div>`}
     <h3 style="margin:6px 0">Pontos de atenção</h3><ul class="pcard" style="border:none;background:none;box-shadow:none;padding:0">${al}</ul>
     <h3 style="margin:14px 0 6px">Rota do dia</h3><div class="tl">${tl}</div>`;
   document.getElementById('modal').classList.add('show');

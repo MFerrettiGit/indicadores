@@ -5492,7 +5492,7 @@
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
-                                     "pe":  2,
+                                     "pe":  0,
                                      "km":  57.36,
                                      "tv":  105
                                  },
@@ -5501,16 +5501,25 @@
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
-                                     "pe":  2,
+                                     "pe":  0,
                                      "km":  34.43,
                                      "tv":  128
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  62.88,
+                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  1,
-                                     "pe":  1,
+                                     "pe":  0,
                                      "km":  2.8,
                                      "tv":  160
                                  },
@@ -5519,7 +5528,7 @@
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  1,
-                                     "pe":  1,
+                                     "pe":  0,
                                      "km":  1.97,
                                      "tv":  147
                                  },
@@ -5528,25 +5537,16 @@
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  1,
-                                     "pe":  1,
+                                     "pe":  0,
                                      "km":  24.66,
                                      "tv":  147
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  35.22,
-                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  1,
-                                     "pe":  1,
+                                     "pe":  0,
                                      "km":  51.68,
                                      "tv":  95
                                  },
@@ -5563,10 +5563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  13.65,
-                                     "tv":  56
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  38.22,
+                                     "tv":  90
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -5578,6 +5578,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  11.65,
+                                     "tv":  123
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -5585,15 +5594,6 @@
                                      "pe":  1,
                                      "km":  46.92,
                                      "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  9.88,
-                                     "tv":  82
                                  },
                                  {
                                      "nome":  "Maira",
@@ -5635,10 +5635,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  28.16,
-                                     "tv":  74
+                                     "km":  29.48,
+                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -5769,6 +5769,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  27.66,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIZARRI LTDA",
                                        "p":  1,
@@ -5781,6 +5788,13 @@
                                        "p":  1,
                                        "km":  7.74,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO PAULAO LTDA",
+                                       "p":  0,
+                                       "km":  1.77,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Maira",
@@ -5802,6 +5816,13 @@
                                        "p":  1,
                                        "km":  6.82,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  24.57,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -5830,6 +5851,13 @@
                                        "p":  1,
                                        "km":  6.11,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "GOYOS SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  1.32,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Karina",
