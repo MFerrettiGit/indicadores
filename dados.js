@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "17/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "11:38",
                      "tv":  "03:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:25",
                      "ultimo":  "11:26",
                      "tv":  "03:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "10:46",
                      "ultimo":  "11:06",
                      "tv":  "00:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,6 +195,36 @@ window.PAINEL = {
                      "primeiro":  "08:41",
                      "ultimo":  "11:16",
                      "tv":  "02:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  2.82,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:10",
+                     "ultimo":  "11:43",
+                     "tv":  "03:33:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  23.81,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "11:42",
+                     "tv":  "03:26:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -210,36 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:49",
                      "ultimo":  "10:10",
                      "tv":  "01:20:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.38,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:10",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  23.81,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:16",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  63.37,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:02",
+                     "ultimo":  "11:52",
+                     "tv":  "03:49:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -330,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:10",
                      "ultimo":  "10:53",
                      "tv":  "02:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -345,21 +360,6 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "09:02",
                      "tv":  "00:29:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  4.31,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -519,6 +519,15 @@ window.PAINEL = {
                          "dur":  "00:59:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "FAVETTA",
+                         "mun":  "ARARAS",
+                         "in":  "08:16:06",
+                         "out":  "11:42:54",
+                         "km":  0,
+                         "dur":  "03:26:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIZARRI LTDA",
                          "mun":  "PONTAL",
@@ -600,6 +609,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "in":  "08:10:01",
+                         "out":  "11:43:08",
+                         "km":  2.44,
+                         "dur":  "03:33:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
@@ -634,6 +652,15 @@ window.PAINEL = {
                          "out":  "10:53:41",
                          "km":  25.4,
                          "dur":  "02:42:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADOS MARCON LTDA.",
+                         "mun":  "LARANJAL PAULIS",
+                         "in":  "08:02:38",
+                         "out":  "11:52:04",
+                         "km":  59.06,
+                         "dur":  "03:49:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -798,7 +825,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:32"
+                        "tempo":  "00:44:45"
                     },
                     {
                         "nome":  "Edimilson",
@@ -806,7 +833,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:31"
+                        "tempo":  "00:37:44"
                     }
                 ],
     "semped":  [
@@ -835,6 +862,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                       "mun":  "AMPARO",
+                       "obs":  "verificação de loja e proposta"
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "SUPERMERCADO PAULAO LTDA",
                        "mun":  "FRANCA",
@@ -859,6 +892,12 @@ window.PAINEL = {
                        "obs":  "cliente estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADOS MARCON LTDA.",
+                       "mun":  "LARANJAL PAULIS",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Mariangela",
                        "razao":  "LOJAS ESTRELA DO LAR LTDA",
                        "mun":  "JACAREI",
@@ -873,88 +912,100 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "HORTOLANDIA",
+                         "tempo":  "00:10:22"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:42:45"
+                         "tempo":  "00:57:51"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:07:28"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:38"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:38:35"
+                         "tempo":  "01:53:41"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:21:37"
+                         "tempo":  "00:36:43"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
-                         "mun":  "AMPARO",
-                         "tempo":  "03:29:07"
+                         "nome":  "Maira",
+                         "razao":  "J.F. MENDES E CIA LTDA.",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:08:36"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:28:18"
+                         "tempo":  "00:43:24"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HERNANDEZ",
                          "mun":  "PONTAL",
-                         "tempo":  "01:25:11"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "FAVETTA",
-                         "mun":  "ARARAS",
-                         "tempo":  "03:23:02"
+                         "tempo":  "01:40:17"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TENDOLINI LTDA",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:27:14"
+                         "tempo":  "00:42:20"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADOS PANONTIM LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "01:03:49"
+                         "tempo":  "01:18:55"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:15:02"
+                         "tempo":  "00:30:08"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:33:37"
+                         "tempo":  "02:48:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "FAMBAT SUPERMERCADO RK EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:09:43"
+                         "tempo":  "00:24:49"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LAURA MARIA  DA SILVA CARVALHO",
                          "mun":  "SARAPUI",
-                         "tempo":  "01:09:40"
+                         "tempo":  "01:24:46"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADOS MARCON LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "tempo":  "03:36:30"
+                         "nome":  "Castro",
+                         "razao":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:09:52"
                      }
                  ],
     "hist":  [
@@ -1065,8 +1116,8 @@ window.PAINEL = {
                  ],
                  [
                      "17/06",
-                     42,
-                     10
+                     46,
+                     13
                  ]
              ],
     "historico":  {
@@ -6556,7 +6607,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-17":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -6676,6 +6727,24 @@ window.PAINEL = {
                                                        "tv":  120
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  2.82,
+                                                       "tv":  213
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  23.81,
+                                                       "tv":  206
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -6683,24 +6752,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  61.46,
                                                        "tv":  80
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.38,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  23.81,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -6748,6 +6799,15 @@ window.PAINEL = {
                                                        "tv":  168
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  63.37,
+                                                       "tv":  229
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -6764,15 +6824,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  2,
                                                        "tv":  29
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  4.31,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -6896,6 +6947,13 @@ window.PAINEL = {
                                                          "tv":  59
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "FAVETTA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  206
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO BIZARRI LTDA",
                                                          "p":  1,
@@ -6959,6 +7017,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                                         "p":  0,
+                                                         "km":  2.44,
+                                                         "tv":  213
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SILVIO ANTONIO FRANZIN",
                                                          "p":  1,
@@ -6985,6 +7050,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  25.4,
                                                          "tv":  162
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADOS MARCON LTDA.",
+                                                         "p":  0,
+                                                         "km":  59.06,
+                                                         "tv":  229
                                                      },
                                                      {
                                                          "n":  "Eugenio",

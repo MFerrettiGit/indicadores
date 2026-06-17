@@ -5485,7 +5485,7 @@
                                ]
                    },
     "2026-06-17":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -5605,6 +5605,24 @@
                                      "tv":  120
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  2.82,
+                                     "tv":  213
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  23.81,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -5612,24 +5630,6 @@
                                      "pe":  1,
                                      "km":  61.46,
                                      "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.38,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  23.81,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -5677,6 +5677,15 @@
                                      "tv":  168
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  63.37,
+                                     "tv":  229
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -5693,15 +5702,6 @@
                                      "pe":  1,
                                      "km":  2,
                                      "tv":  29
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  4.31,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -5825,6 +5825,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "FAVETTA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  206
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIZARRI LTDA",
                                        "p":  1,
@@ -5888,6 +5895,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  2.44,
+                                       "tv":  213
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SILVIO ANTONIO FRANZIN",
                                        "p":  1,
@@ -5914,6 +5928,13 @@
                                        "p":  1,
                                        "km":  25.4,
                                        "tv":  162
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADOS MARCON LTDA.",
+                                       "p":  0,
+                                       "km":  59.06,
+                                       "tv":  229
                                    },
                                    {
                                        "n":  "Eugenio",
