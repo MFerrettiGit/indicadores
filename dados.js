@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
-    "dataDT":  "17/06/2026",
-    "dataHora":  "18:30",
+    "dataDT":  "18/06/2026",
+    "dataHora":  "07:45",
     "vend":  [
                  {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  140.54,
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:55",
-                     "ultimo":  "16:54",
-                     "tv":  "06:18:00",
-                     "emVisita":  0,
+                     "perc":  null,
+                     "primeiro":  "06:51",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -23,59 +23,29 @@ window.PAINEL = {
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  32.27,
+                     "visitas":  0,
+                     "km":  0.46,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:11",
-                     "ultimo":  "17:12",
-                     "tv":  "07:06:00",
-                     "emVisita":  0,
+                     "perc":  null,
+                     "primeiro":  "06:58",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  106.08,
+                     "visitas":  0,
+                     "km":  0.18,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:53",
-                     "ultimo":  "16:15",
-                     "tv":  "05:52:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  67.06,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:00",
-                     "ultimo":  "14:17",
-                     "tv":  "05:23:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  62.05,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:25",
-                     "ultimo":  "16:40",
-                     "tv":  "06:07:00",
-                     "emVisita":  0,
+                     "perc":  null,
+                     "primeiro":  "06:59",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -83,29 +53,44 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  144.22,
+                     "visitas":  0,
+                     "km":  0.11,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:30",
-                     "ultimo":  "16:51",
-                     "tv":  "05:55:00",
-                     "emVisita":  0,
+                     "perc":  null,
+                     "primeiro":  "07:01",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  19.66,
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:53",
-                     "ultimo":  "16:52",
-                     "tv":  "08:05:00",
-                     "emVisita":  0,
+                     "perc":  null,
+                     "primeiro":  "07:06",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "07:14",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -124,17 +109,32 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Milene",
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  126.21,
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:53",
-                     "ultimo":  "15:54",
-                     "tv":  "05:22:00",
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -143,13 +143,28 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  119.39,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "10:46",
-                     "ultimo":  "16:40",
-                     "tv":  "04:43:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -158,43 +173,13 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  61.54,
-                     "semPed":  4,
-                     "perc":  57.14,
-                     "primeiro":  "08:13",
-                     "ultimo":  "18:00",
-                     "tv":  "07:12:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  54.48,
+                     "visitas":  0,
+                     "km":  37.35,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:16",
-                     "ultimo":  "17:27",
-                     "tv":  "06:18:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  19.82,
-                     "semPed":  4,
-                     "perc":  80,
-                     "primeiro":  "08:20",
-                     "ultimo":  "14:01",
-                     "tv":  "03:58:00",
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -203,28 +188,28 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  99.56,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:41",
-                     "ultimo":  "17:22",
-                     "tv":  "05:03:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  108.08,
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:49",
-                     "ultimo":  "17:58",
-                     "tv":  "06:40:00",
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -233,58 +218,28 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  4.99,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:10",
-                     "ultimo":  "15:58",
-                     "tv":  "05:39:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  8,
-                     "km":  63.09,
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "18:12",
-                     "tv":  "06:36:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  61.62,
-                     "semPed":  2,
-                     "perc":  28.57,
-                     "primeiro":  "08:13",
-                     "ultimo":  "17:37",
-                     "tv":  "05:45:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  54.54,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:10",
-                     "ultimo":  "15:49",
-                     "tv":  "05:16:00",
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -293,43 +248,88 @@ window.PAINEL = {
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  37.75,
-                     "semPed":  2,
-                     "perc":  33.33,
-                     "primeiro":  "08:41",
-                     "ultimo":  "16:40",
-                     "tv":  "04:28:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  66.28,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:24",
-                     "ultimo":  "16:34",
-                     "tv":  "04:09:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  100.21,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:25",
-                     "ultimo":  "17:50",
-                     "tv":  "05:37:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  1.35,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -338,1385 +338,43 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  133.57,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "08:02",
-                     "ultimo":  "16:39",
-                     "tv":  "05:55:00",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  21.88,
+                     "visitas":  0,
+                     "km":  9.49,
                      "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:02",
-                     "ultimo":  "17:48",
-                     "tv":  "07:29:00",
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
                  }
              ],
     "checkins":  [
-                     {
-                         "nome":  "Aline",
-                         "razao":  "HIGA PROD. ALIM. LTDA.",
-                         "mun":  "CAMPINAS",
-                         "in":  "07:25:16",
-                         "out":  "09:53:07",
-                         "km":  24.66,
-                         "dur":  "02:27:00"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
-                         "mun":  "PAULINIA",
-                         "in":  "10:13:12",
-                         "out":  "11:26:10",
-                         "km":  15.4,
-                         "dur":  "01:12:00"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "PAULINIA",
-                         "in":  "11:46:46",
-                         "out":  "12:37:30",
-                         "km":  4.2,
-                         "dur":  "00:50:00"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
-                         "mun":  "SUMARE",
-                         "in":  "13:36:34",
-                         "out":  "14:46:56",
-                         "km":  8.87,
-                         "dur":  "01:09:00"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
-                         "mun":  "SUMARE",
-                         "in":  "16:10:36",
-                         "out":  "16:40:27",
-                         "km":  8.92,
-                         "dur":  "00:29:00"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "LEME",
-                         "in":  "07:00:44",
-                         "out":  "08:22:16",
-                         "km":  29.98,
-                         "dur":  "01:20:00"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADOS REX LTDA.",
-                         "mun":  "LEME",
-                         "in":  "08:30:02",
-                         "out":  "09:18:15",
-                         "km":  1.16,
-                         "dur":  "00:48:00"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "LEME",
-                         "in":  "09:26:19",
-                         "out":  "10:46:57",
-                         "km":  0.68,
-                         "dur":  "01:20:00"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADOS REX LTDA.",
-                         "mun":  "LEME",
-                         "in":  "10:56:23",
-                         "out":  "11:58:24",
-                         "km":  2.62,
-                         "dur":  "01:01:00"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "ARARAS",
-                         "in":  "13:22:39",
-                         "out":  "14:17:37",
-                         "km":  20.3,
-                         "dur":  "00:54:00"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
-                         "mun":  "HORTOLANDIA",
-                         "in":  "08:30:47",
-                         "out":  "10:06:39",
-                         "km":  51.68,
-                         "dur":  "01:35:00"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "HORTOLANDIA",
-                         "in":  "10:36:55",
-                         "out":  "11:16:49",
-                         "km":  4.62,
-                         "dur":  "00:39:00"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "HORTOLANDIA",
-                         "in":  "12:12:24",
-                         "out":  "13:22:07",
-                         "km":  8.52,
-                         "dur":  "01:09:00"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
-                         "mun":  "MONTE MOR",
-                         "in":  "13:36:59",
-                         "out":  "15:28:35",
-                         "km":  3.56,
-                         "dur":  "01:51:00"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "CAPIVARI",
-                         "in":  "16:09:25",
-                         "out":  "16:51:12",
-                         "km":  34.28,
-                         "dur":  "00:41:00"
-                     },
-                     {
-                         "nome":  "Eduardo",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
-                         "mun":  "INDAIATUBA",
-                         "in":  "10:46:53",
-                         "out":  "11:06:28",
-                         "km":  65.76,
-                         "dur":  "00:19:00"
-                     },
-                     {
-                         "nome":  "Eduardo",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "HORTOLANDIA",
-                         "in":  "11:43:52",
-                         "out":  "12:21:48",
-                         "km":  41.75,
-                         "dur":  "00:37:00"
-                     },
-                     {
-                         "nome":  "Eduardo",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "HORTOLANDIA",
-                         "in":  "12:36:44",
-                         "out":  "13:25:20",
-                         "km":  8.57,
-                         "dur":  "00:48:00"
-                     },
-                     {
-                         "nome":  "Eduardo",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
-                         "mun":  "MONTE MOR",
-                         "in":  "13:40:29",
-                         "out":  "16:40:27",
-                         "km":  3.31,
-                         "dur":  "02:59:00"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA - LJ.03",
-                         "mun":  "JUNDIAI",
-                         "in":  "06:53:38",
-                         "out":  "09:34:11",
-                         "km":  2.8,
-                         "dur":  "02:40:00"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "JUNDIAI",
-                         "in":  "10:00:33",
-                         "out":  "11:55:05",
-                         "km":  5.55,
-                         "dur":  "01:54:00"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "JUNDIAI",
-                         "in":  "13:11:21",
-                         "out":  "15:03:42",
-                         "km":  6.3,
-                         "dur":  "01:52:00"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "JUNDIAI",
-                         "in":  "15:12:08",
-                         "out":  "16:52:15",
-                         "km":  1.11,
-                         "dur":  "01:39:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "in":  "06:55:38",
-                         "out":  "08:14:10",
-                         "km":  39.85,
-                         "dur":  "01:18:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
-                         "mun":  "CAMPINAS",
-                         "in":  "09:17:56",
-                         "out":  "09:45:44",
-                         "km":  17.51,
-                         "dur":  "00:27:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
-                         "mun":  "CAMPINAS",
-                         "in":  "10:15:41",
-                         "out":  "11:38:31",
-                         "km":  23.44,
-                         "dur":  "01:22:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
-                         "mun":  "CAMPINAS",
-                         "in":  "11:45:36",
-                         "out":  "12:22:18",
-                         "km":  0.91,
-                         "dur":  "00:36:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA",
-                         "mun":  "CAMPINAS",
-                         "in":  "13:47:25",
-                         "out":  "14:24:42",
-                         "km":  9.29,
-                         "dur":  "00:37:00"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
-                         "mun":  "CAMPINAS",
-                         "in":  "14:55:14",
-                         "out":  "16:54:04",
-                         "km":  26.85,
-                         "dur":  "01:58:00"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "HIGA PROD. ALIM. LTDA.",
-                         "mun":  "SANTA BARBARA D",
-                         "in":  "07:11:12",
-                         "out":  "09:38:30",
-                         "km":  1.97,
-                         "dur":  "02:27:00"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
-                         "mun":  "AMERICANA",
-                         "in":  "10:34:56",
-                         "out":  "10:58:27",
-                         "km":  15.97,
-                         "dur":  "00:23:00"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.02",
-                         "mun":  "AMERICANA",
-                         "in":  "11:17:31",
-                         "out":  "12:29:05",
-                         "km":  8.56,
-                         "dur":  "01:11:00"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
-                         "mun":  "AMERICANA",
-                         "in":  "12:33:03",
-                         "out":  "13:37:19",
-                         "km":  0.52,
-                         "dur":  "01:04:00"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
-                         "mun":  "AMERICANA",
-                         "in":  "15:05:31",
-                         "out":  "15:54:58",
-                         "km":  3.76,
-                         "dur":  "00:49:00"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
-                         "mun":  "AMERICANA",
-                         "in":  "16:00:37",
-                         "out":  "17:12:56",
-                         "km":  1.49,
-                         "dur":  "01:12:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PORTO FELIZ",
-                         "in":  "07:53:09",
-                         "out":  "09:07:15",
-                         "km":  24.99,
-                         "dur":  "01:14:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
-                         "mun":  "ITU",
-                         "in":  "09:35:05",
-                         "out":  "10:27:10",
-                         "km":  27.66,
-                         "dur":  "00:51:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "ITU",
-                         "in":  "10:35:16",
-                         "out":  "11:35:06",
-                         "km":  1.32,
-                         "dur":  "00:59:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
-                         "mun":  "ITU",
-                         "in":  "13:03:16",
-                         "out":  "13:51:01",
-                         "km":  3.06,
-                         "dur":  "00:47:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "ITU",
-                         "in":  "14:02:11",
-                         "out":  "14:42:11",
-                         "km":  1.1,
-                         "dur":  "00:39:00"
-                     },
-                     {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.22",
-                         "mun":  "ITU",
-                         "in":  "14:53:37",
-                         "out":  "16:15:44",
-                         "km":  1.68,
-                         "dur":  "01:22:00"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "FAVETTA",
-                         "mun":  "ARARAS",
-                         "in":  "08:16:06",
-                         "out":  "11:42:54",
-                         "km":  0,
-                         "dur":  "03:26:00"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "FAVETTA",
-                         "mun":  "ARARAS",
-                         "in":  "13:27:23",
-                         "out":  "15:31:14",
-                         "km":  3.87,
-                         "dur":  "02:03:00"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "J. CAMARGO DE SOUZA LTDA",
-                         "mun":  "ARARAS",
-                         "in":  "16:16:05",
-                         "out":  "16:32:21",
-                         "km":  5.69,
-                         "dur":  "00:16:00"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "FAVETTA",
-                         "mun":  "ARARAS",
-                         "in":  "16:46:50",
-                         "out":  "17:04:21",
-                         "km":  2.51,
-                         "dur":  "00:17:00"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
-                         "mun":  "ARARAS",
-                         "in":  "17:10:58",
-                         "out":  "17:27:26",
-                         "km":  0.65,
-                         "dur":  "00:16:00"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO BIZARRI LTDA",
-                         "mun":  "PONTAL",
-                         "in":  "08:49:50",
-                         "out":  "10:10:44",
-                         "km":  40.64,
-                         "dur":  "01:20:00"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "HERNANDEZ",
-                         "mun":  "PONTAL",
-                         "in":  "10:13:57",
-                         "out":  "12:02:45",
-                         "km":  0.53,
-                         "dur":  "01:48:00"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
-                         "mun":  "PONTAL",
-                         "in":  "13:10:35",
-                         "out":  "15:28:28",
-                         "km":  0.81,
-                         "dur":  "02:17:00"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "in":  "16:43:03",
-                         "out":  "17:58:31",
-                         "km":  35.48,
-                         "dur":  "01:15:00"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "P.R.FERREIRA FRANCA",
-                         "mun":  "FRANCA",
-                         "in":  "08:20:22",
-                         "out":  "09:42:47",
-                         "km":  7.74,
-                         "dur":  "01:22:00"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO PAULAO LTDA",
-                         "mun":  "FRANCA",
-                         "in":  "09:50:33",
-                         "out":  "10:31:56",
-                         "km":  1.77,
-                         "dur":  "00:41:00"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
-                         "mun":  "FRANCA",
-                         "in":  "10:42:41",
-                         "out":  "11:04:31",
-                         "km":  2.71,
-                         "dur":  "00:21:00"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "in":  "12:07:38",
-                         "out":  "13:10:53",
-                         "km":  0.65,
-                         "dur":  "01:02:00"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO SANTA TEREZINHA LTDA",
-                         "mun":  "FRANCA",
-                         "in":  "13:29:19",
-                         "out":  "14:01:55",
-                         "km":  1.82,
-                         "dur":  "00:32:00"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "E G DAROS",
-                         "mun":  "LIMEIRA",
-                         "in":  "08:41:25",
-                         "out":  "09:46:56",
-                         "km":  35.56,
-                         "dur":  "01:05:00"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "BENFICA COM E SERV EIRELI - EPP",
-                         "mun":  "LIMEIRA",
-                         "in":  "10:20:44",
-                         "out":  "11:16:21",
-                         "km":  10.04,
-                         "dur":  "00:55:00"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "J.F. MENDES E CIA LTDA.",
-                         "mun":  "LIMEIRA",
-                         "in":  "11:45:38",
-                         "out":  "12:24:38",
-                         "km":  3.77,
-                         "dur":  "00:38:00"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "PRIMOS PEROLA LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "in":  "14:30:08",
-                         "out":  "15:54:55",
-                         "km":  37.66,
-                         "dur":  "01:24:00"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "in":  "16:20:36",
-                         "out":  "17:22:33",
-                         "km":  7.85,
-                         "dur":  "01:01:00"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "in":  "06:53:54",
-                         "out":  "07:35:47",
-                         "km":  6.83,
-                         "dur":  "00:41:00"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADOS GRICKI LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "in":  "08:46:17",
-                         "out":  "09:02:17",
-                         "km":  6.82,
-                         "dur":  "00:15:00"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
-                         "mun":  "SERRANA",
-                         "in":  "09:52:10",
-                         "out":  "10:26:39",
-                         "km":  24.57,
-                         "dur":  "00:34:00"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "JOSE CARLOS NORI",
-                         "mun":  "BRODOSQUI",
-                         "in":  "11:10:50",
-                         "out":  "12:57:39",
-                         "km":  46.22,
-                         "dur":  "01:46:00"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "FURLAN",
-                         "mun":  "BRODOWSKI",
-                         "in":  "13:25:28",
-                         "out":  "14:48:29",
-                         "km":  0,
-                         "dur":  "01:22:00"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO SB BABA LTDA.",
-                         "mun":  "JARDINOPOLIS",
-                         "in":  "15:09:23",
-                         "out":  "15:54:21",
-                         "km":  20.75,
-                         "dur":  "00:44:00"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
-                         "mun":  "AMPARO",
-                         "in":  "08:10:01",
-                         "out":  "11:43:08",
-                         "km":  2.44,
-                         "dur":  "03:33:00"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "J.L. DAOLIO",
-                         "mun":  "AMPARO",
-                         "in":  "13:51:42",
-                         "out":  "15:58:27",
-                         "km":  2.17,
-                         "dur":  "02:06:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SILVIO ANTONIO FRANZIN",
-                         "mun":  "DESCALVADO",
-                         "in":  "08:13:22",
-                         "out":  "10:20:34",
-                         "km":  44.96,
-                         "dur":  "02:07:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
-                         "mun":  "DESCALVADO",
-                         "in":  "10:31:01",
-                         "out":  "10:50:20",
-                         "km":  2.65,
-                         "dur":  "00:19:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADOS TENDOLINI LTDA",
-                         "mun":  "DESCALVADO",
-                         "in":  "11:11:54",
-                         "out":  "12:18:02",
-                         "km":  2.61,
-                         "dur":  "01:06:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "GUELLERO",
-                         "mun":  "DESCALVADO",
-                         "in":  "12:23:37",
-                         "out":  "13:36:21",
-                         "km":  1.42,
-                         "dur":  "01:12:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "EVA APARECIDA ZAGO TENDOLINI SUPERMECADO",
-                         "mun":  "DESCALVADO",
-                         "in":  "15:07:22",
-                         "out":  "16:18:58",
-                         "km":  3.52,
-                         "dur":  "01:11:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO LAZARINI EIRELI",
-                         "mun":  "DESCALVADO",
-                         "in":  "16:30:48",
-                         "out":  "16:55:28",
-                         "km":  0.82,
-                         "dur":  "00:24:00"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
-                         "mun":  "DESCALVADO",
-                         "in":  "17:06:56",
-                         "out":  "18:00:16",
-                         "km":  3.6,
-                         "dur":  "00:53:00"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "LESSA",
-                         "mun":  "CAMPINAS",
-                         "in":  "08:02:47",
-                         "out":  "10:51:06",
-                         "km":  5.88,
-                         "dur":  "02:48:00"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "in":  "11:24:06",
-                         "out":  "13:01:05",
-                         "km":  1.33,
-                         "dur":  "01:36:00"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "PREMIUM SUPERMERCADO ECONOMIA LTDA",
-                         "mun":  "CAMPINAS",
-                         "in":  "14:42:40",
-                         "out":  "17:48:37",
-                         "km":  14.67,
-                         "dur":  "03:05:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
-                         "mun":  "JUNDIAI",
-                         "in":  "08:10:56",
-                         "out":  "10:53:41",
-                         "km":  25.4,
-                         "dur":  "02:42:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "MINIMERCADO J E J ITUPEVA EIRELI ME",
-                         "mun":  "ITUPEVA",
-                         "in":  "11:44:22",
-                         "out":  "12:04:13",
-                         "km":  22.2,
-                         "dur":  "00:19:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
-                         "mun":  "ITUPEVA",
-                         "in":  "12:08:39",
-                         "out":  "12:39:45",
-                         "km":  1.2,
-                         "dur":  "00:31:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
-                         "mun":  "ITUPEVA",
-                         "in":  "13:36:58",
-                         "out":  "14:29:37",
-                         "km":  2.2,
-                         "dur":  "00:52:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
-                         "mun":  "ITUPEVA",
-                         "in":  "14:46:15",
-                         "out":  "15:19:35",
-                         "km":  2.42,
-                         "dur":  "00:32:00"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "MERCADO UNIAO DE ITUPEVA LTDA LOJA 06",
-                         "mun":  "ITUPEVA",
-                         "in":  "15:28:34",
-                         "out":  "15:49:07",
-                         "km":  1.12,
-                         "dur":  "00:20:00"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADOS MARCON LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "in":  "08:02:38",
-                         "out":  "11:52:04",
-                         "km":  59.06,
-                         "dur":  "03:49:00"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "NELLO COMERCIAL LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "in":  "13:04:57",
-                         "out":  "13:28:48",
-                         "km":  1.66,
-                         "dur":  "00:23:00"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADOS MARCON LTDA.",
-                         "mun":  "CESARIO LANGE",
-                         "in":  "14:20:46",
-                         "out":  "15:11:41",
-                         "km":  37.5,
-                         "dur":  "00:50:00"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADOS MARCON LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "in":  "15:46:44",
-                         "out":  "16:39:58",
-                         "km":  31.04,
-                         "dur":  "00:53:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
-                         "mun":  "ATIBAIA",
-                         "in":  "08:13:23",
-                         "out":  "08:35:02",
-                         "km":  8.1,
-                         "dur":  "00:21:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "GOYOS BATA SUPERMERCADO LTDA",
-                         "mun":  "PIRACAIA",
-                         "in":  "08:52:09",
-                         "out":  "09:22:27",
-                         "km":  13.95,
-                         "dur":  "00:30:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO NAKAMITSU LTDA",
-                         "mun":  "PIRACAIA",
-                         "in":  "09:32:12",
-                         "out":  "09:55:29",
-                         "km":  6.11,
-                         "dur":  "00:23:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "GOYOS SUPERMERCADO LTDA.",
-                         "mun":  "PIRACAIA",
-                         "in":  "10:04:28",
-                         "out":  "10:28:53",
-                         "km":  1.32,
-                         "dur":  "00:24:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADOS PANONTIM LTDA",
-                         "mun":  "PIRACAIA",
-                         "in":  "10:35:19",
-                         "out":  "12:20:46",
-                         "km":  1.55,
-                         "dur":  "01:45:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADOS PANONTIM LTDA",
-                         "mun":  "PIRACAIA",
-                         "in":  "12:31:18",
-                         "out":  "12:53:56",
-                         "km":  0.62,
-                         "dur":  "00:22:00"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "in":  "15:37:06",
-                         "out":  "17:37:53",
-                         "km":  29.97,
-                         "dur":  "02:00:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "JONAS F DOS SANTOS MERCADO",
-                         "mun":  "CARAGUATATUBA",
-                         "in":  "08:33:04",
-                         "out":  "09:02:42",
-                         "km":  2,
-                         "dur":  "00:29:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "EDSON LUCIO PASSOS",
-                         "mun":  "CARAGUATATUBA",
-                         "in":  "09:05:31",
-                         "out":  "11:57:20",
-                         "km":  0,
-                         "dur":  "02:51:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "EMPORIO BAREQUECABA LTDA",
-                         "mun":  "SAO SEBASTIAO",
-                         "in":  "13:49:23",
-                         "out":  "14:47:31",
-                         "km":  32.4,
-                         "dur":  "00:58:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "COMERCIAL PRIMAVERA MARESIAS LTDA",
-                         "mun":  "SAO SEBASTIAO",
-                         "in":  "15:21:53",
-                         "out":  "16:10:24",
-                         "km":  21.61,
-                         "dur":  "00:48:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MERCADO IGUACU MARESIAS LTDA",
-                         "mun":  "SAO SEBASTIAO",
-                         "in":  "16:15:13",
-                         "out":  "16:40:05",
-                         "km":  0,
-                         "dur":  "00:24:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "LEILA MARIA SILVA PEREIRA - ME",
-                         "mun":  "SAO SEBASTIAO",
-                         "in":  "16:43:42",
-                         "out":  "17:04:36",
-                         "km":  0.81,
-                         "dur":  "00:20:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "VILMA CAMPOS GIMENEZ SAO SEBASTIAO - ME",
-                         "mun":  "SAO SEBASTIAO",
-                         "in":  "17:10:36",
-                         "out":  "17:31:02",
-                         "km":  0.7,
-                         "dur":  "00:20:00"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MATHEUS HONORATO DE OLIVEIRA",
-                         "mun":  "SAO SEBASTIAO",
-                         "in":  "17:45:55",
-                         "out":  "18:12:24",
-                         "km":  5.57,
-                         "dur":  "00:26:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
-                         "mun":  "INDAIATUBA",
-                         "in":  "08:41:09",
-                         "out":  "09:29:07",
-                         "km":  6.82,
-                         "dur":  "00:47:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "in":  "10:05:25",
-                         "out":  "11:15:44",
-                         "km":  3.56,
-                         "dur":  "01:08:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "FAMBAT SUPERMERCADO RK EIRELI",
-                         "mun":  "INDAIATUBA",
-                         "in":  "11:29:25",
-                         "out":  "12:00:46",
-                         "km":  8.95,
-                         "dur":  "00:31:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "in":  "14:13:30",
-                         "out":  "14:47:12",
-                         "km":  5.67,
-                         "dur":  "00:33:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "MERCADO BEIJA FLOR LTDA",
-                         "mun":  "INDAIATUBA",
-                         "in":  "15:02:28",
-                         "out":  "15:40:44",
-                         "km":  3.03,
-                         "dur":  "00:38:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SM DIA CIDADE NOVA EIRELI",
-                         "mun":  "INDAIATUBA",
-                         "in":  "15:49:15",
-                         "out":  "16:40:27",
-                         "km":  1.25,
-                         "dur":  "00:51:00"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "in":  "08:24:31",
-                         "out":  "09:59:30",
-                         "km":  7.06,
-                         "dur":  "01:34:00"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
-                         "mun":  "JACAREI",
-                         "in":  "10:31:49",
-                         "out":  "11:18:14",
-                         "km":  13.37,
-                         "dur":  "00:46:00"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "in":  "14:00:24",
-                         "out":  "14:29:18",
-                         "km":  9.73,
-                         "dur":  "00:28:00"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
-                         "mun":  "SAO JOSE DOS CA",
-                         "in":  "14:42:09",
-                         "out":  "15:09:33",
-                         "km":  4.12,
-                         "dur":  "00:27:00"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "in":  "15:40:32",
-                         "out":  "16:34:37",
-                         "km":  6.15,
-                         "dur":  "00:54:00"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "LORENI FERRAIS BONFIM MARIANO",
-                         "mun":  "ALAMBARI",
-                         "in":  "08:25:25",
-                         "out":  "09:33:23",
-                         "km":  21.89,
-                         "dur":  "01:07:00"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "SUPERMERCADO CARVALHO DE SARAPUI LTDA",
-                         "mun":  "SARAPUI",
-                         "in":  "09:47:56",
-                         "out":  "10:21:21",
-                         "km":  14.6,
-                         "dur":  "00:33:00"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "LAURA MARIA  DA SILVA CARVALHO",
-                         "mun":  "SARAPUI",
-                         "in":  "10:29:28",
-                         "out":  "12:00:03",
-                         "km":  2.27,
-                         "dur":  "01:30:00"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "PAULO CESAR DE ALMEIDA MERCEARIA",
-                         "mun":  "SARAPUI",
-                         "in":  "13:32:04",
-                         "out":  "14:03:28",
-                         "km":  12.22,
-                         "dur":  "00:31:00"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
-                         "mun":  "ITAPETININGA",
-                         "in":  "15:53:29",
-                         "out":  "17:50:16",
-                         "km":  46.11,
-                         "dur":  "01:56:00"
-                     }
+
                  ],
     "eventos":  [
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Acompanhando",
-                        "obs":  "exame médico (filha)",
-                        "inicio":  "08:03",
-                        "final":  "08:08",
-                        "tempo":  "00:05:42"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "limeira",
-                        "inicio":  "08:13",
-                        "final":  "08:40",
-                        "tempo":  "00:27:02"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:31",
-                        "final":  "13:31",
-                        "tempo":  "00:59:50"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "13:36",
-                        "final":  "14:36",
-                        "tempo":  "01:00:34"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "13:38",
-                        "final":  "14:40",
-                        "tempo":  "01:02:35"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  "12:33",
-                        "final":  "13:11",
-                        "tempo":  "00:38:19"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  "11:57",
-                        "final":  "12:59",
-                        "tempo":  "01:02:07"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Proposta",
-                        "obs":  "Daolio",
-                        "inicio":  "13:09",
-                        "final":  "13:42",
-                        "tempo":  "00:32:50"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  "11:10",
-                        "final":  "12:02",
-                        "tempo":  "00:51:56"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "Exame Otorrinolaringologista",
-                        "inicio":  "14:19",
-                        "final":  "14:52",
-                        "tempo":  "00:32:56"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Reta Alimentos",
-                        "inicio":  "15:37",
-                        "final":  "17:49",
-                        "tempo":  "02:11:34"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Itapetininga a  Alambari",
-                        "inicio":  "08:05",
-                        "final":  "08:24",
-                        "tempo":  "00:19:06"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Alambari a Sarapui",
-                        "inicio":  "09:34",
-                        "final":  "09:47",
-                        "tempo":  "00:13:10"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  "12:10",
-                        "final":  "13:14",
-                        "tempo":  "01:03:42"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "sarapui a Itapetininga",
-                        "inicio":  "14:04",
-                        "final":  "15:24",
-                        "tempo":  "01:19:57"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  "13:08",
-                        "final":  "13:36",
-                        "tempo":  "00:28:05"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  "12:02",
-                        "final":  "13:02",
-                        "tempo":  "01:00:53"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Laranjal Paulista a Cezari Lange",
-                        "inicio":  "13:30",
-                        "final":  "15:45",
-                        "tempo":  "02:14:38"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Cesario Lange a Laranjal Paulista",
-                        "inicio":  "15:12",
-                        "final":  "15:45",
-                        "tempo":  "00:32:22"
-                    },
-                    {
-                        "nome":  "Debora",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:19",
-                        "final":  "13:19",
-                        "tempo":  "00:59:52"
-                    },
-                    {
-                        "nome":  "Aline",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "14:54",
-                        "final":  "16:01",
-                        "tempo":  "01:06:58"
-                    },
-                    {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:24",
-                        "final":  "13:26",
-                        "tempo":  "01:02:05"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "11:17",
-                        "final":  "12:11",
-                        "tempo":  "00:54:41"
-                    },
-                    {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  "11:57",
-                        "final":  "12:58",
-                        "tempo":  "01:00:08"
-                    },
-                    {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:01",
-                        "final":  "13:03",
-                        "tempo":  "01:01:03"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "13:58",
-                        "final":  "14:58",
-                        "tempo":  "01:00:34"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Em Viagem",
-                        "obs":  "viagem para Pontal",
-                        "inicio":  "08:15",
-                        "final":  "08:49",
-                        "tempo":  "00:34:30"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:04",
-                        "final":  "13:10",
-                        "tempo":  "01:06:15"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:53",
-                        "final":  "08:15",
-                        "tempo":  "19:21:44"
-                    },
-                    {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:26",
-                        "final":  "13:27",
-                        "tempo":  "01:00:38"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "12:28",
-                        "final":  "13:43",
-                        "tempo":  "01:14:57"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Carlos a Descalvado",
-                        "inicio":  "07:25",
-                        "final":  "08:12",
-                        "tempo":  "00:46:38"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  "13:42",
-                        "final":  "14:43",
-                        "tempo":  "01:00:55"
-                    },
                     {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:21:03"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "retorno piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:38:54"
+                        "tempo":  "15:35:12"
                     },
                     {
                         "nome":  "Lucas",
@@ -1724,184 +382,67 @@ window.PAINEL = {
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:32:54"
+                        "tempo":  "14:47:03"
                     },
                     {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Descalvado a São Carlos",
+                        "nome":  "Karina",
+                        "tipo":  "Manutencao",
+                        "obs":  "para ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:06"
+                        "tempo":  "00:14:48"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "restante dos pedidos rede Simpatia",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:16"
                     }
                 ],
     "semped":  [
-                   {
-                       "nome":  "Maira",
-                       "razao":  "E G DAROS",
-                       "mun":  "LIMEIRA",
-                       "obs":  "estocado"
-                   },
-                   {
-                       "nome":  "Maira",
-                       "razao":  "PRIMOS PEROLA LTDA",
-                       "mun":  "SANTA BARBARA D",
-                       "obs":  "sugestão"
-                   },
-                   {
-                       "nome":  "Eugenio",
-                       "razao":  "GOYOS BATA SUPERMERCADO LTDA",
-                       "mun":  "PIRACAIA",
-                       "obs":  "comprador viajando"
-                   },
-                   {
-                       "nome":  "Eugenio",
-                       "razao":  "GOYOS SUPERMERCADO LTDA.",
-                       "mun":  "PIRACAIA",
-                       "obs":  "comprador viajando"
-                   },
-                   {
-                       "nome":  "Eduardo",
-                       "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
-                       "mun":  "INDAIATUBA",
-                       "obs":  "estocado"
-                   },
-                   {
-                       "nome":  "Eduardo",
-                       "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                       "mun":  "HORTOLANDIA",
-                       "obs":  "estocado"
-                   },
-                   {
-                       "nome":  "Eduardo",
-                       "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                       "mun":  "HORTOLANDIA",
-                       "obs":  "estocado"
-                   },
-                   {
-                       "nome":  "Eduardo",
-                       "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
-                       "mun":  "MONTE MOR",
-                       "obs":  "estocado"
-                   },
-                   {
-                       "nome":  "Rachel",
-                       "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
-                       "mun":  "AMPARO",
-                       "obs":  "verificação de loja e proposta"
-                   },
-                   {
-                       "nome":  "Luis",
-                       "razao":  "SUPERMERCADO PAULAO LTDA",
-                       "mun":  "FRANCA",
-                       "obs":  "estoque alto"
-                   },
-                   {
-                       "nome":  "Luis",
-                       "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
-                       "mun":  "FRANCA",
-                       "obs":  "visita de rotina"
-                   },
-                   {
-                       "nome":  "Luis",
-                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                       "mun":  "FRANCA",
-                       "obs":  "visita de rotina"
-                   },
-                   {
-                       "nome":  "Luis",
-                       "razao":  "SUPERMERCADO SANTA TEREZINHA LTDA",
-                       "mun":  "FRANCA",
-                       "obs":  "prospecção"
-                   },
-                   {
-                       "nome":  "Lucas",
-                       "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                       "mun":  "INDAIATUBA",
-                       "obs":  "trocas"
-                   },
-                   {
-                       "nome":  "Lucas",
-                       "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                       "mun":  "INDAIATUBA",
-                       "obs":  "troca"
-                   },
-                   {
-                       "nome":  "Nelson",
-                       "razao":  "SUPERMERCADO CARVALHO DE SARAPUI LTDA",
-                       "mun":  "SARAPUI",
-                       "obs":  "cliente estocado"
-                   },
-                   {
-                       "nome":  "Nelson",
-                       "razao":  "PAULO CESAR DE ALMEIDA MERCEARIA",
-                       "mun":  "SARAPUI",
-                       "obs":  "cliente estocado"
-                   },
-                   {
-                       "nome":  "Cominato",
-                       "razao":  "SUPERMERCADOS MARCON LTDA.",
-                       "mun":  "LARANJAL PAULIS",
-                       "obs":  "Merchandising"
-                   },
-                   {
-                       "nome":  "Cominato",
-                       "razao":  "NELLO COMERCIAL LTDA.",
-                       "mun":  "LARANJAL PAULIS",
-                       "obs":  "Ausente"
-                   },
-                   {
-                       "nome":  "Cominato",
-                       "razao":  "SUPERMERCADOS MARCON LTDA.",
-                       "mun":  "CESARIO LANGE",
-                       "obs":  "Merchandising"
-                   },
-                   {
-                       "nome":  "Cominato",
-                       "razao":  "SUPERMERCADOS MARCON LTDA.",
-                       "mun":  "LARANJAL PAULIS",
-                       "obs":  "Merchandising"
-                   },
-                   {
-                       "nome":  "Mariangela",
-                       "razao":  "LOJAS ESTRELA DO LAR LTDA",
-                       "mun":  "JACAREI",
-                       "obs":  "abertura de cliente"
-                   },
-                   {
-                       "nome":  "Sao Carlos",
-                       "razao":  "SUPERMERCADO SANTA CRUZ DESCALVADO LTDA",
-                       "mun":  "DESCALVADO",
-                       "obs":  "comprador ausente"
-                   },
-                   {
-                       "nome":  "Sao Carlos",
-                       "razao":  "SUPERMERCADOS TENDOLINI LTDA",
-                       "mun":  "DESCALVADO",
-                       "obs":  "prospecção"
-                   },
-                   {
-                       "nome":  "Sao Carlos",
-                       "razao":  "SUPERMERCADO LAZARINI EIRELI",
-                       "mun":  "DESCALVADO",
-                       "obs":  "comprador ausente"
-                   },
-                   {
-                       "nome":  "Sao Carlos",
-                       "razao":  "EDSON VANCETO PEREIRA SUPERMERCADOS LTDA",
-                       "mun":  "DESCALVADO",
-                       "obs":  "prospecção"
-                   }
+
                ],
     "emvisita":  [
-
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:32:04"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "HIGA PROD. ALIM. LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:24:57"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITATIBA",
+                         "tempo":  "00:39:49"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:37:11"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "FRANCISCO MORAT",
+                         "tempo":  "00:47:09"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:40:52"
+                     }
                  ],
     "hist":  [
-                 [
-                     "18/05",
-                     105,
-                     13
-                 ],
                  [
                      "19/05",
                      132,
@@ -8548,6 +7089,230 @@ window.PAINEL = {
                                                          "km":  46.11,
                                                          "tv":  116
                                                      }
+                                                 ]
+                                     },
+                      "2026-06-18":  {
+                                         "dataHora":  "07:45",
+                                         "v":  [
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.46,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.18,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0.11,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Milene",
+                                                       "setor":  "PROMO-RIBEIRAO",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Eduardo",
+                                                       "setor":  "CHAVES CPS",
+                                                       "regional":  "INTERIOR SP",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  37.35,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  1.35,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  9.49,
+                                                       "tv":  0
+                                                   }
+                                               ],
+                                         "cli":  [
+
                                                  ]
                                      }
                   }
