@@ -6541,8 +6541,17 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  85.68,
+                                     "tv":  250
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -6551,15 +6560,6 @@
                                      "pe":  0,
                                      "km":  54.07,
                                      "tv":  245
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  79.38,
-                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -6872,6 +6872,13 @@
                                        "p":  1,
                                        "km":  16.95,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.3,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Silmara",
