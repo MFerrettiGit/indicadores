@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -1410,7 +1410,7 @@ window.PAINEL = {
                         "obs":  "antonelli",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:59"
+                        "tempo":  "00:33:16"
                     },
                     {
                         "nome":  "Aline",
@@ -1418,7 +1418,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:24"
+                        "tempo":  "00:23:41"
                     }
                 ],
     "semped":  [
@@ -1542,109 +1542,109 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:03:07"
+                         "tempo":  "00:17:31"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:37:45"
+                         "tempo":  "00:52:09"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO NOSS LTDA",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "00:09:15"
+                         "tempo":  "00:23:39"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:56:17"
+                         "tempo":  "01:10:41"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:57:52"
+                         "tempo":  "02:12:16"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:22:48"
+                         "tempo":  "00:37:12"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:58:02"
+                         "tempo":  "02:12:26"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "01:01:59"
+                         "tempo":  "01:16:23"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "CARREFOUR COMERCIO E INDUSTRIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:15:07"
+                         "tempo":  "00:29:31"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DE CARLI E FERNANDES LTDA-ME.",
                          "mun":  "LEME",
-                         "tempo":  "00:57:32"
+                         "tempo":  "01:11:56"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GIANINI",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:20:37"
+                         "tempo":  "01:35:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:43:38"
+                         "tempo":  "01:58:02"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:39:17"
+                         "tempo":  "00:53:41"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "00:37:10"
+                         "tempo":  "00:51:34"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADO FAMA LTDA",
                          "mun":  "BURI",
-                         "tempo":  "00:42:42"
+                         "tempo":  "00:57:06"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:22:57"
+                         "tempo":  "00:37:21"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ETTORI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:03:30"
+                         "tempo":  "00:17:54"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "01:18:53"
+                         "tempo":  "01:33:17"
                      }
                  ],
     "hist":  [
@@ -8302,7 +8302,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
