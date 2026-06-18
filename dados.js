@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -105,8 +105,8 @@ window.PAINEL = {
                      "primeiro":  "10:13",
                      "ultimo":  "12:58",
                      "tv":  "02:44:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  60.95,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  61.98,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "12:03",
-                     "ultimo":  "12:57",
-                     "tv":  "00:53:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:01",
+                     "tv":  "01:53:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -225,8 +225,8 @@ window.PAINEL = {
                      "primeiro":  "08:51",
                      "ultimo":  "12:29",
                      "tv":  "03:08:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:07",
                      "ultimo":  "12:20",
                      "tv":  "04:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "12:03",
                      "tv":  "02:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "09:14",
                      "ultimo":  "12:00",
                      "tv":  "02:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -454,6 +454,15 @@ window.PAINEL = {
                          "out":  "12:57:10",
                          "km":  60.95,
                          "dur":  "00:53:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                         "mun":  "INDAIATUBA",
+                         "in":  "13:00:34",
+                         "out":  "14:01:00",
+                         "km":  1.03,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -1038,6 +1047,14 @@ window.PAINEL = {
                         "tempo":  "01:00:03"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:54",
+                        "final":  "13:57",
+                        "tempo":  "01:02:36"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Retorno piracicaba",
@@ -1086,12 +1103,28 @@ window.PAINEL = {
                         "tempo":  "01:00:02"
                     },
                     {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:58",
+                        "final":  "13:55",
+                        "tempo":  "00:57:05"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Jardinopolis",
                         "inicio":  "08:25",
                         "final":  "08:50",
                         "tempo":  "00:25:11"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:56",
+                        "final":  "13:57",
+                        "tempo":  "01:00:14"
                     },
                     {
                         "nome":  "Costa",
@@ -1134,36 +1167,12 @@ window.PAINEL = {
                         "tempo":  "00:59:19"
                     },
                     {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:00:21"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:01"
-                    },
-                    {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:08"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Outro",
                         "obs":  "Cadastro produto portal Delta Max",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:16"
+                        "tempo":  "01:07:26"
                     },
                     {
                         "nome":  "Debora",
@@ -1171,13 +1180,19 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:05"
+                        "tempo":  "00:37:15"
                     }
                 ],
     "semped":  [
                    {
                        "nome":  "Eduardo",
                        "razao":  "COVABRA SUPERMERCADOS LTDA",
+                       "mun":  "INDAIATUBA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                        "mun":  "INDAIATUBA",
                        "obs":  "estocado"
                    },
@@ -1250,64 +1265,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:53:35"
-                     },
-                     {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.04",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:46:16"
+                         "tempo":  "01:01:22"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SALTO",
-                         "tempo":  "00:27:27"
+                         "tempo":  "00:42:33"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:36:52"
+                         "tempo":  "00:51:58"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SANTO COM.",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:12:50"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:20:28"
+                         "tempo":  "00:35:34"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:13:00"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
                          "mun":  "FRANCA",
-                         "tempo":  "00:27:26"
+                         "tempo":  "00:42:32"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:06:56"
+                         "tempo":  "00:22:02"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:10:02"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAO RAFAEL SUPERMERCADO LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:35:09"
+                         "tempo":  "00:50:15"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "NEI-MAR PRODUTOS ALIMENTICIOS LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:10:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPER MERCADO ILHA DA PRINCESA LTDA",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:08:14"
+                         "tempo":  "00:23:20"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL SAO JOAO DE BURI LTDA",
                          "mun":  "BURI",
-                         "tempo":  "00:27:12"
+                         "tempo":  "00:42:18"
                      }
                  ],
     "hist":  [
@@ -1418,8 +1451,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     63,
-                     13
+                     64,
+                     14
                  ]
              ],
     "historico":  {
@@ -7965,7 +7998,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8052,10 +8085,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  60.95,
-                                                       "tv":  53
+                                                       "km":  61.98,
+                                                       "tv":  113
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -8254,6 +8287,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  60.95,
                                                          "tv":  53
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                                         "p":  0,
+                                                         "km":  1.03,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Eliana",

@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6628,10 +6628,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  60.95,
-                                     "tv":  53
+                                     "km":  61.98,
+                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -6830,6 +6830,13 @@
                                        "p":  0,
                                        "km":  60.95,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  0,
+                                       "km":  1.03,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Eliana",
