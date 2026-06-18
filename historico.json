@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6637,10 +6637,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  20.29,
-                                     "tv":  124
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  35.69,
+                                     "tv":  177
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  45.41,
+                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Luis",
@@ -6650,15 +6659,6 @@
                                      "pe":  1,
                                      "km":  16.94,
                                      "tv":  154
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  44.89,
-                                     "tv":  141
                                  },
                                  {
                                      "nome":  "Costa",
@@ -6691,10 +6691,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  30.26,
-                                     "tv":  99
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  42.04,
+                                     "tv":  126
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6704,6 +6704,15 @@
                                      "pe":  1,
                                      "km":  94.48,
                                      "tv":  82
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.88,
+                                     "tv":  229
                                  },
                                  {
                                      "nome":  "Karina",
@@ -6724,22 +6733,13 @@
                                      "tv":  139
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.12,
-                                     "tv":  137
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  32.24,
-                                     "tv":  49
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.03,
+                                     "tv":  155
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -6958,6 +6958,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. PARE",
+                                       "p":  1,
+                                       "km":  15.4,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "AMAURI DE SOUZA JUNIOR",
                                        "p":  1,
@@ -6972,11 +6979,25 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "BUENO",
+                                       "p":  1,
+                                       "km":  0.52,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  5.77,
                                        "tv":  137
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
+                                       "p":  1,
+                                       "km":  1.76,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Castro",
@@ -7000,6 +7021,13 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
+                                       "p":  1,
+                                       "km":  11.78,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
                                        "p":  1,
@@ -7019,6 +7047,13 @@
                                        "p":  1,
                                        "km":  22.75,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  1.79,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Karina",
