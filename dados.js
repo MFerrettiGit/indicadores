@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -169,6 +169,36 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  19.95,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:21",
+                     "ultimo":  "16:29",
+                     "tv":  "05:04:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  58.75,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "07:55",
+                     "ultimo":  "16:38",
+                     "tv":  "05:50:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -180,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "16:10",
                      "tv":  "05:20:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  19.28,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:21",
-                     "ultimo":  "14:20",
-                     "tv":  "03:27:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -211,21 +226,6 @@ window.PAINEL = {
                      "ultimo":  "16:25",
                      "tv":  "05:21:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  45.41,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "07:55",
-                     "ultimo":  "11:56",
-                     "tv":  "03:46:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "16:16",
                      "tv":  "05:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -771,6 +771,15 @@ window.PAINEL = {
                          "dur":  "00:53:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "14:52:18",
+                         "out":  "16:29:33",
+                         "km":  0.67,
+                         "dur":  "01:37:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
@@ -913,6 +922,15 @@ window.PAINEL = {
                          "out":  "11:56:40",
                          "km":  0.52,
                          "dur":  "01:25:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GIANINI",
+                         "mun":  "SAO CARLOS",
+                         "in":  "14:33:40",
+                         "out":  "16:38:31",
+                         "km":  13.34,
+                         "dur":  "02:04:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1482,7 +1500,7 @@ window.PAINEL = {
                         "obs":  "antonelli",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:43"
+                        "tempo":  "01:04:02"
                     },
                     {
                         "nome":  "Aline",
@@ -1490,7 +1508,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:08"
+                        "tempo":  "00:54:27"
                     },
                     {
                         "nome":  "Nelson",
@@ -1498,7 +1516,7 @@ window.PAINEL = {
                         "obs":  "Buri a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:51"
+                        "tempo":  "00:22:10"
                     }
                 ],
     "semped":  [
@@ -1563,6 +1581,12 @@ window.PAINEL = {
                        "obs":  "prospecção"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Lucas",
                        "razao":  "SUPERMERCADO SUMERBOL LTDA",
                        "mun":  "INDAIATUBA",
@@ -1622,73 +1646,67 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:35:54"
+                         "tempo":  "00:48:04"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:10:32"
+                         "tempo":  "01:22:42"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO NOSS LTDA",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "00:42:02"
+                         "tempo":  "00:54:12"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:29:04"
+                         "tempo":  "01:41:14"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:55:35"
+                         "tempo":  "01:07:45"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "02:30:49"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:34:46"
+                         "tempo":  "02:42:59"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EDUARDO KENDI TONGU INOUE-EPP.",
                          "mun":  "LEME",
-                         "tempo":  "00:04:42"
+                         "tempo":  "00:16:52"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "GIANINI",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:53:24"
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:04:44"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "00:01:57"
+                         "tempo":  "00:14:07"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:55:44"
+                         "tempo":  "01:07:54"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ETTORI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:36:17"
+                         "tempo":  "00:48:27"
                      }
                  ],
     "hist":  [
@@ -1799,8 +1817,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     94,
-                     20
+                     96,
+                     21
                  ]
              ],
     "historico":  {
@@ -8346,7 +8364,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8448,6 +8466,24 @@ window.PAINEL = {
                                                        "tv":  255
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  19.95,
+                                                       "tv":  304
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  58.75,
+                                                       "tv":  350
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -8457,15 +8493,6 @@ window.PAINEL = {
                                                        "tv":  320
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  19.28,
-                                                       "tv":  207
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -8473,15 +8500,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  87.31,
                                                        "tv":  321
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  45.41,
-                                                       "tv":  226
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -8882,6 +8900,13 @@ window.PAINEL = {
                                                          "tv":  53
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  0,
+                                                         "km":  0.67,
+                                                         "tv":  97
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "A.A. DE MELO",
                                                          "p":  1,
@@ -8992,6 +9017,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.52,
                                                          "tv":  85
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "GIANINI",
+                                                         "p":  1,
+                                                         "km":  13.34,
+                                                         "tv":  124
                                                      },
                                                      {
                                                          "n":  "Alan",

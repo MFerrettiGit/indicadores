@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6643,6 +6643,24 @@
                                      "tv":  255
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  19.95,
+                                     "tv":  304
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  58.75,
+                                     "tv":  350
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -6652,15 +6670,6 @@
                                      "tv":  320
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  19.28,
-                                     "tv":  207
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -6668,15 +6677,6 @@
                                      "pe":  4,
                                      "km":  87.31,
                                      "tv":  321
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  45.41,
-                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Maira",
@@ -7077,6 +7077,13 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  0,
+                                       "km":  0.67,
+                                       "tv":  97
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "A.A. DE MELO",
                                        "p":  1,
@@ -7187,6 +7194,13 @@
                                        "p":  1,
                                        "km":  0.52,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GIANINI",
+                                       "p":  1,
+                                       "km":  13.34,
+                                       "tv":  124
                                    },
                                    {
                                        "n":  "Alan",
