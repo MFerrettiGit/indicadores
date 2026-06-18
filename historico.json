@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6556,10 +6556,10 @@
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  60.38,
-                                     "tv":  159
+                                     "km":  62.43,
+                                     "tv":  197
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -6619,10 +6619,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  24.98,
-                                     "tv":  103
+                                     "km":  26.95,
+                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -6643,6 +6643,15 @@
                                      "tv":  70
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  44.89,
+                                     "tv":  141
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -6650,15 +6659,6 @@
                                      "pe":  1,
                                      "km":  7.01,
                                      "tv":  105
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  43.92,
-                                     "tv":  74
                                  },
                                  {
                                      "nome":  "Costa",
@@ -6686,6 +6686,15 @@
                                      "pe":  0,
                                      "km":  1.77,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  23.42,
+                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6722,15 +6731,6 @@
                                      "pe":  1,
                                      "km":  56.27,
                                      "tv":  50
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  18.98,
-                                     "tv":  36
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -6818,6 +6818,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.05,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -6881,6 +6888,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
+                                       "p":  1,
+                                       "km":  1.97,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  0,
@@ -6907,6 +6921,13 @@
                                        "p":  1,
                                        "km":  6.57,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "EDNEI SCURACHIO JUNIOR",
+                                       "p":  0,
+                                       "km":  0.97,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Alan",
