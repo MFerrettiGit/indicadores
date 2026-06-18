@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6619,10 +6619,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  26.95,
-                                     "tv":  152
+                                     "km":  29.57,
+                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -6652,6 +6652,15 @@
                                      "tv":  141
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  55.09,
+                                     "tv":  150
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -6659,15 +6668,6 @@
                                      "pe":  1,
                                      "km":  7.01,
                                      "tv":  105
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  25.95,
-                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -6706,6 +6706,24 @@
                                      "tv":  82
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  38.3,
+                                     "tv":  153
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  91.78,
+                                     "tv":  139
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -6713,24 +6731,6 @@
                                      "pe":  1,
                                      "km":  7.12,
                                      "tv":  137
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  36.02,
-                                     "tv":  82
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  56.27,
-                                     "tv":  50
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -6745,10 +6745,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  4.9,
+                                     "tv":  24
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -6860,6 +6860,13 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SABRINA APARECIDA PRADO SILVA SUP. LTDA",
+                                       "p":  1,
+                                       "km":  29.14,
+                                       "tv":  73
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -6900,6 +6907,13 @@
                                        "p":  1,
                                        "km":  1.97,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.62,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Rachel",
@@ -7000,11 +7014,32 @@
                                        "tv":  82
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "JOAO MARIA CAVALCANTE FONSECA ME",
+                                       "p":  1,
+                                       "km":  2.28,
+                                       "tv":  71
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  0,
+                                       "km":  4.9,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "EMPORIO DE SECOS E MOLHADOS JUMAR LTDA",
                                        "p":  1,
                                        "km":  55.77,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "LUCIANA MARQUES DA SILVA BURI",
+                                       "p":  0,
+                                       "km":  35.51,
+                                       "tv":  89
                                    }
                                ]
                    }
