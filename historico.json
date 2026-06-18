@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6724,6 +6724,15 @@
                                      "tv":  250
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  26.31,
+                                     "tv":  434
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -6733,21 +6742,12 @@
                                      "tv":  176
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  19.96,
-                                     "tv":  354
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  1,
-                                     "km":  102.73,
+                                     "km":  107.35,
                                      "tv":  166
                                  },
                                  {
@@ -7285,6 +7285,13 @@
                                        "p":  1,
                                        "km":  11.08,
                                        "tv":  125
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  6.35,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Castro",

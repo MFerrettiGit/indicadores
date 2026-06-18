@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  26.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "17:55",
+                     "tv":  "07:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -319,27 +334,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  19.96,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "16:16",
-                     "tv":  "05:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  102.73,
+                     "km":  107.35,
                      "semPed":  2,
                      "perc":  66.67,
                      "primeiro":  "08:01",
@@ -1041,6 +1041,15 @@ window.PAINEL = {
                          "dur":  "02:05:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:34:30",
+                         "out":  "17:55:24",
+                         "km":  6.35,
+                         "dur":  "01:20:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO PARAZZI LTDA",
                          "mun":  "JUNDIAI",
@@ -1624,7 +1633,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:09:14"
+                        "tempo":  "02:24:32"
                     },
                     {
                         "nome":  "Rachel",
@@ -1632,7 +1641,7 @@ window.PAINEL = {
                         "obs":  "pare leve e triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:05:52"
+                        "tempo":  "01:21:10"
                     }
                 ],
     "semped":  [
@@ -1776,12 +1785,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Alan",
-                         "razao":  "LESSA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:19:35"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1891,7 +1895,7 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     108,
+                     109,
                      24
                  ]
              ],
@@ -8438,7 +8442,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8621,6 +8625,15 @@ window.PAINEL = {
                                                        "tv":  250
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  26.31,
+                                                       "tv":  434
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -8630,21 +8643,12 @@ window.PAINEL = {
                                                        "tv":  176
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  19.96,
-                                                       "tv":  354
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  1,
-                                                       "km":  102.73,
+                                                       "km":  107.35,
                                                        "tv":  166
                                                    },
                                                    {
@@ -9182,6 +9186,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  11.08,
                                                          "tv":  125
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "LESSA",
+                                                         "p":  1,
+                                                         "km":  6.35,
+                                                         "tv":  80
                                                      },
                                                      {
                                                          "n":  "Castro",
