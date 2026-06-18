@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6565,10 +6565,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  21.01,
-                                     "tv":  152
+                                     "km":  24.47,
+                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Debora",
@@ -6643,6 +6643,15 @@
                                      "tv":  124
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  16.94,
+                                     "tv":  154
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -6659,15 +6668,6 @@
                                      "pe":  2,
                                      "km":  55.09,
                                      "tv":  150
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  7.01,
-                                     "tv":  105
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -6804,6 +6804,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  3.46,
+                                       "tv":  105
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -6886,6 +6893,13 @@
                                        "p":  1,
                                        "km":  0.82,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "PERFUMARIA GOYA LTDA",
+                                       "p":  0,
+                                       "km":  9.93,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Milene",

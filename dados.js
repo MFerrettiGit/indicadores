@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -38,14 +38,14 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  21.01,
+                     "visitas":  3,
+                     "km":  24.47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:01",
-                     "ultimo":  "09:51",
-                     "tv":  "02:32:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:50",
+                     "tv":  "04:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:40",
                      "ultimo":  "11:30",
                      "tv":  "02:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  16.94,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:21",
+                     "ultimo":  "11:49",
+                     "tv":  "02:34:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "11:31",
                      "tv":  "02:30:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  7.01,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:21",
-                     "ultimo":  "10:18",
-                     "tv":  "01:45:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:44",
                      "ultimo":  "11:26",
                      "tv":  "02:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:46",
                      "ultimo":  "11:37",
                      "tv":  "02:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "11:11",
                      "ultimo":  "11:35",
                      "tv":  "00:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -418,6 +418,15 @@ window.PAINEL = {
                          "out":  "09:51:17",
                          "km":  1.48,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "10:04:45",
+                         "out":  "11:50:29",
+                         "km":  3.46,
+                         "dur":  "01:45:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -526,6 +535,15 @@ window.PAINEL = {
                          "out":  "10:18:22",
                          "km":  0.82,
                          "dur":  "00:55:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "PERFUMARIA GOYA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "10:59:53",
+                         "out":  "11:49:00",
+                         "km":  9.93,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Milene",
@@ -821,7 +839,7 @@ window.PAINEL = {
                         "obs":  "rede Maximo (pedidos da  parte de higiene pessoal)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:39:25"
+                        "tempo":  "01:54:00"
                     },
                     {
                         "nome":  "Cominato",
@@ -829,7 +847,7 @@ window.PAINEL = {
                         "obs":  "Cadastro de produtos nos portal do Delta Max",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:18"
+                        "tempo":  "00:41:53"
                     },
                     {
                         "nome":  "Evandro",
@@ -837,7 +855,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:06"
+                        "tempo":  "00:37:41"
                     }
                 ],
     "semped":  [
@@ -864,6 +882,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                        "mun":  "FRANCA",
                        "obs":  "visita de rotina"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "PERFUMARIA GOYA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
                    },
                    {
                        "nome":  "Lucas",
@@ -901,85 +925,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:45:23"
+                         "tempo":  "01:59:52"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:16:33"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "01:34:26"
+                         "tempo":  "00:31:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:20:28"
+                         "tempo":  "01:34:57"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:26:11"
+                         "tempo":  "01:40:40"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:01:30"
+                         "tempo":  "00:15:59"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "03:31:58"
+                         "tempo":  "03:46:27"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. PARE",
                          "mun":  "JAGUARIUNA",
-                         "tempo":  "00:26:47"
+                         "tempo":  "00:41:16"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "PERFUMARIA GOYA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:39:18"
+                         "nome":  "Milene",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:07:06"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:55:52"
+                         "tempo":  "01:10:21"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:08:25"
+                         "tempo":  "01:22:54"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "01:25:17"
+                         "tempo":  "01:39:46"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:09:55"
+                         "tempo":  "01:24:24"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "P T R MINIMERCADO LTDA",
+                         "mun":  "ILHABELA",
+                         "tempo":  "00:10:50"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
+                         "mun":  "ELIAS FAUSTO",
+                         "tempo":  "00:03:45"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "RUBEN SAMPAIO LAUREANO",
+                         "mun":  "BURI",
+                         "tempo":  "00:04:14"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:02:25"
+                         "tempo":  "00:16:54"
                      }
                  ],
     "hist":  [
@@ -1090,8 +1126,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     40,
-                     9
+                     42,
+                     10
                  ]
              ],
     "historico":  {
@@ -7637,7 +7673,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -7661,10 +7697,10 @@ window.PAINEL = {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  21.01,
-                                                       "tv":  152
+                                                       "km":  24.47,
+                                                       "tv":  257
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -7739,6 +7775,15 @@ window.PAINEL = {
                                                        "tv":  124
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  16.94,
+                                                       "tv":  154
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -7755,15 +7800,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  55.09,
                                                        "tv":  150
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  7.01,
-                                                       "tv":  105
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -7900,6 +7936,13 @@ window.PAINEL = {
                                                          "tv":  38
                                                      },
                                                      {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  3.46,
+                                                         "tv":  105
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "IRMAOS BOA LTDA",
                                                          "p":  1,
@@ -7982,6 +8025,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.82,
                                                          "tv":  55
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "PERFUMARIA GOYA LTDA",
+                                                         "p":  0,
+                                                         "km":  9.93,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Milene",
