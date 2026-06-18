@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:40",
                      "ultimo":  "10:35",
                      "tv":  "02:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "10:18",
                      "tv":  "01:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -698,6 +698,14 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Lucas",
+                        "tipo":  "Outro",
+                        "obs":  "reunião Eduardo",
+                        "inicio":  "08:15",
+                        "final":  "11:09",
+                        "tempo":  "02:54:47"
+                    },
+                    {
+                        "nome":  "Lucas",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "ficha de cadastro Sumerbol",
                         "inicio":  "16:52",
@@ -745,20 +753,12 @@ window.PAINEL = {
                         "tempo":  "02:24:35"
                     },
                     {
-                        "nome":  "Lucas",
-                        "tipo":  "Outro",
-                        "obs":  "reunião Eduardo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:39:46"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "rede Maximo (pedidos da  parte de higiene pessoal)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:27"
+                        "tempo":  "01:09:39"
                     }
                 ],
     "semped":  [
@@ -787,6 +787,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                       "mun":  "VARZEA PAULISTA",
+                       "obs":  "sugestão central"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "ALTO GIRO SUPERMERCADO LTDA",
                        "mun":  "PIRACICABA",
@@ -804,85 +810,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:00:26"
+                         "tempo":  "01:15:30"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:54:24"
+                         "tempo":  "01:09:28"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:49:29"
+                         "tempo":  "01:04:33"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:35:31"
+                         "tempo":  "00:50:35"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:41:14"
+                         "tempo":  "00:56:18"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "02:47:01"
+                         "tempo":  "03:02:05"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "PERFUMARIA GOYA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:09:25"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:01:06"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:10:55"
+                         "tempo":  "00:25:59"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SABRINA APARECIDA PRADO SILVA SUP. LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:36:48"
+                         "tempo":  "00:51:52"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:23:28"
+                         "tempo":  "00:38:32"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:40:20"
+                         "tempo":  "00:55:24"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:58"
+                         "tempo":  "00:40:02"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "JOAO MARIA CAVALCANTE FONSECA ME",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:38:45"
+                         "tempo":  "00:53:49"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LUCIANA MARQUES DA SILVA BURI",
                          "mun":  "BURI",
-                         "tempo":  "00:45:53"
+                         "tempo":  "01:00:57"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:13:35"
+                         "tempo":  "00:28:39"
                      }
                  ],
     "hist":  [
@@ -7540,7 +7558,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
