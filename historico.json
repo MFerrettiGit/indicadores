@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6571,6 +6571,15 @@
                                      "tv":  257
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  51.66,
+                                     "tv":  274
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -6587,15 +6596,6 @@
                                      "pe":  0,
                                      "km":  52.09,
                                      "tv":  201
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  27.36,
-                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -6670,6 +6670,15 @@
                                      "tv":  150
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.77,
+                                     "tv":  253
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -6679,15 +6688,6 @@
                                      "tv":  83
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.77,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -6695,6 +6695,24 @@
                                      "pe":  3,
                                      "km":  42.04,
                                      "tv":  126
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  42.12,
+                                     "tv":  192
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  92.99,
+                                     "tv":  164
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6713,24 +6731,6 @@
                                      "pe":  2,
                                      "km":  8.88,
                                      "tv":  229
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  38.3,
-                                     "tv":  153
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  91.78,
-                                     "tv":  139
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -6818,6 +6818,13 @@
                                        "tv":  158
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  24.3,
+                                       "tv":  116
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -6900,6 +6907,13 @@
                                        "p":  0,
                                        "km":  9.93,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  253
                                    },
                                    {
                                        "n":  "Milene",
@@ -7070,6 +7084,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "P T R MINIMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  3.82,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  0,
@@ -7089,6 +7110,13 @@
                                        "p":  0,
                                        "km":  35.51,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "RUBEN SAMPAIO LAUREANO",
+                                       "p":  0,
+                                       "km":  1.21,
+                                       "tv":  25
                                    }
                                ]
                    }
