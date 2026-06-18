@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6556,10 +6556,10 @@
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  62.43,
-                                     "tv":  197
+                                     "km":  79.38,
+                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -6601,10 +6601,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  7.03,
+                                     "tv":  164
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -6628,10 +6628,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  60.95,
+                                     "tv":  53
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -6818,6 +6818,13 @@
                                        "tv":  105
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  60.95,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -6853,6 +6860,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  16.95,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -6879,6 +6893,13 @@
                                        "p":  1,
                                        "km":  5.23,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  7.03,
+                                       "tv":  164
                                    },
                                    {
                                        "n":  "Costa",
