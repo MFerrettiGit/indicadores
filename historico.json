@@ -6541,16 +6541,16 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  41.76,
-                                     "tv":  133
+                                     "km":  48.84,
+                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -6598,8 +6598,8 @@
                                      "tv":  128
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -6607,8 +6607,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -6643,6 +6643,15 @@
                                      "tv":  70
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  7.01,
+                                     "tv":  105
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -6661,13 +6670,13 @@
                                      "tv":  77
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.19,
-                                     "tv":  50
+                                     "pe":  1,
+                                     "km":  55.96,
+                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Maira",
@@ -6679,15 +6688,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.38,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -6695,6 +6695,15 @@
                                      "pe":  1,
                                      "km":  50.84,
                                      "tv":  48
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.12,
+                                     "tv":  137
                                  },
                                  {
                                      "nome":  "Karina",
@@ -6731,15 +6740,6 @@
                                      "pe":  1,
                                      "km":  32.24,
                                      "tv":  49
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.35,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -6832,6 +6832,13 @@
                                        "tv":  84
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  7.08,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "SUPERMERCADOS REX LTDA.",
                                        "p":  1,
@@ -6839,11 +6846,25 @@
                                        "tv":  77
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
+                                       "p":  1,
+                                       "km":  34.58,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  0,
                                        "km":  5.53,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "DANILO BATISTA LEAL FRANCA - ME.",
+                                       "p":  1,
+                                       "km":  0.82,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Milene",
@@ -6888,11 +6909,25 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.77,
+                                       "tv":  137
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO PARAZZI LTDA",
                                        "p":  1,
                                        "km":  18.98,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
+                                       "p":  1,
+                                       "km":  4.44,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Cominato",
