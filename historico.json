@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6551,6 +6551,15 @@
                                      "pe":  0,
                                      "km":  38.57,
                                      "tv":  49
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  42.65,
+                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -6577,15 +6586,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.11,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -6761,6 +6761,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  42.65,
+                                       "tv":  81
+                                   },
                                    {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",

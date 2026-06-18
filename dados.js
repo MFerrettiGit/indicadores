@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "08:30",
+    "dataHora":  "08:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -16,6 +16,21 @@ window.PAINEL = {
                      "ultimo":  "07:47",
                      "tv":  "00:49:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  42.65,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:06",
+                     "ultimo":  "08:29",
+                     "tv":  "01:21:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -58,21 +73,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "07:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "07:06",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -222,10 +222,10 @@ window.PAINEL = {
                      "km":  3.43,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:25",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -366,6 +366,15 @@ window.PAINEL = {
              ],
     "checkins":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "07:06:59",
+                         "out":  "08:29:00",
+                         "km":  42.65,
+                         "dur":  "01:21:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
@@ -385,6 +394,14 @@ window.PAINEL = {
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Manutencao",
+                        "obs":  "trocando os pneus do carro",
+                        "inicio":  "08:15",
+                        "final":  "08:36",
+                        "tempo":  "00:21:17"
+                    },
                     {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
@@ -407,7 +424,7 @@ window.PAINEL = {
                         "obs":  "para ilhabela",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:59"
+                        "tempo":  "01:14:55"
                     },
                     {
                         "nome":  "Mariangela",
@@ -415,7 +432,7 @@ window.PAINEL = {
                         "obs":  "restante dos pedidos rede Simpatia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:27"
+                        "tempo":  "01:04:23"
                     },
                     {
                         "nome":  "Nelson",
@@ -423,7 +440,7 @@ window.PAINEL = {
                         "obs":  "itapetininga a Campina Do Monte Alegre",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:57"
+                        "tempo":  "00:38:53"
                     },
                     {
                         "nome":  "Eduardo",
@@ -431,7 +448,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:44"
+                        "tempo":  "00:30:40"
                     },
                     {
                         "nome":  "Lucas",
@@ -439,15 +456,15 @@ window.PAINEL = {
                         "obs":  "reunião Eduardo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:33"
+                        "tempo":  "00:24:29"
                     },
                     {
-                        "nome":  "Eugenio",
-                        "tipo":  "Manutencao",
-                        "obs":  "trocando os pneus do carro",
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "viagem para Jardinopolis",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:28"
+                        "tempo":  "00:13:49"
                     }
                 ],
     "semped":  [
@@ -455,82 +472,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "01:17:11"
-                     },
-                     {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:10:04"
+                         "tempo":  "01:25:01"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:24:56"
+                         "tempo":  "01:39:53"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:22:18"
+                         "tempo":  "01:37:15"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "FRANCISCO MORAT",
-                         "tempo":  "01:32:16"
+                         "tempo":  "01:47:13"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:27:51"
+                         "tempo":  "00:42:48"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:16:57"
+                         "tempo":  "00:31:54"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:14:01"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:02:21"
+                         "tempo":  "00:17:18"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:07:21"
+                         "tempo":  "00:22:18"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:22:33"
+                         "tempo":  "00:37:30"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "AMAURI DE SOUZA JUNIOR",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:28:33"
+                         "tempo":  "00:43:30"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:34"
+                         "tempo":  "00:37:31"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
                          "mun":  "TIETE",
-                         "tempo":  "00:22:43"
+                         "tempo":  "00:37:40"
                      }
                  ],
     "hist":  [
@@ -641,7 +658,7 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     2,
+                     3,
                      0
                  ]
              ],
@@ -7188,7 +7205,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "08:30",
+                                         "dataHora":  "08:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -7198,6 +7215,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  38.57,
                                                        "tv":  49
+                                                   },
+                                                   {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  42.65,
+                                                       "tv":  81
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -7224,15 +7250,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.11,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -7408,6 +7425,13 @@ window.PAINEL = {
                                                    }
                                                ],
                                          "cli":  [
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  42.65,
+                                                         "tv":  81
+                                                     },
                                                      {
                                                          "n":  "Silmara",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
