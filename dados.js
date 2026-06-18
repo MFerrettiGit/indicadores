@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  64.44,
+                     "km":  89.63,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:06",
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  38.04,
+                     "km":  63.07,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:40",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  60.26,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "07:55",
+                     "ultimo":  "17:39",
+                     "tv":  "06:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "16:29",
                      "tv":  "05:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  58.75,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "07:55",
-                     "ultimo":  "16:38",
-                     "tv":  "05:50:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -987,6 +987,15 @@ window.PAINEL = {
                          "dur":  "02:04:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JORGE TERUO UMETSU LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:05:48",
+                         "out":  "17:39:07",
+                         "km":  1.51,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
@@ -1589,7 +1598,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:39:28"
+                        "tempo":  "01:54:23"
                     },
                     {
                         "nome":  "Nelson",
@@ -1597,7 +1606,7 @@ window.PAINEL = {
                         "obs":  "Buri a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:07:11"
+                        "tempo":  "01:22:06"
                     },
                     {
                         "nome":  "Rachel",
@@ -1605,7 +1614,7 @@ window.PAINEL = {
                         "obs":  "pare leve e triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:06"
+                        "tempo":  "00:51:01"
                     }
                 ],
     "semped":  [
@@ -1740,6 +1749,12 @@ window.PAINEL = {
                        "razao":  "EDNEI SCURACHIO JUNIOR",
                        "mun":  "SAO CARLOS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "JORGE TERUO UMETSU LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "apresentação de lâmpadas"
                    }
                ],
     "emvisita":  [
@@ -1747,25 +1762,19 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "03:27:57"
+                         "tempo":  "03:42:56"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HALINE RODRIGUES SEGHETTO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:38:31"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "JORGE TERUO UMETSU LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:18:24"
+                         "tempo":  "00:53:30"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:49:42"
+                         "tempo":  "01:04:41"
                      }
                  ],
     "hist":  [
@@ -1876,8 +1885,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     105,
-                     23
+                     106,
+                     24
                  ]
              ],
     "historico":  {
@@ -8423,7 +8432,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8458,7 +8467,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  64.44,
+                                                       "km":  89.63,
                                                        "tv":  477
                                                    },
                                                    {
@@ -8503,7 +8512,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  38.04,
+                                                       "km":  63.07,
                                                        "tv":  388
                                                    },
                                                    {
@@ -8525,6 +8534,15 @@ window.PAINEL = {
                                                        "tv":  255
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  60.26,
+                                                       "tv":  383
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -8541,15 +8559,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  19.95,
                                                        "tv":  304
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  58.75,
-                                                       "tv":  350
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -9125,6 +9134,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  13.34,
                                                          "tv":  124
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "JORGE TERUO UMETSU LTDA",
+                                                         "p":  0,
+                                                         "km":  1.51,
+                                                         "tv":  33
                                                      },
                                                      {
                                                          "n":  "Alan",
