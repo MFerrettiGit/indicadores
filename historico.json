@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6580,6 +6580,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  52.09,
+                                     "tv":  201
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -6587,15 +6596,6 @@
                                      "pe":  0,
                                      "km":  27.36,
                                      "tv":  158
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  24.65,
-                                     "tv":  128
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -6688,6 +6688,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  30.26,
+                                     "tv":  99
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -6695,15 +6704,6 @@
                                      "pe":  1,
                                      "km":  94.48,
                                      "tv":  82
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  23.42,
-                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Alan",
@@ -6767,6 +6767,13 @@
                                        "p":  1,
                                        "km":  24.65,
                                        "tv":  128
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  27.44,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Debora",
@@ -6956,6 +6963,13 @@
                                        "p":  1,
                                        "km":  4.44,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  0,
+                                       "km":  6.84,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Cominato",
