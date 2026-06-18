@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  2,
-                     "km":  20.09,
+                     "km":  28.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "10:13",
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  71.45,
+                     "km":  130.96,
                      "semPed":  3,
                      "perc":  100,
                      "primeiro":  "12:03",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  62.5,
+                     "km":  65.65,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  19.95,
+                     "km":  20.65,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:21",
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  87.31,
+                     "visitas":  5,
+                     "km":  93.36,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:51",
-                     "ultimo":  "16:25",
-                     "tv":  "05:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:49",
+                     "tv":  "06:24:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -233,14 +233,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  1.77,
+                     "visitas":  2,
+                     "km":  3.44,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:07",
-                     "ultimo":  "12:20",
-                     "tv":  "04:13:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:53",
+                     "tv":  "08:10:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "16:14",
                      "tv":  "04:59:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -354,7 +354,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  1,
-                     "km":  12.43,
+                     "km":  22.9,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "14:35",
@@ -789,6 +789,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "HALINE RODRIGUES SEGHETTO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:45:41",
+                         "out":  "17:49:29",
+                         "km":  5.15,
+                         "dur":  "01:03:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "FRANCA",
@@ -841,6 +850,15 @@ window.PAINEL = {
                          "out":  "12:20:41",
                          "km":  0,
                          "dur":  "04:13:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "13:56:15",
+                         "out":  "17:53:57",
+                         "km":  1.67,
+                         "dur":  "03:57:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1433,6 +1451,14 @@ window.PAINEL = {
                         "tempo":  "01:00:03"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Buri a Itapetininga",
+                        "inicio":  "16:18",
+                        "final":  "17:51",
+                        "tempo":  "01:33:37"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
@@ -1598,15 +1624,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:54:23"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Buri a Itapetininga",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:22:06"
+                        "tempo":  "02:09:14"
                     },
                     {
                         "nome":  "Rachel",
@@ -1614,7 +1632,7 @@ window.PAINEL = {
                         "obs":  "pare leve e triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:01"
+                        "tempo":  "01:05:52"
                     }
                 ],
     "semped":  [
@@ -1759,22 +1777,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "03:42:56"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "HALINE RODRIGUES SEGHETTO",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:53:30"
-                     },
-                     {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:04:41"
+                         "tempo":  "01:19:35"
                      }
                  ],
     "hist":  [
@@ -1885,7 +1891,7 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     106,
+                     108,
                      24
                  ]
              ],
@@ -8432,7 +8438,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8494,7 +8500,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  20.09,
+                                                       "km":  28.3,
                                                        "tv":  311
                                                    },
                                                    {
@@ -8521,7 +8527,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  71.45,
+                                                       "km":  130.96,
                                                        "tv":  146
                                                    },
                                                    {
@@ -8548,7 +8554,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  62.5,
+                                                       "km":  65.65,
                                                        "tv":  375
                                                    },
                                                    {
@@ -8557,26 +8563,26 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  19.95,
+                                                       "km":  20.65,
                                                        "tv":  304
                                                    },
                                                    {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  87.31,
-                                                       "tv":  321
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  93.36,
+                                                       "tv":  384
                                                    },
                                                    {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  1.77,
-                                                       "tv":  253
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  3.44,
+                                                       "tv":  490
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -8647,7 +8653,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  12.43,
+                                                       "km":  22.9,
                                                        "tv":  98
                                                    }
                                                ],
@@ -8982,6 +8988,13 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "HALINE RODRIGUES SEGHETTO",
+                                                         "p":  1,
+                                                         "km":  5.15,
+                                                         "tv":  63
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  0,
@@ -9022,6 +9035,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  253
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.67,
+                                                         "tv":  237
                                                      },
                                                      {
                                                          "n":  "Milene",

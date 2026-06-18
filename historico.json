@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6603,7 +6603,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  20.09,
+                                     "km":  28.3,
                                      "tv":  311
                                  },
                                  {
@@ -6630,7 +6630,7 @@
                                      "regional":  "INTERIOR SP",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  71.45,
+                                     "km":  130.96,
                                      "tv":  146
                                  },
                                  {
@@ -6657,7 +6657,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  62.5,
+                                     "km":  65.65,
                                      "tv":  375
                                  },
                                  {
@@ -6666,26 +6666,26 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  2,
-                                     "km":  19.95,
+                                     "km":  20.65,
                                      "tv":  304
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  87.31,
-                                     "tv":  321
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  93.36,
+                                     "tv":  384
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.77,
-                                     "tv":  253
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  3.44,
+                                     "tv":  490
                                  },
                                  {
                                      "nome":  "Castro",
@@ -6756,7 +6756,7 @@
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  12.43,
+                                     "km":  22.9,
                                      "tv":  98
                                  }
                              ],
@@ -7091,6 +7091,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "HALINE RODRIGUES SEGHETTO",
+                                       "p":  1,
+                                       "km":  5.15,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  0,
@@ -7131,6 +7138,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  253
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.67,
+                                       "tv":  237
                                    },
                                    {
                                        "n":  "Milene",
