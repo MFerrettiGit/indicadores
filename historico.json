@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6619,10 +6619,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  29.57,
-                                     "tv":  173
+                                     "km":  34.88,
+                                     "tv":  285
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -6688,6 +6688,15 @@
                                      "tv":  253
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  51.66,
+                                     "tv":  235
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -6695,15 +6704,6 @@
                                      "pe":  3,
                                      "km":  42.04,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  42.12,
-                                     "tv":  192
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -6993,6 +6993,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  5.31,
+                                       "tv":  112
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  0,
@@ -7138,6 +7145,13 @@
                                        "p":  1,
                                        "km":  3.82,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
+                                       "p":  1,
+                                       "km":  9.54,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Lucas",

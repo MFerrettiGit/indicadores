@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:58",
                      "ultimo":  "12:42",
                      "tv":  "04:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:01",
                      "ultimo":  "11:50",
                      "tv":  "04:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "13:12",
                      "tv":  "05:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Aline",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  29.57,
+                     "visitas":  5,
+                     "km":  34.88,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:40",
-                     "ultimo":  "11:30",
-                     "tv":  "02:53:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:38",
+                     "tv":  "04:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "11:49",
                      "tv":  "02:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  51.66,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:44",
+                     "ultimo":  "13:27",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -259,21 +274,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  42.12,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:44",
-                     "ultimo":  "12:21",
-                     "tv":  "03:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -285,8 +285,8 @@ window.PAINEL = {
                      "primeiro":  "08:46",
                      "ultimo":  "12:15",
                      "tv":  "02:44:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -663,6 +663,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "11:46:34",
+                         "out":  "13:38:42",
+                         "km":  5.31,
+                         "dur":  "01:52:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
                          "mun":  "AMPARO",
@@ -852,6 +861,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
+                         "mun":  "ILHABELA",
+                         "in":  "12:43:40",
+                         "out":  "13:27:45",
+                         "km":  9.54,
+                         "dur":  "00:43:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
@@ -979,6 +997,14 @@ window.PAINEL = {
                         "tempo":  "00:29:15"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:25",
+                        "final":  "13:25",
+                        "tempo":  "01:00:03"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Em Viagem",
                         "obs":  "Retorno piracicaba",
@@ -1059,20 +1085,12 @@ window.PAINEL = {
                         "tempo":  "02:51:37"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:34"
-                    },
-                    {
                         "nome":  "Maira",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:55:21"
+                        "tempo":  "01:10:34"
                     },
                     {
                         "nome":  "Alan",
@@ -1080,7 +1098,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:36"
+                        "tempo":  "01:05:49"
                     },
                     {
                         "nome":  "Rachel",
@@ -1088,7 +1106,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:16"
+                        "tempo":  "00:52:29"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1096,7 +1114,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:40"
+                        "tempo":  "00:47:53"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1104,7 +1122,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:02"
+                        "tempo":  "00:47:15"
                     },
                     {
                         "nome":  "Castro",
@@ -1112,7 +1130,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:17"
+                        "tempo":  "00:45:30"
                     },
                     {
                         "nome":  "Fernando",
@@ -1120,7 +1138,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:57"
+                        "tempo":  "00:43:10"
                     },
                     {
                         "nome":  "Vinicius",
@@ -1128,7 +1146,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:04"
+                        "tempo":  "00:41:17"
                     },
                     {
                         "nome":  "Cominato",
@@ -1136,7 +1154,15 @@ window.PAINEL = {
                         "obs":  "Cadastro produto portal Delta Max",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:12"
+                        "tempo":  "00:37:25"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:14"
                     }
                 ],
     "semped":  [
@@ -1218,43 +1244,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:23:34"
+                         "tempo":  "00:38:41"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.04",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:16:15"
+                         "tempo":  "00:31:22"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:13:06"
+                         "tempo":  "00:28:13"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "tempo":  "00:12:33"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:06:51"
+                         "tempo":  "00:21:58"
                      },
                      {
-                         "nome":  "Milene",
-                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "01:37:34"
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:05:34"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "RUBMIXX DISTRIBUIDORA DE ALIMENTOS E EMB",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:12:32"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAO RAFAEL SUPERMERCADO LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:05:08"
+                         "tempo":  "00:20:15"
                      },
                      {
-                         "nome":  "Karina",
-                         "razao":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
-                         "mun":  "ILHABELA",
-                         "tempo":  "00:40:28"
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIAL SAO JOAO DE BURI LTDA",
+                         "mun":  "BURI",
+                         "tempo":  "00:12:18"
                      }
                  ],
     "hist":  [
@@ -1365,7 +1403,7 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     60,
+                     62,
                      13
                  ]
              ],
@@ -7912,7 +7950,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -7990,10 +8028,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  29.57,
-                                                       "tv":  173
+                                                       "km":  34.88,
+                                                       "tv":  285
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -8059,6 +8097,15 @@ window.PAINEL = {
                                                        "tv":  253
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  51.66,
+                                                       "tv":  235
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -8066,15 +8113,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  42.04,
                                                        "tv":  126
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  42.12,
-                                                       "tv":  192
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -8364,6 +8402,13 @@ window.PAINEL = {
                                                          "tv":  21
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                                         "p":  1,
+                                                         "km":  5.31,
+                                                         "tv":  112
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                                          "p":  0,
@@ -8509,6 +8554,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.82,
                                                          "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SUPERMERCADO COLINA SUL LTDA LJ 02",
+                                                         "p":  1,
+                                                         "km":  9.54,
+                                                         "tv":  43
                                                      },
                                                      {
                                                          "n":  "Lucas",
