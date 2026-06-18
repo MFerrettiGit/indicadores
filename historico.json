@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6643,6 +6643,15 @@
                                      "tv":  255
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  62.5,
+                                     "tv":  375
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -6659,15 +6668,6 @@
                                      "pe":  3,
                                      "km":  58.75,
                                      "tv":  350
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  59.82,
-                                     "tv":  320
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -6745,10 +6745,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  94.48,
-                                     "tv":  82
+                                     "km":  102.73,
+                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -7056,6 +7056,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                                       "p":  1,
+                                       "km":  2.68,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -7320,6 +7327,13 @@
                                        "p":  0,
                                        "km":  43.64,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ETTORI",
+                                       "p":  0,
+                                       "km":  8.25,
+                                       "tv":  84
                                    },
                                    {
                                        "n":  "Eugenio",

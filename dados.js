@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  62.5,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "17:19",
+                     "tv":  "06:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "07:55",
                      "ultimo":  "16:38",
                      "tv":  "05:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  59.82,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "16:10",
-                     "tv":  "05:20:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  94.48,
-                     "semPed":  1,
-                     "perc":  50,
+                     "visitas":  3,
+                     "km":  102.73,
+                     "semPed":  2,
+                     "perc":  66.67,
                      "primeiro":  "08:01",
-                     "ultimo":  "10:46",
-                     "tv":  "01:22:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:15",
+                     "tv":  "02:46:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "01:14:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                         "mun":  "LEME",
+                         "in":  "16:22:22",
+                         "out":  "17:19:35",
+                         "km":  2.68,
+                         "dur":  "00:55:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                          "mun":  "JARDINOPOLIS",
@@ -1084,6 +1093,15 @@ window.PAINEL = {
                          "out":  "10:46:10",
                          "km":  43.64,
                          "dur":  "00:34:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ETTORI",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:50:47",
+                         "out":  "17:15:27",
+                         "km":  8.25,
+                         "dur":  "01:24:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1571,7 +1589,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:24:20"
+                        "tempo":  "01:39:28"
                     },
                     {
                         "nome":  "Nelson",
@@ -1579,7 +1597,7 @@ window.PAINEL = {
                         "obs":  "Buri a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:03"
+                        "tempo":  "01:07:11"
                     },
                     {
                         "nome":  "Rachel",
@@ -1587,7 +1605,7 @@ window.PAINEL = {
                         "obs":  "pare leve e triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:58"
+                        "tempo":  "00:36:06"
                     }
                 ],
     "semped":  [
@@ -1712,6 +1730,12 @@ window.PAINEL = {
                        "obs":  "Estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "ETTORI",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Compradora ausente"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "EDNEI SCURACHIO JUNIOR",
                        "mun":  "SAO CARLOS",
@@ -1723,37 +1747,25 @@ window.PAINEL = {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "03:12:53"
+                         "tempo":  "03:27:57"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HALINE RODRIGUES SEGHETTO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:23:27"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "EDUARDO KENDI TONGU INOUE-EPP.",
-                         "mun":  "LEME",
-                         "tempo":  "00:46:46"
+                         "tempo":  "00:38:31"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JORGE TERUO UMETSU LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:03:20"
+                         "tempo":  "00:18:24"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:34:38"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "ETTORI",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "01:18:21"
+                         "tempo":  "00:49:42"
                      }
                  ],
     "hist":  [
@@ -1864,8 +1876,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     103,
-                     22
+                     105,
+                     23
                  ]
              ],
     "historico":  {
@@ -8411,7 +8423,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8513,6 +8525,15 @@ window.PAINEL = {
                                                        "tv":  255
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  62.5,
+                                                       "tv":  375
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -8529,15 +8550,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  58.75,
                                                        "tv":  350
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  59.82,
-                                                       "tv":  320
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -8615,10 +8627,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  1,
-                                                       "km":  94.48,
-                                                       "tv":  82
+                                                       "km":  102.73,
+                                                       "tv":  166
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -8926,6 +8938,13 @@ window.PAINEL = {
                                                          "tv":  74
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "EDUARDO KENDI TONGU INOUE-EPP.",
+                                                         "p":  1,
+                                                         "km":  2.68,
+                                                         "tv":  55
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                                          "p":  1,
@@ -9190,6 +9209,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  43.64,
                                                          "tv":  34
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "ETTORI",
+                                                         "p":  0,
+                                                         "km":  8.25,
+                                                         "tv":  84
                                                      },
                                                      {
                                                          "n":  "Eugenio",
