@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6574,10 +6574,10 @@
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  59.36,
-                                     "tv":  378
+                                     "km":  60.2,
+                                     "tv":  408
                                  },
                                  {
                                      "nome":  "Aline",
@@ -6718,10 +6718,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  36.95,
-                                     "tv":  212
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  37.93,
+                                     "tv":  250
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6816,6 +6816,13 @@
                                        "p":  1,
                                        "km":  11.02,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  0.84,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -7257,6 +7264,13 @@
                                        "p":  0,
                                        "km":  1.42,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                       "p":  1,
+                                       "km":  0.98,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Karina",

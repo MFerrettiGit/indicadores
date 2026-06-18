@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:01",
                      "ultimo":  "15:29",
                      "tv":  "06:03:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -53,13 +53,13 @@ window.PAINEL = {
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  59.36,
+                     "visitas":  5,
+                     "km":  60.2,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:06",
-                     "ultimo":  "15:11",
-                     "tv":  "06:18:00",
+                     "ultimo":  "15:42",
+                     "tv":  "06:48:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -293,14 +293,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  36.95,
+                     "visitas":  5,
+                     "km":  37.93,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "09:14",
-                     "ultimo":  "15:01",
-                     "tv":  "03:32:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:44",
+                     "tv":  "04:10:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:46",
                      "tv":  "01:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -436,6 +436,15 @@ window.PAINEL = {
                          "out":  "15:11:20",
                          "km":  11.02,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "SOLIDEA DELA COLETA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "15:12:46",
+                         "out":  "15:42:57",
+                         "km":  0.84,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -1005,6 +1014,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "15:06:04",
+                         "out":  "15:44:38",
+                         "km":  0.98,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
@@ -1275,6 +1293,22 @@ window.PAINEL = {
                         "tempo":  "00:59:27"
                     },
                     {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:25",
+                        "final":  "15:43",
+                        "tempo":  "01:17:23"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "a",
+                        "inicio":  "15:45",
+                        "final":  "15:45",
+                        "tempo":  "00:00:03"
+                    },
+                    {
                         "nome":  "Evandro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1371,20 +1405,20 @@ window.PAINEL = {
                         "tempo":  "00:59:19"
                     },
                     {
-                        "nome":  "Aline",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:14:25"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Proposta",
                         "obs":  "antonelli",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:51"
+                        "tempo":  "00:18:59"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Outro",
+                        "obs":  "problema com veículo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:24"
                     }
                 ],
     "semped":  [
@@ -1506,105 +1540,111 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Debora",
-                         "razao":  "SOLIDEA DELA COLETA",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:26:26"
+                         "tempo":  "00:03:07"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:22:40"
+                         "tempo":  "00:37:45"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO NOSS LTDA",
+                         "mun":  "PORTO FELIZ",
+                         "tempo":  "00:09:15"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:41:12"
+                         "tempo":  "00:56:17"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:42:47"
+                         "tempo":  "01:57:52"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.08",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:07:43"
+                         "tempo":  "00:22:48"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:42:57"
+                         "tempo":  "01:58:02"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:46:54"
+                         "tempo":  "01:01:59"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "CARREFOUR COMERCIO E INDUSTRIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:00:02"
+                         "tempo":  "00:15:07"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DE CARLI E FERNANDES LTDA-ME.",
                          "mun":  "LEME",
-                         "tempo":  "00:42:27"
+                         "tempo":  "00:57:32"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GIANINI",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:05:32"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:33:08"
+                         "tempo":  "01:20:37"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:28:33"
+                         "tempo":  "01:43:38"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:24:12"
+                         "tempo":  "00:39:17"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SELETO SUPERMERCADO LTDA",
                          "mun":  "SALTO",
-                         "tempo":  "00:22:05"
+                         "tempo":  "00:37:10"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADO FAMA LTDA",
                          "mun":  "BURI",
-                         "tempo":  "00:27:37"
+                         "tempo":  "00:42:42"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:07:52"
+                         "tempo":  "00:22:57"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ETTORI",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:03:30"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "01:03:48"
+                         "tempo":  "01:18:53"
                      }
                  ],
     "hist":  [
@@ -1715,7 +1755,7 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     84,
+                     86,
                      20
                  ]
              ],
@@ -8262,7 +8302,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8295,10 +8335,10 @@ window.PAINEL = {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  59.36,
-                                                       "tv":  378
+                                                       "km":  60.2,
+                                                       "tv":  408
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -8439,10 +8479,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  36.95,
-                                                       "tv":  212
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  37.93,
+                                                       "tv":  250
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -8537,6 +8577,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  11.02,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "SOLIDEA DELA COLETA",
+                                                         "p":  1,
+                                                         "km":  0.84,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -8978,6 +9025,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.42,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                                         "p":  1,
+                                                         "km":  0.98,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Karina",
