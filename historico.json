@@ -6541,8 +6541,17 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  89.07,
+                                     "tv":  296
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -6551,15 +6560,6 @@
                                      "pe":  0,
                                      "km":  79.65,
                                      "tv":  289
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  85.68,
-                                     "tv":  250
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -6664,10 +6664,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  55.09,
-                                     "tv":  150
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  59.82,
+                                     "tv":  246
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -6718,10 +6718,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  35.53,
-                                     "tv":  193
+                                     "km":  36.95,
+                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6916,6 +6916,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  3.39,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -6970,6 +6977,13 @@
                                        "p":  1,
                                        "km":  29.14,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SAO RAFAEL SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.73,
+                                       "tv":  96
                                    },
                                    {
                                        "n":  "Fernando",
@@ -7194,6 +7208,13 @@
                                        "p":  1,
                                        "km":  1.5,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "STEFANIE CAROLINE BUZATTO",
+                                       "p":  0,
+                                       "km":  1.42,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Karina",

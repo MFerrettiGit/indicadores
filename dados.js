@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  89.07,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:59",
+                     "ultimo":  "14:57",
+                     "tv":  "04:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
@@ -19,21 +34,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  85.68,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:59",
-                     "ultimo":  "13:44",
-                     "tv":  "04:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:01",
                      "ultimo":  "14:44",
                      "tv":  "05:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "14:34",
                      "tv":  "05:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -203,13 +203,13 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  55.09,
+                     "visitas":  3,
+                     "km":  59.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "11:31",
-                     "tv":  "02:30:00",
+                     "ultimo":  "14:55",
+                     "tv":  "04:06:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "14:48",
                      "tv":  "02:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -293,13 +293,13 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  35.53,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  36.95,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "09:14",
-                     "ultimo":  "14:36",
-                     "tv":  "03:13:00",
+                     "ultimo":  "15:01",
+                     "tv":  "03:32:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -564,6 +564,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "VALINHOS",
+                         "in":  "14:11:21",
+                         "out":  "14:57:32",
+                         "km":  3.39,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
@@ -634,6 +643,15 @@ window.PAINEL = {
                          "out":  "11:31:00",
                          "km":  29.14,
                          "dur":  "01:13:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SAO RAFAEL SUPERMERCADO LTDA.",
+                         "mun":  "LEME",
+                         "in":  "13:19:00",
+                         "out":  "14:55:59",
+                         "km":  4.73,
+                         "dur":  "01:36:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -922,6 +940,15 @@ window.PAINEL = {
                          "out":  "14:36:56",
                          "km":  1.5,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "STEFANIE CAROLINE BUZATTO",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "14:42:27",
+                         "out":  "15:01:46",
+                         "km":  1.42,
+                         "dur":  "00:19:00"
                      },
                      {
                          "nome":  "Karina",
@@ -1287,7 +1314,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:21"
+                        "tempo":  "00:44:46"
                     },
                     {
                         "nome":  "Silmara",
@@ -1295,10 +1322,16 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:51"
+                        "tempo":  "00:40:16"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "STEFANIE CAROLINE BUZATTO",
+                       "mun":  "BRAGANCA PAULIS",
+                       "obs":  "comprador ausente"
+                   },
                    {
                        "nome":  "Eduardo",
                        "razao":  "COVABRA SUPERMERCADOS LTDA",
@@ -1401,79 +1434,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:19:18"
+                         "tempo":  "00:34:30"
                      },
                      {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "VALINHOS",
-                         "tempo":  "00:42:51"
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:10:51"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VARZEA PAULISTA",
+                         "tempo":  "00:11:24"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:57:47"
+                         "tempo":  "01:12:59"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:57:57"
+                         "tempo":  "01:13:09"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:36:31"
+                         "tempo":  "00:51:43"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:01:54"
+                         "tempo":  "00:17:06"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:06:59"
+                         "tempo":  "01:22:11"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:54:59"
+                         "tempo":  "01:10:11"
                      },
                      {
                          "nome":  "Costa",
-                         "razao":  "SAO RAFAEL SUPERMERCADO LTDA.",
+                         "razao":  "DE CARLI E FERNANDES LTDA-ME.",
                          "mun":  "LEME",
-                         "tempo":  "01:35:12"
+                         "tempo":  "00:12:39"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GIANINI",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:20:32"
+                         "tempo":  "00:35:44"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "STEFANIE CAROLINE BUZATTO",
+                         "razao":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:11:45"
+                         "tempo":  "00:03:20"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:43:33"
+                         "tempo":  "00:58:45"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:13:07"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:18:48"
+                         "tempo":  "00:34:00"
                      }
                  ],
     "hist":  [
@@ -1584,8 +1629,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     75,
-                     17
+                     78,
+                     18
                  ]
              ],
     "historico":  {
@@ -8131,8 +8176,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  89.07,
+                                                       "tv":  296
+                                                   },
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
@@ -8141,15 +8195,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  79.65,
                                                        "tv":  289
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  85.68,
-                                                       "tv":  250
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -8254,10 +8299,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  55.09,
-                                                       "tv":  150
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  59.82,
+                                                       "tv":  246
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -8308,10 +8353,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  35.53,
-                                                       "tv":  193
+                                                       "km":  36.95,
+                                                       "tv":  212
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -8506,6 +8551,13 @@ window.PAINEL = {
                                                          "tv":  33
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  3.39,
+                                                         "tv":  46
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -8560,6 +8612,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  29.14,
                                                          "tv":  73
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SAO RAFAEL SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.73,
+                                                         "tv":  96
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -8784,6 +8843,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.5,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "STEFANIE CAROLINE BUZATTO",
+                                                         "p":  0,
+                                                         "km":  1.42,
+                                                         "tv":  19
                                                      },
                                                      {
                                                          "n":  "Karina",
