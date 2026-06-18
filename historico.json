@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6553,6 +6553,33 @@
                                      "tv":  133
                                  },
                                  {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.38,
+                                     "tv":  159
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  21.01,
+                                     "tv":  152
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  46.15,
+                                     "tv":  144
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -6560,33 +6587,6 @@
                                      "pe":  0,
                                      "km":  27.36,
                                      "tv":  158
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  58.82,
-                                     "tv":  127
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  19.53,
-                                     "tv":  114
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  42.65,
-                                     "tv":  81
                                  },
                                  {
                                      "nome":  "Aline",
@@ -6598,8 +6598,8 @@
                                      "tv":  128
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -6607,8 +6607,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -6637,10 +6637,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  18.75,
-                                     "tv":  52
+                                     "km":  19.1,
+                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -6742,8 +6742,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -6751,8 +6751,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -6776,11 +6776,25 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.5,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
                                        "km":  19.42,
                                        "tv":  114
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.48,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Eliana",
@@ -6795,6 +6809,13 @@
                                        "p":  1,
                                        "km":  58.64,
                                        "tv":  127
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.56,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Silmara",
@@ -6851,6 +6872,13 @@
                                        "p":  0,
                                        "km":  9.78,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B A BARBOSA SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  0.35,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Sao Carlos",
