@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6670,6 +6670,15 @@
                                      "tv":  150
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  78.43,
+                                     "tv":  188
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -6677,15 +6686,6 @@
                                      "pe":  1,
                                      "km":  1.77,
                                      "tv":  253
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  55.96,
-                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Castro",
@@ -6886,6 +6886,13 @@
                                        "p":  1,
                                        "km":  34.58,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  22.47,
+                                       "tv":  105
                                    },
                                    {
                                        "n":  "Luis",
