@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6567,17 +6567,17 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  55.36,
+                                     "km":  59.76,
                                      "tv":  424
                                  },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  60.2,
-                                     "tv":  408
+                                     "km":  64.44,
+                                     "tv":  477
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -6724,6 +6724,15 @@
                                      "tv":  250
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  43.65,
+                                     "tv":  176
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -6731,15 +6740,6 @@
                                      "pe":  3,
                                      "km":  19.96,
                                      "tv":  354
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  39.64,
-                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6823,6 +6823,13 @@
                                        "p":  1,
                                        "km":  0.84,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.24,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -7411,6 +7418,13 @@
                                        "p":  1,
                                        "km":  25.69,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  4.01,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Mariangela",

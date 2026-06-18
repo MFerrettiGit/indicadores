@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  55.36,
+                     "km":  59.76,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:01",
@@ -53,14 +53,14 @@ window.PAINEL = {
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  60.2,
+                     "visitas":  6,
+                     "km":  64.44,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:06",
-                     "ultimo":  "15:42",
-                     "tv":  "06:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:00",
+                     "tv":  "07:57:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "07:55",
                      "ultimo":  "16:38",
                      "tv":  "05:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  43.65,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "11:11",
+                     "ultimo":  "16:58",
+                     "tv":  "02:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "16:16",
                      "tv":  "05:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  39.64,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "11:11",
-                     "ultimo":  "16:13",
-                     "tv":  "02:24:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -445,6 +445,15 @@ window.PAINEL = {
                          "out":  "15:42:57",
                          "km":  0.84,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "15:51:10",
+                         "out":  "17:00:46",
+                         "km":  4.24,
+                         "dur":  "01:09:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -1203,6 +1212,15 @@ window.PAINEL = {
                          "dur":  "00:56:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "SALTO",
+                         "in":  "16:25:07",
+                         "out":  "16:58:07",
+                         "km":  4.01,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "JACAREI",
@@ -1553,7 +1571,7 @@ window.PAINEL = {
                         "obs":  "problema com veículo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:09:18"
+                        "tempo":  "01:24:20"
                     },
                     {
                         "nome":  "Nelson",
@@ -1561,7 +1579,7 @@ window.PAINEL = {
                         "obs":  "Buri a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:01"
+                        "tempo":  "00:52:03"
                     },
                     {
                         "nome":  "Rachel",
@@ -1569,7 +1587,7 @@ window.PAINEL = {
                         "obs":  "pare leve e triunfo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:56"
+                        "tempo":  "00:20:58"
                     }
                 ],
     "semped":  [
@@ -1646,6 +1664,12 @@ window.PAINEL = {
                        "obs":  "troca"
                    },
                    {
+                       "nome":  "Lucas",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "SALTO",
+                       "obs":  "visita"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "LUCIANA MARQUES DA SILVA BURI",
                        "mun":  "BURI",
@@ -1696,46 +1720,40 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "CORDEIROPOLIS",
-                         "tempo":  "01:02:59"
-                     },
-                     {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "02:57:54"
+                         "tempo":  "03:12:53"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "HALINE RODRIGUES SEGHETTO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:08:28"
+                         "tempo":  "00:23:27"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EDUARDO KENDI TONGU INOUE-EPP.",
                          "mun":  "LEME",
-                         "tempo":  "00:31:47"
+                         "tempo":  "00:46:46"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JORGE TERUO UMETSU LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:03:20"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:19:39"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "SALTO",
-                         "tempo":  "00:29:02"
+                         "tempo":  "00:34:38"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ETTORI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:03:22"
+                         "tempo":  "01:18:21"
                      }
                  ],
     "hist":  [
@@ -1846,8 +1864,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     101,
-                     21
+                     103,
+                     22
                  ]
              ],
     "historico":  {
@@ -8393,7 +8411,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8419,17 +8437,17 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  55.36,
+                                                       "km":  59.76,
                                                        "tv":  424
                                                    },
                                                    {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  60.2,
-                                                       "tv":  408
+                                                       "km":  64.44,
+                                                       "tv":  477
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -8576,6 +8594,15 @@ window.PAINEL = {
                                                        "tv":  250
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  43.65,
+                                                       "tv":  176
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -8583,15 +8610,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  19.96,
                                                        "tv":  354
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  39.64,
-                                                       "tv":  144
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -8675,6 +8693,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.84,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.24,
+                                                         "tv":  69
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -9263,6 +9288,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  25.69,
                                                          "tv":  56
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  4.01,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Mariangela",
