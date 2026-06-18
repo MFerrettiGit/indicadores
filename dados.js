@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "14:18",
                      "tv":  "04:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Evandro",
@@ -45,6 +45,21 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "14:14",
                      "tv":  "05:54:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  53.07,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:51",
+                     "ultimo":  "14:34",
+                     "tv":  "05:50:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:06",
                      "ultimo":  "13:12",
                      "tv":  "05:42:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  51.66,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:51",
-                     "ultimo":  "12:15",
-                     "tv":  "04:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "07:55",
                      "ultimo":  "11:56",
                      "tv":  "03:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:46",
                      "ultimo":  "14:18",
                      "tv":  "03:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  35.53,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:14",
+                     "ultimo":  "14:36",
+                     "tv":  "03:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -301,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "10:46",
                      "tv":  "01:22:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:02",
                      "tv":  "03:49:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  34.03,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:14",
-                     "ultimo":  "12:00",
-                     "tv":  "02:35:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -357,10 +357,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "14:35",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -490,6 +490,15 @@ window.PAINEL = {
                          "out":  "12:15:42",
                          "km":  24.3,
                          "dur":  "01:56:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "in":  "13:17:17",
+                         "out":  "14:34:17",
+                         "km":  1.41,
+                         "dur":  "01:16:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -879,6 +888,15 @@ window.PAINEL = {
                          "dur":  "01:46:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "NEI-MAR PRODUTOS ALIMENTICIOS LTDA.",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "13:58:50",
+                         "out":  "14:36:56",
+                         "km":  1.5,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
@@ -1124,6 +1142,22 @@ window.PAINEL = {
                         "tempo":  "01:00:33"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Cadastro produto portal Delta Max",
+                        "inicio":  "13:02",
+                        "final":  "14:28",
+                        "tempo":  "01:25:38"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:32",
+                        "final":  "14:32",
+                        "tempo":  "00:59:27"
+                    },
+                    {
                         "nome":  "Evandro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1212,20 +1246,20 @@ window.PAINEL = {
                         "tempo":  "00:59:19"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Outro",
-                        "obs":  "Cadastro produto portal Delta Max",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:22:16"
-                    },
-                    {
-                        "nome":  "Debora",
+                        "nome":  "Aline",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:05"
+                        "tempo":  "00:14:13"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:43"
                     }
                 ],
     "semped":  [
@@ -1313,79 +1347,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:07:51"
+                         "tempo":  "00:22:58"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "SOLIDEA DELA COLETA",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:04:19"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:12:45"
+                         "tempo":  "00:27:52"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SALTO",
-                         "tempo":  "00:57:24"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
-                         "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:06:49"
+                         "tempo":  "01:12:31"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:27:41"
+                         "tempo":  "00:42:48"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:27:51"
+                         "tempo":  "00:42:58"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:06:25"
+                         "tempo":  "00:21:32"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:36:53"
+                         "tempo":  "00:52:00"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:24:53"
+                         "tempo":  "00:40:00"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAO RAFAEL SUPERMERCADO LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:05:06"
+                         "tempo":  "01:20:13"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "NEI-MAR PRODUTOS ALIMENTICIOS LTDA.",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:25:16"
+                         "nome":  "Sao Carlos",
+                         "razao":  "GIANINI",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:05:33"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:13:27"
+                         "tempo":  "00:28:34"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "REINOLDES DE QUEIROZ",
+                         "mun":  "BURI",
+                         "tempo":  "00:14:47"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:09:33"
+                         "tempo":  "00:24:40"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "LOJAS ESTRELA DO LAR LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:03:49"
                      }
                  ],
     "hist":  [
@@ -1496,7 +1542,7 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     69,
+                     71,
                      14
                  ]
              ],
@@ -8043,7 +8089,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -8073,6 +8119,15 @@ window.PAINEL = {
                                                        "tv":  354
                                                    },
                                                    {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  53.07,
+                                                       "tv":  350
+                                                   },
+                                                   {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
@@ -8089,15 +8144,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  48.34,
                                                        "tv":  342
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  51.66,
-                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -8217,6 +8263,15 @@ window.PAINEL = {
                                                        "tv":  126
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  35.53,
+                                                       "tv":  193
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -8233,15 +8288,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  8.88,
                                                        "tv":  229
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  34.03,
-                                                       "tv":  155
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -8360,6 +8406,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.3,
                                                          "tv":  116
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  1.41,
+                                                         "tv":  76
                                                      },
                                                      {
                                                          "n":  "Evandro",
@@ -8661,6 +8714,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.79,
                                                          "tv":  106
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "NEI-MAR PRODUTOS ALIMENTICIOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.5,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Karina",
