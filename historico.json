@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6565,10 +6565,19 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  51.31,
+                                     "tv":  363
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  44.32,
-                                     "tv":  334
+                                     "km":  59.36,
+                                     "tv":  378
                                  },
                                  {
                                      "nome":  "Aline",
@@ -6587,15 +6596,6 @@
                                      "pe":  0,
                                      "km":  53.07,
                                      "tv":  350
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  48.34,
-                                     "tv":  342
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -6619,10 +6619,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  34.88,
-                                     "tv":  285
+                                     "km":  38.04,
+                                     "tv":  388
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -6637,10 +6637,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  2,
-                                     "km":  35.69,
-                                     "tv":  177
+                                     "km":  66.49,
+                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Luis",
@@ -6673,10 +6673,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  78.43,
-                                     "tv":  188
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  83.33,
+                                     "tv":  276
                                  },
                                  {
                                      "nome":  "Maira",
@@ -6686,6 +6686,15 @@
                                      "pe":  1,
                                      "km":  1.77,
                                      "tv":  253
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  49.06,
+                                     "tv":  183
                                  },
                                  {
                                      "nome":  "Karina",
@@ -6704,15 +6713,6 @@
                                      "pe":  2,
                                      "km":  95.46,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  46.74,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -6811,6 +6811,13 @@
                                        "tv":  198
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  11.02,
+                                       "tv":  36
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -6837,6 +6844,13 @@
                                        "p":  1,
                                        "km":  19.85,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  6.99,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -7000,6 +7014,13 @@
                                        "tv":  105
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.9,
+                                       "tv":  88
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  0,
@@ -7070,6 +7091,13 @@
                                        "tv":  112
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.16,
+                                       "tv":  103
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
                                        "p":  0,
@@ -7103,6 +7131,13 @@
                                        "p":  1,
                                        "km":  15.4,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  30.8,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -7173,6 +7208,13 @@
                                        "p":  0,
                                        "km":  4.7,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                       "p":  0,
+                                       "km":  2.32,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Cominato",
