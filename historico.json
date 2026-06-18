@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -6601,10 +6601,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  7.03,
-                                     "tv":  164
+                                     "km":  20.09,
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -6643,6 +6643,15 @@
                                      "tv":  255
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  59.82,
+                                     "tv":  320
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -6650,6 +6659,15 @@
                                      "pe":  2,
                                      "km":  19.28,
                                      "tv":  207
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  87.31,
+                                     "tv":  321
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -6661,24 +6679,6 @@
                                      "tv":  226
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  59.82,
-                                     "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  83.33,
-                                     "tv":  276
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -6686,6 +6686,24 @@
                                      "pe":  1,
                                      "km":  1.77,
                                      "tv":  253
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  61.61,
+                                     "tv":  325
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  96.01,
+                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Castro",
@@ -6697,24 +6715,6 @@
                                      "tv":  183
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  59.92,
-                                     "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  2,
-                                     "km":  95.46,
-                                     "tv":  236
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -6722,6 +6722,24 @@
                                      "pe":  4,
                                      "km":  37.93,
                                      "tv":  250
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  19.96,
+                                     "tv":  354
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  39.64,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -6733,31 +6751,13 @@
                                      "tv":  82
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.88,
-                                     "tv":  229
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  13.95,
-                                     "tv":  88
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  12.43,
+                                     "tv":  98
                                  }
                              ],
                        "cli":  [
@@ -6986,6 +6986,13 @@
                                        "tv":  164
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM.",
+                                       "p":  1,
+                                       "km":  13.06,
+                                       "tv":  147
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "SUPERMERCADOS REX LTDA.",
                                        "p":  1,
@@ -7007,6 +7014,13 @@
                                        "tv":  96
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "DE CARLI E FERNANDES LTDA-ME.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "LUIZ ROBERTO BERGNOCINI VAREJAO- ME",
                                        "p":  1,
@@ -7026,6 +7040,13 @@
                                        "p":  1,
                                        "km":  4.9,
                                        "tv":  88
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "CARREFOUR COMERCIO E INDUSTRIA LTDA",
+                                       "p":  1,
+                                       "km":  3.98,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Luis",
@@ -7182,6 +7203,13 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "PONTEL",
+                                       "p":  1,
+                                       "km":  11.08,
+                                       "tv":  125
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO PARAZZI LTDA",
                                        "p":  1,
@@ -7308,6 +7336,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO DO FRADE LTDA.",
+                                       "p":  1,
+                                       "km":  1.69,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  0,
@@ -7320,6 +7355,20 @@
                                        "p":  1,
                                        "km":  9.05,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SELETO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  25.69,
+                                       "tv":  56
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                       "p":  1,
+                                       "km":  12.43,
+                                       "tv":  98
                                    },
                                    {
                                        "n":  "Nelson",
@@ -7355,6 +7404,13 @@
                                        "p":  0,
                                        "km":  1.52,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADO FAMA LTDA",
+                                       "p":  1,
+                                       "km":  0.55,
+                                       "tv":  63
                                    }
                                ]
                    }
