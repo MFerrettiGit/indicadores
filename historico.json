@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6562,6 +6562,15 @@
                                      "tv":  250
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  44.32,
+                                     "tv":  334
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -6578,15 +6587,6 @@
                                      "pe":  0,
                                      "km":  53.07,
                                      "tv":  350
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  24.47,
-                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Debora",
@@ -6628,10 +6628,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  61.98,
-                                     "tv":  113
+                                     "km":  71.45,
+                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -6700,19 +6700,19 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  2,
-                                     "km":  93.94,
-                                     "tv":  215
+                                     "km":  95.46,
+                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  42.04,
-                                     "tv":  126
+                                     "km":  46.74,
+                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -6832,6 +6832,13 @@
                                        "tv":  105
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  19.85,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -6844,6 +6851,13 @@
                                        "p":  0,
                                        "km":  1.03,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  9.47,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Eliana",
@@ -7140,6 +7154,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
+                                       "p":  0,
+                                       "km":  4.7,
+                                       "tv":  33
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
                                        "p":  1,
@@ -7250,6 +7271,13 @@
                                        "p":  1,
                                        "km":  0.95,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "REINOLDES DE QUEIROZ",
+                                       "p":  0,
+                                       "km":  1.52,
+                                       "tv":  21
                                    }
                                ]
                    }
