@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "18/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  19.1,
+                     "visitas":  4,
+                     "km":  20.29,
                      "semPed":  3,
-                     "perc":  100,
+                     "perc":  75,
                      "primeiro":  "08:25",
-                     "ultimo":  "09:48",
-                     "tv":  "01:10:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:47",
+                     "tv":  "02:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:51",
                      "ultimo":  "10:15",
                      "tv":  "01:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  94.48,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:01",
+                     "ultimo":  "10:46",
+                     "tv":  "01:22:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -255,21 +270,6 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "10:24",
                      "tv":  "01:10:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  50.84,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "08:50",
-                     "tv":  "00:48:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -564,6 +564,15 @@ window.PAINEL = {
                          "dur":  "00:18:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "DROGARIA TRIUNFO SAO JOSE LTDA",
+                         "mun":  "PEDREIRA",
+                         "in":  "09:53:21",
+                         "out":  "10:47:39",
+                         "km":  1.19,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "AMAURI DE SOUZA JUNIOR",
                          "mun":  "SAO CARLOS",
@@ -616,6 +625,15 @@ window.PAINEL = {
                          "out":  "08:50:29",
                          "km":  50.84,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ALTO GIRO SUPERMERCADO LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "10:10:38",
+                         "out":  "10:46:10",
+                         "km":  43.64,
+                         "dur":  "00:34:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -732,7 +750,7 @@ window.PAINEL = {
                         "obs":  "reunião Eduardo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:24:45"
+                        "tempo":  "02:39:46"
                     },
                     {
                         "nome":  "Mariangela",
@@ -740,7 +758,7 @@ window.PAINEL = {
                         "obs":  "rede Maximo (pedidos da  parte de higiene pessoal)",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:26"
+                        "tempo":  "00:54:27"
                     }
                 ],
     "semped":  [
@@ -769,6 +787,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "ALTO GIRO SUPERMERCADO LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "EDNEI SCURACHIO JUNIOR",
                        "mun":  "SAO CARLOS",
@@ -780,85 +804,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:45:27"
+                         "tempo":  "01:00:26"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:39:25"
+                         "tempo":  "00:54:24"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:34:30"
+                         "tempo":  "00:49:29"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:20:32"
+                         "tempo":  "00:35:31"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM. IMP. PRODS. ALIMENTICIOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:26:15"
+                         "tempo":  "00:41:14"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "02:32:02"
+                         "tempo":  "02:47:01"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "DROGARIA TRIUNFO SAO JOSE LTDA",
-                         "mun":  "PEDREIRA",
-                         "tempo":  "00:45:54"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:10:55"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SABRINA APARECIDA PRADO SILVA SUP. LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:21:49"
+                         "tempo":  "00:36:48"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "BUENO",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:08:29"
+                         "tempo":  "00:23:28"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:25:21"
+                         "tempo":  "00:40:20"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VITORIA MAX SUPERMERCADOS EIRELI-EPP.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:09:59"
+                         "tempo":  "00:24:58"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "JOAO MARIA CAVALCANTE FONSECA ME",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:23:46"
+                         "tempo":  "00:38:45"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "LUCIANA MARQUES DA SILVA BURI",
                          "mun":  "BURI",
-                         "tempo":  "00:30:54"
+                         "tempo":  "00:45:53"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "ALTO GIRO SUPERMERCADO LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:28:37"
+                         "nome":  "Castro",
+                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                         "mun":  "VARZEA PAULISTA",
+                         "tempo":  "00:13:35"
                      }
                  ],
     "hist":  [
@@ -969,8 +993,8 @@ window.PAINEL = {
                  ],
                  [
                      "18/06",
-                     31,
-                     5
+                     33,
+                     6
                  ]
              ],
     "historico":  {
@@ -7516,7 +7540,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-18":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -7612,10 +7636,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  19.1,
-                                                       "tv":  70
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  20.29,
+                                                       "tv":  124
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -7663,6 +7687,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  94.48,
+                                                       "tv":  82
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -7670,15 +7703,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  23.42,
                                                        "tv":  70
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  50.84,
-                                                       "tv":  48
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -7891,6 +7915,13 @@ window.PAINEL = {
                                                          "tv":  18
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "DROGARIA TRIUNFO SAO JOSE LTDA",
+                                                         "p":  1,
+                                                         "km":  1.19,
+                                                         "tv":  54
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "AMAURI DE SOUZA JUNIOR",
                                                          "p":  1,
@@ -7931,6 +7962,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  50.84,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "ALTO GIRO SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  43.64,
+                                                         "tv":  34
                                                      },
                                                      {
                                                          "n":  "Eugenio",

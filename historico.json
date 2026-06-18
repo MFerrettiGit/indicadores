@@ -6541,7 +6541,7 @@
                                ]
                    },
     "2026-06-18":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -6637,10 +6637,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  19.1,
-                                     "tv":  70
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  20.29,
+                                     "tv":  124
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -6688,6 +6688,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  94.48,
+                                     "tv":  82
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -6695,15 +6704,6 @@
                                      "pe":  2,
                                      "km":  23.42,
                                      "tv":  70
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  50.84,
-                                     "tv":  48
                                  },
                                  {
                                      "nome":  "Alan",
@@ -6916,6 +6916,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "DROGARIA TRIUNFO SAO JOSE LTDA",
+                                       "p":  1,
+                                       "km":  1.19,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "AMAURI DE SOUZA JUNIOR",
                                        "p":  1,
@@ -6956,6 +6963,13 @@
                                        "p":  1,
                                        "km":  50.84,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ALTO GIRO SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  43.64,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Eugenio",
