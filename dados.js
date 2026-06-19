@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -464,6 +464,14 @@ window.PAINEL = {
                         "tempo":  "19:26:21"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Outro",
+                        "obs":  "preenchimento de cadastros rede estrela do lar ( preciso entregar agora de manhã) agradeço a compreensão",
+                        "inicio":  "07:48",
+                        "final":  "09:03",
+                        "tempo":  "01:14:51"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
@@ -472,20 +480,12 @@ window.PAINEL = {
                         "tempo":  "00:18:02"
                     },
                     {
-                        "nome":  "Mariangela",
-                        "tipo":  "Outro",
-                        "obs":  "preenchimento de cadastros rede estrela do lar ( preciso entregar agora de manhã) agradeço a compreensão",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:05:47"
-                    },
-                    {
                         "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:42"
+                        "tempo":  "01:09:48"
                     },
                     {
                         "nome":  "Luis",
@@ -493,7 +493,7 @@ window.PAINEL = {
                         "obs":  "Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:45"
+                        "tempo":  "00:54:51"
                     },
                     {
                         "nome":  "Fernando",
@@ -501,7 +501,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:55"
+                        "tempo":  "00:46:01"
                     }
                 ],
     "semped":  [
@@ -529,91 +529,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:45:13"
+                         "tempo":  "01:00:18"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:50:21"
+                         "tempo":  "02:05:26"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:03:43"
+                         "tempo":  "00:18:48"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:06:59"
+                         "tempo":  "00:22:04"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:33:13"
+                         "tempo":  "00:48:18"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:42:42"
+                         "tempo":  "01:57:47"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:23:10"
+                         "tempo":  "00:38:15"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:30:50"
+                         "tempo":  "00:45:55"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "00:44:33"
+                         "tempo":  "00:59:38"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:22:11"
+                         "tempo":  "00:37:16"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:32:00"
+                         "tempo":  "00:47:05"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:23:33"
+                         "tempo":  "00:38:38"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCEARIA LOPES LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:19:22"
+                         "tempo":  "00:34:27"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:17:24"
+                         "tempo":  "00:32:29"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:05:32"
+                         "tempo":  "00:20:37"
                      }
                  ],
     "hist":  [
@@ -8250,7 +8250,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
