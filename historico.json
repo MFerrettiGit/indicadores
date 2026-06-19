@@ -7520,8 +7520,26 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  33.92,
+                                     "tv":  333
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  77.68,
+                                     "tv":  324
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -7530,15 +7548,6 @@
                                      "pe":  0,
                                      "km":  49.62,
                                      "tv":  412
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  31.09,
-                                     "tv":  309
                                  },
                                  {
                                      "nome":  "Debora",
@@ -7557,15 +7566,6 @@
                                      "pe":  0,
                                      "km":  15.66,
                                      "tv":  363
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  73.64,
-                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Aline",
@@ -7839,6 +7839,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  2.83,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -7900,6 +7907,13 @@
                                        "p":  1,
                                        "km":  3.1,
                                        "tv":  143
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.04,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Silmara",
