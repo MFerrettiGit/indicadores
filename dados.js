@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -49,6 +49,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  64.23,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:03",
+                     "ultimo":  "14:34",
+                     "tv":  "05:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "13:17",
                      "tv":  "05:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  53.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:03",
-                     "ultimo":  "12:28",
-                     "tv":  "04:38:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -225,8 +225,8 @@ window.PAINEL = {
                      "primeiro":  "10:54",
                      "ultimo":  "13:15",
                      "tv":  "02:12:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -256,6 +256,21 @@ window.PAINEL = {
                      "ultimo":  "11:20",
                      "tv":  "02:23:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  11.89,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:33",
+                     "ultimo":  "14:26",
+                     "tv":  "02:40:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "11:39",
                      "tv":  "02:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  7.12,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:33",
-                     "ultimo":  "12:05",
-                     "tv":  "01:43:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "12:28:27",
                          "km":  6.16,
                          "dur":  "01:02:00"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
+                         "mun":  "SUMARE",
+                         "in":  "13:50:40",
+                         "out":  "14:34:34",
+                         "km":  10.54,
+                         "dur":  "00:43:00"
                      },
                      {
                          "nome":  "Debora",
@@ -834,6 +843,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:29:14",
+                         "out":  "14:26:21",
+                         "km":  4.77,
+                         "dur":  "00:57:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
@@ -1032,6 +1050,14 @@ window.PAINEL = {
                         "tempo":  "00:32:38"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Ituverava a Miguelopolis",
+                        "inicio":  "14:00",
+                        "final":  "14:31",
+                        "tempo":  "00:30:19"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1141,7 +1167,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:01:13"
+                        "tempo":  "06:16:16"
                     },
                     {
                         "nome":  "Lucas",
@@ -1149,7 +1175,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:19:46"
+                        "tempo":  "03:34:49"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1157,7 +1183,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:47"
+                        "tempo":  "00:52:50"
                     },
                     {
                         "nome":  "Evandro",
@@ -1165,15 +1191,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:09"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Ituverava a Miguelopolis",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:24:06"
+                        "tempo":  "00:48:12"
                     }
                 ],
     "semped":  [
@@ -1262,6 +1280,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "SOLDIE COMERCIO DE PRODUTOS ALIMENTICIOS",
                        "mun":  "ARARAS",
@@ -1279,79 +1303,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "04:24:47"
+                         "tempo":  "04:39:47"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:16:51"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:33:28"
+                         "tempo":  "00:31:51"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:56:06"
+                         "tempo":  "01:11:06"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:06:07"
+                         "tempo":  "01:21:07"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:27:59"
+                         "tempo":  "00:42:59"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:19:15"
+                         "tempo":  "01:34:15"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO STABILE LTDA",
+                         "mun":  "MIGUELOPOLIS",
+                         "tempo":  "00:07:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:15:00"
+                         "tempo":  "00:30:00"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:36:54"
+                         "tempo":  "00:51:54"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:35:39"
+                         "tempo":  "00:50:39"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:47:54"
+                         "tempo":  "01:02:54"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "02:44:11"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:54:54"
+                         "tempo":  "02:59:11"
                      }
                  ],
     "hist":  [
@@ -1462,8 +1480,8 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     66,
-                     17
+                     68,
+                     18
                  ]
              ],
     "historico":  {
@@ -8988,7 +9006,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9018,6 +9036,15 @@ window.PAINEL = {
                                                        "tv":  281
                                                    },
                                                    {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  64.23,
+                                                       "tv":  321
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -9034,15 +9061,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  13.16,
                                                        "tv":  305
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  53.69,
-                                                       "tv":  278
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -9144,6 +9162,15 @@ window.PAINEL = {
                                                        "tv":  143
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  11.89,
+                                                       "tv":  160
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -9169,15 +9196,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  68.39,
                                                        "tv":  174
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  7.12,
-                                                       "tv":  103
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -9228,6 +9246,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.16,
                                                          "tv":  62
+                                                     },
+                                                     {
+                                                         "n":  "Aline",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
+                                                         "p":  1,
+                                                         "km":  10.54,
+                                                         "tv":  43
                                                      },
                                                      {
                                                          "n":  "Debora",
@@ -9571,6 +9596,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.01,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  0,
+                                                         "km":  4.77,
+                                                         "tv":  57
                                                      },
                                                      {
                                                          "n":  "Eugenio",
