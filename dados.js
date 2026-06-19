@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  49.62,
+                     "km":  54.1,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  49.21,
+                     "km":  83.74,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:07",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  38.24,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:23",
+                     "ultimo":  "16:41",
+                     "tv":  "05:54:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -180,21 +195,6 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "14:20",
                      "tv":  "03:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  35.32,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:23",
-                     "ultimo":  "14:58",
-                     "tv":  "04:37:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "16:36",
                      "tv":  "05:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "15:14",
                      "tv":  "02:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -805,6 +805,15 @@ window.PAINEL = {
                          "out":  "14:58:02",
                          "km":  14.34,
                          "dur":  "01:53:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
+                         "mun":  "AMPARO",
+                         "in":  "15:24:03",
+                         "out":  "16:41:44",
+                         "km":  2.92,
+                         "dur":  "01:17:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -1379,7 +1388,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:34:58"
+                        "tempo":  "05:50:03"
                     },
                     {
                         "nome":  "Castro",
@@ -1387,7 +1396,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:38:33"
+                        "tempo":  "01:53:38"
                     },
                     {
                         "nome":  "Karina",
@@ -1395,7 +1404,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:17"
+                        "tempo":  "01:34:22"
                     },
                     {
                         "nome":  "Luis",
@@ -1403,7 +1412,23 @@ window.PAINEL = {
                         "obs":  "Miguelopolis a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:36"
+                        "tempo":  "01:05:41"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "antonelli e popular",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:55"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedidos rede cidade",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:51"
                     }
                 ],
     "semped":  [
@@ -1539,31 +1564,31 @@ window.PAINEL = {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:21:05"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
-                         "mun":  "AMPARO",
-                         "tempo":  "01:15:03"
+                         "tempo":  "03:36:08"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "01:49:03"
+                         "tempo":  "02:04:06"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "MERCEARIA 3M LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:36:29"
+                         "tempo":  "00:51:32"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MERCADO DIC LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:09:23"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:02:52"
+                         "tempo":  "03:17:55"
                      }
                  ],
     "hist":  [
@@ -1674,7 +1699,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     88,
+                     89,
                      22
                  ]
              ],
@@ -9200,7 +9225,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -9235,7 +9260,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  49.62,
+                                                       "km":  54.1,
                                                        "tv":  412
                                                    },
                                                    {
@@ -9253,7 +9278,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  49.21,
+                                                       "km":  83.74,
                                                        "tv":  415
                                                    },
                                                    {
@@ -9293,6 +9318,15 @@ window.PAINEL = {
                                                        "tv":  390
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  38.24,
+                                                       "tv":  354
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -9309,15 +9343,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  37.75,
                                                        "tv":  182
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  35.32,
-                                                       "tv":  277
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -9762,6 +9787,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  14.34,
                                                          "tv":  113
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.92,
+                                                         "tv":  77
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",

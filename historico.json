@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -7555,7 +7555,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  49.62,
+                                     "km":  54.1,
                                      "tv":  412
                                  },
                                  {
@@ -7573,7 +7573,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  49.21,
+                                     "km":  83.74,
                                      "tv":  415
                                  },
                                  {
@@ -7613,6 +7613,15 @@
                                      "tv":  390
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  38.24,
+                                     "tv":  354
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -7629,15 +7638,6 @@
                                      "pe":  3,
                                      "km":  37.75,
                                      "tv":  182
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  35.32,
-                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8082,6 +8082,13 @@
                                        "p":  1,
                                        "km":  14.34,
                                        "tv":  113
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.92,
+                                       "tv":  77
                                    },
                                    {
                                        "n":  "Sao Carlos",
