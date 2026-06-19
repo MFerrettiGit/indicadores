@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -64,6 +64,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  12.25,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:11",
+                     "ultimo":  "12:01",
+                     "tv":  "04:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "11:08",
                      "tv":  "03:36:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  7.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:11",
-                     "ultimo":  "11:10",
-                     "tv":  "03:45:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  10.62,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:31",
+                     "ultimo":  "12:04",
+                     "tv":  "02:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -181,22 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:37",
                      "tv":  "02:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  9.28,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:31",
-                     "ultimo":  "11:14",
-                     "tv":  "02:30:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  7.12,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:33",
+                     "ultimo":  "12:05",
+                     "tv":  "01:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "11:33",
                      "tv":  "02:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  3.11,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:33",
-                     "ultimo":  "10:07",
-                     "tv":  "00:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  3.64,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  2,
+                     "km":  5.32,
+                     "semPed":  1,
+                     "perc":  50,
                      "primeiro":  "08:36",
-                     "ultimo":  "09:41",
-                     "tv":  "01:04:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:00",
+                     "tv":  "03:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  7.56,
+                     "visitas":  2,
+                     "km":  15.11,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:39",
-                     "ultimo":  "10:54",
-                     "tv":  "01:15:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:58",
+                     "tv":  "01:56:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -510,6 +510,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "11:24:29",
+                         "out":  "12:01:25",
+                         "km":  4.33,
+                         "dur":  "00:36:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO MAIRINQUE LTDA.",
                          "mun":  "MAIRINQUE",
@@ -636,6 +645,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MM MERCADO PEREIRA BATISTA LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "11:39:18",
+                         "out":  "12:04:58",
+                         "km":  1.34,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                          "mun":  "CAMPINAS",
@@ -706,6 +724,15 @@ window.PAINEL = {
                          "out":  "10:07:56",
                          "km":  1.35,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:14:40",
+                         "out":  "12:05:49",
+                         "km":  4.01,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -789,6 +816,15 @@ window.PAINEL = {
                          "dur":  "01:15:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "11:16:35",
+                         "out":  "11:58:19",
+                         "km":  7.55,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
@@ -796,6 +832,15 @@ window.PAINEL = {
                          "out":  "09:41:12",
                          "km":  0,
                          "dur":  "01:04:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "09:51:52",
+                         "out":  "12:00:48",
+                         "km":  1.68,
+                         "dur":  "02:08:00"
                      }
                  ],
     "eventos":  [
@@ -877,7 +922,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:31:14"
+                        "tempo":  "03:46:15"
                     },
                     {
                         "nome":  "Lucas",
@@ -885,7 +930,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:47"
+                        "tempo":  "01:04:48"
                     },
                     {
                         "nome":  "Vinicius",
@@ -893,7 +938,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:33"
+                        "tempo":  "00:31:34"
                     },
                     {
                         "nome":  "Debora",
@@ -901,7 +946,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:39"
+                        "tempo":  "00:29:40"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:44"
                     }
                 ],
     "semped":  [
@@ -954,6 +1007,12 @@ window.PAINEL = {
                        "obs":  "cliente já fez pedido de Atacado."
                    },
                    {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "merchandising"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                        "mun":  "LOUVEIRA",
@@ -972,10 +1031,22 @@ window.PAINEL = {
                        "obs":  "Prospecção"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "SOLDIE COMERCIO DE PRODUTOS ALIMENTICIOS",
                        "mun":  "ARARAS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "MM MERCADO PEREIRA BATISTA LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
@@ -983,79 +1054,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:54:50"
+                         "tempo":  "02:09:50"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:28:48"
+                         "tempo":  "00:43:48"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:25:54"
+                         "tempo":  "00:40:54"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:20:58"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:29:42"
+                         "tempo":  "00:35:58"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:25:59"
+                         "tempo":  "00:40:59"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VINICIUS ORSINE YAMADA",
                          "mun":  "ITUVERAVA",
-                         "tempo":  "00:19:12"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MM MERCADO PEREIRA BATISTA LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:14:53"
+                         "tempo":  "00:34:12"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:07:09"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "02:02:19"
+                         "tempo":  "00:22:09"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:14:14"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:39:31"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:37:36"
+                         "tempo":  "00:29:14"
                      }
                  ],
     "hist":  [
@@ -1166,8 +1207,8 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     50,
-                     13
+                     55,
+                     16
                  ]
              ],
     "historico":  {
@@ -8692,7 +8733,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8731,6 +8772,15 @@ window.PAINEL = {
                                                        "tv":  236
                                                    },
                                                    {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  12.25,
+                                                       "tv":  261
+                                                   },
+                                                   {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
@@ -8738,15 +8788,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  47.53,
                                                        "tv":  216
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  7.92,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -8785,6 +8826,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  10.62,
+                                                       "tv":  175
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -8801,15 +8851,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  20.98,
                                                        "tv":  164
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  9.28,
-                                                       "tv":  150
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -8866,6 +8907,15 @@ window.PAINEL = {
                                                        "tv":  174
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  7.12,
+                                                       "tv":  103
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -8873,15 +8923,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  19.07,
                                                        "tv":  163
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  3.11,
-                                                       "tv":  52
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -8896,19 +8937,19 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  1,
-                                                       "km":  3.64,
-                                                       "tv":  64
+                                                       "km":  5.32,
+                                                       "tv":  192
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  7.56,
-                                                       "tv":  75
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  15.11,
+                                                       "tv":  116
                                                    }
                                                ],
                                          "cli":  [
@@ -9025,6 +9066,13 @@ window.PAINEL = {
                                                          "tv":  55
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                                                         "p":  1,
+                                                         "km":  4.33,
+                                                         "tv":  36
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                                          "p":  1,
@@ -9123,6 +9171,13 @@ window.PAINEL = {
                                                          "tv":  51
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MM MERCADO PEREIRA BATISTA LTDA",
+                                                         "p":  0,
+                                                         "km":  1.34,
+                                                         "tv":  25
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                                                          "p":  0,
@@ -9177,6 +9232,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.35,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  4.01,
+                                                         "tv":  51
                                                      },
                                                      {
                                                          "n":  "Eugenio",
@@ -9242,11 +9304,25 @@ window.PAINEL = {
                                                          "tv":  75
                                                      },
                                                      {
+                                                         "n":  "Mariangela",
+                                                         "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
+                                                         "p":  1,
+                                                         "km":  7.55,
+                                                         "tv":  41
+                                                     },
+                                                     {
                                                          "n":  "Nelson",
                                                          "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  64
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                                         "p":  0,
+                                                         "km":  1.68,
+                                                         "tv":  128
                                                      }
                                                  ]
                                      }
