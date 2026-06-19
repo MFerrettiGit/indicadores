@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7559,6 +7559,15 @@
                                      "tv":  80
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  33.08,
+                                     "tv":  159
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -7566,15 +7575,6 @@
                                      "pe":  0,
                                      "km":  43.41,
                                      "tv":  45
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  8.39,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -7631,6 +7631,15 @@
                                      "tv":  72
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  38.62,
+                                     "tv":  79
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -7638,15 +7647,6 @@
                                      "pe":  1,
                                      "km":  5.16,
                                      "tv":  53
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.55,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Luis",
@@ -7685,6 +7685,15 @@
                                      "tv":  40
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  65.06,
+                                     "tv":  71
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -7703,30 +7712,21 @@
                                      "tv":  51
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  3.64,
+                                     "tv":  64
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  27.43,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  29,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  3.64,
                                      "tv":  0
                                  },
                                  {
@@ -7740,6 +7740,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  24.69,
+                                       "tv":  159
+                                   },
                                    {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
@@ -7804,6 +7811,13 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "POUPE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  38.07,
+                                       "tv":  79
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J L DAOLIO E CIA LTDA",
                                        "p":  0,
@@ -7846,11 +7860,25 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO DO FRADE LTDA.",
+                                       "p":  0,
+                                       "km":  36.06,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCEARIA LOPES LTDA",
                                        "p":  1,
                                        "km":  1.66,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  64
                                    }
                                ]
                    }
