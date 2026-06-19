@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -15,8 +15,8 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "12:24",
                      "tv":  "04:28:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:28",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "13:15",
                      "tv":  "02:12:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "11:48",
                      "tv":  "03:01:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -315,8 +315,8 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "12:05",
                      "tv":  "01:43:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -345,8 +345,8 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "12:00",
                      "tv":  "03:12:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -925,6 +925,22 @@ window.PAINEL = {
                         "tempo":  "00:46:31"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa barbara",
+                        "inicio":  "12:36",
+                        "final":  "13:35",
+                        "tempo":  "00:58:37"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:31",
+                        "final":  "13:33",
+                        "tempo":  "01:01:36"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Em Viagem",
                         "obs":  "ilhabela",
@@ -965,12 +981,36 @@ window.PAINEL = {
                         "tempo":  "00:56:38"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:26",
+                        "final":  "13:26",
+                        "tempo":  "01:00:14"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:27",
+                        "final":  "13:28",
+                        "tempo":  "01:00:50"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "11:40",
                         "final":  "12:39",
                         "tempo":  "00:58:59"
+                    },
+                    {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:26",
+                        "final":  "13:26",
+                        "tempo":  "01:00:20"
                     },
                     {
                         "nome":  "Vinicius",
@@ -1018,7 +1058,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:01:11"
+                        "tempo":  "05:16:11"
                     },
                     {
                         "nome":  "Lucas",
@@ -1026,47 +1066,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:19:44"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:46"
-                    },
-                    {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:45"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:57:26"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:26"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "santa barbara",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:15"
+                        "tempo":  "02:34:44"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1074,7 +1074,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:47"
+                        "tempo":  "00:58:47"
                     },
                     {
                         "nome":  "Alan",
@@ -1082,7 +1082,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:05"
+                        "tempo":  "00:54:05"
                     },
                     {
                         "nome":  "Karina",
@@ -1090,7 +1090,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:41"
+                        "tempo":  "00:43:41"
                     },
                     {
                         "nome":  "Costa",
@@ -1098,7 +1098,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:46"
+                        "tempo":  "00:35:46"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1106,7 +1106,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:08"
+                        "tempo":  "00:30:08"
                     },
                     {
                         "nome":  "Silmara",
@@ -1114,7 +1114,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:14"
+                        "tempo":  "00:20:14"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:06"
                     }
                 ],
     "semped":  [
@@ -1220,37 +1228,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "03:24:47"
+                         "tempo":  "03:39:47"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:41:53"
+                         "tempo":  "00:56:53"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:55:51"
+                         "tempo":  "02:10:51"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:11:06"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:06:07"
+                         "tempo":  "00:21:07"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:19:15"
+                         "tempo":  "00:34:15"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:02:54"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:44:11"
+                         "tempo":  "01:59:11"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:09:54"
                      }
                  ],
     "hist":  [
@@ -8887,7 +8913,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
