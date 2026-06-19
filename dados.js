@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "09:21",
                      "tv":  "02:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  40.55,
+                     "visitas":  3,
+                     "km":  42.15,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "08:02",
-                     "ultimo":  "09:22",
-                     "tv":  "00:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:37",
+                     "tv":  "01:52:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -537,6 +537,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
+                         "mun":  "VALINHOS",
+                         "in":  "09:32:34",
+                         "out":  "10:37:15",
+                         "km":  1.6,
+                         "dur":  "01:04:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
                          "mun":  "PIRACICABA",
@@ -654,7 +663,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:01:05"
+                        "tempo":  "02:16:10"
                     },
                     {
                         "nome":  "Luis",
@@ -662,7 +671,7 @@ window.PAINEL = {
                         "obs":  "Franca a Miguelopolis",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:36"
+                        "tempo":  "00:47:41"
                     }
                 ],
     "semped":  [
@@ -714,103 +723,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:24:51"
+                         "tempo":  "00:39:54"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:58:49"
+                         "tempo":  "01:13:52"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "00:12:26"
+                         "tempo":  "00:27:29"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:00:43"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:21:02"
+                         "tempo":  "00:36:05"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:58:12"
+                         "tempo":  "01:13:15"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:09:25"
+                         "tempo":  "00:24:28"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:00:02"
+                         "tempo":  "00:15:05"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
-                         "tempo":  "00:32:49"
+                         "tempo":  "00:47:52"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "00:39:26"
+                         "tempo":  "00:54:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "FARMACIA DROGA PEPE",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:01:06"
+                         "tempo":  "00:16:09"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:18:51"
+                         "tempo":  "00:33:54"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO SAO PEDRO DE CAMPINAS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:54:18"
+                         "tempo":  "01:09:21"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:33:52"
+                         "tempo":  "00:48:55"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:43:52"
+                         "tempo":  "00:58:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:32:20"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "ZARELLI SUPERMERCADOS LTDA",
-                         "mun":  "VALINHOS",
-                         "tempo":  "00:51:38"
+                         "tempo":  "00:47:23"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:44:44"
+                         "tempo":  "00:59:47"
                      }
                  ],
     "hist":  [
@@ -921,7 +930,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     26,
+                     27,
                      8
                  ]
              ],
@@ -8447,7 +8456,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8597,10 +8606,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  40.55,
-                                                       "tv":  48
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  42.15,
+                                                       "tv":  112
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -8799,6 +8808,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  20.82,
                                                          "tv":  33
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.6,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Cominato",
