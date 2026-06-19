@@ -7520,25 +7520,25 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  52.69,
-                                     "tv":  125
+                                     "km":  70.54,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  22.8,
-                                     "tv":  144
+                                     "km":  43.22,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -7571,19 +7571,19 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  4.12,
-                                     "tv":  170
+                                     "km":  7.92,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  43.41,
-                                     "tv":  45
+                                     "km":  79.2,
+                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -7613,6 +7613,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.28,
+                                     "tv":  150
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -7631,22 +7640,13 @@
                                      "tv":  140
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.72,
-                                     "tv":  99
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  38.62,
-                                     "tv":  79
+                                     "km":  45.14,
+                                     "tv":  137
                                  },
                                  {
                                      "nome":  "Luis",
@@ -7670,10 +7670,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  42.15,
-                                     "tv":  112
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  45.71,
+                                     "tv":  143
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -7797,6 +7797,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  20.42,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -7811,6 +7818,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  17.85,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -7818,11 +7832,25 @@
                                        "tv":  170
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  3.8,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
                                        "km":  43.41,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  35.79,
+                                       "tv":  116
                                    },
                                    {
                                        "n":  "Costa",
@@ -7844,6 +7872,13 @@
                                        "p":  0,
                                        "km":  38.07,
                                        "tv":  79
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "POUPE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  6.52,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Rachel",
@@ -7874,6 +7909,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "FARMACIA DROGA PEPE",
+                                       "p":  1,
+                                       "km":  0.56,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                                        "p":  0,
@@ -7900,6 +7942,13 @@
                                        "p":  1,
                                        "km":  1.6,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  3.56,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Cominato",
