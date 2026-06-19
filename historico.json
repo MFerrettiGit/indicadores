@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -7546,7 +7546,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  77.68,
+                                     "km":  83.55,
                                      "tv":  324
                                  },
                                  {
@@ -7607,10 +7607,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  4.12,
+                                     "tv":  390
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -7667,6 +7667,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  29.72,
+                                     "tv":  337
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -7683,15 +7692,6 @@
                                      "pe":  4,
                                      "km":  86.29,
                                      "tv":  334
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  22.89,
-                                     "tv":  312
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -7851,6 +7851,13 @@
                                        "p":  1,
                                        "km":  2.83,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  4.12,
+                                       "tv":  390
                                    },
                                    {
                                        "n":  "Eliana",
@@ -8145,6 +8152,13 @@
                                        "p":  1,
                                        "km":  1.16,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1,
+                                       "km":  6.83,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Castro",

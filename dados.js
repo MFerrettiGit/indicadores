@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  77.68,
+                     "km":  83.55,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:51",
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  4.12,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "09:59",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:29",
+                     "tv":  "06:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -241,7 +241,22 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  29.72,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:11",
+                     "ultimo":  "16:36",
+                     "tv":  "05:37:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -272,21 +287,6 @@ window.PAINEL = {
                      "tv":  "05:34:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  22.89,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:11",
-                     "ultimo":  "15:53",
-                     "tv":  "05:12:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -508,6 +508,15 @@ window.PAINEL = {
                          "out":  "16:02:33",
                          "km":  2.83,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "09:59:21",
+                         "out":  "16:29:48",
+                         "km":  4.12,
+                         "dur":  "06:30:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -886,6 +895,15 @@ window.PAINEL = {
                          "out":  "15:53:36",
                          "km":  1.16,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:11:19",
+                         "out":  "16:36:40",
+                         "km":  6.83,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1285,6 +1303,14 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Fernando",
+                        "tipo":  "Outro",
+                        "obs":  "feriado em Ribeirão Preto",
+                        "inicio":  "08:23",
+                        "final":  "16:25",
+                        "tempo":  "08:02:11"
+                    },
+                    {
+                        "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:56",
@@ -1348,20 +1374,12 @@ window.PAINEL = {
                         "tempo":  "00:28:53"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Outro",
-                        "obs":  "feriado em Ribeirão Preto",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "08:01:29"
-                    },
-                    {
                         "nome":  "Lucas",
                         "tipo":  "Manutencao",
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:20:02"
+                        "tempo":  "05:34:58"
                     },
                     {
                         "nome":  "Castro",
@@ -1369,7 +1387,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:23:37"
+                        "tempo":  "01:38:33"
                     },
                     {
                         "nome":  "Karina",
@@ -1377,7 +1395,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:21"
+                        "tempo":  "01:19:17"
                     },
                     {
                         "nome":  "Luis",
@@ -1385,7 +1403,7 @@ window.PAINEL = {
                         "obs":  "Miguelopolis a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:40"
+                        "tempo":  "00:50:36"
                     }
                 ],
     "semped":  [
@@ -1430,6 +1448,12 @@ window.PAINEL = {
                        "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                        "mun":  "CARAGUATATUBA",
                        "obs":  "E.C litoral"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
                    },
                    {
                        "nome":  "Rachel",
@@ -1512,46 +1536,34 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "06:24:48"
-                     },
-                     {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:06:08"
+                         "tempo":  "03:21:05"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:00:06"
+                         "tempo":  "01:15:03"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "01:34:06"
+                         "tempo":  "01:49:03"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "MERCEARIA 3M LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:21:32"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:12:50"
+                         "tempo":  "00:36:29"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:47:55"
+                         "tempo":  "03:02:52"
                      }
                  ],
     "hist":  [
@@ -1662,8 +1674,8 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     86,
-                     21
+                     88,
+                     22
                  ]
              ],
     "historico":  {
@@ -9188,7 +9200,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -9214,7 +9226,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  77.68,
+                                                       "km":  83.55,
                                                        "tv":  324
                                                    },
                                                    {
@@ -9275,10 +9287,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  4.12,
+                                                       "tv":  390
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -9335,6 +9347,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  29.72,
+                                                       "tv":  337
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -9351,15 +9372,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  86.29,
                                                        "tv":  334
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  22.89,
-                                                       "tv":  312
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -9519,6 +9531,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.83,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  0,
+                                                         "km":  4.12,
+                                                         "tv":  390
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -9813,6 +9832,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.16,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  6.83,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Castro",
