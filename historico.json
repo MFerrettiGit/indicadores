@@ -7520,8 +7520,17 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  31.09,
+                                     "tv":  309
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -7548,15 +7557,6 @@
                                      "pe":  0,
                                      "km":  46.97,
                                      "tv":  268
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  23.5,
-                                     "tv":  281
                                  },
                                  {
                                      "nome":  "Aline",
@@ -7676,6 +7676,15 @@
                                      "tv":  334
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  21.73,
+                                     "tv":  288
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -7694,15 +7703,6 @@
                                      "tv":  160
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  19.9,
-                                     "tv":  206
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -7710,6 +7710,15 @@
                                      "pe":  2,
                                      "km":  34.92,
                                      "tv":  181
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  59.14,
+                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -7728,15 +7737,6 @@
                                      "pe":  1,
                                      "km":  5.32,
                                      "tv":  192
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  15.11,
-                                     "tv":  116
                                  }
                              ],
                        "cli":  [
@@ -7823,6 +7823,13 @@
                                        "p":  1,
                                        "km":  3.17,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                       "p":  1,
+                                       "km":  7.59,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Eliana",
@@ -8222,6 +8229,13 @@
                                        "p":  1,
                                        "km":  7.55,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO ALCINDA LTDA",
+                                       "p":  1,
+                                       "km":  44.03,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Nelson",
