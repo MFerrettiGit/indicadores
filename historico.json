@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7625,10 +7625,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  35.54,
-                                     "tv":  167
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  37.75,
+                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -7935,6 +7935,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO TRES ESTRELAS LTDA.",
+                                       "p":  1,
+                                       "km":  2.21,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Luis",

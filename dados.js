@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  35.54,
+                     "visitas":  4,
+                     "km":  37.75,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:09",
-                     "ultimo":  "11:26",
-                     "tv":  "02:47:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:20",
+                     "tv":  "03:02:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -616,6 +616,15 @@ window.PAINEL = {
                          "out":  "11:26:58",
                          "km":  0,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO TRES ESTRELAS LTDA.",
+                         "mun":  "ARARAS",
+                         "in":  "14:04:53",
+                         "out":  "14:20:32",
+                         "km":  2.21,
+                         "dur":  "00:15:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1132,7 +1141,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:46:14"
+                        "tempo":  "06:01:13"
                     },
                     {
                         "nome":  "Lucas",
@@ -1140,7 +1149,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:04:47"
+                        "tempo":  "03:19:46"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1148,7 +1157,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:48"
+                        "tempo":  "00:37:47"
                     },
                     {
                         "nome":  "Evandro",
@@ -1156,7 +1165,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:10"
+                        "tempo":  "00:33:09"
                     },
                     {
                         "nome":  "Luis",
@@ -1164,7 +1173,7 @@ window.PAINEL = {
                         "obs":  "Ituverava a Miguelopolis",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:07"
+                        "tempo":  "00:24:06"
                     }
                 ],
     "semped":  [
@@ -1270,85 +1279,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "04:09:48"
+                         "tempo":  "04:24:47"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:01:52"
+                         "tempo":  "00:16:51"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:18:29"
+                         "tempo":  "00:33:28"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:41:07"
+                         "tempo":  "00:56:06"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:51:08"
+                         "tempo":  "01:06:07"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:13:00"
+                         "tempo":  "00:27:59"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:04:16"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "SUPERMERCADO TRES ESTRELAS LTDA.",
-                         "mun":  "ARARAS",
-                         "tempo":  "00:04:16"
+                         "tempo":  "01:19:15"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:00:01"
+                         "tempo":  "00:15:00"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:21:55"
+                         "tempo":  "00:36:54"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:20:40"
+                         "tempo":  "00:35:39"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:32:55"
+                         "tempo":  "00:47:54"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "02:29:12"
+                         "tempo":  "02:44:11"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:39:55"
+                         "tempo":  "00:54:54"
                      }
                  ],
     "hist":  [
@@ -1459,7 +1462,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     65,
+                     66,
                      17
                  ]
              ],
@@ -8985,7 +8988,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9090,10 +9093,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  35.54,
-                                                       "tv":  167
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  37.75,
+                                                       "tv":  182
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -9400,6 +9403,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERCADO TRES ESTRELAS LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.21,
+                                                         "tv":  15
                                                      },
                                                      {
                                                          "n":  "Luis",
