@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7541,6 +7541,15 @@
                                      "tv":  218
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  40.51,
+                                     "tv":  236
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -7557,15 +7566,6 @@
                                      "pe":  0,
                                      "km":  47.53,
                                      "tv":  216
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  36.77,
-                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -7613,6 +7613,24 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  35.54,
+                                     "tv":  167
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  20.98,
+                                     "tv":  164
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -7620,24 +7638,6 @@
                                      "pe":  3,
                                      "km":  9.28,
                                      "tv":  150
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  35.54,
-                                     "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  15.27,
-                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Maira",
@@ -7652,10 +7652,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  2.16,
-                                     "tv":  0
+                                     "km":  68.41,
+                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -7676,6 +7676,24 @@
                                      "tv":  143
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  68.39,
+                                     "tv":  174
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  19.07,
+                                     "tv":  163
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -7683,15 +7701,6 @@
                                      "pe":  1,
                                      "km":  31.87,
                                      "tv":  134
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  67.63,
-                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -7710,15 +7719,6 @@
                                      "pe":  2,
                                      "km":  22.04,
                                      "tv":  125
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  7.51,
-                                     "tv":  40
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -7767,6 +7767,13 @@
                                        "p":  1,
                                        "km":  1.96,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.74,
+                                       "tv":  121
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -7867,6 +7874,20 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SOLDIE COMERCIO DE PRODUTOS ALIMENTICIOS",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  23
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "IRACEMA LOPES DE AGUIAR RIBEIRO.",
+                                       "p":  0,
+                                       "km":  66.25,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "POUPE SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -7895,6 +7916,13 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO DUMARIA LTDA",
+                                       "p":  0,
+                                       "km":  5.71,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
                                        "p":  1,
@@ -7921,6 +7949,13 @@
                                        "p":  0,
                                        "km":  7.51,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO SAO PEDRO DE CAMPINAS LTDA",
+                                       "p":  1,
+                                       "km":  11.56,
+                                       "tv":  123
                                    },
                                    {
                                        "n":  "Castro",
@@ -7991,6 +8026,13 @@
                                        "p":  1,
                                        "km":  2.57,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ILHA CLEAN COMERCIO DE PRODUTOS DE LIMPE",
+                                       "p":  1,
+                                       "km":  0.76,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Lucas",
