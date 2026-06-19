@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "11:27",
                      "tv":  "03:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "12:30",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eugenio",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "11:58",
                      "tv":  "01:56:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -966,7 +966,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:16:11"
+                        "tempo":  "04:31:12"
                     },
                     {
                         "nome":  "Lucas",
@@ -974,7 +974,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:34:44"
+                        "tempo":  "01:49:45"
                     },
                     {
                         "nome":  "Vinicius",
@@ -982,7 +982,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:01:30"
+                        "tempo":  "01:16:31"
                     },
                     {
                         "nome":  "Rachel",
@@ -990,7 +990,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:40"
+                        "tempo":  "00:50:41"
                     },
                     {
                         "nome":  "Nelson",
@@ -998,7 +998,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:46"
+                        "tempo":  "00:28:47"
                     },
                     {
                         "nome":  "Eliana",
@@ -1006,7 +1006,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:45"
+                        "tempo":  "00:28:46"
                     },
                     {
                         "nome":  "Cominato",
@@ -1014,7 +1014,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:26"
+                        "tempo":  "00:27:27"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1022,7 +1022,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:26"
+                        "tempo":  "00:23:27"
                     },
                     {
                         "nome":  "Maira",
@@ -1030,7 +1030,23 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:15"
+                        "tempo":  "00:18:16"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:48"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:06"
                     }
                 ],
     "semped":  [
@@ -1136,43 +1152,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:39:49"
+                         "tempo":  "02:54:47"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:11:53"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:10:53"
+                         "tempo":  "01:25:51"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:21:04"
+                         "tempo":  "00:36:02"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:06:22"
+                         "tempo":  "00:21:20"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VINICIUS ORSINE YAMADA",
                          "mun":  "ITUVERAVA",
-                         "tempo":  "01:04:11"
+                         "tempo":  "01:19:09"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO E PADARIA ANDRADE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:01:46"
+                         "tempo":  "00:16:44"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:59:13"
+                         "tempo":  "01:14:11"
                      }
                  ],
     "hist":  [
@@ -8809,7 +8831,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
