@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -31,7 +31,22 @@ window.PAINEL = {
                      "ultimo":  "13:07",
                      "tv":  "04:41:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  13.16,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:11",
+                     "ultimo":  "13:17",
+                     "tv":  "05:05:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Evandro",
@@ -79,21 +94,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  12.25,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:11",
-                     "ultimo":  "12:01",
-                     "tv":  "04:21:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:50",
                      "ultimo":  "11:22",
                      "tv":  "02:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  10.62,
+                     "visitas":  5,
+                     "km":  19.23,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:31",
-                     "ultimo":  "12:04",
-                     "tv":  "02:55:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:17",
+                     "tv":  "03:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  68.41,
+                     "visitas":  2,
+                     "km":  70.33,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "10:54",
-                     "ultimo":  "11:27",
-                     "tv":  "00:32:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:15",
+                     "tv":  "02:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -546,6 +546,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "A.A. DE MELO",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "12:32:48",
+                         "out":  "13:17:53",
+                         "km":  0.91,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO MAIRINQUE LTDA.",
                          "mun":  "MAIRINQUE",
@@ -598,6 +607,15 @@ window.PAINEL = {
                          "out":  "11:27:19",
                          "km":  66.25,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "VINICIUS ORSINE YAMADA",
+                         "mun":  "ITUVERAVA",
+                         "in":  "11:34:59",
+                         "out":  "13:15:26",
+                         "km":  1.92,
+                         "dur":  "01:40:00"
                      },
                      {
                          "nome":  "Maira",
@@ -688,6 +706,15 @@ window.PAINEL = {
                          "out":  "12:04:58",
                          "km":  1.34,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO E PADARIA ANDRADE LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "12:37:24",
+                         "out":  "13:17:46",
+                         "km":  8.61,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Alan",
@@ -991,7 +1018,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:46:20"
+                        "tempo":  "05:01:11"
                     },
                     {
                         "nome":  "Lucas",
@@ -999,7 +1026,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:04:53"
+                        "tempo":  "02:19:44"
                     },
                     {
                         "nome":  "Nelson",
@@ -1007,7 +1034,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:55"
+                        "tempo":  "00:58:46"
                     },
                     {
                         "nome":  "Eliana",
@@ -1015,7 +1042,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:54"
+                        "tempo":  "00:58:45"
                     },
                     {
                         "nome":  "Cominato",
@@ -1023,7 +1050,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:35"
+                        "tempo":  "00:57:26"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1031,7 +1058,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:35"
+                        "tempo":  "00:53:26"
                     },
                     {
                         "nome":  "Maira",
@@ -1039,7 +1066,7 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:24"
+                        "tempo":  "00:48:15"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1047,7 +1074,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:56"
+                        "tempo":  "00:43:47"
                     },
                     {
                         "nome":  "Alan",
@@ -1055,7 +1082,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:14"
+                        "tempo":  "00:39:05"
                     },
                     {
                         "nome":  "Karina",
@@ -1063,7 +1090,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:50"
+                        "tempo":  "00:28:41"
                     },
                     {
                         "nome":  "Costa",
@@ -1071,7 +1098,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:55"
+                        "tempo":  "00:20:46"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1079,7 +1106,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:17"
+                        "tempo":  "00:15:08"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:14"
                     }
                 ],
     "semped":  [
@@ -1185,49 +1220,37 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "03:09:52"
+                         "tempo":  "03:24:47"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:26:58"
+                         "tempo":  "00:41:53"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:40:56"
+                         "tempo":  "01:55:51"
                      },
                      {
-                         "nome":  "Silmara",
-                         "razao":  "A.A. DE MELO",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:36:25"
+                         "nome":  "Vinicius",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:06:07"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:04:20"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "VINICIUS ORSINE YAMADA",
-                         "mun":  "ITUVERAVA",
-                         "tempo":  "01:34:14"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO E PADARIA ANDRADE LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:31:49"
+                         "tempo":  "00:19:15"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:29:16"
+                         "tempo":  "01:44:11"
                      }
                  ],
     "hist":  [
@@ -1338,7 +1361,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     60,
+                     63,
                      17
                  ]
              ],
@@ -8864,7 +8887,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -8883,6 +8906,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  23.5,
                                                        "tv":  281
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  13.16,
+                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Evandro",
@@ -8910,15 +8942,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  40.51,
                                                        "tv":  236
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  12.25,
-                                                       "tv":  261
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -8960,10 +8983,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  10.62,
-                                                       "tv":  175
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  19.23,
+                                                       "tv":  214
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -8996,10 +9019,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  68.41,
-                                                       "tv":  32
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  70.33,
+                                                       "tv":  132
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -9225,6 +9248,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "A.A. DE MELO",
+                                                         "p":  1,
+                                                         "km":  0.91,
+                                                         "tv":  44
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                                          "p":  1,
@@ -9265,6 +9295,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  66.25,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "VINICIUS ORSINE YAMADA",
+                                                         "p":  1,
+                                                         "km":  1.92,
+                                                         "tv":  100
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -9335,6 +9372,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.34,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO E PADARIA ANDRADE LTDA",
+                                                         "p":  1,
+                                                         "km":  8.61,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Alan",

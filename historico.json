@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -7539,6 +7539,15 @@
                                      "pe":  0,
                                      "km":  23.5,
                                      "tv":  281
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  13.16,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -7566,15 +7575,6 @@
                                      "pe":  0,
                                      "km":  40.51,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  12.25,
-                                     "tv":  261
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -7616,10 +7616,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  10.62,
-                                     "tv":  175
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  19.23,
+                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Costa",
@@ -7652,10 +7652,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  68.41,
-                                     "tv":  32
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  70.33,
+                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -7881,6 +7881,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  0.91,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
@@ -7921,6 +7928,13 @@
                                        "p":  0,
                                        "km":  66.25,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "VINICIUS ORSINE YAMADA",
+                                       "p":  1,
+                                       "km":  1.92,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Maira",
@@ -7991,6 +8005,13 @@
                                        "p":  0,
                                        "km":  1.34,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO E PADARIA ANDRADE LTDA",
+                                       "p":  1,
+                                       "km":  8.61,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Alan",
