@@ -7520,8 +7520,17 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  49.62,
+                                     "tv":  412
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -7530,6 +7539,15 @@
                                      "pe":  0,
                                      "km":  31.09,
                                      "tv":  309
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  49.21,
+                                     "tv":  415
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -7550,15 +7568,6 @@
                                      "tv":  308
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  46.97,
-                                     "tv":  268
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -7566,15 +7575,6 @@
                                      "pe":  0,
                                      "km":  64.23,
                                      "tv":  321
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  45.78,
-                                     "tv":  309
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -7652,10 +7652,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  70.33,
-                                     "tv":  132
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  103.58,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -7679,10 +7679,28 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  22.89,
+                                     "tv":  312
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  18.5,
+                                     "tv":  213
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  3,
-                                     "km":  21.73,
-                                     "tv":  288
+                                     "km":  39.94,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Karina",
@@ -7692,24 +7710,6 @@
                                      "pe":  2,
                                      "km":  103.43,
                                      "tv":  233
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  11.89,
-                                     "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  34.92,
-                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -7797,6 +7797,13 @@
                                        "tv":  73
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  3.43,
+                                       "tv":  106
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -7858,6 +7865,13 @@
                                        "p":  1,
                                        "km":  3.75,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.65,
+                                       "tv":  144
                                    },
                                    {
                                        "n":  "Evandro",
@@ -7979,6 +7993,13 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO STABILE LTDA",
+                                       "p":  1,
+                                       "km":  33.25,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "POUPE SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -8091,6 +8112,13 @@
                                        "tv":  82
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "MERCADO VIRACOPOS LTDA",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                        "p":  0,
@@ -8154,6 +8182,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  6.61,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "JOSE DIRCEU VILHENA DE MELO",
                                        "p":  1,
@@ -8173,6 +8208,13 @@
                                        "p":  1,
                                        "km":  3.05,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  5.02,
+                                       "tv":  99
                                    },
                                    {
                                        "n":  "Karina",
