@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7550,6 +7550,15 @@
                                      "tv":  162
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  47.53,
+                                     "tv":  216
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -7557,15 +7566,6 @@
                                      "pe":  0,
                                      "km":  36.77,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  33.08,
-                                     "tv":  159
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -7613,6 +7613,24 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  35.54,
+                                     "tv":  144
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  15.27,
+                                     "tv":  140
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -7620,24 +7638,6 @@
                                      "pe":  2,
                                      "km":  8.72,
                                      "tv":  99
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  27.31,
-                                     "tv":  68
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  9.31,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Maira",
@@ -7703,6 +7703,15 @@
                                      "tv":  52
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  22.04,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -7710,15 +7719,6 @@
                                      "pe":  0,
                                      "km":  7.51,
                                      "tv":  40
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  18.84,
-                                     "tv":  51
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -7733,10 +7733,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.56,
+                                     "tv":  75
                                  }
                              ],
                        "cli":  [
@@ -7746,6 +7746,13 @@
                                        "p":  1,
                                        "km":  24.69,
                                        "tv":  159
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
+                                       "p":  1,
+                                       "km":  14.45,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Debora",
@@ -7825,6 +7832,13 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "DIVALDO A ANTONELLI",
+                                       "p":  1,
+                                       "km":  8.23,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "POUPE SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -7837,6 +7851,13 @@
                                        "p":  0,
                                        "km":  3.94,
                                        "tv":  72
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
+                                       "p":  1,
+                                       "km":  5.96,
+                                       "tv":  68
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -7928,6 +7949,13 @@
                                        "p":  1,
                                        "km":  1.66,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                                       "p":  1,
+                                       "km":  3.2,
+                                       "tv":  74
                                    },
                                    {
                                        "n":  "Mariangela",
