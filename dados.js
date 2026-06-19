@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "08:26",
                      "tv":  "01:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "08:21",
                      "tv":  "01:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "08:17",
                      "tv":  "00:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -263,14 +263,29 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  7.51,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:11",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "08:52",
+                     "tv":  "00:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  1.76,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:33",
+                     "ultimo":  "08:50",
+                     "tv":  "00:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -298,21 +313,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:30",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:33",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -411,6 +411,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "VILA SUPERMERCADOS CAMPINAS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:11:29",
+                         "out":  "08:52:06",
+                         "km":  7.51,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                          "mun":  "LOUVEIRA",
@@ -418,6 +427,15 @@ window.PAINEL = {
                          "out":  "08:17:31",
                          "km":  19.73,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
+                         "mun":  "PIRACICABA",
+                         "in":  "08:33:42",
+                         "out":  "08:50:23",
+                         "km":  1.76,
+                         "dur":  "00:16:00"
                      }
                  ],
     "eventos":  [
@@ -459,7 +477,7 @@ window.PAINEL = {
                         "obs":  "preenchimento de cadastros rede estrela do lar ( preciso entregar agora de manhã) agradeço a compreensão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:44"
+                        "tempo":  "01:05:47"
                     },
                     {
                         "nome":  "Eduardo",
@@ -467,7 +485,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:39"
+                        "tempo":  "00:54:42"
                     },
                     {
                         "nome":  "Luis",
@@ -475,7 +493,7 @@ window.PAINEL = {
                         "obs":  "Radiador do carro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:42"
+                        "tempo":  "00:39:45"
                     },
                     {
                         "nome":  "Fernando",
@@ -483,15 +501,27 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:52"
+                        "tempo":  "00:30:55"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Alan",
+                       "razao":  "VILA SUPERMERCADOS CAMPINAS LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "merchandising e levantamento de pedido"
+                   },
                    {
                        "nome":  "Castro",
                        "razao":  "SUPERMERCADO LOUVEIRA LTDA.",
                        "mun":  "LOUVEIRA",
                        "obs":  "compras suspensa"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Comprador não pode me atender"
                    }
                ],
     "emvisita":  [
@@ -499,85 +529,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:30:12"
+                         "tempo":  "00:45:13"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:35:20"
+                         "tempo":  "01:50:21"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:43"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "CATO ANTONIALE",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:06:59"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:18:12"
+                         "tempo":  "00:33:13"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:27:41"
+                         "tempo":  "01:42:42"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:08:09"
+                         "tempo":  "00:23:10"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:15:49"
+                         "tempo":  "00:30:50"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "00:29:32"
+                         "tempo":  "00:44:33"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:07:10"
+                         "tempo":  "00:22:11"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:16:59"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "VILA SUPERMERCADOS CAMPINAS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:27:38"
+                         "tempo":  "00:32:00"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:08:32"
+                         "tempo":  "00:23:33"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCEARIA LOPES LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:04:21"
+                         "tempo":  "00:19:22"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:02:23"
+                         "tempo":  "00:17:24"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:05:25"
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:05:32"
                      }
                  ],
     "hist":  [
@@ -688,8 +724,8 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     6,
-                     1
+                     8,
+                     3
                  ]
              ],
     "historico":  {
@@ -8214,7 +8250,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8373,10 +8409,19 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  7.51,
+                                                       "tv":  40
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  1.76,
+                                                       "tv":  16
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -8394,15 +8439,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  29,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -8470,11 +8506,25 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
+                                                         "p":  0,
+                                                         "km":  7.51,
+                                                         "tv":  40
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                                          "p":  0,
                                                          "km":  19.73,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "D. NASTARO SUPERMERCADOS EIRELI",
+                                                         "p":  0,
+                                                         "km":  1.76,
+                                                         "tv":  16
                                                      }
                                                  ]
                                      }

@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7679,10 +7679,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  7.51,
+                                     "tv":  40
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  1.76,
+                                     "tv":  16
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -7700,15 +7709,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  29,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -7776,11 +7776,25 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
+                                       "p":  0,
+                                       "km":  7.51,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA.",
                                        "p":  0,
                                        "km":  19.73,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "D. NASTARO SUPERMERCADOS EIRELI",
+                                       "p":  0,
+                                       "km":  1.76,
+                                       "tv":  16
                                    }
                                ]
                    }
