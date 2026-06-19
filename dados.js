@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "10:10",
                      "tv":  "02:42:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -222,11 +222,11 @@ window.PAINEL = {
                      "km":  2.16,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "10:54",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -255,7 +255,37 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "10:37",
                      "tv":  "01:52:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  31.87,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:22",
+                     "ultimo":  "10:46",
+                     "tv":  "02:14:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  67.63,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:30",
+                     "ultimo":  "10:44",
+                     "tv":  "02:05:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,36 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "08:52",
                      "tv":  "00:40:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  27.78,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "09:56",
-                     "tv":  "01:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  65.06,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:30",
-                     "ultimo":  "09:42",
-                     "tv":  "01:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -573,6 +573,15 @@ window.PAINEL = {
                          "dur":  "01:33:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                         "mun":  "ATIBAIA",
+                         "in":  "10:05:21",
+                         "out":  "10:46:47",
+                         "km":  4.09,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SUPERMERCADO DO FRADE LTDA.",
                          "mun":  "ILHABELA",
@@ -582,6 +591,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                         "mun":  "ILHABELA",
+                         "in":  "09:50:20",
+                         "out":  "10:44:56",
+                         "km":  2.57,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCEARIA LOPES LTDA",
                          "mun":  "INDAIATUBA",
@@ -589,6 +607,15 @@ window.PAINEL = {
                          "out":  "09:26:12",
                          "km":  1.66,
                          "dur":  "00:51:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "09:39:28",
+                         "out":  "10:54:39",
+                         "km":  7.56,
+                         "dur":  "01:15:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -634,6 +661,14 @@ window.PAINEL = {
                         "tempo":  "01:36:58"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Miguelopolis",
+                        "inicio":  "09:52",
+                        "final":  "10:48",
+                        "tempo":  "00:56:38"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -663,15 +698,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:16:10"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Franca a Miguelopolis",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:41"
+                        "tempo":  "02:31:16"
                     }
                 ],
     "semped":  [
@@ -680,6 +707,12 @@ window.PAINEL = {
                        "razao":  "POUPE SUPERMERCADOS LTDA",
                        "mun":  "PAULINIA",
                        "obs":  "alinhando com a compradora"
+                   },
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                       "mun":  "ATIBAIA",
+                       "obs":  "comprador ausente"
                    },
                    {
                        "nome":  "Alan",
@@ -723,103 +756,109 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:39:54"
+                         "tempo":  "00:54:56"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:13:52"
+                         "tempo":  "01:28:54"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "00:27:29"
+                         "tempo":  "00:42:31"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:43"
+                         "tempo":  "00:15:45"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:04"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:36:05"
+                         "tempo":  "00:51:07"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:13:15"
+                         "tempo":  "01:28:17"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:24:28"
+                         "tempo":  "00:39:30"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:15:05"
+                         "tempo":  "00:30:07"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
-                         "tempo":  "00:47:52"
+                         "tempo":  "01:02:54"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "00:54:29"
+                         "tempo":  "01:09:31"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "FARMACIA DROGA PEPE",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:16:09"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "00:33:54"
+                         "tempo":  "00:31:11"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO SAO PEDRO DE CAMPINAS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:09:21"
+                         "tempo":  "01:24:23"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                         "razao":  "ILHA CLEAN COMERCIO DE PRODUTOS DE LIMPE",
                          "mun":  "ILHABELA",
-                         "tempo":  "00:48:55"
+                         "tempo":  "00:05:03"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:58:55"
+                         "tempo":  "01:13:57"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:47:23"
+                         "tempo":  "01:02:25"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:05:31"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:59:47"
+                         "tempo":  "01:14:49"
                      }
                  ],
     "hist":  [
@@ -930,8 +969,8 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     27,
-                     8
+                     30,
+                     9
                  ]
              ],
     "historico":  {
@@ -8456,7 +8495,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8612,6 +8651,24 @@ window.PAINEL = {
                                                        "tv":  112
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  31.87,
+                                                       "tv":  134
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  67.63,
+                                                       "tv":  125
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -8628,24 +8685,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.51,
                                                        "tv":  40
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  27.78,
-                                                       "tv":  93
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  65.06,
-                                                       "tv":  71
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -8838,6 +8877,13 @@ window.PAINEL = {
                                                          "tv":  93
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                                                         "p":  0,
+                                                         "km":  4.09,
+                                                         "tv":  41
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "SUPERMERCADO DO FRADE LTDA.",
                                                          "p":  0,
@@ -8845,11 +8891,25 @@ window.PAINEL = {
                                                          "tv":  71
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.57,
+                                                         "tv":  54
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SUPERMERCEARIA LOPES LTDA",
                                                          "p":  1,
                                                          "km":  1.66,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                                                         "p":  1,
+                                                         "km":  7.56,
+                                                         "tv":  75
                                                      },
                                                      {
                                                          "n":  "Nelson",

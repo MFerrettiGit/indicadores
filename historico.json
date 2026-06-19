@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7676,6 +7676,24 @@
                                      "tv":  112
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  31.87,
+                                     "tv":  134
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  67.63,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -7692,24 +7710,6 @@
                                      "pe":  0,
                                      "km":  7.51,
                                      "tv":  40
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  27.78,
-                                     "tv":  93
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  65.06,
-                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -7902,6 +7902,13 @@
                                        "tv":  93
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                                       "p":  0,
+                                       "km":  4.09,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SUPERMERCADO DO FRADE LTDA.",
                                        "p":  0,
@@ -7909,11 +7916,25 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "SUPERMERCADO COLINA ILHABELA LTDA",
+                                       "p":  1,
+                                       "km":  2.57,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "SUPERMERCEARIA LOPES LTDA",
                                        "p":  1,
                                        "km":  1.66,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO DO BOSQUE LTDA",
+                                       "p":  1,
+                                       "km":  7.56,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Nelson",
