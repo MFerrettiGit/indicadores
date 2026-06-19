@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -7580,10 +7580,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  79.2,
-                                     "tv":  161
+                                     "km":  83.62,
+                                     "tv":  393
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -7622,6 +7622,15 @@
                                      "tv":  273
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  45.43,
+                                     "tv":  322
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -7629,15 +7638,6 @@
                                      "pe":  3,
                                      "km":  38.24,
                                      "tv":  354
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  37.75,
-                                     "tv":  182
                                  },
                                  {
                                      "nome":  "Maira",
@@ -7986,6 +7986,13 @@
                                        "tv":  116
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  4.42,
+                                       "tv":  232
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "DIVALDO A ANTONELLI",
                                        "p":  1,
@@ -8012,6 +8019,13 @@
                                        "p":  1,
                                        "km":  2.21,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "DIVALDO A ANTONELLI",
+                                       "p":  1,
+                                       "km":  7.68,
+                                       "tv":  140
                                    },
                                    {
                                        "n":  "Luis",

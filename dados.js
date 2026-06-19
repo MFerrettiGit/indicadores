@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -98,14 +98,14 @@ window.PAINEL = {
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  79.2,
+                     "visitas":  3,
+                     "km":  83.62,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:50",
-                     "ultimo":  "11:22",
-                     "tv":  "02:41:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:10",
+                     "tv":  "06:33:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -165,6 +165,21 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "17:02",
                      "tv":  "04:33:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  45.43,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:09",
+                     "ultimo":  "17:10",
+                     "tv":  "05:22:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -182,21 +197,6 @@ window.PAINEL = {
                      "tv":  "05:54:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  37.75,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:09",
-                     "ultimo":  "14:20",
-                     "tv":  "03:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -681,6 +681,15 @@ window.PAINEL = {
                          "dur":  "01:56:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "13:18:01",
+                         "out":  "17:10:54",
+                         "km":  4.42,
+                         "dur":  "03:52:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
@@ -715,6 +724,15 @@ window.PAINEL = {
                          "out":  "14:20:32",
                          "km":  2.21,
                          "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "DIVALDO A ANTONELLI",
+                         "mun":  "ARARAS",
+                         "in":  "14:50:03",
+                         "out":  "17:10:54",
+                         "km":  7.68,
+                         "dur":  "02:20:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1406,7 +1424,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:05:02"
+                        "tempo":  "06:19:31"
                     },
                     {
                         "nome":  "Castro",
@@ -1414,7 +1432,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:08:37"
+                        "tempo":  "02:23:06"
                     },
                     {
                         "nome":  "Karina",
@@ -1422,7 +1440,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:49:21"
+                        "tempo":  "02:03:50"
                     },
                     {
                         "nome":  "Luis",
@@ -1430,7 +1448,7 @@ window.PAINEL = {
                         "obs":  "Miguelopolis a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:20:40"
+                        "tempo":  "01:35:09"
                     },
                     {
                         "nome":  "Rachel",
@@ -1438,7 +1456,7 @@ window.PAINEL = {
                         "obs":  "antonelli e popular",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:54"
+                        "tempo":  "00:42:23"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1446,7 +1464,7 @@ window.PAINEL = {
                         "obs":  "pedidos rede cidade",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:50"
+                        "tempo":  "00:39:19"
                     }
                 ],
     "semped":  [
@@ -1579,28 +1597,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "IRMAOS BOA LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "03:51:10"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "DIVALDO A ANTONELLI",
-                         "mun":  "ARARAS",
-                         "tempo":  "02:19:08"
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:07:53"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COTO SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:02:47"
+                         "tempo":  "00:17:15"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:32:57"
+                         "tempo":  "03:47:25"
                      }
                  ],
     "hist":  [
@@ -1711,7 +1723,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     91,
+                     93,
                      22
                  ]
              ],
@@ -9237,7 +9249,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -9297,10 +9309,10 @@ window.PAINEL = {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  79.2,
-                                                       "tv":  161
+                                                       "km":  83.62,
+                                                       "tv":  393
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -9339,6 +9351,15 @@ window.PAINEL = {
                                                        "tv":  273
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  45.43,
+                                                       "tv":  322
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -9346,15 +9367,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  38.24,
                                                        "tv":  354
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  37.75,
-                                                       "tv":  182
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -9703,6 +9715,13 @@ window.PAINEL = {
                                                          "tv":  116
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "IRMAOS BOA LTDA",
+                                                         "p":  1,
+                                                         "km":  4.42,
+                                                         "tv":  232
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "DIVALDO A ANTONELLI",
                                                          "p":  1,
@@ -9729,6 +9748,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.21,
                                                          "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "DIVALDO A ANTONELLI",
+                                                         "p":  1,
+                                                         "km":  7.68,
+                                                         "tv":  140
                                                      },
                                                      {
                                                          "n":  "Luis",
