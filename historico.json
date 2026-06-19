@@ -7520,8 +7520,17 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  73.64,
+                                     "tv":  308
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -7548,15 +7557,6 @@
                                      "pe":  0,
                                      "km":  13.16,
                                      "tv":  305
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  70.54,
-                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Aline",
@@ -7858,6 +7858,13 @@
                                        "p":  1,
                                        "km":  17.85,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  3.1,
+                                       "tv":  143
                                    },
                                    {
                                        "n":  "Silmara",
