@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -7613,6 +7613,15 @@
                                      "tv":  390
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  20.85,
+                                     "tv":  273
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -7620,15 +7629,6 @@
                                      "pe":  3,
                                      "km":  38.24,
                                      "tv":  354
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  19.23,
-                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Costa",
@@ -7670,10 +7670,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  29.72,
-                                     "tv":  337
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  31.71,
+                                     "tv":  354
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -8126,6 +8126,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCEARIA 3M LTDA",
+                                       "p":  1,
+                                       "km":  1.62,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                                        "p":  0,
@@ -8166,6 +8173,13 @@
                                        "p":  1,
                                        "km":  6.83,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "MERCADO DIC LTDA",
+                                       "p":  1,
+                                       "km":  1.99,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Castro",

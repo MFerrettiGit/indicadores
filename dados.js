@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  20.85,
+                     "semPed":  1,
+                     "perc":  16.67,
+                     "primeiro":  "08:31",
+                     "ultimo":  "17:02",
+                     "tv":  "04:33:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -167,21 +182,6 @@ window.PAINEL = {
                      "tv":  "05:54:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  19.23,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:31",
-                     "ultimo":  "13:17",
-                     "tv":  "03:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -248,13 +248,13 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  29.72,
+                     "visitas":  7,
+                     "km":  31.71,
                      "semPed":  1,
-                     "perc":  16.67,
+                     "perc":  14.29,
                      "primeiro":  "08:11",
-                     "ultimo":  "16:36",
-                     "tv":  "05:37:00",
+                     "ultimo":  "17:02",
+                     "tv":  "05:54:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -861,6 +861,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MERCEARIA 3M LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:02:37",
+                         "out":  "17:02:19",
+                         "km":  1.62,
+                         "dur":  "00:59:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                          "mun":  "CAMPINAS",
@@ -913,6 +922,15 @@ window.PAINEL = {
                          "out":  "16:36:40",
                          "km":  6.83,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MERCADO DIC LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:44:46",
+                         "out":  "17:02:05",
+                         "km":  1.99,
+                         "dur":  "00:17:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1388,7 +1406,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:50:03"
+                        "tempo":  "06:05:02"
                     },
                     {
                         "nome":  "Castro",
@@ -1396,7 +1414,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:53:38"
+                        "tempo":  "02:08:37"
                     },
                     {
                         "nome":  "Karina",
@@ -1404,7 +1422,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:34:22"
+                        "tempo":  "01:49:21"
                     },
                     {
                         "nome":  "Luis",
@@ -1412,7 +1430,7 @@ window.PAINEL = {
                         "obs":  "Miguelopolis a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:05:41"
+                        "tempo":  "01:20:40"
                     },
                     {
                         "nome":  "Rachel",
@@ -1420,7 +1438,7 @@ window.PAINEL = {
                         "obs":  "antonelli e popular",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:55"
+                        "tempo":  "00:27:54"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1428,7 +1446,7 @@ window.PAINEL = {
                         "obs":  "pedidos rede cidade",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:51"
+                        "tempo":  "00:24:50"
                     }
                 ],
     "semped":  [
@@ -1564,31 +1582,25 @@ window.PAINEL = {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:36:08"
+                         "tempo":  "03:51:10"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "02:04:06"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MERCEARIA 3M LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:51:32"
+                         "tempo":  "02:19:08"
                      },
                      {
                          "nome":  "Alan",
-                         "razao":  "MERCADO DIC LTDA",
+                         "razao":  "COTO SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:09:23"
+                         "tempo":  "00:02:47"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:17:55"
+                         "tempo":  "03:32:57"
                      }
                  ],
     "hist":  [
@@ -1699,7 +1711,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     89,
+                     91,
                      22
                  ]
              ],
@@ -9225,7 +9237,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -9318,6 +9330,15 @@ window.PAINEL = {
                                                        "tv":  390
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  20.85,
+                                                       "tv":  273
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -9325,15 +9346,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  38.24,
                                                        "tv":  354
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  19.23,
-                                                       "tv":  214
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -9375,10 +9387,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  29.72,
-                                                       "tv":  337
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  31.71,
+                                                       "tv":  354
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -9831,6 +9843,13 @@ window.PAINEL = {
                                                          "tv":  39
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MERCEARIA 3M LTDA",
+                                                         "p":  1,
+                                                         "km":  1.62,
+                                                         "tv":  59
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                                                          "p":  0,
@@ -9871,6 +9890,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.83,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "MERCADO DIC LTDA",
+                                                         "p":  1,
+                                                         "km":  1.99,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Castro",
