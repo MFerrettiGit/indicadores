@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  15.66,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:11",
+                     "ultimo":  "14:54",
+                     "tv":  "06:03:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -16,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "13:51",
                      "tv":  "05:08:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -45,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "13:07",
                      "tv":  "04:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "14:34",
                      "tv":  "05:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:07",
                      "ultimo":  "13:56",
                      "tv":  "05:09:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  13.16,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:11",
-                     "ultimo":  "13:17",
-                     "tv":  "05:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  20.98,
+                     "visitas":  4,
+                     "km":  35.32,
                      "semPed":  2,
-                     "perc":  66.67,
+                     "perc":  50,
                      "primeiro":  "08:23",
-                     "ultimo":  "11:37",
-                     "tv":  "02:44:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:58",
+                     "tv":  "04:37:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "14:52",
                      "tv":  "05:34:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -717,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "in":  "13:04:53",
+                         "out":  "14:58:02",
+                         "km":  14.34,
+                         "dur":  "01:53:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
                          "mun":  "SAO CARLOS",
@@ -787,6 +796,15 @@ window.PAINEL = {
                          "out":  "12:30:12",
                          "km":  0.83,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:47:14",
+                         "out":  "15:09:48",
+                         "km":  1.83,
+                         "dur":  "01:22:00"
                      },
                      {
                          "nome":  "Castro",
@@ -1109,6 +1127,14 @@ window.PAINEL = {
                         "tempo":  "00:58:59"
                     },
                     {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:51",
+                        "final":  "14:58",
+                        "tempo":  "01:06:36"
+                    },
+                    {
                         "nome":  "Edimilson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1202,7 +1228,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:31:22"
+                        "tempo":  "06:46:15"
                     },
                     {
                         "nome":  "Lucas",
@@ -1210,15 +1236,15 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:49:55"
+                        "tempo":  "04:04:48"
                     },
                     {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:03:18"
+                        "tempo":  "00:08:23"
                     }
                 ],
     "semped":  [
@@ -1336,79 +1362,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "04:54:48"
+                         "tempo":  "05:09:45"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:46:52"
+                         "tempo":  "01:01:49"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:01:12"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:13:50"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:26:07"
+                         "tempo":  "01:41:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:36:08"
+                         "tempo":  "01:51:05"
                      },
                      {
                          "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:58:00"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
-                         "mun":  "AMPARO",
-                         "tempo":  "01:49:16"
+                         "tempo":  "00:12:12"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
-                         "tempo":  "00:22:12"
+                         "tempo":  "00:37:09"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "00:04:06"
+                         "tempo":  "00:19:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:45:01"
+                         "tempo":  "00:59:58"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:06:55"
+                         "tempo":  "01:21:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:17:55"
+                         "tempo":  "01:32:52"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:07:43"
+                         "tempo":  "00:22:40"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO ALCINDA LTDA",
                          "mun":  "TAUBATE",
-                         "tempo":  "00:11:32"
+                         "tempo":  "00:26:29"
                      }
                  ],
     "hist":  [
@@ -1519,7 +1551,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     70,
+                     72,
                      19
                  ]
              ],
@@ -9045,8 +9077,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  15.66,
+                                                       "tv":  363
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -9091,15 +9132,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  45.78,
                                                        "tv":  309
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  13.16,
-                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -9159,10 +9191,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  20.98,
-                                                       "tv":  164
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  35.32,
+                                                       "tv":  277
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -9539,6 +9571,13 @@ window.PAINEL = {
                                                          "tv":  24
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "B. A. BARBOSASUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  14.34,
+                                                         "tv":  113
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
                                                          "p":  1,
@@ -9593,6 +9632,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.83,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.83,
+                                                         "tv":  82
                                                      },
                                                      {
                                                          "n":  "Castro",

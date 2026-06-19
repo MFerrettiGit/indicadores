@@ -7520,8 +7520,17 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  15.66,
+                                     "tv":  363
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -7566,15 +7575,6 @@
                                      "pe":  0,
                                      "km":  45.78,
                                      "tv":  309
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  13.16,
-                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -7634,10 +7634,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  20.98,
-                                     "tv":  164
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  35.32,
+                                     "tv":  277
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8014,6 +8014,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSASUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  14.34,
+                                       "tv":  113
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
                                        "p":  1,
@@ -8068,6 +8075,13 @@
                                        "p":  1,
                                        "km":  0.83,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.83,
+                                       "tv":  82
                                    },
                                    {
                                        "n":  "Castro",
