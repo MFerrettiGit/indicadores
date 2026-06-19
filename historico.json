@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7541,6 +7541,15 @@
                                      "tv":  218
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  20.33,
+                                     "tv":  232
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -7548,15 +7557,6 @@
                                      "pe":  0,
                                      "km":  40.51,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  19.28,
-                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Aline",
@@ -7676,6 +7676,15 @@
                                      "tv":  143
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  34.92,
+                                     "tv":  181
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -7692,15 +7701,6 @@
                                      "pe":  1,
                                      "km":  19.07,
                                      "tv":  163
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  31.87,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -7788,6 +7788,13 @@
                                        "p":  1,
                                        "km":  3.75,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  1.05,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Eliana",
@@ -8012,6 +8019,13 @@
                                        "p":  0,
                                        "km":  4.09,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                                       "p":  1,
+                                       "km":  3.05,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Karina",
