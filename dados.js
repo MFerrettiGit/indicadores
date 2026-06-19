@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
+                 {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  46.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:53",
+                     "ultimo":  "12:24",
+                     "tv":  "04:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -19,21 +34,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  43.22,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:53",
-                     "ultimo":  "11:17",
-                     "tv":  "03:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "11:52",
                      "tv":  "03:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -463,6 +463,15 @@ window.PAINEL = {
                          "out":  "11:17:42",
                          "km":  20.42,
                          "dur":  "01:14:00"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA - LJ.01",
+                         "mun":  "JUNDIAI",
+                         "in":  "11:33:13",
+                         "out":  "12:24:19",
+                         "km":  3.75,
+                         "dur":  "00:50:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -922,7 +931,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:46:15"
+                        "tempo":  "04:01:15"
                     },
                     {
                         "nome":  "Lucas",
@@ -930,7 +939,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:48"
+                        "tempo":  "01:19:48"
                     },
                     {
                         "nome":  "Vinicius",
@@ -938,7 +947,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:34"
+                        "tempo":  "00:46:34"
                     },
                     {
                         "nome":  "Debora",
@@ -946,7 +955,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:40"
+                        "tempo":  "00:44:40"
                     },
                     {
                         "nome":  "Rachel",
@@ -954,7 +963,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:44"
+                        "tempo":  "00:20:44"
                     }
                 ],
     "semped":  [
@@ -1054,49 +1063,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:09:50"
+                         "tempo":  "02:24:49"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:43:48"
+                         "tempo":  "00:58:47"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:40:54"
+                         "tempo":  "00:55:53"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:06:04"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:35:58"
+                         "tempo":  "00:50:57"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO IBIRAPUERA LTDA - EPP.",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:40:59"
+                         "tempo":  "00:55:58"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VINICIUS ORSINE YAMADA",
                          "mun":  "ITUVERAVA",
-                         "tempo":  "00:34:12"
+                         "tempo":  "00:49:11"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "PONTEL",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:09"
+                         "tempo":  "00:37:08"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:29:14"
+                         "tempo":  "00:44:13"
                      }
                  ],
     "hist":  [
@@ -8733,8 +8748,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  46.97,
+                                                       "tv":  268
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -8743,15 +8767,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  70.54,
                                                        "tv":  165
-                                                   },
-                                                   {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  43.22,
-                                                       "tv":  218
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -9029,6 +9044,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  20.42,
                                                          "tv":  74
+                                                     },
+                                                     {
+                                                         "n":  "Eliana",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.01",
+                                                         "p":  1,
+                                                         "km":  3.75,
+                                                         "tv":  50
                                                      },
                                                      {
                                                          "n":  "Evandro",

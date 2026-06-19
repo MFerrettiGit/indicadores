@@ -7520,8 +7520,17 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  46.97,
+                                     "tv":  268
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -7530,15 +7539,6 @@
                                      "pe":  0,
                                      "km":  70.54,
                                      "tv":  165
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  43.22,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -7816,6 +7816,13 @@
                                        "p":  1,
                                        "km":  20.42,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  3.75,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Evandro",
