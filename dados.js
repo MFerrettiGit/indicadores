@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -46,7 +46,22 @@ window.PAINEL = {
                      "ultimo":  "13:07",
                      "tv":  "04:41:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  45.78,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:07",
+                     "ultimo":  "13:56",
+                     "tv":  "05:09:00",
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -60,8 +75,8 @@ window.PAINEL = {
                      "primeiro":  "07:11",
                      "ultimo":  "13:17",
                      "tv":  "05:05:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "12:28",
                      "tv":  "04:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  40.51,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:07",
-                     "ultimo":  "11:27",
-                     "tv":  "03:56:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -180,8 +180,8 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "11:26",
                      "tv":  "02:47:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "11:48",
                      "tv":  "03:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -418,6 +418,15 @@ window.PAINEL = {
                          "out":  "11:27:18",
                          "km":  3.74,
                          "dur":  "02:01:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "12:42:15",
+                         "out":  "13:56:23",
+                         "km":  5.27,
+                         "dur":  "01:13:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -1006,6 +1015,14 @@ window.PAINEL = {
                         "tempo":  "00:56:38"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "13:26",
+                        "final":  "13:59",
+                        "tempo":  "00:32:38"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1030,6 +1047,14 @@ window.PAINEL = {
                         "tempo":  "00:58:59"
                     },
                     {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:09",
+                        "final":  "14:06",
+                        "tempo":  "00:57:00"
+                    },
+                    {
                         "nome":  "Eliana",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1046,12 +1071,28 @@ window.PAINEL = {
                         "tempo":  "01:27:45"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:19",
+                        "final":  "13:55",
+                        "tempo":  "00:35:33"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "12:56",
                         "final":  "08:23",
                         "tempo":  "19:26:21"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:04",
+                        "final":  "14:04",
+                        "tempo":  "01:00:11"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1091,7 +1132,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:31:19"
+                        "tempo":  "05:46:14"
                     },
                     {
                         "nome":  "Lucas",
@@ -1099,39 +1140,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:49:52"
-                    },
-                    {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:54"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:16"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:22"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:28:14"
+                        "tempo":  "03:04:47"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1139,7 +1148,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:53"
+                        "tempo":  "00:22:48"
                     },
                     {
                         "nome":  "Evandro",
@@ -1147,7 +1156,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:15"
+                        "tempo":  "00:18:10"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Ituverava a Miguelopolis",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:07"
                     }
                 ],
     "semped":  [
@@ -1253,67 +1270,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "03:54:51"
+                         "tempo":  "04:09:48"
                      },
                      {
                          "nome":  "Debora",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:11:57"
+                         "tempo":  "00:01:52"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:03:32"
+                         "tempo":  "00:18:29"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:26:10"
+                         "tempo":  "00:41:07"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:36:11"
+                         "tempo":  "00:51:08"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:13:00"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:49:19"
+                         "tempo":  "01:04:16"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO TRES ESTRELAS LTDA.",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:04:16"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:00:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:58"
+                         "tempo":  "00:21:55"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:05:43"
+                         "tempo":  "00:20:40"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:17:58"
+                         "tempo":  "00:32:55"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "02:14:15"
+                         "tempo":  "02:29:12"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:24:58"
+                         "tempo":  "00:39:55"
                      }
                  ],
     "hist":  [
@@ -1424,7 +1459,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     64,
+                     65,
                      17
                  ]
              ],
@@ -8950,7 +8985,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -8980,6 +9015,15 @@ window.PAINEL = {
                                                        "tv":  281
                                                    },
                                                    {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  45.78,
+                                                       "tv":  309
+                                                   },
+                                                   {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
@@ -8996,15 +9040,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  53.69,
                                                        "tv":  278
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  40.51,
-                                                       "tv":  236
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -9211,6 +9246,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.74,
                                                          "tv":  121
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  5.27,
+                                                         "tv":  73
                                                      },
                                                      {
                                                          "n":  "Edimilson",

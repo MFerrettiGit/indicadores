@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7550,6 +7550,15 @@
                                      "tv":  281
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  45.78,
+                                     "tv":  309
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -7566,15 +7575,6 @@
                                      "pe":  0,
                                      "km":  53.69,
                                      "tv":  278
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.51,
-                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -7781,6 +7781,13 @@
                                        "p":  1,
                                        "km":  3.74,
                                        "tv":  121
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.27,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Edimilson",
