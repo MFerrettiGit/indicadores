@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -19,6 +19,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  23.5,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:00",
+                     "ultimo":  "13:07",
+                     "tv":  "04:41:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
@@ -30,21 +45,6 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "11:18",
                      "tv":  "02:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  20.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:00",
-                     "ultimo":  "11:52",
-                     "tv":  "03:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -106,7 +106,7 @@ window.PAINEL = {
                      "ultimo":  "11:22",
                      "tv":  "02:41:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "11:26",
                      "tv":  "02:47:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -195,8 +195,8 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "11:37",
                      "tv":  "02:44:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "11:39",
                      "tv":  "02:54:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -445,6 +445,15 @@ window.PAINEL = {
                          "out":  "11:52:24",
                          "km":  1.05,
                          "dur":  "01:10:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "12:18:06",
+                         "out":  "13:07:44",
+                         "km":  3.17,
+                         "dur":  "00:49:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -905,6 +914,14 @@ window.PAINEL = {
                         "tempo":  "01:40:54"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "12:04",
+                        "final":  "12:59",
+                        "tempo":  "00:55:21"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Manutencao",
                         "obs":  "Radiador do carro",
@@ -927,6 +944,14 @@ window.PAINEL = {
                         "inicio":  "11:40",
                         "final":  "12:39",
                         "tempo":  "00:58:59"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:38",
+                        "final":  "13:06",
+                        "tempo":  "01:27:45"
                     },
                     {
                         "nome":  "Fernando",
@@ -966,7 +991,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:31:12"
+                        "tempo":  "04:46:20"
                     },
                     {
                         "nome":  "Lucas",
@@ -974,23 +999,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:49:45"
-                    },
-                    {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:16:31"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:41"
+                        "tempo":  "02:04:53"
                     },
                     {
                         "nome":  "Nelson",
@@ -998,7 +1007,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:47"
+                        "tempo":  "00:43:55"
                     },
                     {
                         "nome":  "Eliana",
@@ -1006,7 +1015,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:46"
+                        "tempo":  "00:43:54"
                     },
                     {
                         "nome":  "Cominato",
@@ -1014,7 +1023,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:27"
+                        "tempo":  "00:42:35"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1022,7 +1031,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:27"
+                        "tempo":  "00:38:35"
                     },
                     {
                         "nome":  "Maira",
@@ -1030,7 +1039,7 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:16"
+                        "tempo":  "00:33:24"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1038,7 +1047,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:48"
+                        "tempo":  "00:28:56"
                     },
                     {
                         "nome":  "Alan",
@@ -1046,7 +1055,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:06"
+                        "tempo":  "00:24:14"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:50"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:55"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:17"
                     }
                 ],
     "semped":  [
@@ -1152,49 +1185,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:54:47"
+                         "tempo":  "03:09:52"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:11:53"
+                         "tempo":  "00:26:58"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:25:51"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:36:02"
+                         "tempo":  "01:40:56"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:21:20"
+                         "tempo":  "00:36:25"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:04:20"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VINICIUS ORSINE YAMADA",
                          "mun":  "ITUVERAVA",
-                         "tempo":  "01:19:09"
+                         "tempo":  "01:34:14"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO E PADARIA ANDRADE LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:16:44"
+                         "tempo":  "00:31:49"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "01:14:11"
+                         "tempo":  "01:29:16"
                      }
                  ],
     "hist":  [
@@ -1305,7 +1338,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     59,
+                     60,
                      17
                  ]
              ],
@@ -8831,7 +8864,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -8843,6 +8876,15 @@ window.PAINEL = {
                                                        "tv":  268
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  23.5,
+                                                       "tv":  281
+                                                   },
+                                                   {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
@@ -8850,15 +8892,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  70.54,
                                                        "tv":  165
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  20.33,
-                                                       "tv":  232
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -9113,6 +9146,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.05,
                                                          "tv":  70
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.17,
+                                                         "tv":  49
                                                      },
                                                      {
                                                          "n":  "Eliana",
