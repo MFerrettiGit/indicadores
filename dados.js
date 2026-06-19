@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "15:24",
                      "tv":  "05:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "15:09",
                      "tv":  "04:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1246,7 +1246,7 @@ window.PAINEL = {
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:01:19"
+                        "tempo":  "07:16:11"
                     },
                     {
                         "nome":  "Lucas",
@@ -1254,7 +1254,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:19:52"
+                        "tempo":  "04:34:44"
                     },
                     {
                         "nome":  "Castro",
@@ -1262,7 +1262,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:27"
+                        "tempo":  "00:38:19"
                     },
                     {
                         "nome":  "Karina",
@@ -1270,7 +1270,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:11"
+                        "tempo":  "00:19:03"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1278,7 +1278,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:20"
+                        "tempo":  "00:16:12"
                     }
                 ],
     "semped":  [
@@ -1396,79 +1396,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "05:24:47"
+                         "tempo":  "05:39:43"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:16:51"
+                         "tempo":  "01:31:47"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "00:16:14"
+                         "tempo":  "00:31:10"
                      },
                      {
                          "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:28:52"
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:01:59"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:56:06"
+                         "tempo":  "02:11:02"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "02:06:07"
+                         "tempo":  "02:21:03"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:27:14"
+                         "tempo":  "00:42:10"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:00:05"
+                         "tempo":  "00:15:01"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
-                         "tempo":  "00:52:11"
+                         "tempo":  "01:07:07"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "DIVALDO A ANTONELLI",
                          "mun":  "ARARAS",
-                         "tempo":  "00:34:05"
+                         "tempo":  "00:49:01"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:15:00"
+                         "tempo":  "01:29:56"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "MERCADO VIRACOPOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:10:14"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:47:54"
+                         "tempo":  "02:02:50"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:37:42"
+                         "tempo":  "00:52:38"
                      }
                  ],
     "hist":  [
@@ -1579,7 +1585,7 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     74,
+                     75,
                      19
                  ]
              ],
@@ -9105,7 +9111,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
