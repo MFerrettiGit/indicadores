@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7670,10 +7670,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  86.29,
+                                     "tv":  334
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  3,
-                                     "km":  45.71,
-                                     "tv":  143
+                                     "pe":  2,
+                                     "km":  103.43,
+                                     "tv":  233
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -7701,15 +7710,6 @@
                                      "pe":  2,
                                      "km":  34.92,
                                      "tv":  181
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  68.39,
-                                     "tv":  174
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -7909,6 +7909,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
+                                       "p":  1,
+                                       "km":  2.5,
+                                       "tv":  58
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
@@ -8091,6 +8098,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  40.58,
+                                       "tv":  191
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "D. NASTARO SUPERMERCADOS EIRELI",
                                        "p":  0,
@@ -8159,6 +8173,13 @@
                                        "p":  1,
                                        "km":  0.76,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                       "p":  0,
+                                       "km":  35.04,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Lucas",

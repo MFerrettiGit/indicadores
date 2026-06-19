@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "13:17",
                      "tv":  "03:34:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:09",
                      "ultimo":  "14:20",
                      "tv":  "03:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -248,14 +248,29 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  45.71,
+                     "visitas":  5,
+                     "km":  86.29,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:02",
-                     "ultimo":  "11:20",
-                     "tv":  "02:23:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:52",
+                     "tv":  "05:34:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  103.43,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:30",
+                     "ultimo":  "14:48",
+                     "tv":  "03:53:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "14:26",
                      "tv":  "02:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "11:48",
                      "tv":  "03:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  68.39,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:30",
-                     "ultimo":  "11:39",
-                     "tv":  "02:54:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -360,7 +360,7 @@ window.PAINEL = {
                      "primeiro":  "09:39",
                      "ultimo":  "11:58",
                      "tv":  "01:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -580,6 +580,15 @@ window.PAINEL = {
                          "out":  "13:17:53",
                          "km":  0.91,
                          "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "13:56:09",
+                         "out":  "14:54:53",
+                         "km":  2.5,
+                         "dur":  "00:58:00"
                      },
                      {
                          "nome":  "Vinicius",
@@ -816,6 +825,15 @@ window.PAINEL = {
                          "dur":  "00:31:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "VALINHOS",
+                         "in":  "11:39:57",
+                         "out":  "14:52:13",
+                         "km":  40.58,
+                         "dur":  "03:11:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "D. NASTARO SUPERMERCADOS EIRELI",
                          "mun":  "PIRACICABA",
@@ -904,6 +922,15 @@ window.PAINEL = {
                          "out":  "11:39:08",
                          "km":  0.76,
                          "dur":  "00:49:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "13:48:29",
+                         "out":  "14:48:22",
+                         "km":  35.04,
+                         "dur":  "00:59:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1162,12 +1189,20 @@ window.PAINEL = {
                         "tempo":  "00:15:36"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:47",
+                        "final":  "14:49",
+                        "tempo":  "01:01:53"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Outro",
                         "obs":  "feriado em Ribeirão Preto",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:16:16"
+                        "tempo":  "06:31:22"
                     },
                     {
                         "nome":  "Lucas",
@@ -1175,15 +1210,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:34:49"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:50"
+                        "tempo":  "03:49:55"
                     },
                     {
                         "nome":  "Evandro",
@@ -1191,7 +1218,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:12"
+                        "tempo":  "01:03:18"
                     }
                 ],
     "semped":  [
@@ -1230,6 +1257,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO DO FRADE LTDA.",
                        "mun":  "ILHABELA",
                        "obs":  "preço melhor do atacado"
+                   },
+                   {
+                       "nome":  "Karina",
+                       "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                       "mun":  "CARAGUATATUBA",
+                       "obs":  "E.C litoral"
                    },
                    {
                        "nome":  "Rachel",
@@ -1303,73 +1336,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "04:39:47"
+                         "tempo":  "04:54:48"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:31:51"
+                         "tempo":  "00:46:52"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:11:06"
+                         "tempo":  "01:26:07"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:21:07"
+                         "tempo":  "01:36:08"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:42:59"
+                         "tempo":  "00:58:00"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B. A. BARBOSASUPERMERCADO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "01:34:15"
+                         "tempo":  "01:49:16"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO STABILE LTDA",
                          "mun":  "MIGUELOPOLIS",
-                         "tempo":  "00:07:11"
+                         "tempo":  "00:22:12"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "DIVALDO A ANTONELLI",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:04:06"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:30:00"
+                         "tempo":  "00:45:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:51:54"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:50:39"
+                         "tempo":  "01:06:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:02:54"
+                         "tempo":  "01:17:55"
                      },
                      {
-                         "nome":  "Castro",
-                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
-                         "mun":  "VALINHOS",
-                         "tempo":  "02:59:11"
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:07:43"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO ALCINDA LTDA",
+                         "mun":  "TAUBATE",
+                         "tempo":  "00:11:32"
                      }
                  ],
     "hist":  [
@@ -1480,8 +1519,8 @@ window.PAINEL = {
                  ],
                  [
                      "19/06",
-                     68,
-                     18
+                     70,
+                     19
                  ]
              ],
     "historico":  {
@@ -9006,7 +9045,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9156,10 +9195,19 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  86.29,
+                                                       "tv":  334
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
                                                        "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  45.71,
-                                                       "tv":  143
+                                                       "pe":  2,
+                                                       "km":  103.43,
+                                                       "tv":  233
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -9187,15 +9235,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  34.92,
                                                        "tv":  181
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  68.39,
-                                                       "tv":  174
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -9395,6 +9434,13 @@ window.PAINEL = {
                                                          "tv":  44
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
+                                                         "p":  1,
+                                                         "km":  2.5,
+                                                         "tv":  58
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                                          "p":  1,
@@ -9577,6 +9623,13 @@ window.PAINEL = {
                                                          "tv":  31
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  1,
+                                                         "km":  40.58,
+                                                         "tv":  191
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "D. NASTARO SUPERMERCADOS EIRELI",
                                                          "p":  0,
@@ -9645,6 +9698,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.76,
                                                          "tv":  49
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                                         "p":  0,
+                                                         "km":  35.04,
+                                                         "tv":  59
                                                      },
                                                      {
                                                          "n":  "Lucas",
