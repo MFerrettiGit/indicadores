@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "19/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "15:14",
                      "tv":  "02:27:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -1387,6 +1387,14 @@ window.PAINEL = {
                         "tempo":  "01:00:09"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedidos rede cidade",
+                        "inicio":  "16:45",
+                        "final":  "17:30",
+                        "tempo":  "00:44:56"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
@@ -1424,7 +1432,7 @@ window.PAINEL = {
                         "obs":  "meu carro de problema na sonda lambida e no sensor mape",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:19:31"
+                        "tempo":  "06:35:01"
                     },
                     {
                         "nome":  "Castro",
@@ -1432,7 +1440,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:23:06"
+                        "tempo":  "02:38:36"
                     },
                     {
                         "nome":  "Karina",
@@ -1440,7 +1448,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:03:50"
+                        "tempo":  "02:19:20"
                     },
                     {
                         "nome":  "Luis",
@@ -1448,7 +1456,7 @@ window.PAINEL = {
                         "obs":  "Miguelopolis a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:35:09"
+                        "tempo":  "01:50:39"
                     },
                     {
                         "nome":  "Rachel",
@@ -1456,15 +1464,7 @@ window.PAINEL = {
                         "obs":  "antonelli e popular",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:23"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "pedidos rede cidade",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:39:19"
+                        "tempo":  "00:57:53"
                     }
                 ],
     "semped":  [
@@ -1600,19 +1600,19 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:07:53"
+                         "tempo":  "00:23:22"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "COTO SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:15"
+                         "tempo":  "00:32:44"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "03:47:25"
+                         "tempo":  "04:02:54"
                      }
                  ],
     "hist":  [
@@ -9249,7 +9249,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-19":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
