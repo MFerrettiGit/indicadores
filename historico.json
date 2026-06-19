@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7541,6 +7541,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  19.28,
+                                     "tv":  162
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -7548,15 +7557,6 @@
                                      "pe":  0,
                                      "km":  36.77,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  15.53,
-                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Aline",
@@ -7613,6 +7613,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.72,
+                                     "tv":  99
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -7638,15 +7647,6 @@
                                      "pe":  0,
                                      "km":  38.62,
                                      "tv":  79
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  5.16,
-                                     "tv":  53
                                  },
                                  {
                                      "nome":  "Luis",
@@ -7769,6 +7769,13 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.75,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -7837,6 +7844,13 @@
                                        "p":  1,
                                        "km":  4.75,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCADO E PADARIA PANE SILVIO LTDA.",
+                                       "p":  1,
+                                       "km":  3.56,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Alan",
