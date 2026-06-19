@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7568,6 +7568,15 @@
                                      "tv":  159
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  4.12,
+                                     "tv":  170
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -7575,15 +7584,6 @@
                                      "pe":  0,
                                      "km":  43.41,
                                      "tv":  45
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.12,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -7676,6 +7676,15 @@
                                      "tv":  48
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  3.11,
+                                     "tv":  52
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -7685,6 +7694,15 @@
                                      "tv":  40
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  27.78,
+                                     "tv":  93
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -7692,15 +7710,6 @@
                                      "pe":  0,
                                      "km":  65.06,
                                      "tv":  71
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  1.76,
-                                     "tv":  16
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -7719,15 +7728,6 @@
                                      "pe":  1,
                                      "km":  3.64,
                                      "tv":  64
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  27.43,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -7797,6 +7797,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  2,
+                                       "tv":  170
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO MAIRINQUE LTDA.",
                                        "p":  1,
@@ -7858,6 +7865,20 @@
                                        "p":  0,
                                        "km":  1.76,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "DISTRIBUIDORA DE ALIMENTOS SAO PAULO DE",
+                                       "p":  0,
+                                       "km":  1.35,
+                                       "tv":  36
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  0.35,
+                                       "tv":  93
                                    },
                                    {
                                        "n":  "Karina",
