@@ -7520,7 +7520,7 @@
                                ]
                    },
     "2026-06-19":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -7532,6 +7532,15 @@
                                      "tv":  125
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  22.8,
+                                     "tv":  144
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -7539,15 +7548,6 @@
                                      "pe":  0,
                                      "km":  36.77,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  12.59,
-                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -7625,10 +7625,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  5.37,
-                                     "tv":  0
+                                     "km":  9.31,
+                                     "tv":  72
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  5.16,
+                                     "tv":  53
                                  },
                                  {
                                      "nome":  "Maira",
@@ -7637,15 +7646,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.55,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.41,
                                      "tv":  0
                                  },
                                  {
@@ -7694,6 +7694,15 @@
                                      "tv":  16
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  18.84,
+                                     "tv":  51
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -7709,15 +7718,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  29,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  17.18,
                                      "tv":  0
                                  },
                                  {
@@ -7769,6 +7769,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  10.21,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -7797,6 +7804,20 @@
                                        "tv":  68
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "J L DAOLIO E CIA LTDA",
+                                       "p":  0,
+                                       "km":  3.94,
+                                       "tv":  72
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
+                                       "p":  1,
+                                       "km":  4.75,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
                                        "p":  0,
@@ -7823,6 +7844,13 @@
                                        "p":  0,
                                        "km":  1.76,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCEARIA LOPES LTDA",
+                                       "p":  1,
+                                       "km":  1.66,
+                                       "tv":  51
                                    }
                                ]
                    }
