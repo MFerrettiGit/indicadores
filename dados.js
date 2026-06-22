@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -218,15 +218,15 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  106.5,
+                     "visitas":  5,
+                     "km":  108.55,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:17",
-                     "ultimo":  "16:42",
-                     "tv":  "05:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "18:24",
+                     "tv":  "07:02:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -1077,6 +1077,15 @@ window.PAINEL = {
                          "dur":  "01:50:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO MERCATELLO LTDA.",
+                         "mun":  "AMERICO BRASILI",
+                         "in":  "16:49:33",
+                         "out":  "18:24:14",
+                         "km":  2.05,
+                         "dur":  "01:34:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GUARANI LTDA",
                          "mun":  "CAMPINAS",
@@ -1763,6 +1772,14 @@ window.PAINEL = {
                         "inicio":  "13:40",
                         "final":  "14:39",
                         "tempo":  "00:59:24"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Américo Brasiliense a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:57"
                     }
                 ],
     "semped":  [
@@ -1865,16 +1882,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO MERCATELLO LTDA.",
-                         "mun":  "AMERICO BRASILI",
-                         "tempo":  "01:30:17"
-                     },
-                     {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:38:50"
+                         "tempo":  "01:53:20"
                      }
                  ],
     "hist":  [
@@ -1975,7 +1986,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     125,
+                     126,
                      16
                  ]
              ],
@@ -10361,7 +10372,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10493,10 +10504,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  106.5,
-                                                       "tv":  328
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  108.55,
+                                                       "tv":  422
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -11133,6 +11144,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.61,
                                                          "tv":  110
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO MERCATELLO LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.05,
+                                                         "tv":  94
                                                      },
                                                      {
                                                          "n":  "Alan",

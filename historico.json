@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "18:15",
+                       "dataHora":  "18:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8512,10 +8512,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  106.5,
-                                     "tv":  328
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  108.55,
+                                     "tv":  422
                                  },
                                  {
                                      "nome":  "Maira",
@@ -9152,6 +9152,13 @@
                                        "p":  1,
                                        "km":  8.61,
                                        "tv":  110
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MERCATELLO LTDA.",
+                                       "p":  1,
+                                       "km":  2.05,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Alan",
