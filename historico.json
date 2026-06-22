@@ -8380,8 +8380,17 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.05,
+                                     "tv":  223
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -8419,15 +8428,6 @@
                                      "tv":  153
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  5.91,
-                                     "tv":  132
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -8458,10 +8458,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  54.26,
-                                     "tv":  111
+                                     "km":  56.94,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -8664,6 +8664,13 @@
                                        "tv":  132
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.14,
+                                       "tv":  91
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8753,6 +8760,13 @@
                                        "p":  1,
                                        "km":  1.37,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  2.68,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Rachel",
