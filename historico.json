@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8401,6 +8401,15 @@
                                      "tv":  130
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  35.4,
+                                     "tv":  177
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -8417,15 +8426,6 @@
                                      "pe":  0,
                                      "km":  5.91,
                                      "tv":  132
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  31.59,
-                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -8500,6 +8500,15 @@
                                      "tv":  48
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  40.51,
+                                     "tv":  114
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -8518,13 +8527,13 @@
                                      "tv":  28
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.94,
-                                     "tv":  0
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  22.56,
+                                     "tv":  105
                                  },
                                  {
                                      "nome":  "Castro",
@@ -8545,13 +8554,13 @@
                                      "tv":  80
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  8.71,
-                                     "tv":  71
+                                     "km":  10.68,
+                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -8570,15 +8579,6 @@
                                      "pe":  1,
                                      "km":  103.76,
                                      "tv":  43
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -8606,6 +8606,13 @@
                                        "p":  1,
                                        "km":  31.59,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.81,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -8734,6 +8741,20 @@
                                        "tv":  60
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
+                                       "p":  1,
+                                       "km":  38.57,
+                                       "tv":  114
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO GUARANI LTDA",
+                                       "p":  1,
+                                       "km":  10.68,
+                                       "tv":  115
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA",
                                        "p":  1,
@@ -8760,6 +8781,13 @@
                                        "p":  1,
                                        "km":  8.32,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "GOYOS BATA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  13.85,
+                                       "tv":  34
                                    },
                                    {
                                        "n":  "Mariangela",
