@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  44.1,
+                     "km":  46.84,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:51",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  76.1,
+                     "km":  85.89,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:12",
@@ -264,7 +264,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  36.2,
+                     "km":  46.55,
                      "semPed":  3,
                      "perc":  42.86,
                      "primeiro":  "08:26",
@@ -1868,13 +1868,13 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MERCATELLO LTDA.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "01:15:13"
+                         "tempo":  "01:30:17"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:23:46"
+                         "tempo":  "01:38:50"
                      }
                  ],
     "hist":  [
@@ -10361,7 +10361,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10405,7 +10405,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  44.1,
+                                                       "km":  46.84,
                                                        "tv":  452
                                                    },
                                                    {
@@ -10477,7 +10477,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  76.1,
+                                                       "km":  85.89,
                                                        "tv":  360
                                                    },
                                                    {
@@ -10522,7 +10522,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  4,
-                                                       "km":  36.2,
+                                                       "km":  46.55,
                                                        "tv":  329
                                                    },
                                                    {
