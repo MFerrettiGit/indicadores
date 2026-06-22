@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "10:42",
                      "tv":  "03:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "11:11",
                      "tv":  "02:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  41.32,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:48",
+                     "ultimo":  "11:32",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -330,21 +345,6 @@ window.PAINEL = {
                      "primeiro":  "08:52",
                      "ultimo":  "09:36",
                      "tv":  "00:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  2.69,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:48",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -699,6 +699,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "OFELIA SARRI MORETE.",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "08:48:47",
+                         "out":  "11:32:43",
+                         "km":  38.63,
+                         "dur":  "02:43:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -764,7 +773,7 @@ window.PAINEL = {
                         "obs":  "reunião escolar filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:06:05"
+                        "tempo":  "03:21:11"
                     },
                     {
                         "nome":  "Maira",
@@ -772,7 +781,7 @@ window.PAINEL = {
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:52:43"
+                        "tempo":  "02:07:49"
                     }
                 ],
     "semped":  [
@@ -818,103 +827,109 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:57:23"
+                         "tempo":  "01:12:29"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:23:59"
+                         "tempo":  "00:39:05"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:09:24"
+                         "tempo":  "00:24:30"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:19:23"
+                         "tempo":  "01:34:29"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:07:55"
+                         "tempo":  "00:23:01"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:20:30"
+                         "tempo":  "00:35:36"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. PARE",
                          "mun":  "JAGUARIUNA",
-                         "tempo":  "01:52:29"
+                         "tempo":  "02:07:35"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:07:53"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "PONTAL",
+                         "tempo":  "00:12:42"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:18:58"
+                         "tempo":  "01:34:04"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:10:14"
+                         "tempo":  "00:25:20"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "J R SALES SUPERMERCADO LTDA",
                          "mun":  "RINCAO",
-                         "tempo":  "00:25:57"
+                         "tempo":  "00:41:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "RH COSTA SUPERMERCADO LTDA",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:13:10"
+                         "tempo":  "00:28:16"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:16:54"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "OFELIA SARRI MORETE.",
-                         "mun":  "HORTOLANDIA",
-                         "tempo":  "02:30:58"
+                         "tempo":  "00:32:00"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:10:34"
+                         "tempo":  "01:25:40"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:53:56"
+                         "tempo":  "02:09:02"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:03:58"
+                         "tempo":  "00:19:04"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:37:47"
+                         "tempo":  "01:52:53"
                      }
                  ],
     "hist":  [
@@ -1015,7 +1030,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     39,
+                     40,
                      6
                  ]
              ],
@@ -9401,7 +9416,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9593,6 +9608,15 @@ window.PAINEL = {
                                                        "tv":  115
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  41.32,
+                                                       "tv":  163
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -9600,15 +9624,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  103.76,
                                                        "tv":  43
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  2.69,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -9879,6 +9894,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  13.85,
                                                          "tv":  34
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "OFELIA SARRI MORETE.",
+                                                         "p":  1,
+                                                         "km":  38.63,
+                                                         "tv":  163
                                                      },
                                                      {
                                                          "n":  "Mariangela",

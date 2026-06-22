@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8572,6 +8572,15 @@
                                      "tv":  115
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  41.32,
+                                     "tv":  163
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -8579,15 +8588,6 @@
                                      "pe":  1,
                                      "km":  103.76,
                                      "tv":  43
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.69,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Karina",
@@ -8858,6 +8858,13 @@
                                        "p":  1,
                                        "km":  13.85,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "OFELIA SARRI MORETE.",
+                                       "p":  1,
+                                       "km":  38.63,
+                                       "tv":  163
                                    },
                                    {
                                        "n":  "Mariangela",
