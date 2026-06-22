@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -8458,10 +8458,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  52.89,
-                                     "tv":  52
+                                     "km":  54.26,
+                                     "tv":  111
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -8491,6 +8491,15 @@
                                      "tv":  48
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  11.63,
+                                     "tv":  64
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -8498,15 +8507,6 @@
                                      "pe":  0,
                                      "km":  4.95,
                                      "tv":  29
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.25,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -8527,6 +8527,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  10.88,
+                                     "tv":  34
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -8534,15 +8543,6 @@
                                      "pe":  0,
                                      "km":  12.17,
                                      "tv":  22
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  10.22,
-                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -8657,6 +8657,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
+                                       "p":  1,
+                                       "km":  5.38,
+                                       "tv":  64
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                                        "p":  0,
@@ -8671,6 +8678,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.37,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "G.I.M. SUPERMERCADO LTDA",
                                        "p":  1,
@@ -8683,6 +8697,13 @@
                                        "p":  1,
                                        "km":  10.22,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  0.66,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Cominato",
