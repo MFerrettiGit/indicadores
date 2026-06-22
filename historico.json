@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8390,6 +8390,15 @@
                                      "pe":  0,
                                      "km":  25.09,
                                      "tv":  305
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  62.54,
+                                     "tv":  387
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -8408,15 +8417,6 @@
                                      "pe":  0,
                                      "km":  31.3,
                                      "tv":  377
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  56.95,
-                                     "tv":  358
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -8473,6 +8473,15 @@
                                      "tv":  299
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  65.22,
+                                     "tv":  361
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -8480,15 +8489,6 @@
                                      "pe":  3,
                                      "km":  39.16,
                                      "tv":  315
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  39.92,
-                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Costa",
@@ -8521,10 +8521,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
                                      "km":  4.95,
-                                     "tv":  29
+                                     "tv":  61
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -8543,6 +8543,15 @@
                                      "pe":  5,
                                      "km":  56.07,
                                      "tv":  250
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  105.95,
+                                     "tv":  334
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -8579,15 +8588,6 @@
                                      "pe":  4,
                                      "km":  58.51,
                                      "tv":  319
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  105.74,
-                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Karina",
@@ -8634,6 +8634,13 @@
                                        "p":  1,
                                        "km":  6.99,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  5.59,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Debora",
@@ -8958,6 +8965,13 @@
                                        "tv":  29
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "MERCADO NOVO MUNDO AMERICANA LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -9040,6 +9054,13 @@
                                        "p":  1,
                                        "km":  0.72,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "TERIN TERIN CIA LTDA.",
+                                       "p":  1,
+                                       "km":  25.3,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -9278,6 +9299,13 @@
                                        "p":  1,
                                        "km":  0.72,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "CARVALHO RIBEIRO",
+                                       "p":  1,
+                                       "km":  0.21,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Nelson",
