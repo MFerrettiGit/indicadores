@@ -8380,8 +8380,35 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  45.14,
+                                     "tv":  140
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  17.7,
+                                     "tv":  130
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  5.68,
+                                     "tv":  153
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -8392,24 +8419,6 @@
                                      "tv":  132
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  40.03,
-                                     "tv":  81
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  12.36,
-                                     "tv":  43
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -8417,15 +8426,6 @@
                                      "pe":  0,
                                      "km":  31.59,
                                      "tv":  77
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.24,
-                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -8509,21 +8509,21 @@
                                      "tv":  29
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  21.54,
+                                     "tv":  28
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.94,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.36,
                                      "tv":  0
                                  },
                                  {
@@ -8563,6 +8563,15 @@
                                      "tv":  22
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  103.76,
+                                     "tv":  43
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -8578,15 +8587,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.69,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  69.63,
                                      "tv":  0
                                  },
                                  {
@@ -8650,11 +8650,25 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                       "p":  1,
+                                       "km":  5.11,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
                                        "km":  2.13,
                                        "tv":  107
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  1.44,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -8669,6 +8683,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                                       "p":  1,
+                                       "km":  0.18,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Luis",
@@ -8732,6 +8753,13 @@
                                        "p":  1,
                                        "km":  8.32,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
+                                       "p":  1,
+                                       "km":  34.13,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Nelson",
