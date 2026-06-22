@@ -8380,8 +8380,17 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  22.47,
+                                     "tv":  283
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -8399,15 +8408,6 @@
                                      "pe":  0,
                                      "km":  22.11,
                                      "tv":  308
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  9.66,
-                                     "tv":  268
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -8500,6 +8500,15 @@
                                      "tv":  218
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  44.93,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -8507,15 +8516,6 @@
                                      "pe":  2,
                                      "km":  34.46,
                                      "tv":  197
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  42.2,
-                                     "tv":  145
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8559,7 +8559,7 @@
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  4.23,
+                                     "km":  7.68,
                                      "tv":  214
                                  },
                                  {
@@ -8769,6 +8769,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  12.81,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8816,6 +8823,13 @@
                                        "p":  1,
                                        "km":  20.66,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SILMELO MINIMERCADO LTDA - EPP.",
+                                       "p":  1,
+                                       "km":  2.73,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Luis",
