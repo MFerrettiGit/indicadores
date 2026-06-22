@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8395,10 +8395,10 @@
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  51.68,
-                                     "tv":  247
+                                     "km":  63.86,
+                                     "tv":  385
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -8410,6 +8410,24 @@
                                      "tv":  308
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  41.24,
+                                     "tv":  374
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  49.96,
+                                     "tv":  325
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -8417,24 +8435,6 @@
                                      "pe":  0,
                                      "km":  22.96,
                                      "tv":  328
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  39.17,
-                                     "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  48.14,
-                                     "tv":  287
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -8458,10 +8458,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  108.19,
-                                     "tv":  266
+                                     "km":  111.24,
+                                     "tv":  365
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -8473,6 +8473,15 @@
                                      "tv":  299
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  39.92,
+                                     "tv":  301
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -8482,22 +8491,13 @@
                                      "tv":  275
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  39.2,
-                                     "tv":  246
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  67.01,
-                                     "tv":  211
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  70.23,
+                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -8545,6 +8545,15 @@
                                      "tv":  151
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  23.76,
+                                     "tv":  232
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -8561,15 +8570,6 @@
                                      "pe":  2,
                                      "km":  7.68,
                                      "tv":  214
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  14.97,
-                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -8622,6 +8622,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.08",
+                                       "p":  1,
+                                       "km":  1.82,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8641,6 +8648,13 @@
                                        "p":  1,
                                        "km":  3.77,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.07,
+                                       "tv":  105
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -8748,6 +8762,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  12.18,
+                                       "tv":  138
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -8823,6 +8844,13 @@
                                        "p":  1,
                                        "km":  4.71,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.22,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Fernando",
@@ -8923,6 +8951,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  3.05,
+                                       "tv":  99
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "G.I.M. SUPERMERCADO LTDA",
                                        "p":  1,
@@ -8949,6 +8984,13 @@
                                        "p":  0,
                                        "km":  0.9,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.72,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -8984,6 +9026,13 @@
                                        "p":  1,
                                        "km":  4.29,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                                       "p":  1,
+                                       "km":  8.79,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Castro",
