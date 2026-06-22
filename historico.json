@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8482,6 +8482,15 @@
                                      "tv":  166
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.46,
+                                     "tv":  197
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -8491,22 +8500,13 @@
                                      "tv":  134
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.92,
-                                     "tv":  60
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.51,
-                                     "tv":  114
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  81.52,
+                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8530,19 +8530,19 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  22.56,
-                                     "tv":  105
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  55.09,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  25.96,
-                                     "tv":  112
+                                     "km":  26.55,
+                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Castro",
@@ -8804,11 +8804,25 @@
                                        "tv":  60
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. PARE",
+                                       "p":  1,
+                                       "km":  17.54,
+                                       "tv":  137
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
                                        "p":  1,
                                        "km":  38.57,
                                        "tv":  114
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "J R SALES SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  41.01,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Alan",
@@ -8846,6 +8860,13 @@
                                        "tv":  90
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
+                                       "p":  0,
+                                       "km":  0.59,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1,
@@ -8858,6 +8879,13 @@
                                        "p":  1,
                                        "km":  13.85,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "RH COSTA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  32.53,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Lucas",

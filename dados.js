@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "07:52",
                      "ultimo":  "10:25",
                      "tv":  "02:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  34.46,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:45",
+                     "tv":  "03:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -184,34 +199,19 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  16.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "09:02",
-                     "tv":  "01:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  40.51,
+                     "visitas":  2,
+                     "km":  81.52,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:17",
-                     "ultimo":  "10:12",
-                     "tv":  "01:54:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "11:48",
+                     "tv":  "02:48:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -248,13 +248,13 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  22.56,
+                     "visitas":  3,
+                     "km":  55.09,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:17",
-                     "ultimo":  "10:19",
-                     "tv":  "01:45:00",
+                     "ultimo":  "11:46",
+                     "tv":  "02:24:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -263,13 +263,13 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  25.96,
-                     "semPed":  1,
-                     "perc":  50,
+                     "visitas":  3,
+                     "km":  26.55,
+                     "semPed":  2,
+                     "perc":  66.67,
                      "primeiro":  "08:26",
-                     "ultimo":  "11:02",
-                     "tv":  "01:52:00",
+                     "ultimo":  "11:39",
+                     "tv":  "02:15:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -627,6 +627,15 @@ window.PAINEL = {
                          "dur":  "01:00:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUP. PARE",
+                         "mun":  "JAGUARIUNA",
+                         "in":  "09:27:16",
+                         "out":  "11:45:10",
+                         "km":  17.54,
+                         "dur":  "02:17:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
@@ -634,6 +643,15 @@ window.PAINEL = {
                          "out":  "10:12:09",
                          "km":  38.57,
                          "dur":  "01:54:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "J R SALES SUPERMERCADO LTDA",
+                         "mun":  "RINCAO",
+                         "in":  "10:53:48",
+                         "out":  "11:48:37",
+                         "km":  41.01,
+                         "dur":  "00:54:00"
                      },
                      {
                          "nome":  "Alan",
@@ -681,6 +699,15 @@ window.PAINEL = {
                          "dur":  "01:30:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:15:47",
+                         "out":  "11:39:34",
+                         "km":  0.59,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -697,6 +724,15 @@ window.PAINEL = {
                          "out":  "10:19:26",
                          "km":  13.85,
                          "dur":  "00:34:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "RH COSTA SUPERMERCADO LTDA",
+                         "mun":  "JOANOPOLIS",
+                         "in":  "11:06:35",
+                         "out":  "11:46:12",
+                         "km":  32.53,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -727,6 +763,14 @@ window.PAINEL = {
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Outro",
+                        "obs":  "reunião escolar filha",
+                        "inicio":  "08:14",
+                        "final":  "11:48",
+                        "tempo":  "03:33:44"
+                    },
                     {
                         "nome":  "Lucas",
                         "tipo":  "Em Viagem",
@@ -768,20 +812,28 @@ window.PAINEL = {
                         "tempo":  "00:53:09"
                     },
                     {
-                        "nome":  "Karina",
-                        "tipo":  "Outro",
-                        "obs":  "reunião escolar filha",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "03:21:11"
-                    },
-                    {
                         "nome":  "Maira",
                         "tipo":  "Outro",
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:07:49"
+                        "tempo":  "02:22:49"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:12"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Rincao a Américo Brasiliense",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:07"
                     }
                 ],
     "semped":  [
@@ -820,116 +872,116 @@ window.PAINEL = {
                        "razao":  "ANTONIO CESAR DETONI",
                        "mun":  "PIRACICABA",
                        "obs":  "Ausente"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento"
                    }
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:51"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:12:29"
+                         "tempo":  "01:27:28"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:39:05"
+                         "tempo":  "00:54:04"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:30"
+                         "tempo":  "00:39:29"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:34:29"
+                         "tempo":  "01:49:28"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:23:01"
+                         "tempo":  "00:38:00"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:35:36"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUP. PARE",
-                         "mun":  "JAGUARIUNA",
-                         "tempo":  "02:07:35"
+                         "tempo":  "00:50:35"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:07:53"
+                         "tempo":  "00:22:52"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "PONTAL",
-                         "tempo":  "00:12:42"
+                         "tempo":  "00:27:41"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:34:04"
+                         "tempo":  "01:49:03"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:25:20"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "J R SALES SUPERMERCADO LTDA",
-                         "mun":  "RINCAO",
-                         "tempo":  "00:41:03"
+                         "tempo":  "00:40:19"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "RH COSTA SUPERMERCADO LTDA",
+                         "razao":  "SUPERMERCADO DONINE LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:28:16"
+                         "tempo":  "00:00:47"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:32:00"
+                         "tempo":  "00:46:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:25:40"
+                         "tempo":  "01:40:39"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:09:02"
+                         "tempo":  "02:24:01"
                      },
                      {
                          "nome":  "Cominato",
-                         "razao":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
+                         "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:19:04"
+                         "tempo":  "00:00:57"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:52:53"
+                         "tempo":  "02:07:52"
                      }
                  ],
     "hist":  [
@@ -1030,8 +1082,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     40,
-                     6
+                     44,
+                     7
                  ]
              ],
     "historico":  {
@@ -9416,7 +9468,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9518,6 +9570,15 @@ window.PAINEL = {
                                                        "tv":  166
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  34.46,
+                                                       "tv":  197
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -9527,22 +9588,13 @@ window.PAINEL = {
                                                        "tv":  134
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  16.92,
-                                                       "tv":  60
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  40.51,
-                                                       "tv":  114
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  81.52,
+                                                       "tv":  168
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -9566,19 +9618,19 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  22.56,
-                                                       "tv":  105
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  55.09,
+                                                       "tv":  144
                                                    },
                                                    {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  1,
-                                                       "km":  25.96,
-                                                       "tv":  112
+                                                       "km":  26.55,
+                                                       "tv":  135
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -9840,11 +9892,25 @@ window.PAINEL = {
                                                          "tv":  60
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUP. PARE",
+                                                         "p":  1,
+                                                         "km":  17.54,
+                                                         "tv":  137
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
                                                          "p":  1,
                                                          "km":  38.57,
                                                          "tv":  114
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "J R SALES SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  41.01,
+                                                         "tv":  54
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -9882,6 +9948,13 @@ window.PAINEL = {
                                                          "tv":  90
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
+                                                         "p":  0,
+                                                         "km":  0.59,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1,
@@ -9894,6 +9967,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  13.85,
                                                          "tv":  34
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "RH COSTA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  32.53,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Lucas",
