@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -8467,10 +8467,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  15.66,
-                                     "tv":  34
+                                     "km":  16.39,
+                                     "tv":  92
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -8536,6 +8536,24 @@
                                      "tv":  34
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.5,
+                                     "tv":  80
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  8.71,
+                                     "tv":  71
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -8545,30 +8563,12 @@
                                      "tv":  22
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.51,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.39,
                                      "tv":  0
                                  },
                                  {
@@ -8615,11 +8615,25 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  5.34,
+                                       "tv":  87
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  0,
                                        "km":  11.38,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  0.73,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Eliana",
@@ -8711,6 +8725,20 @@
                                        "p":  0,
                                        "km":  12.17,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  1,
+                                       "km":  8.32,
+                                       "tv":  71
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  0.99,
+                                       "tv":  80
                                    }
                                ]
                    }
