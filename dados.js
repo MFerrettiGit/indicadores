@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  39.16,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:14",
+                     "ultimo":  "16:09",
+                     "tv":  "05:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:57",
                      "tv":  "05:01:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  30.19,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:14",
-                     "ultimo":  "14:49",
-                     "tv":  "04:35:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "16:02",
                      "tv":  "04:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  35.84,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:26",
+                     "ultimo":  "16:17",
+                     "tv":  "04:54:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -255,21 +270,6 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "14:42",
                      "tv":  "04:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  35.16,
-                     "semPed":  3,
-                     "perc":  60,
-                     "primeiro":  "08:26",
-                     "ultimo":  "15:19",
-                     "tv":  "04:02:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -319,6 +319,36 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  58.51,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:48",
+                     "ultimo":  "16:14",
+                     "tv":  "05:19:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  105.74,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:52",
+                     "ultimo":  "16:10",
+                     "tv":  "05:15:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -330,36 +360,6 @@ window.PAINEL = {
                      "primeiro":  "13:26",
                      "ultimo":  "15:59",
                      "tv":  "02:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  56.92,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:48",
-                     "ultimo":  "15:38",
-                     "tv":  "04:49:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  105.02,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:52",
-                     "ultimo":  "15:26",
-                     "tv":  "04:39:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -807,6 +807,15 @@ window.PAINEL = {
                          "dur":  "01:09:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "PEG. LEV. SECOS E MOLHADOS LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "15:28:31",
+                         "out":  "16:09:26",
+                         "km":  8.97,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                          "mun":  "AMERICANA",
@@ -1068,6 +1077,15 @@ window.PAINEL = {
                          "dur":  "01:31:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:25:46",
+                         "out":  "16:17:53",
+                         "km":  0.68,
+                         "dur":  "00:52:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -1176,6 +1194,15 @@ window.PAINEL = {
                          "dur":  "01:21:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "GLOBAL SUPERMERCADO LTDA",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "15:43:14",
+                         "out":  "16:14:09",
+                         "km":  1.59,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -1201,6 +1228,15 @@ window.PAINEL = {
                          "out":  "15:26:32",
                          "km":  0.7,
                          "dur":  "00:58:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SANTA BRANCA",
+                         "in":  "15:33:35",
+                         "out":  "16:10:10",
+                         "km":  0.72,
+                         "dur":  "00:36:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1545,6 +1581,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "PEG. LEV. SECOS E MOLHADOS LTDA.",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "ANTONIO CESAR DETONI",
                        "mun":  "PIRACICABA",
@@ -1568,97 +1610,97 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:44:20"
+                         "tempo":  "00:59:17"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:58:48"
+                         "tempo":  "01:13:45"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
                          "mun":  "SUMARE",
-                         "tempo":  "00:01:47"
+                         "tempo":  "00:16:44"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:52"
+                         "tempo":  "00:15:49"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:14:42"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "MERCADO NOVO MUNDO AMERICANA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:15:25"
+                         "tempo":  "00:30:22"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "TERIN TERIN CIA LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:40:33"
+                         "tempo":  "00:55:30"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "PEG. LEV. SECOS E MOLHADOS LTDA.",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:36:21"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO CANESIN LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:07:54"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:11:30"
+                         "tempo":  "00:26:27"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "D. ALVES JUNIOR E CIA LTDA-ME.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "01:13:04"
+                         "tempo":  "01:28:01"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "DMIX SUPERMERCADOS LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:43:19"
+                         "tempo":  "00:58:16"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:28"
+                         "tempo":  "00:23:25"
                      },
                      {
-                         "nome":  "Lucas",
-                         "razao":  "GLOBAL SUPERMERCADO LTDA",
-                         "mun":  "HORTOLANDIA",
-                         "tempo":  "00:21:38"
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:02:50"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:00:41"
+                         "tempo":  "00:15:38"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:47:25"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:39:06"
+                         "tempo":  "01:02:22"
                      },
                      {
                          "nome":  "Mariangela",
-                         "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                         "razao":  "CARVALHO RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:31:17"
+                         "tempo":  "00:06:23"
                      }
                  ],
     "hist":  [
@@ -1759,8 +1801,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     97,
-                     12
+                     101,
+                     13
                  ]
              ],
     "historico":  {
@@ -10145,7 +10187,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -10238,6 +10280,15 @@ window.PAINEL = {
                                                        "tv":  299
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  39.16,
+                                                       "tv":  315
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -10245,15 +10296,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  39.92,
                                                        "tv":  301
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  30.19,
-                                                       "tv":  275
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -10292,6 +10334,15 @@ window.PAINEL = {
                                                        "tv":  29
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  35.84,
+                                                       "tv":  294
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -10299,15 +10350,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  56.07,
                                                        "tv":  250
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  2,
-                                                       "km":  35.16,
-                                                       "tv":  242
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -10337,6 +10379,24 @@ window.PAINEL = {
                                                        "tv":  251
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  58.51,
+                                                       "tv":  319
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  105.74,
+                                                       "tv":  315
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -10344,24 +10404,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  20.91,
                                                        "tv":  120
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  56.92,
-                                                       "tv":  289
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  105.02,
-                                                       "tv":  279
                                                    }
                                                ],
                                          "cli":  [
@@ -10709,6 +10751,13 @@ window.PAINEL = {
                                                          "tv":  69
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "PEG. LEV. SECOS E MOLHADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  8.97,
+                                                         "tv":  40
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                                                          "p":  0,
@@ -10912,6 +10961,13 @@ window.PAINEL = {
                                                          "tv":  91
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.68,
+                                                         "tv":  52
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1,
@@ -10996,6 +11052,13 @@ window.PAINEL = {
                                                          "tv":  81
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "GLOBAL SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  1.59,
+                                                         "tv":  30
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                                                          "p":  1,
@@ -11015,6 +11078,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.7,
                                                          "tv":  58
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  0.72,
+                                                         "tv":  36
                                                      },
                                                      {
                                                          "n":  "Nelson",

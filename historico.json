@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8473,6 +8473,15 @@
                                      "tv":  299
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  39.16,
+                                     "tv":  315
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -8480,15 +8489,6 @@
                                      "pe":  3,
                                      "km":  39.92,
                                      "tv":  301
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  30.19,
-                                     "tv":  275
                                  },
                                  {
                                      "nome":  "Costa",
@@ -8527,6 +8527,15 @@
                                      "tv":  29
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  35.84,
+                                     "tv":  294
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -8534,15 +8543,6 @@
                                      "pe":  5,
                                      "km":  56.07,
                                      "tv":  250
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  2,
-                                     "km":  35.16,
-                                     "tv":  242
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -8572,6 +8572,24 @@
                                      "tv":  251
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  58.51,
+                                     "tv":  319
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  105.74,
+                                     "tv":  315
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -8579,24 +8597,6 @@
                                      "pe":  4,
                                      "km":  20.91,
                                      "tv":  120
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  56.92,
-                                     "tv":  289
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  105.02,
-                                     "tv":  279
                                  }
                              ],
                        "cli":  [
@@ -8944,6 +8944,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "PEG. LEV. SECOS E MOLHADOS LTDA.",
+                                       "p":  0,
+                                       "km":  8.97,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                                        "p":  0,
@@ -9147,6 +9154,13 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                                       "p":  1,
+                                       "km":  0.68,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1,
@@ -9231,6 +9245,13 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "GLOBAL SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.59,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                                        "p":  1,
@@ -9250,6 +9271,13 @@
                                        "p":  1,
                                        "km":  0.7,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  0.72,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Nelson",
