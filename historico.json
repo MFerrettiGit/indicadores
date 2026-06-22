@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8410,30 +8410,30 @@
                                      "tv":  77
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  4.24,
+                                     "tv":  107
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  13.38,
+                                     "tv":  80
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.11,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.92,
                                      "tv":  0
                                  },
                                  {
@@ -8527,6 +8527,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  12.17,
+                                     "tv":  22
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -8554,9 +8563,9 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -8569,15 +8578,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.69,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -8629,11 +8629,32 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  2.13,
+                                       "tv":  107
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  6.46,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
                                        "km":  52.89,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ANTONIO CESAR DETONI",
+                                       "p":  0,
+                                       "km":  12.17,
+                                       "tv":  22
                                    }
                                ]
                    }
