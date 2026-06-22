@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8433,7 +8433,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  43.61,
+                                     "km":  78.14,
                                      "tv":  480
                                  },
                                  {
@@ -8527,6 +8527,15 @@
                                      "tv":  61
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  81.18,
+                                     "tv":  380
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -8536,22 +8545,13 @@
                                      "tv":  329
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  79.77,
-                                     "tv":  352
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
+                                     "vi":  7,
+                                     "pe":  7,
                                      "km":  70.91,
-                                     "tv":  366
+                                     "tv":  384
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -8563,6 +8563,24 @@
                                      "tv":  326
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  29.43,
+                                     "tv":  380
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  40.05,
+                                     "tv":  391
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -8572,31 +8590,13 @@
                                      "tv":  334
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  25.51,
-                                     "tv":  276
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  30.99,
-                                     "tv":  251
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  20.91,
-                                     "tv":  120
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  32.02,
+                                     "tv":  207
                                  }
                              ],
                        "cli":  [
@@ -9168,6 +9168,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  3.92,
+                                       "tv":  104
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA",
                                        "p":  1,
@@ -9194,6 +9201,13 @@
                                        "p":  1,
                                        "km":  8.77,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  9.06,
+                                       "tv":  140
                                    },
                                    {
                                        "n":  "Cominato",
@@ -9287,6 +9301,13 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO DO HAKUO LTDA",
+                                       "p":  1,
+                                       "km":  1.41,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "M SAMPAIO DEDE MERCADO",
                                        "p":  1,
@@ -9313,6 +9334,13 @@
                                        "p":  1,
                                        "km":  4.44,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                       "p":  1,
+                                       "km":  11.11,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Lucas",
@@ -9355,6 +9383,13 @@
                                        "p":  1,
                                        "km":  8.56,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO SERV BEM HORTOLANDIA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Mariangela",
