@@ -8380,8 +8380,17 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  34.15,
+                                     "tv":  403
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -8408,15 +8417,6 @@
                                      "pe":  0,
                                      "km":  63.86,
                                      "tv":  385
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  31.3,
-                                     "tv":  377
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -8500,6 +8500,15 @@
                                      "tv":  257
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  106.5,
+                                     "tv":  328
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -8507,15 +8516,6 @@
                                      "pe":  4,
                                      "km":  57.83,
                                      "tv":  274
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  97.89,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8536,6 +8536,15 @@
                                      "tv":  294
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  72.55,
+                                     "tv":  326
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -8545,6 +8554,15 @@
                                      "tv":  250
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  62.35,
+                                     "tv":  343
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -8552,15 +8570,6 @@
                                      "pe":  5,
                                      "km":  105.95,
                                      "tv":  334
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  71.86,
-                                     "tv":  282
                                  },
                                  {
                                      "nome":  "Alan",
@@ -8579,15 +8588,6 @@
                                      "pe":  4,
                                      "km":  30.99,
                                      "tv":  251
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  58.51,
-                                     "tv":  319
                                  },
                                  {
                                      "nome":  "Karina",
@@ -8704,6 +8704,13 @@
                                        "p":  1,
                                        "km":  9.19,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  2.85,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -8916,6 +8923,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO CANESIN LTDA.",
+                                       "p":  1,
+                                       "km":  5.86,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
                                        "p":  1,
@@ -9082,6 +9096,13 @@
                                        "p":  1,
                                        "km":  16.37,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "D. ALVES JUNIOR E CIA LTDA-ME.",
+                                       "p":  1,
+                                       "km":  8.61,
+                                       "tv":  110
                                    },
                                    {
                                        "n":  "Alan",
@@ -9273,6 +9294,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "OFELIA SARRI MORETE",
+                                       "p":  1,
+                                       "km":  3.84,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                                        "p":  1,
@@ -9334,6 +9362,13 @@
                                        "p":  1,
                                        "km":  1.76,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  1,
+                                       "km":  0.69,
+                                       "tv":  44
                                    }
                                ]
                    }
