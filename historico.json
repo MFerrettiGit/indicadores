@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8397,7 +8397,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  34.15,
+                                     "km":  48.62,
                                      "tv":  403
                                  },
                                  {
@@ -8440,10 +8440,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  25.12,
-                                     "tv":  293
+                                     "km":  29.79,
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -8487,8 +8487,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  3,
-                                     "km":  39.16,
+                                     "km":  41.13,
                                      "tv":  315
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  76.1,
+                                     "tv":  360
                                  },
                                  {
                                      "nome":  "Costa",
@@ -8496,17 +8505,8 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  72.56,
+                                     "km":  121.58,
                                      "tv":  341
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  63.69,
-                                     "tv":  312
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -8523,7 +8523,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  4.95,
+                                     "km":  11.43,
                                      "tv":  61
                                  },
                                  {
@@ -8559,7 +8559,7 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  72.55,
+                                     "km":  138.32,
                                      "tv":  326
                                  },
                                  {
@@ -8895,6 +8895,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  4.67,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "COMERCIO DE ALIMENTOS TERRA NOVA LTDA",
                                        "p":  1,
@@ -8963,6 +8970,13 @@
                                        "p":  1,
                                        "km":  5.86,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "POSTO DO TREVO LTDA",
+                                       "p":  1,
+                                       "km":  12.41,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Luis",

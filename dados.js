@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -24,7 +24,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  34.15,
+                     "km":  48.62,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:59",
@@ -98,14 +98,14 @@ window.PAINEL = {
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  25.12,
+                     "visitas":  4,
+                     "km":  29.79,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:15",
-                     "ultimo":  "15:09",
-                     "tv":  "04:53:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:51",
+                     "tv":  "05:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  39.16,
+                     "km":  41.13,
                      "semPed":  3,
                      "perc":  50,
                      "primeiro":  "08:14",
@@ -184,33 +184,33 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  76.1,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:12",
+                     "ultimo":  "17:54",
+                     "tv":  "06:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  72.56,
+                     "km":  121.58,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:07",
                      "ultimo":  "17:18",
                      "tv":  "05:41:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  63.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:12",
-                     "ultimo":  "16:50",
-                     "tv":  "05:12:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -234,7 +234,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  4.95,
+                     "km":  11.43,
                      "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:22",
@@ -294,14 +294,14 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  72.55,
+                     "km":  138.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:06",
                      "ultimo":  "16:48",
                      "tv":  "05:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "01:28:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "SOROCABA",
+                         "in":  "17:32:52",
+                         "out":  "17:51:29",
+                         "km":  4.67,
+                         "dur":  "00:18:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "COMERCIO DE ALIMENTOS TERRA NOVA LTDA",
                          "mun":  "RIO CLARO",
@@ -832,6 +841,15 @@ window.PAINEL = {
                          "out":  "16:50:48",
                          "km":  5.86,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "17:05:45",
+                         "out":  "17:54:43",
+                         "km":  12.41,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1595,6 +1613,14 @@ window.PAINEL = {
                         "tempo":  "01:12:23"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "rangel",
+                        "inicio":  "16:51",
+                        "final":  "17:55",
+                        "tempo":  "01:04:02"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
@@ -1737,14 +1763,6 @@ window.PAINEL = {
                         "inicio":  "13:40",
                         "final":  "14:39",
                         "tempo":  "00:59:24"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "rangel",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:12"
                     }
                 ],
     "semped":  [
@@ -1847,28 +1865,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
-                         "mun":  "SOROCABA",
-                         "tempo":  "00:16:55"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "POSTO DO TREVO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:44:02"
-                     },
-                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MERCATELLO LTDA.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "01:00:14"
+                         "tempo":  "01:15:13"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:08:47"
+                         "tempo":  "01:23:46"
                      }
                  ],
     "hist":  [
@@ -1969,7 +1975,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     123,
+                     125,
                      16
                  ]
              ],
@@ -10355,7 +10361,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10372,7 +10378,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  34.15,
+                                                       "km":  48.62,
                                                        "tv":  403
                                                    },
                                                    {
@@ -10415,10 +10421,10 @@ window.PAINEL = {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  25.12,
-                                                       "tv":  293
+                                                       "km":  29.79,
+                                                       "tv":  311
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -10462,8 +10468,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  3,
-                                                       "km":  39.16,
+                                                       "km":  41.13,
                                                        "tv":  315
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  76.1,
+                                                       "tv":  360
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -10471,17 +10486,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  72.56,
+                                                       "km":  121.58,
                                                        "tv":  341
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  63.69,
-                                                       "tv":  312
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -10498,7 +10504,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  4.95,
+                                                       "km":  11.43,
                                                        "tv":  61
                                                    },
                                                    {
@@ -10534,7 +10540,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  72.55,
+                                                       "km":  138.32,
                                                        "tv":  326
                                                    },
                                                    {
@@ -10870,6 +10876,13 @@ window.PAINEL = {
                                                          "tv":  88
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.67,
+                                                         "tv":  18
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "COMERCIO DE ALIMENTOS TERRA NOVA LTDA",
                                                          "p":  1,
@@ -10938,6 +10951,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.86,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "POSTO DO TREVO LTDA",
+                                                         "p":  1,
+                                                         "km":  12.41,
+                                                         "tv":  48
                                                      },
                                                      {
                                                          "n":  "Luis",
