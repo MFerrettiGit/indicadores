@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8467,10 +8467,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  66.81,
-                                     "tv":  299
+                                     "km":  121.01,
+                                     "tv":  432
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -8545,6 +8545,15 @@
                                      "tv":  352
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  70.91,
+                                     "tv":  366
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -8552,15 +8561,6 @@
                                      "pe":  5,
                                      "km":  72.55,
                                      "tv":  326
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  62.35,
-                                     "tv":  343
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -8746,6 +8746,13 @@
                                        "p":  0,
                                        "km":  47.72,
                                        "tv":  170
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  54.2,
+                                       "tv":  133
                                    },
                                    {
                                        "n":  "Eliana",
@@ -9341,6 +9348,13 @@
                                        "p":  1,
                                        "km":  3.84,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "F. F. DINIZ SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  8.56,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Mariangela",

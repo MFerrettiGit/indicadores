@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:15",
                      "ultimo":  "15:09",
                      "tv":  "04:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  66.81,
-                     "semPed":  4,
+                     "visitas":  5,
+                     "km":  121.01,
+                     "semPed":  5,
                      "perc":  100,
                      "primeiro":  "07:52",
-                     "ultimo":  "14:27",
-                     "tv":  "04:59:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:33",
+                     "tv":  "07:12:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  70.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:48",
+                     "ultimo":  "17:26",
+                     "tv":  "06:06:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -287,21 +302,6 @@ window.PAINEL = {
                      "tv":  "05:26:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  62.35,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:48",
-                     "ultimo":  "16:49",
-                     "tv":  "05:43:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -553,6 +553,15 @@ window.PAINEL = {
                          "out":  "14:27:31",
                          "km":  47.72,
                          "dur":  "02:50:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:20:32",
+                         "out":  "17:33:49",
+                         "km":  54.2,
+                         "dur":  "02:13:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -1320,6 +1329,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "F. F. DINIZ SUPERMERCADO LTDA",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "17:02:14",
+                         "out":  "17:26:21",
+                         "km":  8.56,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -1665,7 +1683,7 @@ window.PAINEL = {
                         "obs":  "ciamdrighi/pare leve/gim/ terin",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:55:19"
+                        "tempo":  "01:10:14"
                     },
                     {
                         "nome":  "Nelson",
@@ -1673,7 +1691,7 @@ window.PAINEL = {
                         "obs":  "rangel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:21"
+                        "tempo":  "00:44:16"
                     }
                 ],
     "semped":  [
@@ -1710,6 +1728,12 @@ window.PAINEL = {
                    {
                        "nome":  "Eduardo",
                        "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                       "mun":  "CAMPINAS",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "COVABRA SUPERMERCADOS LTDA.",
                        "mun":  "CAMPINAS",
                        "obs":  "estocado"
                    },
@@ -1764,58 +1788,58 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:59:20"
+                         "nome":  "Vinicius",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:01:55"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "POSTO DO TREVO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:14:07"
+                         "tempo":  "00:29:02"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MERCATELLO LTDA.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "00:30:19"
+                         "tempo":  "00:45:14"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO DO HAKUO LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:10:48"
+                         "tempo":  "00:25:43"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:23:28"
+                         "tempo":  "01:38:23"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:02:53"
+                         "tempo":  "01:17:48"
                      },
                      {
                          "nome":  "Lucas",
-                         "razao":  "F. F. DINIZ SUPERMERCADO LTDA",
+                         "razao":  "SUPERMERCADO SERV BEM HORTOLANDIA LTDA",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:17:38"
+                         "tempo":  "00:07:48"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:02:25"
+                         "tempo":  "02:17:20"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:38:52"
+                         "tempo":  "00:53:47"
                      }
                  ],
     "hist":  [
@@ -1916,8 +1940,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     116,
-                     14
+                     118,
+                     15
                  ]
              ],
     "historico":  {
@@ -10302,7 +10326,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10389,10 +10413,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  66.81,
-                                                       "tv":  299
+                                                       "km":  121.01,
+                                                       "tv":  432
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -10467,6 +10491,15 @@ window.PAINEL = {
                                                        "tv":  352
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  70.91,
+                                                       "tv":  366
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -10474,15 +10507,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  72.55,
                                                        "tv":  326
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  62.35,
-                                                       "tv":  343
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -10668,6 +10692,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  47.72,
                                                          "tv":  170
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  54.2,
+                                                         "tv":  133
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -11263,6 +11294,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.84,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "F. F. DINIZ SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  8.56,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Mariangela",
