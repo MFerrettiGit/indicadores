@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8399,6 +8399,15 @@
                                      "pe":  0,
                                      "km":  63.86,
                                      "tv":  385
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  26.63,
+                                     "tv":  405
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -8428,22 +8437,13 @@
                                      "tv":  325
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  22.96,
-                                     "tv":  328
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  19.27,
-                                     "tv":  205
+                                     "km":  25.12,
+                                     "tv":  293
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -8539,10 +8539,28 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  35.16,
+                                     "tv":  242
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  1,
-                                     "km":  27.81,
-                                     "tv":  151
+                                     "pe":  4,
+                                     "km":  30.99,
+                                     "tv":  251
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  70.1,
+                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Alan",
@@ -8554,22 +8572,13 @@
                                      "tv":  232
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  22.22,
-                                     "tv":  220
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  7.68,
-                                     "tv":  214
+                                     "km":  16.47,
+                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -8588,15 +8597,6 @@
                                      "pe":  2,
                                      "km":  104.32,
                                      "tv":  221
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  15.66,
-                                     "tv":  43
                                  }
                              ],
                        "cli":  [
@@ -8734,6 +8734,13 @@
                                        "tv":  105
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  3.67,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8823,6 +8830,13 @@
                                        "p":  1,
                                        "km":  5.89,
                                        "tv":  125
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.85,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Costa",
@@ -9056,6 +9070,13 @@
                                        "tv":  186
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "V.R. INC LTDA",
+                                       "p":  1,
+                                       "km":  8.77,
+                                       "tv":  31
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "ANTONIO CESAR DETONI",
                                        "p":  0,
@@ -9082,6 +9103,13 @@
                                        "p":  0,
                                        "km":  1.26,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO BONA COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  7.35,
+                                       "tv":  91
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -9133,6 +9161,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
+                                       "p":  1,
+                                       "km":  0.81,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "OFELIA SARRI MORETE.",
                                        "p":  1,
@@ -9173,6 +9208,13 @@
                                        "p":  1,
                                        "km":  2.73,
                                        "tv":  134
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPER G DISTRIB. DE PRODUTOS ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  62.42,
+                                       "tv":  38
                                    }
                                ]
                    }
