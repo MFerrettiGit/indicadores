@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  19.09,
-                     "semPed":  3,
+                     "visitas":  4,
+                     "km":  66.81,
+                     "semPed":  4,
                      "perc":  100,
                      "primeiro":  "07:52",
-                     "ultimo":  "10:25",
-                     "tv":  "02:09:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:27",
+                     "tv":  "04:59:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "13:28",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "08:52",
                      "tv":  "00:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:52",
                      "ultimo":  "12:40",
                      "tv":  "03:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -353,13 +353,13 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  9.96,
+                     "visitas":  2,
+                     "km":  15.66,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "13:26",
-                     "ultimo":  "13:47",
-                     "tv":  "00:20:00",
+                     "ultimo":  "14:23",
+                     "tv":  "00:43:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -481,6 +481,15 @@ window.PAINEL = {
                          "out":  "10:25:43",
                          "km":  2.7,
                          "dur":  "00:37:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:36:59",
+                         "out":  "14:27:31",
+                         "km":  47.72,
+                         "dur":  "02:50:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -951,6 +960,15 @@ window.PAINEL = {
                          "dur":  "00:20:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "CGL GAMA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "14:00:28",
+                         "out":  "14:23:47",
+                         "km":  5.7,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "OFELIA SARRI MORETE.",
                          "mun":  "HORTOLANDIA",
@@ -1013,6 +1031,14 @@ window.PAINEL = {
                         "inicio":  "09:27",
                         "final":  "13:20",
                         "tempo":  "03:52:56"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:20",
+                        "final":  "14:21",
+                        "tempo":  "01:00:31"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1159,6 +1185,14 @@ window.PAINEL = {
                         "tempo":  "00:45:32"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:29",
+                        "final":  "14:31",
+                        "tempo":  "01:01:56"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1207,28 +1241,12 @@ window.PAINEL = {
                         "tempo":  "00:24:26"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:45"
-                    },
-                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "rangel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:11"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:16"
+                        "tempo":  "01:09:25"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1236,7 +1254,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:06"
+                        "tempo":  "00:55:20"
                     },
                     {
                         "nome":  "Silmara",
@@ -1244,7 +1262,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:15"
+                        "tempo":  "00:48:29"
                     }
                 ],
     "semped":  [
@@ -1270,6 +1288,12 @@ window.PAINEL = {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA (VL ARENS)",
                        "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                       "mun":  "CAMPINAS",
                        "obs":  "estocado"
                    },
                    {
@@ -1317,94 +1341,94 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "02:42:40"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:09:18"
+                         "tempo":  "01:24:31"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:05:09"
+                         "tempo":  "00:20:22"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:40:46"
+                         "tempo":  "01:55:59"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:19:51"
+                         "tempo":  "00:35:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:39:13"
+                         "tempo":  "00:54:26"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA",
                          "mun":  "JAGUARIUNA",
-                         "tempo":  "00:18:23"
+                         "tempo":  "00:33:36"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RILU LTDA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:40:08"
+                         "tempo":  "00:55:21"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:04:54"
+                         "tempo":  "01:20:07"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:07:08"
+                         "tempo":  "00:22:21"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO IB BRAGION LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:53:28"
+                         "tempo":  "01:08:41"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:25"
+                         "tempo":  "00:29:38"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "CGL GAMA SUPERMERCADO LTDA",
+                         "razao":  "CARLOS AP. GAMA SUP. EIRELI-ME.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:19:11"
+                         "tempo":  "00:05:37"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIO DE GENEROS ALIMENTICIOS SEMPRE",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:05:13"
+                         "tempo":  "00:20:26"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO BONA COMPRA LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:31:37"
+                         "tempo":  "00:46:50"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                         "mun":  "SANTA BRANCA",
+                         "tempo":  "00:06:57"
                      }
                  ],
     "hist":  [
@@ -1505,8 +1529,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     71,
-                     11
+                     73,
+                     12
                  ]
              ],
     "historico":  {
@@ -9891,7 +9915,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -9978,10 +10002,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  19.09,
-                                                       "tv":  129
+                                                       "km":  66.81,
+                                                       "tv":  299
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -10104,10 +10128,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  9.96,
-                                                       "tv":  20
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  15.66,
+                                                       "tv":  43
                                                    }
                                                ],
                                          "cli":  [
@@ -10201,6 +10225,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.7,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                                         "p":  0,
+                                                         "km":  47.72,
+                                                         "tv":  170
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -10565,6 +10596,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.96,
                                                          "tv":  20
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "CGL GAMA SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  5.7,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Lucas",

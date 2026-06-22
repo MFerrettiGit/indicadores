@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8467,10 +8467,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  19.09,
-                                     "tv":  129
+                                     "km":  66.81,
+                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -8593,10 +8593,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  9.96,
-                                     "tv":  20
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  15.66,
+                                     "tv":  43
                                  }
                              ],
                        "cli":  [
@@ -8690,6 +8690,13 @@
                                        "p":  0,
                                        "km":  2.7,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  0,
+                                       "km":  47.72,
+                                       "tv":  170
                                    },
                                    {
                                        "n":  "Eliana",
@@ -9054,6 +9061,13 @@
                                        "p":  1,
                                        "km":  9.96,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "CGL GAMA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  5.7,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Lucas",
