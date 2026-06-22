@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "09:43",
                      "tv":  "02:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:59",
                      "ultimo":  "09:35",
                      "tv":  "02:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "09:45",
                      "tv":  "02:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  13.48,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:14",
+                     "ultimo":  "09:55",
+                     "tv":  "01:34:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -184,21 +199,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  11.63,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "09:19",
-                     "tv":  "01:04:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "09:40",
                      "tv":  "00:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -492,6 +492,15 @@ window.PAINEL = {
                          "dur":  "01:04:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "09:25:18",
+                         "out":  "09:55:35",
+                         "km":  1.85,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                          "mun":  "AMERICANA",
@@ -629,7 +638,7 @@ window.PAINEL = {
                         "obs":  "reunião escolar filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:36:02"
+                        "tempo":  "01:51:03"
                     },
                     {
                         "nome":  "Maira",
@@ -637,7 +646,7 @@ window.PAINEL = {
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:40"
+                        "tempo":  "00:37:41"
                     }
                 ],
     "semped":  [
@@ -660,6 +669,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "estoque alto"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "ANTONIO CESAR DETONI",
                        "mun":  "PIRACICABA",
@@ -671,97 +686,121 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA (VL ARENS)",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:01:15"
+                         "tempo":  "00:16:15"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:19:49"
+                         "tempo":  "01:34:49"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:20:21"
+                         "tempo":  "02:35:21"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:00:11"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:04:27"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:35:56"
+                         "tempo":  "00:50:56"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:54:10"
+                         "tempo":  "01:09:10"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:08:32"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. PARE",
                          "mun":  "JAGUARIUNA",
-                         "tempo":  "00:22:33"
+                         "tempo":  "00:37:33"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                         "razao":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:24:31"
+                         "tempo":  "00:06:09"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "PITANGUEIRAS",
-                         "tempo":  "00:31:59"
+                         "tempo":  "00:46:59"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:04:02"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "KI-BARATO MERCEARIA DE DESCONTO LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:42:27"
+                         "tempo":  "00:57:27"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
-                         "tempo":  "01:32:24"
+                         "tempo":  "01:47:24"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "GOYOS BATA SUPERMERCADO LTDA",
                          "mun":  "PIRACAIA",
-                         "tempo":  "00:04:52"
+                         "tempo":  "00:19:52"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GUARANI LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:37:24"
+                         "tempo":  "01:52:24"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "OFELIA SARRI MORETE.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "01:01:02"
+                         "tempo":  "01:16:02"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:24:00"
+                         "tempo":  "00:39:00"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ETTORI",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:18:03"
+                         "tempo":  "00:33:03"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:07:51"
+                         "tempo":  "00:22:51"
                      }
                  ],
     "hist":  [
@@ -862,8 +901,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     24,
-                     4
+                     25,
+                     5
                  ]
              ],
     "historico":  {
@@ -9248,7 +9287,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9341,6 +9380,15 @@ window.PAINEL = {
                                                        "tv":  92
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  13.48,
+                                                       "tv":  94
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -9357,15 +9405,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  57.94,
                                                        "tv":  48
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  11.63,
-                                                       "tv":  64
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -9565,6 +9604,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.38,
                                                          "tv":  64
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                                                         "p":  0,
+                                                         "km":  1.85,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Maira",

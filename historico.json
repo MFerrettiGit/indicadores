@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8473,6 +8473,15 @@
                                      "tv":  92
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  13.48,
+                                     "tv":  94
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -8489,15 +8498,6 @@
                                      "pe":  1,
                                      "km":  57.94,
                                      "tv":  48
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  11.63,
-                                     "tv":  64
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8697,6 +8697,13 @@
                                        "p":  1,
                                        "km":  5.38,
                                        "tv":  64
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "MAURO JEREMIAS DA SILVA E CIA LTDA",
+                                       "p":  0,
+                                       "km":  1.85,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Maira",
