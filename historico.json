@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8575,19 +8575,19 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.32,
-                                     "tv":  163
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  51.08,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  103.76,
-                                     "tv":  43
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  104.32,
+                                     "tv":  221
                                  },
                                  {
                                      "nome":  "Karina",
@@ -8986,11 +8986,25 @@
                                        "tv":  163
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "OFELIA SARRI MORETE",
+                                       "p":  1,
+                                       "km":  9.76,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                                        "p":  1,
                                        "km":  34.13,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "M E COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  0.56,
+                                       "tv":  178
                                    },
                                    {
                                        "n":  "Nelson",

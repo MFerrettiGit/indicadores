@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "12:03",
                      "tv":  "04:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "11:53",
                      "tv":  "04:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "12:23",
                      "tv":  "03:34:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -316,21 +316,21 @@ window.PAINEL = {
                      "ultimo":  "12:12",
                      "tv":  "03:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  41.32,
+                     "visitas":  2,
+                     "km":  51.08,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:48",
-                     "ultimo":  "11:32",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:42",
+                     "tv":  "03:28:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  103.76,
+                     "visitas":  2,
+                     "km":  104.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:52",
-                     "ultimo":  "09:36",
-                     "tv":  "00:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:40",
+                     "tv":  "03:41:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -861,6 +861,15 @@ window.PAINEL = {
                          "dur":  "02:43:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "OFELIA SARRI MORETE",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "11:55:50",
+                         "out":  "12:42:07",
+                         "km":  9.76,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                          "mun":  "SANTA BRANCA",
@@ -868,6 +877,15 @@ window.PAINEL = {
                          "out":  "09:36:47",
                          "km":  34.13,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SANTA BRANCA",
+                         "in":  "09:41:58",
+                         "out":  "12:40:26",
+                         "km":  0.56,
+                         "dur":  "02:58:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -951,7 +969,7 @@ window.PAINEL = {
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:07:55"
+                        "tempo":  "03:23:02"
                     },
                     {
                         "nome":  "Karina",
@@ -959,7 +977,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:18"
+                        "tempo":  "01:02:25"
                     },
                     {
                         "nome":  "Debora",
@@ -967,7 +985,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:08"
+                        "tempo":  "00:50:15"
                     },
                     {
                         "nome":  "Vinicius",
@@ -975,7 +993,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:18"
+                        "tempo":  "00:44:25"
                     },
                     {
                         "nome":  "Rachel",
@@ -983,7 +1001,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:24"
+                        "tempo":  "00:42:31"
                     },
                     {
                         "nome":  "Eugenio",
@@ -991,7 +1009,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:50"
+                        "tempo":  "00:25:57"
                     },
                     {
                         "nome":  "Luis",
@@ -999,7 +1017,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:36"
+                        "tempo":  "00:25:43"
                     },
                     {
                         "nome":  "Cominato",
@@ -1007,7 +1025,23 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:31"
+                        "tempo":  "00:21:38"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:38"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:18"
                     }
                 ],
     "semped":  [
@@ -1071,55 +1105,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:57:51"
+                         "tempo":  "01:12:52"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
                          "mun":  "SUMARE",
-                         "tempo":  "00:13:26"
+                         "tempo":  "00:28:27"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:10:58"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:00:35"
+                         "tempo":  "00:15:36"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:23:00"
+                         "tempo":  "01:38:01"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:06:54"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:02:52"
+                         "tempo":  "00:17:53"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO MINIMERCADO LTDA - EPP.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:27:20"
+                         "tempo":  "00:42:21"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "DROGARIA MAIS BRASIL SANTA LUCIA LTDA",
                          "mun":  "SANTA LUCIA",
-                         "tempo":  "00:17:11"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "OFELIA SARRI MORETE",
-                         "mun":  "HORTOLANDIA",
-                         "tempo":  "00:39:00"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
-                         "mun":  "SANTA BRANCA",
-                         "tempo":  "02:52:52"
+                         "tempo":  "00:32:12"
                      }
                  ],
     "hist":  [
@@ -1220,7 +1254,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     58,
+                     60,
                      9
                  ]
              ],
@@ -9606,7 +9640,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9801,19 +9835,19 @@ window.PAINEL = {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  41.32,
-                                                       "tv":  163
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  51.08,
+                                                       "tv":  208
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  103.76,
-                                                       "tv":  43
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  104.32,
+                                                       "tv":  221
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -10212,11 +10246,25 @@ window.PAINEL = {
                                                          "tv":  163
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "OFELIA SARRI MORETE",
+                                                         "p":  1,
+                                                         "km":  9.76,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "AAGC COMERCIO VAREJISTA DE ALIMENTOS LTD",
                                                          "p":  1,
                                                          "km":  34.13,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "M E COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  0.56,
+                                                         "tv":  178
                                                      },
                                                      {
                                                          "n":  "Nelson",
