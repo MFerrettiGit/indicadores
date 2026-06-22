@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8572,6 +8572,15 @@
                                      "tv":  232
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  105.02,
+                                     "tv":  279
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -8588,15 +8597,6 @@
                                      "pe":  2,
                                      "km":  51.08,
                                      "tv":  208
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  104.32,
-                                     "tv":  221
                                  }
                              ],
                        "cli":  [
@@ -9194,6 +9194,13 @@
                                        "p":  1,
                                        "km":  0.56,
                                        "tv":  178
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  0.7,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Nelson",

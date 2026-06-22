@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "07:52",
                      "ultimo":  "14:27",
                      "tv":  "04:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:57",
                      "tv":  "05:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "14:49",
                      "tv":  "04:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "14:42",
                      "tv":  "04:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:26",
                      "ultimo":  "15:19",
                      "tv":  "04:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "15:18",
                      "tv":  "04:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,6 +315,21 @@ window.PAINEL = {
                      "primeiro":  "08:12",
                      "ultimo":  "14:53",
                      "tv":  "03:52:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  105.02,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:52",
+                     "ultimo":  "15:26",
+                     "tv":  "04:39:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -345,21 +360,6 @@ window.PAINEL = {
                      "primeiro":  "08:48",
                      "ultimo":  "12:42",
                      "tv":  "03:28:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  104.32,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:52",
-                     "ultimo":  "12:40",
-                     "tv":  "03:41:00",
                      "emVisita":  1,
                      "emEvento":  0
                  }
@@ -1131,6 +1131,15 @@ window.PAINEL = {
                          "dur":  "02:58:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                         "mun":  "SANTA BRANCA",
+                         "in":  "14:27:55",
+                         "out":  "15:26:32",
+                         "km":  0.7,
+                         "dur":  "00:58:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
@@ -1405,7 +1414,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:14"
+                        "tempo":  "00:37:12"
                     }
                 ],
     "semped":  [
@@ -1484,70 +1493,106 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:15"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:13:46"
+                         "tempo":  "00:28:43"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
                          "mun":  "SUMARE",
-                         "tempo":  "00:08:41"
+                         "tempo":  "00:23:38"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:29:11"
+                         "tempo":  "00:44:08"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "TERIN TERIN CIA LTDA.",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:10:28"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "PEG. LEV. SECOS E MOLHADOS LTDA.",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:06:16"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:00:35"
+                         "tempo":  "00:15:32"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MINI MERCADO AUREA LTDA EPP",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:07:28"
+                         "tempo":  "00:22:25"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "D. ALVES JUNIOR E CIA LTDA-ME.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "00:28:02"
+                         "tempo":  "00:42:59"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "DMIX SUPERMERCADOS LTDA",
+                         "mun":  "PIRACAIA",
+                         "tempo":  "00:13:14"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "EMPORIO GAEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:21:53"
+                         "tempo":  "00:36:50"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "TEREZINHA DE SOUSA DANTAS ME",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:00:53"
+                         "tempo":  "00:15:50"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIO DE GENEROS ALIMENTICIOS SEMPRE",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "01:05:24"
+                         "tempo":  "01:20:21"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "CAPAO BONITO",
+                         "tempo":  "00:08:17"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:02:23"
+                         "tempo":  "00:17:20"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:09:01"
                      },
                      {
                          "nome":  "Mariangela",
-                         "razao":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                         "razao":  "PEMAG COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:51:55"
+                         "tempo":  "00:01:12"
                      }
                  ],
     "hist":  [
@@ -1648,7 +1693,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     88,
+                     89,
                      12
                  ]
              ],
@@ -10034,7 +10079,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -10226,6 +10271,15 @@ window.PAINEL = {
                                                        "tv":  232
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  105.02,
+                                                       "tv":  279
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -10242,15 +10296,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  51.08,
                                                        "tv":  208
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  104.32,
-                                                       "tv":  221
                                                    }
                                                ],
                                          "cli":  [
@@ -10848,6 +10893,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.56,
                                                          "tv":  178
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                                                         "p":  1,
+                                                         "km":  0.7,
+                                                         "tv":  58
                                                      },
                                                      {
                                                          "n":  "Nelson",
