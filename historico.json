@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8482,6 +8482,15 @@
                                      "tv":  206
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  67.01,
+                                     "tv":  211
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -8489,15 +8498,6 @@
                                      "pe":  2,
                                      "km":  34.46,
                                      "tv":  197
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  62.3,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -8527,6 +8527,15 @@
                                      "tv":  29
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  55.31,
+                                     "tv":  175
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -8536,13 +8545,22 @@
                                      "tv":  151
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  55.09,
-                                     "tv":  144
+                                     "km":  22.22,
+                                     "tv":  220
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  4.23,
+                                     "tv":  214
                                  },
                                  {
                                      "nome":  "Alan",
@@ -8552,24 +8570,6 @@
                                      "pe":  2,
                                      "km":  14.97,
                                      "tv":  184
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  10.88,
-                                     "tv":  34
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.5,
-                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -8776,6 +8776,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
+                                       "p":  1,
+                                       "km":  4.71,
+                                       "tv":  77
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                        "p":  1,
@@ -8909,6 +8916,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  11.34,
+                                       "tv":  186
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "ANTONIO CESAR DETONI",
                                        "p":  0,
@@ -8984,6 +8998,13 @@
                                        "p":  1,
                                        "km":  0.99,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  1,
+                                       "km":  2.73,
+                                       "tv":  134
                                    }
                                ]
                    }

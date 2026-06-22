@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:59",
                      "ultimo":  "12:17",
                      "tv":  "04:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:29",
                      "ultimo":  "11:58",
                      "tv":  "04:03:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "12:02",
                      "tv":  "03:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -166,6 +166,21 @@ window.PAINEL = {
                      "ultimo":  "12:07",
                      "tv":  "03:26:00",
                      "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  67.01,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:07",
+                     "ultimo":  "12:27",
+                     "tv":  "03:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -182,21 +197,6 @@ window.PAINEL = {
                      "tv":  "03:17:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  62.3,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:07",
-                     "ultimo":  "10:33",
-                     "tv":  "02:14:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  55.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:17",
+                     "ultimo":  "12:20",
+                     "tv":  "02:55:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -256,21 +271,36 @@ window.PAINEL = {
                      "ultimo":  "12:05",
                      "tv":  "02:31:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  55.09,
+                     "km":  22.22,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "08:17",
-                     "ultimo":  "11:46",
-                     "tv":  "02:24:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:37",
+                     "ultimo":  "12:33",
+                     "tv":  "03:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  4.23,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:06",
+                     "ultimo":  "12:23",
+                     "tv":  "03:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -286,36 +316,6 @@ window.PAINEL = {
                      "ultimo":  "12:12",
                      "tv":  "03:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  10.88,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:37",
-                     "ultimo":  "09:15",
-                     "tv":  "00:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  1.5,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:06",
-                     "ultimo":  "09:26",
-                     "tv":  "01:20:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -591,6 +591,15 @@ window.PAINEL = {
                          "dur":  "01:26:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "11:09:31",
+                         "out":  "12:27:23",
+                         "km":  4.71,
+                         "dur":  "01:17:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -762,6 +771,15 @@ window.PAINEL = {
                          "dur":  "00:19:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "ITATIBA",
+                         "in":  "09:25:49",
+                         "out":  "12:33:11",
+                         "km":  11.34,
+                         "dur":  "03:06:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "ANTONIO CESAR DETONI",
                          "mun":  "PIRACICABA",
@@ -859,6 +877,15 @@ window.PAINEL = {
                          "out":  "09:26:52",
                          "km":  0.99,
                          "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "10:09:11",
+                         "out":  "12:23:41",
+                         "km":  2.73,
+                         "dur":  "02:14:00"
                      }
                  ],
     "eventos":  [
@@ -924,7 +951,7 @@ window.PAINEL = {
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:53:03"
+                        "tempo":  "03:07:55"
                     },
                     {
                         "nome":  "Karina",
@@ -932,7 +959,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:26"
+                        "tempo":  "00:47:18"
                     },
                     {
                         "nome":  "Debora",
@@ -940,7 +967,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:16"
+                        "tempo":  "00:35:08"
                     },
                     {
                         "nome":  "Vinicius",
@@ -948,7 +975,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:26"
+                        "tempo":  "00:29:18"
                     },
                     {
                         "nome":  "Rachel",
@@ -956,7 +983,31 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:32"
+                        "tempo":  "00:27:24"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:50"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:36"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:31"
                     }
                 ],
     "semped":  [
@@ -1020,61 +1071,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:42:52"
+                         "tempo":  "00:57:51"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:13:26"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:00:35"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:08:01"
+                         "tempo":  "01:23:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:02:52"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO MINIMERCADO LTDA - EPP.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:12:21"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "01:10:20"
+                         "tempo":  "00:27:20"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "DROGARIA MAIS BRASIL SANTA LUCIA LTDA",
                          "mun":  "SANTA LUCIA",
-                         "tempo":  "00:02:12"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO DONINE LTDA.",
-                         "mun":  "JOANOPOLIS",
-                         "tempo":  "00:30:48"
+                         "tempo":  "00:17:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "OFELIA SARRI MORETE",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:24:01"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "02:10:40"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
-                         "mun":  "ITATIBA",
-                         "tempo":  "02:54:02"
+                         "tempo":  "00:39:00"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "02:37:53"
+                         "tempo":  "02:52:52"
                      }
                  ],
     "hist":  [
@@ -1175,7 +1220,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     54,
+                     58,
                      9
                  ]
              ],
@@ -9561,7 +9606,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9663,6 +9708,15 @@ window.PAINEL = {
                                                        "tv":  206
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  67.01,
+                                                       "tv":  211
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -9670,15 +9724,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  34.46,
                                                        "tv":  197
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  62.3,
-                                                       "tv":  134
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -9708,6 +9753,15 @@ window.PAINEL = {
                                                        "tv":  29
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  55.31,
+                                                       "tv":  175
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -9717,13 +9771,22 @@ window.PAINEL = {
                                                        "tv":  151
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  55.09,
-                                                       "tv":  144
+                                                       "km":  22.22,
+                                                       "tv":  220
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  4.23,
+                                                       "tv":  214
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -9733,24 +9796,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  14.97,
                                                        "tv":  184
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  10.88,
-                                                       "tv":  34
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  1.5,
-                                                       "tv":  80
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -9957,6 +10002,13 @@ window.PAINEL = {
                                                          "tv":  86
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
+                                                         "p":  1,
+                                                         "km":  4.71,
+                                                         "tv":  77
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                                          "p":  1,
@@ -10090,6 +10142,13 @@ window.PAINEL = {
                                                          "tv":  19
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  1,
+                                                         "km":  11.34,
+                                                         "tv":  186
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "ANTONIO CESAR DETONI",
                                                          "p":  0,
@@ -10165,6 +10224,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.99,
                                                          "tv":  80
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.73,
+                                                         "tv":  134
                                                      }
                                                  ]
                                      }
