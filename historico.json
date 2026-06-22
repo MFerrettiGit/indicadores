@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8440,10 +8440,10 @@
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  2.98,
-                                     "tv":  0
+                                     "km":  27.68,
+                                     "tv":  181
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -8467,10 +8467,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  16.39,
-                                     "tv":  92
+                                     "km":  19.09,
+                                     "tv":  129
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.3,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Luis",
@@ -8489,15 +8498,6 @@
                                      "pe":  1,
                                      "km":  16.92,
                                      "tv":  60
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  57.94,
-                                     "tv":  48
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -8601,6 +8601,13 @@
                              ],
                        "cli":  [
                                    {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  24.7,
+                                       "tv":  181
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8641,6 +8648,13 @@
                                        "p":  0,
                                        "km":  0.73,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA (VL ARENS)",
+                                       "p":  0,
+                                       "km":  2.7,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Eliana",
@@ -8690,6 +8704,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "KI-BARATO MERCEARIA DE DESCONTO LTDA.",
+                                       "p":  1,
+                                       "km":  4.36,
+                                       "tv":  86
                                    },
                                    {
                                        "n":  "Fernando",
