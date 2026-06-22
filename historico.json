@@ -8380,8 +8380,17 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  5.91,
+                                     "tv":  132
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -8428,15 +8437,6 @@
                                      "tv":  80
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -8476,19 +8476,28 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.38,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  16.92,
+                                     "tv":  60
                                  },
                                  {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
+                                     "vi":  1,
+                                     "pe":  1,
                                      "km":  57.94,
-                                     "tv":  0
+                                     "tv":  48
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  4.95,
+                                     "tv":  29
                                  },
                                  {
                                      "nome":  "Luis",
@@ -8509,15 +8518,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -8534,6 +8534,15 @@
                                      "pe":  0,
                                      "km":  12.17,
                                      "tv":  22
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  10.22,
+                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -8560,15 +8569,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.39,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -8622,6 +8622,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  5.91,
+                                       "tv":  132
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8643,11 +8650,39 @@
                                        "tv":  80
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "COMERCIO DE ALIMENTOS TERRA NOVA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  48
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
+                                       "p":  0,
+                                       "km":  4.77,
+                                       "tv":  29
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
                                        "km":  52.89,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "G.I.M. SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  16.54,
+                                       "tv":  60
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO LOUVEIRA LTDA",
+                                       "p":  1,
+                                       "km":  10.22,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Cominato",
