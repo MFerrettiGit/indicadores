@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "11:00",
                      "tv":  "03:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "10:45",
                      "tv":  "03:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  14.18,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:14",
+                     "ultimo":  "11:11",
+                     "tv":  "02:46:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "08:07",
                      "ultimo":  "10:33",
                      "tv":  "02:14:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  13.48,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:14",
-                     "ultimo":  "09:55",
-                     "tv":  "01:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "10:19",
                      "tv":  "01:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:26",
                      "ultimo":  "11:02",
                      "tv":  "01:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -573,6 +573,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                         "mun":  "FRANCA",
+                         "in":  "09:58:40",
+                         "out":  "11:11:56",
+                         "km":  0.7,
+                         "dur":  "01:12:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                          "mun":  "AMERICANA",
@@ -755,7 +764,7 @@ window.PAINEL = {
                         "obs":  "reunião escolar filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:51:04"
+                        "tempo":  "03:06:05"
                     },
                     {
                         "nome":  "Maira",
@@ -763,7 +772,7 @@ window.PAINEL = {
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:37:42"
+                        "tempo":  "01:52:43"
                     }
                 ],
     "semped":  [
@@ -809,79 +818,103 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:42:25"
+                         "tempo":  "00:57:23"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
                          "mun":  "SUMARE",
-                         "tempo":  "00:09:01"
+                         "tempo":  "00:23:59"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADO TAQUARAL LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:09:24"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:04:25"
+                         "tempo":  "01:19:23"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "tempo":  "00:07:55"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:05:32"
+                         "tempo":  "00:20:30"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. PARE",
                          "mun":  "JAGUARIUNA",
-                         "tempo":  "01:37:31"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:06:07"
+                         "tempo":  "01:52:29"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:04:00"
+                         "tempo":  "01:18:58"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:10:14"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "J R SALES SUPERMERCADO LTDA",
                          "mun":  "RINCAO",
-                         "tempo":  "00:10:59"
+                         "tempo":  "00:25:57"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "RH COSTA SUPERMERCADO LTDA",
+                         "mun":  "JOANOPOLIS",
+                         "tempo":  "00:13:10"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:01:56"
+                         "tempo":  "00:16:54"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "OFELIA SARRI MORETE.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "02:16:00"
+                         "tempo":  "02:30:58"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:55:36"
+                         "tempo":  "01:10:34"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:38:58"
+                         "tempo":  "01:53:56"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:03:58"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "01:22:49"
+                         "tempo":  "01:37:47"
                      }
                  ],
     "hist":  [
@@ -982,7 +1015,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     38,
+                     39,
                      6
                  ]
              ],
@@ -9368,7 +9401,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9461,6 +9494,15 @@ window.PAINEL = {
                                                        "tv":  129
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  14.18,
+                                                       "tv":  166
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -9468,15 +9510,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  62.3,
                                                        "tv":  134
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  13.48,
-                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -9748,6 +9781,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.85,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.7,
+                                                         "tv":  72
                                                      },
                                                      {
                                                          "n":  "Maira",

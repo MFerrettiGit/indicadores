@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8473,6 +8473,15 @@
                                      "tv":  129
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  14.18,
+                                     "tv":  166
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -8480,15 +8489,6 @@
                                      "pe":  2,
                                      "km":  62.3,
                                      "tv":  134
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  13.48,
-                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -8760,6 +8760,13 @@
                                        "p":  0,
                                        "km":  1.85,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO NOEMIA DE FRANCA LTDA.",
+                                       "p":  1,
+                                       "km":  0.7,
+                                       "tv":  72
                                    },
                                    {
                                        "n":  "Maira",
