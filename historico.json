@@ -8380,16 +8380,16 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  22.47,
-                                     "tv":  283
+                                     "km":  25.09,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -8482,6 +8482,15 @@
                                      "tv":  206
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  38.3,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -8507,15 +8516,6 @@
                                      "pe":  3,
                                      "km":  44.93,
                                      "tv":  225
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  34.46,
-                                     "tv":  197
                                  },
                                  {
                                      "nome":  "Maira",
@@ -8593,10 +8593,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  9.96,
+                                     "tv":  20
                                  }
                              ],
                        "cli":  [
@@ -8776,6 +8776,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  2.62,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8916,6 +8923,13 @@
                                        "tv":  137
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                                       "p":  0,
+                                       "km":  3.84,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "LUCIANO APARECIDO BRECIANO 29060089820",
                                        "p":  1,
@@ -9026,6 +9040,13 @@
                                        "p":  1,
                                        "km":  0.22,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "M SAMPAIO DEDE MERCADO",
+                                       "p":  1,
+                                       "km":  9.96,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Lucas",
