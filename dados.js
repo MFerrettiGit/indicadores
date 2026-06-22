@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "08:15",
+    "dataHora":  "08:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "08:17",
                      "tv":  "01:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -143,13 +143,13 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  4.28,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  15.66,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "07:52",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "08:26",
+                     "tv":  "00:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -222,10 +222,10 @@ window.PAINEL = {
                      "km":  0.18,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:22",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -283,6 +283,21 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:17",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:26",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -382,6 +382,15 @@ window.PAINEL = {
                          "out":  "07:43:07",
                          "km":  12.23,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "07:52:04",
+                         "out":  "08:26:51",
+                         "km":  11.38,
+                         "dur":  "00:34:00"
                      },
                      {
                          "nome":  "Evandro",
@@ -425,7 +434,7 @@ window.PAINEL = {
                         "obs":  "santa branca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:59"
+                        "tempo":  "00:34:58"
                     },
                     {
                         "nome":  "Lucas",
@@ -433,7 +442,7 @@ window.PAINEL = {
                         "obs":  "hortolandia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:07"
+                        "tempo":  "00:33:06"
                     },
                     {
                         "nome":  "Karina",
@@ -441,7 +450,7 @@ window.PAINEL = {
                         "obs":  "reunião escolar filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:57"
+                        "tempo":  "00:20:56"
                     },
                     {
                         "nome":  "Fernando",
@@ -449,102 +458,119 @@ window.PAINEL = {
                         "obs":  "acompanhando meu filho na consulta com a psicóloga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:09"
+                        "tempo":  "00:17:08"
                     }
                 ],
     "semped":  [
-
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   }
                ],
     "emvisita":  [
                      {
                          "nome":  "Eduardo",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:27:44"
+                         "tempo":  "00:07:19"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERCERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:04:48"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:50:20"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:22:25"
+                         "tempo":  "01:05:20"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:11:39"
+                         "tempo":  "00:26:39"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:28:20"
+                         "tempo":  "01:43:20"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:04:44"
+                         "tempo":  "01:19:44"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:17:21"
+                         "tempo":  "01:32:21"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "L. R. GOMES - SUPERMERCADOS-EPP.",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:12:10"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "G.I.M. SUPERMERCADO LTDA",
                          "mun":  "PEDREIRA",
-                         "tempo":  "00:18:35"
+                         "tempo":  "00:33:35"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO FERNANDO DE FRANCA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:05:00"
+                         "tempo":  "00:20:00"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "PITANGUEIRAS",
-                         "tempo":  "00:12:37"
+                         "tempo":  "00:27:37"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "COMERCIO DE ALIMENTOS TERRA NOVA LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:12:17"
+                         "tempo":  "00:27:17"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
-                         "tempo":  "00:02:23"
+                         "tempo":  "00:17:23"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:02:48"
+                         "tempo":  "00:17:48"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO GUARANI LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:07:23"
+                         "tempo":  "00:22:23"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:13:13"
+                         "tempo":  "00:28:13"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ANTONIO CESAR DETONI",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:08:29"
                      }
                  ],
     "hist":  [
@@ -645,8 +671,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     3,
-                     0
+                     5,
+                     1
                  ]
              ],
     "historico":  {
@@ -9031,7 +9057,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "08:15",
+                                         "dataHora":  "08:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9118,10 +9144,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  4.28,
-                                                       "tv":  0
+                                                       "km":  15.66,
+                                                       "tv":  34
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -9205,6 +9231,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -9239,15 +9274,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    }
                                                ],
                                          "cli":  [
@@ -9264,6 +9290,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  12.23,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  11.38,
+                                                         "tv":  34
                                                      },
                                                      {
                                                          "n":  "Evandro",
