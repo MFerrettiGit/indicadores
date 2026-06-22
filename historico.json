@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8401,6 +8401,15 @@
                                      "tv":  268
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  22.96,
+                                     "tv":  328
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -8417,15 +8426,6 @@
                                      "pe":  0,
                                      "km":  39.17,
                                      "tv":  269
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.05,
-                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -8458,10 +8458,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  89.83,
-                                     "tv":  236
+                                     "km":  108.19,
+                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -8692,6 +8692,13 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  14.91,
+                                       "tv":  105
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8858,6 +8865,13 @@
                                        "p":  1,
                                        "km":  32.89,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
+                                       "p":  1,
+                                       "km":  18.36,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Rachel",
