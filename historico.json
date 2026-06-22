@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8473,6 +8473,15 @@
                                      "tv":  299
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  30.19,
+                                     "tv":  275
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -8480,15 +8489,6 @@
                                      "pe":  2,
                                      "km":  39.2,
                                      "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  18.35,
-                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Costa",
@@ -8530,10 +8530,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  55.31,
-                                     "tv":  175
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  56.07,
+                                     "tv":  250
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -8874,6 +8874,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO RILU LTDA EPP.",
+                                       "p":  1,
+                                       "km":  11.84,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                                        "p":  0,
@@ -9054,6 +9061,13 @@
                                        "p":  1,
                                        "km":  0.22,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO IB BRAGION LTDA.",
+                                       "p":  1,
+                                       "km":  0.76,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Karina",
