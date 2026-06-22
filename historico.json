@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8491,6 +8491,15 @@
                                      "tv":  315
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  72.56,
+                                     "tv":  341
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -8498,15 +8507,6 @@
                                      "pe":  5,
                                      "km":  63.69,
                                      "tv":  312
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  70.23,
-                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -8914,6 +8914,13 @@
                                        "p":  1,
                                        "km":  3.22,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.33,
+                                       "tv":  84
                                    },
                                    {
                                        "n":  "Fernando",

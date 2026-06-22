@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  72.56,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:07",
+                     "ultimo":  "17:18",
+                     "tv":  "05:41:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "16:50",
                      "tv":  "05:12:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  70.23,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:07",
-                     "ultimo":  "14:59",
-                     "tv":  "04:17:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "17:03",
                      "tv":  "05:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -769,6 +769,15 @@ window.PAINEL = {
                          "out":  "14:59:30",
                          "km":  3.22,
                          "dur":  "00:46:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "15:53:22",
+                         "out":  "17:18:21",
+                         "km":  2.33,
+                         "dur":  "01:24:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1656,7 +1665,7 @@ window.PAINEL = {
                         "obs":  "ciamdrighi/pare leve/gim/ terin",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:14"
+                        "tempo":  "00:55:19"
                     },
                     {
                         "nome":  "Nelson",
@@ -1664,7 +1673,7 @@ window.PAINEL = {
                         "obs":  "rangel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:16"
+                        "tempo":  "00:29:21"
                     }
                 ],
     "semped":  [
@@ -1758,49 +1767,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:44:19"
+                         "tempo":  "01:59:20"
                      },
                      {
-                         "nome":  "Costa",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "01:11:29"
+                         "nome":  "Fernando",
+                         "razao":  "POSTO DO TREVO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:14:07"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MERCATELLO LTDA.",
                          "mun":  "AMERICO BRASILI",
-                         "tempo":  "00:15:18"
+                         "tempo":  "00:30:19"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO DO HAKUO LTDA",
+                         "mun":  "PIRACAIA",
+                         "tempo":  "00:10:48"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:08:27"
+                         "tempo":  "01:23:28"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:47:52"
+                         "tempo":  "01:02:53"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "F. F. DINIZ SUPERMERCADO LTDA",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:02:37"
+                         "tempo":  "00:17:38"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:47:24"
+                         "tempo":  "02:02:25"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "RIBEIRO",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "00:23:51"
+                         "tempo":  "00:38:52"
                      }
                  ],
     "hist":  [
@@ -1901,7 +1916,7 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     115,
+                     116,
                      14
                  ]
              ],
@@ -10287,7 +10302,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10398,6 +10413,15 @@ window.PAINEL = {
                                                        "tv":  315
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  72.56,
+                                                       "tv":  341
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -10405,15 +10429,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  63.69,
                                                        "tv":  312
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  70.23,
-                                                       "tv":  257
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -10821,6 +10836,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.22,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.33,
+                                                         "tv":  84
                                                      },
                                                      {
                                                          "n":  "Fernando",
