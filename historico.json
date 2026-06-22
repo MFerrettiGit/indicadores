@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8401,6 +8401,15 @@
                                      "tv":  268
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  20.5,
+                                     "tv":  267
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -8417,15 +8426,6 @@
                                      "pe":  0,
                                      "km":  8.05,
                                      "tv":  223
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  17.7,
-                                     "tv":  130
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -8476,10 +8476,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  14.18,
-                                     "tv":  166
+                                     "km":  18.35,
+                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -8527,6 +8527,15 @@
                                      "tv":  29
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  27.81,
+                                     "tv":  151
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -8536,13 +8545,13 @@
                                      "tv":  144
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  26.55,
-                                     "tv":  135
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  14.97,
+                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Castro",
@@ -8561,15 +8570,6 @@
                                      "pe":  1,
                                      "km":  1.5,
                                      "tv":  80
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  10.68,
-                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -8648,6 +8648,13 @@
                                        "p":  1,
                                        "km":  5.34,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  2.8,
+                                       "tv":  137
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -8804,6 +8811,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  4.17,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                                        "p":  0,
@@ -8874,6 +8888,13 @@
                                        "tv":  115
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.29,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO LOUVEIRA LTDA",
                                        "p":  1,
@@ -8909,6 +8930,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                                       "p":  0,
+                                       "km":  1.26,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                        "p":  1,
@@ -8928,6 +8956,13 @@
                                        "p":  1,
                                        "km":  32.53,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO DONINE LTDA.",
+                                       "p":  1,
+                                       "km":  0.22,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Lucas",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,6 +30,21 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "11:53",
                      "tv":  "04:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  20.5,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:59",
+                     "ultimo":  "12:17",
+                     "tv":  "04:27:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -64,21 +79,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  17.7,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:59",
-                     "ultimo":  "09:35",
-                     "tv":  "02:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "11:01",
                      "tv":  "03:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Aline",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  14.18,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  18.35,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:14",
-                     "ultimo":  "11:11",
-                     "tv":  "02:46:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:07",
+                     "tv":  "03:26:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "11:45",
                      "tv":  "03:17:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -210,8 +210,8 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "11:48",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:12",
                      "ultimo":  "11:58",
                      "tv":  "02:25:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  27.81,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:26",
+                     "ultimo":  "12:05",
+                     "tv":  "02:31:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -259,18 +274,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  26.55,
-                     "semPed":  2,
-                     "perc":  66.67,
-                     "primeiro":  "08:26",
-                     "ultimo":  "11:39",
-                     "tv":  "02:15:00",
-                     "emVisita":  1,
+                     "visitas":  2,
+                     "km":  14.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:12",
+                     "ultimo":  "12:12",
+                     "tv":  "03:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "09:26",
                      "tv":  "01:20:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  10.68,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:12",
-                     "ultimo":  "10:07",
-                     "tv":  "01:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -427,6 +427,15 @@ window.PAINEL = {
                          "out":  "09:35:19",
                          "km":  5.34,
                          "dur":  "01:27:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "10:00:22",
+                         "out":  "12:17:35",
+                         "km":  2.8,
+                         "dur":  "02:17:00"
                      },
                      {
                          "nome":  "Eduardo",
@@ -627,6 +636,15 @@ window.PAINEL = {
                          "dur":  "01:12:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "11:26:58",
+                         "out":  "12:07:33",
+                         "km":  4.17,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                          "mun":  "AMERICANA",
@@ -717,6 +735,15 @@ window.PAINEL = {
                          "dur":  "01:55:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:02:51",
+                         "out":  "12:12:15",
+                         "km":  4.29,
+                         "dur":  "01:09:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO LOUVEIRA LTDA",
                          "mun":  "ITATIBA",
@@ -762,6 +789,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:48:53",
+                         "out":  "12:05:55",
+                         "km":  1.26,
+                         "dur":  "00:16:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
@@ -787,6 +823,15 @@ window.PAINEL = {
                          "out":  "11:46:12",
                          "km":  32.53,
                          "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO DONINE LTDA.",
+                         "mun":  "JOANOPOLIS",
+                         "in":  "11:49:03",
+                         "out":  "12:20:28",
+                         "km":  0.22,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -866,12 +911,20 @@ window.PAINEL = {
                         "tempo":  "00:53:09"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Rincao a Américo Brasiliense",
+                        "inicio":  "11:49",
+                        "final":  "12:16",
+                        "tempo":  "00:27:05"
+                    },
+                    {
                         "nome":  "Maira",
                         "tipo":  "Outro",
                         "obs":  "cadastros Crema/ Davita",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:37:48"
+                        "tempo":  "02:53:03"
                     },
                     {
                         "nome":  "Karina",
@@ -879,15 +932,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:11"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Rincao a Américo Brasiliense",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:16:06"
+                        "tempo":  "00:32:26"
                     },
                     {
                         "nome":  "Debora",
@@ -895,7 +940,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:01"
+                        "tempo":  "00:20:16"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:26"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:32"
                     }
                 ],
     "semped":  [
@@ -930,6 +991,12 @@ window.PAINEL = {
                        "obs":  "estoque alto"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "ANTONIO CESAR DETONI",
                        "mun":  "PIRACICABA",
@@ -940,6 +1007,12 @@ window.PAINEL = {
                        "razao":  "N.S.A. DIST. DE PRODS. ALIMENT. LTDA-EPP",
                        "mun":  "PIRACICABA",
                        "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento"
                    }
                ],
     "emvisita":  [
@@ -947,73 +1020,61 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:27:50"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "02:04:27"
+                         "tempo":  "00:42:52"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:52:59"
+                         "tempo":  "01:08:01"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:37:51"
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO MINIMERCADO LTDA - EPP.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:12:21"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:55:18"
+                         "tempo":  "01:10:20"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "DROGARIA MAIS BRASIL SANTA LUCIA LTDA",
+                         "mun":  "SANTA LUCIA",
+                         "tempo":  "00:02:12"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO DONINE LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:15:46"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ENXUTO SUPERMERCADOS LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:01:58"
+                         "tempo":  "00:30:48"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "OFELIA SARRI MORETE",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:08:59"
+                         "tempo":  "00:24:01"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:55:38"
+                         "tempo":  "02:10:40"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                          "mun":  "ITATIBA",
-                         "tempo":  "02:39:00"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:15:56"
+                         "tempo":  "02:54:02"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M E COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SANTA BRANCA",
-                         "tempo":  "02:22:51"
+                         "tempo":  "02:37:53"
                      }
                  ],
     "hist":  [
@@ -1114,8 +1175,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     50,
-                     7
+                     54,
+                     9
                  ]
              ],
     "historico":  {
@@ -9500,7 +9561,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -9521,6 +9582,15 @@ window.PAINEL = {
                                                        "tv":  268
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  20.5,
+                                                       "tv":  267
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -9537,15 +9607,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.05,
                                                        "tv":  223
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  17.7,
-                                                       "tv":  130
                                                    },
                                                    {
                                                        "nome":  "Vinicius",
@@ -9596,10 +9657,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  14.18,
-                                                       "tv":  166
+                                                       "km":  18.35,
+                                                       "tv":  206
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -9647,6 +9708,15 @@ window.PAINEL = {
                                                        "tv":  29
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  27.81,
+                                                       "tv":  151
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -9656,13 +9726,13 @@ window.PAINEL = {
                                                        "tv":  144
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  1,
-                                                       "km":  26.55,
-                                                       "tv":  135
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  14.97,
+                                                       "tv":  184
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -9681,15 +9751,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  1.5,
                                                        "tv":  80
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  10.68,
-                                                       "tv":  115
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -9768,6 +9829,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.34,
                                                          "tv":  87
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  2.8,
+                                                         "tv":  137
                                                      },
                                                      {
                                                          "n":  "Eduardo",
@@ -9924,6 +9992,13 @@ window.PAINEL = {
                                                          "tv":  72
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  4.17,
+                                                         "tv":  40
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "L. R. GOMES - SUPERMERCADOS-EPP.",
                                                          "p":  0,
@@ -9994,6 +10069,13 @@ window.PAINEL = {
                                                          "tv":  115
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "ENXUTO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.29,
+                                                         "tv":  69
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "SUPERMERCADO LOUVEIRA LTDA",
                                                          "p":  1,
@@ -10029,6 +10111,13 @@ window.PAINEL = {
                                                          "tv":  23
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                                                         "p":  0,
+                                                         "km":  1.26,
+                                                         "tv":  16
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                                                          "p":  1,
@@ -10048,6 +10137,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  32.53,
                                                          "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO DONINE LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.22,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Lucas",
