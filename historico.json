@@ -8380,8 +8380,26 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  49.85,
+                                     "tv":  195
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  9.41,
+                                     "tv":  214
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -8390,15 +8408,6 @@
                                      "pe":  0,
                                      "km":  8.05,
                                      "tv":  223
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  45.14,
-                                     "tv":  140
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -8419,22 +8428,13 @@
                                      "tv":  177
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  5.68,
-                                     "tv":  153
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  13.38,
-                                     "tv":  80
+                                     "km":  19.27,
+                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Aline",
@@ -8536,6 +8536,15 @@
                                      "tv":  105
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  25.96,
+                                     "tv":  112
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -8561,15 +8570,6 @@
                                      "pe":  1,
                                      "km":  10.68,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  12.17,
-                                     "tv":  22
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -8685,6 +8685,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  4.71,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -8699,11 +8706,25 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  3.73,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  6.46,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.89,
+                                       "tv":  125
                                    },
                                    {
                                        "n":  "Costa",
@@ -8809,6 +8830,13 @@
                                        "p":  0,
                                        "km":  12.17,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ETTORI",
+                                       "p":  1,
+                                       "km":  13.79,
+                                       "tv":  90
                                    },
                                    {
                                        "n":  "Eugenio",
