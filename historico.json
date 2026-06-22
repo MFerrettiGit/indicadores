@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -8390,6 +8390,15 @@
                                      "pe":  0,
                                      "km":  51.68,
                                      "tv":  247
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  22.11,
+                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -8410,15 +8419,6 @@
                                      "tv":  328
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  20.5,
-                                     "tv":  267
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -8428,6 +8428,15 @@
                                      "tv":  269
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  48.14,
+                                     "tv":  287
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -8435,15 +8444,6 @@
                                      "pe":  0,
                                      "km":  19.27,
                                      "tv":  205
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  38.94,
-                                     "tv":  243
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -8491,6 +8491,15 @@
                                      "tv":  211
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  97.89,
+                                     "tv":  218
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -8498,15 +8507,6 @@
                                      "pe":  2,
                                      "km":  34.46,
                                      "tv":  197
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  81.52,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -8615,6 +8615,13 @@
                                        "tv":  62
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
+                                       "p":  1,
+                                       "km":  9.2,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -8655,6 +8662,13 @@
                                        "p":  1,
                                        "km":  2.8,
                                        "tv":  137
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.61,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -8900,6 +8914,13 @@
                                        "p":  1,
                                        "km":  41.01,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "DROGARIA MAIS BRASIL SANTA LUCIA LTDA",
+                                       "p":  1,
+                                       "km":  16.37,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Alan",
