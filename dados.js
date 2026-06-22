@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "22/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -60,8 +60,8 @@ window.PAINEL = {
                      "primeiro":  "06:51",
                      "ultimo":  "12:57",
                      "tv":  "05:28:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  39.2,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "08:01",
+                     "ultimo":  "13:59",
+                     "tv":  "04:06:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "12:07",
                      "tv":  "03:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  38.3,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:01",
-                     "ultimo":  "13:35",
-                     "tv":  "03:45:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -360,7 +360,7 @@ window.PAINEL = {
                      "primeiro":  "13:26",
                      "ultimo":  "13:47",
                      "tv":  "00:20:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -789,6 +789,15 @@ window.PAINEL = {
                          "dur":  "00:28:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "mun":  "JAGUARIUNA",
+                         "in":  "13:37:39",
+                         "out":  "13:59:03",
+                         "km":  0.9,
+                         "dur":  "00:21:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "LUCIANO APARECIDO BRECIANO 29060089820",
                          "mun":  "ARARAQUARA",
@@ -1102,6 +1111,14 @@ window.PAINEL = {
                         "tempo":  "00:59:03"
                     },
                     {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:58",
+                        "final":  "13:58",
+                        "tempo":  "01:00:03"
+                    },
+                    {
                         "nome":  "Vinicius",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1150,20 +1167,12 @@ window.PAINEL = {
                         "tempo":  "00:24:26"
                     },
                     {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:37"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:00"
+                        "tempo":  "00:56:46"
                     },
                     {
                         "nome":  "Aline",
@@ -1171,7 +1180,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:44"
+                        "tempo":  "00:53:30"
                     },
                     {
                         "nome":  "Costa",
@@ -1179,7 +1188,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:41"
+                        "tempo":  "00:53:27"
                     },
                     {
                         "nome":  "Lucas",
@@ -1187,7 +1196,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:37"
+                        "tempo":  "00:50:23"
                     },
                     {
                         "nome":  "Maira",
@@ -1195,7 +1204,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:57"
+                        "tempo":  "00:44:43"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1203,7 +1212,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:30"
+                        "tempo":  "00:44:16"
                     },
                     {
                         "nome":  "Nelson",
@@ -1211,7 +1220,7 @@ window.PAINEL = {
                         "obs":  "rangel",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:23"
+                        "tempo":  "00:39:09"
                     },
                     {
                         "nome":  "Fernando",
@@ -1219,7 +1228,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:28"
+                        "tempo":  "00:36:14"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1227,7 +1236,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:18"
+                        "tempo":  "00:25:04"
                     },
                     {
                         "nome":  "Silmara",
@@ -1235,7 +1244,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:27"
+                        "tempo":  "00:18:13"
                     }
                 ],
     "semped":  [
@@ -1266,6 +1275,12 @@ window.PAINEL = {
                    {
                        "nome":  "Rachel",
                        "razao":  "REDE DE DISTRIBUICAO ZEFERINO LTDA",
+                       "mun":  "JAGUARIUNA",
+                       "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                        "mun":  "JAGUARIUNA",
                        "obs":  "analise da loja"
                    },
@@ -1305,55 +1320,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:12:55"
+                         "tempo":  "02:27:47"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:39:33"
+                         "tempo":  "00:54:25"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:11:01"
+                         "tempo":  "01:25:53"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "tempo":  "00:04:58"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:09:28"
+                         "tempo":  "00:24:20"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA",
                          "mun":  "JAGUARIUNA",
-                         "tempo":  "00:12:15"
+                         "tempo":  "00:03:30"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RILU LTDA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:10:23"
+                         "tempo":  "00:25:15"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:35:09"
+                         "tempo":  "00:50:01"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO IB BRAGION LTDA.",
                          "mun":  "JOANOPOLIS",
-                         "tempo":  "00:23:43"
+                         "tempo":  "00:38:35"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "CGL GAMA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:04:18"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO BONA COMPRA LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:01:52"
+                         "tempo":  "00:16:44"
                      }
                  ],
     "hist":  [
@@ -1454,8 +1481,8 @@ window.PAINEL = {
                  ],
                  [
                      "22/06",
-                     70,
-                     10
+                     71,
+                     11
                  ]
              ],
     "historico":  {
@@ -9840,7 +9867,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-22":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -9933,6 +9960,15 @@ window.PAINEL = {
                                                        "tv":  129
                                                    },
                                                    {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  39.2,
+                                                       "tv":  246
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -9940,15 +9976,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  18.35,
                                                        "tv":  206
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  38.3,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -10388,6 +10415,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.84,
                                                          "tv":  28
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                                         "p":  0,
+                                                         "km":  0.9,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",

@@ -8380,7 +8380,7 @@
                                ]
                    },
     "2026-06-22":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -8473,6 +8473,15 @@
                                      "tv":  129
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  39.2,
+                                     "tv":  246
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -8480,15 +8489,6 @@
                                      "pe":  2,
                                      "km":  18.35,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  38.3,
-                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Costa",
@@ -8928,6 +8928,13 @@
                                        "p":  0,
                                        "km":  3.84,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  0.9,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Sao Carlos",
