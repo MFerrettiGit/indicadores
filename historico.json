@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9545,10 +9545,10 @@
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  55.73,
-                                     "tv":  71
+                                     "km":  66.54,
+                                     "tv":  109
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -9596,6 +9596,15 @@
                                      "tv":  224
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  24.9,
+                                     "tv":  290
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -9621,15 +9630,6 @@
                                      "pe":  2,
                                      "km":  80.08,
                                      "tv":  218
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  22.82,
-                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Karina",
@@ -9668,6 +9668,15 @@
                                      "tv":  149
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  50.93,
+                                     "tv":  211
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -9677,22 +9686,13 @@
                                      "tv":  239
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  7.33,
-                                     "tv":  111
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  2.26,
-                                     "tv":  117
+                                     "km":  3.93,
+                                     "tv":  285
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -9711,6 +9711,13 @@
                                        "p":  1,
                                        "km":  54.32,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.10",
+                                       "p":  1,
+                                       "km":  10.81,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Debora",
@@ -9844,6 +9851,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  165
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "LUA AZUL -COM. PRODS. ALIMENTICIOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.08,
+                                       "tv":  125
                                    },
                                    {
                                        "n":  "Fernando",
@@ -10105,6 +10119,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "GONCALVES",
+                                       "p":  0,
+                                       "km":  43.6,
+                                       "tv":  100
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                                        "p":  1,
@@ -10114,9 +10135,16 @@
                                    {
                                        "n":  "Nelson",
                                        "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                                       "p":  1,
+                                       "p":  0,
                                        "km":  0.52,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0,
+                                       "km":  1.67,
+                                       "tv":  168
                                    }
                                ]
                    }
