@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9495,6 +9495,15 @@
                                      "pe":  0,
                                      "km":  32.83,
                                      "tv":  317
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  94.13,
+                                     "tv":  248
                                  },
                                  {
                                      "nome":  "Debora",
@@ -9522,15 +9531,6 @@
                                      "pe":  0,
                                      "km":  32.46,
                                      "tv":  234
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  68.15,
-                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Aline",
@@ -9572,10 +9572,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
                                      "km":  93.58,
-                                     "tv":  142
+                                     "tv":  195
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  84.7,
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -9587,13 +9596,13 @@
                                      "tv":  263
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  83.11,
-                                     "tv":  232
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  32.49,
+                                     "tv":  377
                                  },
                                  {
                                      "nome":  "Luis",
@@ -9612,15 +9621,6 @@
                                      "pe":  4,
                                      "km":  81.67,
                                      "tv":  353
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  25.59,
-                                     "tv":  335
                                  },
                                  {
                                      "nome":  "Maira",
@@ -9680,19 +9680,19 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  50.93,
-                                     "tv":  211
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  51.06,
+                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
+                                     "vi":  3,
+                                     "pe":  2,
                                      "km":  3.93,
-                                     "tv":  285
+                                     "tv":  369
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -9795,6 +9795,13 @@
                                        "p":  0,
                                        "km":  93.58,
                                        "tv":  142
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Eliana",
@@ -9916,6 +9923,13 @@
                                        "tv":  19
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  25.98,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EDSON GILMAR UNGLAUB",
                                        "p":  1,
@@ -9935,6 +9949,13 @@
                                        "p":  1,
                                        "km":  0.69,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "J. CAMARGO DE SOUZA LTDA",
+                                       "p":  1,
+                                       "km":  6.9,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Fernando",
@@ -10131,6 +10152,13 @@
                                        "p":  0,
                                        "km":  0.6,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TIBA LTDA.",
+                                       "p":  1,
+                                       "km":  1.59,
+                                       "tv":  79
                                    },
                                    {
                                        "n":  "Alan",
@@ -10336,6 +10364,13 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "GONCALVES",
+                                       "p":  0,
+                                       "km":  0.13,
+                                       "tv":  118
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                                        "p":  1,
@@ -10362,6 +10397,13 @@
                                        "p":  0,
                                        "km":  1.67,
                                        "tv":  168
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  84
                                    }
                                ]
                    }
