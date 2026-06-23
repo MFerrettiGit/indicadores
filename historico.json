@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9506,6 +9506,15 @@
                                      "tv":  239
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  23.76,
+                                     "tv":  184
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -9513,15 +9522,6 @@
                                      "pe":  0,
                                      "km":  4.76,
                                      "tv":  137
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  20.7,
-                                     "tv":  129
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -9578,6 +9578,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  45.6,
+                                     "tv":  154
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -9594,15 +9603,6 @@
                                      "pe":  1,
                                      "km":  10.01,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  42.38,
-                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Costa",
@@ -9746,6 +9746,13 @@
                                        "p":  1,
                                        "km":  5.3,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.06,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Eliana",
@@ -9900,6 +9907,13 @@
                                        "p":  0,
                                        "km":  1.52,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GUILHERME ZANIOLO AIELO",
+                                       "p":  1,
+                                       "km":  3.22,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Alan",
