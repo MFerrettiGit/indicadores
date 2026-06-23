@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "08:15",
+    "dataHora":  "08:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  1.41,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Alex A.",
                      "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
@@ -109,21 +124,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  1.41,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Milene",
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "07:40",
                      "tv":  "00:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -234,14 +234,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  21.48,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -289,19 +289,19 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  9.79,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:17",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -312,25 +312,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:18",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -355,6 +340,21 @@ window.PAINEL = {
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  14.61,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  9.79,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -399,7 +399,7 @@ window.PAINEL = {
                         "obs":  "exames",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:48"
+                        "tempo":  "01:09:53"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -407,7 +407,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Araraquara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:25"
+                        "tempo":  "00:44:30"
                     },
                     {
                         "nome":  "Mariangela",
@@ -415,7 +415,7 @@ window.PAINEL = {
                         "obs":  "guararema",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:59"
+                        "tempo":  "00:35:04"
                     },
                     {
                         "nome":  "Eduardo",
@@ -423,7 +423,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:33"
+                        "tempo":  "00:33:38"
                     },
                     {
                         "nome":  "Castro",
@@ -431,7 +431,15 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:15"
+                        "tempo":  "00:21:20"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Em Viagem",
+                        "obs":  "viagem para Guariba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:39"
                     }
                 ],
     "semped":  [
@@ -442,61 +450,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "01:05:08"
+                         "tempo":  "01:20:12"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:32"
+                         "tempo":  "00:29:36"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:32:11"
+                         "tempo":  "00:47:15"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "01:11:08"
+                         "tempo":  "01:26:12"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:48:18"
+                         "tempo":  "01:03:22"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO STA.U.WENG LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:15:03"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:05:05"
+                         "tempo":  "00:20:09"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:05:09"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EDSON GILMAR UNGLAUB",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:07:43"
+                         "tempo":  "00:22:47"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:06:39"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADOS CAPPI DUARTE LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:51"
+                         "tempo":  "00:23:55"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:05:42"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:05:49"
+                         "tempo":  "00:20:53"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MARIA HELENA BERNARDINI LIBARDI",
                          "mun":  "CONCHAS",
-                         "tempo":  "00:07:29"
+                         "tempo":  "00:22:33"
                      }
                  ],
     "hist":  [
@@ -10093,7 +10125,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "08:15",
+                                         "dataHora":  "08:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10141,6 +10173,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  1.41,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Alex A.",
                                                        "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
@@ -10156,15 +10197,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  1.41,
                                                        "tv":  0
                                                    },
                                                    {
@@ -10236,7 +10268,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  21.48,
                                                        "tv":  0
                                                    },
                                                    {
@@ -10267,17 +10299,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  9.79,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -10285,8 +10308,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -10309,6 +10332,15 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  14.61,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  9.79,
                                                        "tv":  0
                                                    }
                                                ],
