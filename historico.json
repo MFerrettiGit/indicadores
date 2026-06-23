@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9497,6 +9497,15 @@
                                      "tv":  262
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  95.09,
+                                     "tv":  295
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -9506,13 +9515,13 @@
                                      "tv":  234
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  51.65,
-                                     "tv":  239
+                                     "km":  59.08,
+                                     "tv":  333
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -9542,15 +9551,6 @@
                                      "tv":  134
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  47.26,
-                                     "tv":  248
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  98.19,
-                                     "tv":  171
+                                     "km":  102.44,
+                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9596,6 +9596,15 @@
                                      "tv":  224
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  75.86,
+                                     "tv":  190
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -9612,15 +9621,6 @@
                                      "pe":  0,
                                      "km":  65.85,
                                      "tv":  118
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  12.85,
-                                     "tv":  154
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -9650,6 +9650,15 @@
                                      "tv":  264
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  99.99,
+                                     "tv":  220
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -9666,15 +9675,6 @@
                                      "pe":  3,
                                      "km":  25.8,
                                      "tv":  331
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  75.56,
-                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -9748,6 +9748,13 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                                       "p":  1,
+                                       "km":  43.44,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -9788,6 +9795,13 @@
                                        "p":  1,
                                        "km":  21.92,
                                        "tv":  95
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  11.82,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Evandro",
@@ -9909,6 +9923,13 @@
                                        "tv":  62
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  63.01,
+                                       "tv":  36
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO STA.U.WENG LTDA",
                                        "p":  1,
@@ -9963,6 +9984,13 @@
                                        "p":  1,
                                        "km":  4.36,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.25,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Rachel",
@@ -10082,6 +10110,13 @@
                                        "p":  0,
                                        "km":  1.05,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO LIBARDI LTDA",
+                                       "p":  1,
+                                       "km":  24.43,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Eugenio",
