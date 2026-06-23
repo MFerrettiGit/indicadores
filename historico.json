@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9515,6 +9515,15 @@
                                      "tv":  184
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  47.26,
+                                     "tv":  248
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -9531,15 +9540,6 @@
                                      "pe":  0,
                                      "km":  40.34,
                                      "tv":  124
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  25.34,
-                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Aline",
@@ -9605,6 +9605,15 @@
                                      "tv":  149
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  12.85,
+                                     "tv":  154
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -9614,15 +9623,6 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0,
-                                     "tv":  92
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -9630,6 +9630,15 @@
                                      "pe":  1,
                                      "km":  78.88,
                                      "tv":  131
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  33.84,
+                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -9650,13 +9659,13 @@
                                      "tv":  153
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  33.84,
-                                     "tv":  122
+                                     "km":  25.61,
+                                     "tv":  169
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -9666,15 +9675,6 @@
                                      "pe":  1,
                                      "km":  7.33,
                                      "tv":  111
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  19.4,
-                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Alan",
@@ -9762,6 +9762,13 @@
                                        "tv":  153
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  21.92,
+                                       "tv":  95
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -9837,6 +9844,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "COMERCIAL 3D LTDA",
+                                       "p":  1,
+                                       "km":  12.85,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Maira",
@@ -9937,6 +9951,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
+                                       "p":  1,
+                                       "km":  6.21,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "MARIA HELENA BERNARDINI LIBARDI",
                                        "p":  1,
@@ -9998,6 +10019,13 @@
                                        "p":  1,
                                        "km":  2.57,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "M.T DE O. MOURA SUPERMERCADO ME",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Lucas",
