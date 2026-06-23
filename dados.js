@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  101.45,
+                     "km":  104.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  37.23,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "17:11",
+                     "tv":  "07:05:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "16:46",
                      "tv":  "06:09:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  32.49,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "16:01",
-                     "tv":  "06:17:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -751,6 +751,15 @@ window.PAINEL = {
                          "out":  "16:01:03",
                          "km":  6.9,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "M F BORGES SUPERMERCADO EIRELI",
+                         "mun":  "PIRASSUNUNGA",
+                         "in":  "16:22:50",
+                         "out":  "17:11:22",
+                         "km":  4.74,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1728,7 +1737,7 @@ window.PAINEL = {
                         "obs":  "laranjal piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:50"
+                        "tempo":  "01:16:08"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1736,7 +1745,7 @@ window.PAINEL = {
                         "obs":  "Boa esperança a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:44"
+                        "tempo":  "00:42:02"
                     },
                     {
                         "nome":  "Luis",
@@ -1744,7 +1753,7 @@ window.PAINEL = {
                         "obs":  "Proposta Reta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:22"
+                        "tempo":  "00:33:40"
                     },
                     {
                         "nome":  "Rachel",
@@ -1752,7 +1761,7 @@ window.PAINEL = {
                         "obs":  "pare leve/taj",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:52"
+                        "tempo":  "00:17:10"
                     }
                 ],
     "semped":  [
@@ -1874,27 +1883,27 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Costa",
-                         "razao":  "M F BORGES SUPERMERCADO EIRELI",
+                         "razao":  "FONSECA SUPERMERCADOS LTDA",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:46:14"
+                         "tempo":  "00:07:33"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:07:32"
+                         "tempo":  "00:22:41"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL SUPERMAIS LTDA",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:41:09"
+                         "tempo":  "00:56:18"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:39:06"
+                         "tempo":  "00:54:15"
                      }
                  ],
     "hist":  [
@@ -2000,7 +2009,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     115,
+                     116,
                      19
                  ]
              ],
@@ -11491,7 +11500,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11517,7 +11526,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  101.45,
+                                                       "km":  104.41,
                                                        "tv":  405
                                                    },
                                                    {
@@ -11593,6 +11602,15 @@ window.PAINEL = {
                                                        "tv":  341
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  37.23,
+                                                       "tv":  425
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -11609,15 +11627,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  123.04,
                                                        "tv":  369
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  32.49,
-                                                       "tv":  377
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -12011,6 +12020,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.9,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "M F BORGES SUPERMERCADO EIRELI",
+                                                         "p":  1,
+                                                         "km":  4.74,
+                                                         "tv":  48
                                                      },
                                                      {
                                                          "n":  "Fernando",
