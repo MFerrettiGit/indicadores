@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9515,6 +9515,15 @@
                                      "tv":  248
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  91.4,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -9531,15 +9540,6 @@
                                      "pe":  0,
                                      "km":  32.46,
                                      "tv":  234
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  88.61,
-                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -9605,6 +9605,15 @@
                                      "tv":  377
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  18.21,
+                                     "tv":  256
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -9621,15 +9630,6 @@
                                      "pe":  4,
                                      "km":  81.67,
                                      "tv":  353
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  16.74,
-                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Karina",
@@ -9732,6 +9732,13 @@
                                        "p":  1,
                                        "km":  20.03,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
+                                       "p":  1,
+                                       "km":  2.79,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Debora",
@@ -10040,6 +10047,13 @@
                                        "p":  0,
                                        "km":  6.73,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "L.R. GOMES - SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.47,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Milene",
