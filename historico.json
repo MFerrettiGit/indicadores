@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9506,6 +9506,15 @@
                                      "tv":  239
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  6.88,
+                                     "tv":  177
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -9515,6 +9524,15 @@
                                      "tv":  184
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  41.97,
+                                     "tv":  187
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -9522,24 +9540,6 @@
                                      "pe":  0,
                                      "km":  47.26,
                                      "tv":  248
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  4.76,
-                                     "tv":  137
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  40.34,
-                                     "tv":  124
                                  },
                                  {
                                      "nome":  "Aline",
@@ -9581,10 +9581,19 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  82.51,
+                                     "tv":  193
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
                                      "vi":  3,
-                                     "pe":  2,
-                                     "km":  45.6,
-                                     "tv":  154
+                                     "pe":  1,
+                                     "km":  16.74,
+                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -9596,15 +9605,6 @@
                                      "tv":  118
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  10.01,
-                                     "tv":  149
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -9612,6 +9612,15 @@
                                      "pe":  2,
                                      "km":  12.85,
                                      "tv":  154
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  80.08,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Costa",
@@ -9623,13 +9632,13 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  78.88,
-                                     "tv":  131
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  38.94,
+                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -9641,13 +9650,13 @@
                                      "tv":  227
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  4,
-                                     "km":  33.84,
-                                     "tv":  193
+                                     "km":  28.18,
+                                     "tv":  220
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -9657,15 +9666,6 @@
                                      "pe":  1,
                                      "km":  75.56,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  25.61,
-                                     "tv":  169
                                  },
                                  {
                                      "nome":  "Alan",
@@ -9811,6 +9811,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                                       "p":  1,
+                                       "km":  2.12,
+                                       "tv":  40
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                                        "p":  1,
@@ -9825,6 +9832,13 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP CONS POPULAR DE CERQUILHO",
+                                       "p":  1,
+                                       "km":  1.63,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EDSON GILMAR UNGLAUB",
                                        "p":  1,
@@ -9837,6 +9851,13 @@
                                        "p":  1,
                                        "km":  57.4,
                                        "tv":  131
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO COLISEU GUARIBA LTDA-EPP",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Luis",
@@ -9865,6 +9886,13 @@
                                        "p":  0,
                                        "km":  6.41,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO PAVAN LTDA.",
+                                       "p":  0,
+                                       "km":  6.73,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Milene",
@@ -9930,6 +9958,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "RENATO MODENEZI COLIN - ME",
+                                       "p":  1,
+                                       "km":  36.91,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "SUPERMERCADOS CAPPI DUARTE LTDA.",
                                        "p":  1,
@@ -9963,6 +9998,13 @@
                                        "p":  1,
                                        "km":  6.21,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                       "p":  1,
+                                       "km":  2.57,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Cominato",
@@ -10040,6 +10082,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COMERCIAL DE ALIMENTOS JMC COELHO LTDA.",
+                                       "p":  1,
+                                       "km":  5.1,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Lucas",
