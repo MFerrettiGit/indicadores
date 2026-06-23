@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9504,6 +9504,15 @@
                                      "pe":  0,
                                      "km":  95.09,
                                      "tv":  295
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  7.82,
+                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -9542,15 +9551,6 @@
                                      "tv":  333
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  6.88,
-                                     "tv":  177
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  102.44,
-                                     "tv":  206
+                                     "km":  106.83,
+                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9578,6 +9578,15 @@
                                      "tv":  142
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  82.42,
+                                     "tv":  263
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -9585,15 +9594,6 @@
                                      "pe":  3,
                                      "km":  83.11,
                                      "tv":  232
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  77.8,
-                                     "tv":  248
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -9635,10 +9635,19 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  42.98,
-                                     "tv":  271
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  45.07,
+                                     "tv":  319
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  32.51,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Castro",
@@ -9657,15 +9666,6 @@
                                      "pe":  2,
                                      "km":  99.99,
                                      "tv":  220
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  15.11,
-                                     "tv":  227
                                  },
                                  {
                                      "nome":  "Alan",
@@ -9881,6 +9881,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  0.94,
+                                       "tv":  152
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                                        "p":  1,
@@ -10042,6 +10049,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  4.39,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -10068,6 +10082,13 @@
                                        "p":  0,
                                        "km":  6.17,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO PONTO NOVO LTDA",
+                                       "p":  0,
+                                       "km":  4.62,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -10217,6 +10238,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                                       "p":  1,
+                                       "km":  17.4,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -10257,6 +10285,13 @@
                                        "p":  1,
                                        "km":  4.04,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "JOSE CLAUDIMAR DA SILVA UBATUBA",
+                                       "p":  1,
+                                       "km":  2.09,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Lucas",
