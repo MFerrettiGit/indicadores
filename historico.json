@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9506,26 +9506,26 @@
                                      "tv":  93
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  2.06,
-                                     "tv":  0
+                                     "km":  3.48,
+                                     "tv":  80
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  15.4,
+                                     "tv":  75
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -9632,6 +9632,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.06,
+                                     "tv":  34
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -9656,15 +9665,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.74,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -9713,11 +9713,25 @@
                                        "tv":  93
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  15.4,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
                                        "km":  21.21,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
+                                       "p":  1,
+                                       "km":  1.42,
+                                       "tv":  80
                                    },
                                    {
                                        "n":  "Milene",
@@ -9732,6 +9746,13 @@
                                        "p":  0,
                                        "km":  6.86,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.06,
+                                       "tv":  34
                                    }
                                ]
                    }
