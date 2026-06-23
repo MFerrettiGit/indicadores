@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9495,6 +9495,15 @@
                                      "pe":  0,
                                      "km":  24.15,
                                      "tv":  104
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  25.34,
+                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Debora",
@@ -9524,26 +9533,8 @@
                                      "tv":  75
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -9557,6 +9548,15 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.41,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -9632,6 +9632,24 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  31.27,
+                                     "tv":  69
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  74.16,
+                                     "tv":  84
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -9639,15 +9657,6 @@
                                      "pe":  1,
                                      "km":  7.06,
                                      "tv":  34
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  29.98,
-                                     "tv":  46
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -9662,15 +9671,6 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -9720,6 +9720,13 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.05",
+                                       "p":  1,
+                                       "km":  25.34,
+                                       "tv":  153
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -9762,6 +9769,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "MARIA HELENA BERNARDINI LIBARDI",
+                                       "p":  1,
+                                       "km":  74.16,
+                                       "tv":  84
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -9774,6 +9788,13 @@
                                        "p":  1,
                                        "km":  29.98,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO GAROTAO PONTAL LTDA",
+                                       "p":  1,
+                                       "km":  1.29,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Lucas",
