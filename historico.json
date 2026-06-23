@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9632,6 +9632,15 @@
                                      "tv":  131
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  15.11,
+                                     "tv":  227
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -9648,15 +9657,6 @@
                                      "pe":  1,
                                      "km":  75.56,
                                      "tv":  149
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  13.96,
-                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Castro",
@@ -10005,6 +10005,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SM. IRMAOS SOUZA LTDA.",
+                                       "p":  1,
+                                       "km":  1.15,
+                                       "tv":  74
                                    },
                                    {
                                        "n":  "Karina",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "11:23",
                      "tv":  "03:25:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
@@ -105,8 +105,8 @@ window.PAINEL = {
                      "primeiro":  "10:06",
                      "ultimo":  "11:17",
                      "tv":  "01:11:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -151,7 +151,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -180,8 +180,8 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "10:55",
                      "tv":  "01:58:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  15.11,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:17",
+                     "ultimo":  "12:36",
+                     "tv":  "03:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -274,21 +289,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  13.96,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:17",
-                     "ultimo":  "11:16",
-                     "tv":  "02:33:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "12:05",
                      "tv":  "03:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -753,6 +753,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SM. IRMAOS SOUZA LTDA.",
+                         "mun":  "BOM JESUS DOS P",
+                         "in":  "11:22:11",
+                         "out":  "12:36:45",
+                         "km":  1.15,
+                         "dur":  "01:14:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -828,6 +837,14 @@ window.PAINEL = {
     "eventos":  [
                     {
                         "nome":  "Eduardo",
+                        "tipo":  "Em Viagem",
+                        "obs":  ".",
+                        "inicio":  "07:51",
+                        "final":  "12:37",
+                        "tempo":  "04:46:31"
+                    },
+                    {
+                        "nome":  "Eduardo",
                         "tipo":  "Outro",
                         "obs":  "administrativo",
                         "inicio":  "07:59",
@@ -851,6 +868,14 @@ window.PAINEL = {
                         "tempo":  "00:45:26"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "11:49",
+                        "final":  "12:38",
+                        "tempo":  "00:48:39"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Em Viagem",
                         "obs":  ".",
@@ -859,12 +884,36 @@ window.PAINEL = {
                         "tempo":  "00:34:08"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "11:30",
+                        "final":  "12:31",
+                        "tempo":  "01:00:03"
+                    },
+                    {
                         "nome":  "Aline",
                         "tipo":  "Consulta",
                         "obs":  "exames",
                         "inicio":  "07:14",
                         "final":  "08:29",
                         "tempo":  "01:14:29"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:26",
+                        "final":  "12:26",
+                        "tempo":  "01:00:12"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:30",
+                        "final":  "12:30",
+                        "tempo":  "00:59:58"
                     },
                     {
                         "nome":  "Silmara",
@@ -915,44 +964,12 @@ window.PAINEL = {
                         "tempo":  "00:41:47"
                     },
                     {
-                        "nome":  "Eduardo",
-                        "tipo":  "Em Viagem",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "04:33:49"
-                    },
-                    {
-                        "nome":  "Aline",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:31"
-                    },
-                    {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:32"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:52"
-                    },
-                    {
                         "nome":  "Eliana",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:36"
+                        "tempo":  "00:55:45"
                     },
                     {
                         "nome":  "Edimilson",
@@ -960,15 +977,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:59"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:28"
+                        "tempo":  "00:55:08"
                     },
                     {
                         "nome":  "Luis",
@@ -976,7 +985,7 @@ window.PAINEL = {
                         "obs":  "Franca a Guará",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:44"
+                        "tempo":  "00:40:53"
                     },
                     {
                         "nome":  "Debora",
@@ -984,7 +993,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:21"
+                        "tempo":  "00:33:30"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Conchas a Porangaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:31"
                     }
                 ],
     "semped":  [
@@ -1033,76 +1050,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.10",
+                         "mun":  "COSMOPOLIS",
+                         "tempo":  "00:12:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "COOP CONS POPULAR DE CERQUILHO",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:43:01"
+                         "tempo":  "00:58:08"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:16:08"
+                         "tempo":  "00:31:15"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO PAVAN LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:56:55"
+                         "tempo":  "01:12:02"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO COLISEU GUARIBA LTDA-EPP",
                          "mun":  "GUARIBA",
-                         "tempo":  "00:59:51"
+                         "tempo":  "01:14:58"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "LUA AZUL -COM. PRODS. ALIMENTICIOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "01:28:19"
+                         "tempo":  "01:43:26"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "RENATO MODENEZI COLIN - ME",
                          "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:13:26"
+                         "tempo":  "00:28:33"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "SM. IRMAOS SOUZA LTDA.",
-                         "mun":  "BOM JESUS DOS P",
-                         "tempo":  "01:01:57"
+                         "nome":  "Alan",
+                         "razao":  "MERCEARIA BARDELA LTDA ME",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:28"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL DE ALIMENTOS JMC COELHO LTDA.",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:22:00"
+                         "tempo":  "00:37:07"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "GONCALVES",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:07:45"
+                         "tempo":  "01:22:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "02:04:05"
+                         "tempo":  "02:19:12"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:26:55"
+                         "tempo":  "00:42:02"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO SERV MAGO LTDA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:54:39"
+                         "tempo":  "01:09:46"
                      }
                  ],
     "hist":  [
@@ -1208,7 +1231,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     51,
+                     52,
                      7
                  ]
              ],
@@ -10699,7 +10722,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10846,6 +10869,15 @@ window.PAINEL = {
                                                        "tv":  131
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  15.11,
+                                                       "tv":  227
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -10862,15 +10894,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  75.56,
                                                        "tv":  149
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  13.96,
-                                                       "tv":  153
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -11219,6 +11242,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SM. IRMAOS SOUZA LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.15,
+                                                         "tv":  74
                                                      },
                                                      {
                                                          "n":  "Karina",
