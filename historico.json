@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9495,6 +9495,15 @@
                                      "pe":  0,
                                      "km":  30.85,
                                      "tv":  262
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  32.46,
+                                     "tv":  234
                                  },
                                  {
                                      "nome":  "Debora",
@@ -9515,15 +9524,6 @@
                                      "tv":  177
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  23.76,
-                                     "tv":  184
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -9533,6 +9533,15 @@
                                      "tv":  187
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  68.58,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -9540,15 +9549,6 @@
                                      "pe":  0,
                                      "km":  47.26,
                                      "tv":  248
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  66.54,
-                                     "tv":  109
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -9698,10 +9698,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  47.72,
-                                     "tv":  116
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  48.42,
+                                     "tv":  259
                                  }
                              ],
                        "cli":  [
@@ -9767,6 +9767,13 @@
                                        "p":  1,
                                        "km":  3.06,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  8.7,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Eliana",
@@ -10159,6 +10166,13 @@
                                        "p":  1,
                                        "km":  37.93,
                                        "tv":  116
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO SERV MAGO LTDA",
+                                       "p":  1,
+                                       "km":  0.7,
+                                       "tv":  143
                                    },
                                    {
                                        "n":  "Nelson",
