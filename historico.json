@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9515,6 +9515,15 @@
                                      "tv":  137
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  20.7,
+                                     "tv":  129
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -9522,15 +9531,6 @@
                                      "pe":  0,
                                      "km":  25.34,
                                      "tv":  153
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  15.4,
-                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  65.3,
-                                     "tv":  97
+                                     "km":  69.75,
+                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9576,6 +9576,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  42.38,
+                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -9605,15 +9614,6 @@
                                      "tv":  92
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.86,
-                                     "tv":  84
-                                 },
-                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -9632,6 +9632,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  74.51,
+                                     "tv":  120
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -9641,13 +9650,13 @@
                                      "tv":  69
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  74.16,
-                                     "tv":  84
+                                     "km":  16.42,
+                                     "tv":  141
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -9675,15 +9684,6 @@
                                      "pe":  0,
                                      "km":  6.2,
                                      "tv":  42
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Castro",
@@ -9725,6 +9725,13 @@
                                        "p":  1,
                                        "km":  15.4,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.3,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Eliana",
@@ -9804,6 +9811,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  4.45,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -9818,11 +9832,32 @@
                                        "tv":  84
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
+                                       "p":  0,
+                                       "km":  1.52,
+                                       "tv":  22
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADOS CAPPI DUARTE LTDA.",
+                                       "p":  1,
+                                       "km":  16.42,
+                                       "tv":  141
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "MARIA HELENA BERNARDINI LIBARDI",
                                        "p":  1,
                                        "km":  74.16,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MILANEZ ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  0.35,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Eugenio",
