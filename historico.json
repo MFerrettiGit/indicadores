@@ -9485,16 +9485,25 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  25.91,
+                                     "tv":  139
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  24.15,
-                                     "tv":  104
+                                     "km":  50.48,
+                                     "tv":  164
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -9515,15 +9524,6 @@
                                      "tv":  153
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  48.18,
-                                     "tv":  93
-                                 },
-                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -9542,21 +9542,21 @@
                                      "tv":  43
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.41,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -9596,30 +9596,30 @@
                                      "tv":  104
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0,
+                                     "tv":  92
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  40.86,
+                                     "tv":  84
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  22.82,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -9650,6 +9650,15 @@
                                      "tv":  84
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.26,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -9674,15 +9683,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.74,
                                      "tv":  0
                                  },
                                  {
@@ -9713,6 +9713,13 @@
                                        "tv":  93
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.3,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -9741,6 +9748,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.76,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                                        "p":  1,
@@ -9760,6 +9774,13 @@
                                        "p":  1,
                                        "km":  40.01,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "MONICA AP. DA SILVA SONTINI-ME.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Maira",
@@ -9830,6 +9851,13 @@
                                        "p":  0,
                                        "km":  6.2,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  0.52,
+                                       "tv":  117
                                    }
                                ]
                    }
