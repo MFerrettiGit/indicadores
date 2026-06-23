@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9572,10 +9572,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  93.58,
+                                     "tv":  142
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -9590,10 +9590,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  71.63,
-                                     "tv":  225
+                                     "km":  77.8,
+                                     "tv":  248
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  25.59,
+                                     "tv":  335
                                  },
                                  {
                                      "nome":  "Maira",
@@ -9621,15 +9630,6 @@
                                      "pe":  3,
                                      "km":  80.77,
                                      "tv":  318
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  24.9,
-                                     "tv":  290
                                  },
                                  {
                                      "nome":  "Karina",
@@ -9783,6 +9783,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  93.58,
+                                       "tv":  142
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.05",
                                        "p":  1,
@@ -9909,6 +9916,13 @@
                                        "tv":  125
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "J. CAMARGO DE SOUZA LTDA",
+                                       "p":  1,
+                                       "km":  0.69,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -10033,6 +10047,13 @@
                                        "p":  1,
                                        "km":  5.78,
                                        "tv":  107
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "REDE ROFATTO DE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  6.17,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Sao Carlos",

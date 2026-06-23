@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:59",
                      "ultimo":  "14:43",
                      "tv":  "05:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -143,13 +143,13 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  93.58,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "12:42",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "15:05",
+                     "tv":  "02:22:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -173,14 +173,29 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  71.63,
-                     "semPed":  2,
-                     "perc":  66.67,
+                     "visitas":  4,
+                     "km":  77.8,
+                     "semPed":  3,
+                     "perc":  75,
                      "primeiro":  "08:04",
-                     "ultimo":  "14:26",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:05",
+                     "tv":  "04:08:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  25.59,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "15:05",
+                     "tv":  "05:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -196,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:42",
                      "tv":  "03:44:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "09:06",
                      "ultimo":  "14:41",
                      "tv":  "05:18:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  24.9,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "13:01",
-                     "tv":  "04:50:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:59",
                      "tv":  "05:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "13:53",
                      "tv":  "04:19:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -463,6 +463,15 @@ window.PAINEL = {
                          "out":  "13:52:08",
                          "km":  8.7,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "12:42:13",
+                         "out":  "15:05:23",
+                         "km":  93.58,
+                         "dur":  "02:22:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -627,6 +636,15 @@ window.PAINEL = {
                          "dur":  "02:05:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "J. CAMARGO DE SOUZA LTDA",
+                         "mun":  "PIRASSUNUNGA",
+                         "in":  "14:20:05",
+                         "out":  "15:05:40",
+                         "km":  0.69,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
@@ -787,6 +805,15 @@ window.PAINEL = {
                          "out":  "14:26:58",
                          "km":  5.78,
                          "dur":  "01:47:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "REDE ROFATTO DE SUPERMERCADOS LTDA",
+                         "mun":  "MOJI-MIRIM",
+                         "in":  "14:41:16",
+                         "out":  "15:05:08",
+                         "km":  6.17,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -1105,12 +1132,28 @@ window.PAINEL = {
                         "tempo":  "01:02:41"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta liderança Max",
+                        "inicio":  "14:29",
+                        "final":  "14:57",
+                        "tempo":  "00:28:21"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "13:07",
                         "final":  "14:07",
                         "tempo":  "01:00:10"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:01",
+                        "final":  "15:02",
+                        "tempo":  "01:00:26"
                     },
                     {
                         "nome":  "Karina",
@@ -1321,6 +1364,14 @@ window.PAINEL = {
                         "tempo":  "18:40:36"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:54",
+                        "final":  "15:00",
+                        "tempo":  "01:06:39"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Araraquara",
@@ -1345,28 +1396,12 @@ window.PAINEL = {
                         "tempo":  "00:59:10"
                     },
                     {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:33"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:52"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Proposta",
-                        "obs":  "proposta liderança Max",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:25:36"
+                        "tempo":  "00:04:36"
                     }
                 ],
     "semped":  [
@@ -1383,6 +1418,12 @@ window.PAINEL = {
                        "obs":  "compras na próxima semana"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "COVABRA SUPERMERCADOS LTDA",
+                       "mun":  "JUNDIAI",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Rachel",
                        "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                        "mun":  "AMPARO",
@@ -1393,6 +1434,12 @@ window.PAINEL = {
                        "razao":  "MAGUI SUPERMERCADOS LTDA.",
                        "mun":  "MOJI-MIRIM",
                        "obs":  "ainda nao esta precisando"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "REDE ROFATTO DE SUPERMERCADOS LTDA",
+                       "mun":  "MOJI-MIRIM",
+                       "obs":  "analise da loja"
                    },
                    {
                        "nome":  "Luis",
@@ -1446,105 +1493,99 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Eduardo",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "02:11:27"
+                         "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:03:12"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:26:57"
+                         "tempo":  "00:42:27"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:13:23"
+                         "tempo":  "00:28:53"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:13"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:25:09"
+                         "tempo":  "00:40:39"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:21:25"
+                         "tempo":  "00:36:55"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:59:45"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "REDE ROFATTO DE SUPERMERCADOS LTDA",
-                         "mun":  "MOJI-MIRIM",
-                         "tempo":  "00:12:24"
+                         "tempo":  "02:15:15"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
-                         "tempo":  "00:31:29"
+                         "tempo":  "00:46:59"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:24:17"
+                         "tempo":  "00:39:47"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MONTE BELO SUPERMERCADO DE GUARIBA LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "00:07:15"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "J. CAMARGO DE SOUZA LTDA",
-                         "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:33:35"
+                         "tempo":  "00:22:45"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA.",
                          "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:08:26"
+                         "tempo":  "00:23:56"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:08:38"
+                         "tempo":  "00:24:08"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "JOSE CLAUDIMAR DA SILVA UBATUBA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:10:51"
+                         "tempo":  "00:26:21"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "GONCALVES",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:57:31"
+                         "tempo":  "01:13:01"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:23:17"
+                         "tempo":  "00:38:47"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "CABREUVA",
-                         "tempo":  "00:23:50"
+                         "tempo":  "00:39:20"
                      }
                  ],
     "hist":  [
@@ -1650,8 +1691,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     81,
-                     12
+                     84,
+                     14
                  ]
              ],
     "historico":  {
@@ -11141,7 +11182,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11228,10 +11269,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  93.58,
+                                                       "tv":  142
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -11246,10 +11287,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  1,
-                                                       "km":  71.63,
-                                                       "tv":  225
+                                                       "km":  77.8,
+                                                       "tv":  248
+                                                   },
+                                                   {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  25.59,
+                                                       "tv":  335
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -11277,15 +11327,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  80.77,
                                                        "tv":  318
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  24.9,
-                                                       "tv":  290
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -11439,6 +11480,13 @@ window.PAINEL = {
                                                          "tv":  50
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  93.58,
+                                                         "tv":  142
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "IRMAOS BOA LTDA - LJ.05",
                                                          "p":  1,
@@ -11565,6 +11613,13 @@ window.PAINEL = {
                                                          "tv":  125
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "J. CAMARGO DE SOUZA LTDA",
+                                                         "p":  1,
+                                                         "km":  0.69,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -11689,6 +11744,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.78,
                                                          "tv":  107
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "REDE ROFATTO DE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  6.17,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
