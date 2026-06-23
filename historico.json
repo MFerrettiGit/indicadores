@@ -9485,16 +9485,16 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  30.85,
-                                     "tv":  262
+                                     "km":  32.83,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Debora",
@@ -9614,6 +9614,15 @@
                                      "tv":  190
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  80.77,
+                                     "tv":  318
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -9621,15 +9630,6 @@
                                      "pe":  2,
                                      "km":  24.9,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  80.08,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Karina",
@@ -9839,6 +9839,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                                       "p":  1,
+                                       "km":  1.98,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                                        "p":  1,
@@ -9914,6 +9921,13 @@
                                        "p":  1,
                                        "km":  1.2,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO MARAFAO LTDA",
+                                       "p":  1,
+                                       "km":  0.69,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Luis",
