@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "12:00",
+    "dataHora":  "12:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -31,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "11:24",
                      "tv":  "03:59:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Edimilson",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "09:47",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "11:50",
                      "tv":  "02:34:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "11:52",
                      "tv":  "03:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,6 +300,21 @@ window.PAINEL = {
                      "primeiro":  "08:38",
                      "ultimo":  "11:41",
                      "tv":  "02:49:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  16.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:00",
+                     "ultimo":  "12:05",
+                     "tv":  "03:59:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:35",
                      "ultimo":  "10:38",
                      "tv":  "01:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  16.42,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:00",
-                     "ultimo":  "10:21",
-                     "tv":  "02:21:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -663,6 +663,15 @@ window.PAINEL = {
                          "dur":  "02:21:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:27:19",
+                         "out":  "12:05:54",
+                         "km":  0.49,
+                         "dur":  "01:38:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
@@ -903,7 +912,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:03:53"
+                        "tempo":  "04:18:51"
                     },
                     {
                         "nome":  "Aline",
@@ -911,7 +920,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:35"
+                        "tempo":  "00:43:33"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -919,7 +928,7 @@ window.PAINEL = {
                         "obs":  "Araraquara a Boa Esperança",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:13"
+                        "tempo":  "00:41:11"
                     },
                     {
                         "nome":  "Evandro",
@@ -927,7 +936,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:36"
+                        "tempo":  "00:39:34"
                     },
                     {
                         "nome":  "Cominato",
@@ -935,7 +944,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:56"
+                        "tempo":  "00:38:54"
                     },
                     {
                         "nome":  "Eliana",
@@ -943,7 +952,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:40"
+                        "tempo":  "00:25:38"
                     },
                     {
                         "nome":  "Edimilson",
@@ -951,7 +960,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:03"
+                        "tempo":  "00:25:01"
                     },
                     {
                         "nome":  "Rachel",
@@ -959,7 +968,23 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:32"
+                        "tempo":  "00:20:30"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Guará",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:46"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:23"
                     }
                 ],
     "semped":  [
@@ -1011,55 +1036,67 @@ window.PAINEL = {
                          "nome":  "Vinicius",
                          "razao":  "COOP CONS POPULAR DE CERQUILHO",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:13:02"
+                         "tempo":  "00:28:04"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.12",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:01:11"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO PAVAN LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:26:56"
+                         "tempo":  "00:41:58"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO COLISEU GUARIBA LTDA-EPP",
                          "mun":  "GUARIBA",
-                         "tempo":  "00:29:52"
+                         "tempo":  "00:44:54"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "LUA AZUL -COM. PRODS. ALIMENTICIOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:58:20"
+                         "tempo":  "01:13:22"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SM. IRMAOS SOUZA LTDA.",
                          "mun":  "BOM JESUS DOS P",
-                         "tempo":  "00:31:58"
+                         "tempo":  "00:47:00"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:26:50"
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL DE ALIMENTOS JMC COELHO LTDA.",
+                         "mun":  "UBATUBA",
+                         "tempo":  "00:07:03"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "GONCALVES",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:37:46"
+                         "tempo":  "00:52:48"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:34:06"
+                         "tempo":  "01:49:08"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:11:58"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO SERV MAGO LTDA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:24:40"
+                         "tempo":  "00:39:42"
                      }
                  ],
     "hist":  [
@@ -1165,7 +1202,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     50,
+                     51,
                      7
                  ]
              ],
@@ -10656,7 +10693,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "12:00",
+                                         "dataHora":  "12:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10839,6 +10876,15 @@ window.PAINEL = {
                                                        "tv":  169
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  16.91,
+                                                       "tv":  239
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -10846,15 +10892,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  7.33,
                                                        "tv":  111
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  16.42,
-                                                       "tv":  141
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -11106,6 +11143,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  16.42,
                                                          "tv":  141
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
+                                                         "p":  1,
+                                                         "km":  0.49,
+                                                         "tv":  98
                                                      },
                                                      {
                                                          "n":  "Castro",
