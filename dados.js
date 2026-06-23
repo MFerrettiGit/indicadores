@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "14:13",
                      "tv":  "04:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,6 +45,21 @@ window.PAINEL = {
                      "primeiro":  "07:36",
                      "ultimo":  "13:52",
                      "tv":  "03:54:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  68.15,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:07",
+                     "ultimo":  "14:35",
+                     "tv":  "03:26:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -60,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "14:12",
                      "tv":  "05:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "12:49",
                      "tv":  "02:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  41.97,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:07",
-                     "ultimo":  "12:45",
-                     "tv":  "03:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "14:15",
                      "tv":  "03:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,29 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  82.51,
-                     "semPed":  1,
-                     "perc":  25,
+                     "visitas":  5,
+                     "km":  83.11,
+                     "semPed":  2,
+                     "perc":  40,
                      "primeiro":  "08:30",
-                     "ultimo":  "12:50",
-                     "tv":  "03:13:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:38",
+                     "tv":  "03:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  71.63,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:04",
+                     "ultimo":  "14:26",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -181,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "12:42",
                      "tv":  "03:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -214,21 +229,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  65.85,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:04",
-                     "ultimo":  "10:55",
-                     "tv":  "01:58:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:28",
                      "tv":  "04:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Castro",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:38",
                      "ultimo":  "14:07",
                      "tv":  "04:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "13:08",
                      "tv":  "04:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -591,6 +591,15 @@ window.PAINEL = {
                          "dur":  "01:03:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PORTO FELIZ",
+                         "in":  "14:16:01",
+                         "out":  "14:35:54",
+                         "km":  26.18,
+                         "dur":  "00:19:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "EDSON GILMAR UNGLAUB",
                          "mun":  "PIRASSUNUNGA",
@@ -753,6 +762,15 @@ window.PAINEL = {
                          "dur":  "01:27:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "TAJ SUPERMERCADO LTDA",
+                         "mun":  "MOJI-MIRIM",
+                         "in":  "12:39:26",
+                         "out":  "14:26:58",
+                         "km":  5.78,
+                         "dur":  "01:47:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA",
                          "mun":  "ARARAQUARA",
@@ -786,6 +804,15 @@ window.PAINEL = {
                          "in":  "12:10:42",
                          "out":  "12:50:43",
                          "km":  36.91,
+                         "dur":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                         "mun":  "BOA ESPERANCA D",
+                         "in":  "13:58:57",
+                         "out":  "14:38:22",
+                         "km":  0.6,
                          "dur":  "00:39:00"
                      },
                      {
@@ -1068,6 +1095,14 @@ window.PAINEL = {
                         "tempo":  "01:00:10"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:38",
+                        "final":  "14:30",
+                        "tempo":  "00:51:43"
+                    },
+                    {
                         "nome":  "Eduardo",
                         "tipo":  "Em Viagem",
                         "obs":  ".",
@@ -1292,20 +1327,12 @@ window.PAINEL = {
                         "tempo":  "00:59:10"
                     },
                     {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:46:17"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:11"
+                        "tempo":  "00:46:06"
                     },
                     {
                         "nome":  "Alan",
@@ -1313,7 +1340,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:30"
+                        "tempo":  "00:38:25"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Proposta",
+                        "obs":  "proposta liderança Max",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:09"
                     }
                 ],
     "semped":  [
@@ -1382,6 +1417,12 @@ window.PAINEL = {
                        "razao":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
                        "mun":  "ARARAQUARA",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                       "mun":  "BOA ESPERANCA D",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -1389,61 +1430,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:42:03"
+                         "tempo":  "01:56:58"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:12:28"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:11"
+                         "tempo":  "00:52:06"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PORTO FELIZ",
-                         "tempo":  "00:08:15"
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO REVOLUTION LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:10:40"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA - LJ.06",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:06:56"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:30:21"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "TAJ SUPERMERCADO LTDA",
-                         "mun":  "MOJI-MIRIM",
-                         "tempo":  "01:44:50"
+                         "tempo":  "01:45:16"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "FERNANDO PALMIERI",
                          "mun":  "GUARA",
-                         "tempo":  "00:02:05"
+                         "tempo":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:09:48"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO MARAFAO LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "01:23:17"
+                         "tempo":  "01:38:12"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "J. CAMARGO DE SOUZA LTDA",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:04:11"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
-                         "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:25:19"
+                         "tempo":  "00:19:06"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "GONCALVES",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:28:07"
+                         "tempo":  "00:43:02"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPEVA",
+                         "tempo":  "00:08:48"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
+                         "mun":  "CABREUVA",
+                         "tempo":  "00:09:21"
                      }
                  ],
     "hist":  [
@@ -1549,8 +1608,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     76,
-                     11
+                     79,
+                     12
                  ]
              ],
     "historico":  {
@@ -11040,7 +11099,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11070,6 +11129,15 @@ window.PAINEL = {
                                                        "tv":  234
                                                    },
                                                    {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  68.15,
+                                                       "tv":  206
+                                                   },
+                                                   {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
@@ -11086,15 +11154,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  6.88,
                                                        "tv":  177
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  41.97,
-                                                       "tv":  187
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -11136,10 +11195,19 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  3,
-                                                       "km":  82.51,
-                                                       "tv":  193
+                                                       "km":  83.11,
+                                                       "tv":  232
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  71.63,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -11167,15 +11235,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  24.9,
                                                        "tv":  290
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  65.85,
-                                                       "tv":  118
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -11436,6 +11495,13 @@ window.PAINEL = {
                                                          "tv":  63
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  26.18,
+                                                         "tv":  19
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "EDSON GILMAR UNGLAUB",
                                                          "p":  1,
@@ -11562,6 +11628,13 @@ window.PAINEL = {
                                                          "tv":  87
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "TAJ SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  5.78,
+                                                         "tv":  107
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADOS TIBA LTDA",
                                                          "p":  1,
@@ -11587,6 +11660,13 @@ window.PAINEL = {
                                                          "r":  "RENATO MODENEZI COLIN - ME",
                                                          "p":  1,
                                                          "km":  36.91,
+                                                         "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                                                         "p":  0,
+                                                         "km":  0.6,
                                                          "tv":  39
                                                      },
                                                      {

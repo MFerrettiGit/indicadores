@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9515,6 +9515,15 @@
                                      "tv":  234
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  68.15,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -9531,15 +9540,6 @@
                                      "pe":  0,
                                      "km":  6.88,
                                      "tv":  177
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  41.97,
-                                     "tv":  187
                                  },
                                  {
                                      "nome":  "Aline",
@@ -9581,10 +9581,19 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  82.51,
-                                     "tv":  193
+                                     "km":  83.11,
+                                     "tv":  232
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  71.63,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Maira",
@@ -9612,15 +9621,6 @@
                                      "pe":  2,
                                      "km":  24.9,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  65.85,
-                                     "tv":  118
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -9881,6 +9881,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  26.18,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EDSON GILMAR UNGLAUB",
                                        "p":  1,
@@ -10007,6 +10014,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "TAJ SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  5.78,
+                                       "tv":  107
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA",
                                        "p":  1,
@@ -10032,6 +10046,13 @@
                                        "r":  "RENATO MODENEZI COLIN - ME",
                                        "p":  1,
                                        "km":  36.91,
+                                       "tv":  39
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO BOA ESPERANCA SERVE LTDA",
+                                       "p":  0,
+                                       "km":  0.6,
                                        "tv":  39
                                    },
                                    {
