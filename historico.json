@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9641,6 +9641,15 @@
                                      "tv":  271
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  51.43,
+                                     "tv":  264
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -9650,13 +9659,13 @@
                                      "tv":  227
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  28.18,
-                                     "tv":  220
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  25.8,
+                                     "tv":  331
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -9675,15 +9684,6 @@
                                      "pe":  1,
                                      "km":  50.93,
                                      "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  16.91,
-                                     "tv":  239
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10021,6 +10021,13 @@
                                        "tv":  98
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "MERCEARIA BARDELA LTDA ME",
+                                       "p":  1,
+                                       "km":  8.89,
+                                       "tv":  92
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "PIRANA - AUTO SERVICO LTDA.",
                                        "p":  1,
@@ -10047,6 +10054,13 @@
                                        "p":  1,
                                        "km":  2.57,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "J.J.S. COMERCIAL DE ALIMENTOS LTDA-ME.",
+                                       "p":  1,
+                                       "km":  23.25,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Cominato",
