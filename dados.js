@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  69.75,
+                     "visitas":  4,
+                     "km":  93.83,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:02",
-                     "ultimo":  "10:13",
-                     "tv":  "01:59:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:59",
+                     "tv":  "02:14:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -152,6 +152,36 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  65.85,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:04",
+                     "ultimo":  "10:55",
+                     "tv":  "01:58:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  10.01,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:09",
+                     "ultimo":  "11:00",
+                     "tv":  "02:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -180,36 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:46",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  6.86,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:04",
-                     "ultimo":  "08:36",
-                     "tv":  "00:31:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  3.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:09",
-                     "ultimo":  "09:53",
-                     "tv":  "01:44:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  75.56,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:02",
+                     "tv":  "02:29:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -255,21 +270,6 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "10:33",
                      "tv":  "02:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  74.51,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:01",
-                     "ultimo":  "10:14",
-                     "tv":  "02:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -492,6 +492,15 @@ window.PAINEL = {
                          "dur":  "01:44:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "10:13:17",
+                         "out":  "11:00:36",
+                         "km":  6.41,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "BARRINHA",
@@ -519,6 +528,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "10:43:10",
+                         "out":  "10:59:11",
+                         "km":  24.08,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -526,6 +544,15 @@ window.PAINEL = {
                          "out":  "08:36:04",
                          "km":  6.86,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "MAGUI SUPERMERCADOS LTDA.",
+                         "mun":  "MOJI-MIRIM",
+                         "in":  "09:27:17",
+                         "out":  "10:55:16",
+                         "km":  58.99,
+                         "dur":  "01:27:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -580,6 +607,15 @@ window.PAINEL = {
                          "out":  "10:14:21",
                          "km":  0.35,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                         "mun":  "CONCHAS",
+                         "in":  "10:32:43",
+                         "out":  "11:02:15",
+                         "km":  1.05,
+                         "dur":  "00:29:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -725,7 +761,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:03:45"
+                        "tempo":  "03:18:44"
                     },
                     {
                         "nome":  "Silmara",
@@ -733,15 +769,35 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:06:42"
+                        "tempo":  "01:21:41"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "david",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:08"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador ausente"
+                   },
                    {
                        "nome":  "Rachel",
                        "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                        "mun":  "AMPARO",
                        "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "MAGUI SUPERMERCADOS LTDA.",
+                       "mun":  "MOJI-MIRIM",
+                       "obs":  "ainda nao esta precisando"
                    },
                    {
                        "nome":  "Lucas",
@@ -756,6 +812,12 @@ window.PAINEL = {
                        "obs":  "Estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                       "mun":  "CONCHAS",
+                       "obs":  "Prospecção,  passar na próxima semana"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
                        "mun":  "ARARAQUARA",
@@ -767,115 +829,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:47:04"
+                         "tempo":  "01:02:01"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMEN LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:48:08"
+                         "tempo":  "01:03:05"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:22"
+                         "tempo":  "00:52:19"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:14:50"
+                         "tempo":  "00:29:47"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:45:54"
+                         "tempo":  "01:00:51"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:51:51"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:40:53"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "MAGUI SUPERMERCADOS LTDA.",
-                         "mun":  "MOJI-MIRIM",
-                         "tempo":  "01:26:53"
+                         "tempo":  "01:06:48"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "COMERCIAL 3D LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:06:36"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:11:00"
+                         "tempo":  "00:21:33"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "01:47:33"
+                         "tempo":  "02:02:30"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "LUA AZUL -COM. PRODS. ALIMENTICIOS LTDA.",
+                         "mun":  "PIRASSUNUNGA",
+                         "tempo":  "00:13:18"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GUILHERME ZANIOLO AIELO",
                          "mun":  "ARARAQUARA",
-                         "tempo":  "00:14:16"
+                         "tempo":  "00:29:13"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CONVEM DE PERDOES LTDA.",
                          "mun":  "BOM JESUS DOS P",
-                         "tempo":  "00:10:07"
+                         "tempo":  "00:25:04"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:26:51"
+                         "tempo":  "00:41:48"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "M.T DE O. MOURA SUPERMERCADO ME",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:13:11"
+                         "tempo":  "00:28:08"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:34:07"
+                         "tempo":  "00:49:04"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:19:44"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
-                         "mun":  "CONCHAS",
-                         "tempo":  "00:21:27"
+                         "tempo":  "00:34:41"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "01:27:13"
+                         "tempo":  "01:42:10"
                      }
                  ],
     "hist":  [
@@ -981,8 +1025,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     32,
-                     4
+                     36,
+                     7
                  ]
              ],
     "historico":  {
@@ -10472,7 +10516,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10550,10 +10594,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  69.75,
-                                                       "tv":  119
+                                                       "km":  93.83,
+                                                       "tv":  134
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -10563,6 +10607,24 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  65.85,
+                                                       "tv":  118
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  10.01,
+                                                       "tv":  149
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -10583,24 +10645,6 @@ window.PAINEL = {
                                                        "tv":  165
                                                    },
                                                    {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  6.86,
-                                                       "tv":  31
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  3.6,
-                                                       "tv":  104
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -10619,6 +10663,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  75.56,
+                                                       "tv":  149
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -10626,15 +10679,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  33.84,
                                                        "tv":  122
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  74.51,
-                                                       "tv":  120
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -10791,6 +10835,13 @@ window.PAINEL = {
                                                          "tv":  104
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                                         "p":  0,
+                                                         "km":  6.41,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -10812,11 +10863,25 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  24.08,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0,
                                                          "km":  6.86,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "MAGUI SUPERMERCADOS LTDA.",
+                                                         "p":  0,
+                                                         "km":  58.99,
+                                                         "tv":  87
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -10859,6 +10924,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.35,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                                                         "p":  0,
+                                                         "km":  1.05,
+                                                         "tv":  29
                                                      },
                                                      {
                                                          "n":  "Eugenio",

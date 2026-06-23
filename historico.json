@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  69.75,
-                                     "tv":  119
+                                     "km":  93.83,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9576,6 +9576,24 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  65.85,
+                                     "tv":  118
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  10.01,
+                                     "tv":  149
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -9596,24 +9614,6 @@
                                      "tv":  165
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.86,
-                                     "tv":  31
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  3.6,
-                                     "tv":  104
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -9632,6 +9632,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  75.56,
+                                     "tv":  149
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -9639,15 +9648,6 @@
                                      "pe":  3,
                                      "km":  33.84,
                                      "tv":  122
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  74.51,
-                                     "tv":  120
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -9804,6 +9804,13 @@
                                        "tv":  104
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                       "p":  0,
+                                       "km":  6.41,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -9825,11 +9832,25 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  24.08,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
                                        "km":  6.86,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MAGUI SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  58.99,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -9872,6 +9893,13 @@
                                        "p":  0,
                                        "km":  0.35,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                                       "p":  0,
+                                       "km":  1.05,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Eugenio",
