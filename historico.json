@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9524,6 +9524,15 @@
                                      "tv":  206
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  88.61,
+                                     "tv":  175
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -9540,15 +9549,6 @@
                                      "pe":  0,
                                      "km":  6.88,
                                      "tv":  177
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  68.58,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -9596,6 +9596,15 @@
                                      "tv":  248
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  81.67,
+                                     "tv":  353
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -9621,15 +9630,6 @@
                                      "pe":  2,
                                      "km":  75.86,
                                      "tv":  190
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  80.77,
-                                     "tv":  318
                                  },
                                  {
                                      "nome":  "Karina",
@@ -9725,6 +9725,13 @@
                                        "p":  1,
                                        "km":  2.04,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  20.03,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Debora",
@@ -9942,6 +9949,13 @@
                                        "p":  1,
                                        "km":  0.69,
                                        "tv":  100
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "MONTE BELO SUPERMERCADO DE GUARIBA LTDA",
+                                       "p":  1,
+                                       "km":  0.9,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Luis",
