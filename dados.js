@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "11:24",
                      "tv":  "03:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "10:06",
                      "ultimo":  "13:05",
                      "tv":  "01:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,8 +285,8 @@ window.PAINEL = {
                      "primeiro":  "08:38",
                      "ultimo":  "12:48",
                      "tv":  "03:40:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "11:02",
                      "tv":  "02:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -346,7 +346,7 @@ window.PAINEL = {
                      "ultimo":  "13:08",
                      "tv":  "04:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -991,6 +991,14 @@ window.PAINEL = {
                         "tempo":  "00:34:08"
                     },
                     {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:50",
+                        "final":  "13:23",
+                        "tempo":  "00:32:55"
+                    },
+                    {
                         "nome":  "Cominato",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1103,20 +1111,12 @@ window.PAINEL = {
                         "tempo":  "00:41:47"
                     },
                     {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:19:49"
-                    },
-                    {
                         "nome":  "Maira",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:35"
+                        "tempo":  "00:29:37"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1124,7 +1124,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:59"
+                        "tempo":  "00:26:01"
                     },
                     {
                         "nome":  "Costa",
@@ -1132,7 +1132,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:27"
+                        "tempo":  "00:21:29"
                     },
                     {
                         "nome":  "Luis",
@@ -1140,7 +1140,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:26"
+                        "tempo":  "00:21:28"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1148,7 +1148,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:42"
+                        "tempo":  "00:17:44"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:32"
                     }
                 ],
     "semped":  [
@@ -1218,67 +1226,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:26:56"
+                         "tempo":  "00:41:57"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                         "mun":  "ARARAS",
+                         "tempo":  "00:06:54"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "COSMOPOLIS",
+                         "tempo":  "00:09:42"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:28:06"
+                         "tempo":  "00:43:07"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:09"
+                         "tempo":  "00:23:10"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:22:09"
+                         "tempo":  "00:37:10"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A. DE MELO",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:15:14"
+                         "tempo":  "00:30:15"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "TAJ SUPERMERCADO LTDA",
                          "mun":  "MOJI-MIRIM",
-                         "tempo":  "00:29:43"
+                         "tempo":  "00:44:44"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:20:21"
+                         "tempo":  "00:35:22"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO MARAFAO LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "00:08:10"
+                         "tempo":  "00:23:11"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "MERCEARIA BARDELA LTDA ME",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:42:22"
+                         "tempo":  "00:57:23"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ELIAS SOARES PEREIRA - EPP.",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:11:36"
+                         "tempo":  "00:26:37"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "J.J.S. COMERCIAL DE ALIMENTOS LTDA-ME.",
+                         "mun":  "CABREUVA",
+                         "tempo":  "00:00:43"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO LIBARDI LTDA",
+                         "mun":  "PORANGABA",
+                         "tempo":  "00:13:01"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO SERV MAGO LTDA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "01:39:40"
+                         "tempo":  "01:54:41"
                      }
                  ],
     "hist":  [
@@ -10875,7 +10907,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
