@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  38.76,
+                     "visitas":  2,
+                     "km":  65.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:02",
-                     "ultimo":  "07:40",
-                     "tv":  "00:38:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:18",
+                     "tv":  "01:37:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -270,6 +270,21 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "09:05",
                      "tv":  "00:46:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  6.2,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:35",
+                     "ultimo":  "09:18",
+                     "tv":  "00:42:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -319,21 +334,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:35",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -420,6 +420,15 @@ window.PAINEL = {
                          "dur":  "00:38:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "08:19:01",
+                         "out":  "09:18:05",
+                         "km":  26.54,
+                         "dur":  "00:59:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
@@ -445,6 +454,15 @@ window.PAINEL = {
                          "out":  "09:05:29",
                          "km":  29.98,
                          "dur":  "00:46:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "CATO ANTONIALE",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:35:32",
+                         "out":  "09:18:30",
+                         "km":  6.2,
+                         "dur":  "00:42:00"
                      }
                  ],
     "eventos":  [
@@ -474,6 +492,14 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Mariangela",
+                        "tipo":  "Em Viagem",
+                        "obs":  "guararema",
+                        "inicio":  "07:49",
+                        "final":  "09:19",
+                        "tempo":  "01:29:47"
+                    },
+                    {
+                        "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "13:08",
@@ -489,20 +515,12 @@ window.PAINEL = {
                         "tempo":  "00:49:44"
                     },
                     {
-                        "nome":  "Mariangela",
-                        "tipo":  "Em Viagem",
-                        "obs":  "guararema",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:20:03"
-                    },
-                    {
                         "nome":  "Eduardo",
                         "tipo":  "Em Viagem",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:18:37"
+                        "tempo":  "01:33:35"
                     },
                     {
                         "nome":  "Rachel",
@@ -510,7 +528,7 @@ window.PAINEL = {
                         "obs":  "mogi",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:43"
+                        "tempo":  "00:47:41"
                     }
                 ],
     "semped":  [
@@ -519,6 +537,12 @@ window.PAINEL = {
                        "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                        "mun":  "AMPARO",
                        "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Lucas",
+                       "razao":  "CATO ANTONIALE",
+                       "mun":  "INDAIATUBA",
+                       "obs":  "análise de loja para visita amanhã com a compradora"
                    }
                ],
     "emvisita":  [
@@ -526,97 +550,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:22:57"
+                         "tempo":  "00:37:53"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "02:11:09"
+                         "tempo":  "02:26:05"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:01:50"
+                         "tempo":  "00:16:46"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.01",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:19:42"
+                         "tempo":  "00:34:38"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO STA.U.WENG LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:00:00"
+                         "tempo":  "01:14:56"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "MONICA AP. DA SILVA SONTINI-ME.",
                          "mun":  "RESTINGA",
-                         "tempo":  "00:39:46"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "00:50:06"
+                         "tempo":  "00:54:42"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "00:02:30"
+                         "tempo":  "00:17:26"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EDSON GILMAR UNGLAUB",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "01:07:44"
+                         "tempo":  "01:22:40"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA",
                          "mun":  "ARARAQUARA",
-                         "tempo":  "00:38:52"
+                         "tempo":  "00:53:48"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "O.B. DE SOUZA",
                          "mun":  "BOM JESUS DOS P",
-                         "tempo":  "00:03:26"
+                         "tempo":  "00:18:22"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADOS CAPPI DUARTE LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:08:52"
+                         "tempo":  "01:23:48"
                      },
                      {
-                         "nome":  "Lucas",
-                         "razao":  "CATO ANTONIALE",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:33:35"
+                         "nome":  "Karina",
+                         "razao":  "MERCADO GAROTAO PONTAL LTDA",
+                         "mun":  "UBATUBA",
+                         "tempo":  "00:13:25"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:05:50"
+                         "tempo":  "01:20:46"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:31:07"
+                         "tempo":  "00:46:03"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "MARIA HELENA BERNARDINI LIBARDI",
                          "mun":  "CONCHAS",
-                         "tempo":  "01:07:30"
+                         "tempo":  "01:22:26"
                      }
                  ],
     "hist":  [
@@ -722,8 +740,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     9,
-                     1
+                     11,
+                     2
                  ]
              ],
     "historico":  {
@@ -10213,7 +10231,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10291,10 +10309,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  38.76,
-                                                       "tv":  38
+                                                       "km":  65.3,
+                                                       "tv":  97
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -10378,6 +10396,15 @@ window.PAINEL = {
                                                        "tv":  46
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  6.2,
+                                                       "tv":  42
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -10402,15 +10429,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  1.74,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -10476,6 +10494,13 @@ window.PAINEL = {
                                                          "tv":  38
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  26.54,
+                                                         "tv":  59
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                                          "p":  0,
@@ -10495,6 +10520,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  29.98,
                                                          "tv":  46
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "CATO ANTONIALE",
+                                                         "p":  0,
+                                                         "km":  6.2,
+                                                         "tv":  42
                                                      }
                                                  ]
                                      }

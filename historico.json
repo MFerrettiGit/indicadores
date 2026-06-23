@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  38.76,
-                                     "tv":  38
+                                     "km":  65.3,
+                                     "tv":  97
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9650,6 +9650,15 @@
                                      "tv":  46
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  6.2,
+                                     "tv":  42
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -9674,15 +9683,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  1.74,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -9748,6 +9748,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  26.54,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "ANTONELLI SUPERMERCADO LTDA.",
                                        "p":  0,
@@ -9767,6 +9774,13 @@
                                        "p":  1,
                                        "km":  29.98,
                                        "tv":  46
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  0,
+                                       "km":  6.2,
+                                       "tv":  42
                                    }
                                ]
                    }
