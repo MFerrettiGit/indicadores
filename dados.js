@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "10:13",
                      "tv":  "01:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,6 +165,21 @@ window.PAINEL = {
                      "primeiro":  "08:30",
                      "ultimo":  "10:22",
                      "tv":  "01:46:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  22.82,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "10:46",
+                     "tv":  "02:45:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -210,21 +225,6 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "10:02",
                      "tv":  "01:32:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  22.82,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "10:33",
                      "tv":  "02:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "10:33",
                      "tv":  "02:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -463,6 +463,15 @@ window.PAINEL = {
                          "out":  "09:51:32",
                          "km":  40.01,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EDSON GILMAR UNGLAUB",
+                         "mun":  "PIRASSUNUNGA",
+                         "in":  "08:01:23",
+                         "out":  "10:46:40",
+                         "km":  0,
+                         "dur":  "02:45:00"
                      },
                      {
                          "nome":  "Luis",
@@ -716,7 +725,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:48:51"
+                        "tempo":  "03:03:45"
                     },
                     {
                         "nome":  "Silmara",
@@ -724,7 +733,7 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:51:48"
+                        "tempo":  "01:06:42"
                     }
                 ],
     "semped":  [
@@ -758,85 +767,115 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:32:07"
+                         "tempo":  "00:47:04"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMEN LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:33:11"
+                         "tempo":  "00:48:08"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:25"
+                         "tempo":  "00:37:22"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "CATO ANTONIALE",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:14:50"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:30:57"
+                         "tempo":  "00:45:54"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:36:54"
+                         "tempo":  "00:51:51"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPER.STA.UNIAO WENG LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:25:56"
+                         "tempo":  "00:40:53"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MAGUI SUPERMERCADOS LTDA.",
                          "mun":  "MOJI-MIRIM",
-                         "tempo":  "01:11:56"
+                         "tempo":  "01:26:53"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "COMERCIAL 3D LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:06:36"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:11:00"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "01:32:36"
+                         "tempo":  "01:47:33"
                      },
                      {
-                         "nome":  "Costa",
-                         "razao":  "EDSON GILMAR UNGLAUB",
-                         "mun":  "PIRASSUNUNGA",
-                         "tempo":  "02:37:50"
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUILHERME ZANIOLO AIELO",
+                         "mun":  "ARARAQUARA",
+                         "tempo":  "00:14:16"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO CONVEM DE PERDOES LTDA.",
+                         "mun":  "BOM JESUS DOS P",
+                         "tempo":  "00:10:07"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:54"
+                         "tempo":  "00:26:51"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "M.T DE O. MOURA SUPERMERCADO ME",
+                         "mun":  "UBATUBA",
+                         "tempo":  "00:13:11"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:19:10"
+                         "tempo":  "00:34:07"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:04:47"
+                         "tempo":  "00:19:44"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
                          "mun":  "CONCHAS",
-                         "tempo":  "00:06:30"
+                         "tempo":  "00:21:27"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "01:12:16"
+                         "tempo":  "01:27:13"
                      }
                  ],
     "hist":  [
@@ -942,7 +981,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     31,
+                     32,
                      4
                  ]
              ],
@@ -10433,7 +10472,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10535,6 +10574,15 @@ window.PAINEL = {
                                                        "tv":  106
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  22.82,
+                                                       "tv":  165
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -10560,15 +10608,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  0,
                                                        "tv":  92
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  22.82,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -10729,6 +10768,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  40.01,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EDSON GILMAR UNGLAUB",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  165
                                                      },
                                                      {
                                                          "n":  "Luis",

@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9587,6 +9587,15 @@
                                      "tv":  106
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  22.82,
+                                     "tv":  165
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -9612,15 +9621,6 @@
                                      "pe":  1,
                                      "km":  0,
                                      "tv":  92
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  22.82,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -9781,6 +9781,13 @@
                                        "p":  1,
                                        "km":  40.01,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EDSON GILMAR UNGLAUB",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  165
                                    },
                                    {
                                        "n":  "Luis",
