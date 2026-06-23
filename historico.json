@@ -9485,25 +9485,25 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  25.91,
-                                     "tv":  139
+                                     "km":  28.47,
+                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  50.48,
-                                     "tv":  164
+                                     "km":  51.65,
+                                     "tv":  239
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -9524,6 +9524,15 @@
                                      "tv":  129
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  40.34,
+                                     "tv":  124
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -9533,22 +9542,13 @@
                                      "tv":  153
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  40.01,
-                                     "tv":  43
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  1.41,
-                                     "tv":  0
+                                     "km":  55.73,
+                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -9626,10 +9626,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.48,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  78.88,
+                                     "tv":  131
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -9641,6 +9641,15 @@
                                      "tv":  149
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  13.96,
+                                     "tv":  153
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -9650,15 +9659,6 @@
                                      "tv":  122
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  13.96,
-                                     "tv":  121
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -9666,6 +9666,15 @@
                                      "pe":  1,
                                      "km":  7.33,
                                      "tv":  111
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  19.4,
+                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Alan",
@@ -9686,25 +9695,23 @@
                                      "tv":  117
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  19.4,
-                                     "tv":  115
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  9.79,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  47.72,
+                                     "tv":  116
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COMERC DE PROD ALIMEN LTDA",
+                                       "p":  1,
+                                       "km":  54.32,
+                                       "tv":  71
+                                   },
                                    {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
@@ -9718,6 +9725,13 @@
                                        "p":  1,
                                        "km":  2.3,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.17,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -9762,6 +9776,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  2.56,
+                                       "tv":  66
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                                        "p":  1,
@@ -9783,11 +9804,25 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  0.33,
+                                       "tv":  81
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EDSON GILMAR UNGLAUB",
                                        "p":  1,
                                        "km":  0,
                                        "tv":  165
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  57.4,
+                                       "tv":  131
                                    },
                                    {
                                        "n":  "Luis",
@@ -9881,6 +9916,13 @@
                                        "tv":  115
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "MARIA HELENA BERNARDINI LIBARDI",
                                        "p":  1,
@@ -9916,6 +9958,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO CONVEM DE PERDOES LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -9949,6 +9998,13 @@
                                        "p":  1,
                                        "km":  1.13,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                       "p":  1,
+                                       "km":  37.93,
+                                       "tv":  116
                                    },
                                    {
                                        "n":  "Nelson",
