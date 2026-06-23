@@ -9485,16 +9485,16 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  28.47,
-                                     "tv":  205
+                                     "km":  30.85,
+                                     "tv":  262
                                  },
                                  {
                                      "nome":  "Debora",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  93.83,
-                                     "tv":  134
+                                     "km":  98.19,
+                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9635,10 +9635,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  38.94,
-                                     "tv":  240
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  42.98,
+                                     "tv":  271
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -9718,6 +9718,13 @@
                                        "p":  1,
                                        "km":  10.81,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  2.04,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Debora",
@@ -9802,6 +9809,13 @@
                                        "p":  1,
                                        "km":  2.56,
                                        "tv":  66
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.38,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Silmara",
@@ -9935,6 +9949,13 @@
                                        "p":  1,
                                        "km":  24.08,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.36,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Rachel",
@@ -10103,6 +10124,13 @@
                                        "p":  1,
                                        "km":  5.1,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ELIAS SOARES PEREIRA - EPP.",
+                                       "p":  1,
+                                       "km":  4.04,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Lucas",
