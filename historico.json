@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "07:45",
+                       "dataHora":  "08:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9563,10 +9563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  38.76,
+                                     "tv":  38
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -9601,7 +9601,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  3.6,
                                      "tv":  0
                                  },
                                  {
@@ -9664,7 +9664,7 @@
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  9.79,
                                      "tv":  0
                                  },
                                  {
@@ -9711,6 +9711,13 @@
                                        "p":  1,
                                        "km":  21.21,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  38.76,
+                                       "tv":  38
                                    }
                                ]
                    }

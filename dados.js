@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "07:45",
+    "dataHora":  "08:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  38.76,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "07:02",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "07:40",
+                     "tv":  "00:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -151,7 +151,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  3.6,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -294,14 +294,14 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  9.79,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -373,16 +373,57 @@ window.PAINEL = {
                          "out":  "07:35:23",
                          "km":  21.21,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "BARRINHA",
+                         "in":  "07:02:14",
+                         "out":  "07:40:28",
+                         "km":  38.76,
+                         "dur":  "00:38:00"
                      }
                  ],
     "eventos":  [
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:08",
+                        "final":  "07:49",
+                        "tempo":  "18:40:36"
+                    },
                     {
                         "nome":  "Aline",
                         "tipo":  "Consulta",
                         "obs":  "exames",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:49"
+                        "tempo":  "00:39:52"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Carlos a Araraquara",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:29"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Em Viagem",
+                        "obs":  "guararema",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:03"
+                    },
+                    {
+                        "nome":  "Eduardo",
+                        "tipo":  "Em Viagem",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:37"
                     }
                 ],
     "semped":  [
@@ -393,31 +434,25 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:35:10"
+                         "tempo":  "00:50:11"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:02:13"
+                         "tempo":  "00:17:14"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
-                         "tempo":  "00:41:10"
+                         "tempo":  "00:56:11"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:18:20"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
-                         "mun":  "BARRINHA",
-                         "tempo":  "00:36:54"
+                         "tempo":  "00:33:21"
                      }
                  ],
     "hist":  [
@@ -523,7 +558,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     1,
+                     2,
                      0
                  ]
              ],
@@ -10014,7 +10049,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "07:45",
+                                         "dataHora":  "08:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10092,10 +10127,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  38.76,
+                                                       "tv":  38
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -10130,7 +10165,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  3.6,
                                                        "tv":  0
                                                    },
                                                    {
@@ -10193,7 +10228,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0,
+                                                       "km":  9.79,
                                                        "tv":  0
                                                    },
                                                    {
@@ -10240,6 +10275,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.21,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  38.76,
+                                                         "tv":  38
                                                      }
                                                  ]
                                      }
