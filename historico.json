@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9545,10 +9545,10 @@
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  59.08,
-                                     "tv":  333
+                                     "km":  67.42,
+                                     "tv":  475
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -9650,6 +9650,15 @@
                                      "tv":  338
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  99.63,
+                                     "tv":  416
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -9666,15 +9675,6 @@
                                      "pe":  3,
                                      "km":  51.83,
                                      "tv":  364
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  51.43,
-                                     "tv":  264
                                  },
                                  {
                                      "nome":  "Alan",
@@ -10292,6 +10292,13 @@
                                        "p":  1,
                                        "km":  23.25,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                       "p":  1,
+                                       "km":  48.2,
+                                       "tv":  152
                                    },
                                    {
                                        "n":  "Cominato",
