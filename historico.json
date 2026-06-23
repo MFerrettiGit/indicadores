@@ -9485,16 +9485,25 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  36.07,
+                                     "tv":  428
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  32.83,
-                                     "tv":  317
+                                     "km":  94.66,
+                                     "tv":  292
                                  },
                                  {
                                      "nome":  "Debora",
@@ -9506,13 +9515,22 @@
                                      "tv":  405
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  94.13,
-                                     "tv":  248
+                                     "km":  16.67,
+                                     "tv":  365
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  38.47,
+                                     "tv":  364
                                  },
                                  {
                                      "nome":  "Aline",
@@ -9522,24 +9540,6 @@
                                      "pe":  0,
                                      "km":  91.4,
                                      "tv":  225
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  7.82,
-                                     "tv":  329
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  32.46,
-                                     "tv":  234
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -9581,10 +9581,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  4,
-                                     "km":  84.7,
-                                     "tv":  311
+                                     "km":  85.92,
+                                     "tv":  341
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -9594,6 +9594,15 @@
                                      "pe":  1,
                                      "km":  82.42,
                                      "tv":  263
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  123.04,
+                                     "tv":  369
                                  },
                                  {
                                      "nome":  "Costa",
@@ -9623,15 +9632,6 @@
                                      "tv":  269
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  81.67,
-                                     "tv":  353
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -9639,6 +9639,15 @@
                                      "pe":  7,
                                      "km":  45.07,
                                      "tv":  319
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  35.64,
+                                     "tv":  338
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -9650,13 +9659,13 @@
                                      "tv":  244
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  5,
-                                     "km":  32.51,
-                                     "tv":  280
+                                     "pe":  3,
+                                     "km":  51.83,
+                                     "tv":  364
                                  },
                                  {
                                      "nome":  "Castro",
@@ -9684,15 +9693,6 @@
                                      "pe":  3,
                                      "km":  5.02,
                                      "tv":  394
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  51.06,
-                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -9804,6 +9804,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  6.01,
+                                       "tv":  130
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  0,
@@ -9837,6 +9844,13 @@
                                        "p":  1,
                                        "km":  11.82,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.06",
+                                       "p":  1,
+                                       "km":  8.34,
+                                       "tv":  142
                                    },
                                    {
                                        "n":  "Evandro",
@@ -9881,6 +9895,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
+                                       "p":  1,
+                                       "km":  3.24,
+                                       "tv":  111
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.04",
                                        "p":  1,
@@ -9907,6 +9928,13 @@
                                        "p":  1,
                                        "km":  0.94,
                                        "tv":  152
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
+                                       "p":  1,
+                                       "km":  8.85,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -9942,6 +9970,13 @@
                                        "p":  1,
                                        "km":  25.98,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  1,
+                                       "km":  0.53,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Costa",
@@ -9998,6 +10033,13 @@
                                        "p":  1,
                                        "km":  0.9,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO CAMPOS LTDA",
+                                       "p":  1,
+                                       "km":  41.37,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Luis",
@@ -10182,6 +10224,13 @@
                                        "tv":  79
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JANE VERDOLINI BOMBARDA - ME.",
+                                       "p":  0,
+                                       "km":  1.22,
+                                       "tv":  30
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "SUPERMERCADOS CAPPI DUARTE LTDA.",
                                        "p":  1,
@@ -10315,6 +10364,13 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                                       "p":  1,
+                                       "km":  3.13,
+                                       "tv":  58
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -10390,6 +10446,13 @@
                                        "p":  0,
                                        "km":  0.13,
                                        "tv":  118
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO RIO ATIBAIA LTDA",
+                                       "p":  1,
+                                       "km":  0.77,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Mariangela",
