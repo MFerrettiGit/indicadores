@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  38.3,
+                     "km":  63.53,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  82.42,
+                     "km":  134.16,
                      "semPed":  4,
                      "perc":  80,
                      "primeiro":  "08:04",
                      "ultimo":  "15:32",
                      "tv":  "04:23:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  18.21,
+                     "km":  19.53,
                      "semPed":  3,
                      "perc":  75,
                      "primeiro":  "08:09",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  61.85,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:35",
+                     "ultimo":  "17:52",
+                     "tv":  "06:54:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -294,7 +309,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  146.19,
+                     "km":  217.17,
                      "semPed":  3,
                      "perc":  60,
                      "primeiro":  "08:01",
@@ -304,18 +319,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  51.83,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:35",
-                     "ultimo":  "16:48",
-                     "tv":  "06:04:00",
-                     "emVisita":  1,
+                     "km":  6.33,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:03",
+                     "ultimo":  "17:44",
+                     "tv":  "07:50:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -334,33 +349,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  5.02,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:03",
-                     "ultimo":  "16:23",
-                     "tv":  "06:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  50.32,
+                     "visitas":  4,
+                     "km":  52.33,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:26",
-                     "ultimo":  "16:21",
-                     "tv":  "05:15:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:40",
+                     "tv":  "06:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -1356,6 +1356,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SEVAN SUPERMERCADOS - LTDA",
+                         "mun":  "MONTE MOR",
+                         "in":  "17:01:32",
+                         "out":  "17:52:11",
+                         "km":  10.02,
+                         "dur":  "00:50:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
@@ -1381,6 +1390,15 @@ window.PAINEL = {
                          "out":  "16:21:26",
                          "km":  1.9,
                          "dur":  "00:56:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                         "mun":  "GUARAREMA",
+                         "in":  "16:29:58",
+                         "out":  "17:40:44",
+                         "km":  2.01,
+                         "dur":  "01:10:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1417,6 +1435,15 @@ window.PAINEL = {
                          "out":  "16:23:50",
                          "km":  1.09,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIAL SUPERMAIS LTDA",
+                         "mun":  "ITAPEVA",
+                         "in":  "16:27:55",
+                         "out":  "17:44:40",
+                         "km":  1.31,
+                         "dur":  "01:16:00"
                      }
                  ],
     "eventos":  [
@@ -1523,6 +1550,14 @@ window.PAINEL = {
                         "inicio":  "16:34",
                         "final":  "17:08",
                         "tempo":  "00:33:48"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pare leve/taj",
+                        "inicio":  "17:08",
+                        "final":  "17:43",
+                        "tempo":  "00:34:52"
                     },
                     {
                         "nome":  "Luis",
@@ -1752,9 +1787,9 @@ window.PAINEL = {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Boa esperança a São Carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:46"
+                        "inicio":  "16:43",
+                        "final":  "17:54",
+                        "tempo":  "01:10:37"
                     },
                     {
                         "nome":  "Luis",
@@ -1762,15 +1797,15 @@ window.PAINEL = {
                         "obs":  "Proposta Reta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:24"
+                        "tempo":  "01:03:35"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "pare leve/taj",
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:54"
+                        "tempo":  "00:01:08"
                     }
                 ],
     "semped":  [
@@ -1890,24 +1925,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SEVAN SUPERMERCADOS - LTDA",
-                         "mun":  "MONTE MOR",
-                         "tempo":  "00:37:31"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COMERCIAL SUPERMAIS LTDA",
-                         "mun":  "ITAPEVA",
-                         "tempo":  "01:11:08"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
-                         "mun":  "GUARAREMA",
-                         "tempo":  "01:09:05"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -2012,7 +2030,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     117,
+                     120,
                      19
                  ]
              ],
@@ -11503,7 +11521,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11610,7 +11628,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  38.3,
+                                                       "km":  63.53,
                                                        "tv":  445
                                                    },
                                                    {
@@ -11619,7 +11637,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  1,
-                                                       "km":  82.42,
+                                                       "km":  134.16,
                                                        "tv":  263
                                                    },
                                                    {
@@ -11637,7 +11655,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  1,
-                                                       "km":  18.21,
+                                                       "km":  19.53,
                                                        "tv":  256
                                                    },
                                                    {
@@ -11668,6 +11686,15 @@ window.PAINEL = {
                                                        "tv":  338
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  61.85,
+                                                       "tv":  414
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -11682,17 +11709,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  2,
-                                                       "km":  146.19,
+                                                       "km":  217.17,
                                                        "tv":  244
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  51.83,
-                                                       "tv":  364
+                                                       "pe":  4,
+                                                       "km":  6.33,
+                                                       "tv":  470
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -11704,22 +11731,13 @@ window.PAINEL = {
                                                        "tv":  354
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  5.02,
-                                                       "tv":  394
-                                                   },
-                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  50.32,
-                                                       "tv":  315
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  52.33,
+                                                       "tv":  385
                                                    }
                                                ],
                                          "cli":  [
@@ -12494,6 +12512,13 @@ window.PAINEL = {
                                                          "tv":  35
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SEVAN SUPERMERCADOS - LTDA",
+                                                         "p":  1,
+                                                         "km":  10.02,
+                                                         "tv":  50
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                                                          "p":  1,
@@ -12513,6 +12538,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.9,
                                                          "tv":  56
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                                         "p":  1,
+                                                         "km":  2.01,
+                                                         "tv":  70
                                                      },
                                                      {
                                                          "n":  "Nelson",
@@ -12541,6 +12573,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.09,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COMERCIAL SUPERMAIS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.31,
+                                                         "tv":  76
                                                      }
                                                  ]
                                      }

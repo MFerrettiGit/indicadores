@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9592,7 +9592,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  38.3,
+                                     "km":  63.53,
                                      "tv":  445
                                  },
                                  {
@@ -9601,7 +9601,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  1,
-                                     "km":  82.42,
+                                     "km":  134.16,
                                      "tv":  263
                                  },
                                  {
@@ -9619,7 +9619,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  1,
-                                     "km":  18.21,
+                                     "km":  19.53,
                                      "tv":  256
                                  },
                                  {
@@ -9650,6 +9650,15 @@
                                      "tv":  338
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  61.85,
+                                     "tv":  414
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -9664,17 +9673,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  2,
-                                     "km":  146.19,
+                                     "km":  217.17,
                                      "tv":  244
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  3,
-                                     "km":  51.83,
-                                     "tv":  364
+                                     "pe":  4,
+                                     "km":  6.33,
+                                     "tv":  470
                                  },
                                  {
                                      "nome":  "Alan",
@@ -9686,22 +9695,13 @@
                                      "tv":  354
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  5.02,
-                                     "tv":  394
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  50.32,
-                                     "tv":  315
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  52.33,
+                                     "tv":  385
                                  }
                              ],
                        "cli":  [
@@ -10476,6 +10476,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SEVAN SUPERMERCADOS - LTDA",
+                                       "p":  1,
+                                       "km":  10.02,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                                        "p":  1,
@@ -10495,6 +10502,13 @@
                                        "p":  1,
                                        "km":  1.9,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                       "p":  1,
+                                       "km":  2.01,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Nelson",
@@ -10523,6 +10537,13 @@
                                        "p":  1,
                                        "km":  1.09,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIAL SUPERMAIS LTDA",
+                                       "p":  1,
+                                       "km":  1.31,
+                                       "tv":  76
                                    }
                                ]
                    }
