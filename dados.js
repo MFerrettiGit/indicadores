@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "15:32",
                      "tv":  "04:23:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -182,6 +182,21 @@ window.PAINEL = {
                      "tv":  "03:52:00",
                      "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  76.7,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:29",
+                     "ultimo":  "15:42",
+                     "tv":  "04:29:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -229,21 +244,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  75.86,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:29",
-                     "ultimo":  "14:17",
-                     "tv":  "03:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  146.19,
+                     "semPed":  3,
+                     "perc":  60,
+                     "primeiro":  "08:01",
+                     "ultimo":  "15:53",
+                     "tv":  "04:04:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -270,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "15:38",
                      "tv":  "04:40:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,33 +304,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  99.99,
-                     "semPed":  2,
-                     "perc":  50,
-                     "primeiro":  "08:01",
-                     "ultimo":  "14:22",
-                     "tv":  "03:40:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  25.8,
+                     "visitas":  4,
+                     "km":  27.09,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
-                     "ultimo":  "13:59",
-                     "tv":  "05:31:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:44",
+                     "tv":  "05:54:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -726,6 +726,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "FERNANDO PALMIERI",
+                         "mun":  "GUARA",
+                         "in":  "14:22:11",
+                         "out":  "15:42:10",
+                         "km":  0.84,
+                         "dur":  "01:19:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO STA.U.WENG LTDA",
                          "mun":  "SANTA BARBARA D",
@@ -933,6 +942,15 @@ window.PAINEL = {
                          "dur":  "01:32:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                         "mun":  "CAMPINAS",
+                         "in":  "15:21:06",
+                         "out":  "15:44:57",
+                         "km":  1.29,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
@@ -1012,6 +1030,15 @@ window.PAINEL = {
                          "out":  "14:22:51",
                          "km":  24.43,
                          "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "NELLO COMERCIAL LTDA.",
+                         "mun":  "LARANJAL PAULIS",
+                         "in":  "15:28:53",
+                         "out":  "15:53:24",
+                         "km":  46.2,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1472,7 +1499,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:45"
+                        "tempo":  "00:32:33"
                     },
                     {
                         "nome":  "Silmara",
@@ -1480,7 +1507,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:27"
+                        "tempo":  "00:27:15"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Guará a Franca",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:24"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:09"
                     }
                 ],
     "semped":  [
@@ -1563,6 +1606,12 @@ window.PAINEL = {
                        "obs":  "Prospecção,  passar na próxima semana"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "NELLO COMERCIAL LTDA.",
+                       "mun":  "LARANJAL PAULIS",
+                       "obs":  "Estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "ARAQUIMICA PRODUTOS DE LIMPEZA LTDA",
                        "mun":  "ARARAQUARA",
@@ -1580,97 +1629,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:33:16"
+                         "tempo":  "00:48:00"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "01:12:31"
+                         "tempo":  "01:27:15"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:04:25"
+                         "tempo":  "00:19:09"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:38:17"
+                         "tempo":  "00:53:01"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:10:43"
+                         "tempo":  "01:25:27"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:06:59"
+                         "tempo":  "01:21:43"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:23:19"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "FERNANDO PALMIERI",
-                         "mun":  "GUARA",
-                         "tempo":  "01:17:03"
+                         "tempo":  "00:38:03"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "J. CAMARGO DE SOUZA LTDA",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:20:31"
+                         "tempo":  "00:35:15"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA.",
                          "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:54:00"
+                         "tempo":  "01:08:44"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "NAYARA MONTEIRO FAZOLO 39279900862",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:18:08"
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:05:32"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "GONCALVES",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:43:05"
+                         "tempo":  "01:57:49"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:08:51"
+                         "tempo":  "01:23:35"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "CABREUVA",
-                         "tempo":  "01:09:24"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "NELLO COMERCIAL LTDA.",
-                         "mun":  "LARANJAL PAULIS",
-                         "tempo":  "00:10:21"
+                         "tempo":  "01:24:08"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:14:28"
+                         "tempo":  "00:29:12"
                      }
                  ],
     "hist":  [
@@ -1776,8 +1813,8 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     91,
-                     15
+                     94,
+                     16
                  ]
              ],
     "historico":  {
@@ -11267,7 +11304,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11378,6 +11415,15 @@ window.PAINEL = {
                                                        "tv":  232
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  76.7,
+                                                       "tv":  269
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -11405,15 +11451,6 @@ window.PAINEL = {
                                                        "tv":  224
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  75.86,
-                                                       "tv":  190
-                                                   },
-                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -11421,6 +11458,15 @@ window.PAINEL = {
                                                        "pe":  7,
                                                        "km":  45.07,
                                                        "tv":  319
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  2,
+                                                       "km":  146.19,
+                                                       "tv":  244
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -11441,22 +11487,13 @@ window.PAINEL = {
                                                        "tv":  264
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  99.99,
-                                                       "tv":  220
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  25.8,
-                                                       "tv":  331
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  27.09,
+                                                       "tv":  354
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -11768,6 +11805,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "FERNANDO PALMIERI",
+                                                         "p":  1,
+                                                         "km":  0.84,
+                                                         "tv":  79
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPERMERCADO STA.U.WENG LTDA",
                                                          "p":  1,
@@ -11929,6 +11973,13 @@ window.PAINEL = {
                                                          "tv":  92
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                                                         "p":  1,
+                                                         "km":  1.29,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "PIRANA - AUTO SERVICO LTDA.",
                                                          "p":  1,
@@ -11990,6 +12041,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.43,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "NELLO COMERCIAL LTDA.",
+                                                         "p":  0,
+                                                         "km":  46.2,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Eugenio",

@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9596,6 +9596,15 @@
                                      "tv":  232
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  76.7,
+                                     "tv":  269
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -9623,15 +9632,6 @@
                                      "tv":  224
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  75.86,
-                                     "tv":  190
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -9639,6 +9639,15 @@
                                      "pe":  7,
                                      "km":  45.07,
                                      "tv":  319
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  146.19,
+                                     "tv":  244
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -9659,22 +9668,13 @@
                                      "tv":  264
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  99.99,
-                                     "tv":  220
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  25.8,
-                                     "tv":  331
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  27.09,
+                                     "tv":  354
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -9986,6 +9986,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "FERNANDO PALMIERI",
+                                       "p":  1,
+                                       "km":  0.84,
+                                       "tv":  79
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPERMERCADO STA.U.WENG LTDA",
                                        "p":  1,
@@ -10147,6 +10154,13 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "NAYARA MONTEIRO FAZOLO 39279900862",
+                                       "p":  1,
+                                       "km":  1.29,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "PIRANA - AUTO SERVICO LTDA.",
                                        "p":  1,
@@ -10208,6 +10222,13 @@
                                        "p":  1,
                                        "km":  24.43,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "NELLO COMERCIAL LTDA.",
+                                       "p":  0,
+                                       "km":  46.2,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Eugenio",
