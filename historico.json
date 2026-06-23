@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9497,6 +9497,15 @@
                                      "tv":  317
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  101.45,
+                                     "tv":  405
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -9504,15 +9513,6 @@
                                      "pe":  0,
                                      "km":  94.13,
                                      "tv":  248
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  95.09,
-                                     "tv":  295
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -9677,6 +9677,15 @@
                                      "tv":  354
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  5.02,
+                                     "tv":  394
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -9686,22 +9695,13 @@
                                      "tv":  329
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  3.93,
-                                     "tv":  369
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  48.42,
-                                     "tv":  259
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  50.32,
+                                     "tv":  315
                                  }
                              ],
                        "cli":  [
@@ -9760,6 +9760,13 @@
                                        "p":  1,
                                        "km":  43.44,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
+                                       "p":  1,
+                                       "km":  6.36,
+                                       "tv":  110
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -10385,6 +10392,13 @@
                                        "tv":  143
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
+                                       "p":  1,
+                                       "km":  1.9,
+                                       "tv":  56
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                                        "p":  0,
@@ -10404,6 +10418,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "REDE SUPERMERCADO AMIZADE ITAPEVA LTDA",
+                                       "p":  1,
+                                       "km":  1.09,
+                                       "tv":  25
                                    }
                                ]
                    }
