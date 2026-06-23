@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  7,
-                     "km":  36.07,
+                     "km":  52.53,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:59",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  123.04,
+                     "km":  150.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:06",
@@ -234,14 +234,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  76.7,
+                     "km":  139.81,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "08:29",
                      "ultimo":  "15:42",
                      "tv":  "04:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  6.33,
+                     "km":  8.16,
                      "semPed":  1,
                      "perc":  20,
                      "primeiro":  "08:03",
@@ -1584,6 +1584,14 @@ window.PAINEL = {
                         "tempo":  "00:51:55"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Proposta",
+                        "obs":  "Proposta Reta",
+                        "inicio":  "16:51",
+                        "final":  "17:56",
+                        "tempo":  "01:05:05"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1792,20 +1800,12 @@ window.PAINEL = {
                         "tempo":  "01:10:37"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Proposta",
-                        "obs":  "Proposta Reta",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:03:35"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Outro",
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:08"
+                        "tempo":  "00:16:18"
                     }
                 ],
     "semped":  [
@@ -11521,7 +11521,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11529,7 +11529,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  36.07,
+                                                       "km":  52.53,
                                                        "tv":  428
                                                    },
                                                    {
@@ -11646,7 +11646,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  123.04,
+                                                       "km":  150.92,
                                                        "tv":  369
                                                    },
                                                    {
@@ -11664,7 +11664,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  76.7,
+                                                       "km":  139.81,
                                                        "tv":  269
                                                    },
                                                    {
@@ -11718,7 +11718,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  4,
-                                                       "km":  6.33,
+                                                       "km":  8.16,
                                                        "tv":  470
                                                    },
                                                    {
