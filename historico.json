@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9632,6 +9632,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  33.84,
+                                     "tv":  122
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -9641,13 +9650,22 @@
                                      "tv":  120
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  31.27,
-                                     "tv":  69
+                                     "km":  13.96,
+                                     "tv":  121
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  7.33,
+                                     "tv":  111
                                  },
                                  {
                                      "nome":  "Alan",
@@ -9668,31 +9686,13 @@
                                      "tv":  117
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.06,
-                                     "tv":  34
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.2,
-                                     "tv":  42
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  14.61,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  19.4,
+                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -9846,6 +9846,13 @@
                                        "tv":  141
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  1,
+                                       "km":  4.79,
+                                       "tv":  115
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "MARIA HELENA BERNARDINI LIBARDI",
                                        "p":  1,
@@ -9867,6 +9874,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "O.B. DE SOUZA",
+                                       "p":  1,
+                                       "km":  6.9,
+                                       "tv":  87
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -9881,11 +9895,25 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO SOARES DA LAGOINHA LTDA",
+                                       "p":  1,
+                                       "km":  2.57,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "CATO ANTONIALE",
                                        "p":  0,
                                        "km":  6.2,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                       "p":  1,
+                                       "km":  1.13,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Nelson",

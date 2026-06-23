@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:36",
                      "ultimo":  "10:23",
                      "tv":  "02:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  33.84,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:18",
+                     "ultimo":  "10:33",
+                     "tv":  "02:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -255,22 +270,37 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:14",
                      "tv":  "02:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  13.96,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:17",
+                     "ultimo":  "10:33",
+                     "tv":  "02:01:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  31.27,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:18",
-                     "ultimo":  "09:34",
-                     "tv":  "01:09:00",
-                     "emVisita":  1,
+                     "km":  7.33,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:35",
+                     "ultimo":  "10:38",
+                     "tv":  "01:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "10:21",
                      "tv":  "02:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,47 +334,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  7.06,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:17",
-                     "ultimo":  "08:52",
-                     "tv":  "00:34:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  6.2,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:35",
-                     "ultimo":  "09:18",
-                     "tv":  "00:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  14.61,
+                     "visitas":  1,
+                     "km":  19.4,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:38",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
+                     "ultimo":  "10:33",
+                     "tv":  "01:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -546,6 +546,15 @@ window.PAINEL = {
                          "dur":  "02:21:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                         "mun":  "JUNDIAI",
+                         "in":  "08:38:00",
+                         "out":  "10:33:52",
+                         "km":  4.79,
+                         "dur":  "01:55:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "MARIA HELENA BERNARDINI LIBARDI",
                          "mun":  "CONCHAS",
@@ -573,6 +582,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "O.B. DE SOUZA",
+                         "mun":  "BOM JESUS DOS P",
+                         "in":  "09:05:41",
+                         "out":  "10:33:35",
+                         "km":  6.9,
+                         "dur":  "01:27:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -591,6 +609,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO SOARES DA LAGOINHA LTDA",
+                         "mun":  "UBATUBA",
+                         "in":  "09:39:56",
+                         "out":  "10:33:35",
+                         "km":  2.57,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
@@ -598,6 +625,15 @@ window.PAINEL = {
                          "out":  "09:18:30",
                          "km":  6.2,
                          "dur":  "00:42:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "09:27:32",
+                         "out":  "10:38:11",
+                         "km":  1.13,
+                         "dur":  "01:09:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -680,7 +716,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:33:42"
+                        "tempo":  "02:48:51"
                     },
                     {
                         "nome":  "Silmara",
@@ -688,7 +724,7 @@ window.PAINEL = {
                         "obs":  "consulta médica",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:39"
+                        "tempo":  "00:51:48"
                     }
                 ],
     "semped":  [
@@ -722,91 +758,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:16:57"
+                         "tempo":  "00:32:07"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMEN LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:18:01"
+                         "tempo":  "00:33:11"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:07:15"
+                         "tempo":  "00:22:25"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:15:47"
+                         "tempo":  "00:30:57"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "BOITUVA",
-                         "tempo":  "00:21:44"
+                         "tempo":  "00:36:54"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPER.STA.UNIAO WENG LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:10:46"
+                         "tempo":  "00:25:56"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "MAGUI SUPERMERCADOS LTDA.",
                          "mun":  "MOJI-MIRIM",
-                         "tempo":  "00:56:46"
+                         "tempo":  "01:11:56"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PAG LEV GUARIBA SUPERMERCADOS LTDA",
                          "mun":  "GUARIBA",
-                         "tempo":  "01:17:26"
+                         "tempo":  "01:32:36"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EDSON GILMAR UNGLAUB",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "02:22:40"
+                         "tempo":  "02:37:50"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "O.B. DE SOUZA",
-                         "mun":  "BOM JESUS DOS P",
-                         "tempo":  "01:18:22"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MERCADO SOARES DA LAGOINHA LTDA",
-                         "mun":  "UBATUBA",
-                         "tempo":  "00:44:07"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:56:31"
+                         "nome":  "Alan",
+                         "razao":  "HANSEN PRODUTOS DE LIMPEZA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:11:54"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:04:00"
+                         "tempo":  "00:19:10"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "PIRANA - AUTO SERVICO LTDA.",
+                         "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:46:03"
+                         "tempo":  "00:04:47"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "ORDILEI REIS SUPERMERCADO EIRELI-ME",
+                         "mun":  "CONCHAS",
+                         "tempo":  "00:06:30"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:57:06"
+                         "tempo":  "01:12:16"
                      }
                  ],
     "hist":  [
@@ -912,7 +942,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     27,
+                     31,
                      4
                  ]
              ],
@@ -10403,7 +10433,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -10550,6 +10580,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  33.84,
+                                                       "tv":  122
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -10559,13 +10598,22 @@ window.PAINEL = {
                                                        "tv":  120
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  31.27,
-                                                       "tv":  69
+                                                       "km":  13.96,
+                                                       "tv":  121
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  7.33,
+                                                       "tv":  111
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -10586,31 +10634,13 @@ window.PAINEL = {
                                                        "tv":  117
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  7.06,
-                                                       "tv":  34
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  6.2,
-                                                       "tv":  42
-                                                   },
-                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  14.61,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  19.4,
+                                                       "tv":  115
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -10764,6 +10794,13 @@ window.PAINEL = {
                                                          "tv":  141
                                                      },
                                                      {
+                                                         "n":  "Castro",
+                                                         "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.79,
+                                                         "tv":  115
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "MARIA HELENA BERNARDINI LIBARDI",
                                                          "p":  1,
@@ -10785,6 +10822,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "O.B. DE SOUZA",
+                                                         "p":  1,
+                                                         "km":  6.9,
+                                                         "tv":  87
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "CARLOS APARECIDO GAMA SUPERMERCADO LTDA",
                                                          "p":  1,
@@ -10799,11 +10843,25 @@ window.PAINEL = {
                                                          "tv":  23
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO SOARES DA LAGOINHA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.57,
+                                                         "tv":  53
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "CATO ANTONIALE",
                                                          "p":  0,
                                                          "km":  6.2,
                                                          "tv":  42
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                                         "p":  1,
+                                                         "km":  1.13,
+                                                         "tv":  69
                                                      },
                                                      {
                                                          "n":  "Nelson",
