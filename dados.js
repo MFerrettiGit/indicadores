@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "23/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  67.42,
+                     "km":  75.49,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:57",
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  7,
-                     "km":  106.83,
+                     "km":  127.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:02",
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  37.23,
+                     "visitas":  6,
+                     "km":  38.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "17:11",
-                     "tv":  "07:05:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:37",
+                     "tv":  "07:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  45.07,
+                     "km":  90.12,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:18",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "15:53",
                      "tv":  "04:04:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  27.09,
+                     "km":  57.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
@@ -760,6 +760,15 @@ window.PAINEL = {
                          "out":  "17:11:22",
                          "km":  4.74,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "FONSECA SUPERMERCADOS LTDA",
+                         "mun":  "PIRASSUNUNGA",
+                         "in":  "17:16:40",
+                         "out":  "17:37:14",
+                         "km":  1.07,
+                         "dur":  "00:20:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1580,6 +1589,14 @@ window.PAINEL = {
                         "tempo":  "00:37:43"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "laranjal piracicaba",
+                        "inicio":  "16:09",
+                        "final":  "17:34",
+                        "tempo":  "01:24:50"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1732,20 +1749,12 @@ window.PAINEL = {
                         "tempo":  "00:59:10"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Em Viagem",
-                        "obs":  "laranjal piracicaba",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:16:08"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Boa esperança a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:02"
+                        "tempo":  "00:56:46"
                     },
                     {
                         "nome":  "Luis",
@@ -1753,7 +1762,7 @@ window.PAINEL = {
                         "obs":  "Proposta Reta",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:40"
+                        "tempo":  "00:48:24"
                     },
                     {
                         "nome":  "Rachel",
@@ -1761,7 +1770,7 @@ window.PAINEL = {
                         "obs":  "pare leve/taj",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:10"
+                        "tempo":  "00:31:54"
                     }
                 ],
     "semped":  [
@@ -1882,28 +1891,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Costa",
-                         "razao":  "FONSECA SUPERMERCADOS LTDA",
-                         "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:07:33"
-                     },
-                     {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:22:41"
+                         "tempo":  "00:37:31"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL SUPERMAIS LTDA",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:56:18"
+                         "tempo":  "01:11:08"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL DE ALIMENTOS CAETANO GUARAREMA",
                          "mun":  "GUARAREMA",
-                         "tempo":  "00:54:15"
+                         "tempo":  "01:09:05"
                      }
                  ],
     "hist":  [
@@ -2009,7 +2012,7 @@ window.PAINEL = {
                  ],
                  [
                      "23/06",
-                     116,
+                     117,
                      19
                  ]
              ],
@@ -11500,7 +11503,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-23":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11562,7 +11565,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  67.42,
+                                                       "km":  75.49,
                                                        "tv":  475
                                                    },
                                                    {
@@ -11580,7 +11583,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  106.83,
+                                                       "km":  127.41,
                                                        "tv":  267
                                                    },
                                                    {
@@ -11605,10 +11608,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  37.23,
-                                                       "tv":  425
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  38.3,
+                                                       "tv":  445
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -11652,7 +11655,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  45.07,
+                                                       "km":  90.12,
                                                        "tv":  319
                                                    },
                                                    {
@@ -11697,7 +11700,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  27.09,
+                                                       "km":  57.3,
                                                        "tv":  354
                                                    },
                                                    {
@@ -12027,6 +12030,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.74,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "FONSECA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.07,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Fernando",

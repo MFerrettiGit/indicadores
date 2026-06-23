@@ -9485,7 +9485,7 @@
                                ]
                    },
     "2026-06-23":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -9547,7 +9547,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  67.42,
+                                     "km":  75.49,
                                      "tv":  475
                                  },
                                  {
@@ -9565,7 +9565,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  7,
                                      "pe":  0,
-                                     "km":  106.83,
+                                     "km":  127.41,
                                      "tv":  267
                                  },
                                  {
@@ -9590,10 +9590,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  37.23,
-                                     "tv":  425
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  38.3,
+                                     "tv":  445
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -9637,7 +9637,7 @@
                                      "regional":  "SUL",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  45.07,
+                                     "km":  90.12,
                                      "tv":  319
                                  },
                                  {
@@ -9682,7 +9682,7 @@
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  4,
-                                     "km":  27.09,
+                                     "km":  57.3,
                                      "tv":  354
                                  },
                                  {
@@ -10012,6 +10012,13 @@
                                        "p":  1,
                                        "km":  4.74,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "FONSECA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.07,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Fernando",
