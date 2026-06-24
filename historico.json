@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10596,6 +10596,15 @@
                                      "tv":  328
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  64.29,
+                                     "tv":  255
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  7.14,
                                      "tv":  265
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  62.87,
-                                     "tv":  184
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10921,6 +10921,13 @@
                                        "p":  1,
                                        "km":  27.65,
                                        "tv":  81
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.42,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Costa",
