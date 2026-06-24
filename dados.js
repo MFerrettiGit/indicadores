@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -16,6 +16,21 @@ window.PAINEL = {
                      "ultimo":  "11:32",
                      "tv":  "04:02:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  80.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:56",
+                     "ultimo":  "12:21",
+                     "tv":  "04:00:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -64,21 +79,6 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  57.47,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:56",
-                     "ultimo":  "10:35",
-                     "tv":  "02:53:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -106,7 +106,7 @@ window.PAINEL = {
                      "ultimo":  "11:16",
                      "tv":  "03:04:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "11:59",
                      "tv":  "03:13:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "11:26",
                      "tv":  "02:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "12:07",
                      "tv":  "03:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -472,6 +472,15 @@ window.PAINEL = {
                          "out":  "10:35:40",
                          "km":  17.61,
                          "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:13:53",
+                         "out":  "12:21:26",
+                         "km":  23.5,
+                         "dur":  "01:07:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -840,6 +849,14 @@ window.PAINEL = {
                         "tempo":  "00:58:17"
                     },
                     {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:21",
+                        "final":  "12:22",
+                        "tempo":  "01:01:35"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "a",
@@ -869,15 +886,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:09:21"
-                    },
-                    {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:28"
+                        "tempo":  "04:24:27"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -885,7 +894,7 @@ window.PAINEL = {
                         "obs":  "Descalvado a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:34"
+                        "tempo":  "00:55:40"
                     },
                     {
                         "nome":  "Eliana",
@@ -893,7 +902,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:39"
+                        "tempo":  "00:37:45"
                     },
                     {
                         "nome":  "Debora",
@@ -901,7 +910,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:43"
+                        "tempo":  "00:24:49"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:41"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:41"
                     }
                 ],
     "semped":  [
@@ -935,67 +960,67 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "00:01:19"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:55:16"
+                         "tempo":  "00:16:23"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:06:47"
+                         "tempo":  "00:21:51"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:28:35"
+                         "tempo":  "00:43:39"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RETA ALIMENTOS LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "03:41:44"
+                         "tempo":  "03:56:48"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO CAMPOS LTDA.",
                          "mun":  "DUMONT",
-                         "tempo":  "00:04:36"
+                         "tempo":  "00:19:40"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:23:21"
+                         "tempo":  "00:38:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "UBADESKLIMP - C0MERCIAL DISTRIBUIDORA LT",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:33:41"
+                         "tempo":  "00:48:45"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:07:26"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:19:20"
+                         "tempo":  "00:34:24"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "INFANGER",
                          "mun":  "VINHEDO",
-                         "tempo":  "01:58:08"
+                         "tempo":  "02:13:12"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO SHIBATA LTDA",
                          "mun":  "BIRITIBA-MIRIM",
-                         "tempo":  "00:12:23"
+                         "tempo":  "00:27:27"
                      }
                  ],
     "hist":  [
@@ -1106,7 +1131,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     48,
+                     49,
                      4
                  ]
              ],
@@ -11660,7 +11685,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -11670,6 +11695,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  43.91,
                                                        "tv":  242
+                                                   },
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  80.97,
+                                                       "tv":  240
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -11697,15 +11731,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  7.14,
                                                        "tv":  265
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  57.47,
-                                                       "tv":  173
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -11963,6 +11988,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  17.61,
                                                          "tv":  80
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                                         "p":  1,
+                                                         "km":  23.5,
+                                                         "tv":  67
                                                      },
                                                      {
                                                          "n":  "Silmara",

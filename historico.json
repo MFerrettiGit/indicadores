@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10558,6 +10558,15 @@
                                      "pe":  0,
                                      "km":  43.91,
                                      "tv":  242
+                                 },
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  80.97,
+                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Debora",
@@ -10585,15 +10594,6 @@
                                      "pe":  0,
                                      "km":  7.14,
                                      "tv":  265
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  57.47,
-                                     "tv":  173
                                  },
                                  {
                                      "nome":  "Aline",
@@ -10851,6 +10851,13 @@
                                        "p":  1,
                                        "km":  17.61,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  23.5,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Silmara",
