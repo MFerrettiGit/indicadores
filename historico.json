@@ -10548,8 +10548,17 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  66.51,
+                                     "tv":  118
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -10585,15 +10594,6 @@
                                      "pe":  0,
                                      "km":  29.97,
                                      "tv":  67
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  61.88,
-                                     "tv":  68
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -10704,6 +10704,15 @@
                                      "tv":  45
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.83,
+                                     "tv":  96
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -10711,15 +10720,6 @@
                                      "pe":  0,
                                      "km":  4.8,
                                      "tv":  51
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alan",
@@ -10781,6 +10781,13 @@
                                        "p":  1,
                                        "km":  51.7,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.63,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Eliana",
@@ -10851,6 +10858,13 @@
                                        "p":  0,
                                        "km":  2.07,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MAXBOM SUPERMERCADO RB LTDA",
+                                       "p":  1,
+                                       "km":  1.83,
+                                       "tv":  96
                                    }
                                ]
                    }
