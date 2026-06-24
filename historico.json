@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10558,6 +10558,15 @@
                                      "pe":  0,
                                      "km":  36.86,
                                      "tv":  130
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  2.8,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -10594,15 +10603,6 @@
                                      "pe":  0,
                                      "km":  35.22,
                                      "tv":  103
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Aline",
@@ -10698,10 +10698,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
+                                     "vi":  2,
+                                     "pe":  2,
                                      "km":  35.01,
-                                     "tv":  28
+                                     "tv":  45
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  4.8,
+                                     "tv":  51
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10728,15 +10737,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.19,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.73,
                                      "tv":  0
                                  },
                                  {
@@ -10781,6 +10781,13 @@
                                        "p":  1,
                                        "km":  51.7,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.03",
+                                       "p":  1,
+                                       "km":  2.8,
+                                       "tv":  144
                                    },
                                    {
                                        "n":  "Evandro",
@@ -10830,6 +10837,20 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "INFANGER E CIA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  17
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  0,
+                                       "km":  2.07,
+                                       "tv":  51
                                    }
                                ]
                    }
