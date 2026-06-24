@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  81.44,
+                     "km":  89.86,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:08",
@@ -1593,7 +1593,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "10:09:32"
+                        "tempo":  "10:24:06"
                     }
                 ],
     "semped":  [
@@ -12323,7 +12323,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12367,7 +12367,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  81.44,
+                                                       "km":  89.86,
                                                        "tv":  399
                                                    },
                                                    {
