@@ -10548,8 +10548,26 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  81.87,
+                                     "tv":  256
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  78.59,
+                                     "tv":  232
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -10560,15 +10578,6 @@
                                      "tv":  242
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  80.97,
-                                     "tv":  240
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -10576,15 +10585,6 @@
                                      "pe":  0,
                                      "km":  31.81,
                                      "tv":  285
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  75,
-                                     "tv":  185
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -10650,6 +10650,15 @@
                                      "tv":  209
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  65.71,
+                                     "tv":  189
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -10668,22 +10677,13 @@
                                      "tv":  177
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  46.93,
-                                     "tv":  154
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  63.01,
+                                     "tv":  264
                                  },
                                  {
                                      "nome":  "Maira",
@@ -10749,6 +10749,15 @@
                                      "tv":  210
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  77.46,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -10756,15 +10765,6 @@
                                      "pe":  1,
                                      "km":  21.88,
                                      "tv":  134
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  34.08,
-                                     "tv":  87
                                  }
                              ],
                        "cli":  [
@@ -10825,6 +10825,13 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                       "p":  1,
+                                       "km":  3.59,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.03",
                                        "p":  1,
@@ -10858,6 +10865,13 @@
                                        "p":  1,
                                        "km":  23.5,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                                       "p":  1,
+                                       "km":  0.9,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Silmara",
@@ -10935,6 +10949,20 @@
                                        "p":  1,
                                        "km":  2.53,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO CAMPOS LTDA.",
+                                       "p":  1,
+                                       "km":  18.78,
+                                       "tv":  35
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  63.01,
+                                       "tv":  264
                                    },
                                    {
                                        "n":  "Milene",
@@ -11110,6 +11138,13 @@
                                        "p":  1,
                                        "km":  34.08,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO SHIBATA LTDA",
+                                       "p":  1,
+                                       "km":  43.38,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Nelson",
