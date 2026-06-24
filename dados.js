@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  43.91,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:45",
+                     "ultimo":  "11:32",
+                     "tv":  "04:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
@@ -17,21 +32,6 @@ window.PAINEL = {
                      "tv":  "03:05:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  39.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:45",
-                     "ultimo":  "10:39",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Evandro",
@@ -158,15 +158,30 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  62.03,
+                     "visitas":  3,
+                     "km":  68.87,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "10:28",
-                     "tv":  "02:11:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:25",
+                     "tv":  "02:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  49.8,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:21",
+                     "ultimo":  "11:28",
+                     "tv":  "02:57:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -180,21 +195,6 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "09:07",
                      "tv":  "01:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  46.97,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:21",
-                     "ultimo":  "10:53",
-                     "tv":  "02:32:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  35.63,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:13",
+                     "ultimo":  "11:26",
+                     "tv":  "02:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -274,17 +289,17 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  34.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:13",
-                     "ultimo":  "10:50",
-                     "tv":  "02:21:00",
+                     "km":  60.75,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:23",
+                     "ultimo":  "11:29",
+                     "tv":  "01:43:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "10:05",
                      "tv":  "01:59:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  4.8,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:23",
-                     "ultimo":  "09:15",
-                     "tv":  "00:51:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -465,6 +465,15 @@ window.PAINEL = {
                          "dur":  "01:35:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:14:59",
+                         "out":  "11:32:53",
+                         "km":  4.51,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -499,6 +508,15 @@ window.PAINEL = {
                          "out":  "10:28:31",
                          "km":  4.58,
                          "dur":  "00:25:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "10:52:24",
+                         "out":  "11:25:54",
+                         "km":  6.84,
+                         "dur":  "00:33:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -553,6 +571,15 @@ window.PAINEL = {
                          "out":  "10:53:27",
                          "km":  44.94,
                          "dur":  "02:32:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO LAZARINI EIRELI",
+                         "mun":  "DESCALVADO",
+                         "in":  "11:03:26",
+                         "out":  "11:28:47",
+                         "km":  2.83,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Alan",
@@ -618,6 +645,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
+                         "mun":  "RIO DAS PEDRAS",
+                         "in":  "11:03:18",
+                         "out":  "11:26:50",
+                         "km":  1.3,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "MARCIA RENATA CATROQUE - ME.",
                          "mun":  "JARINU",
@@ -634,6 +670,15 @@ window.PAINEL = {
                          "out":  "09:15:33",
                          "km":  2.07,
                          "dur":  "00:51:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO SOARES PEREIRA SILOP LTDA",
+                         "mun":  "UBATUBA",
+                         "in":  "10:37:13",
+                         "out":  "11:29:57",
+                         "km":  55.95,
+                         "dur":  "00:52:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -726,7 +771,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:24:22"
+                        "tempo":  "03:39:20"
                     },
                     {
                         "nome":  "Edimilson",
@@ -734,7 +779,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:00"
+                        "tempo":  "00:35:58"
                     },
                     {
                         "nome":  "Vinicius",
@@ -742,7 +787,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:29"
+                        "tempo":  "00:18:27"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Descalvado a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:33"
                     }
                 ],
     "semped":  [
@@ -757,6 +810,12 @@ window.PAINEL = {
                        "razao":  "DAMA COM. DE MATERIAIS P/LIMPEZA LTDA-ME",
                        "mun":  "VINHEDO",
                        "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
+                       "mun":  "RIO DAS PEDRAS",
+                       "obs":  "levantamento"
                    }
                ],
     "emvisita":  [
@@ -764,103 +823,79 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:28:57"
+                         "tempo":  "01:43:54"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "00:24:40"
+                         "tempo":  "00:39:37"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:10:20"
+                         "tempo":  "00:25:17"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA (LOJA 13)",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:39:41"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:09:14"
+                         "tempo":  "01:54:38"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:32:30"
+                         "tempo":  "01:47:27"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RETA ALIMENTOS LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "02:56:48"
+                         "tempo":  "03:11:45"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:12:12"
+                         "tempo":  "00:27:09"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO RICOBELO LTDA - EPP",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "01:03:26"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "00:31:49"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO LAZARINI EIRELI",
-                         "mun":  "DESCALVADO",
-                         "tempo":  "00:20:47"
+                         "tempo":  "01:18:23"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "JASON ROQUE DE CASTILHO JUNIOR",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:07:08"
+                         "tempo":  "01:22:05"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "MERCADO SOARES PEREIRA SILOP LTDA",
+                         "razao":  "UBADESKLIMP - C0MERCIAL DISTRIBUIDORA LT",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:47:00"
+                         "tempo":  "00:03:42"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "02:54:17"
+                         "tempo":  "03:09:14"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:10:53"
+                         "tempo":  "00:25:50"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "INFANGER",
                          "mun":  "VINHEDO",
-                         "tempo":  "01:13:12"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
-                         "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:20:55"
+                         "tempo":  "01:28:09"
                      }
                  ],
     "hist":  [
@@ -971,8 +1006,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     33,
-                     2
+                     38,
+                     3
                  ]
              ],
     "historico":  {
@@ -11525,8 +11560,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  43.91,
+                                                       "tv":  242
+                                                   },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
@@ -11535,15 +11579,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  75,
                                                        "tv":  185
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  39.4,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Evandro",
@@ -11621,10 +11656,19 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  68.87,
+                                                       "tv":  164
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  62.03,
-                                                       "tv":  131
+                                                       "km":  49.8,
+                                                       "tv":  177
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -11634,15 +11678,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  1.39,
                                                        "tv":  66
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  46.97,
-                                                       "tv":  152
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -11681,6 +11716,15 @@ window.PAINEL = {
                                                        "tv":  78
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  35.63,
+                                                       "tv":  164
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -11690,13 +11734,13 @@ window.PAINEL = {
                                                        "tv":  123
                                                    },
                                                    {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
                                                        "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  34.33,
-                                                       "tv":  141
+                                                       "pe":  1,
+                                                       "km":  60.75,
+                                                       "tv":  103
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -11706,15 +11750,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  26.74,
                                                        "tv":  119
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  4.8,
-                                                       "tv":  51
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -11823,6 +11858,13 @@ window.PAINEL = {
                                                          "tv":  95
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.51,
+                                                         "tv":  17
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  1,
@@ -11849,6 +11891,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.58,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  6.84,
+                                                         "tv":  33
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -11891,6 +11940,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  44.94,
                                                          "tv":  152
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO LAZARINI EIRELI",
+                                                         "p":  1,
+                                                         "km":  2.83,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -11942,6 +11998,13 @@ window.PAINEL = {
                                                          "tv":  51
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "M. B. NASTARO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  1.3,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "MARCIA RENATA CATROQUE - ME.",
                                                          "p":  1,
@@ -11954,6 +12017,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.07,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO SOARES PEREIRA SILOP LTDA",
+                                                         "p":  1,
+                                                         "km":  55.95,
+                                                         "tv":  52
                                                      },
                                                      {
                                                          "n":  "Mariangela",
