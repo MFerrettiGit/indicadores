@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10569,6 +10569,15 @@
                                      "tv":  256
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  34.4,
+                                     "tv":  348
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -10576,15 +10585,6 @@
                                      "pe":  0,
                                      "km":  78.59,
                                      "tv":  232
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  31.81,
-                                     "tv":  285
                                  },
                                  {
                                      "nome":  "Aline",
@@ -10626,10 +10626,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  86.19,
-                                     "tv":  201
+                                     "km":  87.89,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -10662,10 +10662,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.81,
-                                     "tv":  193
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  41.32,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -10716,10 +10716,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  61.65,
-                                     "tv":  155
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  62.1,
+                                     "tv":  304
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -10809,6 +10809,13 @@
                                        "p":  1,
                                        "km":  0.66,
                                        "tv":  123
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.59,
+                                       "tv":  63
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -11021,6 +11028,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  1.7,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                                        "p":  1,
@@ -11033,6 +11047,13 @@
                                        "p":  1,
                                        "km":  39.42,
                                        "tv":  127
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ABATEDOURO UNIAO LTDA",
+                                       "p":  1,
+                                       "km":  0.51,
+                                       "tv":  66
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -11222,6 +11243,13 @@
                                        "p":  1,
                                        "km":  56.16,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  0.45,
+                                       "tv":  149
                                    }
                                ]
                    }

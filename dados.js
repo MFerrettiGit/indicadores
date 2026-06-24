@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  34.4,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:58",
+                     "ultimo":  "14:12",
+                     "tv":  "05:48:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
@@ -45,21 +60,6 @@ window.PAINEL = {
                      "primeiro":  "07:04",
                      "ultimo":  "12:50",
                      "tv":  "03:52:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  31.81,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:58",
-                     "ultimo":  "11:59",
-                     "tv":  "04:45:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "07:15",
                      "ultimo":  "14:02",
                      "tv":  "04:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  86.19,
+                     "visitas":  5,
+                     "km":  87.89,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
-                     "ultimo":  "12:06",
-                     "tv":  "03:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:21",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:31",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  40.81,
+                     "visitas":  3,
+                     "km":  41.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
-                     "ultimo":  "11:59",
-                     "tv":  "03:13:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:21",
+                     "tv":  "04:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:50",
                      "tv":  "03:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -278,14 +278,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  61.65,
+                     "visitas":  4,
+                     "km":  62.1,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "11:45",
-                     "tv":  "02:35:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:19",
+                     "tv":  "05:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -418,6 +418,15 @@ window.PAINEL = {
                          "out":  "11:59:19",
                          "km":  0.66,
                          "dur":  "02:03:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "in":  "13:08:35",
+                         "out":  "14:12:42",
+                         "km":  2.59,
+                         "dur":  "01:03:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -690,6 +699,15 @@ window.PAINEL = {
                          "dur":  "00:54:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "FURLAN",
+                         "mun":  "BRODOWSKI",
+                         "in":  "13:56:41",
+                         "out":  "14:21:44",
+                         "km":  1.7,
+                         "dur":  "00:24:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                          "mun":  "AMPARO",
@@ -706,6 +724,15 @@ window.PAINEL = {
                          "out":  "11:59:36",
                          "km":  39.42,
                          "dur":  "02:07:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ABATEDOURO UNIAO LTDA",
+                         "mun":  "ITAPIRA",
+                         "in":  "13:15:13",
+                         "out":  "14:21:37",
+                         "km":  0.51,
+                         "dur":  "01:06:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -949,6 +976,15 @@ window.PAINEL = {
                          "out":  "11:45:34",
                          "km":  56.16,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITARARE",
+                         "in":  "11:49:49",
+                         "out":  "14:19:47",
+                         "km":  0.45,
+                         "dur":  "02:29:00"
                      }
                  ],
     "eventos":  [
@@ -1015,6 +1051,14 @@ window.PAINEL = {
                         "inicio":  "10:17",
                         "final":  "11:12",
                         "tempo":  "00:54:51"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "13:27",
+                        "final":  "14:24",
+                        "tempo":  "00:57:27"
                     },
                     {
                         "nome":  "Cominato",
@@ -1126,7 +1170,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:09:36"
+                        "tempo":  "06:24:29"
                     },
                     {
                         "nome":  "Cominato",
@@ -1134,7 +1178,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido defavari passado por email",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:37"
+                        "tempo":  "01:02:30"
                     },
                     {
                         "nome":  "Castro",
@@ -1142,7 +1186,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:33"
+                        "tempo":  "00:57:26"
                     },
                     {
                         "nome":  "Fernando",
@@ -1150,7 +1194,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:09"
+                        "tempo":  "00:52:02"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1158,7 +1202,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:18"
+                        "tempo":  "00:40:11"
                     },
                     {
                         "nome":  "Aline",
@@ -1166,7 +1210,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:15"
+                        "tempo":  "00:20:08"
                     },
                     {
                         "nome":  "Karina",
@@ -1174,7 +1218,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:35"
+                        "tempo":  "00:15:28"
                     }
                 ],
     "semped":  [
@@ -1205,64 +1249,52 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADOS REX LTDA.",
-                         "mun":  "LEME",
-                         "tempo":  "01:00:40"
-                     },
-                     {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:25"
+                         "tempo":  "00:39:20"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:33:46"
+                         "tempo":  "00:48:41"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:17:11"
+                         "tempo":  "01:32:06"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:08:00"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:15:40"
+                         "tempo":  "00:30:35"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "ABATEDOURO UNIAO LTDA",
-                         "mun":  "ITAPIRA",
-                         "tempo":  "00:54:02"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "FURLAN",
-                         "mun":  "BRODOWSKI",
-                         "tempo":  "00:12:34"
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:11:30"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:05:34"
+                         "tempo":  "00:20:29"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ARIEL SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:10:58"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITARARE",
-                         "tempo":  "02:19:26"
+                         "tempo":  "00:25:53"
                      }
                  ],
     "hist":  [
@@ -1373,7 +1405,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     66,
+                     70,
                      5
                  ]
              ],
@@ -11927,7 +11959,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -11948,6 +11980,15 @@ window.PAINEL = {
                                                        "tv":  256
                                                    },
                                                    {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  34.4,
+                                                       "tv":  348
+                                                   },
+                                                   {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
@@ -11955,15 +11996,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  78.59,
                                                        "tv":  232
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  31.81,
-                                                       "tv":  285
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -12005,10 +12037,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  86.19,
-                                                       "tv":  201
+                                                       "km":  87.89,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -12041,10 +12073,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  40.81,
-                                                       "tv":  193
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  41.32,
+                                                       "tv":  259
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -12095,10 +12127,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  61.65,
-                                                       "tv":  155
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  62.1,
+                                                       "tv":  304
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -12188,6 +12220,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.66,
                                                          "tv":  123
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "SUPERMERCADOS REX LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.59,
+                                                         "tv":  63
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -12400,6 +12439,13 @@ window.PAINEL = {
                                                          "tv":  54
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "FURLAN",
+                                                         "p":  1,
+                                                         "km":  1.7,
+                                                         "tv":  24
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                                                          "p":  1,
@@ -12412,6 +12458,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  39.42,
                                                          "tv":  127
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "ABATEDOURO UNIAO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.51,
+                                                         "tv":  66
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -12601,6 +12654,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  56.16,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  1,
+                                                         "km":  0.45,
+                                                         "tv":  149
                                                      }
                                                  ]
                                      }
