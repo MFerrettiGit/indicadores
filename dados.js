@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
+                 {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  75,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:04",
+                     "ultimo":  "11:01",
+                     "tv":  "03:05:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
@@ -49,21 +64,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  66.51,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:04",
-                     "ultimo":  "09:26",
-                     "tv":  "01:58:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "07:08",
                      "ultimo":  "09:54",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "10:53",
                      "tv":  "02:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "10:50",
                      "tv":  "02:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -409,6 +409,15 @@ window.PAINEL = {
                          "out":  "09:26:36",
                          "km":  4.63,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "09:54:12",
+                         "out":  "11:01:44",
+                         "km":  8.49,
+                         "dur":  "01:07:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -691,7 +700,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:54:13"
+                        "tempo":  "03:09:14"
                     },
                     {
                         "nome":  "Nelson",
@@ -699,7 +708,15 @@ window.PAINEL = {
                         "obs":  "Itapeva a Itararé",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:56"
+                        "tempo":  "00:51:57"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:52"
                     }
                 ],
     "semped":  [
@@ -721,79 +738,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:58:51"
+                         "tempo":  "01:13:52"
                      },
                      {
-                         "nome":  "Edimilson",
+                         "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "HORTOLANDIA",
-                         "tempo":  "00:59:55"
+                         "mun":  "SUMARE",
+                         "tempo":  "00:09:35"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA (LOJA 13)",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:09:35"
+                         "tempo":  "01:24:36"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:59:31"
+                         "tempo":  "01:14:32"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:02:24"
+                         "tempo":  "01:17:25"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RETA ALIMENTOS LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "02:26:42"
+                         "tempo":  "02:41:43"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO RICOBELO LTDA - EPP",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "00:33:20"
+                         "tempo":  "00:48:21"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:01:43"
+                         "tempo":  "00:16:44"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO LAZARINI EIRELI",
+                         "mun":  "DESCALVADO",
+                         "tempo":  "00:05:42"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "MARCIA RENATA CATROQUE - ME.",
                          "mun":  "JARINU",
-                         "tempo":  "01:57:00"
+                         "tempo":  "02:12:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "JASON ROQUE DE CASTILHO JUNIOR",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:02"
+                         "tempo":  "00:52:03"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO SOARES PEREIRA SILOP LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:16:54"
+                         "tempo":  "00:31:55"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "02:24:11"
+                         "tempo":  "02:39:12"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "INFANGER",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:43:06"
+                         "tempo":  "00:58:07"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
+                         "mun":  "RIO DAS PEDRAS",
+                         "tempo":  "00:05:50"
                      }
                  ],
     "hist":  [
@@ -904,7 +933,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     30,
+                     31,
                      2
                  ]
              ],
@@ -11458,8 +11487,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  75,
+                                                       "tv":  185
+                                                   },
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
@@ -11486,15 +11524,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  31.15,
                                                        "tv":  162
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  66.51,
-                                                       "tv":  118
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -11712,6 +11741,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.63,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  8.49,
+                                                         "tv":  67
                                                      },
                                                      {
                                                          "n":  "Eliana",

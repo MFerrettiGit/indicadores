@@ -10548,8 +10548,17 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  75,
+                                     "tv":  185
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -10576,15 +10585,6 @@
                                      "pe":  0,
                                      "km":  31.15,
                                      "tv":  162
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  66.51,
-                                     "tv":  118
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -10802,6 +10802,13 @@
                                        "p":  1,
                                        "km":  4.63,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  8.49,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Eliana",
