@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -10596,6 +10596,15 @@
                                      "tv":  93
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  49.56,
+                                     "tv":  165
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  35.22,
                                      "tv":  103
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  24.85,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10698,10 +10698,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  3,
-                                     "km":  35.86,
-                                     "tv":  63
+                                     "km":  36.49,
+                                     "tv":  78
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10711,6 +10711,15 @@
                                      "pe":  1,
                                      "km":  1.83,
                                      "tv":  96
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  26.74,
+                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -10729,15 +10738,6 @@
                                      "pe":  0,
                                      "km":  4.8,
                                      "tv":  51
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -10768,6 +10768,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  24.71,
+                                       "tv":  165
+                                   },
                                    {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
@@ -10853,6 +10860,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
+                                       "p":  1,
+                                       "km":  26.74,
+                                       "tv":  119
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL RUZALEM LTDA",
                                        "p":  1,
@@ -10872,6 +10886,13 @@
                                        "p":  1,
                                        "km":  0.85,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "DAMA COM. DE MATERIAIS P/LIMPEZA LTDA-ME",
+                                       "p":  0,
+                                       "km":  0.63,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Cominato",
