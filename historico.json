@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10574,7 +10574,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  54.57,
+                                     "km":  65.17,
                                      "tv":  464
                                  },
                                  {
@@ -10596,6 +10596,15 @@
                                      "tv":  399
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  70.58,
+                                     "tv":  347
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  14.59,
                                      "tv":  484
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  67.31,
-                                     "tv":  331
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10650,6 +10650,15 @@
                                      "tv":  317
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  125.69,
+                                     "tv":  324
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -10657,15 +10666,6 @@
                                      "pe":  3,
                                      "km":  105.8,
                                      "tv":  311
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  84.08,
-                                     "tv":  303
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -10713,6 +10713,15 @@
                                      "tv":  306
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  104.8,
+                                     "tv":  272
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -10729,15 +10738,6 @@
                                      "pe":  3,
                                      "km":  55.21,
                                      "tv":  228
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  104.12,
-                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11021,6 +11021,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  3.27,
+                                       "tv":  16
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -11103,6 +11110,13 @@
                                        "p":  1,
                                        "km":  17.44,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  41.61,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Luis",
@@ -11439,6 +11453,13 @@
                                        "p":  1,
                                        "km":  0.46,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "PEREIRA E MAGALHAES COM.DE ALIM. LTDA-EP",
+                                       "p":  1,
+                                       "km":  0.68,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Nelson",
