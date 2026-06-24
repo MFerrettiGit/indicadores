@@ -10548,8 +10548,17 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  57.47,
+                                     "tv":  173
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -10585,15 +10594,6 @@
                                      "pe":  0,
                                      "km":  2.8,
                                      "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.86,
-                                     "tv":  93
                                  },
                                  {
                                      "nome":  "Aline",
@@ -10641,6 +10641,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  62.03,
+                                     "tv":  131
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -10648,15 +10657,6 @@
                                      "pe":  1,
                                      "km":  1.39,
                                      "tv":  66
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  57.45,
-                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -10740,6 +10740,15 @@
                                      "tv":  51
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  34.08,
+                                     "tv":  87
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -10751,15 +10760,6 @@
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -10818,11 +10818,25 @@
                                        "tv":  93
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  17.61,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                                        "p":  1,
                                        "km":  36.54,
                                        "tv":  130
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                                       "p":  1,
+                                       "km":  2.54,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -10837,6 +10851,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  106
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.58,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Fernando",
@@ -10921,6 +10942,13 @@
                                        "p":  0,
                                        "km":  2.07,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "A A RIBEIRO SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  34.08,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Nelson",
