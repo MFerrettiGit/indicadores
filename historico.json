@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10563,10 +10563,10 @@
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  81.87,
-                                     "tv":  256
+                                     "km":  91.24,
+                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Debora",
@@ -10893,6 +10893,13 @@
                                        "p":  1,
                                        "km":  0.9,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  9.37,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Silmara",
