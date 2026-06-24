@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10567,6 +10567,15 @@
                                      "pe":  0,
                                      "km":  75,
                                      "tv":  185
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  7.14,
+                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Evandro",
@@ -10594,15 +10603,6 @@
                                      "pe":  0,
                                      "km":  62.87,
                                      "tv":  184
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.8,
-                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Aline",
@@ -10659,6 +10659,15 @@
                                      "tv":  177
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  46.93,
+                                     "tv":  154
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -10666,15 +10675,6 @@
                                      "pe":  1,
                                      "km":  1.39,
                                      "tv":  66
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  44.4,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Luis",
@@ -10704,6 +10704,15 @@
                                      "tv":  78
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  61.65,
+                                     "tv":  155
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -10713,13 +10722,13 @@
                                      "tv":  164
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  2,
-                                     "km":  5.49,
-                                     "tv":  123
+                                     "pe":  1,
+                                     "km":  28.55,
+                                     "tv":  211
                                  },
                                  {
                                      "nome":  "Karina",
@@ -10731,13 +10740,13 @@
                                      "tv":  103
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  26.74,
-                                     "tv":  119
+                                     "km":  1.8,
+                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -10756,15 +10765,6 @@
                                      "pe":  1,
                                      "km":  34.08,
                                      "tv":  87
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.61,
-                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -10816,6 +10816,13 @@
                                        "p":  1,
                                        "km":  2.8,
                                        "tv":  144
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA (LOJA 13)",
+                                       "p":  1,
+                                       "km":  4.34,
+                                       "tv":  121
                                    },
                                    {
                                        "n":  "Evandro",
@@ -10895,6 +10902,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
+                                       "p":  1,
+                                       "km":  2.53,
+                                       "tv":  82
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -10942,6 +10956,13 @@
                                        "p":  1,
                                        "km":  26.74,
                                        "tv":  119
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "JASON ROQUE DE CASTILHO JUNIOR",
+                                       "p":  0,
+                                       "km":  1.81,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Castro",
@@ -11014,6 +11035,13 @@
                                        "tv":  52
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  1.19,
+                                       "tv":  193
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "A A RIBEIRO SUPERMERCADO EIRELI",
                                        "p":  1,
@@ -11033,6 +11061,13 @@
                                        "p":  1,
                                        "km":  3.66,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  56.16,
+                                       "tv":  32
                                    }
                                ]
                    }
