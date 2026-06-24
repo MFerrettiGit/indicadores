@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10565,7 +10565,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  118.22,
+                                     "km":  142.14,
                                      "tv":  405
                                  },
                                  {
@@ -10655,7 +10655,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  3,
-                                     "km":  112.73,
+                                     "km":  113.47,
                                      "tv":  344
                                  },
                                  {
@@ -10664,7 +10664,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  125.69,
+                                     "km":  126.01,
                                      "tv":  324
                                  },
                                  {
@@ -10673,7 +10673,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  4,
-                                     "km":  44.75,
+                                     "km":  80.14,
                                      "tv":  360
                                  },
                                  {
@@ -10682,7 +10682,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  86.18,
+                                     "km":  159.92,
                                      "tv":  372
                                  },
                                  {
@@ -10693,6 +10693,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  105.34,
+                                     "tv":  303
                                  },
                                  {
                                      "nome":  "Karina",
@@ -10711,15 +10720,6 @@
                                      "pe":  4,
                                      "km":  73.41,
                                      "tv":  306
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  104.8,
-                                     "tv":  272
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10745,7 +10745,7 @@
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  45.08,
+                                     "km":  59.92,
                                      "tv":  349
                                  },
                                  {
@@ -11481,6 +11481,13 @@
                                        "p":  1,
                                        "km":  0.68,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "M A COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  0.54,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Nelson",

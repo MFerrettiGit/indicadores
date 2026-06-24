@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -24,7 +24,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  118.22,
+                     "km":  142.14,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  112.73,
+                     "km":  113.47,
                      "semPed":  3,
                      "perc":  50,
                      "primeiro":  "08:21",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  125.69,
+                     "km":  126.01,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:04",
@@ -204,14 +204,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  44.75,
+                     "km":  80.14,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
                      "ultimo":  "16:14",
                      "tv":  "06:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  86.18,
+                     "km":  159.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:27",
@@ -240,6 +240,21 @@ window.PAINEL = {
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  105.34,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:59",
+                     "ultimo":  "17:59",
+                     "tv":  "05:03:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -271,21 +286,6 @@ window.PAINEL = {
                      "ultimo":  "17:02",
                      "tv":  "05:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  104.8,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:59",
-                     "ultimo":  "17:20",
-                     "tv":  "04:32:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  45.08,
+                     "km":  59.92,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:06",
@@ -1284,6 +1284,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SALESOPOLIS",
+                         "in":  "17:28:23",
+                         "out":  "17:59:57",
+                         "km":  0.54,
+                         "dur":  "00:31:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "MAXBOM SUPERMERCADO RB LTDA",
                          "mun":  "ITAPEVA",
@@ -1393,6 +1402,14 @@ window.PAINEL = {
                         "inicio":  "16:57",
                         "final":  "17:00",
                         "tempo":  "00:03:04"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "big bom",
+                        "inicio":  "17:00",
+                        "final":  "18:01",
+                        "tempo":  "01:00:12"
                     },
                     {
                         "nome":  "Luis",
@@ -1576,15 +1593,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:54:33"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "big bom",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:12"
+                        "tempo":  "10:09:32"
                     }
                 ],
     "semped":  [
@@ -1650,12 +1659,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
-                         "mun":  "SALESOPOLIS",
-                         "tempo":  "00:25:38"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1765,7 +1769,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     108,
+                     109,
                      11
                  ]
              ],
@@ -12319,7 +12323,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12336,7 +12340,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  118.22,
+                                                       "km":  142.14,
                                                        "tv":  405
                                                    },
                                                    {
@@ -12426,7 +12430,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  3,
-                                                       "km":  112.73,
+                                                       "km":  113.47,
                                                        "tv":  344
                                                    },
                                                    {
@@ -12435,7 +12439,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  125.69,
+                                                       "km":  126.01,
                                                        "tv":  324
                                                    },
                                                    {
@@ -12444,7 +12448,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  44.75,
+                                                       "km":  80.14,
                                                        "tv":  360
                                                    },
                                                    {
@@ -12453,7 +12457,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  86.18,
+                                                       "km":  159.92,
                                                        "tv":  372
                                                    },
                                                    {
@@ -12464,6 +12468,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  105.34,
+                                                       "tv":  303
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -12482,15 +12495,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  73.41,
                                                        "tv":  306
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  104.8,
-                                                       "tv":  272
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -12516,7 +12520,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  45.08,
+                                                       "km":  59.92,
                                                        "tv":  349
                                                    },
                                                    {
@@ -13252,6 +13256,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.68,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "M A COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  0.54,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Nelson",
