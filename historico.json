@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -10587,6 +10587,15 @@
                                      "tv":  162
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  62.87,
+                                     "tv":  184
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  49.56,
                                      "tv":  165
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  35.22,
-                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10740,6 +10740,15 @@
                                      "tv":  51
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  21.88,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -10755,15 +10764,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.61,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -10851,6 +10851,13 @@
                                        "p":  1,
                                        "km":  35.22,
                                        "tv":  103
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  27.65,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Costa",
@@ -10956,6 +10963,13 @@
                                        "p":  1,
                                        "km":  12.23,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "MARCIA RENATA CATROQUE - ME.",
+                                       "p":  1,
+                                       "km":  21.88,
+                                       "tv":  134
                                    },
                                    {
                                        "n":  "Karina",
