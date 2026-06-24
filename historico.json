@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10610,7 +10610,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  14.59,
+                                     "km":  18.82,
                                      "tv":  484
                                  },
                                  {
@@ -10646,8 +10646,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  100.18,
+                                     "km":  136.68,
                                      "tv":  317
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  112.73,
+                                     "tv":  344
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -10657,15 +10666,6 @@
                                      "pe":  6,
                                      "km":  125.69,
                                      "tv":  324
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  105.8,
-                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -10736,7 +10736,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  55.21,
+                                     "km":  63.94,
                                      "tv":  228
                                  },
                                  {
@@ -10752,10 +10752,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  4.45,
-                                     "tv":  293
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  6.15,
+                                     "tv":  334
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -11245,6 +11245,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                       "p":  0,
+                                       "km":  6.93,
+                                       "tv":  33
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -11425,6 +11432,13 @@
                                        "p":  1,
                                        "km":  1.9,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCEARIA LOPES LTDA",
+                                       "p":  1,
+                                       "km":  1.7,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Mariangela",

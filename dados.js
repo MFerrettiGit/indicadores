@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  14.59,
+                     "km":  18.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -159,12 +159,27 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  100.18,
+                     "km":  136.68,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
                      "ultimo":  "16:42",
                      "tv":  "05:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  112.73,
+                     "semPed":  3,
+                     "perc":  50,
+                     "primeiro":  "08:21",
+                     "ultimo":  "17:43",
+                     "tv":  "05:44:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -181,21 +196,6 @@ window.PAINEL = {
                      "ultimo":  "17:14",
                      "tv":  "05:24:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  105.8,
-                     "semPed":  2,
-                     "perc":  40,
-                     "primeiro":  "08:21",
-                     "ultimo":  "16:56",
-                     "tv":  "05:11:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "16:47",
                      "tv":  "06:12:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -309,7 +309,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  55.21,
+                     "km":  63.94,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:13",
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  4.45,
+                     "visitas":  4,
+                     "km":  6.15,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:29",
-                     "ultimo":  "13:41",
-                     "tv":  "04:53:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:41",
+                     "tv":  "05:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -978,6 +978,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:10:41",
+                         "out":  "17:43:55",
+                         "km":  6.93,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -1212,6 +1221,15 @@ window.PAINEL = {
                          "dur":  "01:23:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCEARIA LOPES LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "16:59:37",
+                         "out":  "17:41:03",
+                         "km":  1.7,
+                         "dur":  "00:41:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "A A RIBEIRO SUPERMERCADO EIRELI",
                          "mun":  "SANTA BRANCA",
@@ -1393,6 +1411,14 @@ window.PAINEL = {
                         "tempo":  "00:55:42"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Orlandia a Franca",
+                        "inicio":  "16:48",
+                        "final":  "17:54",
+                        "tempo":  "01:05:51"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Em Viagem",
                         "obs":  "Itapeva a Itararé",
@@ -1550,15 +1576,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:39:36"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Orlandia a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:46"
+                        "tempo":  "09:54:33"
                     },
                     {
                         "nome":  "Rachel",
@@ -1566,7 +1584,7 @@ window.PAINEL = {
                         "obs":  "big bom",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:15"
+                        "tempo":  "00:54:12"
                     }
                 ],
     "semped":  [
@@ -1623,26 +1641,20 @@ window.PAINEL = {
                        "razao":  "VOLNEI ASSIS DE CARVALHO",
                        "mun":  "SAO CARLOS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:28:23"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCEARIA LOPES LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:39:27"
-                     },
-                     {
                          "nome":  "Mariangela",
                          "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SALESOPOLIS",
-                         "tempo":  "00:10:41"
+                         "tempo":  "00:25:38"
                      }
                  ],
     "hist":  [
@@ -1753,8 +1765,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     106,
-                     10
+                     108,
+                     11
                  ]
              ],
     "historico":  {
@@ -12307,7 +12319,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12369,7 +12381,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  14.59,
+                                                       "km":  18.82,
                                                        "tv":  484
                                                    },
                                                    {
@@ -12405,8 +12417,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  100.18,
+                                                       "km":  136.68,
                                                        "tv":  317
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  3,
+                                                       "km":  112.73,
+                                                       "tv":  344
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -12416,15 +12437,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  125.69,
                                                        "tv":  324
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  3,
-                                                       "km":  105.8,
-                                                       "tv":  311
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -12495,7 +12507,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  55.21,
+                                                       "km":  63.94,
                                                        "tv":  228
                                                    },
                                                    {
@@ -12511,10 +12523,10 @@ window.PAINEL = {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  4.45,
-                                                       "tv":  293
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  6.15,
+                                                       "tv":  334
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -13004,6 +13016,13 @@ window.PAINEL = {
                                                          "tv":  39
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO ARCO IRIS LTDA.",
+                                                         "p":  0,
+                                                         "km":  6.93,
+                                                         "tv":  33
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                                          "p":  1,
@@ -13184,6 +13203,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.9,
                                                          "tv":  83
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCEARIA LOPES LTDA",
+                                                         "p":  1,
+                                                         "km":  1.7,
+                                                         "tv":  41
                                                      },
                                                      {
                                                          "n":  "Mariangela",
