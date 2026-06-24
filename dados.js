@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  54.57,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:58",
+                     "ultimo":  "16:29",
+                     "tv":  "07:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
@@ -46,21 +61,6 @@ window.PAINEL = {
                      "ultimo":  "15:01",
                      "tv":  "05:17:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  34.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:58",
-                     "ultimo":  "14:12",
-                     "tv":  "05:48:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -436,6 +436,15 @@ window.PAINEL = {
                          "out":  "14:12:42",
                          "km":  2.59,
                          "dur":  "01:03:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "ARARAS",
+                         "in":  "14:32:59",
+                         "out":  "16:29:11",
+                         "km":  20.17,
+                         "dur":  "01:56:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -1399,7 +1408,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:24:41"
+                        "tempo":  "08:39:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -1407,7 +1416,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:14"
+                        "tempo":  "00:24:35"
                     }
                 ],
     "semped":  [
@@ -1456,76 +1465,70 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "ARARAS",
-                         "tempo":  "01:51:12"
-                     },
-                     {
                          "nome":  "Aline",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:16:51"
+                         "tempo":  "00:31:17"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:02:46"
+                         "tempo":  "01:17:12"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:32:06"
+                         "tempo":  "01:46:32"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                          "mun":  "RIO DAS PEDRAS",
-                         "tempo":  "00:10:28"
+                         "tempo":  "00:24:54"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RECANTO EIRELI",
                          "mun":  "ORLANDIA",
-                         "tempo":  "00:54:11"
+                         "tempo":  "01:08:37"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:25:17"
+                         "tempo":  "00:39:43"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "VOLNEI ASSIS DE CARVALHO",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:07:20"
+                         "tempo":  "00:21:46"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "02:20:30"
+                         "tempo":  "02:34:56"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO JARDIM DOS CALEGARIS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:33:44"
+                         "tempo":  "00:48:10"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:57:59"
+                         "tempo":  "02:12:25"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:51:11"
+                         "tempo":  "01:05:37"
                      }
                  ],
     "hist":  [
@@ -1636,7 +1639,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     91,
+                     92,
                      8
                  ]
              ],
@@ -12190,7 +12193,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12211,6 +12214,15 @@ window.PAINEL = {
                                                        "tv":  315
                                                    },
                                                    {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  54.57,
+                                                       "tv":  464
+                                                   },
+                                                   {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
@@ -12218,15 +12230,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  112.86,
                                                        "tv":  317
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  34.4,
-                                                       "tv":  348
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -12465,6 +12468,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.59,
                                                          "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  1,
+                                                         "km":  20.17,
+                                                         "tv":  116
                                                      },
                                                      {
                                                          "n":  "Edimilson",

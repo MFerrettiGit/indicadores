@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10569,6 +10569,15 @@
                                      "tv":  315
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  54.57,
+                                     "tv":  464
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -10576,15 +10585,6 @@
                                      "pe":  0,
                                      "km":  112.86,
                                      "tv":  317
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  34.4,
-                                     "tv":  348
                                  },
                                  {
                                      "nome":  "Aline",
@@ -10823,6 +10823,13 @@
                                        "p":  1,
                                        "km":  2.59,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  1,
+                                       "km":  20.17,
+                                       "tv":  116
                                    },
                                    {
                                        "n":  "Edimilson",
