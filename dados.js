@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:56",
                      "ultimo":  "14:44",
                      "tv":  "05:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  87.89,
+                     "visitas":  6,
+                     "km":  101.43,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
-                     "ultimo":  "14:21",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:17",
+                     "tv":  "04:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:59",
                      "ultimo":  "13:44",
                      "tv":  "03:04:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -760,6 +760,15 @@ window.PAINEL = {
                          "out":  "14:21:44",
                          "km":  1.7,
                          "dur":  "00:24:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO SB BABA LTDA.",
+                         "mun":  "JARDINOPOLIS",
+                         "in":  "14:48:22",
+                         "out":  "15:17:19",
+                         "km":  13.54,
+                         "dur":  "00:28:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -1264,7 +1273,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:09:38"
+                        "tempo":  "07:24:26"
                     }
                 ],
     "semped":  [
@@ -1298,85 +1307,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:36:16"
+                         "tempo":  "00:51:09"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:02:43"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:17:10"
+                         "tempo":  "00:32:03"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:53:05"
+                         "tempo":  "01:07:58"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:20:28"
+                         "tempo":  "00:35:21"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:35:59"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO SB BABA LTDA.",
-                         "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:20:53"
+                         "tempo":  "00:50:52"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "00:30:46"
+                         "tempo":  "00:45:39"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:14:00"
+                         "tempo":  "00:28:53"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JBI E   PRESENTES LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:41:59"
+                         "tempo":  "00:56:52"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:05:34"
+                         "tempo":  "01:20:27"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ARIEL SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:10:58"
+                         "tempo":  "01:25:51"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "TOP STOP MERCADO LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:37:03"
+                         "tempo":  "00:51:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:43:03"
+                         "tempo":  "00:57:56"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "K.L.H. SUPERMERCADO LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:08:38"
+                         "tempo":  "00:23:31"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SALESOPOLIS",
+                         "tempo":  "00:14:14"
                      }
                  ],
     "hist":  [
@@ -1487,7 +1502,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     76,
+                     77,
                      5
                  ]
              ],
@@ -12041,7 +12056,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12119,10 +12134,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  87.89,
-                                                       "tv":  225
+                                                       "km":  101.43,
+                                                       "tv":  253
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -12568,6 +12583,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.7,
                                                          "tv":  24
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADO SB BABA LTDA.",
+                                                         "p":  1,
+                                                         "km":  13.54,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Rachel",
