@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  51.05,
+                     "visitas":  6,
+                     "km":  56.23,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:45",
-                     "ultimo":  "14:30",
-                     "tv":  "05:56:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:50",
+                     "tv":  "06:58:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  66.64,
+                     "visitas":  5,
+                     "km":  84.08,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:04",
-                     "ultimo":  "13:32",
-                     "tv":  "03:54:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:47",
+                     "tv":  "05:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "15:38",
                      "tv":  "04:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  52.65,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:13",
+                     "ultimo":  "15:44",
+                     "tv":  "03:27:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -300,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:59",
                      "ultimo":  "15:35",
                      "tv":  "03:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:06",
                      "ultimo":  "15:25",
                      "tv":  "04:58:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  35.63,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:13",
-                     "ultimo":  "11:26",
-                     "tv":  "02:44:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -591,6 +591,15 @@ window.PAINEL = {
                          "dur":  "00:36:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:48:47",
+                         "out":  "15:50:53",
+                         "km":  5.18,
+                         "dur":  "01:02:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
@@ -715,6 +724,15 @@ window.PAINEL = {
                          "out":  "13:32:33",
                          "km":  0.93,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
+                         "mun":  "PRADOPOLIS",
+                         "in":  "14:38:29",
+                         "out":  "15:47:53",
+                         "km":  17.44,
+                         "dur":  "01:09:00"
                      },
                      {
                          "nome":  "Luis",
@@ -940,6 +958,15 @@ window.PAINEL = {
                          "out":  "11:26:50",
                          "km":  1.3,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "K.L.H. SUPERMERCADO LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:00:37",
+                         "out":  "15:44:04",
+                         "km":  17.02,
+                         "dur":  "00:43:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1327,7 +1354,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:39:28"
+                        "tempo":  "07:54:42"
                     }
                 ],
     "semped":  [
@@ -1367,73 +1394,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "01:06:07"
+                         "tempo":  "01:21:11"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:11:24"
+                         "tempo":  "00:26:28"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:41"
+                         "tempo":  "00:32:45"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:47:01"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:50:19"
+                         "tempo":  "01:02:05"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:05:50"
+                         "tempo":  "01:20:54"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RECANTO EIRELI",
                          "mun":  "ORLANDIA",
-                         "tempo":  "00:09:06"
+                         "tempo":  "00:24:10"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
-                         "mun":  "PRADOPOLIS",
-                         "tempo":  "01:00:37"
+                         "nome":  "Sao Carlos",
+                         "razao":  "RN SUPERMERCADO LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:10:23"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:35:25"
+                         "tempo":  "01:50:29"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO JARDIM DOS CALEGARIS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:12:54"
+                         "tempo":  "01:27:58"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:06:06"
+                         "tempo":  "00:21:10"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "K.L.H. SUPERMERCADO LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:38:29"
+                         "nome":  "Mariangela",
+                         "razao":  "M. PEREIRA SUPERMERCADO EIRELI",
+                         "mun":  "SALESOPOLIS",
+                         "tempo":  "00:13:59"
                      }
                  ],
     "hist":  [
@@ -1544,7 +1571,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     83,
+                     86,
                      6
                  ]
              ],
@@ -12098,16 +12125,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  51.05,
-                                                       "tv":  356
+                                                       "km":  56.23,
+                                                       "tv":  418
                                                    },
                                                    {
                                                        "nome":  "Evandro",
@@ -12203,10 +12230,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  66.64,
-                                                       "tv":  234
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  84.08,
+                                                       "tv":  303
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -12272,6 +12299,15 @@ window.PAINEL = {
                                                        "tv":  304
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  52.65,
+                                                       "tv":  207
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -12288,15 +12324,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  33.34,
                                                        "tv":  298
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  35.63,
-                                                       "tv":  164
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -12494,6 +12521,13 @@ window.PAINEL = {
                                                          "tv":  36
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                                                         "p":  1,
+                                                         "km":  5.18,
+                                                         "tv":  62
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "SUPERMERCADO DELTA MAX LTDA",
                                                          "p":  1,
@@ -12590,6 +12624,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.93,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
+                                                         "p":  1,
+                                                         "km":  17.44,
+                                                         "tv":  69
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -12765,6 +12806,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.3,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "K.L.H. SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  17.02,
+                                                         "tv":  43
                                                      },
                                                      {
                                                          "n":  "Eugenio",
