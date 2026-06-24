@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  7.65,
+                     "visitas":  2,
+                     "km":  14.95,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
-                     "ultimo":  "07:37",
-                     "tv":  "00:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "08:47",
+                     "tv":  "01:36:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -400,6 +400,15 @@ window.PAINEL = {
                          "out":  "07:37:56",
                          "km":  7.32,
                          "dur":  "00:43:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "07:53:45",
+                         "out":  "08:47:27",
+                         "km":  7.3,
+                         "dur":  "00:53:00"
                      }
                  ],
     "eventos":  [
@@ -425,7 +434,7 @@ window.PAINEL = {
                         "obs":  "salesopolis",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:14"
+                        "tempo":  "01:03:13"
                     },
                     {
                         "nome":  "Eduardo",
@@ -433,7 +442,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:05"
+                        "tempo":  "00:54:04"
                     },
                     {
                         "nome":  "Maira",
@@ -441,7 +450,7 @@ window.PAINEL = {
                         "obs":  "acompanha filha P.S",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:23"
+                        "tempo":  "00:43:22"
                     }
                 ],
     "semped":  [
@@ -452,103 +461,97 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:24:00"
+                         "tempo":  "00:38:59"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:30:11"
+                         "tempo":  "01:45:10"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:02:45"
+                         "tempo":  "00:17:44"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:45:16"
+                         "tempo":  "02:00:15"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "01:23:57"
+                         "tempo":  "01:38:56"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "01:53:53"
+                         "tempo":  "02:08:52"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO SANTANA DE AMPARO LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:38:08"
+                         "tempo":  "00:53:07"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RETA ALIMENTOS LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:11:41"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADOS GRICKI LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:45:21"
+                         "tempo":  "00:26:40"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:37:14"
+                         "tempo":  "00:52:13"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SILVIO ANTONIO FRANZIN",
                          "mun":  "DESCALVADO",
-                         "tempo":  "00:18:01"
+                         "tempo":  "00:33:00"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:33:04"
+                         "tempo":  "00:48:03"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:15:16"
+                         "tempo":  "00:30:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:09:10"
+                         "tempo":  "00:24:09"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MAXBOM SUPERMERCADO RB LTDA",
                          "mun":  "ITAPEVA",
-                         "tempo":  "00:37:32"
+                         "tempo":  "00:52:31"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL RUZALEM LTDA",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:05:49"
+                         "tempo":  "00:20:48"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO L.S.B LTDA",
                          "mun":  "SALTINHO",
-                         "tempo":  "00:25:58"
+                         "tempo":  "00:40:57"
                      }
                  ],
     "hist":  [
@@ -659,7 +662,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     4,
+                     5,
                      0
                  ]
              ],
@@ -11213,7 +11216,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -11291,10 +11294,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  7.65,
-                                                       "tv":  43
+                                                       "km":  14.95,
+                                                       "tv":  96
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -11460,6 +11463,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.32,
                                                          "tv":  43
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1,
+                                                         "km":  7.3,
+                                                         "tv":  53
                                                      }
                                                  ]
                                      }

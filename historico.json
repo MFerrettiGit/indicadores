@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -10626,10 +10626,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  7.65,
-                                     "tv":  43
+                                     "km":  14.95,
+                                     "tv":  96
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -10795,6 +10795,13 @@
                                        "p":  1,
                                        "km":  7.32,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  7.3,
+                                       "tv":  53
                                    }
                                ]
                    }
