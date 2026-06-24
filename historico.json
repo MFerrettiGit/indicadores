@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10653,10 +10653,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  65.71,
-                                     "tv":  189
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  66.64,
+                                     "tv":  234
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -10963,6 +10963,13 @@
                                        "p":  1,
                                        "km":  18.78,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "LUCAS SUPERMERCADO DUMONT LTDA",
+                                       "p":  1,
+                                       "km":  0.93,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Luis",

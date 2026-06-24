@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:04",
                      "ultimo":  "12:50",
                      "tv":  "03:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -173,15 +173,15 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  65.71,
+                     "visitas":  4,
+                     "km":  66.64,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:04",
-                     "ultimo":  "12:40",
-                     "tv":  "03:09:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "13:32",
+                     "tv":  "03:54:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "12:31",
                      "tv":  "03:38:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "13:23",
                      "tv":  "03:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -616,6 +616,15 @@ window.PAINEL = {
                          "out":  "12:40:35",
                          "km":  18.78,
                          "dur":  "00:35:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "LUCAS SUPERMERCADO DUMONT LTDA",
+                         "mun":  "DUMONT",
+                         "in":  "12:47:05",
+                         "out":  "13:32:33",
+                         "km":  0.93,
+                         "dur":  "00:45:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1016,7 +1025,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:24:22"
+                        "tempo":  "05:39:23"
                     },
                     {
                         "nome":  "Evandro",
@@ -1024,7 +1033,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:52"
+                        "tempo":  "00:55:53"
                     },
                     {
                         "nome":  "Alan",
@@ -1032,7 +1041,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:01"
+                        "tempo":  "00:54:02"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1040,7 +1049,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:20"
+                        "tempo":  "00:46:21"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1048,7 +1057,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:33"
+                        "tempo":  "00:39:34"
                     },
                     {
                         "nome":  "Silmara",
@@ -1056,7 +1065,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:40"
+                        "tempo":  "00:38:41"
                     },
                     {
                         "nome":  "Costa",
@@ -1064,7 +1073,7 @@ window.PAINEL = {
                         "obs":  "",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:10"
+                        "tempo":  "00:33:11"
                     },
                     {
                         "nome":  "Luis",
@@ -1072,7 +1081,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:32"
+                        "tempo":  "00:32:33"
                     },
                     {
                         "nome":  "Cominato",
@@ -1080,7 +1089,23 @@ window.PAINEL = {
                         "obs":  "Digitar pedido defavari passado por email",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:23"
+                        "tempo":  "00:17:24"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:20"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:56"
                     }
                 ],
     "semped":  [
@@ -1114,55 +1139,61 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:15:33"
+                         "tempo":  "00:30:34"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "01:16:18"
+                         "tempo":  "01:31:19"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:03:40"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:32:04"
+                         "tempo":  "00:47:05"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:33:43"
+                         "tempo":  "00:48:44"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ABATEDOURO UNIAO LTDA",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:08:55"
+                         "tempo":  "00:23:56"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "LUCAS SUPERMERCADO DUMONT LTDA",
-                         "mun":  "DUMONT",
-                         "tempo":  "00:37:03"
+                         "nome":  "Karina",
+                         "razao":  "M. A. GRACHET MERCADO EIRELLI - EPP",
+                         "mun":  "UBATUBA",
+                         "tempo":  "00:10:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:07:21"
+                         "tempo":  "01:22:22"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:34:19"
+                         "tempo":  "01:49:20"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "A L PEREIRA SUPERMERCADO EIRELI",
                          "mun":  "BIRITIBA MIRIM",
-                         "tempo":  "00:30:48"
+                         "tempo":  "00:45:49"
                      }
                  ],
     "hist":  [
@@ -1273,7 +1304,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     59,
+                     60,
                      4
                  ]
              ],
@@ -11827,7 +11858,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -11932,10 +11963,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  65.71,
-                                                       "tv":  189
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  66.64,
+                                                       "tv":  234
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -12242,6 +12273,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  18.78,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "LUCAS SUPERMERCADO DUMONT LTDA",
+                                                         "p":  1,
+                                                         "km":  0.93,
+                                                         "tv":  45
                                                      },
                                                      {
                                                          "n":  "Luis",
