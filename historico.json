@@ -10548,8 +10548,17 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  39.4,
+                                     "tv":  225
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -10576,15 +10585,6 @@
                                      "pe":  0,
                                      "km":  66.51,
                                      "tv":  118
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  36.86,
-                                     "tv":  130
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -10659,6 +10659,15 @@
                                      "tv":  66
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  46.97,
+                                     "tv":  152
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -10666,15 +10675,6 @@
                                      "pe":  1,
                                      "km":  44.4,
                                      "tv":  72
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.03,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Luis",
@@ -10713,6 +10713,15 @@
                                      "tv":  123
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.33,
+                                     "tv":  141
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -10720,15 +10729,6 @@
                                      "pe":  1,
                                      "km":  26.74,
                                      "tv":  119
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  22.1,
-                                     "tv":  90
                                  },
                                  {
                                      "nome":  "Karina",
@@ -10895,6 +10895,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SILVIO ANTONIO FRANZIN",
+                                       "p":  1,
+                                       "km":  44.94,
+                                       "tv":  152
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -10935,6 +10942,13 @@
                                        "p":  1,
                                        "km":  21.91,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  1,
+                                       "km":  12.23,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Karina",
