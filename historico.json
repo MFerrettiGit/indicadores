@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10628,7 +10628,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  101.43,
+                                     "km":  122.43,
                                      "tv":  253
                                  },
                                  {
@@ -10650,6 +10650,15 @@
                                      "tv":  317
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  105.8,
+                                     "tv":  311
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -10666,15 +10675,6 @@
                                      "pe":  4,
                                      "km":  44.75,
                                      "tv":  360
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  102.14,
-                                     "tv":  272
                                  },
                                  {
                                      "nome":  "Luis",
@@ -10704,6 +10704,15 @@
                                      "tv":  283
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  73.41,
+                                     "tv":  306
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -10720,15 +10729,6 @@
                                      "pe":  3,
                                      "km":  55.21,
                                      "tv":  228
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  66.1,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -11224,6 +11224,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "VOLNEI ASSIS DE CARVALHO",
+                                       "p":  0,
+                                       "km":  3.66,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -11285,6 +11292,13 @@
                                        "p":  1,
                                        "km":  29.61,
                                        "tv":  140
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MODELO SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  7.31,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Cominato",

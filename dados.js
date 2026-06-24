@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -105,7 +105,7 @@ window.PAINEL = {
                      "primeiro":  "07:15",
                      "ultimo":  "15:32",
                      "tv":  "05:31:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  101.43,
+                     "km":  122.43,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  105.8,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:21",
+                     "ultimo":  "16:56",
+                     "tv":  "05:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -197,21 +212,6 @@ window.PAINEL = {
                      "tv":  "06:00:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  102.14,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:21",
-                     "ultimo":  "16:09",
-                     "tv":  "04:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  73.41,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:33",
+                     "ultimo":  "17:02",
+                     "tv":  "05:06:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -289,21 +304,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  66.1,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:33",
-                     "ultimo":  "12:31",
-                     "tv":  "03:38:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:59",
                      "ultimo":  "16:19",
                      "tv":  "04:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:29",
                      "ultimo":  "13:41",
                      "tv":  "04:53:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -951,6 +951,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "VOLNEI ASSIS DE CARVALHO",
+                         "mun":  "SAO CARLOS",
+                         "in":  "16:16:51",
+                         "out":  "16:56:29",
+                         "km":  3.66,
+                         "dur":  "00:39:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                          "mun":  "CAMPINAS",
@@ -1030,6 +1039,15 @@ window.PAINEL = {
                          "out":  "12:31:39",
                          "km":  29.61,
                          "dur":  "02:20:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "MODELO SUPERMERCADO LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "15:33:00",
+                         "out":  "17:02:12",
+                         "km":  7.31,
+                         "dur":  "01:28:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -1307,6 +1325,22 @@ window.PAINEL = {
                         "tempo":  "00:56:37"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "16:14",
+                        "final":  "16:56",
+                        "tempo":  "00:41:31"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "antonelli",
+                        "inicio":  "16:57",
+                        "final":  "17:00",
+                        "tempo":  "00:03:04"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a São Joaquim",
@@ -1480,15 +1514,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:54:32"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:40:05"
+                        "tempo":  "09:09:35"
                     },
                     {
                         "nome":  "Luis",
@@ -1496,7 +1522,15 @@ window.PAINEL = {
                         "obs":  "Orlandia a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:42"
+                        "tempo":  "00:21:45"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "big bom",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:14"
                     }
                 ],
     "semped":  [
@@ -1525,6 +1559,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Castro",
+                       "razao":  "MODELO SUPERMERCADO LTDA.",
+                       "mun":  "ITATIBA",
+                       "obs":  "visita merchandising"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
                        "mun":  "RIO DAS PEDRAS",
@@ -1541,32 +1581,44 @@ window.PAINEL = {
                        "razao":  "RN SUPERMERCADO LTDA",
                        "mun":  "SAO CARLOS",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "VOLNEI ASSIS DE CARVALHO",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:07:19"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:32"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "VOLNEI ASSIS DE CARVALHO",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:37:15"
+                         "tempo":  "00:16:30"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "02:50:25"
+                         "tempo":  "03:05:23"
                      },
                      {
-                         "nome":  "Castro",
-                         "razao":  "MODELO SUPERMERCADO LTDA.",
-                         "mun":  "ITATIBA",
-                         "tempo":  "01:21:06"
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCEARIA LOPES LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:09:27"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "PEREIRA E MAGALHAES COM.DE ALIM. LTDA-EP",
+                         "mun":  "SALESOPOLIS",
+                         "tempo":  "00:13:49"
                      }
                  ],
     "hist":  [
@@ -1677,8 +1729,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     100,
-                     8
+                     102,
+                     10
                  ]
              ],
     "historico":  {
@@ -12231,7 +12283,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12311,7 +12363,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  101.43,
+                                                       "km":  122.43,
                                                        "tv":  253
                                                    },
                                                    {
@@ -12333,6 +12385,15 @@ window.PAINEL = {
                                                        "tv":  317
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  105.8,
+                                                       "tv":  311
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -12349,15 +12410,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  44.75,
                                                        "tv":  360
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  102.14,
-                                                       "tv":  272
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -12387,6 +12439,15 @@ window.PAINEL = {
                                                        "tv":  283
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  73.41,
+                                                       "tv":  306
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -12403,15 +12464,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  55.21,
                                                        "tv":  228
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  66.1,
-                                                       "tv":  218
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -12907,6 +12959,13 @@ window.PAINEL = {
                                                          "tv":  25
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "VOLNEI ASSIS DE CARVALHO",
+                                                         "p":  0,
+                                                         "km":  3.66,
+                                                         "tv":  39
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                                          "p":  1,
@@ -12968,6 +13027,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  29.61,
                                                          "tv":  140
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "MODELO SUPERMERCADO LTDA.",
+                                                         "p":  0,
+                                                         "km":  7.31,
+                                                         "tv":  88
                                                      },
                                                      {
                                                          "n":  "Cominato",
