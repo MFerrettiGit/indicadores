@@ -10548,8 +10548,17 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  31.15,
+                                     "tv":  162
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -10585,15 +10594,6 @@
                                      "pe":  0,
                                      "km":  39.86,
                                      "tv":  93
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  29.97,
-                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -10653,10 +10653,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
+                                     "vi":  1,
+                                     "pe":  1,
                                      "km":  57.45,
-                                     "tv":  0
+                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -10698,10 +10698,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  35.01,
-                                     "tv":  45
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  35.86,
+                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10711,6 +10711,15 @@
                                      "pe":  1,
                                      "km":  1.83,
                                      "tv":  96
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  22.1,
+                                     "tv":  90
                                  },
                                  {
                                      "nome":  "Karina",
@@ -10728,15 +10737,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.19,
                                      "tv":  0
                                  },
                                  {
@@ -10774,6 +10774,13 @@
                                        "p":  1,
                                        "km":  29.97,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  1.18,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -10818,6 +10825,13 @@
                                        "tv":  103
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  106
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -10851,6 +10865,20 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "ZARELLI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0.85,
+                                       "tv":  18
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO L.S.B LTDA",
+                                       "p":  1,
+                                       "km":  21.91,
+                                       "tv":  90
                                    },
                                    {
                                        "n":  "Karina",
