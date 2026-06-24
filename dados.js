@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:59",
                      "ultimo":  "17:20",
                      "tv":  "04:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  21.88,
+                     "visitas":  2,
+                     "km":  48.2,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:57",
-                     "ultimo":  "11:11",
-                     "tv":  "02:14:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:35",
+                     "tv":  "05:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -1122,6 +1122,15 @@ window.PAINEL = {
                          "dur":  "02:14:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "in":  "14:03:41",
+                         "out":  "17:35:06",
+                         "km":  26.32,
+                         "dur":  "03:31:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -1541,7 +1550,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:24:37"
+                        "tempo":  "09:39:36"
                     },
                     {
                         "nome":  "Luis",
@@ -1549,7 +1558,7 @@ window.PAINEL = {
                         "obs":  "Orlandia a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:47"
+                        "tempo":  "00:51:46"
                     },
                     {
                         "nome":  "Rachel",
@@ -1557,7 +1566,7 @@ window.PAINEL = {
                         "obs":  "big bom",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:16"
+                        "tempo":  "00:39:15"
                     }
                 ],
     "semped":  [
@@ -1621,19 +1630,19 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO ARCO IRIS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:13:26"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "03:20:26"
+                         "tempo":  "00:28:23"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCEARIA LOPES LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:24:30"
+                         "tempo":  "00:39:27"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "M A COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SALESOPOLIS",
+                         "tempo":  "00:10:41"
                      }
                  ],
     "hist":  [
@@ -1744,7 +1753,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     105,
+                     106,
                      10
                  ]
              ],
@@ -12298,7 +12307,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12511,10 +12520,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  21.88,
-                                                       "tv":  134
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  48.2,
+                                                       "tv":  345
                                                    }
                                                ],
                                          "cli":  [
@@ -13105,6 +13114,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  21.88,
                                                          "tv":  134
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  26.32,
+                                                         "tv":  211
                                                      },
                                                      {
                                                          "n":  "Karina",

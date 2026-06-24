@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10761,10 +10761,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  21.88,
-                                     "tv":  134
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  48.2,
+                                     "tv":  345
                                  }
                              ],
                        "cli":  [
@@ -11355,6 +11355,13 @@
                                        "p":  1,
                                        "km":  21.88,
                                        "tv":  134
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  26.32,
+                                       "tv":  211
                                    },
                                    {
                                        "n":  "Karina",
