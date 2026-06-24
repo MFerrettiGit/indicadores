@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10644,10 +10644,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  68.87,
-                                     "tv":  164
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  72.63,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -10698,10 +10698,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  36.49,
-                                     "tv":  78
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  66.1,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10722,6 +10722,15 @@
                                      "tv":  164
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  61.42,
+                                     "tv":  161
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -10729,15 +10738,6 @@
                                      "pe":  1,
                                      "km":  28.55,
                                      "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  60.75,
-                                     "tv":  103
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -10916,6 +10916,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.76,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
                                        "p":  1,
@@ -11028,6 +11035,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "INFANGER",
+                                       "p":  1,
+                                       "km":  29.61,
+                                       "tv":  140
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO L.S.B LTDA",
                                        "p":  1,
@@ -11068,6 +11082,13 @@
                                        "p":  1,
                                        "km":  55.95,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "UBADESKLIMP - C0MERCIAL DISTRIBUIDORA LT",
+                                       "p":  1,
+                                       "km":  0.67,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Lucas",
