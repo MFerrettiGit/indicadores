@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10587,6 +10587,15 @@
                                      "tv":  348
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  67.31,
+                                     "tv":  331
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  73.82,
                                      "tv":  328
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  64.29,
-                                     "tv":  255
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10644,10 +10644,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  74.97,
-                                     "tv":  232
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  85.53,
+                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -10671,10 +10671,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  49.8,
-                                     "tv":  177
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  102.14,
+                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Luis",
@@ -10698,10 +10698,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  65.73,
-                                     "tv":  222
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  68.65,
+                                     "tv":  283
                                  },
                                  {
                                      "nome":  "Castro",
@@ -10722,6 +10722,24 @@
                                      "tv":  304
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  103.66,
+                                     "tv":  209
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  33.34,
+                                     "tv":  298
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -10738,24 +10756,6 @@
                                      "pe":  3,
                                      "km":  4.45,
                                      "tv":  293
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  79.37,
-                                     "tv":  184
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  28.55,
-                                     "tv":  211
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -10965,6 +10965,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  3.02,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -10998,6 +11005,13 @@
                                        "p":  1,
                                        "km":  2.34,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  10.56,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Fernando",
@@ -11119,6 +11133,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JBI E   PRESENTES LTDA",
+                                       "p":  1,
+                                       "km":  52.34,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "RIO DAS PEDRAS COM. DE HORTIF. MERC.LTDA",
                                        "p":  1,
@@ -11131,6 +11152,13 @@
                                        "p":  0,
                                        "km":  1.81,
                                        "tv":  92
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ARIEL SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  4.79,
+                                       "tv":  87
                                    },
                                    {
                                        "n":  "Castro",
@@ -11231,6 +11259,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "TOP STOP MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  2.92,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -11271,6 +11306,13 @@
                                        "p":  1,
                                        "km":  1.91,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "M A COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  24.29,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Nelson",
