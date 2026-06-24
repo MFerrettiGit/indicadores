@@ -10548,25 +10548,25 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  56.23,
-                                     "tv":  418
+                                     "km":  69.68,
+                                     "tv":  447
                                  },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  91.24,
-                                     "tv":  315
+                                     "km":  118.22,
+                                     "tv":  405
                                  },
                                  {
                                      "nome":  "Debora",
@@ -10590,10 +10590,19 @@
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  81.44,
+                                     "tv":  399
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  78.57,
-                                     "tv":  356
+                                     "km":  14.59,
+                                     "tv":  484
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  67.31,
                                      "tv":  331
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  8.82,
-                                     "tv":  366
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10644,10 +10644,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  85.53,
-                                     "tv":  274
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  100.18,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -10680,10 +10680,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  65.39,
-                                     "tv":  295
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  86.18,
+                                     "tv":  372
                                  },
                                  {
                                      "nome":  "Maira",
@@ -10702,6 +10702,15 @@
                                      "pe":  5,
                                      "km":  68.65,
                                      "tv":  283
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  62.57,
+                                     "tv":  441
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -10731,22 +10740,13 @@
                                      "tv":  247
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  62.1,
-                                     "tv":  304
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  33.34,
-                                     "tv":  298
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  45.08,
+                                     "tv":  349
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -10795,6 +10795,13 @@
                                        "p":  1,
                                        "km":  4.75,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "A.A.DE MELO",
+                                       "p":  1,
+                                       "km":  2.87,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Debora",
@@ -10888,6 +10895,13 @@
                                        "tv":  101
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  5.77,
+                                       "tv":  118
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -10921,6 +10935,13 @@
                                        "p":  1,
                                        "km":  9.37,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
+                                       "p":  1,
+                                       "km":  26.98,
+                                       "tv":  90
                                    },
                                    {
                                        "n":  "Silmara",
@@ -10963,6 +10984,13 @@
                                        "p":  1,
                                        "km":  5.18,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  1,
+                                       "km":  13.45,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -11035,6 +11063,13 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  14.65,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
                                        "p":  1,
@@ -11082,6 +11117,13 @@
                                        "p":  1,
                                        "km":  2.38,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO RECANTO EIRELI",
+                                       "p":  1,
+                                       "km":  20.79,
+                                       "tv":  77
                                    },
                                    {
                                        "n":  "Milene",
@@ -11201,6 +11243,13 @@
                                        "p":  0,
                                        "km":  4.79,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO JARDIM DOS CALEGARIS LTDA",
+                                       "p":  1,
+                                       "km":  11.74,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Castro",
@@ -11404,6 +11453,13 @@
                                        "p":  1,
                                        "km":  0.45,
                                        "tv":  149
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  0.47,
+                                       "tv":  137
                                    }
                                ]
                    }
