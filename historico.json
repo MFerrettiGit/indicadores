@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10569,6 +10569,15 @@
                                      "tv":  315
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  112.86,
+                                     "tv":  317
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -10576,15 +10585,6 @@
                                      "pe":  0,
                                      "km":  34.4,
                                      "tv":  348
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  78.59,
-                                     "tv":  232
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -10680,10 +10680,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  63.01,
-                                     "tv":  264
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  65.39,
+                                     "tv":  295
                                  },
                                  {
                                      "nome":  "Maira",
@@ -10844,6 +10844,13 @@
                                        "p":  1,
                                        "km":  3.59,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  34.27,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Eliana",
@@ -11026,6 +11033,13 @@
                                        "p":  1,
                                        "km":  63.01,
                                        "tv":  264
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "JW SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  2.38,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Milene",

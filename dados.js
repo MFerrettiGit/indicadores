@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  112.86,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:04",
+                     "ultimo":  "15:01",
+                     "tv":  "05:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
@@ -45,21 +60,6 @@ window.PAINEL = {
                      "primeiro":  "06:58",
                      "ultimo":  "14:12",
                      "tv":  "05:48:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  78.59,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:04",
-                     "ultimo":  "12:50",
-                     "tv":  "03:52:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "13:52",
                      "tv":  "05:28:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Vinicius",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:36",
                      "tv":  "03:52:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  63.01,
+                     "visitas":  2,
+                     "km":  65.39,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:27",
-                     "ultimo":  "12:51",
-                     "tv":  "04:24:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:58",
+                     "tv":  "04:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "11:26",
                      "tv":  "02:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -463,6 +463,15 @@ window.PAINEL = {
                          "out":  "12:50:23",
                          "km":  3.59,
                          "dur":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAPIVARI",
+                         "in":  "13:35:29",
+                         "out":  "15:01:23",
+                         "km":  34.27,
+                         "dur":  "01:25:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -697,6 +706,15 @@ window.PAINEL = {
                          "out":  "12:51:53",
                          "km":  63.01,
                          "dur":  "04:24:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "JW SUPERMERCADO LTDA.",
+                         "mun":  "SAO JOAQUIM DA",
+                         "in":  "14:26:52",
+                         "out":  "14:58:52",
+                         "km":  2.38,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Milene",
@@ -1129,6 +1147,14 @@ window.PAINEL = {
                         "tempo":  "00:59:09"
                     },
                     {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:04",
+                        "final":  "15:09",
+                        "tempo":  "01:04:21"
+                    },
+                    {
                         "nome":  "Evandro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1238,15 +1264,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:54:32"
-                    },
-                    {
-                        "nome":  "Aline",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:11"
+                        "tempo":  "07:09:38"
                     }
                 ],
     "semped":  [
@@ -1280,85 +1298,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:21:12"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "CAPIVARI",
-                         "tempo":  "01:18:42"
+                         "tempo":  "00:36:16"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:02:06"
+                         "tempo":  "00:17:10"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:38:01"
+                         "tempo":  "00:53:05"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:05:24"
+                         "tempo":  "00:20:28"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "00:20:55"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "JW SUPERMERCADO LTDA.",
-                         "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:27:19"
+                         "tempo":  "00:35:59"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:05:49"
+                         "tempo":  "00:20:53"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "COJIBA SUPERMERCADOS DE PRADOPOLIS LTDA",
                          "mun":  "PRADOPOLIS",
-                         "tempo":  "00:15:42"
+                         "tempo":  "00:30:46"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "tempo":  "00:14:00"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JBI E   PRESENTES LTDA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:26:55"
+                         "tempo":  "00:41:59"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:50:30"
+                         "tempo":  "01:05:34"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ARIEL SUPERMERCADO LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:55:54"
+                         "tempo":  "01:10:58"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "TOP STOP MERCADO LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:21:59"
+                         "tempo":  "00:37:03"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "00:27:59"
+                         "tempo":  "00:43:03"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "K.L.H. SUPERMERCADO LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:08:38"
                      }
                  ],
     "hist":  [
@@ -1469,7 +1487,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     74,
+                     76,
                      5
                  ]
              ],
@@ -12023,7 +12041,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12044,6 +12062,15 @@ window.PAINEL = {
                                                        "tv":  315
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  112.86,
+                                                       "tv":  317
+                                                   },
+                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
@@ -12051,15 +12078,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  34.4,
                                                        "tv":  348
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  78.59,
-                                                       "tv":  232
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -12155,10 +12173,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  63.01,
-                                                       "tv":  264
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  65.39,
+                                                       "tv":  295
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -12319,6 +12337,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.59,
                                                          "tv":  47
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  34.27,
+                                                         "tv":  85
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -12501,6 +12526,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  63.01,
                                                          "tv":  264
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "JW SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.38,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Milene",
