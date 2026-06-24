@@ -10548,8 +10548,17 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  39.86,
+                                     "tv":  93
+                                 },
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
@@ -10580,15 +10589,6 @@
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -10668,8 +10668,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -10686,8 +10686,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -10731,15 +10731,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -10754,12 +10745,21 @@
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  35.01,
                                      "tv":  0
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -10781,6 +10781,13 @@
                                        "p":  1,
                                        "km":  51.7,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  39.86,
+                                       "tv":  93
                                    },
                                    {
                                        "n":  "Milene",
