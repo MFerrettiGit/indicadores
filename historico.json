@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10659,6 +10659,15 @@
                                      "tv":  303
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  44.75,
+                                     "tv":  360
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -10666,15 +10675,6 @@
                                      "pe":  3,
                                      "km":  102.14,
                                      "tv":  272
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  41.32,
-                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Luis",
@@ -10704,6 +10704,15 @@
                                      "tv":  283
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  55.21,
+                                     "tv":  228
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -10713,6 +10722,15 @@
                                      "tv":  218
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  104.12,
+                                     "tv":  247
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -10720,24 +10738,6 @@
                                      "pe":  4,
                                      "km":  62.1,
                                      "tv":  304
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  52.65,
-                                     "tv":  207
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  103.66,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11140,6 +11140,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "DAVID BARBOSA SUPERMERCADO - EPP.",
+                                       "p":  1,
+                                       "km":  3.43,
+                                       "tv":  101
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SILVIO ANTONIO FRANZIN",
                                        "p":  1,
@@ -11252,6 +11259,13 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "BALAN SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  2.56,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "MARCIA RENATA CATROQUE - ME.",
                                        "p":  1,
@@ -11348,6 +11362,13 @@
                                        "p":  1,
                                        "km":  24.29,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "M. PEREIRA SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  0.46,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Nelson",
