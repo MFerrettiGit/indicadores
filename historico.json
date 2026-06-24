@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10587,6 +10587,15 @@
                                      "tv":  285
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  73.82,
+                                     "tv":  328
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -10594,15 +10603,6 @@
                                      "pe":  0,
                                      "km":  7.14,
                                      "tv":  265
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  72.4,
-                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -10695,6 +10695,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  65.73,
+                                     "tv":  222
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -10702,15 +10711,6 @@
                                      "pe":  4,
                                      "km":  66.1,
                                      "tv":  218
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  64.81,
-                                     "tv":  201
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -10731,6 +10731,24 @@
                                      "tv":  164
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  4.45,
+                                     "tv":  293
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  79.37,
+                                     "tv":  184
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -10738,24 +10756,6 @@
                                      "pe":  1,
                                      "km":  28.55,
                                      "tv":  211
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  2.55,
-                                     "tv":  210
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  77.46,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -10781,6 +10781,13 @@
                                        "p":  1,
                                        "km":  22.84,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
+                                       "p":  1,
+                                       "km":  1.42,
+                                       "tv":  104
                                    },
                                    {
                                        "n":  "Debora",
@@ -11140,6 +11147,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "M. A. GRACHET MERCADO EIRELLI - EPP",
+                                       "p":  1,
+                                       "km":  0.92,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "CATO ANTONIALE",
                                        "p":  1,
@@ -11154,6 +11168,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO BANDEIRA JLS LTDA",
+                                       "p":  1,
+                                       "km":  1.9,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "A A RIBEIRO SUPERMERCADO EIRELI",
                                        "p":  1,
@@ -11166,6 +11187,13 @@
                                        "p":  1,
                                        "km":  43.38,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "A L PEREIRA SUPERMERCADO EIRELI",
+                                       "p":  1,
+                                       "km":  1.91,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Nelson",
