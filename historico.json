@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10587,6 +10587,15 @@
                                      "tv":  348
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  78.57,
+                                     "tv":  356
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -10603,15 +10612,6 @@
                                      "pe":  0,
                                      "km":  8.82,
                                      "tv":  366
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  73.82,
-                                     "tv":  328
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -10659,6 +10659,15 @@
                                      "tv":  303
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  102.14,
+                                     "tv":  272
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -10666,15 +10675,6 @@
                                      "pe":  3,
                                      "km":  41.32,
                                      "tv":  259
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  102.14,
-                                     "tv":  247
                                  },
                                  {
                                      "nome":  "Luis",
@@ -10788,6 +10788,13 @@
                                        "p":  1,
                                        "km":  1.42,
                                        "tv":  104
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  4.75,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Debora",
@@ -11152,6 +11159,13 @@
                                        "p":  1,
                                        "km":  52.34,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "RN SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Alan",

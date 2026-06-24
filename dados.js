@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -64,6 +64,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  78.57,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:08",
+                     "ultimo":  "15:56",
+                     "tv":  "05:56:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "14:34",
                      "tv":  "06:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  73.82,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:08",
-                     "ultimo":  "13:52",
-                     "tv":  "05:28:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "15:38",
                      "tv":  "04:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  102.14,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:21",
+                     "ultimo":  "16:09",
+                     "tv":  "04:32:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -195,21 +210,6 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "14:21",
                      "tv":  "04:19:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  102.14,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:21",
-                     "ultimo":  "15:38",
-                     "tv":  "04:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:13",
                      "ultimo":  "15:44",
                      "tv":  "03:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -391,6 +391,15 @@ window.PAINEL = {
                          "out":  "13:52:43",
                          "km":  1.42,
                          "dur":  "01:44:00"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "NOVA ODESSA",
+                         "in":  "15:27:42",
+                         "out":  "15:56:29",
+                         "km":  4.75,
+                         "dur":  "00:28:00"
                      },
                      {
                          "nome":  "Debora",
@@ -859,6 +868,15 @@ window.PAINEL = {
                          "out":  "15:38:20",
                          "km":  52.34,
                          "dur":  "01:10:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "RN SUPERMERCADO LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:43:47",
+                         "out":  "16:09:04",
+                         "km":  0,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1354,7 +1372,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:54:42"
+                        "tempo":  "08:09:42"
                     }
                 ],
     "semped":  [
@@ -1387,6 +1405,12 @@ window.PAINEL = {
                        "razao":  "M. B. NASTARO SUPERMERCADOS LTDA",
                        "mun":  "RIO DAS PEDRAS",
                        "obs":  "levantamento"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "RN SUPERMERCADO LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
@@ -1394,73 +1418,79 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "01:21:11"
+                         "tempo":  "01:36:11"
                      },
                      {
                          "nome":  "Aline",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:26:28"
+                         "tempo":  "00:01:50"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:32:45"
+                         "tempo":  "00:47:45"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:02:05"
+                         "tempo":  "01:17:05"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "DAVID BARBOSA SUPERMERCADO - EPP.",
                          "mun":  "ITAPIRA",
-                         "tempo":  "01:20:54"
+                         "tempo":  "01:35:54"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO RECANTO EIRELI",
                          "mun":  "ORLANDIA",
-                         "tempo":  "00:24:10"
+                         "tempo":  "00:39:10"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "RN SUPERMERCADO LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:10:23"
+                         "nome":  "Costa",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:10:16"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:50:29"
+                         "tempo":  "02:05:29"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO JARDIM DOS CALEGARIS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:03:43"
+                         "tempo":  "00:18:43"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:27:58"
+                         "tempo":  "01:42:58"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MODELO SUPERMERCADO LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:21:10"
+                         "tempo":  "00:36:10"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "BALAN SUPERMERCADO LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:11:55"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "M. PEREIRA SUPERMERCADO EIRELI",
                          "mun":  "SALESOPOLIS",
-                         "tempo":  "00:13:59"
+                         "tempo":  "00:28:59"
                      }
                  ],
     "hist":  [
@@ -1571,8 +1601,8 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     86,
-                     6
+                     88,
+                     7
                  ]
              ],
     "historico":  {
@@ -12125,7 +12155,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12164,6 +12194,15 @@ window.PAINEL = {
                                                        "tv":  348
                                                    },
                                                    {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  78.57,
+                                                       "tv":  356
+                                                   },
+                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
@@ -12180,15 +12219,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.82,
                                                        "tv":  366
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  73.82,
-                                                       "tv":  328
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -12236,6 +12266,15 @@ window.PAINEL = {
                                                        "tv":  303
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  102.14,
+                                                       "tv":  272
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -12243,15 +12282,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  41.32,
                                                        "tv":  259
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  102.14,
-                                                       "tv":  247
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -12365,6 +12395,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.42,
                                                          "tv":  104
+                                                     },
+                                                     {
+                                                         "n":  "Aline",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.75,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Debora",
@@ -12729,6 +12766,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  52.34,
                                                          "tv":  70
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "RN SUPERMERCADO LTDA",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Alan",
