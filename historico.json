@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Debora",
@@ -10626,10 +10626,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  14.95,
-                                     "tv":  96
+                                     "km":  39.59,
+                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -10659,6 +10659,15 @@
                                      "tv":  106
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  44.4,
+                                     "tv":  72
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -10670,15 +10679,6 @@
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -10707,10 +10707,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.83,
-                                     "tv":  96
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  5.49,
+                                     "tv":  123
                                  },
                                  {
                                      "nome":  "Alan",
@@ -10839,6 +10839,13 @@
                                        "tv":  106
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO RICOBELO LTDA - EPP",
+                                       "p":  1,
+                                       "km":  44.4,
+                                       "tv":  72
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -10851,6 +10858,13 @@
                                        "p":  1,
                                        "km":  7.3,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  24.64,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Rachel",
@@ -10914,6 +10928,13 @@
                                        "p":  1,
                                        "km":  1.83,
                                        "tv":  96
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  1,
+                                       "km":  3.66,
+                                       "tv":  27
                                    }
                                ]
                    }
