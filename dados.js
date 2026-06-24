@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "24/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "11:59",
                      "tv":  "03:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  64.81,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:23",
+                     "ultimo":  "13:23",
+                     "tv":  "03:21:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -287,21 +302,6 @@ window.PAINEL = {
                      "tv":  "02:44:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  61.42,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:23",
-                     "ultimo":  "12:33",
-                     "tv":  "02:41:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -825,6 +825,15 @@ window.PAINEL = {
                          "dur":  "00:58:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SUELI A. FELINTO DOS SANTOS- ME.",
+                         "mun":  "UBATUBA",
+                         "in":  "12:43:34",
+                         "out":  "13:23:55",
+                         "km":  3.39,
+                         "dur":  "00:40:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
@@ -930,6 +939,14 @@ window.PAINEL = {
                         "tempo":  "00:54:51"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:10",
+                        "final":  "13:11",
+                        "tempo":  "01:00:51"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -999,15 +1016,7 @@ window.PAINEL = {
                         "obs":  "consulta médica- Filha",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:09:22"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:59:36"
+                        "tempo":  "05:24:22"
                     },
                     {
                         "nome":  "Evandro",
@@ -1015,7 +1024,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:52"
+                        "tempo":  "00:40:52"
                     },
                     {
                         "nome":  "Alan",
@@ -1023,7 +1032,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:01"
+                        "tempo":  "00:39:01"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1031,7 +1040,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:20"
+                        "tempo":  "00:31:20"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1039,7 +1048,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:33"
+                        "tempo":  "00:24:33"
                     },
                     {
                         "nome":  "Silmara",
@@ -1047,7 +1056,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:40"
+                        "tempo":  "00:23:40"
                     },
                     {
                         "nome":  "Costa",
@@ -1055,7 +1064,7 @@ window.PAINEL = {
                         "obs":  "",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:10"
+                        "tempo":  "00:18:10"
                     },
                     {
                         "nome":  "Luis",
@@ -1063,7 +1072,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:32"
+                        "tempo":  "00:17:32"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Digitar pedido defavari passado por email",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:23"
                     }
                 ],
     "semped":  [
@@ -1097,55 +1114,55 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:00:34"
+                         "tempo":  "00:15:33"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "01:01:19"
+                         "tempo":  "01:16:18"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:17:05"
+                         "tempo":  "00:32:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:18:44"
+                         "tempo":  "00:33:43"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ABATEDOURO UNIAO LTDA",
+                         "mun":  "ITAPIRA",
+                         "tempo":  "00:08:55"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "LUCAS SUPERMERCADO DUMONT LTDA",
                          "mun":  "DUMONT",
-                         "tempo":  "00:22:04"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "SUELI A. FELINTO DOS SANTOS- ME.",
-                         "mun":  "UBATUBA",
-                         "tempo":  "00:25:35"
+                         "tempo":  "00:37:03"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO BANDEIRA JLS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:52:22"
+                         "tempo":  "01:07:21"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITARARE",
-                         "tempo":  "01:19:20"
+                         "tempo":  "01:34:19"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "A L PEREIRA SUPERMERCADO EIRELI",
                          "mun":  "BIRITIBA MIRIM",
-                         "tempo":  "00:15:49"
+                         "tempo":  "00:30:48"
                      }
                  ],
     "hist":  [
@@ -1256,7 +1273,7 @@ window.PAINEL = {
                  ],
                  [
                      "24/06",
-                     58,
+                     59,
                      4
                  ]
              ],
@@ -11810,7 +11827,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-24":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -11966,6 +11983,15 @@ window.PAINEL = {
                                                        "tv":  218
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  64.81,
+                                                       "tv":  201
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -11982,15 +12008,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  35.63,
                                                        "tv":  164
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  61.42,
-                                                       "tv":  161
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -12386,6 +12403,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.67,
                                                          "tv":  58
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SUELI A. FELINTO DOS SANTOS- ME.",
+                                                         "p":  1,
+                                                         "km":  3.39,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Lucas",

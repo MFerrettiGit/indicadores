@@ -10548,7 +10548,7 @@
                                ]
                    },
     "2026-06-24":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -10704,6 +10704,15 @@
                                      "tv":  218
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  64.81,
+                                     "tv":  201
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -10720,15 +10729,6 @@
                                      "pe":  2,
                                      "km":  35.63,
                                      "tv":  164
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  61.42,
-                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11124,6 +11124,13 @@
                                        "p":  1,
                                        "km":  0.67,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SUELI A. FELINTO DOS SANTOS- ME.",
+                                       "p":  1,
+                                       "km":  3.39,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Lucas",
