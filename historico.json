@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11674,6 +11674,15 @@
                                      "tv":  193
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  35,
+                                     "tv":  312
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -11683,6 +11692,15 @@
                                      "tv":  289
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  49.62,
+                                     "tv":  302
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -11690,24 +11708,6 @@
                                      "pe":  5,
                                      "km":  30.66,
                                      "tv":  171
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  33.89,
-                                     "tv":  297
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  23.51,
-                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Alan",
@@ -12224,6 +12224,13 @@
                                        "tv":  88
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "BALTIERI BALTIERI",
+                                       "p":  0,
+                                       "km":  1.11,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "MARCIA RENATA CATROQUE - ME.",
                                        "p":  1,
@@ -12250,6 +12257,13 @@
                                        "p":  1,
                                        "km":  0.92,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  26.11,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Karina",

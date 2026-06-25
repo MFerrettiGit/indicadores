@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "15:34",
                      "tv":  "05:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -31,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "15:08",
                      "tv":  "05:17:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Debora",
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "15:37",
                      "tv":  "05:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "15:35",
                      "tv":  "05:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "11:16",
                      "tv":  "02:50:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -240,6 +240,21 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "12:05",
                      "tv":  "03:13:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  35,
+                     "semPed":  4,
+                     "perc":  80,
+                     "primeiro":  "08:02",
+                     "ultimo":  "15:40",
+                     "tv":  "05:12:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -259,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  49.62,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:32",
+                     "ultimo":  "15:49",
+                     "tv":  "05:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -270,36 +300,6 @@ window.PAINEL = {
                      "primeiro":  "08:43",
                      "ultimo":  "15:37",
                      "tv":  "02:51:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  33.89,
-                     "semPed":  3,
-                     "perc":  75,
-                     "primeiro":  "08:02",
-                     "ultimo":  "15:06",
-                     "tv":  "04:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  23.51,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:32",
-                     "ultimo":  "12:16",
-                     "tv":  "03:28:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -360,8 +360,8 @@ window.PAINEL = {
                      "primeiro":  "09:20",
                      "ultimo":  "14:53",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -978,6 +978,15 @@ window.PAINEL = {
                          "dur":  "01:28:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "BALTIERI BALTIERI",
+                         "mun":  "SAO PEDRO",
+                         "in":  "15:25:11",
+                         "out":  "15:40:49",
+                         "km":  1.11,
+                         "dur":  "00:15:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "MARCIA RENATA CATROQUE - ME.",
                          "mun":  "JARINU",
@@ -1012,6 +1021,15 @@ window.PAINEL = {
                          "out":  "12:16:19",
                          "km":  0.92,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "in":  "14:14:51",
+                         "out":  "15:49:04",
+                         "km":  26.11,
+                         "dur":  "01:34:00"
                      },
                      {
                          "nome":  "Karina",
@@ -1244,6 +1262,14 @@ window.PAINEL = {
                         "tempo":  "00:54:15"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Capão Bonito a Itapetininga",
+                        "inicio":  "14:55",
+                        "final":  "15:46",
+                        "tempo":  "00:50:16"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
@@ -1369,7 +1395,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:41:14"
+                        "tempo":  "07:56:32"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1377,15 +1403,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:38:33"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Capão Bonito a Itapetininga",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:44:13"
+                        "tempo":  "07:53:51"
                     },
                     {
                         "nome":  "Aline",
@@ -1393,7 +1411,23 @@ window.PAINEL = {
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:31"
+                        "tempo":  "00:19:49"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:17"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Aidan Bonomi",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:10"
                     }
                 ],
     "semped":  [
@@ -1452,6 +1486,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "BALTIERI BALTIERI",
+                       "mun":  "SAO PEDRO",
+                       "obs":  "Levantamento"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "IRMAOS OPINI LTDA-EPP.",
                        "mun":  "RIBEIRAO BONITO",
@@ -1460,58 +1500,88 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:11:40"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:11:03"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:56:07"
+                         "tempo":  "02:11:13"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "tempo":  "00:00:48"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:02:09"
+                         "tempo":  "02:17:15"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:32:27"
+                         "tempo":  "00:47:33"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
+                         "mun":  "TAQUARITINGA",
+                         "tempo":  "00:14:55"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "OPINI",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:27:52"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "01:24:21"
+                         "tempo":  "00:42:58"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:06:50"
+                         "tempo":  "01:21:56"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "00:25:10"
+                         "tempo":  "00:40:16"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:28"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:29:39"
+                         "tempo":  "00:44:45"
                      },
                      {
                          "nome":  "Cominato",
-                         "razao":  "BALTIERI BALTIERI",
+                         "razao":  "BALTIERI BALTIERI E CIA LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:14:01"
+                         "tempo":  "00:05:21"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIN LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:07:59"
                      }
                  ],
     "hist":  [
@@ -1622,8 +1692,8 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     89,
-                     11
+                     91,
+                     12
                  ]
              ],
     "historico":  {
@@ -13155,7 +13225,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13302,6 +13372,15 @@ window.PAINEL = {
                                                        "tv":  193
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  1,
+                                                       "km":  35,
+                                                       "tv":  312
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -13311,6 +13390,15 @@ window.PAINEL = {
                                                        "tv":  289
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  49.62,
+                                                       "tv":  302
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -13318,24 +13406,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  30.66,
                                                        "tv":  171
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  1,
-                                                       "km":  33.89,
-                                                       "tv":  297
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  23.51,
-                                                       "tv":  208
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -13852,6 +13922,13 @@ window.PAINEL = {
                                                          "tv":  88
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "BALTIERI BALTIERI",
+                                                         "p":  0,
+                                                         "km":  1.11,
+                                                         "tv":  15
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "MARCIA RENATA CATROQUE - ME.",
                                                          "p":  1,
@@ -13878,6 +13955,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.92,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                                         "p":  1,
+                                                         "km":  26.11,
+                                                         "tv":  94
                                                      },
                                                      {
                                                          "n":  "Karina",
