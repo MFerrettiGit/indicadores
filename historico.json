@@ -11527,16 +11527,16 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  89.45,
-                                     "tv":  338
+                                     "km":  92.04,
+                                     "tv":  407
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -11557,6 +11557,15 @@
                                      "tv":  317
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  65.16,
+                                     "tv":  474
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -11564,15 +11573,6 @@
                                      "pe":  0,
                                      "km":  53.16,
                                      "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  53.06,
-                                     "tv":  286
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -11650,10 +11650,19 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  4,
-                                     "km":  77.09,
-                                     "tv":  236
+                                     "km":  116.37,
+                                     "tv":  266
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  4.04,
+                                     "tv":  387
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11665,15 +11674,6 @@
                                      "tv":  170
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  3.46,
-                                     "tv":  193
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11681,6 +11681,15 @@
                                      "pe":  1,
                                      "km":  36.22,
                                      "tv":  327
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  54.09,
+                                     "tv":  339
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -11701,13 +11710,13 @@
                                      "tv":  289
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  49.62,
-                                     "tv":  302
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  14.2,
+                                     "tv":  417
                                  },
                                  {
                                      "nome":  "Karina",
@@ -11717,15 +11726,6 @@
                                      "pe":  4,
                                      "km":  74.11,
                                      "tv":  355
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  13.38,
-                                     "tv":  287
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -11853,6 +11853,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  12.1,
+                                       "tv":  188
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -11893,6 +11900,13 @@
                                        "p":  1,
                                        "km":  3.41,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  2.59,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Silmara",
@@ -11963,6 +11977,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "COMERCIO DE PROD. ALIM. ZACCARIOTTO LTDA",
+                                       "p":  0,
+                                       "km":  39.28,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Fernando",
@@ -12112,6 +12133,13 @@
                                        "tv":  132
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B.A. BARBOSA SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  0.58,
+                                       "tv":  194
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "OPINI SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -12180,6 +12208,13 @@
                                        "p":  1,
                                        "km":  4.42,
                                        "tv":  96
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                       "p":  0,
+                                       "km":  0.82,
+                                       "tv":  130
                                    },
                                    {
                                        "n":  "Castro",
@@ -12292,6 +12327,13 @@
                                        "p":  1,
                                        "km":  26.11,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                                       "p":  0,
+                                       "km":  4.47,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Karina",
