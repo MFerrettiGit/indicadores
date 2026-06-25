@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11548,6 +11548,15 @@
                                      "tv":  226
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  24.54,
+                                     "tv":  135
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -11566,15 +11575,6 @@
                                      "tv":  250
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  21.11,
-                                     "tv":  99
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -11584,21 +11584,21 @@
                                      "tv":  107
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.92,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11683,6 +11683,15 @@
                                      "tv":  65
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  23.51,
+                                     "tv":  208
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11690,15 +11699,6 @@
                                      "pe":  0,
                                      "km":  33.51,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  22.59,
-                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11795,6 +11795,13 @@
                                        "p":  1,
                                        "km":  1.22,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  3.43,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Eliana",
@@ -12047,6 +12054,13 @@
                                        "p":  1,
                                        "km":  0.55,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO-COMERCIO ATACADISTA E VAREJISTA LT",
+                                       "p":  1,
+                                       "km":  0.92,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Karina",
