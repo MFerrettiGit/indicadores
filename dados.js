@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:22",
                      "ultimo":  "12:43",
                      "tv":  "04:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "12:12",
                      "tv":  "02:15:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "12:50",
                      "tv":  "04:09:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alex A.",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  13.38,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:01",
+                     "ultimo":  "13:10",
+                     "tv":  "04:47:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -286,21 +301,21 @@ window.PAINEL = {
                      "ultimo":  "12:07",
                      "tv":  "03:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  8.96,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:01",
-                     "ultimo":  "11:23",
-                     "tv":  "03:11:00",
-                     "emVisita":  1,
+                     "visitas":  3,
+                     "km":  21.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:43",
+                     "ultimo":  "13:14",
+                     "tv":  "02:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -316,21 +331,6 @@ window.PAINEL = {
                      "ultimo":  "13:04",
                      "tv":  "04:04:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  14.33,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:43",
-                     "ultimo":  "10:29",
-                     "tv":  "01:15:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -735,6 +735,15 @@ window.PAINEL = {
                          "dur":  "01:07:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "MARCIANO BERTUZZI",
+                         "mun":  "CAMPINAS",
+                         "in":  "11:33:33",
+                         "out":  "13:10:32",
+                         "km":  4.42,
+                         "dur":  "01:36:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "MERCADO SAO JOSE DOMINGOS LTDA",
                          "mun":  "CAMPO LIMPO PAU",
@@ -879,6 +888,15 @@ window.PAINEL = {
                          "dur":  "00:58:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "F.T.J SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "12:12:30",
+                         "out":  "13:14:29",
+                         "km":  7.04,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
@@ -946,6 +964,14 @@ window.PAINEL = {
                         "tempo":  "01:05:19"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:16",
+                        "final":  "13:16",
+                        "tempo":  "01:00:21"
+                    },
+                    {
                         "nome":  "Aline",
                         "tipo":  "Outro",
                         "obs":  "pneus furado",
@@ -960,6 +986,14 @@ window.PAINEL = {
                         "inicio":  "11:28",
                         "final":  "12:29",
                         "tempo":  "01:01:04"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:18",
+                        "final":  "13:11",
+                        "tempo":  "00:52:40"
                     },
                     {
                         "nome":  "Vinicius",
@@ -991,7 +1025,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:11:01"
+                        "tempo":  "05:26:07"
                     },
                     {
                         "nome":  "Eduardo",
@@ -999,23 +1033,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:08:20"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:30"
-                    },
-                    {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:22"
+                        "tempo":  "05:23:26"
                     },
                     {
                         "nome":  "Rachel",
@@ -1023,7 +1041,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:45"
+                        "tempo":  "00:52:51"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1031,7 +1049,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:04"
+                        "tempo":  "00:46:10"
                     },
                     {
                         "nome":  "Eliana",
@@ -1039,7 +1057,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:59"
+                        "tempo":  "00:44:05"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1047,7 +1065,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:51"
+                        "tempo":  "00:38:57"
                     },
                     {
                         "nome":  "Costa",
@@ -1055,7 +1073,7 @@ window.PAINEL = {
                         "obs":  "",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:16"
+                        "tempo":  "00:33:22"
                     },
                     {
                         "nome":  "Maira",
@@ -1063,7 +1081,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:07"
+                        "tempo":  "00:28:13"
                     },
                     {
                         "nome":  "Fernando",
@@ -1071,7 +1089,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:21"
+                        "tempo":  "00:26:27"
                     },
                     {
                         "nome":  "Nelson",
@@ -1079,7 +1097,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:18"
+                        "tempo":  "00:26:24"
+                    },
+                    {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:24"
                     }
                 ],
     "semped":  [
@@ -1137,37 +1163,31 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
                          "mun":  "SUMARE",
-                         "tempo":  "01:09:35"
+                         "tempo":  "01:24:38"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "VINHEDO",
-                         "tempo":  "00:28:00"
+                         "tempo":  "00:43:03"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "MARCIANO BERTUZZI",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:35:36"
+                         "nome":  "Silmara",
+                         "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:12:09"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:22:46"
+                         "tempo":  "00:37:49"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "03:20:40"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "F.T.J SUPERMERCADOS LTDA",
-                         "mun":  "JACAREI",
-                         "tempo":  "00:56:39"
+                         "tempo":  "03:35:43"
                      }
                  ],
     "hist":  [
@@ -1278,7 +1298,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     61,
+                     63,
                      8
                  ]
              ],
@@ -12811,7 +12831,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -12976,6 +12996,15 @@ window.PAINEL = {
                                                        "tv":  208
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  13.38,
+                                                       "tv":  287
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -12985,13 +13014,13 @@ window.PAINEL = {
                                                        "tv":  209
                                                    },
                                                    {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  8.96,
-                                                       "tv":  191
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  21.37,
+                                                       "tv":  136
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -13001,15 +13030,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  30.52,
                                                        "tv":  244
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  14.33,
-                                                       "tv":  75
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -13319,6 +13339,13 @@ window.PAINEL = {
                                                          "tv":  67
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "MARCIANO BERTUZZI",
+                                                         "p":  1,
+                                                         "km":  4.42,
+                                                         "tv":  96
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "MERCADO SAO JOSE DOMINGOS LTDA",
                                                          "p":  1,
@@ -13429,6 +13456,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.18,
                                                          "tv":  58
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "F.T.J SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  7.04,
+                                                         "tv":  61
                                                      },
                                                      {
                                                          "n":  "Nelson",

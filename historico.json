@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -11692,6 +11692,15 @@
                                      "tv":  208
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  13.38,
+                                     "tv":  287
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11701,13 +11710,13 @@
                                      "tv":  209
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  8.96,
-                                     "tv":  191
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  21.37,
+                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Karina",
@@ -11717,15 +11726,6 @@
                                      "pe":  2,
                                      "km":  30.52,
                                      "tv":  244
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  14.33,
-                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -12035,6 +12035,13 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "MARCIANO BERTUZZI",
+                                       "p":  1,
+                                       "km":  4.42,
+                                       "tv":  96
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "MERCADO SAO JOSE DOMINGOS LTDA",
                                        "p":  1,
@@ -12145,6 +12152,13 @@
                                        "p":  1,
                                        "km":  8.18,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "F.T.J SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.04,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Nelson",
