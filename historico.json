@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -11692,6 +11692,15 @@
                                      "tv":  208
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  27.12,
+                                     "tv":  155
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -11708,15 +11717,6 @@
                                      "pe":  0,
                                      "km":  33.51,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  21.37,
-                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Karina",
@@ -12194,6 +12194,13 @@
                                        "p":  1,
                                        "km":  7.04,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "WESLEY FERREIRA CARVALHO VALDIVINO",
+                                       "p":  1,
+                                       "km":  5.75,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Nelson",
