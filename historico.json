@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11546,6 +11546,15 @@
                                      "pe":  0,
                                      "km":  41.35,
                                      "tv":  171
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  40.17,
+                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Debora",
@@ -11575,13 +11584,13 @@
                                      "tv":  82
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  0,
                                      "pe":  0,
-                                     "km":  24.75,
-                                     "tv":  67
+                                     "km":  6.92,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -11590,15 +11599,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.92,
                                      "tv":  0
                                  },
                                  {
@@ -11618,6 +11618,15 @@
                                      "pe":  0,
                                      "km":  0.67,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  48.54,
+                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11645,15 +11654,6 @@
                                      "pe":  1,
                                      "km":  43.13,
                                      "tv":  121
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  47.93,
-                                     "tv":  114
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -11731,10 +11731,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.39,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  31.15,
+                                     "tv":  104
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -11753,6 +11753,13 @@
                                        "p":  1,
                                        "km":  24.75,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
+                                       "p":  1,
+                                       "km":  15.42,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Debora",
@@ -11867,6 +11874,13 @@
                                        "tv":  114
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS OPINI LTDA-EPP.",
+                                       "p":  0,
+                                       "km":  0.61,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                        "p":  1,
@@ -11935,6 +11949,13 @@
                                        "p":  1,
                                        "km":  2.61,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  29.76,
+                                       "tv":  104
                                    },
                                    {
                                        "n":  "Mariangela",
