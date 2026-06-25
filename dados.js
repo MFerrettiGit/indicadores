@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  83.04,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:22",
+                     "ultimo":  "15:08",
+                     "tv":  "05:17:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -15,21 +30,6 @@ window.PAINEL = {
                      "primeiro":  "07:00",
                      "ultimo":  "14:33",
                      "tv":  "04:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  59.41,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:22",
-                     "ultimo":  "13:40",
-                     "tv":  "04:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:06",
                      "ultimo":  "14:51",
                      "tv":  "06:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  53.28,
+                     "visitas":  6,
+                     "km":  54.82,
                      "semPed":  1,
-                     "perc":  20,
+                     "perc":  16.67,
                      "primeiro":  "08:28",
-                     "ultimo":  "14:11",
-                     "tv":  "04:05:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:03",
+                     "tv":  "04:50:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "14:44",
                      "tv":  "04:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  33.89,
+                     "semPed":  3,
+                     "perc":  75,
+                     "primeiro":  "08:02",
+                     "ultimo":  "15:06",
+                     "tv":  "04:57:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "13:10",
                      "tv":  "04:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  33.51,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:02",
-                     "ultimo":  "12:07",
-                     "tv":  "03:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "14:53",
                      "tv":  "03:28:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -571,6 +571,15 @@ window.PAINEL = {
                          "out":  "13:40:19",
                          "km":  9.72,
                          "dur":  "00:27:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "AMERICANA",
+                         "in":  "14:30:30",
+                         "out":  "15:08:01",
+                         "km":  23.63,
+                         "dur":  "00:37:00"
                      },
                      {
                          "nome":  "Costa",
@@ -798,6 +807,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MINIMERCADO BONI LTDA",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "14:17:36",
+                         "out":  "15:03:02",
+                         "km":  1.54,
+                         "dur":  "00:45:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                          "mun":  "CAMPINAS",
@@ -895,6 +913,15 @@ window.PAINEL = {
                          "out":  "12:07:46",
                          "km":  7.3,
                          "dur":  "01:17:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SCOTON LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "in":  "13:38:20",
+                         "out":  "15:06:37",
+                         "km":  0.38,
+                         "dur":  "01:28:00"
                      },
                      {
                          "nome":  "Eugenio",
@@ -1254,7 +1281,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:56:20"
+                        "tempo":  "07:11:15"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1262,7 +1289,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:53:39"
+                        "tempo":  "07:08:34"
                     },
                     {
                         "nome":  "Luis",
@@ -1270,7 +1297,7 @@ window.PAINEL = {
                         "obs":  "Rede 3D comercial Lopes",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:29:44"
+                        "tempo":  "01:44:39"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1278,7 +1305,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:24"
+                        "tempo":  "01:05:19"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Capão Bonito a Itapetininga",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:14:14"
                     }
                 ],
     "semped":  [
@@ -1342,73 +1377,67 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:30:42"
+                         "tempo":  "00:45:39"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:08:29"
+                         "tempo":  "00:23:26"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:11:08"
+                         "tempo":  "01:26:05"
                      },
                      {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "AMERICANA",
-                         "tempo":  "00:23:43"
+                         "nome":  "Maira",
+                         "razao":  "IVAN SANTOS TEIXEIRA - EIRELI",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "tempo":  "00:07:08"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:17:10"
+                         "tempo":  "01:32:07"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:02:25"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "PARIZ",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "00:14:46"
+                         "tempo":  "00:29:43"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SOLIDEA DELA COLETA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:27:06"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MINIMERCADO BONI LTDA",
-                         "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:36:37"
+                         "tempo":  "00:42:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:39:22"
+                         "tempo":  "00:54:19"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:21:51"
+                         "tempo":  "00:36:48"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ITAGUA COMERCIAL DE ALIMENTOS LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:56:46"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO SCOTON LTDA.",
-                         "mun":  "SAO PEDRO",
-                         "tempo":  "01:15:53"
+                         "tempo":  "01:11:43"
                      }
                  ],
     "hist":  [
@@ -1519,7 +1548,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     77,
+                     80,
                      9
                  ]
              ],
@@ -13052,8 +13081,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  83.04,
+                                                       "tv":  317
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -13062,15 +13100,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  86.04,
                                                        "tv":  290
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  59.41,
-                                                       "tv":  280
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -13148,10 +13177,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  53.28,
-                                                       "tv":  245
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  54.82,
+                                                       "tv":  290
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -13208,6 +13237,15 @@ window.PAINEL = {
                                                        "tv":  289
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  1,
+                                                       "km":  33.89,
+                                                       "tv":  297
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -13233,15 +13271,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  13.38,
                                                        "tv":  287
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  33.51,
-                                                       "tv":  209
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -13434,6 +13463,13 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  23.63,
+                                                         "tv":  37
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "EXAMINE SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -13609,6 +13645,13 @@ window.PAINEL = {
                                                          "tv":  32
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MINIMERCADO BONI LTDA",
+                                                         "p":  1,
+                                                         "km":  1.54,
+                                                         "tv":  45
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                                          "p":  1,
@@ -13684,6 +13727,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  7.3,
                                                          "tv":  77
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SCOTON LTDA.",
+                                                         "p":  0,
+                                                         "km":  0.38,
+                                                         "tv":  88
                                                      },
                                                      {
                                                          "n":  "Eugenio",

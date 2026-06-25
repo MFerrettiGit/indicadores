@@ -11527,8 +11527,17 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  83.04,
+                                     "tv":  317
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -11537,15 +11546,6 @@
                                      "pe":  0,
                                      "km":  86.04,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  59.41,
-                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Aline",
@@ -11623,10 +11623,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  53.28,
-                                     "tv":  245
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  54.82,
+                                     "tv":  290
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -11683,6 +11683,15 @@
                                      "tv":  289
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  33.89,
+                                     "tv":  297
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -11708,15 +11717,6 @@
                                      "pe":  2,
                                      "km":  13.38,
                                      "tv":  287
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  33.51,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Karina",
@@ -11909,6 +11909,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  23.63,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -12084,6 +12091,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MINIMERCADO BONI LTDA",
+                                       "p":  1,
+                                       "km":  1.54,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                        "p":  1,
@@ -12159,6 +12173,13 @@
                                        "p":  0,
                                        "km":  7.3,
                                        "tv":  77
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA.",
+                                       "p":  0,
+                                       "km":  0.38,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Eugenio",
