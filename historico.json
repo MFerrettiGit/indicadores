@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11620,21 +11620,21 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  57.47,
+                                     "tv":  70
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  3.85,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  57.47,
                                      "tv":  0
                                  },
                                  {
@@ -11677,10 +11677,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  28.17,
-                                     "tv":  32
+                                     "km":  33.37,
+                                     "tv":  49
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  21.93,
+                                     "tv":  43
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -11716,15 +11725,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.18,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11783,6 +11783,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                        "p":  1,
@@ -11802,6 +11809,20 @@
                                        "p":  1,
                                        "km":  0.31,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MERCADO SAO JOSE DOMINGOS LTDA.",
+                                       "p":  0,
+                                       "km":  5.2,
+                                       "tv":  17
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "MARCIA RENATA CATROQUE - ME.",
+                                       "p":  1,
+                                       "km":  21.93,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Mariangela",
