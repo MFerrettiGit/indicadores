@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11584,21 +11584,21 @@
                                      "tv":  82
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  6.92,
                                      "tv":  0
                                  },
                                  {
@@ -11627,6 +11627,15 @@
                                      "pe":  1,
                                      "km":  48.54,
                                      "tv":  135
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  149.87,
+                                     "tv":  66
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11665,15 +11674,6 @@
                                      "tv":  61
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  138.53,
-                                     "tv":  42
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -11683,6 +11683,15 @@
                                      "tv":  65
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  22.59,
+                                     "tv":  147
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11690,15 +11699,6 @@
                                      "pe":  0,
                                      "km":  26.21,
                                      "tv":  132
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  22.04,
-                                     "tv":  85
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -11839,6 +11839,13 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "M S DE CARLI CAVALLINI SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  11.34,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  1,
@@ -11858,6 +11865,13 @@
                                        "p":  1,
                                        "km":  39.55,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
+                                       "p":  1,
+                                       "km":  0.82,
+                                       "tv":  210
                                    },
                                    {
                                        "n":  "Rachel",
@@ -11942,6 +11956,13 @@
                                        "p":  1,
                                        "km":  0.11,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO CATROQUE LTDA.",
+                                       "p":  1,
+                                       "km":  0.55,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Karina",
