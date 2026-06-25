@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -11557,6 +11557,15 @@
                                      "tv":  280
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  58.81,
+                                     "tv":  299
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -11573,15 +11582,6 @@
                                      "pe":  0,
                                      "km":  24.54,
                                      "tv":  135
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  48.38,
-                                     "tv":  249
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -11632,10 +11632,19 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  171.2,
-                                     "tv":  161
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  171.86,
+                                     "tv":  202
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  77.09,
+                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Maira",
@@ -11645,15 +11654,6 @@
                                      "pe":  4,
                                      "km":  45.77,
                                      "tv":  275
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  77.09,
-                                     "tv":  189
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11722,10 +11722,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  30.52,
-                                     "tv":  244
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  54.66,
+                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -11795,6 +11795,13 @@
                                        "p":  1,
                                        "km":  2.2,
                                        "tv":  142
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  10.43,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -11937,6 +11944,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SOLIDEA DELA COLETA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "G MAX SUPERMERCADO LTDA",
                                        "p":  1,
@@ -11970,6 +11984,13 @@
                                        "p":  1,
                                        "km":  2.91,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "PARIZ",
+                                       "p":  1,
+                                       "km":  0.66,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Luis",
@@ -12222,6 +12243,13 @@
                                        "p":  1,
                                        "km":  27.73,
                                        "tv":  142
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ITAGUA COMERCIAL DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  24.14,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Lucas",
