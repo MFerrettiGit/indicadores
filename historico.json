@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11584,6 +11584,15 @@
                                      "tv":  135
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  16.93,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -11593,21 +11602,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  80.6,
+                                     "km":  87.04,
                                      "tv":  431
                                  },
                                  {
@@ -11629,6 +11629,15 @@
                                      "tv":  334
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  118.18,
+                                     "tv":  289
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -11645,15 +11654,6 @@
                                      "pe":  6,
                                      "km":  171.86,
                                      "tv":  202
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  116.37,
-                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -11683,6 +11683,15 @@
                                      "tv":  327
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  59.5,
+                                     "tv":  408
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -11699,15 +11708,6 @@
                                      "pe":  6,
                                      "km":  30.84,
                                      "tv":  188
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  59.5,
-                                     "tv":  289
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11731,10 +11731,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  65.2,
-                                     "tv":  208
+                                     "km":  67.44,
+                                     "tv":  261
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -11991,6 +11991,13 @@
                                        "p":  0,
                                        "km":  39.28,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "JOSE PARROTTI",
+                                       "p":  0,
+                                       "km":  1.81,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Fernando",
@@ -12397,6 +12404,13 @@
                                        "p":  0,
                                        "km":  30.49,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  2.24,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Mariangela",
