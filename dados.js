@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -31,21 +31,21 @@ window.PAINEL = {
                      "ultimo":  "15:08",
                      "tv":  "05:17:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  59.49,
+                     "visitas":  6,
+                     "km":  63.71,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:24",
-                     "ultimo":  "15:37",
-                     "tv":  "05:17:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:00",
+                     "tv":  "06:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "11:16",
                      "tv":  "02:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "16:41",
                      "tv":  "05:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -445,6 +445,15 @@ window.PAINEL = {
                          "out":  "15:37:07",
                          "km":  0.68,
                          "dur":  "00:18:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
+                         "mun":  "CORDEIROPOLIS",
+                         "in":  "15:42:38",
+                         "out":  "17:00:47",
+                         "km":  4.22,
+                         "dur":  "01:18:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -1014,6 +1023,15 @@ window.PAINEL = {
                          "dur":  "03:44:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO TULON LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "15:09:33",
+                         "out":  "17:09:58",
+                         "km":  0,
+                         "dur":  "01:59:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA",
                          "mun":  "AGUAS DE SAO PE",
@@ -1475,6 +1493,14 @@ window.PAINEL = {
                         "tempo":  "01:00:47"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "15:41",
+                        "final":  "16:58",
+                        "tempo":  "01:17:23"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Em Viagem",
                         "obs":  "viagem para Taquaritinga",
@@ -1528,7 +1554,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:56:34"
+                        "tempo":  "09:11:32"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1536,7 +1562,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:53:53"
+                        "tempo":  "09:08:51"
                     },
                     {
                         "nome":  "Aline",
@@ -1544,15 +1570,7 @@ window.PAINEL = {
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:51"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:14:19"
+                        "tempo":  "01:34:49"
                     },
                     {
                         "nome":  "Maira",
@@ -1560,7 +1578,7 @@ window.PAINEL = {
                         "obs":  "santa Bárbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:25"
+                        "tempo":  "00:55:23"
                     },
                     {
                         "nome":  "Rachel",
@@ -1568,7 +1586,7 @@ window.PAINEL = {
                         "obs":  "antonelli 2",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:27"
+                        "tempo":  "00:18:25"
                     },
                     {
                         "nome":  "Cominato",
@@ -1576,7 +1594,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:11"
+                        "tempo":  "00:18:09"
                     }
                 ],
     "semped":  [
@@ -1685,46 +1703,52 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "EXAMINE SUPERMERCADOS LTDA",
-                         "mun":  "CORDEIROPOLIS",
-                         "tempo":  "01:11:37"
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:00:14"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "01:14:52"
+                         "tempo":  "01:29:49"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "JOSE PARROTTI",
                          "mun":  "LEME",
-                         "tempo":  "00:00:29"
+                         "tempo":  "00:15:26"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "N ARAUJO MERCADO LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:55:42"
+                         "tempo":  "01:10:39"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:11:36"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "00:29:50"
+                         "tempo":  "00:44:47"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:07:25"
+                         "tempo":  "01:22:22"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:44:42"
+                         "tempo":  "01:59:39"
                      }
                  ],
     "hist":  [
@@ -1835,7 +1859,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     104,
+                     105,
                      18
                  ]
              ],
@@ -13368,7 +13392,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13392,10 +13416,10 @@ window.PAINEL = {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  59.49,
-                                                       "tv":  317
+                                                       "km":  63.71,
+                                                       "tv":  395
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -13650,6 +13674,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.68,
                                                          "tv":  18
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.22,
+                                                         "tv":  78
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -14091,6 +14122,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  25.6,
                                                          "tv":  224
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO TULON LTDA.",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  119
                                                      },
                                                      {
                                                          "n":  "Cominato",

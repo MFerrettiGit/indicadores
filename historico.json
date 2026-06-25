@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11551,10 +11551,10 @@
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  59.49,
-                                     "tv":  317
+                                     "km":  63.71,
+                                     "tv":  395
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -11809,6 +11809,13 @@
                                        "p":  1,
                                        "km":  0.68,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.22,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -12250,6 +12257,13 @@
                                        "p":  1,
                                        "km":  25.6,
                                        "tv":  224
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO TULON LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  119
                                    },
                                    {
                                        "n":  "Cominato",
