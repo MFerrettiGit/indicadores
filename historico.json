@@ -11527,16 +11527,25 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.09,
+                                     "tv":  152
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  1,
                                      "pe":  0,
-                                     "km":  58.7,
-                                     "tv":  61
+                                     "km":  27.37,
+                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -11573,15 +11582,6 @@
                                      "pe":  0,
                                      "km":  42.66,
                                      "tv":  15
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -11629,6 +11629,15 @@
                                      "tv":  70
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.42,
+                                     "tv":  61
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -11656,15 +11665,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -11677,10 +11677,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  33.37,
-                                     "tv":  49
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  33.9,
+                                     "tv":  65
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  26.07,
+                                     "tv":  97
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -11704,15 +11713,6 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
@@ -11769,11 +11769,25 @@
                                        "tv":  82
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  27.37,
+                                       "tv":  168
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
                                        "km":  58.7,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.39,
+                                       "tv":  91
                                    },
                                    {
                                        "n":  "Silmara",
@@ -11797,6 +11811,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSASUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  2.42,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "MERCADO SAO JOSE DOMINGOS LTDA",
                                        "p":  1,
@@ -11816,6 +11837,20 @@
                                        "p":  0,
                                        "km":  5.2,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO CORAL LTDA",
+                                       "p":  1,
+                                       "km":  0.53,
+                                       "tv":  16
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA",
+                                       "p":  0,
+                                       "km":  26.07,
+                                       "tv":  97
                                    },
                                    {
                                        "n":  "Eugenio",
