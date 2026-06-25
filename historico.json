@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11584,21 +11584,21 @@
                                      "tv":  107
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  6.92,
                                      "tv":  0
                                  },
                                  {
@@ -11623,19 +11623,19 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  49.56,
-                                     "tv":  183
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  51.89,
+                                     "tv":  213
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  157.88,
-                                     "tv":  81
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  168.29,
+                                     "tv":  128
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11895,6 +11895,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
+                                       "p":  1,
+                                       "km":  10.41,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  1,
@@ -11970,6 +11977,13 @@
                                        "p":  1,
                                        "km":  1.02,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MINIMERCADO BONI LTDA",
+                                       "p":  1,
+                                       "km":  2.33,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Alan",

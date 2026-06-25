@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "10:36",
                      "tv":  "03:16:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -94,21 +94,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  6.92,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Alex A.",
                      "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
@@ -122,6 +107,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  6.92,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Milene",
@@ -158,29 +158,29 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  49.56,
+                     "visitas":  4,
+                     "km":  51.89,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:28",
-                     "ultimo":  "11:47",
-                     "tv":  "03:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "12:25",
+                     "tv":  "03:33:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  157.88,
+                     "visitas":  4,
+                     "km":  168.29,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:41",
-                     "ultimo":  "11:30",
-                     "tv":  "01:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:33",
+                     "tv":  "02:08:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "12:05",
                      "tv":  "03:13:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -555,6 +555,15 @@ window.PAINEL = {
                          "dur":  "00:15:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
+                         "mun":  "TAQUARITINGA",
+                         "in":  "11:45:45",
+                         "out":  "12:33:43",
+                         "km":  10.41,
+                         "dur":  "00:47:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SM. SAO PAULO LTDA.",
                          "mun":  "FRANCA",
@@ -652,6 +661,15 @@ window.PAINEL = {
                          "out":  "11:47:16",
                          "km":  1.02,
                          "dur":  "00:48:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MINIMERCADO BONI LTDA",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "11:54:20",
+                         "out":  "12:25:07",
+                         "km":  2.33,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Alan",
@@ -866,6 +884,14 @@ window.PAINEL = {
                         "tempo":  "00:29:23"
                     },
                     {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:28",
+                        "final":  "12:29",
+                        "tempo":  "01:01:04"
+                    },
+                    {
                         "nome":  "Vinicius",
                         "tipo":  "Outro",
                         "obs":  "carro não pega",
@@ -895,7 +921,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:25:58"
+                        "tempo":  "04:41:05"
                     },
                     {
                         "nome":  "Eduardo",
@@ -903,15 +929,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:23:17"
-                    },
-                    {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:14"
+                        "tempo":  "04:38:24"
                     },
                     {
                         "nome":  "Nelson",
@@ -919,7 +937,7 @@ window.PAINEL = {
                         "obs":  "Iapeva a Capão Bonito",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:46"
+                        "tempo":  "00:46:53"
                     },
                     {
                         "nome":  "Luis",
@@ -927,7 +945,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:01"
+                        "tempo":  "00:46:08"
                     },
                     {
                         "nome":  "Cominato",
@@ -935,7 +953,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:27"
+                        "tempo":  "00:23:34"
                     },
                     {
                         "nome":  "Edimilson",
@@ -943,7 +961,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:19"
+                        "tempo":  "00:21:26"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:49"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:08"
                     }
                 ],
     "semped":  [
@@ -1001,73 +1035,61 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:56:07"
+                         "tempo":  "02:11:12"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
                          "mun":  "SUMARE",
-                         "tempo":  "00:24:35"
+                         "tempo":  "00:39:40"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:20:00"
+                         "tempo":  "00:35:05"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:08:14"
+                         "tempo":  "00:23:19"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:29:18"
+                         "tempo":  "00:44:23"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:17:16"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
-                         "mun":  "TAQUARITINGA",
-                         "tempo":  "00:38:24"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MINIMERCADO BONI LTDA",
-                         "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:29:49"
+                         "tempo":  "00:32:21"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "MARCIANO BERTUZZI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:50:36"
+                         "tempo":  "01:05:41"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROSEMARY RASCAO DE OLIVEIRA-EPP.",
                          "mun":  "UBATUBA",
-                         "tempo":  "01:42:01"
+                         "tempo":  "01:57:06"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "02:35:40"
+                         "tempo":  "02:50:45"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "F.T.J SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:11:39"
+                         "tempo":  "00:26:44"
                      }
                  ],
     "hist":  [
@@ -1178,7 +1200,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     52,
+                     55,
                      8
                  ]
              ],
@@ -12711,7 +12733,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -12768,21 +12790,21 @@ window.PAINEL = {
                                                        "tv":  107
                                                    },
                                                    {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  6.92,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Alex A.",
                                                        "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  6.92,
                                                        "tv":  0
                                                    },
                                                    {
@@ -12807,19 +12829,19 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  49.56,
-                                                       "tv":  183
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  51.89,
+                                                       "tv":  213
                                                    },
                                                    {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  157.88,
-                                                       "tv":  81
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  168.29,
+                                                       "tv":  128
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -13079,6 +13101,13 @@ window.PAINEL = {
                                                          "tv":  15
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
+                                                         "p":  1,
+                                                         "km":  10.41,
+                                                         "tv":  47
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SM. SAO PAULO LTDA.",
                                                          "p":  1,
@@ -13154,6 +13183,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.02,
                                                          "tv":  48
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MINIMERCADO BONI LTDA",
+                                                         "p":  1,
+                                                         "km":  2.33,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Alan",
