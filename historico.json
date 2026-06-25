@@ -11527,8 +11527,17 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  59.41,
+                                     "tv":  280
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -11537,15 +11546,6 @@
                                      "pe":  0,
                                      "km":  79.58,
                                      "tv":  242
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  49.69,
-                                     "tv":  253
                                  },
                                  {
                                      "nome":  "Aline",
@@ -11892,6 +11892,13 @@
                                        "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                                        "p":  1,
                                        "km":  4.19,
+                                       "tv":  27
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  9.72,
                                        "tv":  27
                                    },
                                    {
