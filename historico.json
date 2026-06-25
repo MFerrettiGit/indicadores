@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11620,6 +11620,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.69,
+                                     "tv":  102
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -11636,15 +11645,6 @@
                                      "pe":  1,
                                      "km":  2.42,
                                      "tv":  61
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  3.85,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Maira",
@@ -11683,6 +11683,24 @@
                                      "tv":  65
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  22.04,
+                                     "tv":  85
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.79,
+                                     "tv":  124
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11692,13 +11710,13 @@
                                      "tv":  97
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  21.93,
-                                     "tv":  43
+                                     "km":  2.79,
+                                     "tv":  102
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -11708,24 +11726,6 @@
                                      "pe":  1,
                                      "km":  6.15,
                                      "tv":  17
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.18,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -11804,6 +11804,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SM. SAO PAULO LTDA.",
+                                       "p":  1,
+                                       "km":  0.84,
+                                       "tv":  102
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                        "p":  1,
@@ -11816,6 +11823,13 @@
                                        "p":  1,
                                        "km":  2.42,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
+                                       "p":  1,
+                                       "km":  7.79,
+                                       "tv":  124
                                    },
                                    {
                                        "n":  "Castro",
@@ -11858,6 +11872,20 @@
                                        "p":  1,
                                        "km":  21.93,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "COMERCIAL MOURA DE JARINU LTDA.",
+                                       "p":  1,
+                                       "km":  0.11,
+                                       "tv":  42
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "LOJAS ESTRELA DO LAR LTDA",
+                                       "p":  1,
+                                       "km":  2.61,
+                                       "tv":  102
                                    },
                                    {
                                        "n":  "Mariangela",
