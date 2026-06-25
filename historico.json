@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11584,15 +11584,6 @@
                                      "tv":  249
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -11602,13 +11593,22 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  6.92,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  54.22,
-                                     "tv":  292
+                                     "km":  79.66,
+                                     "tv":  367
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -11638,6 +11638,15 @@
                                      "tv":  161
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  45.77,
+                                     "tv":  275
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -11645,15 +11654,6 @@
                                      "pe":  3,
                                      "km":  77.09,
                                      "tv":  189
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  44.96,
-                                     "tv":  228
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11740,10 +11740,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  56.42,
-                                     "tv":  150
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  124.03,
+                                     "tv":  208
                                  }
                              ],
                        "cli":  [
@@ -12000,6 +12000,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "VIZINHO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0.81,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                        "p":  1,
@@ -12019,6 +12026,13 @@
                                        "p":  1,
                                        "km":  13.85,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  25.44,
+                                       "tv":  75
                                    },
                                    {
                                        "n":  "Rachel",
@@ -12236,6 +12250,13 @@
                                        "p":  0,
                                        "km":  56.42,
                                        "tv":  150
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "REDE SUPERMERCADO AMIZADE CAPAO BONITO",
+                                       "p":  1,
+                                       "km":  67.61,
+                                       "tv":  58
                                    }
                                ]
                    }
