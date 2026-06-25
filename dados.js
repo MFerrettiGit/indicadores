@@ -1,21 +1,36 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  60.09,
+                     "visitas":  3,
+                     "km":  62.13,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:00",
-                     "ultimo":  "09:41",
-                     "tv":  "02:32:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:36",
+                     "tv":  "03:16:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  2,
+                     "km":  41.35,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:22",
+                     "ultimo":  "10:25",
+                     "tv":  "02:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -30,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "10:22",
                      "tv":  "01:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,21 +60,6 @@ window.PAINEL = {
                      "primeiro":  "06:52",
                      "ultimo":  "09:41",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  38.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:22",
-                     "ultimo":  "08:34",
-                     "tv":  "01:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  43.13,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:27",
+                     "ultimo":  "10:29",
+                     "tv":  "02:01:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
@@ -195,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "10:23",
                      "tv":  "01:54:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -214,33 +229,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.56,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:27",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  41.92,
+                     "visitas":  1,
+                     "km":  138.53,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "09:41",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:24",
+                     "tv":  "00:42:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  14.33,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:43",
+                     "ultimo":  "10:29",
+                     "tv":  "01:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -316,21 +331,6 @@ window.PAINEL = {
                      "ultimo":  "10:00",
                      "tv":  "01:42:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  6.15,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:43",
-                     "ultimo":  "09:01",
-                     "tv":  "00:17:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -429,6 +429,15 @@ window.PAINEL = {
                          "dur":  "01:31:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITATIBA",
+                         "in":  "09:51:47",
+                         "out":  "10:36:20",
+                         "km":  2.04,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
@@ -436,6 +445,15 @@ window.PAINEL = {
                          "out":  "08:34:04",
                          "km":  38.11,
                          "dur":  "01:11:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "08:44:42",
+                         "out":  "10:25:34",
+                         "km":  3.24,
+                         "dur":  "01:40:00"
                      },
                      {
                          "nome":  "Costa",
@@ -463,6 +481,15 @@ window.PAINEL = {
                          "out":  "09:59:02",
                          "km":  0.84,
                          "dur":  "01:42:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "GUIDOLIN E GUIDOLIN LTDA.",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "in":  "08:27:46",
+                         "out":  "10:29:38",
+                         "km":  42.57,
+                         "dur":  "02:01:00"
                      },
                      {
                          "nome":  "Milene",
@@ -589,6 +616,15 @@ window.PAINEL = {
                          "out":  "09:01:15",
                          "km":  5.05,
                          "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIM LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "09:31:16",
+                         "out":  "10:29:34",
+                         "km":  8.18,
+                         "dur":  "00:58:00"
                      }
                  ],
     "eventos":  [
@@ -670,7 +706,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:26:00"
+                        "tempo":  "02:40:58"
                     },
                     {
                         "nome":  "Eduardo",
@@ -678,7 +714,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:23:19"
+                        "tempo":  "02:38:17"
                     }
                 ],
     "semped":  [
@@ -703,94 +739,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADO DE PENIDO LTDA",
+                         "mun":  "SANTA GERTRUDES",
+                         "tempo":  "00:11:12"
+                     },
+                     {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
                          "mun":  "PAULINIA",
-                         "tempo":  "01:10:34"
+                         "tempo":  "01:25:34"
                      },
                      {
-                         "nome":  "Evandro",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "ITATIBA",
-                         "tempo":  "00:32:27"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "01:39:32"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "GUIDOLIN E GUIDOLIN LTDA.",
-                         "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "01:56:28"
+                         "nome":  "Eliana",
+                         "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                         "mun":  "CAMPO LIMPO PAU",
+                         "tempo":  "00:02:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "00:31:07"
+                         "tempo":  "00:46:07"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:16:17"
+                         "tempo":  "00:31:17"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
                          "mun":  "PONTAL",
-                         "tempo":  "02:45:04"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "G MAX SUPERMERCADO LTDA",
-                         "mun":  "TAQUARITINGA",
-                         "tempo":  "00:42:38"
+                         "tempo":  "03:00:04"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:16:20"
+                         "tempo":  "00:31:20"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "IRMAOS OPINI LTDA-EPP.",
+                         "mun":  "RIBEIRAO BONITO",
+                         "tempo":  "00:11:32"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO CATROQUE LTDA.",
                          "mun":  "JARINU",
-                         "tempo":  "00:18:47"
+                         "tempo":  "00:33:47"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:02"
+                         "tempo":  "00:23:02"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
                          "mun":  "ITU",
-                         "tempo":  "01:29:52"
+                         "tempo":  "01:44:52"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:04:01"
+                         "tempo":  "01:19:01"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:35:45"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MANDARIM LTDA",
-                         "mun":  "JACAREI",
-                         "tempo":  "00:52:58"
+                         "tempo":  "00:50:45"
                      }
                  ],
     "hist":  [
@@ -901,7 +925,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     24,
+                     30,
                      3
                  ]
              ],
@@ -12434,16 +12458,25 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  62.13,
+                                                       "tv":  196
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  60.09,
-                                                       "tv":  152
+                                                       "km":  41.35,
+                                                       "tv":  171
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -12462,15 +12495,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  27.37,
                                                        "tv":  168
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  38.11,
-                                                       "tv":  71
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -12545,6 +12569,15 @@ window.PAINEL = {
                                                        "tv":  70
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  43.13,
+                                                       "tv":  121
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -12563,22 +12596,13 @@ window.PAINEL = {
                                                        "tv":  61
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.56,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  41.92,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  138.53,
+                                                       "tv":  42
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -12608,6 +12632,15 @@ window.PAINEL = {
                                                        "tv":  85
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  14.33,
+                                                       "tv":  75
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -12624,15 +12657,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  2.79,
                                                        "tv":  102
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  6.15,
-                                                       "tv":  17
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -12704,11 +12728,25 @@ window.PAINEL = {
                                                          "tv":  91
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.04,
+                                                         "tv":  44
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
                                                          "p":  1,
                                                          "km":  38.11,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.24,
+                                                         "tv":  100
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -12730,6 +12768,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.84,
                                                          "tv":  102
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "GUIDOLIN E GUIDOLIN LTDA.",
+                                                         "p":  1,
+                                                         "km":  42.57,
+                                                         "tv":  121
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -12828,6 +12873,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.05,
                                                          "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MANDARIM LTDA",
+                                                         "p":  1,
+                                                         "km":  8.18,
+                                                         "tv":  58
                                                      }
                                                  ]
                                      }

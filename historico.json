@@ -11527,16 +11527,25 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  62.13,
+                                     "tv":  196
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  60.09,
-                                     "tv":  152
+                                     "km":  41.35,
+                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Debora",
@@ -11555,15 +11564,6 @@
                                      "pe":  0,
                                      "km":  27.37,
                                      "tv":  168
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.11,
-                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -11638,6 +11638,15 @@
                                      "tv":  70
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  43.13,
+                                     "tv":  121
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -11656,22 +11665,13 @@
                                      "tv":  61
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.56,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  41.92,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  138.53,
+                                     "tv":  42
                                  },
                                  {
                                      "nome":  "Castro",
@@ -11701,6 +11701,15 @@
                                      "tv":  85
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  14.33,
+                                     "tv":  75
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -11717,15 +11726,6 @@
                                      "pe":  1,
                                      "km":  2.79,
                                      "tv":  102
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.15,
-                                     "tv":  17
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -11797,11 +11797,25 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.04,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  38.11,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.24,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Costa",
@@ -11823,6 +11837,13 @@
                                        "p":  1,
                                        "km":  0.84,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "GUIDOLIN E GUIDOLIN LTDA.",
+                                       "p":  1,
+                                       "km":  42.57,
+                                       "tv":  121
                                    },
                                    {
                                        "n":  "Milene",
@@ -11921,6 +11942,13 @@
                                        "p":  1,
                                        "km":  5.05,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIM LTDA",
+                                       "p":  1,
+                                       "km":  8.18,
+                                       "tv":  58
                                    }
                                ]
                    }
