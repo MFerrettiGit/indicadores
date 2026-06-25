@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Silmara",
@@ -11623,10 +11623,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  51.89,
-                                     "tv":  213
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  53.28,
+                                     "tv":  245
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -12040,6 +12040,13 @@
                                        "p":  1,
                                        "km":  2.33,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS OPINI LTDA-EPP.",
+                                       "p":  0,
+                                       "km":  1.39,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Alan",

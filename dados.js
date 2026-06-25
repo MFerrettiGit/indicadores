@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Silmara",
@@ -90,8 +90,8 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "12:50",
                      "tv":  "04:09:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -158,13 +158,13 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  51.89,
+                     "visitas":  5,
+                     "km":  53.28,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:28",
-                     "ultimo":  "12:25",
-                     "tv":  "03:33:00",
+                     "ultimo":  "14:11",
+                     "tv":  "04:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "12:16",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:30:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "IRMAOS OPINI LTDA-EPP.",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "13:39:13",
+                         "out":  "14:11:40",
+                         "km":  1.39,
+                         "dur":  "00:32:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                          "mun":  "CAMPINAS",
@@ -1066,6 +1075,14 @@ window.PAINEL = {
                         "tempo":  "01:00:21"
                     },
                     {
+                        "nome":  "Debora",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:21",
+                        "final":  "14:21",
+                        "tempo":  "01:00:08"
+                    },
+                    {
                         "nome":  "Aline",
                         "tipo":  "Outro",
                         "obs":  "pneus furado",
@@ -1151,7 +1168,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:11:13"
+                        "tempo":  "06:26:12"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1159,15 +1176,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:08:32"
-                    },
-                    {
-                        "nome":  "Debora",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:30"
+                        "tempo":  "06:23:31"
                     },
                     {
                         "nome":  "Alan",
@@ -1175,7 +1184,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:56"
+                        "tempo":  "00:59:55"
                     },
                     {
                         "nome":  "Luis",
@@ -1183,7 +1192,7 @@ window.PAINEL = {
                         "obs":  "Rede 3D comercial Lopes",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:37"
+                        "tempo":  "00:59:36"
                     },
                     {
                         "nome":  "Aline",
@@ -1191,7 +1200,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:01"
+                        "tempo":  "00:58:00"
                     },
                     {
                         "nome":  "Lucas",
@@ -1199,7 +1208,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:37"
+                        "tempo":  "00:50:36"
                     },
                     {
                         "nome":  "Castro",
@@ -1207,7 +1216,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:21"
+                        "tempo":  "00:42:20"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1215,7 +1224,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:17"
+                        "tempo":  "00:20:16"
                     }
                 ],
     "semped":  [
@@ -1276,70 +1285,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "SOLIDEA DELA COLETA",
+                         "mun":  "CORDEIROPOLIS",
+                         "tempo":  "00:00:43"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:24:31"
+                         "tempo":  "00:39:31"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "00:26:09"
+                         "tempo":  "00:41:09"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "VIZINHO SUPERMERCADOS LTDA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:12:12"
+                         "tempo":  "00:27:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:32:11"
+                         "tempo":  "00:47:11"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:33:40"
+                         "tempo":  "00:48:40"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR SEBASTIAO CAVACINI  ME",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "00:07:17"
+                         "tempo":  "00:22:17"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "RODRIGUES",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:17:00"
+                         "tempo":  "00:32:00"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "IRMAOS OPINI LTDA-EPP.",
+                         "razao":  "MINIMERCADO BONI LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:30:01"
+                         "tempo":  "00:06:38"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:09:23"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ITAGUA COMERCIAL DE ALIMENTOS LTDA",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:11:47"
+                         "tempo":  "00:26:47"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "REDE SUPERMERCADO AMIZADE CAPAO BONITO",
                          "mun":  "CAPAO BONITO",
-                         "tempo":  "00:14:55"
+                         "tempo":  "00:29:55"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:30:54"
+                         "tempo":  "00:45:54"
                      }
                  ],
     "hist":  [
@@ -1450,7 +1471,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     69,
+                     70,
                      9
                  ]
              ],
@@ -12983,7 +13004,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Silmara",
@@ -13079,10 +13100,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  51.89,
-                                                       "tv":  213
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  53.28,
+                                                       "tv":  245
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -13496,6 +13517,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.33,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "IRMAOS OPINI LTDA-EPP.",
+                                                         "p":  0,
+                                                         "km":  1.39,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Alan",
