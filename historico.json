@@ -11527,8 +11527,17 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  86.04,
+                                     "tv":  290
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -11537,15 +11546,6 @@
                                      "pe":  0,
                                      "km":  59.41,
                                      "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  79.58,
-                                     "tv":  242
                                  },
                                  {
                                      "nome":  "Aline",
@@ -11584,21 +11584,21 @@
                                      "tv":  249
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.92,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11632,10 +11632,19 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  168.29,
-                                     "tv":  128
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  171.2,
+                                     "tv":  161
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  77.09,
+                                     "tv":  189
                                  },
                                  {
                                      "nome":  "Maira",
@@ -11654,15 +11663,6 @@
                                      "pe":  2,
                                      "km":  8.26,
                                      "tv":  170
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  67,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -11867,6 +11867,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.46,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -11916,6 +11923,13 @@
                                        "tv":  86
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  10.09,
+                                       "tv":  33
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "G MAX SUPERMERCADO LTDA",
                                        "p":  1,
@@ -11942,6 +11956,13 @@
                                        "p":  1,
                                        "km":  10.41,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ADEMIR SEBASTIAO CAVACINI  ME",
+                                       "p":  1,
+                                       "km":  2.91,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Luis",
