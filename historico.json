@@ -11527,8 +11527,17 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  79.58,
+                                     "tv":  242
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -11537,6 +11546,15 @@
                                      "pe":  0,
                                      "km":  49.69,
                                      "tv":  253
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  53.16,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -11548,15 +11566,6 @@
                                      "tv":  286
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  62.13,
-                                     "tv":  196
-                                 },
-                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -11564,15 +11573,6 @@
                                      "pe":  0,
                                      "km":  24.54,
                                      "tv":  135
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  44.27,
-                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Debora",
@@ -11677,10 +11677,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  33.9,
-                                     "tv":  65
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  59.5,
+                                     "tv":  289
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -11731,10 +11731,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  31.15,
-                                     "tv":  104
+                                     "km":  34.71,
+                                     "tv":  148
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -11767,6 +11767,13 @@
                                        "p":  1,
                                        "km":  4.1,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
+                                       "p":  1,
+                                       "km":  8.89,
+                                       "tv":  84
                                    },
                                    {
                                        "n":  "Debora",
@@ -11851,6 +11858,13 @@
                                        "p":  1,
                                        "km":  2.04,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  17.45,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Silmara",
@@ -12070,6 +12084,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  25.6,
+                                       "tv":  224
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO SCOTON LTDA",
                                        "p":  0,
@@ -12138,6 +12159,13 @@
                                        "p":  1,
                                        "km":  29.76,
                                        "tv":  104
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  3.56,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Mariangela",
