@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11546,6 +11546,15 @@
                                      "pe":  0,
                                      "km":  38.11,
                                      "tv":  71
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  19.89,
+                                     "tv":  82
                                  },
                                  {
                                      "nome":  "Aline",
@@ -11575,12 +11584,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0.1,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11590,15 +11599,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11677,10 +11677,19 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  28.17,
+                                     "tv":  32
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  27.86,
-                                     "tv":  16
+                                     "km":  6.15,
+                                     "tv":  17
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11719,12 +11728,12 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  1.1,
+                                     "km":  1.39,
                                      "tv":  0
                                  },
                                  {
@@ -11734,15 +11743,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.39,
                                      "tv":  0
                                  }
                              ],
@@ -11760,6 +11760,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  19.79,
+                                       "tv":  82
                                    },
                                    {
                                        "n":  "Evandro",
@@ -11788,6 +11795,20 @@
                                        "p":  1,
                                        "km":  27.86,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.05",
+                                       "p":  1,
+                                       "km":  0.31,
+                                       "tv":  16
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                                       "p":  1,
+                                       "km":  5.05,
+                                       "tv":  17
                                    }
                                ]
                    }
