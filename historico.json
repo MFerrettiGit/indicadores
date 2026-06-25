@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11542,19 +11542,28 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  41.35,
-                                     "tv":  171
+                                     "km":  45.5,
+                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  44.27,
+                                     "tv":  196
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  2,
                                      "pe":  0,
-                                     "km":  40.17,
-                                     "tv":  161
+                                     "km":  21.11,
+                                     "tv":  99
                                  },
                                  {
                                      "nome":  "Debora",
@@ -11575,13 +11584,13 @@
                                      "tv":  168
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  0,
                                      "pe":  0,
-                                     "km":  19.89,
-                                     "tv":  82
+                                     "km":  0,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -11590,15 +11599,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11620,6 +11620,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  157.88,
+                                     "tv":  81
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -11629,6 +11638,24 @@
                                      "tv":  170
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  67,
+                                     "tv":  156
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  44.3,
+                                     "tv":  169
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -11636,33 +11663,6 @@
                                      "pe":  1,
                                      "km":  48.54,
                                      "tv":  135
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  149.87,
-                                     "tv":  66
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  57.47,
-                                     "tv":  70
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  43.13,
-                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -11762,6 +11762,13 @@
                                        "tv":  94
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.1,
+                                       "tv":  35
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -11781,6 +11788,13 @@
                                        "p":  1,
                                        "km":  19.79,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  1.22,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Eliana",
@@ -11825,11 +11839,25 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  4.15,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  0,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                       "p":  1,
+                                       "km":  9.53,
+                                       "tv":  86
                                    },
                                    {
                                        "n":  "Fernando",
@@ -11844,6 +11872,13 @@
                                        "p":  1,
                                        "km":  11.34,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "G EMPORIO JURUPEMA LTDA",
+                                       "p":  1,
+                                       "km":  8.01,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Luis",
@@ -11865,6 +11900,13 @@
                                        "p":  1,
                                        "km":  42.57,
                                        "tv":  121
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "GUIDOLIN",
+                                       "p":  1,
+                                       "km":  1.17,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Milene",
