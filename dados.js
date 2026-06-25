@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  63.71,
+                     "km":  88.77,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:24",
@@ -94,12 +94,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
-                     "km":  16.93,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -109,12 +109,12 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
-                     "km":  0,
+                     "km":  16.93,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -144,14 +144,14 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  0,
-                     "km":  0.67,
+                     "km":  1.34,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  57.26,
+                     "semPed":  1,
+                     "perc":  14.29,
+                     "primeiro":  "08:32",
+                     "ultimo":  "17:32",
+                     "tv":  "06:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -271,21 +286,6 @@ window.PAINEL = {
                      "ultimo":  "17:09",
                      "tv":  "06:48:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  54.09,
-                     "semPed":  1,
-                     "perc":  16.67,
-                     "primeiro":  "08:32",
-                     "ultimo":  "16:41",
-                     "tv":  "05:39:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1149,6 +1149,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "16:57:36",
+                         "out":  "17:32:11",
+                         "km":  3.17,
+                         "dur":  "00:34:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "LOJAS ESTRELA DO LAR LTDA",
                          "mun":  "CARAGUATATUBA",
@@ -1341,6 +1350,14 @@ window.PAINEL = {
                         "inicio":  "08:00",
                         "final":  "08:01",
                         "tempo":  "24:00:41"
+                    },
+                    {
+                        "nome":  "Eduardo",
+                        "tipo":  "Outro",
+                        "obs":  "administrativo",
+                        "inicio":  "08:01",
+                        "final":  "17:35",
+                        "tempo":  "09:34:22"
                     },
                     {
                         "nome":  "Rachel",
@@ -1575,20 +1592,12 @@ window.PAINEL = {
                         "tempo":  "00:58:36"
                     },
                     {
-                        "nome":  "Eduardo",
-                        "tipo":  "Outro",
-                        "obs":  "administrativo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "09:24:01"
-                    },
-                    {
                         "nome":  "Aline",
                         "tipo":  "Outro",
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:49:59"
+                        "tempo":  "02:04:46"
                     },
                     {
                         "nome":  "Maira",
@@ -1596,7 +1605,7 @@ window.PAINEL = {
                         "obs":  "santa Bárbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:10:33"
+                        "tempo":  "01:25:20"
                     },
                     {
                         "nome":  "Rachel",
@@ -1604,7 +1613,7 @@ window.PAINEL = {
                         "obs":  "antonelli 2",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:35"
+                        "tempo":  "00:48:22"
                     },
                     {
                         "nome":  "Cominato",
@@ -1612,7 +1621,7 @@ window.PAINEL = {
                         "obs":  "Digitar pedido scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:19"
+                        "tempo":  "00:48:06"
                     }
                 ],
     "semped":  [
@@ -1736,31 +1745,25 @@ window.PAINEL = {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:15:18"
+                         "tempo":  "00:30:12"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "01:44:53"
+                         "tempo":  "01:59:47"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "N ARAUJO MERCADO LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "01:25:43"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "00:26:40"
+                         "tempo":  "01:40:37"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:37:26"
+                         "tempo":  "01:52:20"
                      }
                  ],
     "hist":  [
@@ -1871,7 +1874,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     108,
+                     109,
                      20
                  ]
              ],
@@ -13404,7 +13407,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13430,7 +13433,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  63.71,
+                                                       "km":  88.77,
                                                        "tv":  395
                                                    },
                                                    {
@@ -13461,21 +13464,21 @@ window.PAINEL = {
                                                        "tv":  135
                                                    },
                                                    {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  16.93,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Alex A.",
                                                        "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  16.93,
                                                        "tv":  0
                                                    },
                                                    {
@@ -13493,7 +13496,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  0,
                                                        "pe":  0,
-                                                       "km":  0.67,
+                                                       "km":  1.34,
                                                        "tv":  0
                                                    },
                                                    {
@@ -13551,6 +13554,15 @@ window.PAINEL = {
                                                        "tv":  170
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  57.26,
+                                                       "tv":  373
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -13567,15 +13579,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  59.5,
                                                        "tv":  408
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  54.09,
-                                                       "tv":  339
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -14232,6 +14235,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.47,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SIM EMPREENDIMENTOS COMERCIAIS  SUP LTDA",
+                                                         "p":  1,
+                                                         "km":  3.17,
+                                                         "tv":  34
                                                      },
                                                      {
                                                          "n":  "Karina",
