@@ -11527,8 +11527,26 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  49.69,
+                                     "tv":  253
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  53.06,
+                                     "tv":  286
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -11537,15 +11555,6 @@
                                      "pe":  0,
                                      "km":  62.13,
                                      "tv":  196
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  45.5,
-                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -11566,22 +11575,13 @@
                                      "tv":  196
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  51.69,
-                                     "tv":  250
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  46.18,
-                                     "tv":  107
+                                     "km":  48.38,
+                                     "tv":  249
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -11783,6 +11783,13 @@
                                        "tv":  92
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                       "p":  1,
+                                       "km":  2.2,
+                                       "tv":  142
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -11816,6 +11823,13 @@
                                        "p":  1,
                                        "km":  24.32,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  1.37,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Evandro",
@@ -11858,6 +11872,13 @@
                                        "p":  1,
                                        "km":  4.15,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                                       "p":  1,
+                                       "km":  4.19,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Costa",
@@ -11928,6 +11949,13 @@
                                        "p":  1,
                                        "km":  1.17,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO GUIDOLIN CENTRAL LTDA",
+                                       "p":  1,
+                                       "km":  0.66,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Milene",
