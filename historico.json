@@ -11527,8 +11527,17 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  89.45,
+                                     "tv":  338
+                                 },
                                  {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
@@ -11539,13 +11548,13 @@
                                      "tv":  317
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  86.04,
-                                     "tv":  290
+                                     "km":  59.49,
+                                     "tv":  317
                                  },
                                  {
                                      "nome":  "Aline",
@@ -11555,15 +11564,6 @@
                                      "pe":  0,
                                      "km":  53.16,
                                      "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  58.81,
-                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -11638,6 +11638,15 @@
                                      "tv":  202
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  48.56,
+                                     "tv":  308
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -11645,15 +11654,6 @@
                                      "pe":  4,
                                      "km":  77.09,
                                      "tv":  236
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  45.77,
-                                     "tv":  275
                                  },
                                  {
                                      "nome":  "Luis",
@@ -11683,6 +11683,15 @@
                                      "tv":  289
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  30.66,
+                                     "tv":  171
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11699,15 +11708,6 @@
                                      "pe":  4,
                                      "km":  23.51,
                                      "tv":  208
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  27.12,
-                                     "tv":  155
                                  },
                                  {
                                      "nome":  "Alan",
@@ -11804,6 +11804,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "RODRIGUES",
+                                       "p":  1,
+                                       "km":  0.68,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -11878,6 +11885,13 @@
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
                                        "km":  6.46,
+                                       "tv":  48
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  3.41,
                                        "tv":  48
                                    },
                                    {
@@ -12033,6 +12047,13 @@
                                        "p":  1,
                                        "km":  0.81,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "IVAN SANTOS TEIXEIRA - EIRELI",
+                                       "p":  0,
+                                       "km":  2.79,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Milene",
@@ -12292,6 +12313,13 @@
                                        "p":  1,
                                        "km":  5.75,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "CIDADE SALVADOR COMERCIO DE ALIMEN. LTDA",
+                                       "p":  1,
+                                       "km":  3.54,
+                                       "tv":  16
                                    },
                                    {
                                        "n":  "Nelson",
