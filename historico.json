@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11557,6 +11557,15 @@
                                      "tv":  196
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  51.69,
+                                     "tv":  250
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -11575,13 +11584,13 @@
                                      "tv":  107
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  0,
                                      "pe":  0,
-                                     "km":  27.37,
-                                     "tv":  168
+                                     "km":  0,
+                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -11590,15 +11599,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.92,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11668,10 +11668,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  2.42,
-                                     "tv":  61
+                                     "km":  3.46,
+                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Castro",
@@ -11681,6 +11681,15 @@
                                      "pe":  3,
                                      "km":  33.9,
                                      "tv":  65
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  33.51,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -11699,15 +11708,6 @@
                                      "pe":  1,
                                      "km":  8.96,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  26.21,
-                                     "tv":  132
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -11802,6 +11802,13 @@
                                        "p":  1,
                                        "km":  27.37,
                                        "tv":  168
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  24.32,
+                                       "tv":  82
                                    },
                                    {
                                        "n":  "Evandro",
@@ -11930,6 +11937,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "J.L. DAOLIO",
+                                       "p":  0,
+                                       "km":  1.04,
+                                       "tv":  132
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "OPINI SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -12005,6 +12019,13 @@
                                        "p":  0,
                                        "km":  0.14,
                                        "tv":  35
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SCOTON LTDA.",
+                                       "p":  0,
+                                       "km":  7.3,
+                                       "tv":  77
                                    },
                                    {
                                        "n":  "Eugenio",
