@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -158,13 +158,13 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  54.82,
+                     "visitas":  7,
+                     "km":  57.24,
                      "semPed":  1,
-                     "perc":  16.67,
+                     "perc":  14.29,
                      "primeiro":  "08:28",
-                     "ultimo":  "15:03",
-                     "tv":  "04:50:00",
+                     "ultimo":  "15:56",
+                     "tv":  "05:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -248,14 +248,29 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  35,
-                     "semPed":  4,
-                     "perc":  80,
+                     "visitas":  6,
+                     "km":  36.22,
+                     "semPed":  5,
+                     "perc":  83.33,
                      "primeiro":  "08:02",
-                     "ultimo":  "15:40",
-                     "tv":  "05:12:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:04",
+                     "tv":  "05:27:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  30.84,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:43",
+                     "ultimo":  "16:03",
+                     "tv":  "03:08:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -285,21 +300,6 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "15:49",
                      "tv":  "05:02:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  30.66,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:43",
-                     "ultimo":  "15:37",
-                     "tv":  "02:51:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:17",
                      "ultimo":  "15:22",
                      "tv":  "05:29:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -870,6 +870,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "OPINI",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "15:11:20",
+                         "out":  "15:56:06",
+                         "km":  2.42,
+                         "dur":  "00:44:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                          "mun":  "CAMPINAS",
@@ -984,6 +993,15 @@ window.PAINEL = {
                          "in":  "15:25:11",
                          "out":  "15:40:49",
                          "km":  1.11,
+                         "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "BALTIERI BALTIERI E CIA LTDA.",
+                         "mun":  "SAO PEDRO",
+                         "in":  "15:48:57",
+                         "out":  "16:04:39",
+                         "km":  1.22,
                          "dur":  "00:15:00"
                      },
                      {
@@ -1120,6 +1138,15 @@ window.PAINEL = {
                          "out":  "15:37:20",
                          "km":  3.54,
                          "dur":  "00:16:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIN LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "15:46:19",
+                         "out":  "16:03:26",
+                         "km":  0.18,
+                         "dur":  "00:17:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1395,7 +1422,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:56:32"
+                        "tempo":  "08:11:22"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1403,7 +1430,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:53:51"
+                        "tempo":  "08:08:41"
                     },
                     {
                         "nome":  "Aline",
@@ -1411,7 +1438,7 @@ window.PAINEL = {
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:49"
+                        "tempo":  "00:34:39"
                     },
                     {
                         "nome":  "Silmara",
@@ -1419,7 +1446,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:17"
+                        "tempo":  "00:29:07"
                     },
                     {
                         "nome":  "Luis",
@@ -1427,7 +1454,7 @@ window.PAINEL = {
                         "obs":  "Rede Aidan Bonomi",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:10"
+                        "tempo":  "00:23:00"
                     }
                 ],
     "semped":  [
@@ -1492,6 +1519,12 @@ window.PAINEL = {
                        "obs":  "Levantamento"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "BALTIERI BALTIERI E CIA LTDA.",
+                       "mun":  "SAO PEDRO",
+                       "obs":  "Levantamento"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "IRMAOS OPINI LTDA-EPP.",
                        "mun":  "RIBEIRAO BONITO",
@@ -1503,85 +1536,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:11:40"
+                         "tempo":  "00:26:33"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:11:03"
+                         "tempo":  "00:25:56"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "02:11:13"
+                         "tempo":  "02:26:06"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:00:48"
+                         "tempo":  "00:15:41"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:17:15"
+                         "tempo":  "02:32:08"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:47:33"
+                         "tempo":  "01:02:26"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "00:14:55"
+                         "tempo":  "00:29:48"
                      },
                      {
                          "nome":  "Sao Carlos",
-                         "razao":  "OPINI",
+                         "razao":  "N ARAUJO MERCADO LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:42:58"
+                         "tempo":  "00:10:38"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:05:52"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:21:56"
+                         "tempo":  "01:36:49"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO GAROTAO LAGOINHA LTDA - EPP",
+                         "mun":  "UBATUBA",
+                         "tempo":  "00:06:02"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "PORTO FELIZ",
-                         "tempo":  "00:40:16"
+                         "tempo":  "00:55:09"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:28"
+                         "tempo":  "00:22:21"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:44:45"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "BALTIERI BALTIERI E CIA LTDA.",
-                         "mun":  "SAO PEDRO",
-                         "tempo":  "00:05:21"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MANDARIN LTDA",
-                         "mun":  "JACAREI",
-                         "tempo":  "00:07:59"
+                         "tempo":  "00:59:38"
                      }
                  ],
     "hist":  [
@@ -1692,8 +1725,8 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     91,
-                     12
+                     94,
+                     13
                  ]
              ],
     "historico":  {
@@ -13225,7 +13258,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13321,10 +13354,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  54.82,
-                                                       "tv":  290
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  57.24,
+                                                       "tv":  334
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -13375,10 +13408,19 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  1,
-                                                       "km":  35,
-                                                       "tv":  312
+                                                       "km":  36.22,
+                                                       "tv":  327
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  30.84,
+                                                       "tv":  188
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -13397,15 +13439,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  49.62,
                                                        "tv":  302
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  30.66,
-                                                       "tv":  171
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -13838,6 +13871,13 @@ window.PAINEL = {
                                                          "tv":  45
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "OPINI",
+                                                         "p":  1,
+                                                         "km":  2.42,
+                                                         "tv":  44
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                                          "p":  1,
@@ -13926,6 +13966,13 @@ window.PAINEL = {
                                                          "r":  "BALTIERI BALTIERI",
                                                          "p":  0,
                                                          "km":  1.11,
+                                                         "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "BALTIERI BALTIERI E CIA LTDA.",
+                                                         "p":  0,
+                                                         "km":  1.22,
                                                          "tv":  15
                                                      },
                                                      {
@@ -14032,6 +14079,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.54,
                                                          "tv":  16
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MANDARIN LTDA",
+                                                         "p":  1,
+                                                         "km":  0.18,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Nelson",

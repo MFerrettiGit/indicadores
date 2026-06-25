@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11623,10 +11623,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  54.82,
-                                     "tv":  290
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  57.24,
+                                     "tv":  334
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -11677,10 +11677,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  1,
-                                     "km":  35,
-                                     "tv":  312
+                                     "km":  36.22,
+                                     "tv":  327
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  30.84,
+                                     "tv":  188
                                  },
                                  {
                                      "nome":  "Castro",
@@ -11699,15 +11708,6 @@
                                      "pe":  5,
                                      "km":  49.62,
                                      "tv":  302
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  30.66,
-                                     "tv":  171
                                  },
                                  {
                                      "nome":  "Alan",
@@ -12140,6 +12140,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "OPINI",
+                                       "p":  1,
+                                       "km":  2.42,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                        "p":  1,
@@ -12228,6 +12235,13 @@
                                        "r":  "BALTIERI BALTIERI",
                                        "p":  0,
                                        "km":  1.11,
+                                       "tv":  15
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BALTIERI BALTIERI E CIA LTDA.",
+                                       "p":  0,
+                                       "km":  1.22,
                                        "tv":  15
                                    },
                                    {
@@ -12334,6 +12348,13 @@
                                        "p":  1,
                                        "km":  3.54,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIN LTDA",
+                                       "p":  1,
+                                       "km":  0.18,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Nelson",
