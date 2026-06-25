@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  74.11,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:17",
+                     "ultimo":  "16:29",
+                     "tv":  "05:55:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "13:10",
                      "tv":  "04:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  54.66,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:17",
-                     "ultimo":  "15:22",
-                     "tv":  "05:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -1095,6 +1095,15 @@ window.PAINEL = {
                          "dur":  "01:25:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO GAROTAO LAGOINHA LTDA - EPP",
+                         "mun":  "UBATUBA",
+                         "in":  "16:03:09",
+                         "out":  "16:29:29",
+                         "km":  19.45,
+                         "dur":  "00:26:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
                          "mun":  "ITU",
@@ -1457,7 +1466,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:26:32"
+                        "tempo":  "08:41:32"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1465,7 +1474,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:23:51"
+                        "tempo":  "08:38:51"
                     },
                     {
                         "nome":  "Aline",
@@ -1473,7 +1482,7 @@ window.PAINEL = {
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:49"
+                        "tempo":  "01:04:49"
                     },
                     {
                         "nome":  "Silmara",
@@ -1481,7 +1490,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:17"
+                        "tempo":  "00:59:17"
                     },
                     {
                         "nome":  "Maira",
@@ -1489,7 +1498,7 @@ window.PAINEL = {
                         "obs":  "santa Bárbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:23"
+                        "tempo":  "00:25:23"
                     },
                     {
                         "nome":  "Cominato",
@@ -1497,7 +1506,7 @@ window.PAINEL = {
                         "obs":  "retorno piracicaba",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:04"
+                        "tempo":  "00:25:04"
                     }
                 ],
     "semped":  [
@@ -1591,73 +1600,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:41:36"
+                         "tempo":  "00:56:35"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:40:59"
+                         "tempo":  "00:55:58"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "02:41:09"
+                         "tempo":  "02:56:08"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:47:11"
+                         "tempo":  "03:02:10"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "00:44:51"
+                         "tempo":  "00:59:50"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "COMERCIO DE PROD. ALIM. ZACCARIOTTO LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:08:10"
+                         "tempo":  "00:23:09"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "N ARAUJO MERCADO LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:25:41"
+                         "tempo":  "00:40:40"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:20:55"
+                         "tempo":  "00:35:54"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:51:52"
+                         "tempo":  "02:06:51"
                      },
                      {
-                         "nome":  "Karina",
-                         "razao":  "MERCADO GAROTAO LAGOINHA LTDA - EPP",
-                         "mun":  "UBATUBA",
-                         "tempo":  "00:21:05"
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PORTO FELIZ",
+                         "tempo":  "00:14:48"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:37:24"
+                         "tempo":  "00:52:23"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "01:14:41"
+                         "tempo":  "01:29:40"
                      }
                  ],
     "hist":  [
@@ -1768,7 +1777,7 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     97,
+                     98,
                      15
                  ]
              ],
@@ -13301,7 +13310,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13484,6 +13493,15 @@ window.PAINEL = {
                                                        "tv":  302
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  74.11,
+                                                       "tv":  355
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -13491,15 +13509,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  13.38,
                                                        "tv":  287
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  54.66,
-                                                       "tv":  329
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -14087,6 +14096,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.14,
                                                          "tv":  85
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO GAROTAO LAGOINHA LTDA - EPP",
+                                                         "p":  1,
+                                                         "km":  19.45,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Lucas",

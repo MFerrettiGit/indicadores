@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11710,6 +11710,15 @@
                                      "tv":  302
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  74.11,
+                                     "tv":  355
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -11717,15 +11726,6 @@
                                      "pe":  2,
                                      "km":  13.38,
                                      "tv":  287
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  54.66,
-                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -12313,6 +12313,13 @@
                                        "p":  1,
                                        "km":  24.14,
                                        "tv":  85
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO GAROTAO LAGOINHA LTDA - EPP",
+                                       "p":  1,
+                                       "km":  19.45,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Lucas",
