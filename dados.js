@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  65.16,
+                     "km":  72.42,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:52",
@@ -158,14 +158,29 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  57.24,
+                     "visitas":  8,
+                     "km":  57.96,
                      "semPed":  1,
-                     "perc":  14.29,
+                     "perc":  12.5,
                      "primeiro":  "08:28",
-                     "ultimo":  "15:56",
+                     "ultimo":  "17:49",
+                     "tv":  "07:24:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  176.3,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:41",
+                     "ultimo":  "17:52",
                      "tv":  "05:34:00",
-                     "emVisita":  1,
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -174,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  118.18,
+                     "km":  120.3,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "08:21",
@@ -189,28 +204,28 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  50.31,
+                     "km":  94.58,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "08:27",
                      "ultimo":  "16:14",
                      "tv":  "05:28:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  171.86,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:41",
-                     "ultimo":  "15:21",
-                     "tv":  "03:22:00",
-                     "emVisita":  1,
+                     "visitas":  3,
+                     "km":  10.84,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:14",
+                     "ultimo":  "17:47",
+                     "tv":  "03:28:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -219,28 +234,13 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  4.04,
+                     "km":  4.55,
                      "semPed":  1,
                      "perc":  33.33,
                      "primeiro":  "08:45",
                      "ultimo":  "16:51",
                      "tv":  "06:27:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  8.26,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "11:16",
-                     "tv":  "02:50:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -294,7 +294,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  30.84,
+                     "km":  48.11,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:43",
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  124.03,
+                     "visitas":  3,
+                     "km":  187.83,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "09:20",
-                     "ultimo":  "14:53",
-                     "tv":  "03:28:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:07",
+                     "tv":  "05:48:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:41:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
+                         "mun":  "TAQUARITINGA",
+                         "in":  "15:39:23",
+                         "out":  "17:52:09",
+                         "km":  4.44,
+                         "dur":  "02:12:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SM. SAO PAULO LTDA.",
                          "mun":  "FRANCA",
@@ -760,6 +769,15 @@ window.PAINEL = {
                          "out":  "11:16:18",
                          "km":  3.57,
                          "dur":  "01:08:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "17:08:58",
+                         "out":  "17:47:17",
+                         "km":  1.83,
+                         "dur":  "00:38:00"
                      },
                      {
                          "nome":  "Maira",
@@ -949,6 +967,15 @@ window.PAINEL = {
                          "out":  "15:56:06",
                          "km":  2.42,
                          "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "N ARAUJO MERCADO LTDA",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "15:58:33",
+                         "out":  "17:49:26",
+                         "km":  0.72,
+                         "dur":  "01:50:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1300,6 +1327,15 @@ window.PAINEL = {
                          "out":  "14:53:02",
                          "km":  67.61,
                          "dur":  "00:58:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:46:50",
+                         "out":  "18:07:40",
+                         "km":  63.8,
+                         "dur":  "02:20:00"
                      }
                  ],
     "eventos":  [
@@ -1318,6 +1354,14 @@ window.PAINEL = {
                         "inicio":  "12:56",
                         "final":  "13:56",
                         "tempo":  "00:59:34"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa Bárbara",
+                        "inicio":  "16:15",
+                        "final":  "17:48",
+                        "tempo":  "01:33:35"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1374,6 +1418,14 @@ window.PAINEL = {
                         "inicio":  "12:32",
                         "final":  "13:32",
                         "tempo":  "01:00:18"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "antonelli 2",
+                        "inicio":  "16:52",
+                        "final":  "18:02",
+                        "tempo":  "01:10:26"
                     },
                     {
                         "nome":  "Luis",
@@ -1597,23 +1649,7 @@ window.PAINEL = {
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:04:46"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "santa Bárbara",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:25:20"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "antonelli 2",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:22"
+                        "tempo":  "02:34:42"
                     },
                     {
                         "nome":  "Cominato",
@@ -1621,7 +1657,15 @@ window.PAINEL = {
                         "obs":  "Digitar pedido scoton",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:06"
+                        "tempo":  "01:18:02"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Ribeirão Bonito a São carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:18:24"
                     }
                 ],
     "semped":  [
@@ -1660,6 +1704,12 @@ window.PAINEL = {
                        "razao":  "J.L. DAOLIO",
                        "mun":  "AMPARO",
                        "obs":  "analise da loja"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
                    },
                    {
                        "nome":  "Lucas",
@@ -1741,30 +1791,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:30:12"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
-                         "mun":  "TAQUARITINGA",
-                         "tempo":  "01:59:47"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "N ARAUJO MERCADO LTDA",
-                         "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "01:40:37"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:52:20"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1874,8 +1901,8 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     109,
-                     20
+                     114,
+                     21
                  ]
              ],
     "historico":  {
@@ -13407,7 +13434,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13442,7 +13469,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  65.16,
+                                                       "km":  72.42,
                                                        "tv":  474
                                                    },
                                                    {
@@ -13503,9 +13530,18 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  8,
+                                                       "pe":  7,
+                                                       "km":  57.96,
+                                                       "tv":  444
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  7,
-                                                       "pe":  6,
-                                                       "km":  57.24,
+                                                       "pe":  7,
+                                                       "km":  176.3,
                                                        "tv":  334
                                                    },
                                                    {
@@ -13514,7 +13550,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  118.18,
+                                                       "km":  120.3,
                                                        "tv":  289
                                                    },
                                                    {
@@ -13523,17 +13559,17 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  50.31,
+                                                       "km":  94.58,
                                                        "tv":  328
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  171.86,
-                                                       "tv":  202
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  10.84,
+                                                       "tv":  208
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -13541,17 +13577,8 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  2,
-                                                       "km":  4.04,
+                                                       "km":  4.55,
                                                        "tv":  387
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  8.26,
-                                                       "tv":  170
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -13586,7 +13613,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  30.84,
+                                                       "km":  48.11,
                                                        "tv":  188
                                                    },
                                                    {
@@ -13620,10 +13647,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  124.03,
-                                                       "tv":  208
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  187.83,
+                                                       "tv":  348
                                                    }
                                                ],
                                          "cli":  [
@@ -13922,6 +13949,13 @@ window.PAINEL = {
                                                          "tv":  41
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "RAFAEL YOSHIHIRO WATANABE - ME.",
+                                                         "p":  1,
+                                                         "km":  4.44,
+                                                         "tv":  132
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SM. SAO PAULO LTDA.",
                                                          "p":  1,
@@ -13934,6 +13968,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.57,
                                                          "tv":  68
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  1.83,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -14081,6 +14122,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.42,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "N ARAUJO MERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  0.72,
+                                                         "tv":  110
                                                      },
                                                      {
                                                          "n":  "Alan",
@@ -14354,6 +14402,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  67.61,
                                                          "tv":  58
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  0,
+                                                         "km":  63.8,
+                                                         "tv":  140
                                                      }
                                                  ]
                                      }

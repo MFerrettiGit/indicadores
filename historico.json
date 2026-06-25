@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11562,7 +11562,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  65.16,
+                                     "km":  72.42,
                                      "tv":  474
                                  },
                                  {
@@ -11623,9 +11623,18 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
+                                     "vi":  8,
+                                     "pe":  7,
+                                     "km":  57.96,
+                                     "tv":  444
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
                                      "vi":  7,
-                                     "pe":  6,
-                                     "km":  57.24,
+                                     "pe":  7,
+                                     "km":  176.3,
                                      "tv":  334
                                  },
                                  {
@@ -11634,7 +11643,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  4,
-                                     "km":  118.18,
+                                     "km":  120.3,
                                      "tv":  289
                                  },
                                  {
@@ -11643,17 +11652,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  4,
-                                     "km":  50.31,
+                                     "km":  94.58,
                                      "tv":  328
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  171.86,
-                                     "tv":  202
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  10.84,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -11661,17 +11670,8 @@
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  2,
-                                     "km":  4.04,
+                                     "km":  4.55,
                                      "tv":  387
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.26,
-                                     "tv":  170
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -11706,7 +11706,7 @@
                                      "regional":  "SUL",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  30.84,
+                                     "km":  48.11,
                                      "tv":  188
                                  },
                                  {
@@ -11740,10 +11740,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  124.03,
-                                     "tv":  208
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  187.83,
+                                     "tv":  348
                                  }
                              ],
                        "cli":  [
@@ -12042,6 +12042,13 @@
                                        "tv":  41
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "RAFAEL YOSHIHIRO WATANABE - ME.",
+                                       "p":  1,
+                                       "km":  4.44,
+                                       "tv":  132
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  1,
@@ -12054,6 +12061,13 @@
                                        "p":  1,
                                        "km":  3.57,
                                        "tv":  68
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.83,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Maira",
@@ -12201,6 +12215,13 @@
                                        "p":  1,
                                        "km":  2.42,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "N ARAUJO MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.72,
+                                       "tv":  110
                                    },
                                    {
                                        "n":  "Alan",
@@ -12474,6 +12495,13 @@
                                        "p":  1,
                                        "km":  67.61,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0,
+                                       "km":  63.8,
+                                       "tv":  140
                                    }
                                ]
                    }
