@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,21 +94,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -122,6 +107,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Milene",
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  49.56,
+                     "semPed":  1,
+                     "perc":  33.33,
+                     "primeiro":  "08:28",
+                     "ultimo":  "11:47",
+                     "tv":  "03:03:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -165,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "09:41",
                      "ultimo":  "11:30",
                      "tv":  "01:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -181,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:16",
                      "tv":  "02:50:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -211,21 +226,6 @@ window.PAINEL = {
                      "ultimo":  "11:33",
                      "tv":  "02:49:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  48.54,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:28",
-                     "ultimo":  "10:49",
-                     "tv":  "02:15:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -353,15 +353,15 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  56.42,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "09:20",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "11:50",
+                     "tv":  "02:30:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -618,6 +618,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "ANA APARECIDA RIVA OPINI-ME",
+                         "mun":  "RIBEIRAO BONITO",
+                         "in":  "10:58:51",
+                         "out":  "11:47:16",
+                         "km":  1.02,
+                         "dur":  "00:48:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                          "mun":  "CAMPINAS",
@@ -751,6 +760,15 @@ window.PAINEL = {
                          "out":  "10:29:34",
                          "km":  8.18,
                          "dur":  "00:58:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                         "mun":  "ITAPEVA",
+                         "in":  "09:20:13",
+                         "out":  "11:50:39",
+                         "km":  56.42,
+                         "dur":  "02:30:00"
                      }
                  ],
     "eventos":  [
@@ -832,7 +850,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:40:58"
+                        "tempo":  "03:56:00"
                     },
                     {
                         "nome":  "Eduardo",
@@ -840,7 +858,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:38:17"
+                        "tempo":  "03:53:19"
                     },
                     {
                         "nome":  "Evandro",
@@ -848,7 +866,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:14"
+                        "tempo":  "00:26:16"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Iapeva a Capão Bonito",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:48"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:03"
                     }
                 ],
     "semped":  [
@@ -857,6 +891,12 @@ window.PAINEL = {
                        "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
                        "mun":  "CAMPINAS",
                        "obs":  "merchandising"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                       "mun":  "ITAPEVA",
+                       "obs":  "resolvendo l.m. de 200 ml"
                    },
                    {
                        "nome":  "Castro",
@@ -888,67 +928,61 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:11:10"
+                         "tempo":  "01:26:09"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:03:27"
+                         "tempo":  "00:18:26"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:02:10"
+                         "tempo":  "01:17:09"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:46:05"
+                         "tempo":  "02:01:04"
                      },
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "ANA APARECIDA RIVA OPINI-ME",
-                         "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:40:21"
+                         "nome":  "Fernando",
+                         "razao":  "SUPERMERCADO COMP FACIL J.O.M.S. EIRELI",
+                         "mun":  "TAQUARITINGA",
+                         "tempo":  "00:08:26"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO-COMERCIO ATACADISTA E VAREJISTA LT",
                          "mun":  "JARINU",
-                         "tempo":  "00:24:46"
+                         "tempo":  "00:39:45"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "MARCIANO BERTUZZI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:05:39"
+                         "tempo":  "00:20:38"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROSEMARY RASCAO DE OLIVEIRA-EPP.",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:57:04"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
-                         "mun":  "ITAPEVA",
-                         "tempo":  "02:18:59"
+                         "tempo":  "01:12:03"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:50:43"
+                         "tempo":  "02:05:42"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:48:51"
+                         "tempo":  "01:03:50"
                      }
                  ],
     "hist":  [
@@ -1059,8 +1093,8 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     45,
-                     5
+                     47,
+                     6
                  ]
              ],
     "historico":  {
@@ -12592,7 +12626,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -12649,21 +12683,21 @@ window.PAINEL = {
                                                        "tv":  168
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  6.92,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
                                                        "tv":  0
                                                    },
                                                    {
@@ -12683,6 +12717,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0.67,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  49.56,
+                                                       "tv":  183
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -12719,15 +12762,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  44.3,
                                                        "tv":  169
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  48.54,
-                                                       "tv":  135
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -12805,10 +12839,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  56.42,
+                                                       "tv":  150
                                                    }
                                                ],
                                          "cli":  [
@@ -13009,6 +13043,13 @@ window.PAINEL = {
                                                          "tv":  21
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "ANA APARECIDA RIVA OPINI-ME",
+                                                         "p":  1,
+                                                         "km":  1.02,
+                                                         "tv":  48
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                                          "p":  1,
@@ -13112,6 +13153,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.18,
                                                          "tv":  58
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                                         "p":  0,
+                                                         "km":  56.42,
+                                                         "tv":  150
                                                      }
                                                  ]
                                      }

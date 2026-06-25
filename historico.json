@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11584,21 +11584,21 @@
                                      "tv":  168
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  6.92,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11618,6 +11618,15 @@
                                      "pe":  0,
                                      "km":  0.67,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  49.56,
+                                     "tv":  183
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -11654,15 +11663,6 @@
                                      "pe":  2,
                                      "km":  44.3,
                                      "tv":  169
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  48.54,
-                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -11740,10 +11740,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  56.42,
+                                     "tv":  150
                                  }
                              ],
                        "cli":  [
@@ -11944,6 +11944,13 @@
                                        "tv":  21
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "ANA APARECIDA RIVA OPINI-ME",
+                                       "p":  1,
+                                       "km":  1.02,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "E.J.V. OLIVEIRA SUPERMERCADOS LTDA - ME",
                                        "p":  1,
@@ -12047,6 +12054,13 @@
                                        "p":  1,
                                        "km":  8.18,
                                        "tv":  58
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
+                                       "p":  0,
+                                       "km":  56.42,
+                                       "tv":  150
                                    }
                                ]
                    }
