@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11537,6 +11537,15 @@
                                      "pe":  0,
                                      "km":  60.09,
                                      "tv":  152
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  46.18,
+                                     "tv":  107
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -11573,15 +11582,6 @@
                                      "pe":  0,
                                      "km":  24.75,
                                      "tv":  67
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  42.66,
-                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -11638,6 +11638,15 @@
                                      "tv":  70
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  47.93,
+                                     "tv":  114
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -11653,15 +11662,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.56,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -11683,6 +11683,15 @@
                                      "tv":  65
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  26.21,
+                                     "tv":  132
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -11699,15 +11708,6 @@
                                      "pe":  1,
                                      "km":  7.79,
                                      "tv":  124
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  26.07,
-                                     "tv":  97
                                  },
                                  {
                                      "nome":  "Karina",
@@ -11762,6 +11762,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.52,
+                                       "tv":  92
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -11804,6 +11811,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "G MAX SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  96.61,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SM. SAO PAULO LTDA.",
                                        "p":  1,
@@ -11823,6 +11837,13 @@
                                        "p":  1,
                                        "km":  2.42,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "OPINI SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  47.93,
+                                       "tv":  114
                                    },
                                    {
                                        "n":  "Alan",
@@ -11865,6 +11886,13 @@
                                        "p":  0,
                                        "km":  26.07,
                                        "tv":  97
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BALTIERI BALTIERI",
+                                       "p":  0,
+                                       "km":  0.14,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Eugenio",
