@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11605,10 +11605,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  79.66,
-                                     "tv":  367
+                                     "km":  80.6,
+                                     "tv":  431
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -11629,6 +11629,15 @@
                                      "tv":  334
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  50.31,
+                                     "tv":  328
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -11636,15 +11645,6 @@
                                      "pe":  6,
                                      "km":  171.86,
                                      "tv":  202
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  48.56,
-                                     "tv":  308
                                  },
                                  {
                                      "nome":  "Costa",
@@ -11731,10 +11731,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  34.71,
-                                     "tv":  148
+                                     "km":  65.2,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -12056,6 +12056,13 @@
                                        "tv":  33
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
+                                       "p":  0,
+                                       "km":  1.75,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                        "p":  1,
@@ -12082,6 +12089,13 @@
                                        "p":  1,
                                        "km":  25.44,
                                        "tv":  75
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  0.94,
+                                       "tv":  64
                                    },
                                    {
                                        "n":  "Rachel",
@@ -12313,6 +12327,13 @@
                                        "p":  0,
                                        "km":  3.56,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  0,
+                                       "km":  30.49,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Mariangela",

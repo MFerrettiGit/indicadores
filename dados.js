@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  79.66,
+                     "visitas":  5,
+                     "km":  80.6,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:06",
-                     "ultimo":  "14:51",
-                     "tv":  "06:07:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:11",
+                     "tv":  "07:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  50.31,
+                     "semPed":  2,
+                     "perc":  33.33,
+                     "primeiro":  "08:27",
+                     "ultimo":  "16:14",
+                     "tv":  "05:28:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -184,21 +199,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  48.56,
-                     "semPed":  1,
-                     "perc":  20,
-                     "primeiro":  "08:27",
-                     "ultimo":  "15:35",
-                     "tv":  "05:08:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "15:15",
                      "tv":  "03:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "11:16",
                      "tv":  "02:50:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "16:04",
                      "tv":  "05:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -338,13 +338,13 @@ window.PAINEL = {
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  34.71,
-                     "semPed":  1,
-                     "perc":  50,
+                     "visitas":  3,
+                     "km":  65.2,
+                     "semPed":  2,
+                     "perc":  66.67,
                      "primeiro":  "08:54",
-                     "ultimo":  "13:32",
-                     "tv":  "02:28:00",
+                     "ultimo":  "16:14",
+                     "tv":  "03:28:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -762,6 +762,15 @@ window.PAINEL = {
                          "dur":  "00:33:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
+                         "mun":  "ARTUR NOGUEIRA",
+                         "in":  "15:53:30",
+                         "out":  "16:14:01",
+                         "km":  1.75,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
@@ -796,6 +805,15 @@ window.PAINEL = {
                          "out":  "14:51:20",
                          "km":  25.44,
                          "dur":  "01:15:00"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "15:06:45",
+                         "out":  "16:11:36",
+                         "km":  0.94,
+                         "dur":  "01:04:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -1095,6 +1113,15 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "PORTO FELIZ",
+                         "in":  "15:14:02",
+                         "out":  "16:14:25",
+                         "km":  30.49,
+                         "dur":  "01:00:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
                          "mun":  "SAO JOSE DOS CA",
@@ -1247,6 +1274,14 @@ window.PAINEL = {
                         "inicio":  "13:25",
                         "final":  "15:34",
                         "tempo":  "02:09:21"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Aidan Bonomi",
+                        "inicio":  "15:47",
+                        "final":  "16:14",
+                        "tempo":  "00:27:29"
                     },
                     {
                         "nome":  "Lucas",
@@ -1422,7 +1457,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:11:22"
+                        "tempo":  "08:26:32"
                     },
                     {
                         "nome":  "Eduardo",
@@ -1430,7 +1465,7 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:08:41"
+                        "tempo":  "08:23:51"
                     },
                     {
                         "nome":  "Aline",
@@ -1438,7 +1473,7 @@ window.PAINEL = {
                         "obs":  "cartório",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:39"
+                        "tempo":  "00:49:49"
                     },
                     {
                         "nome":  "Silmara",
@@ -1446,15 +1481,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:07"
+                        "tempo":  "00:44:17"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Aidan Bonomi",
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa Bárbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:00"
+                        "tempo":  "00:10:23"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Em Viagem",
+                        "obs":  "retorno piracicaba",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:04"
                     }
                 ],
     "semped":  [
@@ -1463,6 +1506,12 @@ window.PAINEL = {
                        "razao":  "IVAN SANTOS TEIXEIRA - EIRELI",
                        "mun":  "ARTUR NOGUEIRA",
                        "obs":  "compras suspensa, comprador férias."
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
+                       "mun":  "ARTUR NOGUEIRA",
+                       "obs":  "compradora ausente"
                    },
                    {
                        "nome":  "Alan",
@@ -1480,6 +1529,12 @@ window.PAINEL = {
                        "nome":  "Lucas",
                        "razao":  "SUPERMERCADO DELTA MAX LTDA",
                        "mun":  "ITU",
+                       "obs":  "visita"
+                   },
+                   {
+                       "nome":  "Lucas",
+                       "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                       "mun":  "PORTO FELIZ",
                        "obs":  "visita"
                    },
                    {
@@ -1536,85 +1591,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "CORDEIROPOLIS",
-                         "tempo":  "00:26:33"
+                         "tempo":  "00:41:36"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:25:56"
+                         "tempo":  "00:40:59"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "02:26:06"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
-                         "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:15:41"
+                         "tempo":  "02:41:09"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A. BARBOSA SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "02:32:08"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADOS GRICKI LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:02:26"
+                         "tempo":  "02:47:11"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAFAEL YOSHIHIRO WATANABE - ME.",
                          "mun":  "TAQUARITINGA",
-                         "tempo":  "00:29:48"
+                         "tempo":  "00:44:51"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "COMERCIO DE PROD. ALIM. ZACCARIOTTO LTDA",
+                         "mun":  "LEME",
+                         "tempo":  "00:08:10"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "N ARAUJO MERCADO LTDA",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:10:38"
+                         "tempo":  "00:25:41"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:05:52"
+                         "tempo":  "00:20:55"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:36:49"
+                         "tempo":  "01:51:52"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO GAROTAO LAGOINHA LTDA - EPP",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:06:02"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
-                         "mun":  "PORTO FELIZ",
-                         "tempo":  "00:55:09"
+                         "tempo":  "00:21:05"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:22:21"
+                         "tempo":  "00:37:24"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO TULON LTDA.",
                          "mun":  "ITATIBA",
-                         "tempo":  "00:59:38"
+                         "tempo":  "01:14:41"
                      }
                  ],
     "hist":  [
@@ -1725,8 +1768,8 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     94,
-                     13
+                     97,
+                     15
                  ]
              ],
     "historico":  {
@@ -13258,7 +13301,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13336,10 +13379,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  79.66,
-                                                       "tv":  367
+                                                       "km":  80.6,
+                                                       "tv":  431
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -13360,6 +13403,15 @@ window.PAINEL = {
                                                        "tv":  334
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  4,
+                                                       "km":  50.31,
+                                                       "tv":  328
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -13367,15 +13419,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  171.86,
                                                        "tv":  202
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  48.56,
-                                                       "tv":  308
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -13462,10 +13505,10 @@ window.PAINEL = {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  1,
-                                                       "km":  34.71,
-                                                       "tv":  148
+                                                       "km":  65.2,
+                                                       "tv":  208
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -13787,6 +13830,13 @@ window.PAINEL = {
                                                          "tv":  33
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "ELIENE CANDIDA TEIXEIRA MERCEARIA",
+                                                         "p":  0,
+                                                         "km":  1.75,
+                                                         "tv":  20
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                                          "p":  1,
@@ -13813,6 +13863,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  25.44,
                                                          "tv":  75
+                                                     },
+                                                     {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1,
+                                                         "km":  0.94,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Rachel",
@@ -14044,6 +14101,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.56,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                                         "p":  0,
+                                                         "km":  30.49,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Mariangela",
