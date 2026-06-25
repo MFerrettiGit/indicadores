@@ -11527,7 +11527,7 @@
                                ]
                    },
     "2026-06-25":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -11584,15 +11584,6 @@
                                      "tv":  82
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -11602,13 +11593,22 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  39.55,
-                                     "tv":  27
+                                     "km":  40.37,
+                                     "tv":  237
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -11618,6 +11618,15 @@
                                      "pe":  0,
                                      "km":  0.67,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.26,
+                                     "tv":  170
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -11636,15 +11645,6 @@
                                      "pe":  2,
                                      "km":  149.87,
                                      "tv":  66
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.69,
-                                     "tv":  102
                                  },
                                  {
                                      "nome":  "Costa",
@@ -11692,6 +11692,15 @@
                                      "tv":  147
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  8.96,
+                                     "tv":  191
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -11708,15 +11717,6 @@
                                      "pe":  2,
                                      "km":  14.33,
                                      "tv":  75
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.79,
-                                     "tv":  124
                                  },
                                  {
                                      "nome":  "Karina",
@@ -11853,6 +11853,13 @@
                                        "tv":  102
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                                       "p":  1,
+                                       "km":  3.57,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "GUIDOLIN E GUIDOLIN LTDA.",
                                        "p":  1,
@@ -11900,6 +11907,13 @@
                                        "p":  1,
                                        "km":  7.79,
                                        "tv":  124
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                                       "p":  0,
+                                       "km":  1.17,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Castro",

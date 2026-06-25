@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "25/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,21 +94,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Vinicius",
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
@@ -124,18 +109,33 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Milene",
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  39.55,
+                     "visitas":  2,
+                     "km":  40.37,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:06",
-                     "ultimo":  "07:33",
-                     "tv":  "00:27:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:09",
+                     "tv":  "03:57:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -152,6 +152,21 @@ window.PAINEL = {
                      "tv":  "00:00:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  8.26,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:14",
+                     "ultimo":  "11:16",
+                     "tv":  "02:50:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -180,21 +195,6 @@ window.PAINEL = {
                      "primeiro":  "09:41",
                      "ultimo":  "11:04",
                      "tv":  "01:06:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  4.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:14",
-                     "ultimo":  "09:59",
-                     "tv":  "01:42:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -270,6 +270,21 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "11:08",
                      "tv":  "02:27:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  8.96,
+                     "semPed":  1,
+                     "perc":  50,
+                     "primeiro":  "08:01",
+                     "ultimo":  "11:23",
+                     "tv":  "03:11:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -301,21 +316,6 @@ window.PAINEL = {
                      "ultimo":  "10:29",
                      "tv":  "01:15:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  7.79,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "10:06",
-                     "tv":  "02:04:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -501,6 +501,15 @@ window.PAINEL = {
                          "dur":  "01:42:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "10:07:57",
+                         "out":  "11:16:18",
+                         "km":  3.57,
+                         "dur":  "01:08:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "GUIDOLIN E GUIDOLIN LTDA.",
                          "mun":  "ARTUR NOGUEIRA",
@@ -562,6 +571,15 @@ window.PAINEL = {
                          "out":  "10:06:12",
                          "km":  7.79,
                          "dur":  "02:04:00"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:16:12",
+                         "out":  "11:23:21",
+                         "km":  1.17,
+                         "dur":  "01:07:00"
                      },
                      {
                          "nome":  "Castro",
@@ -760,7 +778,7 @@ window.PAINEL = {
                         "obs":  "troca de bomba de combustível",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:10:55"
+                        "tempo":  "03:26:00"
                     },
                     {
                         "nome":  "Eduardo",
@@ -768,10 +786,16 @@ window.PAINEL = {
                         "obs":  "administrativo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:08:14"
+                        "tempo":  "03:23:19"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Alan",
+                       "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                       "mun":  "CAMPINAS",
+                       "obs":  "merchandising"
+                   },
                    {
                        "nome":  "Castro",
                        "razao":  "MERCADO SAO JOSE DOMINGOS LTDA.",
@@ -802,97 +826,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:41:09"
+                         "tempo":  "00:56:12"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:06:14"
+                         "tempo":  "00:21:17"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:01:10"
+                         "tempo":  "00:16:13"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:32:09"
+                         "tempo":  "00:47:12"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:28:52"
+                         "tempo":  "00:43:55"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "GUIDOLIN",
                          "mun":  "ARTUR NOGUEIRA",
-                         "tempo":  "00:23:48"
+                         "tempo":  "00:38:51"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J.L. DAOLIO",
                          "mun":  "AMPARO",
-                         "tempo":  "01:16:04"
+                         "tempo":  "01:31:07"
                      },
                      {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:01:14"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
-                         "mun":  "PONTAL",
-                         "tempo":  "03:30:01"
+                         "nome":  "Fernando",
+                         "razao":  "G EMPORIO JURUPEMA LTDA",
+                         "mun":  "TAQUARITINGA",
+                         "tempo":  "00:09:10"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:01:17"
+                         "tempo":  "01:16:20"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "ANA APARECIDA RIVA OPINI-ME",
                          "mun":  "RIBEIRAO BONITO",
-                         "tempo":  "00:10:20"
+                         "tempo":  "00:25:23"
                      },
                      {
-                         "nome":  "Alan",
-                         "razao":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:52:59"
+                         "nome":  "Eugenio",
+                         "razao":  "UNIAO-COMERCIO ATACADISTA E VAREJISTA LT",
+                         "mun":  "JARINU",
+                         "tempo":  "00:09:48"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "ROSEMARY RASCAO DE OLIVEIRA-EPP.",
                          "mun":  "UBATUBA",
-                         "tempo":  "00:27:03"
+                         "tempo":  "00:42:06"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPEVA",
-                         "tempo":  "01:48:58"
+                         "tempo":  "02:04:01"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "01:20:42"
+                         "tempo":  "01:35:45"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SCOTON LTDA.",
                          "mun":  "SAO PEDRO",
-                         "tempo":  "00:18:50"
+                         "tempo":  "00:33:53"
                      }
                  ],
     "hist":  [
@@ -1003,8 +1021,8 @@ window.PAINEL = {
                  ],
                  [
                      "25/06",
-                     35,
-                     4
+                     38,
+                     5
                  ]
              ],
     "historico":  {
@@ -12536,7 +12554,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-25":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -12593,15 +12611,6 @@ window.PAINEL = {
                                                        "tv":  82
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
@@ -12611,13 +12620,22 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  39.55,
-                                                       "tv":  27
+                                                       "km":  40.37,
+                                                       "tv":  237
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -12627,6 +12645,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  0.67,
                                                        "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  8.26,
+                                                       "tv":  170
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -12645,15 +12672,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  149.87,
                                                        "tv":  66
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  4.69,
-                                                       "tv":  102
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -12701,6 +12719,15 @@ window.PAINEL = {
                                                        "tv":  147
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  8.96,
+                                                       "tv":  191
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -12717,15 +12744,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  14.33,
                                                        "tv":  75
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  7.79,
-                                                       "tv":  124
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -12862,6 +12880,13 @@ window.PAINEL = {
                                                          "tv":  102
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO ZEZAO DE FRANCA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.57,
+                                                         "tv":  68
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "GUIDOLIN E GUIDOLIN LTDA.",
                                                          "p":  1,
@@ -12909,6 +12934,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.79,
                                                          "tv":  124
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "BR1 COMERCIO DE PRODUTOS ALIMENTICIOS LT",
+                                                         "p":  0,
+                                                         "km":  1.17,
+                                                         "tv":  67
                                                      },
                                                      {
                                                          "n":  "Castro",
