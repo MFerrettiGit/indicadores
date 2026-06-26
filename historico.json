@@ -12506,8 +12506,17 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  70.37,
+                                     "tv":  255
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -12518,13 +12527,13 @@
                                      "tv":  217
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  52.47,
-                                     "tv":  221
+                                     "km":  42.09,
+                                     "tv":  314
                                  },
                                  {
                                      "nome":  "Debora",
@@ -12545,13 +12554,13 @@
                                      "tv":  191
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  22.76,
-                                     "tv":  179
+                                     "km":  30.35,
+                                     "tv":  220
                                  },
                                  {
                                      "nome":  "Aline",
@@ -12561,15 +12570,6 @@
                                      "pe":  0,
                                      "km":  48.19,
                                      "tv":  290
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  10.98,
-                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -12818,6 +12818,13 @@
                                        "tv":  51
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  19.33,
+                                       "tv":  135
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -12839,6 +12846,13 @@
                                        "tv":  106
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  17.9,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -12851,6 +12865,13 @@
                                        "p":  1,
                                        "km":  3.44,
                                        "tv":  104
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  19.37,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Vinicius",
