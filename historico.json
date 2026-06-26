@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12516,6 +12516,15 @@
                                      "pe":  0,
                                      "km":  39.74,
                                      "tv":  70
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  34.85,
+                                     "tv":  86
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -12538,15 +12547,6 @@
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -12602,10 +12602,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  1.54,
-                                     "tv":  0
+                                     "km":  16.13,
+                                     "tv":  49
                                  },
                                  {
                                      "nome":  "Costa",
@@ -12635,21 +12635,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.32,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  21.13,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  2.32,
                                      "tv":  0
                                  },
                                  {
@@ -12707,15 +12707,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -12723,9 +12714,25 @@
                                      "pe":  0,
                                      "km":  48.1,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  34.85,
+                                       "tv":  86
+                                   },
                                    {
                                        "n":  "Edimilson",
                                        "r":  "CATO ANTONIALE",
@@ -12746,6 +12753,13 @@
                                        "p":  1,
                                        "km":  2.54,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS RUSCITO LTDA",
+                                       "p":  0,
+                                       "km":  14.59,
+                                       "tv":  49
                                    }
                                ]
                    }
