@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12653,6 +12653,15 @@
                                      "tv":  202
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  22.6,
+                                     "tv":  206
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -12669,15 +12678,6 @@
                                      "pe":  3,
                                      "km":  9.94,
                                      "tv":  195
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  15.09,
-                                     "tv":  154
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -13138,6 +13138,13 @@
                                        "p":  1,
                                        "km":  6.61,
                                        "tv":  76
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                                       "p":  1,
+                                       "km":  7.51,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Nelson",
