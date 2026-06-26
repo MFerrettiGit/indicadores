@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Eliana",
@@ -12653,6 +12653,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  9.12,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -12669,15 +12678,6 @@
                                      "pe":  1,
                                      "km":  8.15,
                                      "tv":  85
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.75,
-                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -12886,6 +12886,13 @@
                                        "p":  1,
                                        "km":  6.41,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                                       "p":  1,
+                                       "km":  2.37,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Lucas",

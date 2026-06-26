@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "10:30",
+    "dataHora":  "10:45",
     "vend":  [
                  {
                      "nome":  "Eliana",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:12",
                      "ultimo":  "10:03",
                      "tv":  "02:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "09:20",
                      "tv":  "00:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  9.12,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:12",
+                     "ultimo":  "10:31",
+                     "tv":  "02:14:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -270,21 +285,6 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "09:26",
                      "tv":  "01:25:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  6.75,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:12",
-                     "ultimo":  "09:15",
-                     "tv":  "01:03:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -573,6 +573,15 @@ window.PAINEL = {
                          "dur":  "01:03:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "09:19:40",
+                         "out":  "10:31:59",
+                         "km":  2.37,
+                         "dur":  "01:11:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "J A CRUVINEL",
                          "mun":  "SALTO",
@@ -671,124 +680,136 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:09:08"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:19:10"
+                         "tempo":  "00:34:19"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "00:47:38"
+                         "tempo":  "01:02:47"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:52:18"
+                         "tempo":  "01:07:27"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:35:46"
+                         "tempo":  "00:50:55"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:04:51"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:22:53"
+                         "tempo":  "00:38:02"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "DE CASA LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:02:42"
+                         "tempo":  "00:17:51"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:00:26"
+                         "tempo":  "00:15:35"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                          "mun":  "MORRO AGUDO",
-                         "tempo":  "01:30:35"
+                         "tempo":  "01:45:44"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "02:39:32"
+                         "tempo":  "02:54:41"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "COOP.CONS.FUNC.BANC. BRASIL DE RIB PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:00:29"
+                         "tempo":  "00:15:38"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PANTOJA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:18:43"
+                         "tempo":  "00:33:52"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MARIANA IBATE LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:19:42"
+                         "tempo":  "00:34:51"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                         "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:04:37"
+                         "tempo":  "00:04:29"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:19:58"
+                         "tempo":  "02:35:07"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "FIRMA SUPERMERCADO LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:28:42"
+                         "tempo":  "01:43:51"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "IRMAOS BRESCIANI SUPERMERCADO LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:05:08"
+                         "tempo":  "00:20:17"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:45:45"
+                         "tempo":  "01:00:54"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:30:15"
+                         "tempo":  "00:45:24"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:44:58"
+                         "tempo":  "01:00:07"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:14:01"
+                         "tempo":  "00:29:10"
                      }
                  ],
     "hist":  [
@@ -899,7 +920,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     27,
+                     28,
                      4
                  ]
              ],
@@ -13411,7 +13432,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "10:30",
+                                         "dataHora":  "10:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Eliana",
@@ -13558,6 +13579,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  9.12,
+                                                       "tv":  134
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -13574,15 +13604,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  8.15,
                                                        "tv":  85
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  6.75,
-                                                       "tv":  63
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -13791,6 +13812,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.41,
                                                          "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.37,
+                                                         "tv":  71
                                                      },
                                                      {
                                                          "n":  "Lucas",
