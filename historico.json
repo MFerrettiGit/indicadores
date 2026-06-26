@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "08:15",
+                       "dataHora":  "08:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12516,6 +12516,15 @@
                                      "pe":  0,
                                      "km":  39.74,
                                      "tv":  70
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  15.39,
+                                     "tv":  62
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -12538,15 +12547,6 @@
                                  {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -12617,6 +12617,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  1.17,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -12632,15 +12641,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.32,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.17,
                                      "tv":  0
                                  },
                                  {
@@ -12680,21 +12680,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  48.1,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.5,
                                      "tv":  0
                                  },
                                  {
@@ -12716,16 +12716,23 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0.5,
+                                     "km":  48.1,
                                      "tv":  0
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  15.39,
+                                       "tv":  62
+                                   },
                                    {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
