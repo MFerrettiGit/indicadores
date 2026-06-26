@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12608,6 +12608,24 @@
                                      "tv":  119
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  43.4,
+                                     "tv":  175
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  5.5,
+                                     "tv":  169
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -12626,31 +12644,31 @@
                                      "tv":  60
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  42.75,
-                                     "tv":  84
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.68,
-                                     "tv":  102
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.32,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  91.39,
+                                     "tv":  164
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.94,
+                                     "tv":  195
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  15.09,
+                                     "tv":  154
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -12662,22 +12680,13 @@
                                      "tv":  158
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
                                      "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  2,
-                                     "km":  9.12,
-                                     "tv":  134
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  8.48,
-                                     "tv":  78
+                                     "pe":  1,
+                                     "km":  16.66,
+                                     "tv":  196
                                  },
                                  {
                                      "nome":  "Alan",
@@ -12696,15 +12705,6 @@
                                      "pe":  1,
                                      "km":  0.61,
                                      "tv":  74
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  16.66,
-                                     "tv":  98
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -12846,6 +12846,13 @@
                                        "tv":  84
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "PANTOJA",
+                                       "p":  1,
+                                       "km":  0.65,
+                                       "tv":  91
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1,
@@ -12858,6 +12865,13 @@
                                        "p":  1,
                                        "km":  7.44,
                                        "tv":  28
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
+                                       "p":  1,
+                                       "km":  89.07,
+                                       "tv":  164
                                    },
                                    {
                                        "n":  "Maira",
@@ -12879,6 +12893,13 @@
                                        "p":  1,
                                        "km":  1.51,
                                        "tv":  102
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.A BARBOSA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.82,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -12916,6 +12937,13 @@
                                        "tv":  98
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  98
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "BALAN SUPERMERCADO LTDA",
                                        "p":  1,
@@ -12944,6 +12972,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "ARMAZEM GALDINO LTDA",
+                                       "p":  1,
+                                       "km":  0.82,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "FIRMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -12970,6 +13005,13 @@
                                        "p":  1,
                                        "km":  5.69,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
+                                       "p":  1,
+                                       "km":  6.61,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Nelson",
