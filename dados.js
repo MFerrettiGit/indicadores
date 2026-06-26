@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "14:39",
                      "tv":  "05:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:05",
                      "ultimo":  "14:42",
                      "tv":  "05:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:44",
                      "ultimo":  "14:53",
                      "tv":  "05:47:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  30.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "15:01",
+                     "tv":  "04:32:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -197,21 +212,6 @@ window.PAINEL = {
                      "tv":  "03:50:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  29.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "12:33",
-                     "tv":  "03:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  81.28,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "14:56",
+                     "tv":  "04:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -300,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "14:50",
                      "tv":  "04:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,21 +330,6 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "13:16",
                      "tv":  "03:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  76.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "13:46",
-                     "tv":  "03:37:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -735,6 +735,15 @@ window.PAINEL = {
                          "dur":  "01:12:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "YURI PADOVAN CALSA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "13:54:21",
+                         "out":  "15:01:09",
+                         "km":  1.13,
+                         "dur":  "01:06:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
@@ -985,6 +994,15 @@ window.PAINEL = {
                          "out":  "13:46:22",
                          "km":  7.84,
                          "dur":  "01:00:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "GABRIEL DE CARVALHO RIBEIRO",
+                         "mun":  "PARAIBUNA",
+                         "in":  "14:32:27",
+                         "out":  "14:56:37",
+                         "km":  4.59,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1275,7 +1293,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:26"
+                        "tempo":  "00:50:17"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1283,7 +1301,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:10"
+                        "tempo":  "00:29:01"
                     },
                     {
                         "nome":  "Costa",
@@ -1291,7 +1309,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:06"
+                        "tempo":  "00:24:57"
                     }
                 ],
     "semped":  [
@@ -1373,91 +1391,109 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:30:34"
+                         "tempo":  "03:45:27"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:14:14"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:00:26"
+                         "tempo":  "00:15:19"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "SALTO",
+                         "tempo":  "00:13:09"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:07:21"
+                         "tempo":  "00:22:14"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:46:33"
+                         "tempo":  "01:01:26"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:06:10"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "YURI PADOVAN CALSA.",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:59:59"
+                         "tempo":  "01:21:03"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:28:41"
+                         "tempo":  "00:43:34"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
                          "mun":  "IPUA",
-                         "tempo":  "00:16:09"
+                         "tempo":  "00:31:02"
+                     },
+                     {
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:00:27"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:26:52"
+                         "tempo":  "00:41:45"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:07:40"
+                         "tempo":  "00:22:33"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO ARIEL LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:03:45"
                      },
                      {
                          "nome":  "Karina",
-                         "razao":  "GABRIEL DE CARVALHO RIBEIRO",
+                         "razao":  "COUTO FILHO MINIMERCADO LTDA",
                          "mun":  "PARAIBUNA",
-                         "tempo":  "00:21:53"
+                         "tempo":  "00:00:28"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:45:16"
+                         "tempo":  "01:00:09"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:28:29"
+                         "tempo":  "00:43:22"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:43:22"
+                         "tempo":  "00:58:15"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:23:02"
+                         "tempo":  "00:37:55"
                      }
                  ],
     "hist":  [
@@ -1568,7 +1604,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     78,
+                     80,
                      12
                  ]
              ],
@@ -14080,7 +14116,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14191,6 +14227,15 @@ window.PAINEL = {
                                                        "tv":  244
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  30.73,
+                                                       "tv":  272
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -14198,15 +14243,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  49.11,
                                                        "tv":  230
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  29.6,
-                                                       "tv":  206
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -14254,6 +14290,15 @@ window.PAINEL = {
                                                        "tv":  206
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  81.28,
+                                                       "tv":  240
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -14270,15 +14315,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  95.31,
                                                        "tv":  212
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  76.69,
-                                                       "tv":  217
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -14588,6 +14624,13 @@ window.PAINEL = {
                                                          "tv":  72
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "YURI PADOVAN CALSA.",
+                                                         "p":  1,
+                                                         "km":  1.13,
+                                                         "tv":  66
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                                          "p":  1,
@@ -14782,6 +14825,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.84,
                                                          "tv":  60
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "GABRIEL DE CARVALHO RIBEIRO",
+                                                         "p":  1,
+                                                         "km":  4.59,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Lucas",

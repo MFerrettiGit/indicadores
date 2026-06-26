@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12617,6 +12617,15 @@
                                      "tv":  244
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  30.73,
+                                     "tv":  272
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -12624,15 +12633,6 @@
                                      "pe":  3,
                                      "km":  49.11,
                                      "tv":  230
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  29.6,
-                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Luis",
@@ -12680,6 +12680,15 @@
                                      "tv":  206
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  81.28,
+                                     "tv":  240
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -12696,15 +12705,6 @@
                                      "pe":  3,
                                      "km":  95.31,
                                      "tv":  212
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  76.69,
-                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Castro",
@@ -13014,6 +13014,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "YURI PADOVAN CALSA.",
+                                       "p":  1,
+                                       "km":  1.13,
+                                       "tv":  66
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                        "p":  1,
@@ -13208,6 +13215,13 @@
                                        "p":  1,
                                        "km":  7.84,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "GABRIEL DE CARVALHO RIBEIRO",
+                                       "p":  1,
+                                       "km":  4.59,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Lucas",
