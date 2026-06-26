@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  47.34,
+                     "km":  51.7,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:54",
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:45",
                      "ultimo":  "17:03",
                      "tv":  "06:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1531,7 +1531,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:46:31"
+                        "tempo":  "02:01:34"
                     },
                     {
                         "nome":  "Costa",
@@ -1539,7 +1539,7 @@ window.PAINEL = {
                         "obs":  "digitando 4 pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:41"
+                        "tempo":  "01:34:44"
                     },
                     {
                         "nome":  "Karina",
@@ -1547,7 +1547,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão enviada",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:58:14"
+                        "tempo":  "01:13:17"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1555,7 +1555,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:40"
+                        "tempo":  "01:08:43"
                     },
                     {
                         "nome":  "Rachel",
@@ -1563,7 +1563,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:05"
+                        "tempo":  "01:05:08"
                     },
                     {
                         "nome":  "Maira",
@@ -1571,7 +1571,7 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:48:05"
+                        "tempo":  "01:03:08"
                     }
                 ],
     "semped":  [
@@ -1683,37 +1683,43 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "05:45:32"
+                         "tempo":  "06:00:33"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:10:14"
+                         "tempo":  "00:25:15"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:39:13"
+                         "tempo":  "01:54:14"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:09:29"
+                         "tempo":  "00:24:30"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "JURACI BARNABE DA SILVA",
+                         "mun":  "CAPIVARI",
+                         "tempo":  "00:12:11"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:43:27"
+                         "tempo":  "02:58:28"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:48:32"
+                         "tempo":  "01:03:33"
                      }
                  ],
     "hist":  [
@@ -14336,7 +14342,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14371,7 +14377,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  47.34,
+                                                       "km":  51.7,
                                                        "tv":  418
                                                    },
                                                    {
