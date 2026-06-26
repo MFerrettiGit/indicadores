@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  70.37,
+                     "visitas":  5,
+                     "km":  73.46,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
-                     "ultimo":  "12:56",
-                     "tv":  "04:15:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:39",
+                     "tv":  "05:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -23,14 +23,14 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  24.13,
+                     "visitas":  5,
+                     "km":  28.42,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:08",
-                     "ultimo":  "11:55",
-                     "tv":  "03:37:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:30",
+                     "tv":  "04:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -98,14 +98,14 @@ window.PAINEL = {
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  48.19,
+                     "visitas":  3,
+                     "km":  55.89,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:21",
-                     "ultimo":  "12:34",
-                     "tv":  "04:50:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:31",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:44",
                      "ultimo":  "14:07",
                      "tv":  "05:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,6 +180,21 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "14:09",
                      "tv":  "04:04:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  49.11,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "14:36",
+                     "tv":  "03:50:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -199,6 +214,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  152.65,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:53",
+                     "ultimo":  "14:33",
+                     "tv":  "03:45:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -210,36 +240,6 @@ window.PAINEL = {
                      "primeiro":  "09:34",
                      "ultimo":  "12:23",
                      "tv":  "02:24:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  43.4,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "11:37",
-                     "tv":  "02:55:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  93.69,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:53",
-                     "ultimo":  "12:21",
-                     "tv":  "03:22:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "13:58",
                      "tv":  "03:58:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,8 +315,8 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "13:46",
                      "tv":  "03:37:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -360,7 +360,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "12:30",
                      "tv":  "04:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -382,6 +382,15 @@ window.PAINEL = {
                          "out":  "12:34:26",
                          "km":  14.56,
                          "dur":  "02:57:00"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
+                         "mun":  "SUMARE",
+                         "in":  "13:52:30",
+                         "out":  "14:31:38",
+                         "km":  7.7,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Debora",
@@ -445,6 +454,15 @@ window.PAINEL = {
                          "out":  "11:55:48",
                          "km":  0.92,
                          "dur":  "00:41:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                         "mun":  "INDAIATUBA",
+                         "in":  "13:32:44",
+                         "out":  "14:30:19",
+                         "km":  4.29,
+                         "dur":  "00:57:00"
                      },
                      {
                          "nome":  "Eduardo",
@@ -528,6 +546,15 @@ window.PAINEL = {
                          "dur":  "00:34:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:08:28",
+                         "out":  "14:39:22",
+                         "km":  3.09,
+                         "dur":  "01:30:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
@@ -609,6 +636,15 @@ window.PAINEL = {
                          "dur":  "01:31:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                         "mun":  "RIO CLARO",
+                         "in":  "13:41:37",
+                         "out":  "14:36:43",
+                         "km":  5.71,
+                         "dur":  "00:55:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
@@ -652,6 +688,15 @@ window.PAINEL = {
                          "out":  "12:21:45",
                          "km":  2.3,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "ANGELO FRESSATTI ROCHA EIRELI - ME",
+                         "mun":  "IPUA",
+                         "in":  "14:10:23",
+                         "out":  "14:33:39",
+                         "km":  58.96,
+                         "dur":  "00:23:00"
                      },
                      {
                          "nome":  "Maira",
@@ -1021,6 +1066,14 @@ window.PAINEL = {
                         "tempo":  "01:05:02"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "13:54",
+                        "final":  "14:26",
+                        "tempo":  "00:32:25"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "vendas",
@@ -1178,15 +1231,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:54:49"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:30:58"
+                        "tempo":  "01:10:06"
                     },
                     {
                         "nome":  "Silmara",
@@ -1194,7 +1239,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:10"
+                        "tempo":  "00:20:27"
                     }
                 ],
     "semped":  [
@@ -1270,85 +1315,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:00:25"
+                         "tempo":  "03:15:33"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:19:08"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:31:41"
+                         "tempo":  "01:34:16"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:15:43"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:51:27"
+                         "tempo":  "01:30:51"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:16:24"
+                         "tempo":  "00:31:32"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:36:01"
+                         "tempo":  "00:51:09"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "YURI PADOVAN CALSA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:29:50"
+                         "tempo":  "00:44:58"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:13:40"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "ANGELO FRESSATTI ROCHA EIRELI - ME",
+                         "razao":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
                          "mun":  "IPUA",
-                         "tempo":  "00:13:48"
+                         "tempo":  "00:01:08"
                      },
                      {
-                         "nome":  "Costa",
-                         "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "00:42:34"
+                         "nome":  "Milene",
+                         "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:03:57"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:11:51"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:16:12"
+                         "tempo":  "00:31:20"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:39:44"
+                         "tempo":  "00:54:52"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "GABRIEL DE CARVALHO RIBEIRO",
+                         "mun":  "PARAIBUNA",
+                         "tempo":  "00:06:52"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:15:07"
+                         "tempo":  "00:30:15"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MIEKO HONDA TANABE - ME",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:13:28"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:13:13"
+                         "tempo":  "00:28:21"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:08:01"
                      }
                  ],
     "hist":  [
@@ -1459,7 +1522,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     69,
+                     73,
                      11
                  ]
              ],
@@ -13971,25 +14034,25 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  70.37,
-                                                       "tv":  255
+                                                       "km":  73.46,
+                                                       "tv":  345
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  0,
-                                                       "km":  24.13,
-                                                       "tv":  217
+                                                       "km":  28.42,
+                                                       "tv":  274
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -14031,10 +14094,10 @@ window.PAINEL = {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  48.19,
-                                                       "tv":  290
+                                                       "km":  55.89,
+                                                       "tv":  329
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -14082,6 +14145,15 @@ window.PAINEL = {
                                                        "tv":  244
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  49.11,
+                                                       "tv":  230
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -14091,6 +14163,15 @@ window.PAINEL = {
                                                        "tv":  206
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  152.65,
+                                                       "tv":  225
+                                                   },
+                                                   {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
@@ -14098,24 +14179,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  51.35,
                                                        "tv":  144
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  43.4,
-                                                       "tv":  175
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  93.69,
-                                                       "tv":  202
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -14206,6 +14269,13 @@ window.PAINEL = {
                                                          "tv":  177
                                                      },
                                                      {
+                                                         "n":  "Aline",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
+                                                         "p":  1,
+                                                         "km":  7.7,
+                                                         "tv":  39
+                                                     },
+                                                     {
                                                          "n":  "Debora",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -14253,6 +14323,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.92,
                                                          "tv":  41
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                                         "p":  1,
+                                                         "km":  4.29,
+                                                         "tv":  57
                                                      },
                                                      {
                                                          "n":  "Eduardo",
@@ -14318,6 +14395,13 @@ window.PAINEL = {
                                                          "tv":  34
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.09,
+                                                         "tv":  90
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "HIGA PROD. ALIM. LTDA.",
                                                          "p":  1,
@@ -14381,6 +14465,13 @@ window.PAINEL = {
                                                          "tv":  91
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                                                         "p":  1,
+                                                         "km":  5.71,
+                                                         "tv":  55
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                                          "p":  1,
@@ -14414,6 +14505,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.3,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "ANGELO FRESSATTI ROCHA EIRELI - ME",
+                                                         "p":  1,
+                                                         "km":  58.96,
+                                                         "tv":  23
                                                      },
                                                      {
                                                          "n":  "Maira",

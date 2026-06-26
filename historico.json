@@ -12506,25 +12506,25 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  70.37,
-                                     "tv":  255
+                                     "km":  73.46,
+                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  24.13,
-                                     "tv":  217
+                                     "km":  28.42,
+                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -12566,10 +12566,10 @@
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  48.19,
-                                     "tv":  290
+                                     "km":  55.89,
+                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -12617,6 +12617,15 @@
                                      "tv":  244
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  49.11,
+                                     "tv":  230
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -12626,6 +12635,15 @@
                                      "tv":  206
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  152.65,
+                                     "tv":  225
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -12633,24 +12651,6 @@
                                      "pe":  3,
                                      "km":  51.35,
                                      "tv":  144
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  43.4,
-                                     "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  93.69,
-                                     "tv":  202
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -12741,6 +12741,13 @@
                                        "tv":  177
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
+                                       "p":  1,
+                                       "km":  7.7,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -12788,6 +12795,13 @@
                                        "p":  1,
                                        "km":  0.92,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
+                                       "p":  1,
+                                       "km":  4.29,
+                                       "tv":  57
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -12853,6 +12867,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  3.09,
+                                       "tv":  90
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -12916,6 +12937,13 @@
                                        "tv":  91
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                                       "p":  1,
+                                       "km":  5.71,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA.",
                                        "p":  1,
@@ -12949,6 +12977,13 @@
                                        "p":  1,
                                        "km":  2.3,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "ANGELO FRESSATTI ROCHA EIRELI - ME",
+                                       "p":  1,
+                                       "km":  58.96,
+                                       "tv":  23
                                    },
                                    {
                                        "n":  "Maira",
