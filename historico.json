@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12514,7 +12514,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  77.56,
+                                     "km":  83.94,
                                      "tv":  405
                                  },
                                  {
@@ -12532,7 +12532,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  49.16,
+                                     "km":  83.53,
                                      "tv":  417
                                  },
                                  {
@@ -12543,6 +12543,15 @@
                                      "pe":  0,
                                      "km":  47.34,
                                      "tv":  418
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  21.11,
+                                     "tv":  351
                                  },
                                  {
                                      "nome":  "Aline",
@@ -12561,15 +12570,6 @@
                                      "pe":  0,
                                      "km":  38.67,
                                      "tv":  259
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  16.32,
-                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -12635,6 +12635,15 @@
                                      "tv":  258
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  64.09,
+                                     "tv":  274
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -12644,13 +12653,13 @@
                                      "tv":  230
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  51.35,
-                                     "tv":  144
+                                     "vi":  6,
+                                     "pe":  1,
+                                     "km":  50.16,
+                                     "tv":  343
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -12662,22 +12671,13 @@
                                      "tv":  301
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  1,
-                                     "km":  44.38,
-                                     "tv":  299
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  5,
-                                     "km":  97.98,
-                                     "tv":  328
+                                     "km":  98.43,
+                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Karina",
@@ -12689,6 +12689,15 @@
                                      "tv":  260
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  21.39,
+                                     "tv":  361
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -12696,15 +12705,6 @@
                                      "pe":  4,
                                      "km":  22.6,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  19.26,
-                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Castro",
@@ -12965,6 +12965,13 @@
                                        "tv":  69
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SANTO COM.",
+                                       "p":  1,
+                                       "km":  4.79,
+                                       "tv":  160
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PANTOJA",
                                        "p":  1,
@@ -13005,6 +13012,13 @@
                                        "p":  1,
                                        "km":  1.54,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "MIALICH SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  12.74,
+                                       "tv":  130
                                    },
                                    {
                                        "n":  "Luis",
@@ -13189,6 +13203,13 @@
                                        "tv":  65
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO ARIEL LTDA",
+                                       "p":  1,
+                                       "km":  2.13,
+                                       "tv":  87
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                                        "p":  0,
@@ -13243,6 +13264,13 @@
                                        "p":  0,
                                        "km":  18.91,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "N N NASTARO LTDA",
+                                       "p":  0,
+                                       "km":  5.78,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -13355,6 +13383,13 @@
                                        "p":  1,
                                        "km":  0.86,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "INOVA SUPER SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  0.45,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Mariangela",
