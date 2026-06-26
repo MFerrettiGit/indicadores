@@ -12506,8 +12506,17 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  23.21,
+                                     "tv":  176
+                                 },
                                  {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
@@ -12534,15 +12543,6 @@
                                      "pe":  0,
                                      "km":  36.76,
                                      "tv":  155
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  20.61,
-                                     "tv":  121
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -12608,6 +12608,15 @@
                                      "tv":  119
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  49.81,
+                                     "tv":  60
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -12635,15 +12644,6 @@
                                      "tv":  94
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  42.37,
-                                     "tv":  32
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -12651,6 +12651,15 @@
                                      "pe":  0,
                                      "km":  2.32,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  11.26,
+                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -12671,13 +12680,13 @@
                                      "tv":  78
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
                                      "vi":  1,
-                                     "pe":  1,
-                                     "km":  8.15,
-                                     "tv":  85
+                                     "pe":  0,
+                                     "km":  6.67,
+                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -12707,22 +12716,13 @@
                                      "tv":  45
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.93,
+                                     "tv":  109
                                  }
                              ],
                        "cli":  [
@@ -12760,6 +12760,13 @@
                                        "p":  1,
                                        "km":  5.22,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  2.6,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -12832,6 +12839,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "COOP.CONS.FUNC.BANC. BRASIL DE RIB PRETO",
+                                       "p":  1,
+                                       "km":  7.44,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                                        "p":  1,
@@ -12867,6 +12881,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  6.67,
+                                       "tv":  166
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                                        "p":  0,
@@ -12881,6 +12902,13 @@
                                        "tv":  85
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  3.11,
+                                       "tv":  73
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -12893,6 +12921,13 @@
                                        "p":  1,
                                        "km":  2.37,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "FIRMA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.93,
+                                       "tv":  109
                                    },
                                    {
                                        "n":  "Lucas",
