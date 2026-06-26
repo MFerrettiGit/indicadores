@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -12554,6 +12554,15 @@
                                      "tv":  179
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  48.19,
+                                     "tv":  290
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -12561,15 +12570,6 @@
                                      "pe":  0,
                                      "km":  10.98,
                                      "tv":  193
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  33.63,
-                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -12584,10 +12584,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  39.59,
+                                     "tv":  280
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -12606,6 +12606,15 @@
                                      "pe":  2,
                                      "km":  21.56,
                                      "tv":  224
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  29.6,
+                                     "tv":  206
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -12633,15 +12642,6 @@
                                      "pe":  2,
                                      "km":  5.5,
                                      "tv":  169
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  21.97,
-                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Luis",
@@ -12698,6 +12698,15 @@
                                      "tv":  196
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  3.4,
+                                     "tv":  245
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -12707,22 +12716,13 @@
                                      "tv":  125
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0.61,
-                                     "tv":  74
-                                 },
-                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  1.93,
-                                     "tv":  109
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  68.85,
+                                     "tv":  157
                                  }
                              ],
                        "cli":  [
@@ -12732,6 +12732,13 @@
                                        "p":  1,
                                        "km":  24.73,
                                        "tv":  113
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
+                                       "p":  1,
+                                       "km":  14.56,
+                                       "tv":  177
                                    },
                                    {
                                        "n":  "Debora",
@@ -12930,6 +12937,20 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "ARCAL SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  7.63,
+                                       "tv":  72
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
+                                       "p":  1,
+                                       "km":  39.59,
+                                       "tv":  280
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J L DAOLIO E CIA LTDA",
                                        "p":  1,
@@ -13049,6 +13070,13 @@
                                        "tv":  109
                                    },
                                    {
+                                       "n":  "Karina",
+                                       "r":  "M C XAVIER SUPERMERCADO RESTAURANTE E LA",
+                                       "p":  1,
+                                       "km":  66.92,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Lucas",
                                        "r":  "J A CRUVINEL",
                                        "p":  1,
@@ -13089,6 +13117,13 @@
                                        "p":  1,
                                        "km":  0.11,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
+                                       "p":  0,
+                                       "km":  2.79,
+                                       "tv":  171
                                    }
                                ]
                    }
