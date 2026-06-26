@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -91,7 +91,7 @@ window.PAINEL = {
                      "ultimo":  "12:34",
                      "tv":  "04:50:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Silmara",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "11:49",
                      "tv":  "03:44:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "12:33",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "12:23",
                      "tv":  "02:24:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "11:31",
                      "tv":  "02:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "11:36",
                      "tv":  "03:15:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -360,7 +360,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "12:29",
                      "tv":  "02:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -889,6 +889,14 @@ window.PAINEL = {
                         "tempo":  "00:41:32"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:47",
+                        "final":  "12:47",
+                        "tempo":  "01:00:03"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "vendas",
@@ -937,20 +945,12 @@ window.PAINEL = {
                         "tempo":  "00:42:26"
                     },
                     {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:52:12"
-                    },
-                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:56"
+                        "tempo":  "00:51:59"
                     },
                     {
                         "nome":  "Edimilson",
@@ -958,7 +958,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:56"
+                        "tempo":  "00:41:59"
                     },
                     {
                         "nome":  "Vinicius",
@@ -966,7 +966,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:09"
+                        "tempo":  "00:38:12"
                     },
                     {
                         "nome":  "Luis",
@@ -974,7 +974,7 @@ window.PAINEL = {
                         "obs":  "Morro Agudo a Ipuã",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:16"
+                        "tempo":  "00:31:19"
                     },
                     {
                         "nome":  "Cominato",
@@ -982,7 +982,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:05"
+                        "tempo":  "00:29:08"
                     },
                     {
                         "nome":  "Costa",
@@ -990,7 +990,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:19"
+                        "tempo":  "00:28:22"
                     },
                     {
                         "nome":  "Alan",
@@ -998,7 +998,39 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:10:37"
+                        "tempo":  "00:25:40"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:45"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:57"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:29"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:32"
                     }
                 ],
     "semped":  [
@@ -1062,37 +1094,49 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:15:27"
+                         "tempo":  "01:30:28"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:57"
+                         "tempo":  "00:32:58"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:58:08"
+                         "tempo":  "02:13:09"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.06",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:01:18"
+                         "tempo":  "00:16:19"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:02:27"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "ANA AMELIA APARECIDA DE SIQUEIRA BARBOSA",
+                         "mun":  "PARAIBUNA",
+                         "tempo":  "00:08:47"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:50:31"
+                         "tempo":  "01:05:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:02:26"
+                         "tempo":  "00:17:27"
                      }
                  ],
     "hist":  [
@@ -13715,7 +13759,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
