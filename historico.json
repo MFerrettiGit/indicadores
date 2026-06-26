@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12536,6 +12536,15 @@
                                      "tv":  121
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.44,
+                                     "tv":  122
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -12543,15 +12552,6 @@
                                      "pe":  0,
                                      "km":  12.59,
                                      "tv":  128
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.54,
-                                     "tv":  37
                                  },
                                  {
                                      "nome":  "Aline",
@@ -12602,10 +12602,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  17.6,
-                                     "tv":  65
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  19.32,
+                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Costa",
@@ -12620,19 +12620,28 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.17,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  2.68,
+                                     "tv":  102
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.56,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  19.53,
+                                     "tv":  94
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  42.37,
+                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Luis",
@@ -12644,13 +12653,13 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.13,
-                                     "tv":  0
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  8.48,
+                                     "tv":  78
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -12687,15 +12696,6 @@
                                      "pe":  0,
                                      "km":  16.66,
                                      "tv":  98
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  2.79,
-                                     "tv":  40
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -12804,11 +12804,39 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.9,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PANTOJA",
                                        "p":  1,
                                        "km":  0,
                                        "tv":  84
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  21.24,
+                                       "tv":  32
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
+                                       "p":  1,
+                                       "km":  18.97,
+                                       "tv":  94
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J L DAOLIO E CIA LTDA",
+                                       "p":  1,
+                                       "km":  1.51,
+                                       "tv":  102
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -12823,6 +12851,13 @@
                                        "p":  0,
                                        "km":  1.47,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "IRMAOS RUSCITO LTDA.",
+                                       "p":  1,
+                                       "km":  1.72,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Castro",
@@ -12858,6 +12893,13 @@
                                        "p":  1,
                                        "km":  2.79,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VAREJAO E MINIMERCADO SANTA TE",
+                                       "p":  1,
+                                       "km":  5.69,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Nelson",
