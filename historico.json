@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12525,6 +12525,15 @@
                                      "pe":  0,
                                      "km":  24.13,
                                      "tv":  217
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  38.67,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -12554,15 +12563,6 @@
                                      "tv":  191
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  30.35,
-                                     "tv":  220
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -12584,10 +12584,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  39.59,
-                                     "tv":  280
+                                     "km":  78.64,
+                                     "tv":  330
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -12653,6 +12653,15 @@
                                      "tv":  202
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  25.47,
+                                     "tv":  238
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -12669,15 +12678,6 @@
                                      "pe":  4,
                                      "km":  22.6,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  18.13,
-                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -12874,6 +12874,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
+                                       "p":  1,
+                                       "km":  8.32,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -12972,6 +12979,13 @@
                                        "tv":  280
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  39.05,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J L DAOLIO E CIA LTDA",
                                        "p":  1,
@@ -12991,6 +13005,13 @@
                                        "p":  1,
                                        "km":  3.61,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "TERIN TERIN CIA LTDA.",
+                                       "p":  0,
+                                       "km":  0.64,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -13068,6 +13089,13 @@
                                        "p":  0,
                                        "km":  6.87,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "INOVA SUPER SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  7.34,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Eugenio",
