@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -12593,10 +12593,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  10.42,
-                                     "tv":  51
+                                     "km":  81.94,
+                                     "tv":  76
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -12606,6 +12606,15 @@
                                      "pe":  1,
                                      "km":  19.32,
                                      "tv":  119
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  21.97,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -12633,15 +12642,6 @@
                                      "pe":  1,
                                      "km":  2.68,
                                      "tv":  102
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  19.53,
-                                     "tv":  94
                                  },
                                  {
                                      "nome":  "Luis",
@@ -12776,6 +12776,13 @@
                                        "tv":  51
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  71.52,
+                                       "tv":  25
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -12851,6 +12858,13 @@
                                        "p":  1,
                                        "km":  18.97,
                                        "tv":  94
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "DE CASA LTDA",
+                                       "p":  1,
+                                       "km":  2.44,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Rachel",

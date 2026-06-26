@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  10.42,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  81.94,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:28",
-                     "ultimo":  "09:20",
-                     "tv":  "00:51:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:56",
+                     "tv":  "01:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  21.97,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:33",
+                     "ultimo":  "11:01",
+                     "tv":  "02:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -180,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "09:34",
                      "ultimo":  "10:52",
                      "tv":  "01:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,21 +225,6 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "10:01",
                      "tv":  "01:42:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  19.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:33",
-                     "ultimo":  "10:07",
-                     "tv":  "01:34:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -429,6 +429,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "ITU",
+                         "in":  "10:30:18",
+                         "out":  "10:56:03",
+                         "km":  71.52,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
@@ -526,6 +535,15 @@ window.PAINEL = {
                          "out":  "10:07:59",
                          "km":  18.97,
                          "dur":  "01:34:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "DE CASA LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "10:21:35",
+                         "out":  "11:01:43",
+                         "km":  2.44,
+                         "dur":  "00:40:00"
                      },
                      {
                          "nome":  "Rachel",
@@ -711,6 +729,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                       "mun":  "ITU",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Castro",
                        "razao":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                        "mun":  "JUNDIAI",
@@ -737,112 +761,106 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
-                         "mun":  "ITU",
-                         "tempo":  "00:23:56"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:49:07"
+                         "tempo":  "01:04:01"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "01:17:35"
+                         "tempo":  "01:32:29"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:22:15"
+                         "tempo":  "01:37:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:13:09"
+                         "tempo":  "00:28:03"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:19:39"
+                         "tempo":  "00:34:33"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:52:50"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "DE CASA LTDA",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:32:39"
+                         "tempo":  "01:07:44"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:30:23"
+                         "tempo":  "00:45:17"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                          "mun":  "MORRO AGUDO",
-                         "tempo":  "02:00:32"
+                         "tempo":  "02:15:26"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "03:09:29"
+                         "tempo":  "03:24:23"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "RAMAVI PERFUMARIA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:09:36"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PANTOJA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:48:40"
+                         "tempo":  "01:03:34"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MARIANA IBATE LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:49:39"
+                         "tempo":  "01:04:33"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:19:17"
+                         "tempo":  "00:34:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "IRMAOS BRESCIANI SUPERMERCADO LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:35:05"
+                         "tempo":  "00:49:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:15:42"
+                         "tempo":  "01:30:36"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:00:12"
+                         "tempo":  "01:15:06"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:43:58"
+                         "tempo":  "00:58:52"
                      }
                  ],
     "hist":  [
@@ -953,8 +971,8 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     33,
-                     6
+                     35,
+                     7
                  ]
              ],
     "historico":  {
@@ -13465,7 +13483,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -13552,10 +13570,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  10.42,
-                                                       "tv":  51
+                                                       "km":  81.94,
+                                                       "tv":  76
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -13565,6 +13583,15 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  19.32,
                                                        "tv":  119
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  21.97,
+                                                       "tv":  134
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -13592,15 +13619,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  2.68,
                                                        "tv":  102
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  19.53,
-                                                       "tv":  94
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -13735,6 +13753,13 @@ window.PAINEL = {
                                                          "tv":  51
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  71.52,
+                                                         "tv":  25
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -13810,6 +13835,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  18.97,
                                                          "tv":  94
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "DE CASA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.44,
+                                                         "tv":  40
                                                      },
                                                      {
                                                          "n":  "Rachel",
