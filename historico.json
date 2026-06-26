@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12665,10 +12665,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  1,
-                                     "km":  25.47,
-                                     "tv":  238
+                                     "km":  44.38,
+                                     "tv":  299
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  82.76,
+                                     "tv":  260
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -12678,15 +12687,6 @@
                                      "pe":  4,
                                      "km":  22.6,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  81.28,
-                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Alan",
@@ -13168,6 +13168,13 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  18.91,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "CONVEM SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13236,6 +13243,13 @@
                                        "p":  1,
                                        "km":  4.59,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "COUTO FILHO MINIMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.48,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Lucas",

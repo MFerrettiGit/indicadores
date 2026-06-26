@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "15:01",
                      "tv":  "04:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:12",
                      "ultimo":  "15:13",
                      "tv":  "05:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -263,14 +263,29 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  25.47,
-                     "semPed":  3,
-                     "perc":  75,
+                     "visitas":  5,
+                     "km":  44.38,
+                     "semPed":  4,
+                     "perc":  80,
                      "primeiro":  "08:01",
-                     "ultimo":  "13:58",
-                     "tv":  "03:58:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:32",
+                     "tv":  "04:59:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  82.76,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "15:28",
+                     "tv":  "04:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -287,21 +302,6 @@ window.PAINEL = {
                      "tv":  "03:26:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  81.28,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "14:56",
-                     "tv":  "04:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -933,6 +933,15 @@ window.PAINEL = {
                          "dur":  "00:20:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:31:18",
+                         "out":  "15:32:36",
+                         "km":  18.91,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS LTDA.",
                          "mun":  "ATIBAIA",
@@ -1021,6 +1030,15 @@ window.PAINEL = {
                          "out":  "14:56:37",
                          "km":  4.59,
                          "dur":  "00:23:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COUTO FILHO MINIMERCADO LTDA",
+                         "mun":  "PARAIBUNA",
+                         "in":  "15:08:45",
+                         "out":  "15:28:58",
+                         "km":  1.48,
+                         "dur":  "00:20:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1327,7 +1345,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:56"
+                        "tempo":  "00:54:59"
                     },
                     {
                         "nome":  "Luis",
@@ -1335,7 +1353,7 @@ window.PAINEL = {
                         "obs":  "Ipuã a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:15"
+                        "tempo":  "00:27:18"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1343,7 +1361,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:07"
+                        "tempo":  "00:16:10"
                     }
                 ],
     "semped":  [
@@ -1414,6 +1432,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "IRMAOS RUSCITO LTDA",
                        "mun":  "IBATE",
@@ -1431,103 +1455,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "04:00:28"
+                         "tempo":  "04:15:30"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:29:15"
+                         "tempo":  "00:44:17"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:30:20"
+                         "tempo":  "00:45:22"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "SALTO",
-                         "tempo":  "00:28:10"
+                         "tempo":  "00:43:12"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:15"
+                         "tempo":  "00:52:17"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:16:27"
+                         "tempo":  "01:31:29"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:36:04"
+                         "tempo":  "01:51:06"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:12:13"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:58:35"
+                         "tempo":  "01:13:37"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:15:28"
+                         "tempo":  "00:30:30"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:56:46"
+                         "tempo":  "01:11:48"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JADE CAROLINE CONFELLA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:03:45"
+                         "tempo":  "00:18:47"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "JOSE DIRCEU VILHENA DE MELO",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:09:11"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO ARIEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:18:46"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "COUTO FILHO MINIMERCADO LTDA",
-                         "mun":  "PARAIBUNA",
-                         "tempo":  "00:15:29"
+                         "tempo":  "00:33:48"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "01:15:10"
+                         "tempo":  "01:30:12"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:58:23"
+                         "tempo":  "01:13:25"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:13:16"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:52:56"
+                         "tempo":  "01:28:18"
                      }
                  ],
     "hist":  [
@@ -1638,8 +1662,8 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     82,
-                     13
+                     84,
+                     14
                  ]
              ],
     "historico":  {
@@ -14150,7 +14174,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14309,10 +14333,19 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  1,
-                                                       "km":  25.47,
-                                                       "tv":  238
+                                                       "km":  44.38,
+                                                       "tv":  299
+                                                   },
+                                                   {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  82.76,
+                                                       "tv":  260
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -14322,15 +14355,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  22.6,
                                                        "tv":  206
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  81.28,
-                                                       "tv":  240
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -14812,6 +14836,13 @@ window.PAINEL = {
                                                          "tv":  20
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  18.91,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "CONVEM SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -14880,6 +14911,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.59,
                                                          "tv":  23
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "COUTO FILHO MINIMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  1.48,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Lucas",
