@@ -12506,8 +12506,17 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  31.25,
+                                     "tv":  328
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -12518,13 +12527,13 @@
                                      "tv":  345
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  28.42,
-                                     "tv":  274
+                                     "km":  47.34,
+                                     "tv":  418
                                  },
                                  {
                                      "nome":  "Debora",
@@ -12543,15 +12552,6 @@
                                      "pe":  0,
                                      "km":  38.67,
                                      "tv":  259
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  42.09,
-                                     "tv":  314
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -12584,10 +12584,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  80.42,
-                                     "tv":  347
+                                     "km":  86.89,
+                                     "tv":  379
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -12602,10 +12602,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  2,
-                                     "km":  21.56,
-                                     "tv":  224
+                                     "km":  42.79,
+                                     "tv":  246
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -12689,6 +12689,15 @@
                                      "tv":  206
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  97.12,
+                                     "tv":  307
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -12696,15 +12705,6 @@
                                      "pe":  1,
                                      "km":  19.26,
                                      "tv":  274
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  95.31,
-                                     "tv":  212
                                  },
                                  {
                                      "nome":  "Castro",
@@ -12811,6 +12811,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO REVOLUTION LTDA.",
+                                       "p":  1,
+                                       "km":  2.83,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA - LJ.04",
                                        "p":  0,
@@ -12844,6 +12851,13 @@
                                        "p":  1,
                                        "km":  19.33,
                                        "tv":  135
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.25,
+                                       "tv":  104
                                    },
                                    {
                                        "n":  "Evandro",
@@ -13049,6 +13063,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  6.47,
+                                       "tv":  32
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J L DAOLIO E CIA LTDA",
                                        "p":  1,
@@ -13103,6 +13124,13 @@
                                        "p":  1,
                                        "km":  2.24,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JADE CAROLINE CONFELLA",
+                                       "p":  0,
+                                       "km":  21.23,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Alan",
@@ -13271,6 +13299,13 @@
                                        "p":  1,
                                        "km":  0.33,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
+                                       "p":  1,
+                                       "km":  1.81,
+                                       "tv":  95
                                    },
                                    {
                                        "n":  "Mariangela",
