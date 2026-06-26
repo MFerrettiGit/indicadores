@@ -12506,8 +12506,17 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  77.56,
+                                     "tv":  405
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -12518,13 +12527,13 @@
                                      "tv":  328
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  73.46,
-                                     "tv":  345
+                                     "km":  49.16,
+                                     "tv":  417
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -12536,13 +12545,13 @@
                                      "tv":  418
                                  },
                                  {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  45.76,
-                                     "tv":  357
+                                     "km":  63.42,
+                                     "tv":  394
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -12561,15 +12570,6 @@
                                      "pe":  0,
                                      "km":  16.32,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  55.89,
-                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -12748,6 +12748,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  7.53,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -12774,6 +12781,13 @@
                                        "p":  1,
                                        "km":  5.25,
                                        "tv":  97
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  3.4,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -12893,6 +12907,13 @@
                                        "p":  1,
                                        "km":  3.09,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.1,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Silmara",

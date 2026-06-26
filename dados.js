@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  77.56,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:55",
+                     "ultimo":  "15:57",
+                     "tv":  "06:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
@@ -19,18 +34,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  73.46,
+                     "km":  49.16,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "06:55",
-                     "ultimo":  "14:39",
-                     "tv":  "05:45:00",
-                     "emVisita":  1,
+                     "primeiro":  "07:05",
+                     "ultimo":  "15:55",
+                     "tv":  "06:57:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -49,18 +64,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  45.76,
+                     "km":  63.42,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "07:05",
-                     "ultimo":  "14:42",
-                     "tv":  "05:57:00",
-                     "emVisita":  1,
+                     "primeiro":  "07:21",
+                     "ultimo":  "15:59",
+                     "tv":  "06:34:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "07:12",
                      "ultimo":  "11:44",
                      "tv":  "03:11:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  55.89,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:21",
-                     "ultimo":  "14:31",
-                     "tv":  "05:29:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -393,6 +393,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Aline",
+                         "razao":  "HIGA PROD. ALIM. LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:53:54",
+                         "out":  "15:59:41",
+                         "km":  7.53,
+                         "dur":  "01:05:00"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
@@ -427,6 +436,15 @@ window.PAINEL = {
                          "out":  "14:42:45",
                          "km":  5.25,
                          "dur":  "01:37:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "RIO CLARO",
+                         "in":  "14:54:59",
+                         "out":  "15:55:59",
+                         "km":  3.4,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -580,6 +598,15 @@ window.PAINEL = {
                          "out":  "14:39:22",
                          "km":  3.09,
                          "dur":  "01:30:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "SALTO",
+                         "in":  "14:56:04",
+                         "out":  "15:57:16",
+                         "km":  4.1,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -1398,7 +1425,7 @@ window.PAINEL = {
                         "obs":  "Ipuã a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:42:22"
+                        "tempo":  "00:57:27"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1406,7 +1433,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:14"
+                        "tempo":  "00:46:19"
                     },
                     {
                         "nome":  "Costa",
@@ -1414,7 +1441,7 @@ window.PAINEL = {
                         "obs":  "digitando 4 pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:24"
+                        "tempo":  "00:19:29"
                     }
                 ],
     "semped":  [
@@ -1514,85 +1541,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "04:30:28"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "00:59:15"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "HIGA PROD. ALIM. LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:00:20"
-                     },
-                     {
-                         "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "SALTO",
-                         "tempo":  "00:58:10"
+                         "tempo":  "04:45:29"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "02:06:04"
+                         "tempo":  "02:21:05"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:27:11"
+                         "tempo":  "00:42:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "01:28:35"
+                         "tempo":  "01:43:36"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:26:46"
+                         "tempo":  "01:41:47"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:24:09"
+                         "tempo":  "00:39:10"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO ARIEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:48:46"
+                         "tempo":  "01:03:47"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "RORLANDE CEREZER PACINATE",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:04:41"
+                         "tempo":  "00:19:42"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:28:23"
+                         "tempo":  "01:43:24"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:43:16"
+                         "tempo":  "01:58:17"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N N NASTARO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:09:07"
+                         "tempo":  "00:24:08"
                      }
                  ],
     "hist":  [
@@ -1703,7 +1712,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     89,
+                     92,
                      15
                  ]
              ],
@@ -14215,8 +14224,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  77.56,
+                                                       "tv":  405
+                                                   },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
@@ -14227,13 +14245,13 @@ window.PAINEL = {
                                                        "tv":  328
                                                    },
                                                    {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  73.46,
-                                                       "tv":  345
+                                                       "km":  49.16,
+                                                       "tv":  417
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -14245,13 +14263,13 @@ window.PAINEL = {
                                                        "tv":  418
                                                    },
                                                    {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  45.76,
-                                                       "tv":  357
+                                                       "km":  63.42,
+                                                       "tv":  394
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -14270,15 +14288,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  16.32,
                                                        "tv":  191
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  55.89,
-                                                       "tv":  329
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -14457,6 +14466,13 @@ window.PAINEL = {
                                                          "tv":  39
                                                      },
                                                      {
+                                                         "n":  "Aline",
+                                                         "r":  "HIGA PROD. ALIM. LTDA.",
+                                                         "p":  1,
+                                                         "km":  7.53,
+                                                         "tv":  65
+                                                     },
+                                                     {
                                                          "n":  "Debora",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -14483,6 +14499,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.25,
                                                          "tv":  97
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  3.4,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -14602,6 +14625,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.09,
                                                          "tv":  90
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  4.1,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Silmara",
