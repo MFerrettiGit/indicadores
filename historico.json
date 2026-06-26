@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12527,6 +12527,15 @@
                                      "tv":  274
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  45.76,
+                                     "tv":  357
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -12543,15 +12552,6 @@
                                      "pe":  0,
                                      "km":  42.09,
                                      "tv":  314
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  40.51,
-                                     "tv":  260
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -12584,10 +12584,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  78.64,
-                                     "tv":  330
+                                     "km":  80.42,
+                                     "tv":  347
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -12653,6 +12653,15 @@
                                      "tv":  144
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  17.67,
+                                     "tv":  275
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -12662,15 +12671,6 @@
                                      "tv":  238
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  13.08,
-                                     "tv":  243
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -12678,6 +12678,15 @@
                                      "pe":  4,
                                      "km":  22.6,
                                      "tv":  206
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  19.26,
+                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -12696,15 +12705,6 @@
                                      "pe":  3,
                                      "km":  76.69,
                                      "tv":  217
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  17.49,
-                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Castro",
@@ -12767,6 +12767,13 @@
                                        "p":  1,
                                        "km":  3.75,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.25,
+                                       "tv":  97
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -13021,6 +13028,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.78,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "J L DAOLIO E CIA LTDA",
                                        "p":  1,
@@ -13091,6 +13105,13 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
+                                       "p":  0,
+                                       "km":  1.77,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                                        "p":  0,
@@ -13159,6 +13180,13 @@
                                        "p":  1,
                                        "km":  3.14,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  1,
+                                       "km":  4.59,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Karina",
