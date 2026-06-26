@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12608,6 +12608,15 @@
                                      "tv":  224
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  9.11,
+                                     "tv":  218
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -12635,15 +12644,6 @@
                                      "tv":  175
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  5.5,
-                                     "tv":  169
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -12651,6 +12651,15 @@
                                      "pe":  2,
                                      "km":  93.69,
                                      "tv":  202
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  13.08,
+                                     "tv":  243
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -12671,15 +12680,6 @@
                                      "tv":  218
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  9.94,
-                                     "tv":  195
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -12687,6 +12687,15 @@
                                      "pe":  3,
                                      "km":  95.31,
                                      "tv":  212
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  76.69,
+                                     "tv":  217
                                  },
                                  {
                                      "nome":  "Alan",
@@ -12714,15 +12723,6 @@
                                      "pe":  1,
                                      "km":  3.4,
                                      "tv":  245
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  68.85,
-                                     "tv":  157
                                  }
                              ],
                        "cli":  [
@@ -12986,6 +12986,13 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "B. A. BARBOSA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  3.61,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "IRMAOS RUSCITO LTDA",
                                        "p":  0,
@@ -13084,6 +13091,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  3.14,
+                                       "tv":  48
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "FIRMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -13096,6 +13110,13 @@
                                        "p":  1,
                                        "km":  66.92,
                                        "tv":  48
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "ANA AMELIA APARECIDA DE SIQUEIRA BARBOSA",
+                                       "p":  1,
+                                       "km":  7.84,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Lucas",
