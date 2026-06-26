@@ -12506,8 +12506,17 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  24.13,
+                                     "tv":  217
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -12525,15 +12534,6 @@
                                      "pe":  0,
                                      "km":  40.51,
                                      "tv":  260
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  23.21,
-                                     "tv":  176
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -12680,6 +12680,15 @@
                                      "tv":  158
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  17.49,
+                                     "tv":  209
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -12696,15 +12705,6 @@
                                      "pe":  2,
                                      "km":  94.98,
                                      "tv":  125
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.67,
-                                     "tv":  166
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -12774,6 +12774,13 @@
                                        "p":  1,
                                        "km":  2.6,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  0.92,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -12956,6 +12963,13 @@
                                        "p":  0,
                                        "km":  6.67,
                                        "tv":  166
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO PONTEL LTDA.",
+                                       "p":  1,
+                                       "km":  10.82,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Castro",
