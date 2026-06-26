@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12611,19 +12611,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  9.75,
-                                     "tv":  244
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  16.87,
+                                     "tv":  353
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  30.73,
-                                     "tv":  272
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  35.18,
+                                     "tv":  325
                                  },
                                  {
                                      "nome":  "Luis",
@@ -12671,6 +12671,15 @@
                                      "tv":  299
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  97.98,
+                                     "tv":  328
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -12689,15 +12698,6 @@
                                      "tv":  206
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  97.12,
-                                     "tv":  307
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -12710,10 +12710,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  16.66,
-                                     "tv":  196
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  21.33,
+                                     "tv":  319
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -13063,6 +13063,13 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  4.45,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                        "p":  1,
@@ -13117,6 +13124,13 @@
                                        "p":  0,
                                        "km":  0.64,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  7.12,
+                                       "tv":  109
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -13187,6 +13201,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  98
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
+                                       "p":  1,
+                                       "km":  4.67,
+                                       "tv":  123
                                    },
                                    {
                                        "n":  "Cominato",
@@ -13327,6 +13348,13 @@
                                        "p":  1,
                                        "km":  1.81,
                                        "tv":  95
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "RORLANDE CEREZER PACINATE",
+                                       "p":  1,
+                                       "km":  0.86,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Mariangela",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,37 +166,37 @@ window.PAINEL = {
                      "ultimo":  "15:43",
                      "tv":  "04:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  9.75,
+                     "visitas":  5,
+                     "km":  16.87,
                      "semPed":  1,
-                     "perc":  25,
+                     "perc":  20,
                      "primeiro":  "08:14",
-                     "ultimo":  "14:09",
-                     "tv":  "04:04:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "16:20",
+                     "tv":  "05:53:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  30.73,
+                     "visitas":  5,
+                     "km":  35.18,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:33",
-                     "ultimo":  "15:01",
-                     "tv":  "04:32:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "16:20",
+                     "tv":  "05:25:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  97.98,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:45",
+                     "ultimo":  "16:11",
+                     "tv":  "05:28:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -286,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "15:28",
                      "tv":  "04:20:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -302,21 +317,6 @@ window.PAINEL = {
                      "tv":  "03:26:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  97.12,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "15:44",
-                     "tv":  "05:07:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -338,13 +338,13 @@ window.PAINEL = {
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  16.66,
+                     "visitas":  3,
+                     "km":  21.33,
                      "semPed":  1,
-                     "perc":  50,
+                     "perc":  33.33,
                      "primeiro":  "08:14",
-                     "ultimo":  "11:32",
-                     "tv":  "03:16:00",
+                     "ultimo":  "16:14",
+                     "tv":  "05:19:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -798,6 +798,15 @@ window.PAINEL = {
                          "dur":  "01:06:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "15:27:03",
+                         "out":  "16:20:36",
+                         "km":  4.45,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
@@ -868,6 +877,15 @@ window.PAINEL = {
                          "out":  "14:09:45",
                          "km":  0.64,
                          "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "ANTONELLI SUPERMERCADO LTDA.",
+                         "mun":  "AMPARO",
+                         "in":  "14:25:39",
+                         "out":  "16:20:03",
+                         "km":  7.12,
+                         "dur":  "01:49:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -958,6 +976,15 @@ window.PAINEL = {
                          "out":  "11:32:11",
                          "km":  0,
                          "dur":  "01:38:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
+                         "mun":  "JUNDIAI",
+                         "in":  "14:10:58",
+                         "out":  "16:14:12",
+                         "km":  4.67,
+                         "dur":  "02:03:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -1138,6 +1165,15 @@ window.PAINEL = {
                          "out":  "15:44:11",
                          "km":  1.81,
                          "dur":  "01:35:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "RORLANDE CEREZER PACINATE",
+                         "mun":  "CAPIVARI",
+                         "in":  "15:49:33",
+                         "out":  "16:11:16",
+                         "km":  0.86,
+                         "dur":  "00:21:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1425,7 +1461,7 @@ window.PAINEL = {
                         "obs":  "Ipuã a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:57:27"
+                        "tempo":  "01:12:25"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1433,7 +1469,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:19"
+                        "tempo":  "01:01:17"
                     },
                     {
                         "nome":  "Costa",
@@ -1441,7 +1477,39 @@ window.PAINEL = {
                         "obs":  "digitando 4 pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:29"
+                        "tempo":  "00:34:27"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido de sugestão enviada",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:00"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:26"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "daolio",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:51"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa barbara",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:02:51"
                     }
                 ],
     "semped":  [
@@ -1541,67 +1609,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "04:45:29"
+                         "tempo":  "05:00:28"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "02:21:05"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:42:12"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "ANTONELLI SUPERMERCADO LTDA.",
-                         "mun":  "AMPARO",
-                         "tempo":  "01:43:36"
+                         "tempo":  "02:36:04"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:41:47"
+                         "tempo":  "01:56:46"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:39:10"
+                         "tempo":  "00:54:09"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO ARIEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:03:47"
+                         "tempo":  "01:18:46"
                      },
                      {
                          "nome":  "Lucas",
-                         "razao":  "RORLANDE CEREZER PACINATE",
+                         "razao":  "INOVA SUPER SUPERMERCADOS LTDA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:19:42"
+                         "tempo":  "00:10:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:43:24"
+                         "tempo":  "01:58:23"
                      },
                      {
                          "nome":  "Castro",
-                         "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
+                         "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:58:17"
+                         "tempo":  "00:03:28"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N N NASTARO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:24:08"
+                         "tempo":  "00:39:07"
                      }
                  ],
     "hist":  [
@@ -1712,7 +1768,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     92,
+                     96,
                      15
                  ]
              ],
@@ -14224,7 +14280,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14329,19 +14385,19 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  9.75,
-                                                       "tv":  244
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  16.87,
+                                                       "tv":  353
                                                    },
                                                    {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  30.73,
-                                                       "tv":  272
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  35.18,
+                                                       "tv":  325
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -14389,6 +14445,15 @@ window.PAINEL = {
                                                        "tv":  299
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  97.98,
+                                                       "tv":  328
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -14407,15 +14472,6 @@ window.PAINEL = {
                                                        "tv":  206
                                                    },
                                                    {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  97.12,
-                                                       "tv":  307
-                                                   },
-                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -14428,10 +14484,10 @@ window.PAINEL = {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  16.66,
-                                                       "tv":  196
+                                                       "vi":  3,
+                                                       "pe":  2,
+                                                       "km":  21.33,
+                                                       "tv":  319
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -14781,6 +14837,13 @@ window.PAINEL = {
                                                          "tv":  66
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "BOLSAO COM. DE PRODUTOS ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  4.45,
+                                                         "tv":  53
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                                                          "p":  1,
@@ -14835,6 +14898,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.64,
                                                          "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "ANTONELLI SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  7.12,
+                                                         "tv":  109
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -14905,6 +14975,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0,
                                                          "tv":  98
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
+                                                         "p":  1,
+                                                         "km":  4.67,
+                                                         "tv":  123
                                                      },
                                                      {
                                                          "n":  "Cominato",
@@ -15045,6 +15122,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.81,
                                                          "tv":  95
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "RORLANDE CEREZER PACINATE",
+                                                         "p":  1,
+                                                         "km":  0.86,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Mariangela",
