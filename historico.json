@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
                                  {
                                      "nome":  "Edimilson",
@@ -12608,6 +12608,15 @@
                                      "tv":  224
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  51.35,
+                                     "tv":  144
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -12635,22 +12644,22 @@
                                      "tv":  134
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  49.81,
-                                     "tv":  60
-                                 },
-                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  93.69,
+                                     "tv":  202
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  91.39,
-                                     "tv":  164
+                                     "km":  18.13,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -12669,15 +12678,6 @@
                                      "pe":  3,
                                      "km":  15.09,
                                      "tv":  154
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  11.26,
-                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Alan",
@@ -12895,11 +12895,25 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "RAMAVI PERFUMARIA",
+                                       "p":  1,
+                                       "km":  1.54,
+                                       "tv":  84
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                                        "p":  1,
                                        "km":  89.07,
                                        "tv":  164
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
+                                       "p":  1,
+                                       "km":  2.3,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Maira",
@@ -12998,6 +13012,13 @@
                                        "p":  0,
                                        "km":  3.11,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  6.87,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Eugenio",

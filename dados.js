@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Edimilson",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "11:55",
                      "tv":  "03:37:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Evandro",
@@ -30,8 +30,8 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "11:18",
                      "tv":  "03:41:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "11:44",
                      "tv":  "03:11:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eliana",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  51.35,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:34",
+                     "ultimo":  "12:23",
+                     "tv":  "02:24:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -214,33 +229,33 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  49.81,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:34",
-                     "ultimo":  "10:52",
-                     "tv":  "01:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  91.39,
+                     "visitas":  2,
+                     "km":  93.69,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:53",
-                     "ultimo":  "11:38",
-                     "tv":  "02:44:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:21",
+                     "tv":  "03:22:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  18.13,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:01",
+                     "ultimo":  "12:12",
+                     "tv":  "03:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -271,21 +286,6 @@ window.PAINEL = {
                      "ultimo":  "11:26",
                      "tv":  "02:34:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  11.26,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:01",
-                     "ultimo":  "10:53",
-                     "tv":  "02:38:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -582,6 +582,15 @@ window.PAINEL = {
                          "dur":  "00:28:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "RAMAVI PERFUMARIA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "10:59:32",
+                         "out":  "12:23:48",
+                         "km":  1.54,
+                         "dur":  "01:24:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                          "mun":  "MORRO AGUDO",
@@ -589,6 +598,15 @@ window.PAINEL = {
                          "out":  "11:38:10",
                          "km":  89.07,
                          "dur":  "02:44:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
+                         "mun":  "MORRO AGUDO",
+                         "in":  "11:43:07",
+                         "out":  "12:21:45",
+                         "km":  2.3,
+                         "dur":  "00:38:00"
                      },
                      {
                          "nome":  "Maira",
@@ -717,6 +735,15 @@ window.PAINEL = {
                          "dur":  "01:13:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:11:42",
+                         "out":  "12:12:42",
+                         "km":  6.87,
+                         "dur":  "01:00:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS LTDA.",
                          "mun":  "ATIBAIA",
@@ -825,6 +852,14 @@ window.PAINEL = {
                         "tempo":  "01:12:17"
                     },
                     {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:21",
+                        "final":  "12:18",
+                        "tempo":  "00:57:22"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a T.O",
@@ -841,20 +876,12 @@ window.PAINEL = {
                         "tempo":  "00:20:46"
                     },
                     {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:47"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "vendas",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:42"
+                        "tempo":  "00:52:38"
                     },
                     {
                         "nome":  "Eugenio",
@@ -862,7 +889,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:07"
+                        "tempo":  "00:37:03"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -870,7 +897,7 @@ window.PAINEL = {
                         "obs":  "Ibate a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:30"
+                        "tempo":  "00:34:26"
                     },
                     {
                         "nome":  "Debora",
@@ -878,7 +905,31 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:51"
+                        "tempo":  "00:21:47"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:47"
+                    },
+                    {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:00"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Morro Agudo a Ipuã",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:07"
                     }
                 ],
     "semped":  [
@@ -913,6 +964,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "IRMAOS RUSCITO LTDA",
                        "mun":  "IBATE",
@@ -930,67 +987,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:45:26"
+                         "tempo":  "01:00:23"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "02:32:33"
+                         "tempo":  "02:47:30"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:02:53"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:28:07"
+                         "tempo":  "01:43:04"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "ARCAL SUPERMERCADO LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:48:13"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
-                         "mun":  "MORRO AGUDO",
-                         "tempo":  "00:26:05"
+                         "tempo":  "01:03:10"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "04:24:27"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "RAMAVI PERFUMARIA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:09:40"
+                         "tempo":  "04:39:24"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "M C XAVIER SUPERMERCADO RESTAURANTE E LA",
                          "mun":  "JAMBEIRO",
-                         "tempo":  "00:27:43"
+                         "tempo":  "00:42:40"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:20:30"
+                         "tempo":  "00:35:27"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:30:40"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:57:30"
+                         "tempo":  "02:45:37"
                      }
                  ],
     "hist":  [
@@ -1101,8 +1146,8 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     49,
-                     7
+                     52,
+                     8
                  ]
              ],
     "historico":  {
@@ -13613,7 +13658,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Edimilson",
@@ -13715,6 +13760,15 @@ window.PAINEL = {
                                                        "tv":  224
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  51.35,
+                                                       "tv":  144
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -13742,22 +13796,22 @@ window.PAINEL = {
                                                        "tv":  134
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  49.81,
-                                                       "tv":  60
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  93.69,
+                                                       "tv":  202
+                                                   },
+                                                   {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
                                                        "pe":  1,
-                                                       "km":  91.39,
-                                                       "tv":  164
+                                                       "km":  18.13,
+                                                       "tv":  218
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -13776,15 +13830,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  15.09,
                                                        "tv":  154
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  11.26,
-                                                       "tv":  158
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -14002,11 +14047,25 @@ window.PAINEL = {
                                                          "tv":  28
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "RAMAVI PERFUMARIA",
+                                                         "p":  1,
+                                                         "km":  1.54,
+                                                         "tv":  84
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                                                          "p":  1,
                                                          "km":  89.07,
                                                          "tv":  164
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO CHAIM LTDA - LOJA 01.",
+                                                         "p":  1,
+                                                         "km":  2.3,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -14105,6 +14164,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.11,
                                                          "tv":  73
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  0,
+                                                         "km":  6.87,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Eugenio",
