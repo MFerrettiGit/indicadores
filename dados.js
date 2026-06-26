@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "15:12",
                      "tv":  "04:18:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "09:34",
                      "ultimo":  "16:38",
                      "tv":  "04:34:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -242,6 +242,21 @@ window.PAINEL = {
                      "tv":  "03:50:00",
                      "emVisita":  0,
                      "emEvento":  1
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  99.08,
+                     "semPed":  1,
+                     "perc":  14.29,
+                     "primeiro":  "08:45",
+                     "ultimo":  "17:03",
+                     "tv":  "06:15:00",
+                     "emVisita":  0,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -274,21 +289,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  98.43,
-                     "semPed":  1,
-                     "perc":  16.67,
-                     "primeiro":  "08:45",
-                     "ultimo":  "16:30",
-                     "tv":  "05:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "16:33",
                      "tv":  "06:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1221,6 +1221,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "ADONIS DA GLORIA ALCAIDE EIRELI",
+                         "mun":  "CAPIVARI",
+                         "in":  "16:33:08",
+                         "out":  "17:03:17",
+                         "km":  0.65,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
@@ -1347,6 +1356,14 @@ window.PAINEL = {
                         "inicio":  "15:13",
                         "final":  "16:28",
                         "tempo":  "01:15:00"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Rede Fernando Palmieri",
+                        "inicio":  "16:29",
+                        "final":  "17:08",
+                        "tempo":  "00:38:56"
                     },
                     {
                         "nome":  "Lucas",
@@ -1514,7 +1531,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:31:19"
+                        "tempo":  "01:46:31"
                     },
                     {
                         "nome":  "Costa",
@@ -1522,7 +1539,7 @@ window.PAINEL = {
                         "obs":  "digitando 4 pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:29"
+                        "tempo":  "01:19:41"
                     },
                     {
                         "nome":  "Karina",
@@ -1530,7 +1547,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão enviada",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:02"
+                        "tempo":  "00:58:14"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1538,7 +1555,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:28"
+                        "tempo":  "00:53:40"
                     },
                     {
                         "nome":  "Rachel",
@@ -1546,7 +1563,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:53"
+                        "tempo":  "00:50:05"
                     },
                     {
                         "nome":  "Maira",
@@ -1554,15 +1571,7 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:53"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "Rede Fernando Palmieri",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:25:40"
+                        "tempo":  "00:48:05"
                     }
                 ],
     "semped":  [
@@ -1674,31 +1683,37 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "05:30:28"
+                         "tempo":  "05:45:32"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:10:14"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:24:09"
+                         "tempo":  "01:39:13"
                      },
                      {
-                         "nome":  "Lucas",
-                         "razao":  "ADONIS DA GLORIA ALCAIDE EIRELI",
-                         "mun":  "CAPIVARI",
-                         "tempo":  "00:21:06"
+                         "nome":  "Alan",
+                         "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:09:29"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:28:23"
+                         "tempo":  "02:43:27"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:33:28"
+                         "tempo":  "00:48:32"
                      }
                  ],
     "hist":  [
@@ -1809,7 +1824,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     101,
+                     102,
                      17
                  ]
              ],
@@ -14321,7 +14336,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14468,6 +14483,15 @@ window.PAINEL = {
                                                        "tv":  230
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  7,
+                                                       "pe":  6,
+                                                       "km":  99.08,
+                                                       "tv":  375
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -14484,15 +14508,6 @@ window.PAINEL = {
                                                        "pe":  6,
                                                        "km":  19.48,
                                                        "tv":  301
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  5,
-                                                       "km":  98.43,
-                                                       "tv":  345
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -15205,6 +15220,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.45,
                                                          "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "ADONIS DA GLORIA ALCAIDE EIRELI",
+                                                         "p":  1,
+                                                         "km":  0.65,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Mariangela",

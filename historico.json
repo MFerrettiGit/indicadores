@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12653,6 +12653,15 @@
                                      "tv":  230
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  99.08,
+                                     "tv":  375
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -12669,15 +12678,6 @@
                                      "pe":  6,
                                      "km":  19.48,
                                      "tv":  301
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  98.43,
-                                     "tv":  345
                                  },
                                  {
                                      "nome":  "Karina",
@@ -13390,6 +13390,13 @@
                                        "p":  0,
                                        "km":  0.45,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "ADONIS DA GLORIA ALCAIDE EIRELI",
+                                       "p":  1,
+                                       "km":  0.65,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Mariangela",
