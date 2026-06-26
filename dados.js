@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "14:03",
                      "tv":  "04:19:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eliana",
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  9.11,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  4,
+                     "km":  9.75,
+                     "semPed":  1,
+                     "perc":  25,
                      "primeiro":  "08:14",
-                     "ultimo":  "13:41",
-                     "tv":  "03:38:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:09",
+                     "tv":  "04:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:53",
                      "ultimo":  "12:21",
                      "tv":  "03:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "08:14",
                      "ultimo":  "11:32",
                      "tv":  "03:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "12:30",
                      "tv":  "04:05:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -1053,6 +1053,14 @@ window.PAINEL = {
                         "tempo":  "00:50:20"
                     },
                     {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "13:16",
+                        "final":  "14:12",
+                        "tempo":  "00:55:37"
+                    },
+                    {
                         "nome":  "Castro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  ".",
@@ -1165,20 +1173,12 @@ window.PAINEL = {
                         "tempo":  "00:59:05"
                     },
                     {
-                        "nome":  "Nelson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:27"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:59"
+                        "tempo":  "00:54:49"
                     },
                     {
                         "nome":  "Karina",
@@ -1186,7 +1186,15 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:08"
+                        "tempo":  "00:30:58"
+                    },
+                    {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:10"
                     }
                 ],
     "semped":  [
@@ -1262,79 +1270,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "02:45:34"
+                         "tempo":  "03:00:25"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:04:17"
+                         "tempo":  "01:19:08"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.09",
                          "mun":  "SUMARE",
-                         "tempo":  "00:16:50"
+                         "tempo":  "00:31:41"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:00:52"
+                         "tempo":  "01:15:43"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.12",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:36:36"
+                         "tempo":  "00:51:27"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:01:33"
+                         "tempo":  "00:16:24"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:21:10"
+                         "tempo":  "00:36:01"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "YURI PADOVAN CALSA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:14:59"
+                         "tempo":  "00:29:50"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "TERIN TERIN CIA LTDA.",
-                         "mun":  "AMPARO",
-                         "tempo":  "00:26:11"
+                         "nome":  "Luis",
+                         "razao":  "ANGELO FRESSATTI ROCHA EIRELI - ME",
+                         "mun":  "IPUA",
+                         "tempo":  "00:13:48"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:27:43"
+                         "tempo":  "00:42:34"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:01:21"
+                         "tempo":  "00:16:12"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "UNIVERSO MAKE STORE COSMETICOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:53"
+                         "tempo":  "00:39:44"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:00:16"
+                         "tempo":  "00:15:07"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:13:13"
                      }
                  ],
     "hist":  [
@@ -1445,8 +1459,8 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     68,
-                     10
+                     69,
+                     11
                  ]
              ],
     "historico":  {
@@ -13957,7 +13971,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14062,10 +14076,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  3,
-                                                       "km":  9.11,
-                                                       "tv":  218
+                                                       "km":  9.75,
+                                                       "tv":  244
                                                    },
                                                    {
                                                        "nome":  "Maira",
