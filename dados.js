@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "08:45",
+    "dataHora":  "09:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:05",
                      "ultimo":  "08:32",
                      "tv":  "01:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "07:45",
                      "ultimo":  "08:35",
                      "tv":  "00:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -214,27 +214,27 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  21.13,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  2.32,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  "08:53",
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  21.13,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -342,10 +342,10 @@ window.PAINEL = {
                      "km":  48.1,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "08:45",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -421,6 +421,14 @@ window.PAINEL = {
                         "tempo":  "00:41:32"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Franca a Morro Agudo",
+                        "inicio":  "07:36",
+                        "final":  "08:48",
+                        "tempo":  "01:12:17"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Ibaté",
@@ -429,20 +437,12 @@ window.PAINEL = {
                         "tempo":  "00:20:46"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Franca a Morro Agudo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:03:16"
-                    },
-                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a T.O",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:16"
+                        "tempo":  "00:39:19"
                     }
                 ],
     "semped":  [
@@ -458,103 +458,127 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.04",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:10:51"
+                         "tempo":  "00:25:52"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:10:43"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:17:20"
+                         "tempo":  "01:32:21"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:13:34"
+                         "tempo":  "00:28:35"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:10:12"
+                         "tempo":  "00:25:13"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:45:03"
+                         "tempo":  "02:00:04"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:01:06"
+                         "tempo":  "00:16:07"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:52:18"
+                         "tempo":  "01:07:19"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:05:51"
+                         "tempo":  "00:20:52"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:24:25"
+                         "tempo":  "00:39:26"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
+                         "mun":  "MORRO AGUDO",
+                         "tempo":  "00:00:29"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "00:54:25"
+                         "tempo":  "01:09:26"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PANTOJA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:37:57"
+                         "tempo":  "00:52:58"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "60.510.753 ANA CAROLINA BELLINI GUEDES",
+                         "mun":  "IBATE",
+                         "tempo":  "00:14:14"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:27:02"
+                         "tempo":  "00:42:03"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:34:51"
+                         "tempo":  "00:49:52"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "J A CRUVINEL",
+                         "mun":  "SALTO",
+                         "tempo":  "00:08:17"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:24:56"
+                         "tempo":  "00:39:57"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:24:44"
+                         "tempo":  "00:39:45"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BALAN SUPERMERCADO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:37:48"
+                         "tempo":  "00:52:49"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:08:26"
+                         "tempo":  "00:23:27"
                      }
                  ],
     "hist":  [
@@ -13177,7 +13201,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "08:45",
+                                         "dataHora":  "09:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -13306,21 +13330,21 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.13,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  2.32,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  21.13,
                                                        "tv":  0
                                                    },
                                                    {
