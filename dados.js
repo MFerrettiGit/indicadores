@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
+                 {
+                     "nome":  "Evandro",
+                     "setor":  "PROMO-CAMPINASSUL",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  52.47,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:55",
+                     "ultimo":  "11:18",
+                     "tv":  "03:41:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
                  {
                      "nome":  "Edimilson",
                      "setor":  "PROMO-INDAIATUBA",
@@ -15,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:08",
                      "ultimo":  "10:43",
                      "tv":  "02:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -30,21 +45,6 @@ window.PAINEL = {
                      "primeiro":  "06:54",
                      "ultimo":  "10:12",
                      "tv":  "02:59:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Evandro",
-                     "setor":  "PROMO-CAMPINASSUL",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  52.17,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:55",
-                     "ultimo":  "09:10",
-                     "tv":  "01:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "10:56",
                      "tv":  "01:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "11:01",
                      "tv":  "02:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "10:53",
                      "tv":  "02:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "10:50",
                      "tv":  "02:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -472,6 +472,15 @@ window.PAINEL = {
                          "out":  "09:10:44",
                          "km":  12.43,
                          "dur":  "00:45:00"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                         "mun":  "CAMPINAS",
+                         "in":  "09:31:59",
+                         "out":  "11:18:05",
+                         "km":  0.3,
+                         "dur":  "01:46:00"
                      },
                      {
                          "nome":  "Silmara",
@@ -713,6 +722,14 @@ window.PAINEL = {
                         "inicio":  "07:23",
                         "final":  "07:44",
                         "tempo":  "00:20:46"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:50"
                     }
                 ],
     "semped":  [
@@ -761,106 +778,124 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "TAUSTE SUPERMERCADOS LTDA",
+                         "mun":  "SOROCABA",
+                         "tempo":  "00:00:30"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:04:01"
+                         "tempo":  "01:19:09"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.10",
                          "mun":  "SUMARE",
-                         "tempo":  "01:32:29"
+                         "tempo":  "01:47:37"
                      },
                      {
-                         "nome":  "Evandro",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:37:09"
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "tempo":  "00:11:00"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:28:03"
+                         "tempo":  "00:43:11"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:34:33"
+                         "tempo":  "00:49:41"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "VICHESSE SGARIBOLDI SUPERMERCADOS LTDA",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:07:44"
+                         "tempo":  "01:22:52"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "ARCAL SUPERMERCADO LTDA.",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:03:17"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.A BARBOSA SUPERMERCADOS LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:45:17"
+                         "tempo":  "01:00:25"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                          "mun":  "MORRO AGUDO",
-                         "tempo":  "02:15:26"
+                         "tempo":  "02:30:34"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
                          "mun":  "PONTAL",
-                         "tempo":  "03:24:23"
+                         "tempo":  "03:39:31"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "RAMAVI PERFUMARIA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:09:36"
+                         "tempo":  "00:24:44"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PANTOJA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:03:34"
+                         "tempo":  "01:18:42"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MARIANA IBATE LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "01:04:33"
+                         "tempo":  "01:19:41"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:34:11"
+                         "tempo":  "00:49:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "IRMAOS BRESCIANI SUPERMERCADO LTDA.",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:49:59"
+                         "tempo":  "01:05:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COMERCIAL FERREIRA SANTOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:30:36"
+                         "tempo":  "01:45:44"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:15:06"
+                         "tempo":  "01:30:14"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:12:34"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:58:52"
+                         "tempo":  "01:14:00"
                      }
                  ],
     "hist":  [
@@ -971,7 +1006,7 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     35,
+                     36,
                      7
                  ]
              ],
@@ -13483,8 +13518,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Evandro",
+                                                       "setor":  "PROMO-CAMPINASSUL",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  52.47,
+                                                       "tv":  221
+                                                   },
                                                    {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
@@ -13502,15 +13546,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  22.76,
                                                        "tv":  179
-                                                   },
-                                                   {
-                                                       "nome":  "Evandro",
-                                                       "setor":  "PROMO-CAMPINASSUL",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  52.17,
-                                                       "tv":  115
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -13786,6 +13821,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  12.43,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Evandro",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                                                         "p":  1,
+                                                         "km":  0.3,
+                                                         "tv":  106
                                                      },
                                                      {
                                                          "n":  "Silmara",

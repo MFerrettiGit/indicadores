@@ -12506,8 +12506,17 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  52.47,
+                                     "tv":  221
+                                 },
                                  {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
@@ -12525,15 +12534,6 @@
                                      "pe":  0,
                                      "km":  22.76,
                                      "tv":  179
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  52.17,
-                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Debora",
@@ -12809,6 +12809,13 @@
                                        "p":  1,
                                        "km":  12.43,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.15",
+                                       "p":  1,
+                                       "km":  0.3,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Silmara",
