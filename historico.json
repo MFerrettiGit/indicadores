@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12626,6 +12626,15 @@
                                      "tv":  272
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  153.95,
+                                     "tv":  258
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -12633,15 +12642,6 @@
                                      "pe":  3,
                                      "km":  49.11,
                                      "tv":  230
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  152.65,
-                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -12656,10 +12656,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  17.67,
-                                     "tv":  275
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  19.48,
+                                     "tv":  301
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -12993,6 +12993,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
+                                       "p":  0,
+                                       "km":  1.3,
+                                       "tv":  33
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                                        "p":  1,
@@ -13194,6 +13201,13 @@
                                        "p":  1,
                                        "km":  4.59,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.81,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Karina",

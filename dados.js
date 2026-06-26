@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "14:03",
                      "tv":  "04:19:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -165,8 +165,8 @@ window.PAINEL = {
                      "primeiro":  "07:45",
                      "ultimo":  "11:49",
                      "tv":  "03:44:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  153.95,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:53",
+                     "ultimo":  "15:12",
+                     "tv":  "04:18:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -212,21 +227,6 @@ window.PAINEL = {
                      "tv":  "03:50:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  152.65,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:53",
-                     "ultimo":  "14:33",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  17.67,
+                     "visitas":  6,
+                     "km":  19.48,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:12",
-                     "ultimo":  "14:40",
-                     "tv":  "04:35:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:13",
+                     "tv":  "05:01:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "13:29",
                      "tv":  "03:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -708,6 +708,15 @@ window.PAINEL = {
                          "dur":  "00:23:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
+                         "mun":  "IPUA",
+                         "in":  "14:38:11",
+                         "out":  "15:12:34",
+                         "km":  1.3,
+                         "dur":  "00:33:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                          "mun":  "LIMEIRA",
@@ -967,6 +976,15 @@ window.PAINEL = {
                          "out":  "14:40:44",
                          "km":  4.59,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "14:46:40",
+                         "out":  "15:13:00",
+                         "km":  1.81,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Karina",
@@ -1232,6 +1250,14 @@ window.PAINEL = {
                         "tempo":  "01:04:46"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:19",
+                        "final":  "15:19",
+                        "tempo":  "00:59:16"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Acompanhando",
                         "obs":  "acompanhando meu filho na consulta com a T.O",
@@ -1288,20 +1314,12 @@ window.PAINEL = {
                         "tempo":  "00:59:05"
                     },
                     {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:17"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Outro",
                         "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:29:01"
+                        "inicio":  "14:41",
+                        "final":  "15:15",
+                        "tempo":  "00:33:53"
                     },
                     {
                         "nome":  "Costa",
@@ -1309,7 +1327,23 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:57"
+                        "tempo":  "00:39:56"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Ipuã a Franca",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:15"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedidos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:07"
                     }
                 ],
     "semped":  [
@@ -1342,6 +1376,12 @@ window.PAINEL = {
                        "razao":  "TERIN TERIN CIA LTDA.",
                        "mun":  "AMPARO",
                        "obs":  "sem recompra"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
+                       "mun":  "IPUA",
+                       "obs":  "visita de rotina"
                    },
                    {
                        "nome":  "Nelson",
@@ -1391,109 +1431,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "03:45:27"
+                         "tempo":  "04:00:28"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:14:14"
+                         "tempo":  "00:29:15"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:15:19"
+                         "tempo":  "00:30:20"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "SALTO",
-                         "tempo":  "00:13:09"
+                         "tempo":  "00:28:10"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO REVOLUTION LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:14"
+                         "tempo":  "00:37:15"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:01:26"
+                         "tempo":  "01:16:27"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:21:03"
+                         "tempo":  "01:36:04"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "ANTONELLI SUPERMERCADO LTDA.",
                          "mun":  "AMPARO",
-                         "tempo":  "00:43:34"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
-                         "mun":  "IPUA",
-                         "tempo":  "00:31:02"
+                         "tempo":  "00:58:35"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:00:27"
+                         "tempo":  "00:15:28"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:41:45"
+                         "tempo":  "00:56:46"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "00:22:33"
+                         "nome":  "Sao Carlos",
+                         "razao":  "JADE CAROLINE CONFELLA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:03:45"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO ARIEL LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:03:45"
+                         "tempo":  "00:18:46"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COUTO FILHO MINIMERCADO LTDA",
                          "mun":  "PARAIBUNA",
-                         "tempo":  "00:00:28"
+                         "tempo":  "00:15:29"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL E SUPERM. DE ALIM. BRESCIANI L",
                          "mun":  "CAPIVARI",
-                         "tempo":  "01:00:09"
+                         "tempo":  "01:15:10"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:43:22"
+                         "tempo":  "00:58:23"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "GRUPO VAREJISTA ZL DO BRASIL LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:58:15"
+                         "tempo":  "01:13:16"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:37:55"
+                         "tempo":  "00:52:56"
                      }
                  ],
     "hist":  [
@@ -1604,8 +1638,8 @@ window.PAINEL = {
                  ],
                  [
                      "26/06",
-                     80,
-                     12
+                     82,
+                     13
                  ]
              ],
     "historico":  {
@@ -14116,7 +14150,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14236,6 +14270,15 @@ window.PAINEL = {
                                                        "tv":  272
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  153.95,
+                                                       "tv":  258
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -14243,15 +14286,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  49.11,
                                                        "tv":  230
-                                                   },
-                                                   {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  152.65,
-                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -14266,10 +14300,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  17.67,
-                                                       "tv":  275
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  19.48,
+                                                       "tv":  301
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -14603,6 +14637,13 @@ window.PAINEL = {
                                                          "tv":  23
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "VICENTE SOBRINHO MAIZENA SUPERM EIRELI",
+                                                         "p":  0,
+                                                         "km":  1.3,
+                                                         "tv":  33
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "LIDERANCA MAX SUPERMERCADOS EIRELI",
                                                          "p":  1,
@@ -14804,6 +14845,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.59,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  1.81,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Karina",
