@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "26/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "15:43",
                      "tv":  "04:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -1526,12 +1526,20 @@ window.PAINEL = {
                         "tempo":  "00:33:53"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  "16:16",
+                        "final":  "17:37",
+                        "tempo":  "01:20:35"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:01:34"
+                        "tempo":  "02:16:19"
                     },
                     {
                         "nome":  "Costa",
@@ -1539,7 +1547,7 @@ window.PAINEL = {
                         "obs":  "digitando 4 pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:34:44"
+                        "tempo":  "01:49:29"
                     },
                     {
                         "nome":  "Karina",
@@ -1547,15 +1555,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido de sugestão enviada",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:13:17"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:08:43"
+                        "tempo":  "01:28:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -1563,7 +1563,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:05:08"
+                        "tempo":  "01:19:53"
                     },
                     {
                         "nome":  "Maira",
@@ -1571,7 +1571,7 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:03:08"
+                        "tempo":  "01:17:53"
                     }
                 ],
     "semped":  [
@@ -1683,43 +1683,43 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "06:00:33"
+                         "tempo":  "06:15:27"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:25:15"
+                         "tempo":  "00:40:09"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:54:14"
+                         "tempo":  "02:09:08"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA S LUIZ SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:30"
+                         "tempo":  "00:39:24"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "JURACI BARNABE DA SILVA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:12:11"
+                         "tempo":  "00:27:05"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MIEKO HONDA TANABE - ME",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "02:58:28"
+                         "tempo":  "03:13:22"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "JR SUPERMERCADOS RAMOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:03:33"
+                         "tempo":  "01:18:27"
                      }
                  ],
     "hist":  [
@@ -14342,7 +14342,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-26":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
