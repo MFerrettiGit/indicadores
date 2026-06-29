@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "11:30",
+    "dataHora":  "11:45",
     "vend":  [
+                 {
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  75.36,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "05:54",
+                     "ultimo":  "11:41",
+                     "tv":  "05:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -19,33 +34,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  66.16,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "05:54",
-                     "ultimo":  "10:41",
-                     "tv":  "04:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Debora",
                      "setor":  "PROMO-ARARAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  35.51,
+                     "visitas":  3,
+                     "km":  39.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
-                     "ultimo":  "09:40",
-                     "tv":  "02:22:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:45",
+                     "tv":  "04:14:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  61.54,
+                     "visitas":  4,
+                     "km":  110.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
-                     "ultimo":  "10:09",
-                     "tv":  "02:42:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:42",
+                     "tv":  "03:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  15.11,
-                     "semPed":  3,
+                     "visitas":  4,
+                     "km":  16.46,
+                     "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:34",
-                     "ultimo":  "10:52",
-                     "tv":  "01:49:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:41",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -263,13 +263,13 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  7.69,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  19.7,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:09",
-                     "ultimo":  "10:40",
-                     "tv":  "01:48:00",
+                     "ultimo":  "11:31",
+                     "tv":  "02:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  4.69,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "09:01",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:45",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -384,6 +384,15 @@ window.PAINEL = {
                          "dur":  "01:35:00"
                      },
                      {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
+                         "mun":  "SUMARE",
+                         "in":  "11:04:14",
+                         "out":  "11:41:52",
+                         "km":  9.2,
+                         "dur":  "00:37:00"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
@@ -400,6 +409,15 @@ window.PAINEL = {
                          "out":  "09:40:21",
                          "km":  3.91,
                          "dur":  "01:01:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "09:52:42",
+                         "out":  "11:45:07",
+                         "km":  3.79,
+                         "dur":  "01:52:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -609,6 +627,15 @@ window.PAINEL = {
                          "dur":  "00:50:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "10:58:24",
+                         "out":  "11:42:23",
+                         "km":  48.76,
+                         "dur":  "00:43:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
@@ -634,6 +661,15 @@ window.PAINEL = {
                          "out":  "10:52:16",
                          "km":  0,
                          "dur":  "00:29:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                         "mun":  "SERRA NEGRA",
+                         "in":  "10:55:03",
+                         "out":  "11:41:13",
+                         "km":  1.35,
+                         "dur":  "00:44:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -753,6 +789,24 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "11:12:00",
+                         "out":  "11:31:49",
+                         "km":  12.01,
+                         "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "09:01:22",
+                         "out":  "11:45:23",
+                         "km":  4.69,
+                         "dur":  "02:43:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
@@ -870,6 +924,12 @@ window.PAINEL = {
                        "obs":  "analise da loja"
                    },
                    {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                       "mun":  "SERRA NEGRA",
+                       "obs":  "analise da loja"
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "SUPERMERCADO VIEIRA FRANCA LTDA",
                        "mun":  "FRANCA",
@@ -911,133 +971,103 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "01:37:04"
-                     },
-                     {
-                         "nome":  "Debora",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "01:38:17"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
-                         "mun":  "SUMARE",
-                         "tempo":  "00:26:45"
+                         "tempo":  "01:52:02"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:26:40"
+                         "tempo":  "00:41:38"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:04:02"
+                         "tempo":  "01:19:00"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:47:45"
+                         "tempo":  "02:02:43"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:52:18"
+                         "tempo":  "01:07:16"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:06:23"
+                         "tempo":  "00:21:21"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "L.R. GOMES - SUPERMERCADOS LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:03:15"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
-                         "mun":  "SERRA NEGRA",
-                         "tempo":  "00:35:56"
+                         "tempo":  "00:18:13"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:02:35"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:32:35"
+                         "tempo":  "00:17:33"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "01:12:14"
+                         "tempo":  "01:27:12"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "PARROTTI SANTA RITA SUPERMERCADOS LTDA",
                          "mun":  "LEME",
-                         "tempo":  "00:04:12"
+                         "tempo":  "00:19:10"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "JANE VERDOLINI BOMBARDA - ME.",
                          "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:13:46"
+                         "tempo":  "00:28:44"
                      },
                      {
                          "nome":  "Eugenio",
-                         "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:18:59"
+                         "tempo":  "00:09:40"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:51:36"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:29:37"
+                         "tempo":  "01:06:34"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:15:55"
+                         "tempo":  "01:30:53"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS SUPERHANDS SLU",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:33:00"
+                         "tempo":  "00:47:58"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:50:34"
+                         "tempo":  "01:05:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SM MAIS SUPERMERCADOS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:05:00"
+                         "tempo":  "00:19:58"
                      }
                  ],
     "hist":  [
@@ -1138,8 +1168,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     49,
-                     12
+                     55,
+                     14
                  ]
              ],
     "historico":  {
@@ -14622,8 +14652,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "11:30",
+                                         "dataHora":  "11:45",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  75.36,
+                                                       "tv":  303
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -14634,22 +14673,13 @@ window.PAINEL = {
                                                        "tv":  200
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  66.16,
-                                                       "tv":  266
-                                                   },
-                                                   {
                                                        "nome":  "Debora",
                                                        "setor":  "PROMO-ARARAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  35.51,
-                                                       "tv":  142
+                                                       "km":  39.3,
+                                                       "tv":  254
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -14700,10 +14730,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  61.54,
-                                                       "tv":  162
+                                                       "km":  110.3,
+                                                       "tv":  205
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -14727,10 +14757,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  15.11,
-                                                       "tv":  109
+                                                       "km":  16.46,
+                                                       "tv":  153
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -14781,10 +14811,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  7.69,
-                                                       "tv":  108
+                                                       "km":  19.7,
+                                                       "tv":  127
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -14835,10 +14865,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.69,
+                                                       "tv":  163
                                                    }
                                                ],
                                          "cli":  [
@@ -14857,6 +14887,13 @@ window.PAINEL = {
                                                          "tv":  95
                                                      },
                                                      {
+                                                         "n":  "Aline",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
+                                                         "p":  1,
+                                                         "km":  9.2,
+                                                         "tv":  37
+                                                     },
+                                                     {
                                                          "n":  "Debora",
                                                          "r":  "EXAMINE SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -14869,6 +14906,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.91,
                                                          "tv":  61
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.79,
+                                                         "tv":  112
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -15032,6 +15076,13 @@ window.PAINEL = {
                                                          "tv":  50
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  48.76,
+                                                         "tv":  43
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                                          "p":  0,
@@ -15051,6 +15102,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0,
                                                          "tv":  29
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                                         "p":  0,
+                                                         "km":  1.35,
+                                                         "tv":  44
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
@@ -15142,6 +15200,20 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.19,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  12.01,
+                                                         "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.69,
+                                                         "tv":  163
                                                      },
                                                      {
                                                          "n":  "Lucas",

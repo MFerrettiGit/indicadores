@@ -13478,8 +13478,17 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  75.36,
+                                     "tv":  303
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -13490,22 +13499,13 @@
                                      "tv":  200
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  66.16,
-                                     "tv":  266
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  35.51,
-                                     "tv":  142
+                                     "km":  39.3,
+                                     "tv":  254
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -13556,10 +13556,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  61.54,
-                                     "tv":  162
+                                     "km":  110.3,
+                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -13583,10 +13583,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  15.11,
-                                     "tv":  109
+                                     "km":  16.46,
+                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Costa",
@@ -13637,10 +13637,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  7.69,
-                                     "tv":  108
+                                     "km":  19.7,
+                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Castro",
@@ -13691,10 +13691,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.69,
+                                     "tv":  163
                                  }
                              ],
                        "cli":  [
@@ -13713,6 +13713,13 @@
                                        "tv":  95
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
+                                       "p":  1,
+                                       "km":  9.2,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -13725,6 +13732,13 @@
                                        "p":  1,
                                        "km":  3.91,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.79,
+                                       "tv":  112
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -13888,6 +13902,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  48.76,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                        "p":  0,
@@ -13907,6 +13928,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                       "p":  0,
+                                       "km":  1.35,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -13998,6 +14026,20 @@
                                        "p":  1,
                                        "km":  3.19,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  12.01,
+                                       "tv":  19
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  4.69,
+                                       "tv":  163
                                    },
                                    {
                                        "n":  "Lucas",
