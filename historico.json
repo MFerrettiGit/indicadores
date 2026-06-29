@@ -13478,8 +13478,17 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  48.75,
+                                     "tv":  200
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -13488,15 +13497,6 @@
                                      "pe":  0,
                                      "km":  66.16,
                                      "tv":  266
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  44.93,
-                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Debora",
@@ -13583,19 +13583,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
                                      "km":  15.11,
-                                     "tv":  80
+                                     "tv":  109
                                  },
                                  {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.01,
-                                     "tv":  67
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  9.38,
+                                     "tv":  143
                                  },
                                  {
                                      "nome":  "Maira",
@@ -13625,6 +13625,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  30.84,
+                                     "tv":  134
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -13652,13 +13661,13 @@
                                      "tv":  118
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  2,
-                                     "km":  26.53,
-                                     "tv":  97
+                                     "pe":  1,
+                                     "km":  3.93,
+                                     "tv":  145
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -13668,15 +13677,6 @@
                                      "pe":  2,
                                      "km":  12.59,
                                      "tv":  73
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  1.3,
-                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -13769,6 +13769,13 @@
                                        "tv":  83
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  3.82,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -13795,6 +13802,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "PARROTI SAO JOAO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  3.37,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Fernando",
@@ -13832,6 +13846,13 @@
                                        "tv":  109
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "G.L. TRES NINA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  0.49,
+                                       "tv":  44
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13865,6 +13886,13 @@
                                        "p":  0,
                                        "km":  5.92,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO COLORADO LTDA - LOJA 01.",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Alan",
@@ -13916,6 +13944,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "D. NASTARO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  4.31,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "JOSE DIRCEU VILHENA DE MELO",
                                        "p":  1,
@@ -13963,6 +13998,13 @@
                                        "p":  0,
                                        "km":  0.8,
                                        "tv":  100
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC. PADARIA E CONF. RODRIGUES LTDA-ME",
+                                       "p":  1,
+                                       "km":  2.63,
+                                       "tv":  45
                                    }
                                ]
                    }
