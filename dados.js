@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -1299,7 +1299,7 @@ window.PAINEL = {
                         "obs":  "Jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:37:58"
+                        "tempo":  "01:52:32"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1307,7 +1307,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:27:09"
+                        "tempo":  "01:41:43"
                     },
                     {
                         "nome":  "Karina",
@@ -1315,7 +1315,7 @@ window.PAINEL = {
                         "obs":  "mercado fechado por conta do jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:31"
+                        "tempo":  "00:49:05"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1323,7 +1323,7 @@ window.PAINEL = {
                         "obs":  "cliente não quer atendimento,por causa do jogo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:32"
+                        "tempo":  "00:39:06"
                     }
                 ],
     "semped":  [
@@ -1459,7 +1459,7 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:07:26"
+                         "tempo":  "00:21:57"
                      }
                  ],
     "hist":  [
@@ -15044,7 +15044,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
