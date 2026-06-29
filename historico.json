@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13598,6 +13598,15 @@
                                      "tv":  239
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  144.37,
+                                     "tv":  311
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -13605,15 +13614,6 @@
                                      "pe":  3,
                                      "km":  20.52,
                                      "tv":  178
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  73.58,
-                                     "tv":  194
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -14082,6 +14082,13 @@
                                        "p":  1,
                                        "km":  1.64,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  1,
+                                       "km":  70.79,
+                                       "tv":  117
                                    },
                                    {
                                        "n":  "Alan",

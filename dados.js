@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  144.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "17:21",
+                     "tv":  "05:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Maira",
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
@@ -211,21 +226,6 @@ window.PAINEL = {
                      "ultimo":  "11:53",
                      "tv":  "02:58:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  73.58,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "12:24",
-                     "tv":  "03:14:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "16:59",
                      "tv":  "03:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -859,6 +859,15 @@ window.PAINEL = {
                          "out":  "12:24:56",
                          "km":  1.64,
                          "dur":  "00:19:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "in":  "15:23:23",
+                         "out":  "17:21:04",
+                         "km":  70.79,
+                         "dur":  "01:57:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1477,25 +1486,25 @@ window.PAINEL = {
                          "nome":  "Luis",
                          "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:06:35"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:52:26"
+                         "tempo":  "00:21:35"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:04:43"
+                         "tempo":  "00:19:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:43:51"
+                         "tempo":  "00:58:51"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:08:41"
                      }
                  ],
     "hist":  [
@@ -1596,7 +1605,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     89,
+                     90,
                      22
                  ]
              ],
@@ -15080,7 +15089,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15200,6 +15209,15 @@ window.PAINEL = {
                                                        "tv":  239
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  144.37,
+                                                       "tv":  311
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -15207,15 +15225,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  20.52,
                                                        "tv":  178
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  73.58,
-                                                       "tv":  194
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -15684,6 +15693,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.64,
                                                          "tv":  19
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                                         "p":  1,
+                                                         "km":  70.79,
+                                                         "tv":  117
                                                      },
                                                      {
                                                          "n":  "Alan",
