@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "16:45",
+    "dataHora":  "17:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  16.92,
+                     "visitas":  7,
+                     "km":  25.06,
                      "semPed":  4,
-                     "perc":  66.67,
+                     "perc":  57.14,
                      "primeiro":  "08:18",
-                     "ultimo":  "12:24",
-                     "tv":  "03:25:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:58",
+                     "tv":  "03:51:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  37.92,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:22",
+                     "ultimo":  "16:59",
+                     "tv":  "03:30:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -304,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  20.19,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "13:20",
-                     "tv":  "03:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "13:33",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -706,6 +706,15 @@ window.PAINEL = {
                          "out":  "12:24:11",
                          "km":  1.64,
                          "dur":  "00:17:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO PAULAO LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "16:32:29",
+                         "out":  "16:58:50",
+                         "km":  8.14,
+                         "dur":  "00:26:00"
                      },
                      {
                          "nome":  "Maira",
@@ -1104,6 +1113,15 @@ window.PAINEL = {
                          "dur":  "00:55:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO LIMA BEZERRA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "16:29:24",
+                         "out":  "16:59:44",
+                         "km":  17.73,
+                         "dur":  "00:30:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
@@ -1172,6 +1190,14 @@ window.PAINEL = {
                         "inicio":  "13:53",
                         "final":  "14:55",
                         "tempo":  "01:02:37"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Outro",
+                        "obs":  "mercado fechado por conta do jogo do Brasil",
+                        "inicio":  "14:57",
+                        "final":  "16:52",
+                        "tempo":  "01:55:11"
                     },
                     {
                         "nome":  "Rachel",
@@ -1316,14 +1342,6 @@ window.PAINEL = {
                         "inicio":  "13:55",
                         "final":  "14:54",
                         "tempo":  "00:59:09"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Outro",
-                        "obs":  "mercado fechado por conta do jogo do Brasil",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:49:41"
                     }
                 ],
     "semped":  [
@@ -1456,28 +1474,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO PAULAO LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:13:24"
-                     },
-                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:22:30"
+                         "tempo":  "01:37:31"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:13:55"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "MERCADINHO LIMA BEZERRA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:16:29"
+                         "tempo":  "00:28:56"
                      }
                  ],
     "hist":  [
@@ -1578,7 +1584,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     87,
+                     89,
                      22
                  ]
              ],
@@ -15062,7 +15068,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "16:45",
+                                         "dataHora":  "17:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15158,10 +15164,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  2,
-                                                       "km":  16.92,
-                                                       "tv":  205
+                                                       "vi":  7,
+                                                       "pe":  3,
+                                                       "km":  25.06,
+                                                       "tv":  231
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -15218,6 +15224,15 @@ window.PAINEL = {
                                                        "tv":  235
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  37.92,
+                                                       "tv":  210
+                                                   },
+                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
@@ -15243,15 +15258,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  52.45,
                                                        "tv":  162
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  20.19,
-                                                       "tv":  180
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -15547,6 +15553,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.64,
                                                          "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO PAULAO LTDA",
+                                                         "p":  1,
+                                                         "km":  8.14,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -15855,6 +15868,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.82,
                                                          "tv":  55
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "MERCADINHO LIMA BEZERRA LTDA",
+                                                         "p":  1,
+                                                         "km":  17.73,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Nelson",
