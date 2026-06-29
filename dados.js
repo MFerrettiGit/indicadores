@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "13:30",
+    "dataHora":  "13:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  59.29,
+                     "km":  72.31,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  41.21,
+                     "km":  74.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "13:19",
                      "tv":  "03:59:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "11:53",
                      "tv":  "02:58:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  4.69,
+                     "visitas":  2,
+                     "km":  6.87,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:01",
-                     "ultimo":  "11:45",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:33",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -1014,6 +1014,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "ARMAZEM GALDINO LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "12:48:25",
+                         "out":  "13:46:25",
+                         "km":  1,
+                         "dur":  "00:57:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
@@ -1021,6 +1030,15 @@ window.PAINEL = {
                          "out":  "11:45:23",
                          "km":  4.69,
                          "dur":  "02:43:00"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "12:30:44",
+                         "out":  "13:33:42",
+                         "km":  2.18,
+                         "dur":  "01:02:00"
                      },
                      {
                          "nome":  "Lucas",
@@ -1124,6 +1142,14 @@ window.PAINEL = {
                  ],
     "eventos":  [
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:36",
+                        "final":  "13:43",
+                        "tempo":  "01:07:13"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "pedido guarani",
@@ -1167,17 +1193,9 @@ window.PAINEL = {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "Boa esperança a São Carlos",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:06:24"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:16"
+                        "inicio":  "12:25",
+                        "final":  "13:41",
+                        "tempo":  "01:16:21"
                     },
                     {
                         "nome":  "Cominato",
@@ -1185,7 +1203,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:33:00"
+                        "tempo":  "00:48:00"
                     },
                     {
                         "nome":  "Castro",
@@ -1193,7 +1211,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:30"
+                        "tempo":  "00:47:30"
                     },
                     {
                         "nome":  "Rachel",
@@ -1201,7 +1219,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:01"
+                        "tempo":  "00:46:01"
                     },
                     {
                         "nome":  "Nelson",
@@ -1209,7 +1227,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:37"
+                        "tempo":  "00:39:37"
                     },
                     {
                         "nome":  "Luis",
@@ -1217,7 +1235,15 @@ window.PAINEL = {
                         "obs":  "Odaltir Medeiros",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:20"
+                        "tempo":  "00:16:20"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:23"
                     }
                 ],
     "semped":  [
@@ -1353,13 +1379,7 @@ window.PAINEL = {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:42:22"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:00:03"
+                         "tempo":  "00:57:22"
                      }
                  ],
     "hist":  [
@@ -1460,7 +1480,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     85,
+                     86,
                      22
                  ]
              ],
@@ -14944,7 +14964,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "13:30",
+                                         "dataHora":  "13:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14952,7 +14972,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  59.29,
+                                                       "km":  72.31,
                                                        "tv":  269
                                                    },
                                                    {
@@ -14970,7 +14990,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  41.21,
+                                                       "km":  74.85,
                                                        "tv":  315
                                                    },
                                                    {
@@ -15157,10 +15177,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  4.69,
-                                                       "tv":  163
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  6.87,
+                                                       "tv":  225
                                                    }
                                                ],
                                          "cli":  [
@@ -15669,11 +15689,25 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "ARMAZEM GALDINO LTDA",
+                                                         "p":  1,
+                                                         "km":  1,
+                                                         "tv":  57
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                                                          "p":  1,
                                                          "km":  4.69,
                                                          "tv":  163
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                                         "p":  1,
+                                                         "km":  2.18,
+                                                         "tv":  62
                                                      },
                                                      {
                                                          "n":  "Lucas",

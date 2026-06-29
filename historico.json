@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13486,7 +13486,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  59.29,
+                                     "km":  72.31,
                                      "tv":  269
                                  },
                                  {
@@ -13504,7 +13504,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  41.21,
+                                     "km":  74.85,
                                      "tv":  315
                                  },
                                  {
@@ -13691,10 +13691,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.69,
-                                     "tv":  163
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  6.87,
+                                     "tv":  225
                                  }
                              ],
                        "cli":  [
@@ -14203,11 +14203,25 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "ARMAZEM GALDINO LTDA",
+                                       "p":  1,
+                                       "km":  1,
+                                       "tv":  57
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                                        "p":  1,
                                        "km":  4.69,
                                        "tv":  163
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  2.18,
+                                       "tv":  62
                                    },
                                    {
                                        "n":  "Lucas",
