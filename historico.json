@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -13529,10 +13529,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  16.02,
-                                     "tv":  81
+                                     "km":  18.92,
+                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -13657,7 +13657,7 @@
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  31.68,
+                                     "km":  36.93,
                                      "tv":  209
                                  },
                                  {
@@ -13830,6 +13830,13 @@
                                        "p":  1,
                                        "km":  11.98,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  2.9,
+                                       "tv":  72
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -14158,6 +14165,13 @@
                                        "r":  "CONVEM SUPERMERCADOS LTDA.",
                                        "p":  1,
                                        "km":  3.92,
+                                       "tv":  17
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                                       "p":  1,
+                                       "km":  2.13,
                                        "tv":  17
                                    },
                                    {

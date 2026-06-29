@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Aline",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "11:56",
                      "tv":  "04:11:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -83,14 +83,14 @@ window.PAINEL = {
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  16.02,
+                     "visitas":  3,
+                     "km":  18.92,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:58",
-                     "ultimo":  "11:09",
-                     "tv":  "01:21:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:37",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "03:25:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Rachel",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "11:53",
                      "tv":  "02:58:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -294,7 +294,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  31.68,
+                     "km":  36.93,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:11",
                      "ultimo":  "12:29",
                      "tv":  "03:56:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -535,6 +535,15 @@ window.PAINEL = {
                          "out":  "11:09:40",
                          "km":  11.98,
                          "dur":  "00:55:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "11:24:36",
+                         "out":  "12:37:29",
+                         "km":  2.9,
+                         "dur":  "01:12:00"
                      },
                      {
                          "nome":  "Vinicius",
@@ -960,6 +969,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "12:28:47",
+                         "out":  "12:46:13",
+                         "km":  2.13,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
@@ -1080,7 +1098,23 @@ window.PAINEL = {
                         "obs":  "Boa esperança a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:28"
+                        "tempo":  "00:21:29"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:21"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:37"
                     }
                 ],
     "semped":  [
@@ -1210,49 +1244,55 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:32:41"
+                         "tempo":  "00:47:41"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:04:47"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:47:37"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:06:15"
+                         "tempo":  "03:02:37"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "JOSE PARROTTI",
                          "mun":  "LEME",
-                         "tempo":  "00:11:44"
+                         "tempo":  "00:26:44"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:02:04"
+                         "tempo":  "00:17:04"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:00:07"
+                         "tempo":  "00:15:07"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO C.C. LTDA-EPP.",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:25:38"
+                         "tempo":  "00:40:38"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "M S SUPERMERCADO LTDA.",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:12:53"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "ACHEI ATACAREJO DO PUTIM LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:06:14"
+                         "tempo":  "00:21:14"
                      }
                  ],
     "hist":  [
@@ -1353,7 +1393,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     76,
+                     77,
                      21
                  ]
              ],
@@ -14837,7 +14877,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Aline",
@@ -14888,10 +14928,10 @@ window.PAINEL = {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  16.02,
-                                                       "tv":  81
+                                                       "km":  18.92,
+                                                       "tv":  153
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -15016,7 +15056,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  31.68,
+                                                       "km":  36.93,
                                                        "tv":  209
                                                    },
                                                    {
@@ -15189,6 +15229,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  11.98,
                                                          "tv":  55
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                                                         "p":  1,
+                                                         "km":  2.9,
+                                                         "tv":  72
                                                      },
                                                      {
                                                          "n":  "Vinicius",
@@ -15517,6 +15564,13 @@ window.PAINEL = {
                                                          "r":  "CONVEM SUPERMERCADOS LTDA.",
                                                          "p":  1,
                                                          "km":  3.92,
+                                                         "tv":  17
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "DIVINO VARIEDADE EM LIMPEZA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.13,
                                                          "tv":  17
                                                      },
                                                      {
