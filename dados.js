@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:46",
                      "tv":  "03:55:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Cominato",
@@ -1150,6 +1150,14 @@ window.PAINEL = {
                         "tempo":  "01:07:13"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:04",
+                        "final":  "15:54",
+                        "tempo":  "01:49:53"
+                    },
+                    {
                         "nome":  "Alan",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1299,15 +1307,7 @@ window.PAINEL = {
                         "obs":  "Jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:52:32"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:41:43"
+                        "tempo":  "02:07:58"
                     },
                     {
                         "nome":  "Karina",
@@ -1315,7 +1315,7 @@ window.PAINEL = {
                         "obs":  "mercado fechado por conta do jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:05"
+                        "tempo":  "01:04:31"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1323,7 +1323,7 @@ window.PAINEL = {
                         "obs":  "cliente não quer atendimento,por causa do jogo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:06"
+                        "tempo":  "00:54:32"
                     }
                 ],
     "semped":  [
@@ -1459,7 +1459,7 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:21:57"
+                         "tempo":  "00:37:28"
                      }
                  ],
     "hist":  [
@@ -15044,7 +15044,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
