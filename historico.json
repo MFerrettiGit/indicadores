@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13508,6 +13508,15 @@
                                      "tv":  254
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  8.34,
+                                     "tv":  237
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -13515,15 +13524,6 @@
                                      "pe":  0,
                                      "km":  18.06,
                                      "tv":  160
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.34,
-                                     "tv":  146
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -13565,10 +13565,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  72.65,
-                                     "tv":  15
+                                     "km":  77.71,
+                                     "tv":  143
                                  },
                                  {
                                      "nome":  "Luis",
@@ -13583,10 +13583,19 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  16.46,
-                                     "tv":  153
+                                     "km":  18.25,
+                                     "tv":  168
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  13.02,
+                                     "tv":  179
                                  },
                                  {
                                      "nome":  "Maira",
@@ -13596,15 +13605,6 @@
                                      "pe":  3,
                                      "km":  20.52,
                                      "tv":  178
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  9.38,
-                                     "tv":  143
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -13655,10 +13655,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  21.94,
-                                     "tv":  118
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  31.68,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -13682,10 +13682,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  26.07,
-                                     "tv":  72
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  27.91,
+                                     "tv":  177
                                  },
                                  {
                                      "nome":  "Karina",
@@ -13762,6 +13762,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  5.06,
+                                       "tv":  128
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.01",
                                        "p":  1,
@@ -13825,6 +13832,13 @@
                                        "tv":  90
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  91
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PARROTTI A. BOA VISTA LTDA",
                                        "p":  1,
@@ -13837,6 +13851,13 @@
                                        "p":  1,
                                        "km":  3.37,
                                        "tv":  76
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "PARROTTI SANTA RITA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.64,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Fernando",
@@ -13965,6 +13986,13 @@
                                        "tv":  44
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO FONSECA  AMADEU LTDA",
+                                       "p":  0,
+                                       "km":  1.79,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA.",
                                        "p":  1,
@@ -13991,6 +14019,13 @@
                                        "p":  1,
                                        "km":  12.25,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  9.74,
+                                       "tv":  91
                                    },
                                    {
                                        "n":  "Castro",
@@ -14096,6 +14131,13 @@
                                        "p":  1,
                                        "km":  25.47,
                                        "tv":  72
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SEVAN SUPERMERCADOS - LTDA",
+                                       "p":  1,
+                                       "km":  1.84,
+                                       "tv":  105
                                    },
                                    {
                                        "n":  "Mariangela",
