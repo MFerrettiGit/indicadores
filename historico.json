@@ -12506,7 +12506,7 @@
                                ]
                    },
     "2026-06-26":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -12622,8 +12622,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  35.18,
+                                     "km":  67.72,
                                      "tv":  325
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  86.39,
+                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Luis",
@@ -12631,17 +12640,8 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  3,
-                                     "km":  153.95,
+                                     "km":  227.59,
                                      "tv":  258
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  64.09,
-                                     "tv":  274
                                  },
                                  {
                                      "nome":  "Costa",
@@ -12649,17 +12649,26 @@
                                      "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  49.11,
+                                     "km":  99.23,
                                      "tv":  230
                                  },
                                  {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
+                                     "vi":  8,
+                                     "pe":  7,
+                                     "km":  101.32,
+                                     "tv":  413
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
                                      "vi":  7,
-                                     "pe":  6,
-                                     "km":  99.08,
-                                     "tv":  375
+                                     "pe":  7,
+                                     "km":  29.86,
+                                     "tv":  439
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -12671,13 +12680,13 @@
                                      "tv":  343
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  19.48,
-                                     "tv":  301
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  26.94,
+                                     "tv":  404
                                  },
                                  {
                                      "nome":  "Karina",
@@ -12685,17 +12694,17 @@
                                      "regional":  "SUL",
                                      "vi":  5,
                                      "pe":  5,
-                                     "km":  82.76,
+                                     "km":  135.91,
                                      "tv":  260
                                  },
                                  {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
                                      "regional":  "SUL",
                                      "vi":  4,
-                                     "pe":  2,
-                                     "km":  21.39,
-                                     "tv":  361
+                                     "pe":  3,
+                                     "km":  23.68,
+                                     "tv":  401
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -12705,15 +12714,6 @@
                                      "pe":  4,
                                      "km":  22.6,
                                      "tv":  206
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  21.33,
-                                     "tv":  319
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -13021,6 +13021,13 @@
                                        "tv":  130
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "ELITE RIBEIRAO PAES E CONVENIENCIAS LTDA",
+                                       "p":  1,
+                                       "km":  22.3,
+                                       "tv":  37
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SUPERMERCADO CHAIM LTDA - LOJA 02.",
                                        "p":  1,
@@ -13210,6 +13217,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LESSA S LUIZ SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  5.55,
+                                       "tv":  43
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "SUPERMERCADO DAS TULIPAS LOJA 03 LTDA",
                                        "p":  0,
@@ -13229,6 +13243,13 @@
                                        "p":  1,
                                        "km":  4.67,
                                        "tv":  123
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "JR SUPERMERCADOS RAMOS LTDA",
+                                       "p":  1,
+                                       "km":  2.35,
+                                       "tv":  82
                                    },
                                    {
                                        "n":  "Cominato",
@@ -13315,6 +13336,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  10.38,
+                                       "tv":  138
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "FIRMA SUPERMERCADO LTDA",
                                        "p":  1,
@@ -13399,6 +13427,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "JURACI BARNABE DA SILVA",
+                                       "p":  1,
+                                       "km":  2.24,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "QUITANDA E MERCEARIA MARINGA SJCAMPOS LT",
                                        "p":  1,
@@ -13439,6 +13474,257 @@
                                        "p":  0,
                                        "km":  2.79,
                                        "tv":  171
+                                   }
+                               ]
+                   },
+    "2026-06-29":  {
+                       "dataHora":  "08:15",
+                       "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  39.85,
+                                     "tv":  63
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  12.34,
+                                     "tv":  42
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  2.54,
+                                     "tv":  56
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  24.86,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  2.11,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Milene",
+                                     "setor":  "PROMO-RIBEIRAO",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  57.92,
+                                     "tv":  62
+                                 },
+                                 {
+                                     "nome":  "Eduardo",
+                                     "setor":  "CHAVES CPS",
+                                     "regional":  "INTERIOR SP",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  6.01,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  21.35,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  2.02,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.67,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  15.9,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.5,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.6,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  5,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 }
+                             ],
+                       "cli":  [
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  12.23,
+                                       "tv":  42
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  39.85,
+                                       "tv":  63
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.54,
+                                       "tv":  56
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  52.92,
+                                       "tv":  62
                                    }
                                ]
                    }
