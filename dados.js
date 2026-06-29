@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "13:19",
                      "tv":  "03:59:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "12:24",
                      "tv":  "03:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1246,6 +1246,14 @@ window.PAINEL = {
                         "tempo":  "01:00:16"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:43",
+                        "final":  "15:27",
+                        "tempo":  "01:43:38"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -1286,20 +1294,12 @@ window.PAINEL = {
                         "tempo":  "00:59:09"
                     },
                     {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:33:30"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Outro",
                         "obs":  "Jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:23:01"
+                        "tempo":  "01:37:58"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1307,7 +1307,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:12:12"
+                        "tempo":  "01:27:09"
                     },
                     {
                         "nome":  "Karina",
@@ -1315,7 +1315,7 @@ window.PAINEL = {
                         "obs":  "mercado fechado por conta do jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:34"
+                        "tempo":  "00:34:31"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1323,7 +1323,7 @@ window.PAINEL = {
                         "obs":  "cliente não quer atendimento,por causa do jogo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:35"
+                        "tempo":  "00:24:32"
                     }
                 ],
     "semped":  [
@@ -1455,7 +1455,12 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:07:26"
+                     }
                  ],
     "hist":  [
                  [
@@ -15039,7 +15044,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
