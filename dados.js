@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:20",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "03:29:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -1150,6 +1150,22 @@ window.PAINEL = {
                         "tempo":  "01:07:13"
                     },
                     {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:01",
+                        "final":  "14:51",
+                        "tempo":  "00:50:31"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "13:53",
+                        "final":  "14:55",
+                        "tempo":  "01:02:37"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "pedido guarani",
@@ -1222,6 +1238,22 @@ window.PAINEL = {
                         "tempo":  "01:02:03"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "13:51",
+                        "final":  "14:55",
+                        "tempo":  "01:03:53"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Outro",
+                        "obs":  ".",
+                        "inicio":  "14:55",
+                        "final":  "14:55",
+                        "tempo":  "00:00:16"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Boa Esperança",
@@ -1238,28 +1270,20 @@ window.PAINEL = {
                         "tempo":  "01:16:21"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:55",
+                        "final":  "14:54",
+                        "tempo":  "00:59:09"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:02:59"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:57"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:10"
+                        "tempo":  "01:18:28"
                     },
                     {
                         "nome":  "Luis",
@@ -1267,23 +1291,7 @@ window.PAINEL = {
                         "obs":  "Jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:30"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:21"
-                    },
-                    {
-                        "nome":  "Alan",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:08"
+                        "tempo":  "01:07:59"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1291,7 +1299,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:41"
+                        "tempo":  "00:57:10"
                     },
                     {
                         "nome":  "Fernando",
@@ -1299,7 +1307,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:16"
+                        "tempo":  "00:50:45"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Outro",
+                        "obs":  "mercado fechado por conta do jogo do Brasil",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:32"
                     }
                 ],
     "semped":  [
@@ -15015,7 +15031,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
