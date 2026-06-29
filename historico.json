@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13574,10 +13574,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  10.04,
-                                     "tv":  113
+                                     "km":  14.35,
+                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -13628,10 +13628,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
                                      "km":  30.84,
-                                     "tv":  134
+                                     "tv":  151
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -13846,6 +13846,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  4.31,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "F.M.TRES SUPERMERCADO LTDA",
                                        "p":  1,
@@ -13963,6 +13970,13 @@
                                        "p":  0,
                                        "km":  4.31,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "D. NASTARO SUPERMERCADOS EIRELI - EPP",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Eugenio",

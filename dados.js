@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "08:58",
                      "ultimo":  "11:09",
                      "tv":  "01:21:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,13 +158,13 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  10.04,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  14.35,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:18",
-                     "ultimo":  "10:23",
-                     "tv":  "01:53:00",
+                     "ultimo":  "11:24",
+                     "tv":  "02:40:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "10:54",
                      "tv":  "02:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "11:01",
                      "tv":  "02:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "11:10",
                      "tv":  "02:14:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
+                     "visitas":  4,
                      "km":  30.84,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:01",
-                     "ultimo":  "10:51",
-                     "tv":  "02:14:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:21",
+                     "tv":  "02:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "09:47",
                      "tv":  "01:13:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -555,6 +555,15 @@ window.PAINEL = {
                          "dur":  "00:18:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "10:36:04",
+                         "out":  "11:24:03",
+                         "km":  4.31,
+                         "dur":  "00:47:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
@@ -708,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI - EPP",
+                         "mun":  "PIRACICABA",
+                         "in":  "11:03:59",
+                         "out":  "11:21:16",
+                         "km":  0,
+                         "dur":  "00:17:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
@@ -822,6 +840,12 @@ window.PAINEL = {
                        "obs":  "comprador ausente/afastado"
                    },
                    {
+                       "nome":  "Eugenio",
+                       "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
+                       "mun":  "ATIBAIA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
                        "nome":  "Eduardo",
                        "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
                        "mun":  "SUMARE",
@@ -852,6 +876,12 @@ window.PAINEL = {
                        "obs":  "comprador ausente"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                        "mun":  "ITAPETININGA",
@@ -868,6 +898,12 @@ window.PAINEL = {
                        "razao":  "D. NASTARO SUPERMERCADOS LTDA",
                        "mun":  "PIRACICABA",
                        "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Cominato",
+                       "razao":  "D. NASTARO SUPERMERCADOS EIRELI - EPP",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento"
                    }
                ],
     "emvisita":  [
@@ -875,109 +911,133 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "SUMARE",
-                         "tempo":  "01:22:02"
+                         "tempo":  "01:37:04"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:23:15"
+                         "tempo":  "01:38:17"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.03",
                          "mun":  "SUMARE",
-                         "tempo":  "00:11:43"
+                         "tempo":  "00:26:45"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADO TAQUARAL LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:11:38"
+                         "tempo":  "00:26:40"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:49:00"
+                         "tempo":  "01:04:02"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:32:43"
+                         "tempo":  "01:47:45"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:37:16"
+                         "tempo":  "00:52:18"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                         "mun":  "SANTA BARBARA D",
+                         "tempo":  "00:06:23"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "L.R. GOMES - SUPERMERCADOS LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:03:15"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO CIAMDRIGHI LTDA.",
                          "mun":  "SERRA NEGRA",
-                         "tempo":  "00:20:54"
+                         "tempo":  "00:35:56"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:39:53"
+                         "tempo":  "00:02:35"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:17:33"
+                         "tempo":  "00:32:35"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BATATAIS",
-                         "tempo":  "00:57:12"
+                         "tempo":  "01:12:14"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "PARROTTI SANTA RITA SUPERMERCADOS LTDA",
+                         "mun":  "LEME",
+                         "tempo":  "00:04:12"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "JANE VERDOLINI BOMBARDA - ME.",
+                         "mun":  "BOA ESPERANCA D",
+                         "tempo":  "00:13:46"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "NEW BIG 1 SUPERMERCADOS LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:03:57"
+                         "tempo":  "00:18:59"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:36:34"
+                         "tempo":  "00:51:36"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:14:35"
+                         "tempo":  "02:29:37"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:00:53"
+                         "tempo":  "01:15:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCADOS SUPERHANDS SLU",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:17:58"
+                         "tempo":  "00:33:00"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "PIRANA - AUTO SERVICO LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:35:32"
+                         "tempo":  "00:50:34"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "D. NASTARO SUPERMERCADOS EIRELI - EPP",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:11:58"
+                         "nome":  "Mariangela",
+                         "razao":  "SM MAIS SUPERMERCADOS LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:05:00"
                      }
                  ],
     "hist":  [
@@ -1078,8 +1138,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     47,
-                     10
+                     49,
+                     12
                  ]
              ],
     "historico":  {
@@ -14562,7 +14622,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14658,10 +14718,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  10.04,
-                                                       "tv":  113
+                                                       "km":  14.35,
+                                                       "tv":  160
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -14712,10 +14772,10 @@ window.PAINEL = {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
                                                        "km":  30.84,
-                                                       "tv":  134
+                                                       "tv":  151
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -14930,6 +14990,13 @@ window.PAINEL = {
                                                          "tv":  18
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  4.31,
+                                                         "tv":  47
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "F.M.TRES SUPERMERCADO LTDA",
                                                          "p":  1,
@@ -15047,6 +15114,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  4.31,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "D. NASTARO SUPERMERCADOS EIRELI - EPP",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  17
                                                      },
                                                      {
                                                          "n":  "Eugenio",
