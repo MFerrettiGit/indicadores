@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "12:54",
                      "tv":  "04:17:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -1134,7 +1134,7 @@ window.PAINEL = {
                         "obs":  "Boa esperança a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:35"
+                        "tempo":  "00:50:55"
                     },
                     {
                         "nome":  "Maira",
@@ -1142,7 +1142,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:25:27"
+                        "tempo":  "00:39:47"
                     },
                     {
                         "nome":  "Luis",
@@ -1150,7 +1150,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:43"
+                        "tempo":  "00:36:03"
                     },
                     {
                         "nome":  "Cominato",
@@ -1158,7 +1158,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:11"
+                        "tempo":  "00:17:31"
                     },
                     {
                         "nome":  "Castro",
@@ -1166,7 +1166,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:41"
+                        "tempo":  "00:17:01"
                     },
                     {
                         "nome":  "Rachel",
@@ -1174,7 +1174,15 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:12"
+                        "tempo":  "00:15:32"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:08"
                     }
                 ],
     "semped":  [
@@ -1310,31 +1318,31 @@ window.PAINEL = {
                          "nome":  "Costa",
                          "razao":  "JOSE PARROTTI",
                          "mun":  "LEME",
-                         "tempo":  "00:41:48"
+                         "tempo":  "00:56:12"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:12:30"
+                         "tempo":  "00:26:54"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:30:11"
+                         "tempo":  "00:44:35"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO C.C. LTDA-EPP.",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:55:42"
+                         "tempo":  "01:10:06"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "ACHEI ATACAREJO DO PUTIM LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:36:18"
+                         "tempo":  "00:50:42"
                      }
                  ],
     "hist":  [
@@ -14919,7 +14927,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
