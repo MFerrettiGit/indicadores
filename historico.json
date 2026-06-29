@@ -13478,8 +13478,26 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  44.93,
+                                     "tv":  146
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  35.51,
+                                     "tv":  142
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -13490,22 +13508,13 @@
                                      "tv":  171
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
                                      "vi":  1,
                                      "pe":  0,
-                                     "km":  39.85,
-                                     "tv":  63
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  31.6,
-                                     "tv":  81
+                                     "km":  5.66,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -13535,15 +13544,6 @@
                                      "tv":  26
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -13565,10 +13565,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  72.65,
+                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Costa",
@@ -13583,32 +13583,32 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.67,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  8.07,
+                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.35,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  41.75,
+                                     "tv":  75
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  9.19,
+                                     "tv":  60
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
@@ -13713,6 +13713,13 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.91,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -13720,11 +13727,32 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
+                                       "p":  0,
+                                       "km":  72.65,
+                                       "tv":  15
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  5.66,
+                                       "tv":  162
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  39.85,
                                        "tv":  63
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                       "p":  1,
+                                       "km":  5.08,
+                                       "tv":  83
                                    },
                                    {
                                        "n":  "Silmara",
@@ -13748,6 +13776,20 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  20.4,
+                                       "tv":  75
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "L.F. CINTRA FRANCA EPP.",
+                                       "p":  1,
+                                       "km":  7.4,
+                                       "tv":  75
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13762,6 +13804,13 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
+                                       "p":  0,
+                                       "km":  9.19,
+                                       "tv":  60
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13774,6 +13823,13 @@
                                        "p":  1,
                                        "km":  17.85,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MESQUITA M",
+                                       "p":  0,
+                                       "km":  16.21,
+                                       "tv":  49
                                    },
                                    {
                                        "n":  "Cominato",
