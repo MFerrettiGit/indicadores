@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -144,7 +144,7 @@ window.PAINEL = {
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  77.71,
+                     "km":  145.86,
                      "semPed":  2,
                      "perc":  100,
                      "primeiro":  "09:26",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:18",
                      "ultimo":  "16:58",
                      "tv":  "03:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -360,7 +360,7 @@ window.PAINEL = {
                      "primeiro":  "09:01",
                      "ultimo":  "13:33",
                      "tv":  "03:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -1474,16 +1474,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:06:35"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:37:31"
+                         "tempo":  "01:52:26"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:04:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:28:56"
+                         "tempo":  "00:43:51"
                      }
                  ],
     "hist":  [
@@ -15068,7 +15080,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15157,7 +15169,7 @@ window.PAINEL = {
                                                        "regional":  "INTERIOR SP",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  77.71,
+                                                       "km":  145.86,
                                                        "tv":  143
                                                    },
                                                    {
