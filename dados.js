@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "13:20",
                      "tv":  "03:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1323,7 +1323,7 @@ window.PAINEL = {
                         "obs":  "mercado fechado por conta do jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:19:33"
+                        "tempo":  "01:34:37"
                     }
                 ],
     "semped":  [
@@ -1459,7 +1459,13 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:52:26"
+                         "tempo":  "01:07:29"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO LIMA BEZERRA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:01:28"
                      }
                  ],
     "hist":  [
@@ -15044,7 +15050,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
