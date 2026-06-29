@@ -13478,8 +13478,17 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  50.12,
+                                     "tv":  251
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -13488,15 +13497,6 @@
                                      "pe":  0,
                                      "km":  75.36,
                                      "tv":  303
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  48.75,
-                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Debora",
@@ -13574,10 +13574,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  2,
-                                     "km":  14.35,
-                                     "tv":  160
+                                     "km":  15.28,
+                                     "tv":  188
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -13589,6 +13589,15 @@
                                      "tv":  153
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  20.52,
+                                     "tv":  178
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -13598,31 +13607,31 @@
                                      "tv":  143
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  13.9,
-                                     "tv":  153
-                                 },
-                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  41.75,
-                                     "tv":  75
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  87.16,
+                                     "tv":  172
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  70.69,
-                                     "tv":  134
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  71.94,
+                                     "tv":  175
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  2,
+                                     "km":  21.38,
+                                     "tv":  144
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -13634,22 +13643,13 @@
                                      "tv":  151
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  19.7,
-                                     "tv":  127
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  43.13,
-                                     "tv":  86
+                                     "km":  52.45,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Alan",
@@ -13790,6 +13790,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADO TAQUARAL LTDA.",
+                                       "p":  1,
+                                       "km":  1.37,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -13839,6 +13846,13 @@
                                        "tv":  75
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  45.41,
+                                       "tv":  97
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "L.F. CINTRA FRANCA EPP.",
                                        "p":  1,
@@ -13867,6 +13881,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA",
+                                       "p":  0,
+                                       "km":  0.93,
+                                       "tv":  28
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "F.M.TRES SUPERMERCADO LTDA",
                                        "p":  1,
@@ -13879,6 +13900,13 @@
                                        "p":  1,
                                        "km":  0.49,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "L.R. GOMES - SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  6.62,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Milene",
@@ -13944,6 +13972,13 @@
                                        "tv":  134
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "JANE VERDOLINI BOMBARDA - ME.",
+                                       "p":  1,
+                                       "km":  1.25,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13977,6 +14012,13 @@
                                        "p":  1,
                                        "km":  9.07,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "PIRANA - AUTO SERVICO LTDA.",
+                                       "p":  0,
+                                       "km":  9.32,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Cominato",
@@ -14033,6 +14075,13 @@
                                        "p":  0,
                                        "km":  12.01,
                                        "tv":  19
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  0,
+                                       "km":  1.68,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Karina",
