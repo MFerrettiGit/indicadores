@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  25.06,
-                     "semPed":  4,
-                     "perc":  57.14,
+                     "visitas":  8,
+                     "km":  27.78,
+                     "semPed":  5,
+                     "perc":  62.5,
                      "primeiro":  "08:18",
-                     "ultimo":  "16:58",
-                     "tv":  "03:51:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:38",
+                     "tv":  "04:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  19.42,
+                     "km":  38.91,
                      "semPed":  6,
                      "perc":  100,
                      "primeiro":  "08:34",
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "17:21",
                      "tv":  "05:11:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  53.14,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:56",
+                     "ultimo":  "17:42",
+                     "tv":  "05:26:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "03:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  36.56,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:56",
-                     "ultimo":  "13:25",
-                     "tv":  "04:16:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -717,6 +717,15 @@ window.PAINEL = {
                          "dur":  "00:26:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "17:09:14",
+                         "out":  "17:38:04",
+                         "km":  2.72,
+                         "dur":  "00:28:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
@@ -1086,6 +1095,15 @@ window.PAINEL = {
                          "dur":  "01:19:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SM DIA CIDADE NOVA EIRELI",
+                         "mun":  "INDAIATUBA",
+                         "in":  "16:31:58",
+                         "out":  "17:42:39",
+                         "km":  16.58,
+                         "dur":  "01:10:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
@@ -1129,6 +1147,15 @@ window.PAINEL = {
                          "out":  "16:59:44",
                          "km":  17.73,
                          "dur":  "00:30:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "17:22:08",
+                         "out":  "17:46:18",
+                         "km":  9.08,
+                         "dur":  "00:24:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1445,6 +1472,12 @@ window.PAINEL = {
                        "obs":  "prospecção inicial"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Nelson",
                        "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                        "mun":  "ITAPETININGA",
@@ -1483,28 +1516,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADOS BIG COMPRA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:21:35"
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:08:41"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:19:43"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SM DIA CIDADE NOVA EIRELI",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "00:58:51"
+                         "tempo":  "00:34:45"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:08:41"
+                         "tempo":  "00:23:43"
                      }
                  ],
     "hist":  [
@@ -1605,8 +1632,8 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     90,
-                     22
+                     92,
+                     23
                  ]
              ],
     "historico":  {
@@ -15089,7 +15116,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15185,10 +15212,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  7,
+                                                       "vi":  8,
                                                        "pe":  3,
-                                                       "km":  25.06,
-                                                       "tv":  231
+                                                       "km":  27.78,
+                                                       "tv":  259
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -15196,7 +15223,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  19.42,
+                                                       "km":  38.91,
                                                        "tv":  186
                                                    },
                                                    {
@@ -15281,6 +15308,15 @@ window.PAINEL = {
                                                        "tv":  162
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  53.14,
+                                                       "tv":  326
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -15288,15 +15324,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  36.93,
                                                        "tv":  209
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  36.56,
-                                                       "tv":  256
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -15581,6 +15608,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  8.14,
                                                          "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADOS BIG COMPRA LTDA",
+                                                         "p":  0,
+                                                         "km":  2.72,
+                                                         "tv":  28
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -15870,6 +15904,13 @@ window.PAINEL = {
                                                          "tv":  79
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SM DIA CIDADE NOVA EIRELI",
+                                                         "p":  1,
+                                                         "km":  16.58,
+                                                         "tv":  70
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EDMILSON CURI DE ANDRADE",
                                                          "p":  1,
@@ -15903,6 +15944,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  17.73,
                                                          "tv":  30
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                                         "p":  1,
+                                                         "km":  9.08,
+                                                         "tv":  24
                                                      },
                                                      {
                                                          "n":  "Nelson",

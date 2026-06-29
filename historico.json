@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13574,10 +13574,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  3,
-                                     "km":  25.06,
-                                     "tv":  231
+                                     "km":  27.78,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -13585,7 +13585,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  19.42,
+                                     "km":  38.91,
                                      "tv":  186
                                  },
                                  {
@@ -13670,6 +13670,15 @@
                                      "tv":  162
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  53.14,
+                                     "tv":  326
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -13677,15 +13686,6 @@
                                      "pe":  3,
                                      "km":  36.93,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  36.56,
-                                     "tv":  256
                                  },
                                  {
                                      "nome":  "Karina",
@@ -13970,6 +13970,13 @@
                                        "p":  1,
                                        "km":  8.14,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADOS BIG COMPRA LTDA",
+                                       "p":  0,
+                                       "km":  2.72,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Maira",
@@ -14259,6 +14266,13 @@
                                        "tv":  79
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SM DIA CIDADE NOVA EIRELI",
+                                       "p":  1,
+                                       "km":  16.58,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "EDMILSON CURI DE ANDRADE",
                                        "p":  1,
@@ -14292,6 +14306,13 @@
                                        "p":  1,
                                        "km":  17.73,
                                        "tv":  30
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL VILLA SIMPATIA LTDA",
+                                       "p":  1,
+                                       "km":  9.08,
+                                       "tv":  24
                                    },
                                    {
                                        "n":  "Nelson",
