@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  8.34,
+                     "km":  19,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:13",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  18.92,
+                     "km":  26.54,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:58",
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  13.02,
+                     "visitas":  4,
+                     "km":  15.69,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
-                     "ultimo":  "12:02",
-                     "tv":  "02:59:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:19",
+                     "tv":  "03:59:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  20.19,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:22",
+                     "ultimo":  "13:20",
+                     "tv":  "03:00:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Alan",
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
@@ -319,33 +334,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  18.37,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "12:18",
-                     "tv":  "02:05:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  27.91,
+                     "visitas":  3,
+                     "km":  36.56,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:56",
-                     "ultimo":  "12:02",
-                     "tv":  "02:57:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:25",
+                     "tv":  "04:16:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -625,6 +625,15 @@ window.PAINEL = {
                          "out":  "12:02:54",
                          "km":  3.64,
                          "dur":  "00:36:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "JOSE PARROTTI",
+                         "mun":  "LEME",
+                         "in":  "12:19:07",
+                         "out":  "13:19:20",
+                         "km":  2.67,
+                         "dur":  "01:00:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1032,6 +1041,15 @@ window.PAINEL = {
                          "dur":  "01:45:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO C.C. LTDA-EPP.",
+                         "mun":  "MONTE MOR",
+                         "in":  "12:05:13",
+                         "out":  "13:25:12",
+                         "km":  8.65,
+                         "dur":  "01:19:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "EDMILSON CURI DE ANDRADE",
                          "mun":  "SAO JOSE DOS CA",
@@ -1057,6 +1075,15 @@ window.PAINEL = {
                          "out":  "12:18:32",
                          "km":  5.78,
                          "dur":  "00:52:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "ACHEI ATACAREJO DO PUTIM LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "12:24:37",
+                         "out":  "13:20:32",
+                         "km":  1.82,
+                         "dur":  "00:55:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1113,6 +1140,14 @@ window.PAINEL = {
                         "tempo":  "63:38:03"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:40",
+                        "final":  "13:29",
+                        "tempo":  "00:49:32"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Em Viagem",
                         "obs":  "monte mor",
@@ -1134,7 +1169,7 @@ window.PAINEL = {
                         "obs":  "Boa esperança a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:50:55"
+                        "tempo":  "01:06:24"
                     },
                     {
                         "nome":  "Maira",
@@ -1142,15 +1177,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:47"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:36:03"
+                        "tempo":  "00:55:16"
                     },
                     {
                         "nome":  "Cominato",
@@ -1158,7 +1185,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:31"
+                        "tempo":  "00:33:00"
                     },
                     {
                         "nome":  "Castro",
@@ -1166,7 +1193,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:17:01"
+                        "tempo":  "00:32:30"
                     },
                     {
                         "nome":  "Rachel",
@@ -1174,7 +1201,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:32"
+                        "tempo":  "00:31:01"
                     },
                     {
                         "nome":  "Nelson",
@@ -1182,7 +1209,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:08"
+                        "tempo":  "00:24:37"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Proposta",
+                        "obs":  "Odaltir Medeiros",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:20"
                     }
                 ],
     "semped":  [
@@ -1315,34 +1350,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Costa",
-                         "razao":  "JOSE PARROTTI",
-                         "mun":  "LEME",
-                         "tempo":  "00:56:12"
-                     },
-                     {
                          "nome":  "Eugenio",
                          "razao":  "ARMAZEM GALDINO LTDA",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:26:54"
+                         "tempo":  "00:42:22"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:44:35"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO C.C. LTDA-EPP.",
-                         "mun":  "MONTE MOR",
-                         "tempo":  "01:10:06"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "ACHEI ATACAREJO DO PUTIM LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:50:42"
+                         "tempo":  "01:00:03"
                      }
                  ],
     "hist":  [
@@ -1443,7 +1460,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     82,
+                     85,
                      22
                  ]
              ],
@@ -14927,7 +14944,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -14971,7 +14988,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  8.34,
+                                                       "km":  19,
                                                        "tv":  237
                                                    },
                                                    {
@@ -14980,7 +14997,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  18.92,
+                                                       "km":  26.54,
                                                        "tv":  153
                                                    },
                                                    {
@@ -15041,10 +15058,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  13.02,
-                                                       "tv":  179
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  15.69,
+                                                       "tv":  239
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -15110,6 +15127,15 @@ window.PAINEL = {
                                                        "tv":  162
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  20.19,
+                                                       "tv":  180
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -15119,22 +15145,13 @@ window.PAINEL = {
                                                        "tv":  209
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  18.37,
-                                                       "tv":  125
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  27.91,
-                                                       "tv":  177
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  36.56,
+                                                       "tv":  256
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -15349,6 +15366,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.64,
                                                          "tv":  36
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "JOSE PARROTTI",
+                                                         "p":  1,
+                                                         "km":  2.67,
+                                                         "tv":  60
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -15666,6 +15690,13 @@ window.PAINEL = {
                                                          "tv":  105
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO C.C. LTDA-EPP.",
+                                                         "p":  1,
+                                                         "km":  8.65,
+                                                         "tv":  79
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "EDMILSON CURI DE ANDRADE",
                                                          "p":  1,
@@ -15685,6 +15716,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.78,
                                                          "tv":  52
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "ACHEI ATACAREJO DO PUTIM LTDA",
+                                                         "p":  1,
+                                                         "km":  1.82,
+                                                         "tv":  55
                                                      },
                                                      {
                                                          "n":  "Nelson",
