@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13499,6 +13499,24 @@
                                      "tv":  142
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  18.06,
+                                     "tv":  160
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.34,
+                                     "tv":  146
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -13515,24 +13533,6 @@
                                      "pe":  0,
                                      "km":  5.66,
                                      "tv":  162
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  12.34,
-                                     "tv":  42
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.54,
-                                     "tv":  56
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -13556,10 +13556,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  59.32,
-                                     "tv":  112
+                                     "km":  61.54,
+                                     "tv":  162
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -13580,6 +13580,15 @@
                                      "tv":  95
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  15.11,
+                                     "tv":  80
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -13589,6 +13598,15 @@
                                      "tv":  67
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  13.41,
+                                     "tv":  109
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -13596,24 +13614,6 @@
                                      "pe":  1,
                                      "km":  41.75,
                                      "tv":  75
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  9.19,
-                                     "tv":  60
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -13682,10 +13682,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.6,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  26.07,
+                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Karina",
@@ -13725,6 +13725,13 @@
                                        "p":  1,
                                        "km":  12.23,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  5.72,
+                                       "tv":  118
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -13769,6 +13776,13 @@
                                        "tv":  56
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.8,
+                                       "tv":  90
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PARROTTI A. BOA VISTA LTDA",
                                        "p":  1,
@@ -13797,6 +13811,13 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "F.M.TRES SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  13.41,
+                                       "tv":  109
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13811,11 +13832,25 @@
                                        "tv":  50
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  2.22,
+                                       "tv":  50
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                        "p":  0,
                                        "km":  9.19,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO DUMARIA LTDA",
+                                       "p":  0,
+                                       "km":  5.92,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Alan",
@@ -13865,6 +13900,13 @@
                                        "p":  0,
                                        "km":  4.14,
                                        "tv":  17
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SEVAN SUPERMERCADOS - LTDA",
+                                       "p":  1,
+                                       "km":  25.47,
+                                       "tv":  72
                                    },
                                    {
                                        "n":  "Mariangela",
