@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "16:00",
+    "dataHora":  "16:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "03:25:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:20",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -1214,6 +1214,14 @@ window.PAINEL = {
                         "tempo":  "00:22:52"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Jogo do Brasil",
+                        "inicio":  "13:53",
+                        "final":  "16:06",
+                        "tempo":  "02:12:55"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Em Viagem",
                         "obs":  "monte mor",
@@ -1278,6 +1286,14 @@ window.PAINEL = {
                         "tempo":  "00:00:16"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Outro",
+                        "obs":  "cliente não quer atendimento,por causa do jogo",
+                        "inicio":  "15:07",
+                        "final":  "16:08",
+                        "tempo":  "01:01:01"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Em Viagem",
                         "obs":  "São Carlos a Boa Esperança",
@@ -1302,28 +1318,12 @@ window.PAINEL = {
                         "tempo":  "00:59:09"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Outro",
-                        "obs":  "Jogo do Brasil",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:07:58"
-                    },
-                    {
                         "nome":  "Karina",
                         "tipo":  "Outro",
                         "obs":  "mercado fechado por conta do jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:31"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Outro",
-                        "obs":  "cliente não quer atendimento,por causa do jogo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:32"
+                        "tempo":  "01:19:33"
                     }
                 ],
     "semped":  [
@@ -1459,7 +1459,7 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:37:28"
+                         "tempo":  "00:52:26"
                      }
                  ],
     "hist":  [
@@ -15044,7 +15044,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "16:00",
+                                         "dataHora":  "16:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
