@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -264,7 +264,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  47,
+                     "km":  48.67,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:22",
@@ -294,7 +294,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  6.55,
+                     "km":  8.32,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:11",
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  6.87,
+                     "visitas":  3,
+                     "km":  8.84,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:01",
-                     "ultimo":  "13:33",
-                     "tv":  "03:45:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:05",
+                     "tv":  "04:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -1068,6 +1068,15 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:11:06",
+                         "out":  "18:05:00",
+                         "km":  1.97,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
@@ -1519,13 +1528,7 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:23:45"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:49:49"
+                         "tempo":  "00:38:43"
                      }
                  ],
     "hist":  [
@@ -1626,7 +1629,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     93,
+                     94,
                      23
                  ]
              ],
@@ -15110,7 +15113,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15271,7 +15274,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  6,
                                                        "pe":  6,
-                                                       "km":  47,
+                                                       "km":  48.67,
                                                        "tv":  234
                                                    },
                                                    {
@@ -15289,7 +15292,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  6.55,
+                                                       "km":  8.32,
                                                        "tv":  257
                                                    },
                                                    {
@@ -15323,10 +15326,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  6.87,
-                                                       "tv":  225
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  8.84,
+                                                       "tv":  278
                                                    }
                                                ],
                                          "cli":  [
@@ -15875,6 +15878,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.18,
                                                          "tv":  62
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                                                         "p":  1,
+                                                         "km":  1.97,
+                                                         "tv":  53
                                                      },
                                                      {
                                                          "n":  "Lucas",

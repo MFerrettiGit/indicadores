@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13639,7 +13639,7 @@
                                      "regional":  "SUL",
                                      "vi":  6,
                                      "pe":  6,
-                                     "km":  47,
+                                     "km":  48.67,
                                      "tv":  234
                                  },
                                  {
@@ -13657,7 +13657,7 @@
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  6.55,
+                                     "km":  8.32,
                                      "tv":  257
                                  },
                                  {
@@ -13691,10 +13691,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  6.87,
-                                     "tv":  225
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  8.84,
+                                     "tv":  278
                                  }
                              ],
                        "cli":  [
@@ -14243,6 +14243,13 @@
                                        "p":  1,
                                        "km":  2.18,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
+                                       "p":  1,
+                                       "km":  1.97,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Lucas",
