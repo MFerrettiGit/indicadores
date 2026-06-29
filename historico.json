@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13526,6 +13526,15 @@
                                      "tv":  146
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  16.02,
+                                     "tv":  81
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -13533,15 +13542,6 @@
                                      "pe":  0,
                                      "km":  5.66,
                                      "tv":  162
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.04,
-                                     "tv":  26
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -13601,10 +13601,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  13.41,
-                                     "tv":  109
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  13.9,
+                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -13619,10 +13619,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.02,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  70.69,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -13783,6 +13783,13 @@
                                        "tv":  26
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  11.98,
+                                       "tv":  55
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -13893,6 +13900,13 @@
                                        "p":  0,
                                        "km":  0,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADOS TIBA LTDA.",
+                                       "p":  1,
+                                       "km":  68.67,
+                                       "tv":  134
                                    },
                                    {
                                        "n":  "Alan",
