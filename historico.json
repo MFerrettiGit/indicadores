@@ -13478,8 +13478,17 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  59.29,
+                                     "tv":  269
+                                 },
                                  {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
@@ -13490,22 +13499,13 @@
                                      "tv":  322
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  50.12,
-                                     "tv":  251
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  39.3,
-                                     "tv":  254
+                                     "km":  41.21,
+                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -13538,10 +13538,10 @@
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  5.66,
-                                     "tv":  162
+                                     "km":  7.73,
+                                     "tv":  359
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -13621,17 +13621,17 @@
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  87.16,
+                                     "km":  132.79,
                                      "tv":  172
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  3,
-                                     "km":  25.3,
-                                     "tv":  161
+                                     "vi":  7,
+                                     "pe":  4,
+                                     "km":  27.43,
+                                     "tv":  178
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -13641,6 +13641,15 @@
                                      "pe":  2,
                                      "km":  30.84,
                                      "tv":  151
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  6.55,
+                                     "tv":  257
                                  },
                                  {
                                      "nome":  "Castro",
@@ -13659,15 +13668,6 @@
                                      "pe":  3,
                                      "km":  36.93,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  6.15,
-                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -13748,6 +13748,13 @@
                                        "tv":  112
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.91,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "SUPERMERCADO SUMERBOL LTDA",
                                        "p":  1,
@@ -13790,6 +13797,13 @@
                                        "tv":  162
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.07,
+                                       "tv":  197
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -13816,6 +13830,13 @@
                                        "p":  1,
                                        "km":  1.37,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  9.17,
+                                       "tv":  18
                                    },
                                    {
                                        "n":  "Silmara",
@@ -14236,6 +14257,13 @@
                                        "p":  1,
                                        "km":  2.22,
                                        "tv":  91
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "M S SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  0.4,
+                                       "tv":  21
                                    }
                                ]
                    }
