@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  8,
-                     "km":  27.78,
+                     "km":  32.97,
                      "semPed":  5,
                      "perc":  62.5,
                      "primeiro":  "08:18",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  15.69,
+                     "km":  17.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:03",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  20.52,
+                     "km":  31.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:19",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  37.92,
+                     "visitas":  6,
+                     "km":  47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:22",
-                     "ultimo":  "16:59",
-                     "tv":  "03:30:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:46",
+                     "tv":  "03:54:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -279,7 +279,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  30.84,
+                     "km":  40.8,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:01",
@@ -339,7 +339,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  36.93,
+                     "km":  44.22,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
@@ -1519,19 +1519,13 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:08:41"
+                         "tempo":  "00:23:45"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "SHIBATA COM. ATAC. DE MERC. GERAL LTDA",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:34:45"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL VILLA SIMPATIA LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:23:43"
+                         "tempo":  "00:49:49"
                      }
                  ],
     "hist":  [
@@ -1632,7 +1626,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     92,
+                     93,
                      23
                  ]
              ],
@@ -15116,7 +15110,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15214,7 +15208,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  8,
                                                        "pe":  3,
-                                                       "km":  27.78,
+                                                       "km":  32.97,
                                                        "tv":  259
                                                    },
                                                    {
@@ -15232,7 +15226,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  15.69,
+                                                       "km":  17.82,
                                                        "tv":  239
                                                    },
                                                    {
@@ -15250,7 +15244,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  20.52,
+                                                       "km":  31.41,
                                                        "tv":  178
                                                    },
                                                    {
@@ -15275,10 +15269,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  37.92,
-                                                       "tv":  210
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  47,
+                                                       "tv":  234
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -15286,7 +15280,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  30.84,
+                                                       "km":  40.8,
                                                        "tv":  151
                                                    },
                                                    {
@@ -15322,7 +15316,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  36.93,
+                                                       "km":  44.22,
                                                        "tv":  209
                                                    },
                                                    {
