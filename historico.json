@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Aline",
@@ -13574,10 +13574,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
+                                     "vi":  1,
+                                     "pe":  1,
                                      "km":  6.01,
-                                     "tv":  0
+                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Luis",
@@ -13630,7 +13630,7 @@
                                      "regional":  "SUL",
                                      "vi":  1,
                                      "pe":  1,
-                                     "km":  7.6,
+                                     "km":  9.69,
                                      "tv":  59
                                  },
                                  {
@@ -13661,21 +13661,21 @@
                                      "tv":  17
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  9.29,
+                                     "tv":  39
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.5,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  5,
                                      "tv":  0
                                  },
                                  {
@@ -13734,6 +13734,13 @@
                                        "tv":  56
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "PARROTTI A. BOA VISTA LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  67
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -13774,6 +13781,13 @@
                                        "p":  1,
                                        "km":  0.36,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "EDMILSON CURI DE ANDRADE",
+                                       "p":  1,
+                                       "km":  4.29,
+                                       "tv":  39
                                    }
                                ]
                    }

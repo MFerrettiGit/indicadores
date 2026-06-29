@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "09:00",
+    "dataHora":  "09:15",
     "vend":  [
                  {
                      "nome":  "Aline",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "05:54",
                      "ultimo":  "08:45",
                      "tv":  "02:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
+                     "visitas":  1,
                      "km":  6.01,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:11",
+                     "tv":  "01:07:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  1,
-                     "km":  7.6,
+                     "km":  9.69,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "08:53",
                      "tv":  "00:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  9.29,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:22",
+                     "ultimo":  "09:02",
+                     "tv":  "00:39:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -313,21 +328,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:11",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  5,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:22",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -411,6 +411,15 @@ window.PAINEL = {
                          "dur":  "00:56:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "PARROTTI A. BOA VISTA LTDA",
+                         "mun":  "LEME",
+                         "in":  "08:03:40",
+                         "out":  "09:11:04",
+                         "km":  0,
+                         "dur":  "01:07:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "PITANGUEIRAS",
@@ -463,6 +472,15 @@ window.PAINEL = {
                          "out":  "08:49:26",
                          "km":  0.36,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "EDMILSON CURI DE ANDRADE",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "08:22:43",
+                         "out":  "09:02:33",
+                         "km":  4.29,
+                         "dur":  "00:39:00"
                      }
                  ],
     "eventos":  [
@@ -507,103 +525,115 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERCERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:22:14"
+                         "tempo":  "00:36:59"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.08",
+                         "mun":  "SUMARE",
+                         "tempo":  "00:10:01"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:45:40"
+                         "tempo":  "01:00:25"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:47:30"
+                         "tempo":  "01:02:15"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.01",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:08:36"
+                         "tempo":  "02:23:21"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:24:25"
+                         "tempo":  "00:39:10"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:03:08"
+                         "tempo":  "00:17:53"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "F.M.TRES SUPERMERCADO LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:41:17"
+                         "tempo":  "00:56:02"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
-                         "tempo":  "00:26:19"
+                         "tempo":  "00:41:04"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "L.F. CINTRA FRANCA EPP.",
                          "mun":  "FRANCA",
-                         "tempo":  "00:42:48"
+                         "tempo":  "00:57:33"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:39:26"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "PARROTTI A. BOA VISTA LTDA",
-                         "mun":  "LEME",
-                         "tempo":  "00:57:32"
+                         "tempo":  "00:54:11"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADOS TIBA LTDA.",
                          "mun":  "BOA ESPERANCA D",
-                         "tempo":  "00:05:18"
+                         "tempo":  "00:20:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "ACIR GRANZOTTO CAETETUBA SUPERMERCADO LT",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:01:21"
+                         "tempo":  "00:16:06"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:14:35"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SEVAN SUPERMERCADOS - LTDA",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:04:38"
+                         "tempo":  "00:19:23"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:49:48"
+                         "tempo":  "01:04:33"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "MESQUITA M",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:04:09"
+                         "tempo":  "00:18:54"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO AVENIDA DE PIRACICABA LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:02:56"
                      },
                      {
                          "nome":  "Mariangela",
-                         "razao":  "EDMILSON CURI DE ANDRADE",
+                         "razao":  "HORTIFRUTI E MERCADO FLAMBOYANT LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:38:29"
+                         "tempo":  "00:02:48"
                      }
                  ],
     "hist":  [
@@ -704,7 +734,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     11,
+                     13,
                      0
                  ]
              ],
@@ -14188,7 +14218,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "09:00",
+                                         "dataHora":  "09:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Aline",
@@ -14284,10 +14314,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
+                                                       "vi":  1,
+                                                       "pe":  1,
                                                        "km":  6.01,
-                                                       "tv":  0
+                                                       "tv":  67
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -14340,7 +14370,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  1,
                                                        "pe":  1,
-                                                       "km":  7.6,
+                                                       "km":  9.69,
                                                        "tv":  59
                                                    },
                                                    {
@@ -14371,21 +14401,21 @@ window.PAINEL = {
                                                        "tv":  17
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  9.29,
+                                                       "tv":  39
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.5,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  5,
                                                        "tv":  0
                                                    },
                                                    {
@@ -14444,6 +14474,13 @@ window.PAINEL = {
                                                          "tv":  56
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "PARROTTI A. BOA VISTA LTDA",
+                                                         "p":  1,
+                                                         "km":  0,
+                                                         "tv":  67
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -14484,6 +14521,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.36,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "EDMILSON CURI DE ANDRADE",
+                                                         "p":  1,
+                                                         "km":  4.29,
+                                                         "tv":  39
                                                      }
                                                  ]
                                      }
