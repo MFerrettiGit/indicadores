@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "18:30",
+    "dataHora":  "18:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -1528,7 +1528,7 @@ window.PAINEL = {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:53:40"
+                         "tempo":  "01:08:13"
                      }
                  ],
     "hist":  [
@@ -15113,7 +15113,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "18:30",
+                                         "dataHora":  "18:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
