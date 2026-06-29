@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  20.79,
+                     "km":  39.78,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:08",
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "11:56",
                      "tv":  "02:52:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:20",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -1238,6 +1238,14 @@ window.PAINEL = {
                         "tempo":  "01:02:03"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:11",
+                        "final":  "15:11",
+                        "tempo":  "01:00:16"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -1283,7 +1291,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:18:28"
+                        "tempo":  "01:33:30"
                     },
                     {
                         "nome":  "Luis",
@@ -1291,7 +1299,7 @@ window.PAINEL = {
                         "obs":  "Jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:07:59"
+                        "tempo":  "01:23:01"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1299,15 +1307,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:57:10"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:45"
+                        "tempo":  "01:12:12"
                     },
                     {
                         "nome":  "Karina",
@@ -1315,7 +1315,15 @@ window.PAINEL = {
                         "obs":  "mercado fechado por conta do jogo do Brasil",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:32"
+                        "tempo":  "00:19:34"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Outro",
+                        "obs":  "cliente não quer atendimento,por causa do jogo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:35"
                     }
                 ],
     "semped":  [
@@ -15031,7 +15039,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15066,7 +15074,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  20.79,
+                                                       "km":  39.78,
                                                        "tv":  272
                                                    },
                                                    {
