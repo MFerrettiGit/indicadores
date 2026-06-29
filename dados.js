@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  2,
-                     "km":  7.73,
+                     "km":  11.13,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:52",
@@ -181,7 +181,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:24",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  7,
-                     "km":  27.43,
+                     "visitas":  8,
+                     "km":  28.43,
                      "semPed":  3,
-                     "perc":  42.86,
+                     "perc":  37.5,
                      "primeiro":  "08:09",
-                     "ultimo":  "12:46",
-                     "tv":  "02:58:00",
-                     "emVisita":  1,
+                     "ultimo":  "13:46",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "11:21",
                      "tv":  "02:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Nelson",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "11:57",
                      "tv":  "02:42:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:20",
                      "tv":  "03:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  "13:33",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  }
              ],
     "checkins":  [
@@ -1159,6 +1159,14 @@ window.PAINEL = {
                     },
                     {
                         "nome":  "Rachel",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "13:00",
+                        "final":  "13:53",
+                        "tempo":  "00:52:32"
+                    },
+                    {
+                        "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "daolio",
                         "inicio":  "16:20",
@@ -1174,12 +1182,36 @@ window.PAINEL = {
                         "tempo":  "00:49:32"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Proposta",
+                        "obs":  "Odaltir Medeiros",
+                        "inicio":  "13:30",
+                        "final":  "13:53",
+                        "tempo":  "00:22:52"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Em Viagem",
                         "obs":  "monte mor",
                         "inicio":  "07:56",
                         "final":  "08:55",
                         "tempo":  "00:59:53"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "12:59",
+                        "final":  "13:50",
+                        "tempo":  "00:51:31"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:58",
+                        "final":  "14:00",
+                        "tempo":  "01:02:03"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1198,44 +1230,12 @@ window.PAINEL = {
                         "tempo":  "01:16:21"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:00"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:30"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:46:01"
-                    },
-                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:39:37"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Proposta",
-                        "obs":  "Odaltir Medeiros",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:16:20"
+                        "tempo":  "00:54:42"
                     },
                     {
                         "nome":  "Costa",
@@ -1243,7 +1243,47 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:23"
+                        "tempo":  "00:18:28"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:10:26"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:39"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Outro",
+                        "obs":  "Jogo do Brasil",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:59"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:50"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:37"
                     }
                 ],
     "semped":  [
@@ -1375,12 +1415,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "ARMAZEM GALDINO LTDA",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "00:57:22"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1480,7 +1515,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     86,
+                     87,
                      22
                  ]
              ],
@@ -14964,7 +14999,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15026,7 +15061,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  2,
                                                        "pe":  0,
-                                                       "km":  7.73,
+                                                       "km":  11.13,
                                                        "tv":  359
                                                    },
                                                    {
@@ -15114,10 +15149,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  7,
-                                                       "pe":  4,
-                                                       "km":  27.43,
-                                                       "tv":  178
+                                                       "vi":  8,
+                                                       "pe":  5,
+                                                       "km":  28.43,
+                                                       "tv":  235
                                                    },
                                                    {
                                                        "nome":  "Cominato",
