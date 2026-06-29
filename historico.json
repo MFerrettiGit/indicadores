@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13574,10 +13574,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  9.06,
-                                     "tv":  95
+                                     "km":  10.04,
+                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -13625,6 +13625,24 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  43.13,
+                                     "tv":  86
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  21.94,
+                                     "tv":  118
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -13643,15 +13661,6 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  34.06,
-                                     "tv":  66
-                                 },
-                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -13659,15 +13668,6 @@
                                      "pe":  2,
                                      "km":  12.59,
                                      "tv":  73
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  9.69,
-                                     "tv":  59
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -13811,6 +13811,13 @@
                                        "tv":  20
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO VIEIRA FRANCA LTDA",
+                                       "p":  0,
+                                       "km":  0.98,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "F.M.TRES SUPERMERCADO LTDA",
                                        "p":  1,
@@ -13860,6 +13867,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1,
+                                       "km":  12.25,
+                                       "tv":  59
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
                                        "p":  1,
@@ -13872,6 +13886,13 @@
                                        "p":  0,
                                        "km":  16.21,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.02",
+                                       "p":  1,
+                                       "km":  9.07,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Cominato",
