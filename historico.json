@@ -13478,8 +13478,17 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  80.53,
+                                     "tv":  322
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -13488,15 +13497,6 @@
                                      "pe":  0,
                                      "km":  50.12,
                                      "tv":  251
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  75.36,
-                                     "tv":  303
                                  },
                                  {
                                      "nome":  "Debora",
@@ -13508,6 +13508,15 @@
                                      "tv":  254
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  20.79,
+                                     "tv":  272
+                                 },
+                                 {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
@@ -13515,15 +13524,6 @@
                                      "pe":  0,
                                      "km":  8.34,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  18.06,
-                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -13574,19 +13574,19 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  2,
-                                     "km":  15.28,
-                                     "tv":  188
+                                     "km":  16.92,
+                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  18.25,
-                                     "tv":  168
+                                     "km":  19.42,
+                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Costa",
@@ -13607,6 +13607,15 @@
                                      "tv":  178
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  73.58,
+                                     "tv":  194
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -13616,22 +13625,13 @@
                                      "tv":  172
                                  },
                                  {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  71.94,
-                                     "tv":  175
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  2,
-                                     "km":  21.38,
-                                     "tv":  144
+                                     "vi":  6,
+                                     "pe":  3,
+                                     "km":  25.3,
+                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -13664,19 +13664,19 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  3.93,
-                                     "tv":  145
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  6.15,
+                                     "tv":  236
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  12.59,
-                                     "tv":  73
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  18.37,
+                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -13720,6 +13720,13 @@
                                        "tv":  37
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  5.17,
+                                       "tv":  19
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -13753,6 +13760,13 @@
                                        "p":  1,
                                        "km":  5.72,
                                        "tv":  118
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  2.73,
+                                       "tv":  112
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -13909,6 +13923,13 @@
                                        "tv":  28
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "L. A MERCEARIA DE FRANCA LTDA",
+                                       "p":  0,
+                                       "km":  1.64,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "F.M.TRES SUPERMERCADO LTDA",
                                        "p":  1,
@@ -13993,6 +14014,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO CIAMDRIGHI LTDA.",
+                                       "p":  0,
+                                       "km":  1.17,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADOS TIBA LTDA.",
                                        "p":  1,
@@ -14005,6 +14033,13 @@
                                        "p":  1,
                                        "km":  1.25,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "RENATO MODENEZI COLIN - ME",
+                                       "p":  1,
+                                       "km":  1.64,
+                                       "tv":  19
                                    },
                                    {
                                        "n":  "Alan",
@@ -14119,6 +14154,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  3.92,
+                                       "tv":  17
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                                        "p":  1,
@@ -14154,6 +14196,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "SM MAIS SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.78,
+                                       "tv":  52
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "COFESA - COML. FERREIRA SANTOS LTDA- LJ",
                                        "p":  0,
@@ -14166,6 +14215,13 @@
                                        "p":  1,
                                        "km":  2.63,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCADOS SUPERHANDS SLU",
+                                       "p":  1,
+                                       "km":  2.22,
+                                       "tv":  91
                                    }
                                ]
                    }
