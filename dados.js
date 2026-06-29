@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "29/06/2026",
-    "dataHora":  "18:45",
+    "dataHora":  "19:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  147.06,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:55",
+                     "ultimo":  "18:51",
+                     "tv":  "06:24:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "13:19",
                      "tv":  "03:59:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  144.37,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:55",
-                     "ultimo":  "17:21",
-                     "tv":  "05:11:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -879,6 +879,15 @@ window.PAINEL = {
                          "dur":  "01:57:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "17:37:10",
+                         "out":  "18:51:00",
+                         "km":  2.15,
+                         "dur":  "01:13:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -1524,12 +1533,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "COGEB SUPERMERCADOS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:08:13"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1629,7 +1633,7 @@ window.PAINEL = {
                  ],
                  [
                      "29/06",
-                     94,
+                     95,
                      23
                  ]
              ],
@@ -15113,7 +15117,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-29":  {
-                                         "dataHora":  "18:45",
+                                         "dataHora":  "19:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -15224,6 +15228,15 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  147.06,
+                                                       "tv":  384
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -15231,15 +15244,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  17.82,
                                                        "tv":  239
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  144.37,
-                                                       "tv":  311
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -15731,6 +15735,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  70.79,
                                                          "tv":  117
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "COGEB SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.15,
+                                                         "tv":  73
                                                      },
                                                      {
                                                          "n":  "Alan",

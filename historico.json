@@ -13478,7 +13478,7 @@
                                ]
                    },
     "2026-06-29":  {
-                       "dataHora":  "18:45",
+                       "dataHora":  "19:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -13589,6 +13589,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  147.06,
+                                     "tv":  384
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -13596,15 +13605,6 @@
                                      "pe":  4,
                                      "km":  17.82,
                                      "tv":  239
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  144.37,
-                                     "tv":  311
                                  },
                                  {
                                      "nome":  "Maira",
@@ -14096,6 +14096,13 @@
                                        "p":  1,
                                        "km":  70.79,
                                        "tv":  117
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "COGEB SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.15,
+                                       "tv":  73
                                    },
                                    {
                                        "n":  "Alan",
