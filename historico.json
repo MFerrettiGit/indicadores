@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14439,17 +14439,17 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  111.26,
+                                     "km":  132.32,
                                      "tv":  352
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  8,
+                                     "vi":  9,
                                      "pe":  1,
-                                     "km":  110.71,
-                                     "tv":  232
+                                     "km":  173.33,
+                                     "tv":  315
                                  },
                                  {
                                      "nome":  "Luis",
@@ -14518,10 +14518,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  6,
-                                     "km":  52.94,
-                                     "tv":  313
+                                     "vi":  7,
+                                     "pe":  7,
+                                     "km":  53.07,
+                                     "tv":  378
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -14551,6 +14551,15 @@
                                      "tv":  339
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  101.14,
+                                     "tv":  345
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -14558,15 +14567,6 @@
                                      "pe":  5,
                                      "km":  55.09,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  96.58,
-                                     "tv":  291
                                  },
                                  {
                                      "nome":  "Karina",
@@ -15217,6 +15217,13 @@
                                        "tv":  105
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                       "p":  1,
+                                       "km":  0.13,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1,
@@ -15446,6 +15453,13 @@
                                        "p":  1,
                                        "km":  1.03,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "JR ELEUTERIO EMBALAGENS",
+                                       "p":  1,
+                                       "km":  4.56,
+                                       "tv":  54
                                    }
                                ]
                    }

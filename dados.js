@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -129,7 +129,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  111.26,
+                     "km":  132.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  8,
-                     "km":  110.71,
-                     "semPed":  7,
-                     "perc":  87.5,
+                     "visitas":  9,
+                     "km":  173.33,
+                     "semPed":  8,
+                     "perc":  88.89,
                      "primeiro":  "07:41",
-                     "ultimo":  "14:53",
-                     "tv":  "03:52:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:10",
+                     "tv":  "05:15:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "15:27",
                      "tv":  "04:31:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  52.94,
+                     "visitas":  7,
+                     "km":  53.07,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "16:12",
-                     "tv":  "05:13:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:25",
+                     "tv":  "06:18:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  101.14,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:05",
+                     "ultimo":  "17:25",
+                     "tv":  "05:45:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -332,21 +347,6 @@ window.PAINEL = {
                      "tv":  "03:57:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  96.58,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:05",
-                     "ultimo":  "16:02",
-                     "tv":  "04:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -1185,6 +1185,15 @@ window.PAINEL = {
                          "dur":  "01:45:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPERMERCADO CAMP. WENG LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:19:46",
+                         "out":  "17:25:46",
+                         "km":  0.13,
+                         "dur":  "01:05:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
@@ -1480,6 +1489,15 @@ window.PAINEL = {
                          "out":  "16:02:49",
                          "km":  1.03,
                          "dur":  "00:49:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "JR ELEUTERIO EMBALAGENS",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:31:06",
+                         "out":  "17:25:25",
+                         "km":  4.56,
+                         "dur":  "00:54:00"
                      }
                  ],
     "eventos":  [
@@ -1732,6 +1750,14 @@ window.PAINEL = {
                         "tempo":  "01:15:07"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido",
+                        "inicio":  "15:51",
+                        "final":  "17:23",
+                        "tempo":  "01:31:59"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Outro",
                         "obs":  "preenchendo a planilha para cadastros de clientes novos",
@@ -1764,20 +1790,12 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
-                        "nome":  "Costa",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "digitando pedido",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:19:39"
-                    },
-                    {
                         "nome":  "Rachel",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:08:36"
+                        "tempo":  "01:26:29"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1785,7 +1803,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:34"
+                        "tempo":  "00:24:27"
                     },
                     {
                         "nome":  "Maira",
@@ -1793,7 +1811,7 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:18"
+                        "tempo":  "00:23:11"
                     }
                 ],
     "semped":  [
@@ -1956,40 +1974,22 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "IRMAOS BOA LTDA - LJ.03",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "01:21:59"
-                     },
-                     {
                          "nome":  "Sao Carlos",
                          "razao":  "IRMAOS RUSCITO LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "01:01:41"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "SUPERMERCADO CAMP. WENG LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:49:22"
+                         "tempo":  "01:19:30"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:07:11"
+                         "tempo":  "01:25:00"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "V.V. CALLEGARI  LTDA - EPP",
                          "mun":  "RAFARD",
-                         "tempo":  "00:41:04"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "JR ELEUTERIO EMBALAGENS",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:38:02"
+                         "tempo":  "00:58:53"
                      }
                  ],
     "hist":  [
@@ -2095,8 +2095,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     123,
-                     25
+                     126,
+                     26
                  ]
              ],
     "historico":  {
@@ -16460,7 +16460,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16540,17 +16540,17 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  111.26,
+                                                       "km":  132.32,
                                                        "tv":  352
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  8,
+                                                       "vi":  9,
                                                        "pe":  1,
-                                                       "km":  110.71,
-                                                       "tv":  232
+                                                       "km":  173.33,
+                                                       "tv":  315
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -16619,10 +16619,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  6,
-                                                       "pe":  6,
-                                                       "km":  52.94,
-                                                       "tv":  313
+                                                       "vi":  7,
+                                                       "pe":  7,
+                                                       "km":  53.07,
+                                                       "tv":  378
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -16652,6 +16652,15 @@ window.PAINEL = {
                                                        "tv":  339
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  101.14,
+                                                       "tv":  345
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -16659,15 +16668,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  55.09,
                                                        "tv":  237
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  96.58,
-                                                       "tv":  291
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -17318,6 +17318,13 @@ window.PAINEL = {
                                                          "tv":  105
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPERMERCADO CAMP. WENG LTDA",
+                                                         "p":  1,
+                                                         "km":  0.13,
+                                                         "tv":  65
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1,
@@ -17547,6 +17554,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.03,
                                                          "tv":  49
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "JR ELEUTERIO EMBALAGENS",
+                                                         "p":  1,
+                                                         "km":  4.56,
+                                                         "tv":  54
                                                      }
                                                  ]
                                      }
