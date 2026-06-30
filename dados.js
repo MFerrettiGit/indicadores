@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  8,
-                     "km":  136.03,
+                     "km":  141.43,
                      "semPed":  6,
                      "perc":  75,
                      "primeiro":  "08:55",
@@ -174,14 +174,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  90.95,
+                     "km":  95.05,
                      "semPed":  4,
                      "perc":  57.14,
                      "primeiro":  "08:33",
                      "ultimo":  "15:59",
                      "tv":  "04:50:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -234,14 +234,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  2,
-                     "km":  34.35,
+                     "km":  62.84,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:34",
                      "ultimo":  "12:46",
                      "tv":  "03:55:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -264,7 +264,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  53.07,
+                     "km":  66.4,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
@@ -294,7 +294,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  51.98,
+                     "km":  61.48,
                      "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:15",
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  1.87,
+                     "visitas":  3,
+                     "km":  5.68,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:53",
-                     "ultimo":  "13:18",
-                     "tv":  "04:13:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:53",
+                     "tv":  "06:04:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -1374,6 +1374,15 @@ window.PAINEL = {
                          "dur":  "02:26:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "16:01:57",
+                         "out":  "17:53:51",
+                         "km":  3.81,
+                         "dur":  "01:51:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
                          "mun":  "ELIAS FAUSTO",
@@ -1544,6 +1553,14 @@ window.PAINEL = {
                         "tempo":  "01:41:44"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa barbara",
+                        "inicio":  "17:05",
+                        "final":  "17:52",
+                        "tempo":  "00:47:10"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1598,6 +1615,14 @@ window.PAINEL = {
                         "inicio":  "14:54",
                         "final":  "15:37",
                         "tempo":  "00:42:30"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "daolio",
+                        "inicio":  "16:02",
+                        "final":  "17:49",
+                        "tempo":  "01:47:37"
                     },
                     {
                         "nome":  "Luis",
@@ -1808,28 +1833,12 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "daolio",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:38:57"
-                    },
-                    {
                         "nome":  "Mariangela",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:36:55"
-                    },
-                    {
-                        "nome":  "Maira",
-                        "tipo":  "Em Viagem",
-                        "obs":  "santa barbara",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:35:39"
+                        "tempo":  "00:52:18"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1837,7 +1846,7 @@ window.PAINEL = {
                         "obs":  "ibate a São Carlos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:03:21"
+                        "tempo":  "00:18:44"
                     }
                 ],
     "semped":  [
@@ -1999,12 +2008,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:37:16"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -2109,7 +2113,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     128,
+                     129,
                      26
                  ]
              ],
@@ -16474,7 +16478,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16572,7 +16576,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  8,
                                                        "pe":  2,
-                                                       "km":  136.03,
+                                                       "km":  141.43,
                                                        "tv":  291
                                                    },
                                                    {
@@ -16581,7 +16585,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  3,
-                                                       "km":  90.95,
+                                                       "km":  95.05,
                                                        "tv":  290
                                                    },
                                                    {
@@ -16617,7 +16621,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  2,
                                                        "pe":  2,
-                                                       "km":  34.35,
+                                                       "km":  62.84,
                                                        "tv":  235
                                                    },
                                                    {
@@ -16635,7 +16639,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  7,
-                                                       "km":  53.07,
+                                                       "km":  66.4,
                                                        "tv":  378
                                                    },
                                                    {
@@ -16653,7 +16657,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  51.98,
+                                                       "km":  61.48,
                                                        "tv":  183
                                                    },
                                                    {
@@ -16687,10 +16691,10 @@ window.PAINEL = {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  1.87,
-                                                       "tv":  253
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  5.68,
+                                                       "tv":  364
                                                    }
                                                ],
                                          "cli":  [
@@ -17477,6 +17481,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.41,
                                                          "tv":  146
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                                         "p":  1,
+                                                         "km":  3.81,
+                                                         "tv":  111
                                                      },
                                                      {
                                                          "n":  "Lucas",

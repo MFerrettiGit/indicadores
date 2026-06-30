@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "17:45",
+                       "dataHora":  "18:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14457,7 +14457,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  8,
                                      "pe":  2,
-                                     "km":  136.03,
+                                     "km":  141.43,
                                      "tv":  291
                                  },
                                  {
@@ -14466,7 +14466,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  7,
                                      "pe":  3,
-                                     "km":  90.95,
+                                     "km":  95.05,
                                      "tv":  290
                                  },
                                  {
@@ -14502,7 +14502,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  2,
                                      "pe":  2,
-                                     "km":  34.35,
+                                     "km":  62.84,
                                      "tv":  235
                                  },
                                  {
@@ -14520,7 +14520,7 @@
                                      "regional":  "SUL",
                                      "vi":  7,
                                      "pe":  7,
-                                     "km":  53.07,
+                                     "km":  66.4,
                                      "tv":  378
                                  },
                                  {
@@ -14538,7 +14538,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  51.98,
+                                     "km":  61.48,
                                      "tv":  183
                                  },
                                  {
@@ -14572,10 +14572,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  1.87,
-                                     "tv":  253
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  5.68,
+                                     "tv":  364
                                  }
                              ],
                        "cli":  [
@@ -15362,6 +15362,13 @@
                                        "p":  1,
                                        "km":  1.41,
                                        "tv":  146
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                       "p":  1,
+                                       "km":  3.81,
+                                       "tv":  111
                                    },
                                    {
                                        "n":  "Lucas",
