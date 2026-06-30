@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14380,6 +14380,15 @@
                                      "tv":  248
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  71.35,
+                                     "tv":  284
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -14396,15 +14405,6 @@
                                      "pe":  0,
                                      "km":  23.49,
                                      "tv":  246
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  66.32,
-                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -14509,10 +14509,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  6,
-                                     "pe":  5,
-                                     "km":  26.71,
-                                     "tv":  207
+                                     "vi":  7,
+                                     "pe":  6,
+                                     "km":  31.68,
+                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Castro",
@@ -14795,6 +14795,13 @@
                                        "p":  1,
                                        "km":  2.18,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
+                                       "p":  1,
+                                       "km":  5.03,
+                                       "tv":  93
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -15138,6 +15145,13 @@
                                        "p":  0,
                                        "km":  1.46,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.97,
+                                       "tv":  45
                                    },
                                    {
                                        "n":  "Karina",
