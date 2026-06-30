@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  30.98,
+                     "visitas":  6,
+                     "km":  34.68,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
-                     "ultimo":  "10:08",
-                     "tv":  "02:32:00",
+                     "ultimo":  "11:02",
+                     "tv":  "03:18:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "10:46",
                      "tv":  "02:59:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "10:51",
                      "tv":  "02:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "10:50",
                      "tv":  "02:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "10:41",
                      "tv":  "03:15:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "07:41",
                      "ultimo":  "10:31",
                      "tv":  "02:10:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -173,13 +173,13 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  63.16,
+                     "visitas":  3,
+                     "km":  64.69,
                      "semPed":  2,
-                     "perc":  100,
+                     "perc":  66.67,
                      "primeiro":  "08:55",
-                     "ultimo":  "10:18",
-                     "tv":  "01:19:00",
+                     "ultimo":  "10:58",
+                     "tv":  "01:51:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  7.75,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  2,
+                     "km":  8.98,
+                     "semPed":  1,
+                     "perc":  50,
                      "primeiro":  "07:34",
-                     "ultimo":  "10:25",
-                     "tv":  "02:51:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:06",
+                     "tv":  "03:20:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  21.13,
+                     "visitas":  1,
+                     "km":  42.12,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:28",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:02",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -537,6 +537,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                         "mun":  "CAMPINAS",
+                         "in":  "10:15:39",
+                         "out":  "11:02:08",
+                         "km":  3.7,
+                         "dur":  "00:46:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                          "mun":  "RIO DAS PEDRAS",
@@ -600,6 +609,24 @@ window.PAINEL = {
                          "dur":  "00:53:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                         "mun":  "ARARAS",
+                         "in":  "09:35:54",
+                         "out":  "11:09:51",
+                         "km":  25.94,
+                         "dur":  "01:33:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SILMELO SUPERMERCADO LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "08:28:26",
+                         "out":  "11:02:15",
+                         "km":  20.99,
+                         "dur":  "02:33:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "ODALTIR DE MEDEIROS",
                          "mun":  "SAO JOAQUIM DA",
@@ -616,6 +643,15 @@ window.PAINEL = {
                          "out":  "10:18:54",
                          "km":  0.21,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "JW SUPERMERCADO LTDA.",
+                         "mun":  "SAO JOAQUIM DA",
+                         "in":  "10:25:20",
+                         "out":  "10:58:17",
+                         "km":  1.53,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Milene",
@@ -688,6 +724,15 @@ window.PAINEL = {
                          "out":  "10:25:49",
                          "km":  5.12,
                          "dur":  "02:51:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                         "mun":  "SAO CARLOS",
+                         "in":  "10:36:37",
+                         "out":  "11:06:05",
+                         "km":  1.23,
+                         "dur":  "00:29:00"
                      },
                      {
                          "nome":  "Alan",
@@ -952,98 +997,122 @@ window.PAINEL = {
                        "razao":  "MONTE BELLO",
                        "mun":  "PIRACICABA",
                        "obs":  "Proposta"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.05",
+                         "mun":  "CABREUVA",
+                         "tempo":  "00:10:01"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:29:30"
+                         "tempo":  "00:44:32"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.17",
                          "mun":  "SUMARE",
-                         "tempo":  "00:20:41"
+                         "tempo":  "00:35:43"
                      },
                      {
                          "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.13",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:38:35"
+                         "tempo":  "00:06:38"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:05:21"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:11:30"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "BOITUVA",
+                         "tempo":  "00:10:38"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:13:12"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "02:20:13"
+                         "tempo":  "02:35:15"
                      },
                      {
                          "nome":  "Luis",
-                         "razao":  "JW SUPERMERCADO LTDA.",
+                         "razao":  "ATACADISTA DE ALIMENTOS NB LTDA",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:28:54"
+                         "tempo":  "00:02:37"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:20:55"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SILMELO SUPERMERCADO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "02:25:48"
+                         "tempo":  "00:35:57"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
                          "mun":  "ARARAS",
-                         "tempo":  "01:18:20"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:17:37"
+                         "tempo":  "01:33:22"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SM. IRMAOS SOUZA LTDA.",
                          "mun":  "BOM JESUS DOS P",
-                         "tempo":  "00:00:29"
+                         "tempo":  "00:15:31"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "FALCARI",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:10:05"
+                         "tempo":  "00:25:07"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:03:14"
+                         "tempo":  "00:18:16"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ELFA LTDA - EPP.",
                          "mun":  "ELIAS FAUSTO",
-                         "tempo":  "00:53:05"
+                         "tempo":  "01:08:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
                          "mun":  "TATUI",
-                         "tempo":  "00:34:25"
+                         "tempo":  "00:49:27"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:31:02"
+                         "tempo":  "00:46:04"
                      }
                  ],
     "hist":  [
@@ -1149,8 +1218,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     50,
-                     13
+                     54,
+                     14
                  ]
              ],
     "historico":  {
@@ -15514,16 +15583,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  30.98,
-                                                       "tv":  152
+                                                       "km":  34.68,
+                                                       "tv":  198
                                                    },
                                                    {
                                                        "nome":  "Edimilson",
@@ -15619,19 +15688,19 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  63.16,
-                                                       "tv":  79
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  64.69,
+                                                       "tv":  111
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  1,
-                                                       "km":  7.75,
-                                                       "tv":  171
+                                                       "km":  8.98,
+                                                       "tv":  200
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -15646,10 +15715,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  21.13,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  42.12,
+                                                       "tv":  153
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -15868,6 +15937,13 @@ window.PAINEL = {
                                                          "tv":  47
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                                                         "p":  1,
+                                                         "km":  3.7,
+                                                         "tv":  46
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                                          "p":  1,
@@ -15917,6 +15993,20 @@ window.PAINEL = {
                                                          "tv":  53
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                                                         "p":  1,
+                                                         "km":  25.94,
+                                                         "tv":  93
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SILMELO SUPERMERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  20.99,
+                                                         "tv":  153
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "ODALTIR DE MEDEIROS",
                                                          "p":  0,
@@ -15929,6 +16019,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.21,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "JW SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.53,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -15985,6 +16082,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.12,
                                                          "tv":  171
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                                                         "p":  0,
+                                                         "km":  1.23,
+                                                         "tv":  29
                                                      },
                                                      {
                                                          "n":  "Alan",

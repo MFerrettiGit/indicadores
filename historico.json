@@ -14359,16 +14359,16 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  30.98,
-                                     "tv":  152
+                                     "km":  34.68,
+                                     "tv":  198
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -14464,19 +14464,19 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  63.16,
-                                     "tv":  79
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  64.69,
+                                     "tv":  111
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  7.75,
-                                     "tv":  171
+                                     "km":  8.98,
+                                     "tv":  200
                                  },
                                  {
                                      "nome":  "Costa",
@@ -14491,10 +14491,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  21.13,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  42.12,
+                                     "tv":  153
                                  },
                                  {
                                      "nome":  "Maira",
@@ -14713,6 +14713,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMEN",
+                                       "p":  1,
+                                       "km":  3.7,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -14762,6 +14769,20 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "RTSS COML. DE PRODS. COSMETICOS LTDA-ME.",
+                                       "p":  1,
+                                       "km":  25.94,
+                                       "tv":  93
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SILMELO SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  20.99,
+                                       "tv":  153
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "ODALTIR DE MEDEIROS",
                                        "p":  0,
@@ -14774,6 +14795,13 @@
                                        "p":  0,
                                        "km":  0.21,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "JW SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  1.53,
+                                       "tv":  32
                                    },
                                    {
                                        "n":  "Milene",
@@ -14830,6 +14858,13 @@
                                        "p":  1,
                                        "km":  5.12,
                                        "tv":  171
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
+                                       "p":  0,
+                                       "km":  1.23,
+                                       "tv":  29
                                    },
                                    {
                                        "n":  "Alan",
