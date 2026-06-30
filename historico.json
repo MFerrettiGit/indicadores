@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14371,6 +14371,24 @@
                                      "tv":  275
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  58.24,
+                                     "tv":  248
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  77.75,
+                                     "tv":  337
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -14380,15 +14398,6 @@
                                      "tv":  246
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  40.36,
-                                     "tv":  197
-                                 },
-                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -14396,15 +14405,6 @@
                                      "pe":  0,
                                      "km":  66.32,
                                      "tv":  191
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  73.74,
-                                     "tv":  245
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -14533,6 +14533,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  26.63,
+                                     "tv":  156
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -14549,15 +14558,6 @@
                                      "pe":  3,
                                      "km":  23.55,
                                      "tv":  186
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  26.37,
-                                     "tv":  125
                                  },
                                  {
                                      "nome":  "Karina",
@@ -14599,6 +14599,13 @@
                                        "p":  1,
                                        "km":  23.2,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  4.01,
+                                       "tv":  92
                                    },
                                    {
                                        "n":  "Debora",
@@ -14816,6 +14823,13 @@
                                        "p":  1,
                                        "km":  0.57,
                                        "tv":  34
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  1,
+                                       "km":  17.88,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Costa",
@@ -15180,6 +15194,13 @@
                                        "p":  1,
                                        "km":  3.92,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO SHIBATA JACAREI LTDA",
+                                       "p":  1,
+                                       "km":  0.26,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Nelson",
