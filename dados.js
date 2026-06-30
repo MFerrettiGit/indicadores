@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -150,6 +150,21 @@ window.PAINEL = {
                      "primeiro":  "07:41",
                      "ultimo":  "14:53",
                      "tv":  "03:52:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Luis",
+                     "setor":  "FRANCA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  7,
+                     "km":  128.02,
+                     "semPed":  6,
+                     "perc":  85.71,
+                     "primeiro":  "08:55",
+                     "ultimo":  "15:48",
+                     "tv":  "04:11:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -169,18 +184,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Luis",
-                     "setor":  "FRANCA",
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  68.92,
-                     "semPed":  5,
-                     "perc":  83.33,
-                     "primeiro":  "08:55",
-                     "ultimo":  "12:26",
-                     "tv":  "02:50:00",
-                     "emVisita":  1,
+                     "visitas":  4,
+                     "km":  26.32,
+                     "semPed":  2,
+                     "perc":  50,
+                     "primeiro":  "07:34",
+                     "ultimo":  "15:46",
+                     "tv":  "05:10:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -196,22 +211,7 @@ window.PAINEL = {
                      "ultimo":  "15:27",
                      "tv":  "04:31:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  11.36,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "07:34",
-                     "ultimo":  "11:55",
-                     "tv":  "04:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "14:34",
                      "tv":  "02:37:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -861,6 +861,15 @@ window.PAINEL = {
                          "dur":  "00:17:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "14:26:57",
+                         "out":  "15:48:49",
+                         "km":  59.1,
+                         "dur":  "01:21:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
@@ -1012,6 +1021,15 @@ window.PAINEL = {
                          "out":  "11:55:29",
                          "km":  2.38,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                         "mun":  "IBATE",
+                         "in":  "14:35:42",
+                         "out":  "15:46:31",
+                         "km":  14.96,
+                         "dur":  "01:10:00"
                      },
                      {
                          "nome":  "Alan",
@@ -1482,6 +1500,14 @@ window.PAINEL = {
                         "tempo":  "01:02:13"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Proposta",
+                        "obs":  "Enviando propostas para meus principais clientes",
+                        "inicio":  "15:09",
+                        "final":  "15:50",
+                        "tempo":  "00:41:25"
+                    },
+                    {
                         "nome":  "Debora",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1586,20 +1612,20 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
-                        "nome":  "Cominato",
-                        "tipo":  "Proposta",
-                        "obs":  "Enviando propostas para meus principais clientes",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:31:33"
-                    },
-                    {
                         "nome":  "Maira",
                         "tipo":  "Digitacao Pedido",
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:48"
+                        "tempo":  "00:36:50"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:30"
                     }
                 ],
     "semped":  [
@@ -1706,6 +1732,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Cominato",
                        "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                        "mun":  "PIRACICABA",
@@ -1734,92 +1766,92 @@ window.PAINEL = {
                        "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
                        "mun":  "SAO CARLOS",
                        "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                       "mun":  "IBATE",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:07:01"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:21:30"
+                         "tempo":  "00:36:29"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:02:07"
+                         "tempo":  "02:17:06"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:39:36"
+                         "tempo":  "01:54:35"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:12:35"
+                         "tempo":  "00:27:34"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:03:10"
+                         "tempo":  "00:18:09"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:38:51"
+                         "tempo":  "00:53:50"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J L DAOLIO E CIA LTDA",
                          "mun":  "AMPARO",
-                         "tempo":  "00:01:26"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "01:12:14"
+                         "tempo":  "00:16:25"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:00:11"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
-                         "mun":  "IBATE",
-                         "tempo":  "01:03:29"
+                         "tempo":  "00:15:10"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:12:09"
+                         "tempo":  "01:27:08"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "RAFARD",
-                         "tempo":  "00:21:57"
+                         "tempo":  "00:36:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:25:55"
+                         "tempo":  "00:40:54"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "TEL COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:42:50"
+                         "tempo":  "00:57:49"
                      }
                  ],
     "hist":  [
@@ -1925,8 +1957,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     106,
-                     22
+                     108,
+                     24
                  ]
              ],
     "historico":  {
@@ -16290,7 +16322,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16383,6 +16415,15 @@ window.PAINEL = {
                                                        "tv":  232
                                                    },
                                                    {
+                                                       "nome":  "Luis",
+                                                       "setor":  "FRANCA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  7,
+                                                       "pe":  1,
+                                                       "km":  128.02,
+                                                       "tv":  251
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -16392,13 +16433,13 @@ window.PAINEL = {
                                                        "tv":  269
                                                    },
                                                    {
-                                                       "nome":  "Luis",
-                                                       "setor":  "FRANCA",
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  1,
-                                                       "km":  68.92,
-                                                       "tv":  170
+                                                       "vi":  4,
+                                                       "pe":  2,
+                                                       "km":  26.32,
+                                                       "tv":  310
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -16408,15 +16449,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  96.36,
                                                        "tv":  271
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  11.36,
-                                                       "tv":  240
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -16896,6 +16928,13 @@ window.PAINEL = {
                                                          "tv":  17
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  59.1,
+                                                         "tv":  81
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "J.F. MENDES E CIA LTDA.",
                                                          "p":  1,
@@ -17013,6 +17052,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.38,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                                                         "p":  0,
+                                                         "km":  14.96,
+                                                         "tv":  70
                                                      },
                                                      {
                                                          "n":  "Alan",

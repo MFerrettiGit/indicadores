@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14452,6 +14452,15 @@
                                      "tv":  232
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  1,
+                                     "km":  128.02,
+                                     "tv":  251
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -14461,13 +14470,13 @@
                                      "tv":  269
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  1,
-                                     "km":  68.92,
-                                     "tv":  170
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  26.32,
+                                     "tv":  310
                                  },
                                  {
                                      "nome":  "Costa",
@@ -14477,15 +14486,6 @@
                                      "pe":  4,
                                      "km":  96.36,
                                      "tv":  271
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  11.36,
-                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -14965,6 +14965,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  59.1,
+                                       "tv":  81
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "J.F. MENDES E CIA LTDA.",
                                        "p":  1,
@@ -15082,6 +15089,13 @@
                                        "p":  1,
                                        "km":  2.38,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                                       "p":  0,
+                                       "km":  14.96,
+                                       "tv":  70
                                    },
                                    {
                                        "n":  "Alan",
