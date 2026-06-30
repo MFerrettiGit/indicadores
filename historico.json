@@ -14359,16 +14359,16 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "08:30",
+                       "dataHora":  "08:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  24.13,
-                                     "tv":  58
+                                     "km":  25.89,
+                                     "tv":  85
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14446,10 +14446,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  13.64,
-                                     "tv":  27
+                                     "km":  14.59,
+                                     "tv":  45
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14467,24 +14467,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  41.51,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  5.13,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.65,
                                      "tv":  0
                                  },
                                  {
@@ -14506,13 +14488,40 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  5.13,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.65,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.57,
+                                     "tv":  35
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  9.51,
+                                     "tv":  22
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -14521,15 +14530,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.53,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.88,
                                      "tv":  0
                                  },
                                  {
@@ -14608,6 +14608,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.06",
+                                       "p":  0,
+                                       "km":  0.95,
+                                       "tv":  18
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -14620,6 +14627,13 @@
                                        "p":  1,
                                        "km":  2.71,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.76,
+                                       "tv":  27
                                    },
                                    {
                                        "n":  "Silmara",
@@ -14641,6 +14655,20 @@
                                        "p":  1,
                                        "km":  38.77,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  6.77,
+                                       "tv":  35
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                                       "p":  0,
+                                       "km":  8.63,
+                                       "tv":  22
                                    }
                                ]
                    }
