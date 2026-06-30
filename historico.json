@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14369,6 +14369,15 @@
                                      "pe":  0,
                                      "km":  28.49,
                                      "tv":  105
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  19.28,
+                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14387,15 +14396,6 @@
                                      "pe":  0,
                                      "km":  25.34,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  15.69,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Debora",
@@ -14446,10 +14446,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  19.86,
-                                     "tv":  67
+                                     "km":  21.46,
+                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Costa",
@@ -14458,6 +14458,15 @@
                                      "vi":  1,
                                      "pe":  1,
                                      "km":  41.51,
+                                     "tv":  53
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  26.73,
                                      "tv":  53
                                  },
                                  {
@@ -14479,15 +14488,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.43,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -14504,6 +14504,15 @@
                                      "pe":  0,
                                      "km":  0.65,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  40.75,
+                                     "tv":  30
                                  },
                                  {
                                      "nome":  "Alan",
@@ -14531,15 +14540,6 @@
                                      "pe":  0,
                                      "km":  9.51,
                                      "tv":  22
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.1,
-                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -14601,6 +14601,13 @@
                                        "tv":  72
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "CATO ANTONIALE",
+                                       "p":  1,
+                                       "km":  3.59,
+                                       "tv":  63
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  0,
@@ -14620,6 +14627,13 @@
                                        "p":  0,
                                        "km":  5.27,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.6,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Eliana",
@@ -14690,6 +14704,13 @@
                                        "p":  1,
                                        "km":  26.61,
                                        "tv":  33
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.R. DOMINGUES",
+                                       "p":  0,
+                                       "km":  26.3,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Alan",
