@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  69.09,
+                     "km":  74.54,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -1846,7 +1846,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:06:41"
+                        "tempo":  "01:21:39"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1854,7 +1854,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:47"
+                        "tempo":  "00:16:45"
                     }
                 ],
     "semped":  [
@@ -16486,7 +16486,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16521,7 +16521,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  69.09,
+                                                       "km":  74.54,
                                                        "tv":  469
                                                    },
                                                    {
