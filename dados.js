@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "12:26",
                      "tv":  "02:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,8 +195,8 @@ window.PAINEL = {
                      "primeiro":  "07:34",
                      "ultimo":  "11:55",
                      "tv":  "04:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Costa",
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "14:17",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  45.22,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:15",
+                     "ultimo":  "14:34",
+                     "tv":  "02:37:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -301,21 +316,6 @@ window.PAINEL = {
                      "ultimo":  "13:26",
                      "tv":  "02:36:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  37.1,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:15",
-                     "ultimo":  "11:49",
-                     "tv":  "01:33:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1059,6 +1059,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:30:22",
+                         "out":  "14:34:57",
+                         "km":  8.12,
+                         "dur":  "01:04:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
@@ -1415,6 +1424,14 @@ window.PAINEL = {
                         "tempo":  "01:07:15"
                     },
                     {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:27",
+                        "final":  "14:33",
+                        "tempo":  "01:06:18"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1423,20 +1440,20 @@ window.PAINEL = {
                         "tempo":  "01:00:11"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Carlos a Ibaté",
+                        "inicio":  "14:03",
+                        "final":  "14:35",
+                        "tempo":  "00:31:59"
+                    },
+                    {
                         "nome":  "Maira",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:59:16"
-                    },
-                    {
-                        "nome":  "Mariangela",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:31"
+                        "tempo":  "01:14:24"
                     },
                     {
                         "nome":  "Silmara",
@@ -1444,7 +1461,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:52"
+                        "tempo":  "00:47:00"
                     },
                     {
                         "nome":  "Karina",
@@ -1452,7 +1469,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:05"
+                        "tempo":  "00:45:13"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1460,15 +1477,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:29"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Carlos a Ibaté",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:22:26"
+                        "tempo":  "00:43:37"
                     },
                     {
                         "nome":  "Aline",
@@ -1476,7 +1485,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:42"
+                        "tempo":  "00:31:50"
                     }
                 ],
     "semped":  [
@@ -1595,6 +1604,12 @@ window.PAINEL = {
                        "obs":  "Estocado"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO DELTA MAX LTDA.",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Tentativa de falar com Comprador"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
                        "mun":  "SAO CARLOS",
@@ -1606,79 +1621,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:34"
+                         "tempo":  "00:29:35"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:36:04"
+                         "tempo":  "00:51:05"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:47:12"
+                         "tempo":  "01:02:13"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:24:41"
+                         "tempo":  "00:39:42"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:19:48"
+                         "tempo":  "01:34:49"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:13:11"
+                         "tempo":  "00:28:12"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J. L. DAOLIO",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "01:00:07"
+                         "tempo":  "01:15:08"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "tempo":  "00:12:20"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:46:15"
+                         "tempo":  "02:01:16"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:08:40"
+                         "tempo":  "00:23:41"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:22:33"
+                         "tempo":  "00:37:34"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
+                         "mun":  "IBATE",
+                         "tempo":  "00:03:35"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:15"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "JURACI BARNABE DA SILVA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:38:50"
+                         "tempo":  "00:53:51"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL MEDEIROS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:10:42"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:53:54"
+                         "tempo":  "00:25:43"
                      }
                  ],
     "hist":  [
@@ -1784,8 +1811,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     95,
-                     20
+                     96,
+                     21
                  ]
              ],
     "historico":  {
@@ -16149,7 +16176,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16323,6 +16350,15 @@ window.PAINEL = {
                                                        "tv":  226
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  45.22,
+                                                       "tv":  157
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -16330,15 +16366,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  26.63,
                                                        "tv":  156
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  37.1,
-                                                       "tv":  93
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -16907,6 +16934,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  20.3,
                                                          "tv":  35
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                                         "p":  0,
+                                                         "km":  8.12,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Eugenio",
