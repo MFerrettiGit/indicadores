@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "13:15",
+    "dataHora":  "13:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -16,7 +16,7 @@ window.PAINEL = {
                      "ultimo":  "12:20",
                      "tv":  "04:35:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -31,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "04:06:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Vinicius",
@@ -173,13 +173,13 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  28.3,
+                     "visitas":  5,
+                     "km":  44.34,
                      "semPed":  4,
-                     "perc":  100,
+                     "perc":  80,
                      "primeiro":  "08:33",
-                     "ultimo":  "10:48",
-                     "tv":  "02:06:00",
+                     "ultimo":  "13:19",
+                     "tv":  "03:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "11:49",
                      "tv":  "01:33:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Lucas",
@@ -334,6 +334,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  1.87,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:53",
+                     "ultimo":  "13:18",
+                     "tv":  "04:13:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "03:08:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  0.46,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:53",
-                     "ultimo":  "10:41",
-                     "tv":  "01:47:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -870,6 +870,15 @@ window.PAINEL = {
                          "dur":  "00:16:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "mun":  "HOLAMBRA",
+                         "in":  "12:14:15",
+                         "out":  "13:19:56",
+                         "km":  16.04,
+                         "dur":  "01:05:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
                          "mun":  "SAO CARLOS",
@@ -1068,6 +1077,15 @@ window.PAINEL = {
                          "dur":  "01:47:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "EDSON LUCIO PASSOS",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "10:51:00",
+                         "out":  "13:18:00",
+                         "km":  1.41,
+                         "dur":  "02:26:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
                          "mun":  "ELIAS FAUSTO",
@@ -1174,6 +1192,14 @@ window.PAINEL = {
                         "tempo":  "00:53:10"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Joaquim a Franca",
+                        "inicio":  "12:27",
+                        "final":  "13:16",
+                        "tempo":  "00:48:26"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Em Viagem",
                         "obs":  "capivari",
@@ -1196,6 +1222,30 @@ window.PAINEL = {
                         "inicio":  "07:51",
                         "final":  "08:51",
                         "tempo":  "01:00:01"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "12:20",
+                        "final":  "13:22",
+                        "tempo":  "01:02:13"
+                    },
+                    {
+                        "nome":  "Evandro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:24",
+                        "final":  "13:23",
+                        "tempo":  "00:58:42"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:19",
+                        "final":  "13:17",
+                        "tempo":  "00:57:33"
                     },
                     {
                         "nome":  "Eliana",
@@ -1222,44 +1272,12 @@ window.PAINEL = {
                         "tempo":  "01:07:15"
                     },
                     {
-                        "nome":  "Edimilson",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:25"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:50:02"
-                    },
-                    {
-                        "nome":  "Evandro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:45:57"
-                    },
-                    {
                         "nome":  "Lucas",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:59"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "São Joaquim a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:42:36"
+                        "tempo":  "00:59:58"
                     },
                     {
                         "nome":  "Debora",
@@ -1267,7 +1285,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:04"
+                        "tempo":  "00:46:03"
                     },
                     {
                         "nome":  "Costa",
@@ -1275,7 +1293,7 @@ window.PAINEL = {
                         "obs":  "",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:08"
+                        "tempo":  "00:45:07"
                     },
                     {
                         "nome":  "Nelson",
@@ -1283,7 +1301,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:52"
+                        "tempo":  "00:38:51"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1291,7 +1309,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:08"
+                        "tempo":  "00:38:07"
                     },
                     {
                         "nome":  "Alan",
@@ -1299,7 +1317,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:12"
+                        "tempo":  "00:30:11"
                     },
                     {
                         "nome":  "Fernando",
@@ -1307,7 +1325,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:08"
+                        "tempo":  "00:24:07"
                     },
                     {
                         "nome":  "Castro",
@@ -1315,7 +1333,15 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:35"
+                        "tempo":  "00:19:34"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:56"
                     }
                 ],
     "semped":  [
@@ -1445,55 +1471,49 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "01:16:28"
+                         "tempo":  "01:31:27"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:04:43"
+                         "tempo":  "00:19:42"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:24:13"
+                         "tempo":  "00:39:12"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:59:41"
+                         "tempo":  "01:14:40"
                      },
                      {
                          "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
+                         "razao":  "J. L. DAOLIO",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:54:56"
+                         "tempo":  "00:00:01"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:31:10"
+                         "tempo":  "00:46:09"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:04:35"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "EDSON LUCIO PASSOS",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:18:11"
+                         "tempo":  "00:19:34"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO SHIBATA JACAREI LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:13:54"
+                         "tempo":  "00:28:53"
                      }
                  ],
     "hist":  [
@@ -1599,7 +1619,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     86,
+                     88,
                      20
                  ]
              ],
@@ -15964,7 +15984,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "13:15",
+                                         "dataHora":  "13:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16069,10 +16089,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  28.3,
-                                                       "tv":  126
+                                                       "vi":  5,
+                                                       "pe":  1,
+                                                       "km":  44.34,
+                                                       "tv":  191
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -16165,6 +16185,15 @@ window.PAINEL = {
                                                        "tv":  125
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  1.87,
+                                                       "tv":  253
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -16172,15 +16201,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  54.93,
                                                        "tv":  188
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  0.46,
-                                                       "tv":  107
                                                    }
                                                ],
                                          "cli":  [
@@ -16577,6 +16597,13 @@ window.PAINEL = {
                                                          "tv":  16
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                                         "p":  1,
+                                                         "km":  16.04,
+                                                         "tv":  65
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
                                                          "p":  1,
@@ -16729,6 +16756,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.46,
                                                          "tv":  107
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "EDSON LUCIO PASSOS",
+                                                         "p":  1,
+                                                         "km":  1.41,
+                                                         "tv":  146
                                                      },
                                                      {
                                                          "n":  "Lucas",

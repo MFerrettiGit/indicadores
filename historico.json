@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14464,10 +14464,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  28.3,
-                                     "tv":  126
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  44.34,
+                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14560,6 +14560,15 @@
                                      "tv":  125
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  1.87,
+                                     "tv":  253
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -14567,15 +14576,6 @@
                                      "pe":  2,
                                      "km":  54.93,
                                      "tv":  188
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0.46,
-                                     "tv":  107
                                  }
                              ],
                        "cli":  [
@@ -14972,6 +14972,13 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO NOVA MAKIM LTDA",
+                                       "p":  1,
+                                       "km":  16.04,
+                                       "tv":  65
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
                                        "p":  1,
@@ -15124,6 +15131,13 @@
                                        "p":  1,
                                        "km":  0.46,
                                        "tv":  107
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "EDSON LUCIO PASSOS",
+                                       "p":  1,
+                                       "km":  1.41,
+                                       "tv":  146
                                    },
                                    {
                                        "n":  "Lucas",
