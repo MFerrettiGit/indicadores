@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14455,10 +14455,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  1,
-                                     "km":  66.61,
-                                     "tv":  153
+                                     "km":  68.92,
+                                     "tv":  170
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -14515,6 +14515,15 @@
                                      "tv":  185
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  39.1,
+                                     "tv":  186
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -14522,15 +14531,6 @@
                                      "pe":  4,
                                      "km":  66.11,
                                      "tv":  157
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  32.11,
-                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -14551,6 +14551,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  54.93,
+                                     "tv":  188
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -14567,15 +14576,6 @@
                                      "pe":  1,
                                      "km":  0.46,
                                      "tv":  107
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  48.88,
-                                     "tv":  55
                                  }
                              ],
                        "cli":  [
@@ -14846,6 +14846,13 @@
                                        "tv":  153
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "POSTO DO TREVO LTDA",
+                                       "p":  1,
+                                       "km":  10.57,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "ODALTIR DE MEDEIROS",
                                        "p":  0,
@@ -14879,6 +14886,13 @@
                                        "p":  0,
                                        "km":  0.28,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  0,
+                                       "km":  2.31,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Maira",
@@ -14991,6 +15005,13 @@
                                        "p":  1,
                                        "km":  12.24,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "VILA SUPERMERCADOS CAMPINAS LTDA",
+                                       "p":  1,
+                                       "km":  6.99,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Castro",
@@ -15124,6 +15145,13 @@
                                        "p":  1,
                                        "km":  48.38,
                                        "tv":  55
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
+                                       "p":  1,
+                                       "km":  6.05,
+                                       "tv":  133
                                    }
                                ]
                    }
