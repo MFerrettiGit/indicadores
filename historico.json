@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14383,10 +14383,19 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  76.9,
+                                     "tv":  350
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  71.35,
-                                     "tv":  284
+                                     "km":  32.38,
+                                     "tv":  367
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14405,15 +14414,6 @@
                                      "pe":  0,
                                      "km":  66.96,
                                      "tv":  384
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  23.49,
-                                     "tv":  246
                                  },
                                  {
                                      "nome":  "Debora",
@@ -14452,6 +14452,15 @@
                                      "tv":  232
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  7,
+                                     "pe":  3,
+                                     "km":  90.95,
+                                     "tv":  290
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -14459,15 +14468,6 @@
                                      "pe":  1,
                                      "km":  128.02,
                                      "tv":  251
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  2,
-                                     "km":  45.83,
-                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14551,6 +14551,15 @@
                                      "tv":  271
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  96.58,
+                                     "tv":  291
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -14558,15 +14567,6 @@
                                      "pe":  4,
                                      "km":  26.63,
                                      "tv":  156
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  95.55,
-                                     "tv":  242
                                  },
                                  {
                                      "nome":  "Karina",
@@ -14662,6 +14662,13 @@
                                        "p":  1,
                                        "km":  3.29,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  8.89,
+                                       "tv":  121
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -14830,6 +14837,13 @@
                                        "p":  1,
                                        "km":  5.03,
                                        "tv":  93
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                                       "p":  1,
+                                       "km":  5.55,
+                                       "tv":  66
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -15068,6 +15082,13 @@
                                        "p":  1,
                                        "km":  1.49,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J L DAOLIO E CIA LTDA",
+                                       "p":  1,
+                                       "km":  45.12,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Sao Carlos",
@@ -15334,6 +15355,13 @@
                                        "p":  1,
                                        "km":  40.62,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
+                                       "p":  1,
+                                       "km":  1.03,
+                                       "tv":  49
                                    }
                                ]
                    }
