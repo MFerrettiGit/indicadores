@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "08:45",
+                       "dataHora":  "09:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14378,6 +14378,15 @@
                                      "pe":  0,
                                      "km":  26.51,
                                      "tv":  141
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  25.34,
+                                     "tv":  115
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -14416,15 +14425,6 @@
                                      "tv":  48
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -14437,10 +14437,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  44.56,
-                                     "tv":  45
+                                     "km":  71.17,
+                                     "tv":  78
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -14533,15 +14533,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -14551,8 +14542,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -14562,6 +14553,15 @@
                                  {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -14615,6 +14615,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.05",
+                                       "p":  1,
+                                       "km":  25.34,
+                                       "tv":  115
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  1,
@@ -14655,6 +14662,13 @@
                                        "p":  1,
                                        "km":  38.77,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  26.61,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Alan",
