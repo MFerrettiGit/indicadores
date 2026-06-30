@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14378,6 +14378,15 @@
                                      "pe":  0,
                                      "km":  19.28,
                                      "tv":  135
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  60.61,
+                                     "tv":  122
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14414,15 +14423,6 @@
                                      "pe":  0,
                                      "km":  38.05,
                                      "tv":  63
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  46.59,
-                                     "tv":  48
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -14470,6 +14470,15 @@
                                      "tv":  53
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  62.95,
+                                     "tv":  58
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -14497,13 +14506,13 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.65,
-                                     "tv":  0
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  13.18,
+                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Castro",
@@ -14524,15 +14533,6 @@
                                      "tv":  35
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  0.89,
-                                     "tv":  57
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -14545,10 +14545,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  14.04,
+                                     "tv":  47
                                  },
                                  {
                                      "nome":  "Karina",
@@ -14678,6 +14678,13 @@
                                        "tv":  48
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
+                                       "p":  1,
+                                       "km":  14.02,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "COOP CONS POPULAR DE CERQUILHO",
                                        "p":  1,
@@ -14690,6 +14697,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "ODALTIR DE MEDEIROS",
+                                       "p":  0,
+                                       "km":  62.3,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Milene",
@@ -14746,6 +14760,20 @@
                                        "p":  1,
                                        "km":  0.36,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "O.B. DE SOUZA",
+                                       "p":  1,
+                                       "km":  12.29,
+                                       "tv":  27
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
+                                       "p":  1,
+                                       "km":  14.04,
+                                       "tv":  47
                                    }
                                ]
                    }
