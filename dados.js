@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -45,8 +45,8 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "11:32",
                      "tv":  "03:17:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Silmara",
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:55",
                      "tv":  "04:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -211,21 +211,21 @@ window.PAINEL = {
                      "ultimo":  "12:14",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  42.12,
+                     "visitas":  2,
+                     "km":  52.69,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:28",
-                     "ultimo":  "11:02",
-                     "tv":  "02:33:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:40",
+                     "tv":  "03:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -233,14 +233,14 @@ window.PAINEL = {
                      "setor":  "AMERICANA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  33.12,
+                     "visitas":  2,
+                     "km":  34.35,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:34",
-                     "ultimo":  "11:23",
-                     "tv":  "02:49:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:46",
+                     "tv":  "03:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  25.25,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  6,
+                     "km":  26.71,
+                     "semPed":  1,
+                     "perc":  16.67,
                      "primeiro":  "08:01",
-                     "ultimo":  "12:22",
-                     "tv":  "03:05:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:53",
+                     "tv":  "03:27:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  26.37,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:54",
+                     "ultimo":  "12:51",
+                     "tv":  "02:05:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -331,22 +346,7 @@ window.PAINEL = {
                      "ultimo":  "12:32",
                      "tv":  "03:08:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  22.45,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:54",
-                     "ultimo":  "11:59",
-                     "tv":  "01:40:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Karina",
@@ -780,6 +780,15 @@ window.PAINEL = {
                          "dur":  "02:49:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "A.T. CAETANO-ME.",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:39:28",
+                         "out":  "12:46:25",
+                         "km":  1.23,
+                         "dur":  "01:06:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "BARRINHA",
@@ -1032,6 +1041,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                         "mun":  "ATIBAIA",
+                         "in":  "12:30:09",
+                         "out":  "12:53:00",
+                         "km":  1.46,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
@@ -1084,6 +1102,15 @@ window.PAINEL = {
                          "out":  "11:59:39",
                          "km":  4.85,
                          "dur":  "00:44:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SHIBATA COM E ATAC DE PROD EM GERAL LTDA",
+                         "mun":  "JACAREI",
+                         "in":  "12:25:30",
+                         "out":  "12:51:27",
+                         "km":  3.92,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1162,6 +1189,14 @@ window.PAINEL = {
                         "tempo":  "01:00:01"
                     },
                     {
+                        "nome":  "Vinicius",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "11:33",
+                        "final":  "12:44",
+                        "tempo":  "01:11:15"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Outro",
                         "obs":  "preenchendo a planilha para cadastros de clientes novos",
@@ -1170,20 +1205,12 @@ window.PAINEL = {
                         "tempo":  "01:07:15"
                     },
                     {
-                        "nome":  "Vinicius",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:06:51"
-                    },
-                    {
                         "nome":  "Eliana",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:49"
+                        "tempo":  "00:55:49"
                     },
                     {
                         "nome":  "Edimilson",
@@ -1191,7 +1218,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:23"
+                        "tempo":  "00:35:23"
                     },
                     {
                         "nome":  "Cominato",
@@ -1199,7 +1226,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:20:00"
+                        "tempo":  "00:35:00"
                     },
                     {
                         "nome":  "Evandro",
@@ -1207,7 +1234,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:55"
+                        "tempo":  "00:30:55"
                     },
                     {
                         "nome":  "Lucas",
@@ -1215,7 +1242,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:14:57"
+                        "tempo":  "00:29:57"
                     },
                     {
                         "nome":  "Luis",
@@ -1223,7 +1250,7 @@ window.PAINEL = {
                         "obs":  "São Joaquim a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:34"
+                        "tempo":  "00:27:34"
                     },
                     {
                         "nome":  "Debora",
@@ -1231,7 +1258,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:02"
+                        "tempo":  "00:16:02"
                     },
                     {
                         "nome":  "Costa",
@@ -1239,10 +1266,40 @@ window.PAINEL = {
                         "obs":  "",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:06"
+                        "tempo":  "00:15:06"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:50"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:06"
+                    },
+                    {
+                        "nome":  "Alan",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:10"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Eugenio",
+                       "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                       "mun":  "ATIBAIA",
+                       "obs":  "venda suspensa"
+                   },
                    {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA",
@@ -1363,61 +1420,43 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "00:46:27"
+                         "tempo":  "01:01:24"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:09:09"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:29:40"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "A.T. CAETANO-ME.",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:59:42"
+                         "tempo":  "00:44:37"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:24:55"
+                         "tempo":  "00:39:52"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:01:09"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "POSTO DO TREVO LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:09:35"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "SUPERMERCADO AMIGO DA GENTE LTDA",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "00:09:01"
+                         "tempo":  "00:16:06"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:48:10"
+                         "tempo":  "02:03:07"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:44:36"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SHIBATA COM E ATAC DE PROD EM GERAL LTDA",
-                         "mun":  "JACAREI",
-                         "tempo":  "00:13:40"
+                         "tempo":  "00:59:33"
                      }
                  ],
     "hist":  [
@@ -1523,8 +1562,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     81,
-                     19
+                     85,
+                     20
                  ]
              ],
     "historico":  {
@@ -15888,7 +15927,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16020,28 +16059,28 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  42.12,
-                                                       "tv":  153
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  52.69,
+                                                       "tv":  223
                                                    },
                                                    {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  33.12,
-                                                       "tv":  169
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  34.35,
+                                                       "tv":  235
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  5,
-                                                       "km":  25.25,
-                                                       "tv":  185
+                                                       "km":  26.71,
+                                                       "tv":  207
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -16080,6 +16119,15 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  26.37,
+                                                       "tv":  125
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -16087,15 +16135,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  54.93,
                                                        "tv":  188
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  22.45,
-                                                       "tv":  100
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -16431,6 +16470,13 @@ window.PAINEL = {
                                                          "tv":  169
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "A.T. CAETANO-ME.",
+                                                         "p":  1,
+                                                         "km":  1.23,
+                                                         "tv":  66
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -16627,6 +16673,13 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                                         "p":  0,
+                                                         "km":  1.46,
+                                                         "tv":  22
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                                                          "p":  1,
@@ -16667,6 +16720,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.85,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SHIBATA COM E ATAC DE PROD EM GERAL LTDA",
+                                                         "p":  1,
+                                                         "km":  3.92,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Nelson",

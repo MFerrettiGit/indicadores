@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14491,28 +14491,28 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  42.12,
-                                     "tv":  153
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  52.69,
+                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  33.12,
-                                     "tv":  169
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  34.35,
+                                     "tv":  235
                                  },
                                  {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  5,
-                                     "km":  25.25,
-                                     "tv":  185
+                                     "km":  26.71,
+                                     "tv":  207
                                  },
                                  {
                                      "nome":  "Alan",
@@ -14551,6 +14551,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  26.37,
+                                     "tv":  125
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -14558,15 +14567,6 @@
                                      "pe":  2,
                                      "km":  54.93,
                                      "tv":  188
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  22.45,
-                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Karina",
@@ -14902,6 +14902,13 @@
                                        "tv":  169
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "A.T. CAETANO-ME.",
+                                       "p":  1,
+                                       "km":  1.23,
+                                       "tv":  66
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -15098,6 +15105,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO AMIGO DA GENTE LTDA",
+                                       "p":  0,
+                                       "km":  1.46,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                                        "p":  1,
@@ -15138,6 +15152,13 @@
                                        "p":  1,
                                        "km":  4.85,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SHIBATA COM E ATAC DE PROD EM GERAL LTDA",
+                                       "p":  1,
+                                       "km":  3.92,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Nelson",
