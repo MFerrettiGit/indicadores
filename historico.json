@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14374,10 +14374,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  58.24,
-                                     "tv":  248
+                                     "km":  58.8,
+                                     "tv":  302
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -14407,6 +14407,15 @@
                                      "tv":  246
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  95.08,
+                                     "tv":  342
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -14414,15 +14423,6 @@
                                      "pe":  0,
                                      "km":  58.84,
                                      "tv":  256
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  51.61,
-                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -14491,10 +14491,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  52.69,
-                                     "tv":  223
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  62.64,
+                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Maira",
@@ -14560,6 +14560,15 @@
                                      "tv":  186
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  95.55,
+                                     "tv":  242
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -14567,15 +14576,6 @@
                                      "pe":  2,
                                      "km":  1.87,
                                      "tv":  253
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  54.93,
-                                     "tv":  188
                                  }
                              ],
                        "cli":  [
@@ -14627,6 +14627,13 @@
                                        "p":  1,
                                        "km":  1.16,
                                        "tv":  89
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                                       "p":  1,
+                                       "km":  43.47,
+                                       "tv":  72
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -14853,6 +14860,13 @@
                                        "tv":  51
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  0.56,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PANTOJA",
                                        "p":  1,
@@ -14886,6 +14900,13 @@
                                        "p":  1,
                                        "km":  10.57,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                                       "p":  1,
+                                       "km":  9.95,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Luis",
@@ -15271,6 +15292,13 @@
                                        "p":  1,
                                        "km":  6.05,
                                        "tv":  133
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "COMERCIAL MEDEIROS LTDA",
+                                       "p":  1,
+                                       "km":  40.62,
+                                       "tv":  54
                                    }
                                ]
                    }

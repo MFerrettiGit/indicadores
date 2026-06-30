@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -23,14 +23,14 @@ window.PAINEL = {
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  58.24,
+                     "visitas":  6,
+                     "km":  58.8,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:14",
-                     "ultimo":  "13:36",
-                     "tv":  "04:08:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:05",
+                     "tv":  "05:02:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "13:43",
                      "tv":  "04:44:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -79,6 +79,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Debora",
+                     "setor":  "PROMO-ARARAS",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  95.08,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:06",
+                     "ultimo":  "15:00",
+                     "tv":  "05:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "11:58",
                      "tv":  "04:16:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Debora",
-                     "setor":  "PROMO-ARARAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  51.61,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:06",
-                     "ultimo":  "11:54",
-                     "tv":  "04:30:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "14:43",
                      "tv":  "04:29:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -218,14 +218,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  52.69,
+                     "visitas":  3,
+                     "km":  62.64,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:28",
-                     "ultimo":  "12:40",
-                     "tv":  "03:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "15:02",
+                     "tv":  "04:30:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "12:46",
                      "tv":  "03:55:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eugenio",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:50",
                      "tv":  "04:12:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -301,7 +301,7 @@ window.PAINEL = {
                      "ultimo":  "14:34",
                      "tv":  "02:37:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "09:54",
                      "ultimo":  "13:26",
                      "tv":  "02:36:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -334,6 +334,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  95.55,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:05",
+                     "ultimo":  "15:07",
+                     "tv":  "04:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -347,21 +362,6 @@ window.PAINEL = {
                      "tv":  "04:13:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  54.93,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:05",
-                     "ultimo":  "12:32",
-                     "tv":  "03:08:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -427,6 +427,15 @@ window.PAINEL = {
                          "out":  "11:54:59",
                          "km":  1.16,
                          "dur":  "01:29:00"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                         "mun":  "ARARAS",
+                         "in":  "13:48:12",
+                         "out":  "15:00:39",
+                         "km":  43.47,
+                         "dur":  "01:12:00"
                      },
                      {
                          "nome":  "Edimilson",
@@ -717,6 +726,15 @@ window.PAINEL = {
                          "dur":  "00:51:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "CERQUILHO",
+                         "in":  "14:11:05",
+                         "out":  "15:05:12",
+                         "km":  0.56,
+                         "dur":  "00:54:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "PANTOJA",
                          "mun":  "RIO CLARO",
@@ -760,6 +778,15 @@ window.PAINEL = {
                          "out":  "12:40:11",
                          "km":  10.57,
                          "dur":  "01:10:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "14:15:36",
+                         "out":  "15:02:58",
+                         "km":  9.95,
+                         "dur":  "00:47:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1255,6 +1282,15 @@ window.PAINEL = {
                          "out":  "12:32:54",
                          "km":  6.05,
                          "dur":  "02:13:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIAL MEDEIROS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "14:13:34",
+                         "out":  "15:07:57",
+                         "km":  40.62,
+                         "dur":  "00:54:00"
                      }
                  ],
     "eventos":  [
@@ -1265,6 +1301,22 @@ window.PAINEL = {
                         "inicio":  "07:59",
                         "final":  "08:33",
                         "tempo":  "00:33:57"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:26",
+                        "final":  "15:07",
+                        "tempo":  "01:41:27"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:57",
+                        "final":  "14:57",
+                        "tempo":  "01:00:10"
                     },
                     {
                         "nome":  "Alan",
@@ -1483,28 +1535,12 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:29:17"
-                    },
-                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:00:06"
-                    },
-                    {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:58:30"
+                        "tempo":  "01:15:19"
                     },
                     {
                         "nome":  "Aline",
@@ -1512,7 +1548,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:43"
+                        "tempo":  "01:01:56"
                     },
                     {
                         "nome":  "Rachel",
@@ -1520,7 +1556,15 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:09"
+                        "tempo":  "00:16:22"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Proposta",
+                        "obs":  "Enviando propostas para meus principais clientes",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:47"
                     }
                 ],
     "semped":  [
@@ -1659,76 +1703,64 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Debora",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
-                         "mun":  "ARARAS",
-                         "tempo":  "01:06:00"
-                     },
-                     {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:17:08"
+                         "tempo":  "01:32:11"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:54:37"
+                         "tempo":  "01:09:40"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:49:44"
+                         "tempo":  "02:04:47"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
-                         "mun":  "CERQUILHO",
-                         "tempo":  "00:43:07"
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:08:55"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:27:15"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:38:36"
+                         "tempo":  "00:42:18"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:52:29"
+                         "tempo":  "01:07:32"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
                          "mun":  "IBATE",
-                         "tempo":  "00:18:30"
+                         "tempo":  "00:33:33"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:27:10"
+                         "tempo":  "00:42:13"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "JURACI BARNABE DA SILVA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "01:08:46"
+                         "tempo":  "01:23:49"
                      },
                      {
-                         "nome":  "Nelson",
-                         "razao":  "COMERCIAL MEDEIROS LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:40:38"
+                         "nome":  "Mariangela",
+                         "razao":  "TEL COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:12:54"
                      }
                  ],
     "hist":  [
@@ -1834,7 +1866,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     99,
+                     103,
                      22
                  ]
              ],
@@ -16199,7 +16231,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16214,10 +16246,10 @@ window.PAINEL = {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  58.24,
-                                                       "tv":  248
+                                                       "km":  58.8,
+                                                       "tv":  302
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -16247,6 +16279,15 @@ window.PAINEL = {
                                                        "tv":  246
                                                    },
                                                    {
+                                                       "nome":  "Debora",
+                                                       "setor":  "PROMO-ARARAS",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  95.08,
+                                                       "tv":  342
+                                                   },
+                                                   {
                                                        "nome":  "Eliana",
                                                        "setor":  "PROMO-JUNDIAI",
                                                        "regional":  "Regional Merchandising",
@@ -16254,15 +16295,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  58.84,
                                                        "tv":  256
-                                                   },
-                                                   {
-                                                       "nome":  "Debora",
-                                                       "setor":  "PROMO-ARARAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  51.61,
-                                                       "tv":  270
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -16331,10 +16363,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  52.69,
-                                                       "tv":  223
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  62.64,
+                                                       "tv":  270
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -16400,6 +16432,15 @@ window.PAINEL = {
                                                        "tv":  186
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  95.55,
+                                                       "tv":  242
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -16407,15 +16448,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  1.87,
                                                        "tv":  253
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  54.93,
-                                                       "tv":  188
                                                    }
                                                ],
                                          "cli":  [
@@ -16467,6 +16499,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.16,
                                                          "tv":  89
+                                                     },
+                                                     {
+                                                         "n":  "Debora",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
+                                                         "p":  1,
+                                                         "km":  43.47,
+                                                         "tv":  72
                                                      },
                                                      {
                                                          "n":  "Edimilson",
@@ -16693,6 +16732,13 @@ window.PAINEL = {
                                                          "tv":  51
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                                         "p":  1,
+                                                         "km":  0.56,
+                                                         "tv":  54
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "PANTOJA",
                                                          "p":  1,
@@ -16726,6 +16772,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  10.57,
                                                          "tv":  70
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                                                         "p":  1,
+                                                         "km":  9.95,
+                                                         "tv":  47
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -17111,6 +17164,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.05,
                                                          "tv":  133
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "COMERCIAL MEDEIROS LTDA",
+                                                         "p":  1,
+                                                         "km":  40.62,
+                                                         "tv":  54
                                                      }
                                                  ]
                                      }
