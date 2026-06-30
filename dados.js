@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -23,14 +23,14 @@ window.PAINEL = {
                      "setor":  "PROMO-SOROCABA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  58.8,
+                     "visitas":  7,
+                     "km":  62.37,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:14",
-                     "ultimo":  "15:05",
-                     "tv":  "05:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:24",
+                     "tv":  "05:49:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:20",
                      "ultimo":  "16:06",
                      "tv":  "05:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -263,13 +263,13 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  48.73,
+                     "visitas":  6,
+                     "km":  52.94,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:01",
-                     "ultimo":  "14:17",
-                     "tv":  "03:28:00",
+                     "ultimo":  "16:12",
+                     "tv":  "05:13:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  55.09,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:54",
+                     "ultimo":  "16:17",
+                     "tv":  "03:57:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Cominato",
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
@@ -300,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:15",
                      "ultimo":  "14:34",
                      "tv":  "02:37:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "16:02",
                      "tv":  "04:51:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  26.63,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:54",
-                     "ultimo":  "13:26",
-                     "tv":  "02:36:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -762,6 +762,15 @@ window.PAINEL = {
                          "dur":  "00:54:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "in":  "15:36:01",
+                         "out":  "16:24:02",
+                         "km":  3.57,
+                         "dur":  "00:47:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "PANTOJA",
                          "mun":  "RIO CLARO",
@@ -1104,6 +1113,15 @@ window.PAINEL = {
                          "dur":  "00:22:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:27:02",
+                         "out":  "16:12:53",
+                         "km":  4.21,
+                         "dur":  "01:45:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
@@ -1302,6 +1320,15 @@ window.PAINEL = {
                          "dur":  "01:25:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO ARMELIN LTDA",
+                         "mun":  "RAFARD",
+                         "in":  "15:17:14",
+                         "out":  "16:25:47",
+                         "km":  1.76,
+                         "dur":  "01:08:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "F.T.J SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
@@ -1336,6 +1363,15 @@ window.PAINEL = {
                          "out":  "13:26:23",
                          "km":  0.26,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "TEL COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "14:56:21",
+                         "out":  "16:17:27",
+                         "km":  28.46,
+                         "dur":  "01:21:00"
                      },
                      {
                          "nome":  "Nelson",
@@ -1653,7 +1689,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:06"
+                        "tempo":  "01:07:03"
                     },
                     {
                         "nome":  "Costa",
@@ -1661,7 +1697,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:46"
+                        "tempo":  "00:34:43"
                     },
                     {
                         "nome":  "Rachel",
@@ -1669,7 +1705,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:43"
+                        "tempo":  "00:23:40"
                     }
                 ],
     "semped":  [
@@ -1823,73 +1859,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:22:03"
+                         "tempo":  "00:37:04"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:51:31"
+                         "tempo":  "01:06:32"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:32:08"
+                         "tempo":  "02:47:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:42:36"
+                         "tempo":  "00:57:37"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
-                         "mun":  "CERQUILHO",
-                         "tempo":  "00:33:11"
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:04:36"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
                          "mun":  "FRANCA",
-                         "tempo":  "00:01:27"
+                         "tempo":  "00:16:28"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:30:12"
+                         "tempo":  "00:45:13"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "IRMAOS RUSCITO LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:01:45"
+                         "tempo":  "00:16:46"
                      },
                      {
                          "nome":  "Alan",
-                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:42:10"
+                         "tempo":  "00:04:27"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:07:15"
+                         "tempo":  "00:22:16"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "RAFARD",
-                         "tempo":  "00:51:58"
+                         "tempo":  "01:06:59"
                      },
                      {
-                         "nome":  "Mariangela",
-                         "razao":  "TEL COMERCIO DE ALIMENTOS LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:12:51"
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:13:51"
                      }
                  ],
     "hist":  [
@@ -1995,7 +2031,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     112,
+                     115,
                      24
                  ]
              ],
@@ -16360,7 +16396,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16375,10 +16411,10 @@ window.PAINEL = {
                                                        "nome":  "Vinicius",
                                                        "setor":  "PROMO-SOROCABA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  58.8,
-                                                       "tv":  302
+                                                       "km":  62.37,
+                                                       "tv":  349
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -16519,10 +16555,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  48.73,
-                                                       "tv":  208
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  52.94,
+                                                       "tv":  313
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -16532,6 +16568,15 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  75.79,
                                                        "tv":  226
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  55.09,
+                                                       "tv":  237
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -16559,15 +16604,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  96.58,
                                                        "tv":  291
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  26.63,
-                                                       "tv":  156
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -16889,6 +16925,13 @@ window.PAINEL = {
                                                          "tv":  54
                                                      },
                                                      {
+                                                         "n":  "Vinicius",
+                                                         "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                                         "p":  1,
+                                                         "km":  3.57,
+                                                         "tv":  47
+                                                     },
+                                                     {
                                                          "n":  "Costa",
                                                          "r":  "PANTOJA",
                                                          "p":  1,
@@ -17155,6 +17198,13 @@ window.PAINEL = {
                                                          "tv":  22
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.21,
+                                                         "tv":  105
+                                                     },
+                                                     {
                                                          "n":  "Castro",
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1,
@@ -17309,6 +17359,13 @@ window.PAINEL = {
                                                          "tv":  85
                                                      },
                                                      {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO ARMELIN LTDA",
+                                                         "p":  1,
+                                                         "km":  1.76,
+                                                         "tv":  68
+                                                     },
+                                                     {
                                                          "n":  "Mariangela",
                                                          "r":  "F.T.J SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -17335,6 +17392,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.26,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "TEL COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  1,
+                                                         "km":  28.46,
+                                                         "tv":  81
                                                      },
                                                      {
                                                          "n":  "Nelson",

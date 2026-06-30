@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14374,10 +14374,10 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  58.8,
-                                     "tv":  302
+                                     "km":  62.37,
+                                     "tv":  349
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -14518,10 +14518,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  48.73,
-                                     "tv":  208
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  52.94,
+                                     "tv":  313
                                  },
                                  {
                                      "nome":  "Castro",
@@ -14531,6 +14531,15 @@
                                      "pe":  5,
                                      "km":  75.79,
                                      "tv":  226
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  55.09,
+                                     "tv":  237
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -14558,15 +14567,6 @@
                                      "pe":  4,
                                      "km":  96.58,
                                      "tv":  291
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  26.63,
-                                     "tv":  156
                                  },
                                  {
                                      "nome":  "Karina",
@@ -14888,6 +14888,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  3.57,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PANTOJA",
                                        "p":  1,
@@ -15154,6 +15161,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.21,
+                                       "tv":  105
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1,
@@ -15308,6 +15322,13 @@
                                        "tv":  85
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO ARMELIN LTDA",
+                                       "p":  1,
+                                       "km":  1.76,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "F.T.J SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -15334,6 +15355,13 @@
                                        "p":  1,
                                        "km":  0.26,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "TEL COMERCIO DE ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  28.46,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Nelson",
