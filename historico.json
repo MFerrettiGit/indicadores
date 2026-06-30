@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14446,10 +14446,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  14.59,
-                                     "tv":  45
+                                     "km":  19.86,
+                                     "tv":  67
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  41.51,
+                                     "tv":  53
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14458,15 +14467,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  2.63,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  41.51,
                                      "tv":  0
                                  },
                                  {
@@ -14515,6 +14515,15 @@
                                      "tv":  35
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  0.89,
+                                     "tv":  57
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -14524,22 +14533,13 @@
                                      "tv":  22
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.53,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  40.1,
+                                     "tv":  15
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -14560,21 +14560,21 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.5,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -14613,6 +14613,13 @@
                                        "p":  0,
                                        "km":  0.95,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  5.27,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Eliana",
@@ -14657,6 +14664,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "PANTOJA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -14678,11 +14692,25 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1,
+                                       "km":  40.1,
+                                       "tv":  15
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                                        "p":  0,
                                        "km":  8.63,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "JOSE DIRCEU VILHENA DE MELO",
+                                       "p":  1,
+                                       "km":  0.36,
+                                       "tv":  57
                                    }
                                ]
                    }
