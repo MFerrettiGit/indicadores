@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14369,6 +14369,15 @@
                                      "pe":  0,
                                      "km":  34.68,
                                      "tv":  198
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  40.36,
+                                     "tv":  197
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14387,15 +14396,6 @@
                                      "pe":  0,
                                      "km":  20.2,
                                      "tv":  179
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  39.79,
-                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -14437,19 +14437,19 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  75.61,
-                                     "tv":  139
+                                     "km":  97.41,
+                                     "tv":  193
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  31.88,
-                                     "tv":  130
+                                     "km":  47.38,
+                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -14464,10 +14464,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  1,
-                                     "km":  64.69,
-                                     "tv":  111
+                                     "km":  66.33,
+                                     "tv":  133
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14509,28 +14509,28 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  15.01,
-                                     "tv":  120
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  16.14,
+                                     "tv":  158
                                  },
                                  {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  64.91,
-                                     "tv":  83
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  66.11,
+                                     "tv":  157
                                  },
                                  {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  19.87,
-                                     "tv":  102
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  32.11,
+                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -14545,10 +14545,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  14.04,
-                                     "tv":  47
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  23.15,
+                                     "tv":  135
                                  },
                                  {
                                      "nome":  "Karina",
@@ -14671,6 +14671,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.05",
+                                       "p":  0,
+                                       "km":  15.5,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.05",
                                        "p":  1,
@@ -14769,6 +14776,13 @@
                                        "tv":  15
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  1,
+                                       "km":  0.57,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PANTOJA",
                                        "p":  1,
@@ -14811,6 +14825,13 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "ATACADISTA DE ALIMENTOS NB LTDA",
+                                       "p":  0,
+                                       "km":  1.64,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "J.F. MENDES E CIA LTDA.",
                                        "p":  1,
@@ -14837,6 +14858,13 @@
                                        "p":  1,
                                        "km":  4.44,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  21.8,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Rachel",
@@ -14895,6 +14923,13 @@
                                        "tv":  67
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "FALCARI",
+                                       "p":  1,
+                                       "km":  12.24,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1,
@@ -14914,6 +14949,13 @@
                                        "p":  1,
                                        "km":  24.16,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "KALIMERA COMERCIO DE HORTIFRUTI LTDA",
+                                       "p":  1,
+                                       "km":  1.2,
+                                       "tv":  74
                                    },
                                    {
                                        "n":  "Cominato",
@@ -14951,6 +14993,13 @@
                                        "tv":  36
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "SM. IRMAOS SOUZA LTDA.",
+                                       "p":  1,
+                                       "km":  1.13,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                                        "p":  1,
@@ -14963,6 +15012,13 @@
                                        "p":  1,
                                        "km":  14.04,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO ELFA LTDA - EPP.",
+                                       "p":  1,
+                                       "km":  9.11,
+                                       "tv":  88
                                    },
                                    {
                                        "n":  "Mariangela",
