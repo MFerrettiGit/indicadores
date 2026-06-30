@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14398,6 +14398,15 @@
                                      "tv":  337
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  66.96,
+                                     "tv":  384
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -14414,15 +14423,6 @@
                                      "pe":  0,
                                      "km":  95.08,
                                      "tv":  342
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  58.84,
-                                     "tv":  256
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -14542,6 +14542,15 @@
                                      "tv":  157
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  46.95,
+                                     "tv":  271
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -14549,15 +14558,6 @@
                                      "pe":  4,
                                      "km":  26.63,
                                      "tv":  156
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  23.55,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -14739,6 +14739,13 @@
                                        "p":  1,
                                        "km":  11.61,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.06",
+                                       "p":  1,
+                                       "km":  8.12,
+                                       "tv":  128
                                    },
                                    {
                                        "n":  "Evandro",
@@ -15250,6 +15257,13 @@
                                        "p":  1,
                                        "km":  0.4,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "JURACI BARNABE DA SILVA",
+                                       "p":  1,
+                                       "km":  23.4,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Mariangela",
