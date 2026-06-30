@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  51.98,
+                     "semPed":  5,
+                     "perc":  100,
+                     "primeiro":  "08:15",
+                     "ultimo":  "16:37",
+                     "tv":  "03:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -286,6 +301,21 @@ window.PAINEL = {
                      "ultimo":  "13:04",
                      "tv":  "03:46:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  48.71,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:53",
+                     "ultimo":  "16:25",
+                     "tv":  "05:39:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,36 +334,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  45.22,
-                     "semPed":  4,
-                     "perc":  100,
-                     "primeiro":  "08:15",
-                     "ultimo":  "14:34",
-                     "tv":  "02:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  46.95,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:53",
-                     "ultimo":  "15:11",
-                     "tv":  "04:31:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -345,7 +345,7 @@ window.PAINEL = {
                      "primeiro":  "09:05",
                      "ultimo":  "16:02",
                      "tv":  "04:51:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1203,6 +1203,15 @@ window.PAINEL = {
                          "dur":  "01:04:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                         "mun":  "PIRACICABA",
+                         "in":  "16:10:22",
+                         "out":  "16:37:14",
+                         "km":  6.76,
+                         "dur":  "00:26:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "JOSE DIRCEU VILHENA DE MELO",
                          "mun":  "ATIBAIA",
@@ -1689,7 +1698,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:07:03"
+                        "tempo":  "01:22:09"
                     },
                     {
                         "nome":  "Costa",
@@ -1697,7 +1706,7 @@ window.PAINEL = {
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:43"
+                        "tempo":  "00:49:49"
                     },
                     {
                         "nome":  "Rachel",
@@ -1705,7 +1714,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:40"
+                        "tempo":  "00:38:46"
                     }
                 ],
     "semped":  [
@@ -1842,6 +1851,12 @@ window.PAINEL = {
                        "obs":  "Tentativa de falar com Comprador"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Estocado"
+                   },
+                   {
                        "nome":  "Sao Carlos",
                        "razao":  "LIMPER DEP.COM.PROD. LIMP. SERV. LTDA-ME",
                        "mun":  "SAO CARLOS",
@@ -1859,73 +1874,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:37:04"
+                         "tempo":  "00:52:05"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "01:06:32"
+                         "tempo":  "01:21:33"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:47:09"
+                         "tempo":  "03:02:10"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:57:37"
+                         "tempo":  "01:12:38"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:04:36"
+                         "tempo":  "00:19:37"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SANTO EXPEDITO DE FRANCA SUPERMERCADO",
                          "mun":  "FRANCA",
-                         "tempo":  "00:16:28"
+                         "tempo":  "00:31:29"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "MIALICH SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:45:13"
+                         "tempo":  "01:00:14"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "IRMAOS RUSCITO LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:16:46"
+                         "tempo":  "00:31:47"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:27"
+                         "tempo":  "00:19:28"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:22:16"
+                         "tempo":  "00:37:17"
                      },
                      {
                          "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO ARMELIN LTDA",
+                         "razao":  "V.V. CALLEGARI  LTDA - EPP",
                          "mun":  "RAFARD",
-                         "tempo":  "01:06:59"
+                         "tempo":  "00:11:10"
                      },
                      {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:13:51"
+                         "nome":  "Nelson",
+                         "razao":  "JR ELEUTERIO EMBALAGENS",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:08:08"
                      }
                  ],
     "hist":  [
@@ -2031,8 +2046,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     115,
-                     24
+                     117,
+                     25
                  ]
              ],
     "historico":  {
@@ -16396,7 +16411,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16561,6 +16576,15 @@ window.PAINEL = {
                                                        "tv":  313
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  51.98,
+                                                       "tv":  183
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -16570,6 +16594,15 @@ window.PAINEL = {
                                                        "tv":  226
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  48.71,
+                                                       "tv":  339
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -16577,24 +16610,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  55.09,
                                                        "tv":  237
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  45.22,
-                                                       "tv":  157
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  46.95,
-                                                       "tv":  271
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -17266,6 +17281,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  8.12,
                                                          "tv":  64
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
+                                                         "p":  0,
+                                                         "km":  6.76,
+                                                         "tv":  26
                                                      },
                                                      {
                                                          "n":  "Eugenio",
