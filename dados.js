@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -90,8 +90,8 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "11:58",
                      "tv":  "04:16:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Debora",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:40",
                      "tv":  "03:43:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -255,8 +255,23 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:53",
                      "tv":  "03:27:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  75.79,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:52",
+                     "ultimo":  "13:04",
+                     "tv":  "03:46:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -271,22 +286,7 @@ window.PAINEL = {
                      "ultimo":  "12:35",
                      "tv":  "03:06:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  66.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:52",
-                     "ultimo":  "11:38",
-                     "tv":  "02:37:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Cominato",
@@ -330,7 +330,7 @@ window.PAINEL = {
                      "primeiro":  "09:54",
                      "ultimo":  "12:51",
                      "tv":  "02:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -969,6 +969,15 @@ window.PAINEL = {
                          "dur":  "01:14:00"
                      },
                      {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                         "mun":  "JUNDIAI",
+                         "in":  "11:54:34",
+                         "out":  "13:04:01",
+                         "km":  9.68,
+                         "dur":  "01:09:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO SUPERBOM RAPOSO TAVARES LT.",
                          "mun":  "PIRACICABA",
@@ -1189,6 +1198,14 @@ window.PAINEL = {
                         "tempo":  "01:00:01"
                     },
                     {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "11:59",
+                        "final":  "13:03",
+                        "tempo":  "01:03:55"
+                    },
+                    {
                         "nome":  "Vinicius",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1205,20 +1222,12 @@ window.PAINEL = {
                         "tempo":  "01:07:15"
                     },
                     {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:55:49"
-                    },
-                    {
                         "nome":  "Edimilson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:23"
+                        "tempo":  "00:50:25"
                     },
                     {
                         "nome":  "Cominato",
@@ -1226,7 +1235,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:35:00"
+                        "tempo":  "00:50:02"
                     },
                     {
                         "nome":  "Evandro",
@@ -1234,7 +1243,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:30:55"
+                        "tempo":  "00:45:57"
                     },
                     {
                         "nome":  "Lucas",
@@ -1242,7 +1251,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:57"
+                        "tempo":  "00:44:59"
                     },
                     {
                         "nome":  "Luis",
@@ -1250,7 +1259,7 @@ window.PAINEL = {
                         "obs":  "São Joaquim a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:34"
+                        "tempo":  "00:42:36"
                     },
                     {
                         "nome":  "Debora",
@@ -1258,7 +1267,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:02"
+                        "tempo":  "00:31:04"
                     },
                     {
                         "nome":  "Costa",
@@ -1266,7 +1275,7 @@ window.PAINEL = {
                         "obs":  "",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:06"
+                        "tempo":  "00:30:08"
                     },
                     {
                         "nome":  "Nelson",
@@ -1274,7 +1283,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:50"
+                        "tempo":  "00:23:52"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1282,7 +1291,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:06"
+                        "tempo":  "00:23:08"
                     },
                     {
                         "nome":  "Alan",
@@ -1290,7 +1299,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:10"
+                        "tempo":  "00:15:12"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:08"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:04:35"
                     }
                 ],
     "semped":  [
@@ -1420,43 +1445,55 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.01",
                          "mun":  "SUMARE",
-                         "tempo":  "01:01:24"
+                         "tempo":  "01:16:28"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA - LJ.06",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:04:43"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:09:09"
+                         "tempo":  "00:24:13"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.28",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:44:37"
+                         "tempo":  "00:59:41"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO NOVA MAKIM LTDA",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:39:52"
+                         "tempo":  "00:54:56"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:16:06"
+                         "tempo":  "00:31:10"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "tempo":  "00:04:35"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "EDSON LUCIO PASSOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:03:07"
+                         "tempo":  "02:18:11"
                      },
                      {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "00:59:33"
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO SHIBATA JACAREI LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:13:54"
                      }
                  ],
     "hist":  [
@@ -1562,7 +1599,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     85,
+                     86,
                      20
                  ]
              ],
@@ -15927,7 +15964,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16083,6 +16120,15 @@ window.PAINEL = {
                                                        "tv":  207
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  75.79,
+                                                       "tv":  226
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -16090,15 +16136,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  39.1,
                                                        "tv":  186
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  66.11,
-                                                       "tv":  157
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -16615,6 +16652,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.2,
                                                          "tv":  74
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                                         "p":  1,
+                                                         "km":  9.68,
+                                                         "tv":  69
                                                      },
                                                      {
                                                          "n":  "Cominato",
