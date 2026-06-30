@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14437,19 +14437,28 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  101.51,
-                                     "tv":  220
+                                     "km":  111.26,
+                                     "tv":  352
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  7,
+                                     "vi":  8,
                                      "pe":  1,
                                      "km":  110.71,
-                                     "tv":  189
+                                     "tv":  232
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  2,
+                                     "km":  45.83,
+                                     "tv":  269
                                  },
                                  {
                                      "nome":  "Luis",
@@ -14459,15 +14468,6 @@
                                      "pe":  1,
                                      "km":  68.92,
                                      "tv":  170
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  1,
-                                     "km":  44.34,
-                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14704,6 +14704,13 @@
                                        "p":  1,
                                        "km":  63.33,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  43
                                    },
                                    {
                                        "n":  "Eliana",
@@ -14972,6 +14979,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  9.75,
+                                       "tv":  132
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B.R. DOMINGUES",
                                        "p":  0,
@@ -15005,6 +15019,13 @@
                                        "p":  1,
                                        "km":  16.04,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "J. L. DAOLIO",
+                                       "p":  1,
+                                       "km":  1.49,
+                                       "tv":  78
                                    },
                                    {
                                        "n":  "Sao Carlos",

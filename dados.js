@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "13:43",
                      "tv":  "04:44:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Aline",
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  101.51,
+                     "visitas":  6,
+                     "km":  111.26,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:55",
-                     "ultimo":  "12:09",
-                     "tv":  "03:40:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:50",
+                     "tv":  "05:52:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,29 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  7,
+                     "visitas":  8,
                      "km":  110.71,
-                     "semPed":  6,
-                     "perc":  85.71,
+                     "semPed":  7,
+                     "perc":  87.5,
                      "primeiro":  "07:41",
-                     "ultimo":  "14:02",
-                     "tv":  "03:09:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:53",
+                     "tv":  "03:52:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Rachel",
+                     "setor":  "CIRCUITO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  45.83,
+                     "semPed":  4,
+                     "perc":  66.67,
+                     "primeiro":  "08:33",
+                     "ultimo":  "14:43",
+                     "tv":  "04:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -165,21 +180,6 @@ window.PAINEL = {
                      "primeiro":  "08:55",
                      "ultimo":  "12:26",
                      "tv":  "02:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Rachel",
-                     "setor":  "CIRCUITO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  44.34,
-                     "semPed":  4,
-                     "perc":  80,
-                     "primeiro":  "08:33",
-                     "ultimo":  "13:19",
-                     "tv":  "03:11:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -528,6 +528,15 @@ window.PAINEL = {
                          "dur":  "00:21:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "14:09:42",
+                         "out":  "14:53:13",
+                         "km":  0,
+                         "dur":  "00:43:00"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
@@ -870,6 +879,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "12:38:01",
+                         "out":  "14:50:51",
+                         "km":  9.75,
+                         "dur":  "02:12:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "B.R. DOMINGUES",
                          "mun":  "SANTO ANTONIO D",
@@ -913,6 +931,15 @@ window.PAINEL = {
                          "out":  "13:19:56",
                          "km":  16.04,
                          "dur":  "01:05:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "J. L. DAOLIO",
+                         "mun":  "HOLAMBRA",
+                         "in":  "13:24:09",
+                         "out":  "14:43:09",
+                         "km":  1.49,
+                         "dur":  "01:18:00"
                      },
                      {
                          "nome":  "Sao Carlos",
@@ -1400,6 +1427,14 @@ window.PAINEL = {
                         "tempo":  "01:11:15"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:53",
+                        "final":  "14:54",
+                        "tempo":  "01:00:18"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1453,15 +1488,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:24"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:00"
+                        "tempo":  "01:29:17"
                     },
                     {
                         "nome":  "Karina",
@@ -1469,7 +1496,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:13"
+                        "tempo":  "01:00:06"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1477,7 +1504,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:37"
+                        "tempo":  "00:58:30"
                     },
                     {
                         "nome":  "Aline",
@@ -1485,7 +1512,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:50"
+                        "tempo":  "00:46:43"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:09"
                     }
                 ],
     "semped":  [
@@ -1529,6 +1564,12 @@ window.PAINEL = {
                        "nome":  "Eduardo",
                        "razao":  "IRMAOS BOA LTDA - LJ.05",
                        "mun":  "CABREUVA",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                       "mun":  "CAMPINAS",
                        "obs":  "estocado"
                    },
                    {
@@ -1618,94 +1659,76 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:29:35"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:51:05"
+                         "tempo":  "01:06:00"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:02:13"
+                         "tempo":  "01:17:08"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:39:42"
+                         "tempo":  "00:54:37"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:34:49"
+                         "tempo":  "01:49:44"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "CERQUILHO",
-                         "tempo":  "00:28:12"
-                     },
-                     {
-                         "nome":  "Rachel",
-                         "razao":  "J. L. DAOLIO",
-                         "mun":  "HOLAMBRA",
-                         "tempo":  "01:15:08"
+                         "tempo":  "00:43:07"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:12:20"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "02:01:16"
+                         "tempo":  "00:27:15"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:23:41"
+                         "tempo":  "00:38:36"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:37:34"
+                         "tempo":  "00:52:29"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
                          "mun":  "IBATE",
-                         "tempo":  "00:03:35"
+                         "tempo":  "00:18:30"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:12:15"
+                         "tempo":  "00:27:10"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "JURACI BARNABE DA SILVA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:53:51"
+                         "tempo":  "01:08:46"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "COMERCIAL MEDEIROS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:25:43"
+                         "tempo":  "00:40:38"
                      }
                  ],
     "hist":  [
@@ -1811,8 +1834,8 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     96,
-                     21
+                     99,
+                     22
                  ]
              ],
     "historico":  {
@@ -16176,7 +16199,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16254,19 +16277,28 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  5,
+                                                       "vi":  6,
                                                        "pe":  0,
-                                                       "km":  101.51,
-                                                       "tv":  220
+                                                       "km":  111.26,
+                                                       "tv":  352
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  7,
+                                                       "vi":  8,
                                                        "pe":  1,
                                                        "km":  110.71,
-                                                       "tv":  189
+                                                       "tv":  232
+                                                   },
+                                                   {
+                                                       "nome":  "Rachel",
+                                                       "setor":  "CIRCUITO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  6,
+                                                       "pe":  2,
+                                                       "km":  45.83,
+                                                       "tv":  269
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -16276,15 +16308,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  68.92,
                                                        "tv":  170
-                                                   },
-                                                   {
-                                                       "nome":  "Rachel",
-                                                       "setor":  "CIRCUITO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  5,
-                                                       "pe":  1,
-                                                       "km":  44.34,
-                                                       "tv":  191
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -16521,6 +16544,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  63.33,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  43
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -16789,6 +16819,13 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                                         "p":  1,
+                                                         "km":  9.75,
+                                                         "tv":  132
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "B.R. DOMINGUES",
                                                          "p":  0,
@@ -16822,6 +16859,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  16.04,
                                                          "tv":  65
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "J. L. DAOLIO",
+                                                         "p":  1,
+                                                         "km":  1.49,
+                                                         "tv":  78
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",
