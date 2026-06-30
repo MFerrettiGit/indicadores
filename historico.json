@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "08:00",
+                       "dataHora":  "08:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14369,6 +14369,15 @@
                                      "pe":  0,
                                      "km":  21.42,
                                      "tv":  29
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  46.59,
+                                     "tv":  48
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14416,15 +14425,6 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  1.34,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alex A.",
                                      "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
@@ -14466,7 +14466,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  41.51,
                                      "tv":  0
                                  },
                                  {
@@ -14493,7 +14493,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  21.13,
                                      "tv":  0
                                  },
                                  {
@@ -14502,16 +14502,25 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
+                                     "km":  0.43,
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.53,
                                      "tv":  0
                                  },
                                  {
@@ -14529,16 +14538,7 @@
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
+                                     "km":  0.5,
                                      "tv":  0
                                  },
                                  {
@@ -14547,16 +14547,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.53,
+                                     "km":  0.88,
                                      "tv":  0
                                  },
                                  {
@@ -14576,6 +14567,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
                                  }
                              ],
                        "cli":  [
@@ -14585,6 +14585,13 @@
                                        "p":  1,
                                        "km":  21.42,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DEFAVARI LTDA.",
+                                       "p":  1,
+                                       "km":  45.25,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Milene",
