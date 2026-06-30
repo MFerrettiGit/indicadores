@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14383,10 +14383,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  76.9,
-                                     "tv":  350
+                                     "km":  79.56,
+                                     "tv":  398
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -14403,7 +14403,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  32.38,
+                                     "km":  33.28,
                                      "tv":  367
                                  },
                                  {
@@ -14734,6 +14734,13 @@
                                        "tv":  43
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA - LJ.03",
+                                       "p":  0,
+                                       "km":  62.62,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.05",
                                        "p":  1,
@@ -14865,6 +14872,13 @@
                                        "p":  1,
                                        "km":  5.55,
                                        "tv":  66
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  2.66,
+                                       "tv":  48
                                    },
                                    {
                                        "n":  "Vinicius",

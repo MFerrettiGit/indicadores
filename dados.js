@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -38,14 +38,14 @@ window.PAINEL = {
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  76.9,
+                     "visitas":  7,
+                     "km":  79.56,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:20",
-                     "ultimo":  "16:06",
-                     "tv":  "05:50:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:08",
+                     "tv":  "06:38:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  32.38,
+                     "km":  33.28,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:03",
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "16:17",
                      "tv":  "03:57:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -564,6 +564,15 @@ window.PAINEL = {
                          "dur":  "00:43:00"
                      },
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "IRMAOS BOA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "in":  "15:47:09",
+                         "out":  "17:10:41",
+                         "km":  62.62,
+                         "dur":  "01:23:00"
+                     },
+                     {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.05",
                          "mun":  "CABREUVA",
@@ -733,6 +742,15 @@ window.PAINEL = {
                          "out":  "16:06:49",
                          "km":  5.55,
                          "dur":  "01:06:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "16:19:37",
+                         "out":  "17:08:00",
+                         "km":  2.66,
+                         "dur":  "00:48:00"
                      },
                      {
                          "nome":  "Vinicius",
@@ -1482,6 +1500,14 @@ window.PAINEL = {
                         "tempo":  "01:41:27"
                     },
                     {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  "15:18",
+                        "final":  "17:00",
+                        "tempo":  "01:41:44"
+                    },
+                    {
                         "nome":  "Eugenio",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1718,8 +1744,8 @@ window.PAINEL = {
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  "13:27",
-                        "final":  "14:33",
-                        "tempo":  "01:06:18"
+                        "final":  "17:03",
+                        "tempo":  "03:36:47"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1738,20 +1764,12 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
-                        "nome":  "Maira",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:37:05"
-                    },
-                    {
                         "nome":  "Costa",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:04:45"
+                        "tempo":  "01:19:39"
                     },
                     {
                         "nome":  "Rachel",
@@ -1759,7 +1777,23 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:42"
+                        "tempo":  "01:08:36"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "pedidos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:34"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "santa barbara",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:18"
                     }
                 ],
     "semped":  [
@@ -1809,6 +1843,12 @@ window.PAINEL = {
                        "nome":  "Eduardo",
                        "razao":  "SUPERMERCADOS DALBEN LTDA.",
                        "mun":  "CAMPINAS",
+                       "obs":  "estocado"
+                   },
+                   {
+                       "nome":  "Eduardo",
+                       "razao":  "IRMAOS BOA LTDA - LJ.03",
+                       "mun":  "JUNDIAI",
                        "obs":  "estocado"
                    },
                    {
@@ -1919,43 +1959,37 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:07:03"
-                     },
-                     {
-                         "nome":  "Silmara",
-                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:34:35"
+                         "tempo":  "01:21:59"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "IRMAOS RUSCITO LTDA.",
                          "mun":  "IBATE",
-                         "tempo":  "00:46:45"
+                         "tempo":  "01:01:41"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPERMERCADO CAMP. WENG LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:34:26"
+                         "tempo":  "00:49:22"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:52:15"
+                         "tempo":  "01:07:11"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "V.V. CALLEGARI  LTDA - EPP",
                          "mun":  "RAFARD",
-                         "tempo":  "00:26:08"
+                         "tempo":  "00:41:04"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "JR ELEUTERIO EMBALAGENS",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:23:06"
+                         "tempo":  "00:38:02"
                      }
                  ],
     "hist":  [
@@ -2061,7 +2095,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     122,
+                     123,
                      25
                  ]
              ],
@@ -16426,7 +16460,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16450,10 +16484,10 @@ window.PAINEL = {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  76.9,
-                                                       "tv":  350
+                                                       "km":  79.56,
+                                                       "tv":  398
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -16470,7 +16504,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  32.38,
+                                                       "km":  33.28,
                                                        "tv":  367
                                                    },
                                                    {
@@ -16801,6 +16835,13 @@ window.PAINEL = {
                                                          "tv":  43
                                                      },
                                                      {
+                                                         "n":  "Eduardo",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.03",
+                                                         "p":  0,
+                                                         "km":  62.62,
+                                                         "tv":  83
+                                                     },
+                                                     {
                                                          "n":  "Eliana",
                                                          "r":  "IRMAOS BOA LTDA - LJ.05",
                                                          "p":  1,
@@ -16932,6 +16973,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.55,
                                                          "tv":  66
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                                         "p":  1,
+                                                         "km":  2.66,
+                                                         "tv":  48
                                                      },
                                                      {
                                                          "n":  "Vinicius",
