@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14470,6 +14470,15 @@
                                      "tv":  170
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  96.36,
+                                     "tv":  271
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -14477,15 +14486,6 @@
                                      "pe":  2,
                                      "km":  11.36,
                                      "tv":  240
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  71.13,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -14893,6 +14893,13 @@
                                        "p":  1,
                                        "km":  3.68,
                                        "tv":  40
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  25.23,
+                                       "tv":  85
                                    },
                                    {
                                        "n":  "Fernando",

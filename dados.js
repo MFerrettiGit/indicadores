@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "15:30",
+    "dataHora":  "15:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "15:05",
                      "tv":  "05:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "13:25",
                      "tv":  "05:37:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Eliana",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "15:13",
                      "tv":  "06:24:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,8 +165,8 @@ window.PAINEL = {
                      "primeiro":  "08:33",
                      "ultimo":  "14:43",
                      "tv":  "04:29:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -181,6 +181,21 @@ window.PAINEL = {
                      "ultimo":  "12:26",
                      "tv":  "02:50:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  96.36,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:04",
+                     "ultimo":  "15:27",
+                     "tv":  "04:31:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -199,21 +214,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  71.13,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:04",
-                     "ultimo":  "12:14",
-                     "tv":  "03:06:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Fernando",
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "15:02",
                      "tv":  "04:30:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -769,6 +769,15 @@ window.PAINEL = {
                          "out":  "12:14:05",
                          "km":  3.68,
                          "dur":  "00:40:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "in":  "14:01:43",
+                         "out":  "15:27:46",
+                         "km":  25.23,
+                         "dur":  "01:25:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -1377,6 +1386,14 @@ window.PAINEL = {
                         "tempo":  "00:59:46"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  "14:54",
+                        "final":  "15:37",
+                        "tempo":  "00:42:30"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a São Joaquim",
@@ -1473,6 +1490,14 @@ window.PAINEL = {
                         "tempo":  "01:00:47"
                     },
                     {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "14:08",
+                        "final":  "15:28",
+                        "tempo":  "01:19:18"
+                    },
+                    {
                         "nome":  "Evandro",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1561,28 +1586,12 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
-                        "nome":  "Aline",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:16:54"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Em Viagem",
-                        "obs":  "amparo",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:31:20"
-                    },
-                    {
                         "nome":  "Cominato",
                         "tipo":  "Proposta",
                         "obs":  "Enviando propostas para meus principais clientes",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:45"
+                        "tempo":  "00:31:33"
                     },
                     {
                         "nome":  "Maira",
@@ -1590,7 +1599,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:00"
+                        "tempo":  "00:21:48"
                     }
                 ],
     "semped":  [
@@ -1732,67 +1741,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.25",
                          "mun":  "ARARAS",
-                         "tempo":  "00:06:33"
+                         "tempo":  "00:21:30"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:47:10"
+                         "tempo":  "02:02:07"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:24:39"
+                         "tempo":  "01:39:36"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:12:35"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:03:10"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.22",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:23:54"
+                         "tempo":  "00:38:51"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "J L DAOLIO E CIA LTDA",
+                         "mun":  "AMPARO",
+                         "tempo":  "00:01:26"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:57:17"
+                         "tempo":  "01:12:14"
                      },
                      {
-                         "nome":  "Costa",
-                         "razao":  "SUPERMERCADOS REX LTDA.",
-                         "mun":  "LEME",
-                         "tempo":  "01:22:31"
+                         "nome":  "Fernando",
+                         "razao":  "MIALICH SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:00:11"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "GUEDES PRODUTOS FARMACEUTICOS LTDA",
                          "mun":  "IBATE",
-                         "tempo":  "00:48:32"
+                         "tempo":  "01:03:29"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:57:12"
+                         "tempo":  "01:12:09"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO ARMELIN LTDA",
                          "mun":  "RAFARD",
-                         "tempo":  "00:07:00"
+                         "tempo":  "00:21:57"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCERIA PADARIA E CONFEITARIA RODRIGUES",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:10:58"
+                         "tempo":  "00:25:55"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "TEL COMERCIO DE ALIMENTOS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:27:53"
+                         "tempo":  "00:42:50"
                      }
                  ],
     "hist":  [
@@ -1898,7 +1925,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     105,
+                     106,
                      22
                  ]
              ],
@@ -16263,7 +16290,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "15:30",
+                                         "dataHora":  "15:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16374,6 +16401,15 @@ window.PAINEL = {
                                                        "tv":  170
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  96.36,
+                                                       "tv":  271
+                                                   },
+                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
@@ -16381,15 +16417,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  11.36,
                                                        "tv":  240
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  71.13,
-                                                       "tv":  186
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -16797,6 +16824,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.68,
                                                          "tv":  40
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERCADOS REX LTDA.",
+                                                         "p":  1,
+                                                         "km":  25.23,
+                                                         "tv":  85
                                                      },
                                                      {
                                                          "n":  "Fernando",
