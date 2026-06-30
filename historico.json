@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14398,6 +14398,15 @@
                                      "tv":  245
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  58.84,
+                                     "tv":  256
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -14407,22 +14416,13 @@
                                      "tv":  179
                                  },
                                  {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  47.23,
-                                     "tv":  195
-                                 },
-                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  50.45,
-                                     "tv":  181
+                                     "km":  51.61,
+                                     "tv":  270
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -14437,10 +14437,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  97.41,
-                                     "tv":  193
+                                     "km":  101.51,
+                                     "tv":  220
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -14473,10 +14473,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  8.98,
-                                     "tv":  200
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  11.36,
+                                     "tv":  240
                                  },
                                  {
                                      "nome":  "Costa",
@@ -14551,6 +14551,15 @@
                                      "tv":  135
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  22.45,
+                                     "tv":  100
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -14567,15 +14576,6 @@
                                      "pe":  1,
                                      "km":  48.88,
                                      "tv":  55
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  17.6,
-                                     "tv":  56
                                  }
                              ],
                        "cli":  [
@@ -14697,6 +14697,13 @@
                                        "p":  1,
                                        "km":  21.89,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  11.61,
+                                       "tv":  61
                                    },
                                    {
                                        "n":  "Evandro",
@@ -14888,6 +14895,13 @@
                                        "tv":  54
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.1,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "B.R. DOMINGUES",
                                        "p":  0,
@@ -14928,6 +14942,13 @@
                                        "p":  0,
                                        "km":  1.23,
                                        "tv":  29
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "CESAR ANTONIO LUCHESI-ME.",
+                                       "p":  1,
+                                       "km":  2.38,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Alan",
@@ -15054,6 +15075,13 @@
                                        "p":  1,
                                        "km":  17.6,
                                        "tv":  56
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "G. MARINO DE OLIVEIRA LTDA",
+                                       "p":  1,
+                                       "km":  4.85,
+                                       "tv":  44
                                    },
                                    {
                                        "n":  "Nelson",
