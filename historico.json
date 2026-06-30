@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14398,6 +14398,15 @@
                                      "tv":  181
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  39.79,
+                                     "tv":  148
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -14414,15 +14423,6 @@
                                      "pe":  0,
                                      "km":  25.34,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.05,
-                                     "tv":  63
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -14446,19 +14446,19 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  21.46,
-                                     "tv":  84
+                                     "km":  31.88,
+                                     "tv":  130
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  27.16,
-                                     "tv":  91
+                                     "km":  28.3,
+                                     "tv":  110
                                  },
                                  {
                                      "nome":  "Luis",
@@ -14470,6 +14470,15 @@
                                      "tv":  79
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  7.75,
+                                     "tv":  171
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -14477,15 +14486,6 @@
                                      "pe":  1,
                                      "km":  41.51,
                                      "tv":  53
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  2.63,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -14506,6 +14506,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  15.01,
+                                     "tv":  120
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -14513,15 +14522,6 @@
                                      "pe":  3,
                                      "km":  64.91,
                                      "tv":  83
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  13.18,
-                                     "tv":  84
                                  },
                                  {
                                      "nome":  "Alan",
@@ -14650,6 +14650,13 @@
                                        "tv":  17
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  0,
+                                       "km":  10.42,
+                                       "tv":  46
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.05",
                                        "p":  1,
@@ -14713,6 +14720,13 @@
                                        "tv":  63
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "REDE BOM LUGAR - CD ATA MERC. GERAL LTDA",
+                                       "p":  1,
+                                       "km":  1.74,
+                                       "tv":  85
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "PANTOJA",
                                        "p":  1,
@@ -14767,6 +14781,20 @@
                                        "p":  0,
                                        "km":  0.43,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "B.R. DOMINGUES",
+                                       "p":  0,
+                                       "km":  1.14,
+                                       "tv":  19
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO MIAMI LTDA-EPP.",
+                                       "p":  1,
+                                       "km":  5.12,
+                                       "tv":  171
                                    },
                                    {
                                        "n":  "Alan",
@@ -14830,6 +14858,13 @@
                                        "p":  1,
                                        "km":  12.29,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO CONVEM DE PERDOES LTDA.",
+                                       "p":  1,
+                                       "km":  1.83,
+                                       "tv":  36
                                    },
                                    {
                                        "n":  "Lucas",
