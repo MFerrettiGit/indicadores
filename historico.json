@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14380,6 +14380,15 @@
                                      "tv":  197
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  66.32,
+                                     "tv":  191
+                                 },
+                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -14396,15 +14405,6 @@
                                      "pe":  0,
                                      "km":  20.2,
                                      "tv":  179
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  64.14,
-                                     "tv":  168
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -14452,6 +14452,15 @@
                                      "tv":  168
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  1,
+                                     "km":  66.61,
+                                     "tv":  153
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -14459,15 +14468,6 @@
                                      "pe":  0,
                                      "km":  28.3,
                                      "tv":  126
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  1,
-                                     "km":  66.33,
-                                     "tv":  133
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14536,10 +14536,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  16.8,
-                                     "tv":  58
+                                     "km":  37.1,
+                                     "tv":  93
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -14613,6 +14613,13 @@
                                        "p":  1,
                                        "km":  2.24,
                                        "tv":  109
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.16,
+                                       "tv":  89
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -14755,6 +14762,13 @@
                                        "tv":  46
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  2.18,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "COOP CONS POPULAR DE CERQUILHO",
                                        "p":  1,
@@ -14830,6 +14844,13 @@
                                        "p":  0,
                                        "km":  1.64,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "ODALTIR DE MEDEIROS",
+                                       "p":  0,
+                                       "km":  0.28,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Maira",
@@ -14970,6 +14991,13 @@
                                        "p":  0,
                                        "km":  7.29,
                                        "tv":  36
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "POLIZEL E CIA LTDA",
+                                       "p":  0,
+                                       "km":  20.3,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Eugenio",
