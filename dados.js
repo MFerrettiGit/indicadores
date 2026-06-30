@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "14:00",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -61,7 +61,7 @@ window.PAINEL = {
                      "ultimo":  "13:25",
                      "tv":  "05:37:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Edimilson",
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "07:03",
                      "ultimo":  "12:11",
                      "tv":  "04:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -143,14 +143,14 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  47.38,
+                     "visitas":  7,
+                     "km":  110.71,
                      "semPed":  6,
-                     "perc":  100,
+                     "perc":  85.71,
                      "primeiro":  "07:41",
-                     "ultimo":  "11:38",
-                     "tv":  "02:48:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:02",
+                     "tv":  "03:09:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:55",
                      "tv":  "04:00:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -210,8 +210,8 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "12:14",
                      "tv":  "03:06:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Fernando",
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "12:40",
                      "tv":  "03:43:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "13:50",
                      "tv":  "04:12:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -271,7 +271,7 @@ window.PAINEL = {
                      "ultimo":  "13:04",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "12:35",
                      "tv":  "03:06:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -346,7 +346,7 @@ window.PAINEL = {
                      "ultimo":  "13:18",
                      "tv":  "04:13:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Nelson",
@@ -517,6 +517,15 @@ window.PAINEL = {
                          "out":  "11:38:11",
                          "km":  15.5,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:41:34",
+                         "out":  "14:02:55",
+                         "km":  63.33,
+                         "dur":  "00:21:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -1357,6 +1366,14 @@ window.PAINEL = {
                         "tempo":  "01:11:15"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:01",
+                        "final":  "14:04",
+                        "tempo":  "01:03:37"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "",
@@ -1381,20 +1398,12 @@ window.PAINEL = {
                         "tempo":  "01:00:11"
                     },
                     {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:25"
-                    },
-                    {
                         "nome":  "Luis",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:14"
+                        "tempo":  "00:47:11"
                     },
                     {
                         "nome":  "Maira",
@@ -1402,7 +1411,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:16"
+                        "tempo":  "00:44:13"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1410,7 +1419,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:31"
+                        "tempo":  "00:43:28"
                     },
                     {
                         "nome":  "Nelson",
@@ -1418,7 +1427,7 @@ window.PAINEL = {
                         "obs":  "Tatui a Itapetininga",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:25"
+                        "tempo":  "00:27:22"
                     },
                     {
                         "nome":  "Silmara",
@@ -1426,7 +1435,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:52"
+                        "tempo":  "00:16:49"
                     },
                     {
                         "nome":  "Karina",
@@ -1434,7 +1443,31 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:05"
+                        "tempo":  "00:15:02"
+                    },
+                    {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:26"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "São Carlos a Ibaté",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:07:23"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:39"
                     }
                 ],
     "semped":  [
@@ -1561,52 +1594,64 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Eduardo",
-                         "razao":  "SUPERMERCADOS DALBEN LTDA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:12:42"
-                     },
-                     {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:06:04"
+                         "tempo":  "00:21:00"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:12"
+                         "tempo":  "00:32:08"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
+                         "mun":  "INDAIATUBA",
+                         "tempo":  "00:09:37"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:49:48"
+                         "tempo":  "01:04:44"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J. L. DAOLIO",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:30:07"
+                         "tempo":  "00:45:03"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:16:15"
+                         "tempo":  "01:31:11"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "tempo":  "00:07:29"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:43"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "JURACI BARNABE DA SILVA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:08:50"
+                         "tempo":  "00:23:46"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:23:54"
+                         "tempo":  "00:38:50"
                      }
                  ],
     "hist":  [
@@ -1712,7 +1757,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     93,
+                     94,
                      20
                  ]
              ],
@@ -16077,7 +16122,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "14:00",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16164,10 +16209,10 @@ window.PAINEL = {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  6,
-                                                       "pe":  0,
-                                                       "km":  47.38,
-                                                       "tv":  168
+                                                       "vi":  7,
+                                                       "pe":  1,
+                                                       "km":  110.71,
+                                                       "tv":  189
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -16415,6 +16460,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  15.5,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA",
+                                                         "p":  1,
+                                                         "km":  63.33,
+                                                         "tv":  21
                                                      },
                                                      {
                                                          "n":  "Eliana",

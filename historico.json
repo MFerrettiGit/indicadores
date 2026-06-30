@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "14:00",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14446,10 +14446,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  6,
-                                     "pe":  0,
-                                     "km":  47.38,
-                                     "tv":  168
+                                     "vi":  7,
+                                     "pe":  1,
+                                     "km":  110.71,
+                                     "tv":  189
                                  },
                                  {
                                      "nome":  "Luis",
@@ -14697,6 +14697,13 @@
                                        "p":  0,
                                        "km":  15.5,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  63.33,
+                                       "tv":  21
                                    },
                                    {
                                        "n":  "Eliana",
