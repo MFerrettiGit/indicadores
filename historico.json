@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14389,6 +14389,15 @@
                                      "tv":  135
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  50.45,
+                                     "tv":  181
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -14405,15 +14414,6 @@
                                      "pe":  0,
                                      "km":  25.34,
                                      "tv":  115
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  48.21,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -14461,6 +14461,15 @@
                                      "tv":  91
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  63.16,
+                                     "tv":  79
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -14468,15 +14477,6 @@
                                      "pe":  1,
                                      "km":  41.51,
                                      "tv":  53
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  62.95,
-                                     "tv":  58
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -14506,6 +14506,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  64.91,
+                                     "tv":  83
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -14515,6 +14524,15 @@
                                      "tv":  84
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  19.87,
+                                     "tv":  102
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -14522,24 +14540,6 @@
                                      "pe":  0,
                                      "km":  16.8,
                                      "tv":  58
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.75,
-                                     "tv":  30
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  7.57,
-                                     "tv":  35
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -14599,6 +14599,13 @@
                                        "p":  1,
                                        "km":  48.21,
                                        "tv":  72
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.24,
+                                       "tv":  109
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -14720,6 +14727,13 @@
                                        "tv":  58
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA",
+                                       "p":  0,
+                                       "km":  0.21,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -14762,6 +14776,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "ILIDIA MARIA DE FARIA LTDA",
+                                       "p":  1,
+                                       "km":  12.3,
+                                       "tv":  67
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1,
@@ -14774,6 +14795,13 @@
                                        "p":  1,
                                        "km":  0.65,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1,
+                                       "km":  24.16,
+                                       "tv":  53
                                    },
                                    {
                                        "n":  "Cominato",
