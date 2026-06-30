@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "14:15",
+    "dataHora":  "14:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "13:36",
                      "tv":  "04:08:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "07:41",
                      "ultimo":  "14:02",
                      "tv":  "03:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "12:26",
                      "tv":  "02:50:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:28",
                      "ultimo":  "12:40",
                      "tv":  "03:43:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -259,6 +259,21 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
+                     "nome":  "Alan",
+                     "setor":  "CAMPINAS NORTE",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  48.73,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:01",
+                     "ultimo":  "14:17",
+                     "tv":  "03:28:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -271,21 +286,6 @@ window.PAINEL = {
                      "ultimo":  "13:04",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Alan",
-                     "setor":  "CAMPINAS NORTE",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  39.1,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:01",
-                     "ultimo":  "12:35",
-                     "tv":  "03:06:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -360,8 +360,8 @@ window.PAINEL = {
                      "primeiro":  "09:05",
                      "ultimo":  "12:32",
                      "tv":  "03:08:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -978,6 +978,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                         "mun":  "CAMPINAS",
+                         "in":  "13:55:29",
+                         "out":  "14:17:59",
+                         "km":  9.63,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Castro",
                          "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                          "mun":  "CAJAMAR",
@@ -1270,6 +1279,14 @@ window.PAINEL = {
                         "tempo":  "00:48:26"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "13:23",
+                        "final":  "14:16",
+                        "tempo":  "00:52:36"
+                    },
+                    {
                         "nome":  "Lucas",
                         "tipo":  "Em Viagem",
                         "obs":  "capivari",
@@ -1300,6 +1317,14 @@ window.PAINEL = {
                         "inicio":  "12:46",
                         "final":  "13:42",
                         "tempo":  "00:56:26"
+                    },
+                    {
+                        "nome":  "Nelson",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Tatui a Itapetininga",
+                        "inicio":  "13:43",
+                        "final":  "14:12",
+                        "tempo":  "00:29:14"
                     },
                     {
                         "nome":  "Castro",
@@ -1398,20 +1423,12 @@ window.PAINEL = {
                         "tempo":  "01:00:11"
                     },
                     {
-                        "nome":  "Luis",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:11"
-                    },
-                    {
                         "nome":  "Maira",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:13"
+                        "tempo":  "00:59:16"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1419,15 +1436,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:43:28"
-                    },
-                    {
-                        "nome":  "Nelson",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Tatui a Itapetininga",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:27:22"
+                        "tempo":  "00:58:31"
                     },
                     {
                         "nome":  "Silmara",
@@ -1435,7 +1444,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:49"
+                        "tempo":  "00:31:52"
                     },
                     {
                         "nome":  "Karina",
@@ -1443,7 +1452,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:02"
+                        "tempo":  "00:30:05"
                     },
                     {
                         "nome":  "Eugenio",
@@ -1451,7 +1460,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:26"
+                        "tempo":  "00:28:29"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1459,7 +1468,7 @@ window.PAINEL = {
                         "obs":  "São Carlos a Ibaté",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:23"
+                        "tempo":  "00:22:26"
                     },
                     {
                         "nome":  "Aline",
@@ -1467,7 +1476,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:39"
+                        "tempo":  "00:16:42"
                     }
                 ],
     "semped":  [
@@ -1594,64 +1603,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:34"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.24",
                          "mun":  "ARARAS",
-                         "tempo":  "00:21:00"
+                         "tempo":  "00:36:04"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:32:08"
+                         "tempo":  "00:47:12"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:09:37"
+                         "tempo":  "00:24:41"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.06",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:04:44"
+                         "tempo":  "01:19:48"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADO DELTA MAX LTDA",
+                         "mun":  "CERQUILHO",
+                         "tempo":  "00:13:11"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "J. L. DAOLIO",
                          "mun":  "HOLAMBRA",
-                         "tempo":  "00:45:03"
+                         "tempo":  "01:00:07"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:31:11"
+                         "tempo":  "01:46:15"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "ADEMIR BOGAR RIBEIRAO PRETO",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:08:40"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:07:29"
-                     },
-                     {
-                         "nome":  "Alan",
-                         "razao":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "00:13:43"
+                         "tempo":  "00:22:33"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "JURACI BARNABE DA SILVA",
                          "mun":  "CAPIVARI",
-                         "tempo":  "00:23:46"
+                         "tempo":  "00:38:50"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "COMERCIAL MEDEIROS LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:10:42"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:38:50"
+                         "tempo":  "00:53:54"
                      }
                  ],
     "hist":  [
@@ -1757,7 +1784,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     94,
+                     95,
                      20
                  ]
              ],
@@ -16122,7 +16149,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "14:15",
+                                         "dataHora":  "14:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16278,6 +16305,15 @@ window.PAINEL = {
                                                        "tv":  252
                                                    },
                                                    {
+                                                       "nome":  "Alan",
+                                                       "setor":  "CAMPINAS NORTE",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  5,
+                                                       "km":  48.73,
+                                                       "tv":  208
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -16285,15 +16321,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  75.79,
                                                        "tv":  226
-                                                   },
-                                                   {
-                                                       "nome":  "Alan",
-                                                       "setor":  "CAMPINAS NORTE",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  4,
-                                                       "km":  39.1,
-                                                       "tv":  186
                                                    },
                                                    {
                                                        "nome":  "Mariangela",
@@ -16817,6 +16844,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  6.99,
                                                          "tv":  39
+                                                     },
+                                                     {
+                                                         "n":  "Alan",
+                                                         "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                                                         "p":  1,
+                                                         "km":  9.63,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Castro",

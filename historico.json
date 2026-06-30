@@ -14359,7 +14359,7 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -14515,6 +14515,15 @@
                                      "tv":  252
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  48.73,
+                                     "tv":  208
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -14522,15 +14531,6 @@
                                      "pe":  5,
                                      "km":  75.79,
                                      "tv":  226
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  39.1,
-                                     "tv":  186
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -15054,6 +15054,13 @@
                                        "p":  1,
                                        "km":  6.99,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ROSSIN DISTRIBUIDORA ATACADISTA LTDA.",
+                                       "p":  1,
+                                       "km":  9.63,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Castro",
