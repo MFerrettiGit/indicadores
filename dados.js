@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  96.36,
+                     "km":  99.61,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:04",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  72.71,
+                     "km":  82.47,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:28",
@@ -324,7 +324,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  101.14,
+                     "km":  102.53,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:05",
@@ -1833,20 +1833,28 @@ window.PAINEL = {
                         "tempo":  "00:31:59"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "ibate a São Carlos",
+                        "inicio":  "17:37",
+                        "final":  "18:08",
+                        "tempo":  "00:31:01"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Digitacao Pedido",
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:18"
+                        "tempo":  "01:06:41"
                     },
                     {
                         "nome":  "Sao Carlos",
-                        "tipo":  "Em Viagem",
-                        "obs":  "ibate a São Carlos",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "digitando pedido",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:18:44"
+                        "tempo":  "00:01:47"
                     }
                 ],
     "semped":  [
@@ -16478,7 +16486,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16603,7 +16611,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  96.36,
+                                                       "km":  99.61,
                                                        "tv":  271
                                                    },
                                                    {
@@ -16612,7 +16620,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  72.71,
+                                                       "km":  82.47,
                                                        "tv":  335
                                                    },
                                                    {
@@ -16675,7 +16683,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  5,
                                                        "pe":  5,
-                                                       "km":  101.14,
+                                                       "km":  102.53,
                                                        "tv":  345
                                                    },
                                                    {
