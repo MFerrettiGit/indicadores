@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -188,15 +188,15 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  26.32,
+                     "visitas":  5,
+                     "km":  26.89,
                      "semPed":  2,
-                     "perc":  50,
+                     "perc":  40,
                      "primeiro":  "07:34",
-                     "ultimo":  "15:46",
-                     "tv":  "05:10:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "17:36",
+                     "tv":  "06:39:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Costa",
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  31.68,
+                     "km":  39.89,
                      "semPed":  1,
                      "perc":  14.29,
                      "primeiro":  "08:01",
@@ -270,6 +270,21 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "17:25",
                      "tv":  "06:18:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  6,
+                     "km":  49.78,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:53",
+                     "ultimo":  "17:33",
+                     "tv":  "06:43:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -301,21 +316,6 @@ window.PAINEL = {
                      "ultimo":  "13:04",
                      "tv":  "03:46:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  48.71,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:53",
-                     "ultimo":  "16:25",
-                     "tv":  "05:39:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1131,6 +1131,15 @@ window.PAINEL = {
                          "dur":  "01:10:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "IRMAOS RUSCITO LTDA.",
+                         "mun":  "IBATE",
+                         "in":  "16:07:27",
+                         "out":  "17:36:35",
+                         "km":  0.57,
+                         "dur":  "01:29:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -1408,6 +1417,15 @@ window.PAINEL = {
                          "out":  "16:25:47",
                          "km":  1.76,
                          "dur":  "01:08:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "V.V. CALLEGARI  LTDA - EPP",
+                         "mun":  "RAFARD",
+                         "in":  "16:28:04",
+                         "out":  "17:33:42",
+                         "km":  1.07,
+                         "dur":  "01:04:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -1795,7 +1813,7 @@ window.PAINEL = {
                         "obs":  "daolio",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:26:29"
+                        "tempo":  "01:38:57"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1803,7 +1821,7 @@ window.PAINEL = {
                         "obs":  "pedidos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:27"
+                        "tempo":  "00:36:55"
                     },
                     {
                         "nome":  "Maira",
@@ -1811,7 +1829,15 @@ window.PAINEL = {
                         "obs":  "santa barbara",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:11"
+                        "tempo":  "00:35:39"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Em Viagem",
+                        "obs":  "ibate a São Carlos",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:21"
                     }
                 ],
     "semped":  [
@@ -1974,22 +2000,10 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Sao Carlos",
-                         "razao":  "IRMAOS RUSCITO LTDA.",
-                         "mun":  "IBATE",
-                         "tempo":  "01:19:30"
-                     },
-                     {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:25:00"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "V.V. CALLEGARI  LTDA - EPP",
-                         "mun":  "RAFARD",
-                         "tempo":  "00:58:53"
+                         "tempo":  "01:37:16"
                      }
                  ],
     "hist":  [
@@ -2095,7 +2109,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     126,
+                     128,
                      26
                  ]
              ],
@@ -16460,7 +16474,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16574,10 +16588,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  2,
-                                                       "km":  26.32,
-                                                       "tv":  310
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  26.89,
+                                                       "tv":  399
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -16612,7 +16626,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  7,
                                                        "pe":  6,
-                                                       "km":  31.68,
+                                                       "km":  39.89,
                                                        "tv":  252
                                                    },
                                                    {
@@ -16623,6 +16637,15 @@ window.PAINEL = {
                                                        "pe":  7,
                                                        "km":  53.07,
                                                        "tv":  378
+                                                   },
+                                                   {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  49.78,
+                                                       "tv":  403
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -16641,15 +16664,6 @@ window.PAINEL = {
                                                        "pe":  5,
                                                        "km":  75.79,
                                                        "tv":  226
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  48.71,
-                                                       "tv":  339
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -17276,6 +17290,13 @@ window.PAINEL = {
                                                          "tv":  70
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "IRMAOS RUSCITO LTDA.",
+                                                         "p":  1,
+                                                         "km":  0.57,
+                                                         "tv":  89
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -17491,6 +17512,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.76,
                                                          "tv":  68
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "V.V. CALLEGARI  LTDA - EPP",
+                                                         "p":  1,
+                                                         "km":  1.07,
+                                                         "tv":  64
                                                      },
                                                      {
                                                          "n":  "Mariangela",
