@@ -14359,16 +14359,16 @@
                                ]
                    },
     "2026-06-30":  {
-                       "dataHora":  "09:15",
+                       "dataHora":  "09:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  25.89,
-                                     "tv":  85
+                                     "km":  28.49,
+                                     "tv":  105
                                  },
                                  {
                                      "nome":  "Aline",
@@ -14650,6 +14650,13 @@
                                        "tv":  27
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  2.6,
+                                       "tv":  20
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                        "p":  1,
@@ -14696,6 +14703,13 @@
                                        "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                        "p":  1,
                                        "km":  40.1,
+                                       "tv":  15
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                       "p":  1,
+                                       "km":  0.65,
                                        "tv":  15
                                    },
                                    {

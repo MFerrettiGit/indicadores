@@ -1,20 +1,20 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "30/06/2026",
-    "dataHora":  "09:15",
+    "dataHora":  "09:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  25.89,
+                     "visitas":  4,
+                     "km":  28.49,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:56",
-                     "ultimo":  "08:37",
-                     "tv":  "01:25:00",
+                     "ultimo":  "09:09",
+                     "tv":  "01:45:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "06:53",
                      "ultimo":  "08:48",
                      "tv":  "01:55:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -150,7 +150,7 @@ window.PAINEL = {
                      "primeiro":  "07:41",
                      "ultimo":  "09:06",
                      "tv":  "01:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "08:37",
                      "tv":  "00:35:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:01",
                      "ultimo":  "08:58",
                      "tv":  "00:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:15",
                      "ultimo":  "08:37",
                      "tv":  "00:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -456,6 +456,15 @@ window.PAINEL = {
                          "dur":  "00:27:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "CAMPINAS",
+                         "in":  "08:48:57",
+                         "out":  "09:09:58",
+                         "km":  2.6,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADO DEFAVARI LTDA.",
                          "mun":  "RIO DAS PEDRAS",
@@ -516,6 +525,15 @@ window.PAINEL = {
                          "in":  "08:52:31",
                          "out":  "09:08:19",
                          "km":  40.1,
+                         "dur":  "00:15:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                         "mun":  "CAJAMAR",
+                         "in":  "09:09:18",
+                         "out":  "09:24:31",
+                         "km":  0.65,
                          "dur":  "00:15:00"
                      },
                      {
@@ -623,94 +641,130 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA",
+                         "mun":  "JUNDIAI",
+                         "tempo":  "00:10:14"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "PIRASSUNUNGA",
-                         "tempo":  "00:40:41"
+                         "tempo":  "00:55:38"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.30",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:10:45"
+                         "tempo":  "00:25:42"
                      },
                      {
                          "nome":  "Evandro",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:20:15"
+                         "tempo":  "00:03:50"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "CATO ANTONIALE",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:39:07"
+                         "tempo":  "00:54:04"
+                     },
+                     {
+                         "nome":  "Eliana",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:03:11"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "REDE BOM LUGAR - CD ATA MERC. GERAL LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:01:24"
+                         "tempo":  "00:16:21"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.09",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:40:03"
+                         "tempo":  "00:55:00"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:35:11"
+                         "tempo":  "00:50:08"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "B.R. DOMINGUES",
                          "mun":  "SANTO ANTONIO D",
-                         "tempo":  "00:36:08"
+                         "tempo":  "00:51:05"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "ODALTIR DE MEDEIROS",
                          "mun":  "SAO JOAQUIM DA",
-                         "tempo":  "00:13:46"
+                         "tempo":  "00:28:43"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:10:53"
+                         "tempo":  "00:25:50"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SILMELO SUPERMERCADO LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:40:46"
+                         "tempo":  "00:55:43"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO MIAMI LTDA-EPP.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:34:57"
+                         "tempo":  "01:49:54"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "O.B. DE SOUZA",
+                         "mun":  "BOM JESUS DOS P",
+                         "tempo":  "00:08:58"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "ILIDIA MARIA DE FARIA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:25"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "52.004.089 TELMA JACINTO DE ALMEIDA DOS",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:15:37"
+                         "tempo":  "00:30:34"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMERCIAL ESTEVAM S ESTEVAM LTDA",
                          "mun":  "ELIAS FAUSTO",
-                         "tempo":  "00:15:25"
+                         "tempo":  "00:30:22"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCEARIA E LANCH. NOSSA SRA DE LOURDES",
                          "mun":  "TATUI",
-                         "tempo":  "00:03:28"
+                         "tempo":  "00:18:25"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                         "mun":  "CAJAMAR",
+                         "tempo":  "00:14:51"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "MONTE BELLO",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:01:19"
                      }
                  ],
     "hist":  [
@@ -816,7 +870,7 @@ window.PAINEL = {
                  ],
                  [
                      "30/06",
-                     19,
+                     20,
                      4
                  ]
              ],
@@ -15181,16 +15235,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-06-30":  {
-                                         "dataHora":  "09:15",
+                                         "dataHora":  "09:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  25.89,
-                                                       "tv":  85
+                                                       "km":  28.49,
+                                                       "tv":  105
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -15472,6 +15526,13 @@ window.PAINEL = {
                                                          "tv":  27
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  2.6,
+                                                         "tv":  20
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "SUPERMERCADO DEFAVARI LTDA.",
                                                          "p":  1,
@@ -15518,6 +15579,13 @@ window.PAINEL = {
                                                          "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
                                                          "p":  1,
                                                          "km":  40.1,
+                                                         "tv":  15
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "COMERCIAL DE ALIMENTOS JORDMIX LTDA",
+                                                         "p":  1,
+                                                         "km":  0.65,
                                                          "tv":  15
                                                      },
                                                      {
