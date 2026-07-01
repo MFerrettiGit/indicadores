@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "16:45",
+                       "dataHora":  "17:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  118.26,
+                                     "tv":  382
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -15497,13 +15506,22 @@
                                      "tv":  343
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  91.12,
-                                     "tv":  288
+                                     "km":  66.36,
+                                     "tv":  413
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  54.77,
+                                     "tv":  466
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -15513,24 +15531,6 @@
                                      "pe":  0,
                                      "km":  14.78,
                                      "tv":  299
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  61.65,
-                                     "tv":  345
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  34.41,
-                                     "tv":  366
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -15545,10 +15545,10 @@
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  7.73,
-                                     "tv":  300
+                                     "km":  13.38,
+                                     "tv":  517
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -15635,10 +15635,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  4,
-                                     "km":  32.14,
-                                     "tv":  251
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  33.85,
+                                     "tv":  279
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -15734,6 +15734,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
+                                       "p":  1,
+                                       "km":  4.71,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -15760,6 +15767,13 @@
                                        "p":  1,
                                        "km":  2.61,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA.",
+                                       "p":  1,
+                                       "km":  20.36,
+                                       "tv":  100
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -15811,6 +15825,13 @@
                                        "tv":  117
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  5.65,
+                                       "tv":  217
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -15844,6 +15865,13 @@
                                        "p":  1,
                                        "km":  9.27,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
+                                       "p":  1,
+                                       "km":  27.14,
+                                       "tv":  94
                                    },
                                    {
                                        "n":  "Silmara",
@@ -16250,6 +16278,13 @@
                                        "p":  1,
                                        "km":  1.07,
                                        "tv":  20
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  1.71,
+                                       "tv":  28
                                    },
                                    {
                                        "n":  "Lucas",
