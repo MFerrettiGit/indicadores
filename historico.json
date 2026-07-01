@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15524,6 +15524,15 @@
                                      "tv":  305
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  79.34,
+                                     "tv":  306
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -15531,15 +15540,6 @@
                                      "pe":  0,
                                      "km":  7.73,
                                      "tv":  300
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  70.78,
-                                     "tv":  253
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -15581,10 +15581,10 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  63.13,
-                                     "tv":  101
+                                     "km":  70.45,
+                                     "tv":  131
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -15762,6 +15762,13 @@
                                        "tv":  22
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  8.56,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  0,
@@ -15886,6 +15893,13 @@
                                        "p":  0,
                                        "km":  0.74,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "J R BARROS COMERCIO LTDA",
+                                       "p":  0,
+                                       "km":  7.32,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Fernando",
