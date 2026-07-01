@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "15:30",
+                       "dataHora":  "15:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15524,6 +15524,15 @@
                                      "tv":  366
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  11.49,
+                                     "tv":  266
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -15531,15 +15540,6 @@
                                      "pe":  0,
                                      "km":  79.34,
                                      "tv":  306
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  9.86,
-                                     "tv":  216
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -15858,6 +15858,13 @@
                                        "p":  1,
                                        "km":  2.01,
                                        "tv":  41
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
+                                       "p":  1,
+                                       "km":  1.63,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Vinicius",
