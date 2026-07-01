@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -69,7 +69,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  54.77,
+                     "km":  64.02,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:02",
@@ -204,14 +204,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  6.42,
+                     "km":  8.14,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:21",
                      "ultimo":  "14:53",
                      "tv":  "03:14:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -263,14 +263,29 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  40.7,
+                     "visitas":  6,
+                     "km":  44.95,
                      "semPed":  1,
-                     "perc":  20,
+                     "perc":  16.67,
                      "primeiro":  "08:36",
-                     "ultimo":  "15:47",
-                     "tv":  "04:40:00",
-                     "emVisita":  1,
+                     "ultimo":  "18:00",
+                     "tv":  "06:06:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  13.49,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:16",
+                     "ultimo":  "18:02",
+                     "tv":  "07:53:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -304,21 +319,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  11.12,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:16",
-                     "ultimo":  "16:35",
-                     "tv":  "06:35:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -339,14 +339,14 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  3,
-                     "km":  70.97,
+                     "km":  89.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:19",
                      "ultimo":  "13:20",
                      "tv":  "04:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -1230,6 +1230,15 @@ window.PAINEL = {
                          "dur":  "01:21:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "16:33:36",
+                         "out":  "18:00:18",
+                         "km":  4.25,
+                         "dur":  "01:26:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
@@ -1264,6 +1273,15 @@ window.PAINEL = {
                          "out":  "16:35:40",
                          "km":  0.43,
                          "dur":  "01:22:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:43:24",
+                         "out":  "18:02:28",
+                         "km":  2.37,
+                         "dur":  "01:18:00"
                      }
                  ],
     "eventos":  [
@@ -1370,6 +1388,14 @@ window.PAINEL = {
                         "inicio":  "14:07",
                         "final":  "14:58",
                         "tempo":  "00:50:42"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  "16:59",
+                        "final":  "17:58",
+                        "tempo":  "00:59:18"
                     },
                     {
                         "nome":  "Cominato",
@@ -1492,28 +1518,20 @@ window.PAINEL = {
                         "tempo":  "00:59:47"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  "15:28",
+                        "final":  "18:07",
+                        "tempo":  "02:38:52"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Manutencao",
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:45:04"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Outro",
-                        "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:26:50"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:19"
+                        "tempo":  "10:00:06"
                     }
                 ],
     "semped":  [
@@ -1574,6 +1592,12 @@ window.PAINEL = {
                    {
                        "nome":  "Nelson",
                        "razao":  "EVALDO BUENO PEREIRA ITAPETININGA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente estocado"
                    },
@@ -1651,18 +1675,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:10:45"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:20:33"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1772,8 +1785,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     105,
-                     26
+                     107,
+                     27
                  ]
              ],
     "historico":  {
@@ -17263,7 +17276,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17307,7 +17320,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  54.77,
+                                                       "km":  64.02,
                                                        "tv":  466
                                                    },
                                                    {
@@ -17388,7 +17401,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  6.42,
+                                                       "km":  8.14,
                                                        "tv":  194
                                                    },
                                                    {
@@ -17422,10 +17435,19 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
+                                                       "vi":  6,
+                                                       "pe":  5,
+                                                       "km":  44.95,
+                                                       "tv":  366
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
                                                        "vi":  5,
-                                                       "pe":  4,
-                                                       "km":  40.7,
-                                                       "tv":  280
+                                                       "pe":  3,
+                                                       "km":  13.49,
+                                                       "tv":  473
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -17446,15 +17468,6 @@ window.PAINEL = {
                                                        "tv":  194
                                                    },
                                                    {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  11.12,
-                                                       "tv":  395
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -17469,7 +17482,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  3,
                                                        "pe":  3,
-                                                       "km":  70.97,
+                                                       "km":  89.41,
                                                        "tv":  266
                                                    },
                                                    {
@@ -18156,6 +18169,13 @@ window.PAINEL = {
                                                          "tv":  81
                                                      },
                                                      {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                                                         "p":  1,
+                                                         "km":  4.25,
+                                                         "tv":  86
+                                                     },
+                                                     {
                                                          "n":  "Nelson",
                                                          "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                                          "p":  1,
@@ -18182,6 +18202,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.43,
                                                          "tv":  82
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                                                         "p":  0,
+                                                         "km":  2.37,
+                                                         "tv":  78
                                                      }
                                                  ]
                                      }

@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15529,7 +15529,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  54.77,
+                                     "km":  64.02,
                                      "tv":  466
                                  },
                                  {
@@ -15610,7 +15610,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  6.42,
+                                     "km":  8.14,
                                      "tv":  194
                                  },
                                  {
@@ -15644,10 +15644,19 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
+                                     "vi":  6,
+                                     "pe":  5,
+                                     "km":  44.95,
+                                     "tv":  366
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
                                      "vi":  5,
-                                     "pe":  4,
-                                     "km":  40.7,
-                                     "tv":  280
+                                     "pe":  3,
+                                     "km":  13.49,
+                                     "tv":  473
                                  },
                                  {
                                      "nome":  "Alan",
@@ -15668,15 +15677,6 @@
                                      "tv":  194
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  11.12,
-                                     "tv":  395
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -15691,7 +15691,7 @@
                                      "regional":  "SUL",
                                      "vi":  3,
                                      "pe":  3,
-                                     "km":  70.97,
+                                     "km":  89.41,
                                      "tv":  266
                                  },
                                  {
@@ -16378,6 +16378,13 @@
                                        "tv":  81
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                                       "p":  1,
+                                       "km":  4.25,
+                                       "tv":  86
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                        "p":  1,
@@ -16404,6 +16411,13 @@
                                        "p":  1,
                                        "km":  0.43,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
+                                       "p":  0,
+                                       "km":  2.37,
+                                       "tv":  78
                                    }
                                ]
                    }
