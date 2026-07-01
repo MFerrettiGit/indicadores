@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -64,6 +64,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Edimilson",
+                     "setor":  "PROMO-INDAIATUBA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  83.05,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:33",
+                     "ultimo":  "16:22",
+                     "tv":  "06:56:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Silmara",
                      "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
@@ -75,21 +90,6 @@ window.PAINEL = {
                      "primeiro":  "10:14",
                      "ultimo":  "15:31",
                      "tv":  "04:26:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Edimilson",
-                     "setor":  "PROMO-INDAIATUBA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  79.34,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:33",
-                     "ultimo":  "14:12",
-                     "tv":  "05:06:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -226,7 +226,7 @@ window.PAINEL = {
                      "ultimo":  "15:59",
                      "tv":  "04:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Fernando",
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  32.14,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:16",
+                     "ultimo":  "16:11",
+                     "tv":  "04:11:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Mariangela",
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
@@ -256,21 +271,6 @@ window.PAINEL = {
                      "ultimo":  "15:47",
                      "tv":  "04:40:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  31.07,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:16",
-                     "ultimo":  "15:17",
-                     "tv":  "03:51:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -465,6 +465,15 @@ window.PAINEL = {
                          "dur":  "00:53:00"
                      },
                      {
+                         "nome":  "Edimilson",
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                         "mun":  "MONTE MOR",
+                         "in":  "14:31:09",
+                         "out":  "16:22:06",
+                         "km":  3.71,
+                         "dur":  "01:50:00"
+                     },
+                     {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
@@ -571,6 +580,15 @@ window.PAINEL = {
                          "out":  "15:31:08",
                          "km":  1.63,
                          "dur":  "00:50:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                         "mun":  "AMERICANA",
+                         "in":  "15:50:37",
+                         "out":  "16:24:51",
+                         "km":  3.29,
+                         "dur":  "00:33:00"
                      },
                      {
                          "nome":  "Vinicius",
@@ -1032,6 +1050,15 @@ window.PAINEL = {
                          "dur":  "00:44:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "15:51:05",
+                         "out":  "16:11:37",
+                         "km":  1.07,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
@@ -1338,7 +1365,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:00:09"
+                        "tempo":  "08:15:04"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1346,7 +1373,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:55"
+                        "tempo":  "00:56:50"
                     },
                     {
                         "nome":  "Costa",
@@ -1354,7 +1381,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:33"
+                        "tempo":  "00:52:28"
                     },
                     {
                         "nome":  "Luis",
@@ -1362,7 +1389,15 @@ window.PAINEL = {
                         "obs":  "Rifaina a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:53"
+                        "tempo":  "00:21:48"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "Arcal",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:08:52"
                     }
                 ],
     "semped":  [
@@ -1498,79 +1533,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:58:13"
+                         "tempo":  "01:13:11"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "00:34:12"
+                         "tempo":  "00:49:10"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:54:03"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
-                         "mun":  "MONTE MOR",
-                         "tempo":  "01:38:07"
+                         "tempo":  "01:09:01"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:54:06"
+                         "tempo":  "03:09:04"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:18:39"
+                         "tempo":  "00:33:37"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "02:10:02"
+                         "tempo":  "02:25:00"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:58:04"
+                         "tempo":  "01:13:02"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:18:11"
+                         "tempo":  "00:02:02"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:52:22"
+                         "tempo":  "02:07:20"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:11:09"
+                         "tempo":  "00:26:07"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:56:22"
+                         "tempo":  "01:11:20"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:58:10"
+                         "tempo":  "01:13:08"
                      }
                  ],
     "hist":  [
@@ -1681,7 +1710,7 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     89,
+                     91,
                      25
                  ]
              ],
@@ -17172,7 +17201,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -17211,6 +17240,15 @@ window.PAINEL = {
                                                        "tv":  366
                                                    },
                                                    {
+                                                       "nome":  "Edimilson",
+                                                       "setor":  "PROMO-INDAIATUBA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  83.05,
+                                                       "tv":  416
+                                                   },
+                                                   {
                                                        "nome":  "Silmara",
                                                        "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
@@ -17218,15 +17256,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  11.49,
                                                        "tv":  266
-                                                   },
-                                                   {
-                                                       "nome":  "Edimilson",
-                                                       "setor":  "PROMO-INDAIATUBA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  79.34,
-                                                       "tv":  306
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -17319,6 +17348,15 @@ window.PAINEL = {
                                                        "tv":  223
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  32.14,
+                                                       "tv":  251
+                                                   },
+                                                   {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
@@ -17326,15 +17364,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  40.7,
                                                        "tv":  280
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  31.07,
-                                                       "tv":  231
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -17470,6 +17499,13 @@ window.PAINEL = {
                                                          "tv":  53
                                                      },
                                                      {
+                                                         "n":  "Edimilson",
+                                                         "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                                         "p":  1,
+                                                         "km":  3.71,
+                                                         "tv":  110
+                                                     },
+                                                     {
                                                          "n":  "Eduardo",
                                                          "r":  "IRMAOS BOA LTDA",
                                                          "p":  0,
@@ -17552,6 +17588,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.63,
                                                          "tv":  50
+                                                     },
+                                                     {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                                                         "p":  1,
+                                                         "km":  3.29,
+                                                         "tv":  33
                                                      },
                                                      {
                                                          "n":  "Vinicius",
@@ -17909,6 +17952,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.17,
                                                          "tv":  44
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                                         "p":  1,
+                                                         "km":  1.07,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Lucas",

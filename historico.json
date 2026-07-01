@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15524,6 +15524,15 @@
                                      "tv":  366
                                  },
                                  {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  83.05,
+                                     "tv":  416
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -15531,15 +15540,6 @@
                                      "pe":  0,
                                      "km":  11.49,
                                      "tv":  266
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  79.34,
-                                     "tv":  306
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -15632,6 +15632,15 @@
                                      "tv":  223
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  32.14,
+                                     "tv":  251
+                                 },
+                                 {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
@@ -15639,15 +15648,6 @@
                                      "pe":  4,
                                      "km":  40.7,
                                      "tv":  280
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  31.07,
-                                     "tv":  231
                                  },
                                  {
                                      "nome":  "Alan",
@@ -15783,6 +15783,13 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
+                                       "p":  1,
+                                       "km":  3.71,
+                                       "tv":  110
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "IRMAOS BOA LTDA",
                                        "p":  0,
@@ -15865,6 +15872,13 @@
                                        "p":  1,
                                        "km":  1.63,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                                       "p":  1,
+                                       "km":  3.29,
+                                       "tv":  33
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -16222,6 +16236,13 @@
                                        "p":  1,
                                        "km":  0.17,
                                        "tv":  44
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  1.07,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Lucas",
