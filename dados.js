@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "12:45",
+    "dataHora":  "13:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -83,14 +83,14 @@ window.PAINEL = {
                      "setor":  "PROMO-INDAIATUBA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  66.12,
+                     "visitas":  2,
+                     "km":  70.78,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:33",
-                     "ultimo":  "11:25",
-                     "tv":  "03:51:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:48",
+                     "tv":  "04:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -203,14 +203,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  41.25,
-                     "semPed":  0,
-                     "perc":  0,
+                     "visitas":  3,
+                     "km":  42.44,
+                     "semPed":  1,
+                     "perc":  33.33,
                      "primeiro":  "08:31",
-                     "ultimo":  "12:11",
-                     "tv":  "03:15:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:47",
+                     "tv":  "03:45:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  31.82,
+                     "visitas":  4,
+                     "km":  32.58,
                      "semPed":  1,
-                     "perc":  33.33,
+                     "perc":  25,
                      "primeiro":  "08:36",
-                     "ultimo":  "11:57",
-                     "tv":  "02:42:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:40",
+                     "tv":  "03:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -418,6 +418,15 @@ window.PAINEL = {
                          "out":  "11:25:15",
                          "km":  51.71,
                          "dur":  "03:51:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "HORTOLANDIA",
+                         "in":  "12:26:02",
+                         "out":  "12:48:46",
+                         "km":  4.66,
+                         "dur":  "00:22:00"
                      },
                      {
                          "nome":  "Eduardo",
@@ -598,6 +607,15 @@ window.PAINEL = {
                          "out":  "12:11:38",
                          "km":  24.65,
                          "dur":  "01:18:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "REGINA DE FATIMA FARIA TAVEIRA-EPP.",
+                         "mun":  "PEDREGULHO",
+                         "in":  "12:16:46",
+                         "out":  "12:47:32",
+                         "km":  1.19,
+                         "dur":  "00:30:00"
                      },
                      {
                          "nome":  "Maira",
@@ -816,6 +834,15 @@ window.PAINEL = {
                          "dur":  "00:45:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "COMERCIAL DE ALIMENTOS SR LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "12:03:02",
+                         "out":  "12:40:19",
+                         "km":  0.76,
+                         "dur":  "00:37:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
@@ -876,28 +903,28 @@ window.PAINEL = {
                         "tempo":  "00:53:04"
                     },
                     {
-                        "nome":  "Karina",
-                        "tipo":  "Manutencao",
-                        "obs":  "veículo em manutenção",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "04:29:37"
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "",
+                        "inicio":  "11:54",
+                        "final":  "12:54",
+                        "tempo":  "01:00:03"
                     },
                     {
                         "nome":  "Sao Carlos",
                         "tipo":  "Outro",
                         "obs":  "prospecção cliente",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:48:39"
+                        "inicio":  "11:51",
+                        "final":  "12:43",
+                        "tempo":  "00:51:58"
                     },
                     {
-                        "nome":  "Costa",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "",
+                        "nome":  "Karina",
+                        "tipo":  "Manutencao",
+                        "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:45:21"
+                        "tempo":  "04:44:36"
                     },
                     {
                         "nome":  "Eugenio",
@@ -905,7 +932,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:30"
+                        "tempo":  "00:53:29"
                     },
                     {
                         "nome":  "Fernando",
@@ -913,7 +940,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:29:33"
+                        "tempo":  "00:44:32"
                     },
                     {
                         "nome":  "Eliana",
@@ -921,7 +948,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:46"
+                        "tempo":  "00:41:45"
                     },
                     {
                         "nome":  "Rachel",
@@ -929,7 +956,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:23:23"
+                        "tempo":  "00:38:22"
                     },
                     {
                         "nome":  "Nelson",
@@ -937,7 +964,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:19:47"
+                        "tempo":  "00:34:46"
                     },
                     {
                         "nome":  "Evandro",
@@ -945,7 +972,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:12:07"
+                        "tempo":  "00:27:06"
                     },
                     {
                         "nome":  "Maira",
@@ -953,7 +980,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:37"
+                        "tempo":  "00:26:36"
                     },
                     {
                         "nome":  "Cominato",
@@ -961,7 +988,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:50"
+                        "tempo":  "00:16:49"
                     },
                     {
                         "nome":  "Debora",
@@ -969,7 +996,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:19"
+                        "tempo":  "00:16:18"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:31"
                     }
                 ],
     "semped":  [
@@ -996,6 +1031,12 @@ window.PAINEL = {
                        "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                        "mun":  "MOGI GUACU",
                        "obs":  "analise de loja"
+                   },
+                   {
+                       "nome":  "Luis",
+                       "razao":  "REGINA DE FATIMA FARIA TAVEIRA-EPP.",
+                       "mun":  "PEDREGULHO",
+                       "obs":  "Cliente comprou em cotação"
                    },
                    {
                        "nome":  "Nelson",
@@ -1063,55 +1104,37 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:40:18"
-                     },
-                     {
-                         "nome":  "Edimilson",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "HORTOLANDIA",
-                         "tempo":  "00:13:09"
+                         "tempo":  "00:55:15"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:16:58"
+                         "tempo":  "00:31:55"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A.DE MELO E CIA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "01:59:01"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "REGINA DE FATIMA FARIA TAVEIRA-EPP.",
-                         "mun":  "PEDREGULHO",
-                         "tempo":  "00:22:25"
+                         "tempo":  "02:13:58"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "00:19:58"
+                         "tempo":  "00:34:55"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:04:47"
+                         "tempo":  "02:19:44"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "ITUPEVA",
-                         "tempo":  "01:28:04"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "COMERCIAL DE ALIMENTOS SR LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:36:09"
+                         "tempo":  "01:43:01"
                      }
                  ],
     "hist":  [
@@ -1222,8 +1245,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     55,
-                     17
+                     58,
+                     18
                  ]
              ],
     "historico":  {
@@ -16713,7 +16736,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "12:45",
+                                         "dataHora":  "13:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -16764,10 +16787,10 @@ window.PAINEL = {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  66.12,
-                                                       "tv":  231
+                                                       "km":  70.78,
+                                                       "tv":  253
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -16836,10 +16859,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  2,
-                                                       "km":  41.25,
-                                                       "tv":  195
+                                                       "km":  42.44,
+                                                       "tv":  225
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -16863,10 +16886,10 @@ window.PAINEL = {
                                                        "nome":  "Mariangela",
                                                        "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  31.82,
-                                                       "tv":  162
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  32.58,
+                                                       "tv":  199
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -16974,6 +16997,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  51.71,
                                                          "tv":  231
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  4.66,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Eduardo",
@@ -17114,6 +17144,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.65,
                                                          "tv":  78
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "REGINA DE FATIMA FARIA TAVEIRA-EPP.",
+                                                         "p":  0,
+                                                         "km":  1.19,
+                                                         "tv":  30
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -17282,6 +17319,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  4.33,
                                                          "tv":  45
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "COMERCIAL DE ALIMENTOS SR LTDA",
+                                                         "p":  1,
+                                                         "km":  0.76,
+                                                         "tv":  37
                                                      },
                                                      {
                                                          "n":  "Nelson",

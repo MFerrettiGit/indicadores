@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15536,10 +15536,10 @@
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  66.12,
-                                     "tv":  231
+                                     "km":  70.78,
+                                     "tv":  253
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -15608,10 +15608,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  2,
-                                     "km":  41.25,
-                                     "tv":  195
+                                     "km":  42.44,
+                                     "tv":  225
                                  },
                                  {
                                      "nome":  "Maira",
@@ -15635,10 +15635,10 @@
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  31.82,
-                                     "tv":  162
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  32.58,
+                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Alan",
@@ -15746,6 +15746,13 @@
                                        "p":  1,
                                        "km":  51.71,
                                        "tv":  231
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  4.66,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -15886,6 +15893,13 @@
                                        "p":  1,
                                        "km":  24.65,
                                        "tv":  78
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "REGINA DE FATIMA FARIA TAVEIRA-EPP.",
+                                       "p":  0,
+                                       "km":  1.19,
+                                       "tv":  30
                                    },
                                    {
                                        "n":  "Maira",
@@ -16054,6 +16068,13 @@
                                        "p":  1,
                                        "km":  4.33,
                                        "tv":  45
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "COMERCIAL DE ALIMENTOS SR LTDA",
+                                       "p":  1,
+                                       "km":  0.76,
+                                       "tv":  37
                                    },
                                    {
                                        "n":  "Nelson",
