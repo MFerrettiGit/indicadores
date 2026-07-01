@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  66.3,
+                                     "tv":  305
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -15497,13 +15506,13 @@
                                      "tv":  228
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  65.18,
-                                     "tv":  236
+                                     "km":  57.97,
+                                     "tv":  320
                                  },
                                  {
                                      "nome":  "Debora",
@@ -15522,15 +15531,6 @@
                                      "pe":  0,
                                      "km":  7.73,
                                      "tv":  300
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  55.16,
-                                     "tv":  234
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -15563,10 +15563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  84.93,
-                                     "tv":  218
+                                     "km":  86.55,
+                                     "tv":  285
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -15720,6 +15720,13 @@
                                        "tv":  97
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "A.A.DE MELO",
+                                       "p":  1,
+                                       "km":  2.81,
+                                       "tv":  86
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -15846,6 +15853,13 @@
                                        "tv":  59
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  1.12,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "UNIAO WENG SUPERMERCADO LTDA",
                                        "p":  0,
@@ -15949,6 +15963,13 @@
                                        "p":  1,
                                        "km":  46.68,
                                        "tv":  105
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "FURLAN",
+                                       "p":  1,
+                                       "km":  1.62,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Rachel",
