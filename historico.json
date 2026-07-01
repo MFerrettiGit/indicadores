@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15545,10 +15545,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  1.96,
-                                     "tv":  23
+                                     "km":  7.85,
+                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -15644,10 +15644,19 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  1,
-                                     "km":  17.1,
-                                     "tv":  100
+                                     "km":  22.68,
+                                     "tv":  258
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  70.97,
+                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -15666,15 +15675,6 @@
                                      "pe":  1,
                                      "km":  8.08,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  46.94,
-                                     "tv":  137
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -15809,6 +15809,13 @@
                                        "p":  1,
                                        "km":  1.96,
                                        "tv":  23
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A.DE MELO E CIA LTDA",
+                                       "p":  1,
+                                       "km":  5.89,
+                                       "tv":  152
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -16000,6 +16007,13 @@
                                        "tv":  51
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  0,
+                                       "km":  5.58,
+                                       "tv":  158
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                                        "p":  1,
@@ -16012,6 +16026,13 @@
                                        "p":  1,
                                        "km":  21.03,
                                        "tv":  76
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                                       "p":  1,
+                                       "km":  24.03,
+                                       "tv":  129
                                    },
                                    {
                                        "n":  "Cominato",
