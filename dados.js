@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "15:00",
+    "dataHora":  "15:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -60,8 +60,8 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "13:25",
                      "tv":  "05:20:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -180,7 +180,7 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "14:43",
                      "tv":  "04:12:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "14:31",
                      "tv":  "03:33:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -274,6 +274,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  13.59,
+                     "semPed":  3,
+                     "perc":  100,
+                     "primeiro":  "08:03",
+                     "ultimo":  "15:01",
+                     "tv":  "01:50:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -301,21 +316,6 @@ window.PAINEL = {
                      "ultimo":  "13:20",
                      "tv":  "04:26:00",
                      "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  4.33,
-                     "semPed":  2,
-                     "perc":  100,
-                     "primeiro":  "08:03",
-                     "ultimo":  "12:17",
-                     "tv":  "00:57:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -924,6 +924,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "14:07:57",
+                         "out":  "15:01:47",
+                         "km":  9.26,
+                         "dur":  "00:53:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -1021,6 +1030,15 @@ window.PAINEL = {
                          "out":  "12:00:42",
                          "km":  3.78,
                          "dur":  "01:22:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCADO SUPER BOM LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "13:25:06",
+                         "out":  "15:10:05",
+                         "km":  2.61,
+                         "dur":  "01:44:00"
                      }
                  ],
     "eventos":  [
@@ -1103,6 +1121,14 @@ window.PAINEL = {
                         "inicio":  "12:20",
                         "final":  "13:20",
                         "tempo":  "00:59:54"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  ".",
+                        "inicio":  "14:07",
+                        "final":  "14:58",
+                        "tempo":  "00:50:42"
                     },
                     {
                         "nome":  "Cominato",
@@ -1222,15 +1248,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:45:01"
-                    },
-                    {
-                        "nome":  "Castro",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  ".",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:47:40"
+                        "tempo":  "07:00:07"
                     }
                 ],
     "semped":  [
@@ -1301,6 +1319,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "UNIAO WENG SUPERMERCADO LTDA",
                        "mun":  "ENGENHEIRO COEL",
@@ -1351,70 +1375,82 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Aline",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.04",
+                         "mun":  "NOVA ODESSA",
+                         "tempo":  "00:13:15"
+                     },
+                     {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "00:23:07"
+                         "tempo":  "00:38:08"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:39:06"
+                         "tempo":  "01:54:07"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.01",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:13:24"
+                         "tempo":  "00:28:25"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "POUPE SUPERMERCADOS LTDA",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:06:43"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SM. BIG BOM LTDA - LOJA 02.",
+                         "mun":  "MOGI GUACU",
+                         "tempo":  "00:12:20"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "JUAREZ LEANDRO LUCA LTDA",
                          "mun":  "RIFAINA",
-                         "tempo":  "00:12:02"
+                         "tempo":  "00:27:03"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "00:55:02"
+                         "tempo":  "01:10:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "SIM EMPREND. COMERC. SUPERMERCADOS LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:21:12"
+                         "tempo":  "00:36:13"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:22"
+                         "tempo":  "00:52:23"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:29:39"
+                         "tempo":  "00:44:40"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:29:10"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "00:46:19"
+                         "tempo":  "01:44:11"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:29:03"
+                         "tempo":  "00:44:04"
                      }
                  ],
     "hist":  [
@@ -1525,8 +1561,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     77,
-                     23
+                     78,
+                     24
                  ]
              ],
     "historico":  {
@@ -17016,7 +17052,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "15:00",
+                                         "dataHora":  "15:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17181,6 +17217,15 @@ window.PAINEL = {
                                                        "tv":  258
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  13.59,
+                                                       "tv":  110
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -17197,15 +17242,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  70.97,
                                                        "tv":  266
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  4.33,
-                                                       "tv":  57
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -17671,6 +17707,13 @@ window.PAINEL = {
                                                          "tv":  25
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  9.26,
+                                                         "tv":  53
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
@@ -17746,6 +17789,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  3.78,
                                                          "tv":  82
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCADO SUPER BOM LTDA",
+                                                         "p":  1,
+                                                         "km":  2.61,
+                                                         "tv":  104
                                                      }
                                                  ]
                                      }

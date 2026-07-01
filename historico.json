@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15650,6 +15650,15 @@
                                      "tv":  258
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  13.59,
+                                     "tv":  110
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -15666,15 +15675,6 @@
                                      "pe":  3,
                                      "km":  70.97,
                                      "tv":  266
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  4.33,
-                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -16140,6 +16140,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  9.26,
+                                       "tv":  53
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -16215,6 +16222,13 @@
                                        "p":  0,
                                        "km":  3.78,
                                        "tv":  82
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO SUPER BOM LTDA",
+                                       "p":  1,
+                                       "km":  2.61,
+                                       "tv":  104
                                    }
                                ]
                    }
