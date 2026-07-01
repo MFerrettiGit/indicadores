@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "12:15",
+                       "dataHora":  "12:30",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  65.18,
+                                     "tv":  236
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -15497,13 +15506,13 @@
                                      "tv":  206
                                  },
                                  {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  61.94,
-                                     "tv":  177
+                                     "km":  7.73,
+                                     "tv":  300
                                  },
                                  {
                                      "nome":  "Aline",
@@ -15522,15 +15531,6 @@
                                      "pe":  0,
                                      "km":  31.06,
                                      "tv":  229
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.26,
-                                     "tv":  183
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -15563,10 +15563,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  38.25,
-                                     "tv":  113
+                                     "km":  84.93,
+                                     "tv":  218
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -15605,6 +15605,15 @@
                                      "tv":  153
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  41.25,
+                                     "tv":  195
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -15621,15 +15630,6 @@
                                      "pe":  2,
                                      "km":  67.03,
                                      "tv":  143
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  16.6,
-                                     "tv":  117
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -15650,6 +15650,15 @@
                                      "tv":  100
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  4.33,
+                                     "tv":  57
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -15668,13 +15677,13 @@
                                      "tv":  137
                                  },
                                  {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.89,
-                                     "tv":  32
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  15.11,
+                                     "tv":  152
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -15684,15 +15693,6 @@
                                      "pe":  1,
                                      "km":  4.74,
                                      "tv":  145
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  6.72,
-                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Karina",
@@ -15755,6 +15755,13 @@
                                        "tv":  183
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  5.47,
+                                       "tv":  117
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -15802,6 +15809,13 @@
                                        "p":  1,
                                        "km":  1.41,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                                       "p":  1,
+                                       "km":  3.24,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Costa",
@@ -15853,6 +15867,13 @@
                                        "tv":  117
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "RAULNY AUGUSTO CAMPOS",
+                                       "p":  1,
+                                       "km":  24.65,
+                                       "tv":  78
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
                                        "p":  1,
@@ -15886,6 +15907,13 @@
                                        "p":  1,
                                        "km":  24.61,
                                        "tv":  42
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "JOSE CARLOS NORI",
+                                       "p":  1,
+                                       "km":  46.68,
+                                       "tv":  105
                                    },
                                    {
                                        "n":  "Rachel",
@@ -15963,6 +15991,13 @@
                                        "p":  0,
                                        "km":  2.5,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "DE CASA LTDA",
+                                       "p":  0,
+                                       "km":  1.44,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Eugenio",
