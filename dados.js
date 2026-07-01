@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "10:45",
+    "dataHora":  "11:00",
     "vend":  [
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  61.94,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:04",
+                     "ultimo":  "10:44",
+                     "tv":  "02:57:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -16,21 +31,6 @@ window.PAINEL = {
                      "ultimo":  "10:11",
                      "tv":  "02:27:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  60.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:04",
-                     "ultimo":  "09:18",
-                     "tv":  "01:46:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "10:14",
                      "ultimo":  "10:38",
                      "tv":  "00:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  62.39,
-                     "semPed":  3,
+                     "visitas":  4,
+                     "km":  63.13,
+                     "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:26",
-                     "ultimo":  "10:02",
-                     "tv":  "01:18:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:39",
+                     "tv":  "01:41:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,13 +173,13 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  0.97,
+                     "visitas":  2,
+                     "km":  71.34,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "08:04",
-                     "ultimo":  "08:51",
-                     "tv":  "00:47:00",
+                     "ultimo":  "10:52",
+                     "tv":  "01:48:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -210,8 +210,8 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "10:29",
                      "tv":  "01:57:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Maira",
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  4.74,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:16",
+                     "ultimo":  "10:42",
+                     "tv":  "02:25:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -331,21 +346,6 @@ window.PAINEL = {
                      "ultimo":  "10:12",
                      "tv":  "01:23:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:16",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -447,6 +447,15 @@ window.PAINEL = {
                          "dur":  "00:38:00"
                      },
                      {
+                         "nome":  "Vinicius",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "ITU",
+                         "in":  "09:32:26",
+                         "out":  "10:44:22",
+                         "km":  1.41,
+                         "dur":  "01:11:00"
+                     },
+                     {
                          "nome":  "Costa",
                          "razao":  "UNIAO WENG SUPERMERCADO LTDA",
                          "mun":  "ENGENHEIRO COEL",
@@ -546,6 +555,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO AGRICOLA LOPES LTDA.",
+                         "mun":  "MOGI GUACU",
+                         "in":  "09:51:07",
+                         "out":  "10:52:23",
+                         "km":  70.37,
+                         "dur":  "01:01:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "COGEB SUPERMERCADOS LTDA.",
                          "mun":  "SAO CARLOS",
@@ -591,6 +609,15 @@ window.PAINEL = {
                          "dur":  "00:32:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "ATIBAIA",
+                         "in":  "08:16:48",
+                         "out":  "10:42:26",
+                         "km":  4.74,
+                         "dur":  "02:25:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
@@ -628,12 +655,20 @@ window.PAINEL = {
                         "tempo":  "00:58:07"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Cristais Paulista a Pedregulho",
+                        "inicio":  "10:31",
+                        "final":  "10:50",
+                        "tempo":  "00:19:32"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Manutencao",
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:29:31"
+                        "tempo":  "02:46:30"
                     },
                     {
                         "nome":  "Cominato",
@@ -641,15 +676,7 @@ window.PAINEL = {
                         "obs":  "Cadastro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:49:33"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Cristais Paulista a Pedregulho",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:08:33"
+                        "tempo":  "01:06:32"
                     }
                 ],
     "semped":  [
@@ -707,97 +734,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:57:24"
+                         "tempo":  "02:14:16"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:42:01"
+                         "tempo":  "00:58:53"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "03:05:27"
+                         "tempo":  "03:22:19"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:24:47"
+                         "tempo":  "00:41:39"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "ITU",
-                         "tempo":  "01:06:47"
+                         "nome":  "Silmara",
+                         "razao":  "A.A.DE MELO E CIA LTDA",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:15:55"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:35:37"
+                         "tempo":  "00:52:29"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO AGRICOLA LOPES LTDA.",
-                         "mun":  "MOGI GUACU",
-                         "tempo":  "00:48:06"
+                         "nome":  "Luis",
+                         "razao":  "RAULNY AUGUSTO CAMPOS",
+                         "mun":  "PEDREGULHO",
+                         "tempo":  "00:02:47"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:11:31"
+                         "tempo":  "00:28:23"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:13:10"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "LEILA MAGALI LONGO",
-                         "mun":  "ENGENHEIRO COEL",
-                         "tempo":  "00:24:04"
+                         "tempo":  "00:30:02"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SIDNEI APARECIDO MANGERONA",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:24:56"
-                     },
-                     {
-                         "nome":  "Eugenio",
-                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
-                         "mun":  "ATIBAIA",
-                         "tempo":  "02:22:25"
+                         "tempo":  "00:41:48"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:04:49"
+                         "tempo":  "00:21:41"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EVALDO BUENO PEREIRA ITAPETININGA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:02:01"
+                         "tempo":  "00:18:53"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:50:51"
+                         "tempo":  "01:07:43"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "ROSARIA DA SILVA RODRIGUES.",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:38:58"
+                         "tempo":  "00:55:50"
                      }
                  ],
     "hist":  [
@@ -908,8 +923,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     29,
-                     9
+                     33,
+                     10
                  ]
              ],
     "historico":  {
@@ -16399,8 +16414,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "10:45",
+                                         "dataHora":  "11:00",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  61.94,
+                                                       "tv":  177
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -16409,15 +16433,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  57.46,
                                                        "tv":  147
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  60.53,
-                                                       "tv":  106
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -16495,19 +16510,19 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  62.39,
-                                                       "tv":  78
+                                                       "km":  63.13,
+                                                       "tv":  101
                                                    },
                                                    {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  0.97,
-                                                       "tv":  47
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  71.34,
+                                                       "tv":  108
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -16573,6 +16588,15 @@ window.PAINEL = {
                                                        "tv":  127
                                                    },
                                                    {
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
+                                                       "regional":  "SUL",
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  4.74,
+                                                       "tv":  145
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -16598,15 +16622,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  6.72,
                                                        "tv":  83
-                                                   },
-                                                   {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -16681,6 +16696,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  27.66,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Vinicius",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  1,
+                                                         "km":  1.41,
+                                                         "tv":  71
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -16760,6 +16782,13 @@ window.PAINEL = {
                                                          "tv":  47
                                                      },
                                                      {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO AGRICOLA LOPES LTDA.",
+                                                         "p":  1,
+                                                         "km":  70.37,
+                                                         "tv":  61
+                                                     },
+                                                     {
                                                          "n":  "Sao Carlos",
                                                          "r":  "COGEB SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -16793,6 +16822,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.5,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.74,
+                                                         "tv":  145
                                                      },
                                                      {
                                                          "n":  "Lucas",

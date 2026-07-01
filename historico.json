@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  61.94,
+                                     "tv":  177
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -15495,15 +15504,6 @@
                                      "pe":  0,
                                      "km":  57.46,
                                      "tv":  147
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  60.53,
-                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -15581,19 +15581,19 @@
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  62.39,
-                                     "tv":  78
+                                     "km":  63.13,
+                                     "tv":  101
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  0.97,
-                                     "tv":  47
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  71.34,
+                                     "tv":  108
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -15659,6 +15659,15 @@
                                      "tv":  127
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.74,
+                                     "tv":  145
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -15684,15 +15693,6 @@
                                      "pe":  1,
                                      "km":  6.72,
                                      "tv":  83
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Karina",
@@ -15767,6 +15767,13 @@
                                        "p":  1,
                                        "km":  27.66,
                                        "tv":  38
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  1.41,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Costa",
@@ -15846,6 +15853,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO AGRICOLA LOPES LTDA.",
+                                       "p":  1,
+                                       "km":  70.37,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "COGEB SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -15879,6 +15893,13 @@
                                        "p":  0,
                                        "km":  2.5,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  4.74,
+                                       "tv":  145
                                    },
                                    {
                                        "n":  "Lucas",
