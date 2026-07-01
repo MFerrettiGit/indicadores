@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15538,7 +15538,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  83.05,
+                                     "km":  135.54,
                                      "tv":  416
                                  },
                                  {
@@ -15655,7 +15655,7 @@
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  2,
-                                     "km":  23.78,
+                                     "km":  29.22,
                                      "tv":  441
                                  },
                                  {
@@ -15677,6 +15677,15 @@
                                      "tv":  395
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  23.89,
+                                     "tv":  301
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -15684,15 +15693,6 @@
                                      "pe":  3,
                                      "km":  70.97,
                                      "tv":  266
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  21.06,
-                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Karina",
@@ -16334,6 +16334,13 @@
                                        "p":  0,
                                        "km":  5.95,
                                        "tv":  53
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
+                                       "p":  1,
+                                       "km":  2.83,
+                                       "tv":  96
                                    },
                                    {
                                        "n":  "Mariangela",

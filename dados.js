@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  4,
-                     "km":  83.05,
+                     "km":  135.54,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:33",
@@ -279,7 +279,7 @@ window.PAINEL = {
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  23.78,
+                     "km":  29.22,
                      "semPed":  2,
                      "perc":  50,
                      "primeiro":  "08:02",
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Lucas",
+                     "setor":  "INDAIATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  23.89,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:48",
+                     "ultimo":  "17:34",
+                     "tv":  "05:01:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Castro",
                      "setor":  "JUNDIAI",
                      "regional":  "SUL",
@@ -332,21 +347,6 @@ window.PAINEL = {
                      "tv":  "04:26:00",
                      "emVisita":  0,
                      "emEvento":  1
-                 },
-                 {
-                     "nome":  "Lucas",
-                     "setor":  "INDAIATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  21.06,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:48",
-                     "ultimo":  "15:18",
-                     "tv":  "03:25:00",
-                     "emVisita":  1,
-                     "emEvento":  0
                  },
                  {
                      "nome":  "Karina",
@@ -1176,6 +1176,15 @@ window.PAINEL = {
                          "dur":  "00:53:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "15:58:07",
+                         "out":  "17:34:47",
+                         "km":  2.83,
+                         "dur":  "01:36:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "SJJ MERCADO LTDA",
                          "mun":  "SAO JOSE DOS CA",
@@ -1480,7 +1489,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:14:57"
+                        "tempo":  "09:29:59"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1488,7 +1497,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:56:43"
+                        "tempo":  "02:11:45"
                     },
                     {
                         "nome":  "Costa",
@@ -1496,7 +1505,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:52:21"
+                        "tempo":  "02:07:23"
                     },
                     {
                         "nome":  "Castro",
@@ -1504,7 +1513,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:12"
+                        "tempo":  "00:41:14"
                     }
                 ],
     "semped":  [
@@ -1643,22 +1652,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Lucas",
-                         "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "01:26:00"
-                     },
-                     {
                          "nome":  "Nelson",
                          "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:40:43"
+                         "tempo":  "00:55:43"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:50:31"
+                         "tempo":  "01:05:31"
                      }
                  ],
     "hist":  [
@@ -1769,7 +1772,7 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     104,
+                     105,
                      26
                  ]
              ],
@@ -17260,7 +17263,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17313,7 +17316,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  83.05,
+                                                       "km":  135.54,
                                                        "tv":  416
                                                    },
                                                    {
@@ -17430,7 +17433,7 @@ window.PAINEL = {
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  2,
-                                                       "km":  23.78,
+                                                       "km":  29.22,
                                                        "tv":  441
                                                    },
                                                    {
@@ -17452,6 +17455,15 @@ window.PAINEL = {
                                                        "tv":  395
                                                    },
                                                    {
+                                                       "nome":  "Lucas",
+                                                       "setor":  "INDAIATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  23.89,
+                                                       "tv":  301
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -17459,15 +17471,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  70.97,
                                                        "tv":  266
-                                                   },
-                                                   {
-                                                       "nome":  "Lucas",
-                                                       "setor":  "INDAIATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  21.06,
-                                                       "tv":  205
                                                    },
                                                    {
                                                        "nome":  "Karina",
@@ -18109,6 +18112,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  5.95,
                                                          "tv":  53
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
+                                                         "p":  1,
+                                                         "km":  2.83,
+                                                         "tv":  96
                                                      },
                                                      {
                                                          "n":  "Mariangela",
