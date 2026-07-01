@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15542,8 +15542,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -15551,8 +15551,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -15563,19 +15563,19 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  13.64,
-                                     "tv":  71
+                                     "km":  38.25,
+                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  5.66,
-                                     "tv":  0
+                                     "km":  10.45,
+                                     "tv":  108
                                  },
                                  {
                                      "nome":  "Costa",
@@ -15605,21 +15605,21 @@
                                      "tv":  71
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  40.73,
+                                     "tv":  79
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.66,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -15668,21 +15668,21 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.51,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0.51,
                                      "tv":  0
                                  },
                                  {
@@ -15720,6 +15720,13 @@
                                        "tv":  87
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  0,
+                                       "km":  4.79,
+                                       "tv":  108
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -15755,6 +15762,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
+                                       "p":  1,
+                                       "km":  40.73,
+                                       "tv":  79
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -15767,6 +15781,13 @@
                                        "p":  1,
                                        "km":  6.82,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  24.61,
+                                       "tv":  42
                                    },
                                    {
                                        "n":  "Rachel",
