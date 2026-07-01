@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "14:45",
+                       "dataHora":  "15:00",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  91.12,
+                                     "tv":  288
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -15497,13 +15506,13 @@
                                      "tv":  305
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  4,
                                      "pe":  0,
-                                     "km":  81.85,
-                                     "tv":  228
+                                     "km":  34.41,
+                                     "tv":  366
                                  },
                                  {
                                      "nome":  "Aline",
@@ -15513,15 +15522,6 @@
                                      "pe":  0,
                                      "km":  57.97,
                                      "tv":  320
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  31.8,
-                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -15590,28 +15590,28 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  71.34,
-                                     "tv":  179
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  72.45,
+                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  1,
-                                     "km":  3.6,
-                                     "tv":  153
+                                     "vi":  4,
+                                     "pe":  2,
+                                     "km":  6.42,
+                                     "tv":  194
                                  },
                                  {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  42.44,
-                                     "tv":  225
+                                     "km":  68.56,
+                                     "tv":  259
                                  },
                                  {
                                      "nome":  "Maira",
@@ -15626,10 +15626,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  67.03,
-                                     "tv":  143
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  90.13,
+                                     "tv":  223
                                  },
                                  {
                                      "nome":  "Mariangela",
@@ -15748,6 +15748,13 @@
                                        "tv":  76
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  2.61,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  1,
@@ -15816,6 +15823,13 @@
                                        "p":  1,
                                        "km":  0.8,
                                        "tv":  22
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  9.27,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Silmara",
@@ -15923,6 +15937,13 @@
                                        "tv":  78
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SUPERMERCADO BIG COMPRA LTDA.",
+                                       "p":  1,
+                                       "km":  23.1,
+                                       "tv":  80
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "CELIA MARQUES - EPP.",
                                        "p":  1,
@@ -16028,6 +16049,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SM. BIG BOM LTDA - LOJA 01.",
+                                       "p":  1,
+                                       "km":  1.11,
+                                       "tv":  73
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "COGEB SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -16047,6 +16075,13 @@
                                        "p":  0,
                                        "km":  0.84,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  1,
+                                       "km":  2.82,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Alan",
