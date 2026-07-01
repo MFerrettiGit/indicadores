@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:00",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "06:50",
                      "ultimo":  "12:27",
                      "tv":  "03:48:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "13:25",
                      "tv":  "05:20:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Debora",
@@ -60,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "12:37",
                      "tv":  "05:05:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -105,8 +105,8 @@ window.PAINEL = {
                      "primeiro":  "10:14",
                      "ultimo":  "13:12",
                      "tv":  "02:55:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alex A.",
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:26",
                      "ultimo":  "10:39",
                      "tv":  "01:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -196,7 +196,7 @@ window.PAINEL = {
                      "ultimo":  "11:41",
                      "tv":  "02:33:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Luis",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:47",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "11:30",
                      "tv":  "02:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -1029,6 +1029,14 @@ window.PAINEL = {
                         "tempo":  "01:00:10"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:13",
+                        "final":  "13:49",
+                        "tempo":  "00:35:51"
+                    },
+                    {
                         "nome":  "Fernando",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1053,20 +1061,20 @@ window.PAINEL = {
                         "tempo":  "00:51:58"
                     },
                     {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:43",
+                        "final":  "13:43",
+                        "tempo":  "00:59:47"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Manutencao",
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "05:29:58"
-                    },
-                    {
-                        "nome":  "Sao Carlos",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:53"
+                        "tempo":  "05:44:46"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1074,15 +1082,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:34"
-                    },
-                    {
-                        "nome":  "Silmara",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:26:35"
+                        "tempo":  "00:46:22"
                     },
                     {
                         "nome":  "Alan",
@@ -1090,7 +1090,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:06"
+                        "tempo":  "00:22:54"
                     },
                     {
                         "nome":  "Vinicius",
@@ -1098,7 +1098,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:01"
+                        "tempo":  "00:21:49"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Pedregulho a Rifaina",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:57"
+                    },
+                    {
+                        "nome":  "Aline",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:31"
                     }
                 ],
     "semped":  [
@@ -1201,40 +1217,70 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "SUPERMERCADOS REX LTDA.",
+                         "mun":  "LEME",
+                         "tempo":  "00:06:09"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:12:27"
+                     },
+                     {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "00:21:20"
+                         "tempo":  "00:36:14"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:24:06"
+                         "tempo":  "00:39:00"
+                     },
+                     {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:03:17"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "POUPE SUPERMERCADOS LTDA",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:09:59"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SM. BIG BOM LTDA - LOJA 01.",
                          "mun":  "MOGI GUACU",
-                         "tempo":  "00:09:10"
+                         "tempo":  "00:24:04"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA.",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:09:12"
+                         "tempo":  "00:24:06"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "J R BARROS COMERCIO LTDA",
+                         "mun":  "ENGENHEIRO COEL",
+                         "tempo":  "00:07:31"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:07:18"
+                         "tempo":  "00:22:12"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:14:10"
+                         "tempo":  "00:29:04"
                      }
                  ],
     "hist":  [
@@ -16836,7 +16882,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
