@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  81.85,
+                                     "tv":  228
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -15497,13 +15506,13 @@
                                      "tv":  236
                                  },
                                  {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  3,
                                      "pe":  0,
-                                     "km":  81.05,
-                                     "tv":  206
+                                     "km":  31.8,
+                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -15522,15 +15531,6 @@
                                      "pe":  0,
                                      "km":  55.16,
                                      "tv":  234
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  31.06,
-                                     "tv":  229
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -15734,6 +15734,13 @@
                                        "tv":  142
                                    },
                                    {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0.74,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Edimilson",
                                        "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                                        "p":  1,
@@ -15781,6 +15788,13 @@
                                        "p":  1,
                                        "km":  23.59,
                                        "tv":  59
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.15",
+                                       "p":  1,
+                                       "km":  0.8,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Silmara",
