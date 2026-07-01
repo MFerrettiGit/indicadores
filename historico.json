@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15506,6 +15506,15 @@
                                      "tv":  147
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  31.06,
+                                     "tv":  229
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -15522,15 +15531,6 @@
                                      "pe":  0,
                                      "km":  27.72,
                                      "tv":  137
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  29.96,
-                                     "tv":  87
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -15599,10 +15599,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  1.06,
-                                     "tv":  71
+                                     "km":  2.76,
+                                     "tv":  122
                                  },
                                  {
                                      "nome":  "Luis",
@@ -15641,6 +15641,24 @@
                                      "tv":  100
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  46.94,
+                                     "tv":  137
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  27.49,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -15666,24 +15684,6 @@
                                      "pe":  1,
                                      "km":  4.74,
                                      "tv":  145
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  25.91,
-                                     "tv":  61
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  12.78,
-                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -15718,6 +15718,13 @@
                                        "p":  1,
                                        "km":  29.96,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADOS REX LTDA.",
+                                       "p":  1,
+                                       "km":  1.1,
+                                       "tv":  142
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -15867,6 +15874,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SIDNEI APARECIDO MANGERONA",
+                                       "p":  0,
+                                       "km":  1.7,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -15886,6 +15900,13 @@
                                        "p":  1,
                                        "km":  25.91,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
+                                       "p":  1,
+                                       "km":  21.03,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Cominato",
@@ -15914,6 +15935,13 @@
                                        "p":  1,
                                        "km":  12.78,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "ROSARIA DA SILVA RODRIGUES.",
+                                       "p":  0,
+                                       "km":  14.71,
+                                       "tv":  60
                                    },
                                    {
                                        "n":  "Nelson",
