@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  81.05,
+                                     "tv":  206
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -15495,15 +15504,6 @@
                                      "pe":  0,
                                      "km":  61.94,
                                      "tv":  177
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  57.46,
-                                     "tv":  147
                                  },
                                  {
                                      "nome":  "Aline",
@@ -15587,6 +15587,15 @@
                                      "tv":  101
                                  },
                                  {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  71.34,
+                                     "tv":  179
+                                 },
+                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -15594,15 +15603,6 @@
                                      "pe":  1,
                                      "km":  3.6,
                                      "tv":  153
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  71.34,
-                                     "tv":  108
                                  },
                                  {
                                      "nome":  "Maira",
@@ -15632,6 +15632,15 @@
                                      "tv":  117
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  31.82,
+                                     "tv":  162
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -15639,6 +15648,15 @@
                                      "pe":  1,
                                      "km":  17.1,
                                      "tv":  100
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  8.08,
+                                     "tv":  209
                                  },
                                  {
                                      "nome":  "Castro",
@@ -15650,15 +15668,6 @@
                                      "tv":  137
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  27.49,
-                                     "tv":  117
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -15666,15 +15675,6 @@
                                      "pe":  0,
                                      "km":  2.89,
                                      "tv":  32
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  4.3,
-                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -15767,6 +15767,13 @@
                                        "p":  1,
                                        "km":  17.61,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  23.59,
+                                       "tv":  59
                                    },
                                    {
                                        "n":  "Silmara",
@@ -15895,6 +15902,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Rachel",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Sao Carlos",
                                        "r":  "COGEB SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -15965,6 +15979,13 @@
                                        "tv":  83
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SM DIA CIDADE NOVA EIRELI",
+                                       "p":  1,
+                                       "km":  8.39,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "SJJ MERCADO LTDA",
                                        "p":  1,
@@ -15979,11 +16000,25 @@
                                        "tv":  60
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
+                                       "p":  1,
+                                       "km":  4.33,
+                                       "tv":  45
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
                                        "p":  1,
                                        "km":  3.79,
                                        "tv":  127
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EVALDO BUENO PEREIRA ITAPETININGA",
+                                       "p":  0,
+                                       "km":  3.78,
+                                       "tv":  82
                                    }
                                ]
                    }
