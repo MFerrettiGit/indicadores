@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:04",
                      "ultimo":  "10:44",
                      "tv":  "02:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -45,7 +45,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "11:04",
                      "tv":  "03:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -195,7 +195,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "11:05",
                      "tv":  "02:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "11:04",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -285,7 +285,7 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "11:00",
                      "tv":  "01:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -699,20 +699,20 @@ window.PAINEL = {
                         "tempo":  "00:19:32"
                     },
                     {
+                        "nome":  "Cominato",
+                        "tipo":  "Outro",
+                        "obs":  "Cadastro",
+                        "inicio":  "09:50",
+                        "final":  "11:24",
+                        "tempo":  "01:34:29"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Manutencao",
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:59:37"
-                    },
-                    {
-                        "nome":  "Cominato",
-                        "tipo":  "Outro",
-                        "obs":  "Cadastro",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:19:39"
+                        "tempo":  "03:14:33"
                     }
                 ],
     "semped":  [
@@ -779,82 +779,112 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "LEME",
+                         "tempo":  "00:03:08"
+                     },
+                     {
                          "nome":  "Aline",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "01:12:02"
+                         "tempo":  "01:27:00"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:12:08"
+                         "tempo":  "00:27:06"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "03:35:28"
+                         "tempo":  "03:50:26"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:54:48"
+                         "tempo":  "01:09:46"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
+                         "mun":  "ITU",
+                         "tempo":  "00:12:59"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A.DE MELO E CIA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:29:04"
+                         "tempo":  "00:44:02"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
                          "mun":  "PAULINIA",
-                         "tempo":  "01:05:38"
+                         "tempo":  "01:20:36"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "MOGI GUACU",
-                         "tempo":  "00:12:56"
+                         "tempo":  "00:27:54"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RAULNY AUGUSTO CAMPOS",
                          "mun":  "PEDREGULHO",
-                         "tempo":  "00:15:56"
+                         "tempo":  "00:30:54"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "00:41:32"
+                         "tempo":  "00:56:30"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:43:11"
+                         "tempo":  "00:58:09"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
+                         "mun":  "SAO CARLOS",
+                         "tempo":  "00:13:36"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:34:50"
+                         "tempo":  "00:49:48"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:09:17"
+                         "tempo":  "00:24:15"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EVALDO BUENO PEREIRA ITAPETININGA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:32:02"
+                         "tempo":  "00:47:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
+                         "mun":  "ITUPEVA",
+                         "tempo":  "00:13:05"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:12:10"
                      }
                  ],
     "hist":  [
@@ -16456,7 +16486,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
