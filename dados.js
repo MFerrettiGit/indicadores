@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -99,7 +99,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  13.38,
+                     "km":  17.73,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:52",
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  6,
-                     "km":  69.43,
+                     "km":  134.92,
                      "semPed":  2,
                      "perc":  33.33,
                      "primeiro":  "08:31",
@@ -174,7 +174,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  76.91,
+                     "km":  145.84,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:04",
@@ -189,14 +189,14 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  70.45,
+                     "km":  136.54,
                      "semPed":  5,
                      "perc":  100,
                      "primeiro":  "08:26",
                      "ultimo":  "14:17",
                      "tv":  "02:11:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -219,7 +219,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  78.46,
+                     "km":  79.73,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:32",
@@ -294,7 +294,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  16.11,
+                     "km":  26.89,
                      "semPed":  4,
                      "perc":  100,
                      "primeiro":  "08:03",
@@ -1460,6 +1460,14 @@ window.PAINEL = {
                         "tempo":  "01:00:03"
                     },
                     {
+                        "nome":  "Costa",
+                        "tipo":  "Em Viagem",
+                        "obs":  "retorno pra casa",
+                        "inicio":  "15:32",
+                        "final":  "17:49",
+                        "tempo":  "02:16:17"
+                    },
+                    {
                         "nome":  "Mariangela",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1489,7 +1497,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:29:59"
+                        "tempo":  "09:45:04"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1497,15 +1505,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "02:11:45"
-                    },
-                    {
-                        "nome":  "Costa",
-                        "tipo":  "Em Viagem",
-                        "obs":  "retorno pra casa",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:07:23"
+                        "tempo":  "02:26:50"
                     },
                     {
                         "nome":  "Castro",
@@ -1513,7 +1513,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:14"
+                        "tempo":  "00:56:19"
                     }
                 ],
     "semped":  [
@@ -1655,13 +1655,13 @@ window.PAINEL = {
                          "nome":  "Nelson",
                          "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:55:43"
+                         "tempo":  "01:10:45"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:05:31"
+                         "tempo":  "01:20:33"
                      }
                  ],
     "hist":  [
@@ -17263,7 +17263,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17325,7 +17325,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  13.38,
+                                                       "km":  17.73,
                                                        "tv":  517
                                                    },
                                                    {
@@ -17361,7 +17361,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  6,
                                                        "pe":  4,
-                                                       "km":  69.43,
+                                                       "km":  134.92,
                                                        "tv":  333
                                                    },
                                                    {
@@ -17370,7 +17370,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  76.91,
+                                                       "km":  145.84,
                                                        "tv":  321
                                                    },
                                                    {
@@ -17379,7 +17379,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  70.45,
+                                                       "km":  136.54,
                                                        "tv":  131
                                                    },
                                                    {
@@ -17397,7 +17397,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  78.46,
+                                                       "km":  79.73,
                                                        "tv":  267
                                                    },
                                                    {
@@ -17442,7 +17442,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  0,
-                                                       "km":  16.11,
+                                                       "km":  26.89,
                                                        "tv":  194
                                                    },
                                                    {
