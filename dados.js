@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "13:00",
+    "dataHora":  "13:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "10:39",
                      "tv":  "01:41:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -211,7 +211,7 @@ window.PAINEL = {
                      "ultimo":  "12:47",
                      "tv":  "03:45:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Maira",
@@ -256,7 +256,7 @@ window.PAINEL = {
                      "ultimo":  "12:40",
                      "tv":  "03:19:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Alan",
@@ -924,7 +924,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "04:44:36"
+                        "tempo":  "04:59:32"
                     },
                     {
                         "nome":  "Eugenio",
@@ -932,7 +932,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:53:29"
+                        "tempo":  "01:08:25"
                     },
                     {
                         "nome":  "Fernando",
@@ -940,7 +940,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:32"
+                        "tempo":  "00:59:28"
                     },
                     {
                         "nome":  "Eliana",
@@ -948,7 +948,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:41:45"
+                        "tempo":  "00:56:41"
                     },
                     {
                         "nome":  "Rachel",
@@ -956,7 +956,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:22"
+                        "tempo":  "00:53:18"
                     },
                     {
                         "nome":  "Nelson",
@@ -964,7 +964,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:34:46"
+                        "tempo":  "00:49:42"
                     },
                     {
                         "nome":  "Evandro",
@@ -972,7 +972,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:06"
+                        "tempo":  "00:42:02"
                     },
                     {
                         "nome":  "Maira",
@@ -980,7 +980,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:26:36"
+                        "tempo":  "00:41:32"
                     },
                     {
                         "nome":  "Cominato",
@@ -988,7 +988,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:49"
+                        "tempo":  "00:31:45"
                     },
                     {
                         "nome":  "Debora",
@@ -996,7 +996,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:16:18"
+                        "tempo":  "00:31:14"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1004,7 +1004,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:31"
+                        "tempo":  "00:26:27"
+                    },
+                    {
+                        "nome":  "Luis",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:12:40"
+                    },
+                    {
+                        "nome":  "Mariangela",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:01:08"
                     }
                 ],
     "semped":  [
@@ -1104,37 +1120,37 @@ window.PAINEL = {
                          "nome":  "Aline",
                          "razao":  "A.A.DE MELO",
                          "mun":  "NOVA ODESSA",
-                         "tempo":  "00:55:15"
+                         "tempo":  "01:10:15"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:31:55"
+                         "tempo":  "00:46:55"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A.DE MELO E CIA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "02:13:58"
+                         "tempo":  "02:28:58"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "FURLAN",
                          "mun":  "BRODOWSKI",
-                         "tempo":  "00:34:55"
+                         "tempo":  "00:49:55"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:19:44"
+                         "tempo":  "02:34:44"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "ITUPEVA",
-                         "tempo":  "01:43:01"
+                         "tempo":  "01:58:01"
                      }
                  ],
     "hist":  [
@@ -16736,7 +16752,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "13:00",
+                                         "dataHora":  "13:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
