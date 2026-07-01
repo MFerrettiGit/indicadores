@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "16:30",
+    "dataHora":  "16:45",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -30,6 +30,21 @@ window.PAINEL = {
                      "primeiro":  "06:50",
                      "ultimo":  "14:42",
                      "tv":  "04:48:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  5,
+                     "km":  14.78,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "10:14",
+                     "ultimo":  "16:24",
+                     "tv":  "04:59:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -76,21 +91,6 @@ window.PAINEL = {
                      "ultimo":  "16:22",
                      "tv":  "06:56:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  4,
-                     "km":  11.49,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "10:14",
-                     "ultimo":  "15:31",
-                     "tv":  "04:26:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,6 +270,36 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "15:47",
                      "tv":  "04:40:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  16.11,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:03",
+                     "ultimo":  "16:36",
+                     "tv":  "03:14:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  11.12,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:16",
+                     "ultimo":  "16:35",
+                     "tv":  "06:35:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -285,36 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "13:12",
                      "tv":  "04:18:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  13.59,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:03",
-                     "ultimo":  "15:01",
-                     "tv":  "01:50:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  10.69,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:16",
-                     "ultimo":  "15:10",
-                     "tv":  "05:13:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -1014,6 +1014,15 @@ window.PAINEL = {
                          "dur":  "00:53:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "PIRACICABA",
+                         "in":  "15:11:06",
+                         "out":  "16:36:53",
+                         "km":  2.52,
+                         "dur":  "01:24:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
@@ -1156,6 +1165,15 @@ window.PAINEL = {
                          "out":  "15:10:05",
                          "km":  2.61,
                          "dur":  "01:44:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "15:12:54",
+                         "out":  "16:35:40",
+                         "km":  0.43,
+                         "dur":  "01:22:00"
                      }
                  ],
     "eventos":  [
@@ -1365,7 +1383,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:15:04"
+                        "tempo":  "08:30:03"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1373,7 +1391,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:56:50"
+                        "tempo":  "01:11:49"
                     },
                     {
                         "nome":  "Costa",
@@ -1381,7 +1399,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:52:28"
+                        "tempo":  "01:07:27"
                     },
                     {
                         "nome":  "Luis",
@@ -1389,7 +1407,7 @@ window.PAINEL = {
                         "obs":  "Rifaina a Franca",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:48"
+                        "tempo":  "00:36:47"
                     },
                     {
                         "nome":  "Maira",
@@ -1397,7 +1415,7 @@ window.PAINEL = {
                         "obs":  "Arcal",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:52"
+                        "tempo":  "00:23:51"
                     }
                 ],
     "semped":  [
@@ -1480,6 +1498,12 @@ window.PAINEL = {
                        "obs":  "Merchandising"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "UNIAO WENG SUPERMERCADO LTDA",
                        "mun":  "ENGENHEIRO COEL",
@@ -1533,73 +1557,67 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "01:13:11"
+                         "tempo":  "01:28:08"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "00:49:10"
+                         "tempo":  "01:04:07"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:09:01"
+                         "tempo":  "01:23:58"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "03:09:04"
+                         "tempo":  "03:24:01"
                      },
                      {
                          "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:33:37"
+                         "tempo":  "00:09:46"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "02:25:00"
+                         "tempo":  "02:39:57"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:13:02"
+                         "tempo":  "01:27:59"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:02:02"
+                         "tempo":  "00:16:59"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:07:20"
+                         "tempo":  "02:22:17"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:26:07"
+                         "tempo":  "00:41:04"
                      },
                      {
-                         "nome":  "Nelson",
-                         "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:11:20"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "PIRACICABA",
-                         "tempo":  "01:13:08"
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:05:35"
                      }
                  ],
     "hist":  [
@@ -1710,8 +1728,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     91,
-                     25
+                     94,
+                     26
                  ]
              ],
     "historico":  {
@@ -17201,7 +17219,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "16:30",
+                                         "dataHora":  "16:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -17220,6 +17238,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  91.12,
                                                        "tv":  288
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  5,
+                                                       "pe":  0,
+                                                       "km":  14.78,
+                                                       "tv":  299
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -17247,15 +17274,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  83.05,
                                                        "tv":  416
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  4,
-                                                       "pe":  0,
-                                                       "km":  11.49,
-                                                       "tv":  266
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -17366,6 +17384,24 @@ window.PAINEL = {
                                                        "tv":  280
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  16.11,
+                                                       "tv":  194
+                                                   },
+                                                   {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  11.12,
+                                                       "tv":  395
+                                                   },
+                                                   {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
@@ -17373,24 +17409,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  22.68,
                                                        "tv":  258
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  13.59,
-                                                       "tv":  110
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  10.69,
-                                                       "tv":  313
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -17926,6 +17944,13 @@ window.PAINEL = {
                                                          "tv":  53
                                                      },
                                                      {
+                                                         "n":  "Cominato",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  2.52,
+                                                         "tv":  84
+                                                     },
+                                                     {
                                                          "n":  "Eugenio",
                                                          "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                                          "p":  1,
@@ -18036,6 +18061,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  2.61,
                                                          "tv":  104
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "48.441.595 MARCOS ROGERIO VENTURA",
+                                                         "p":  1,
+                                                         "km":  0.43,
+                                                         "tv":  82
                                                      }
                                                  ]
                                      }

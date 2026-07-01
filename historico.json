@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15504,6 +15504,15 @@
                                      "pe":  0,
                                      "km":  91.12,
                                      "tv":  288
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  14.78,
+                                     "tv":  299
                                  },
                                  {
                                      "nome":  "Aline",
@@ -15531,15 +15540,6 @@
                                      "pe":  0,
                                      "km":  83.05,
                                      "tv":  416
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  11.49,
-                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -15650,6 +15650,24 @@
                                      "tv":  280
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  16.11,
+                                     "tv":  194
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  11.12,
+                                     "tv":  395
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -15657,24 +15675,6 @@
                                      "pe":  1,
                                      "km":  22.68,
                                      "tv":  258
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  13.59,
-                                     "tv":  110
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  10.69,
-                                     "tv":  313
                                  },
                                  {
                                      "nome":  "Castro",
@@ -16210,6 +16210,13 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Cominato",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.52,
+                                       "tv":  84
+                                   },
+                                   {
                                        "n":  "Eugenio",
                                        "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                                        "p":  1,
@@ -16320,6 +16327,13 @@
                                        "p":  1,
                                        "km":  2.61,
                                        "tv":  104
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "48.441.595 MARCOS ROGERIO VENTURA",
+                                       "p":  1,
+                                       "km":  0.43,
+                                       "tv":  82
                                    }
                                ]
                    }
