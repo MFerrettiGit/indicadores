@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15578,6 +15578,24 @@
                                      "tv":  108
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  6,
+                                     "pe":  4,
+                                     "km":  69.43,
+                                     "tv":  333
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  76.91,
+                                     "tv":  321
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -15585,24 +15603,6 @@
                                      "pe":  0,
                                      "km":  70.45,
                                      "tv":  131
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  5,
-                                     "pe":  3,
-                                     "km":  68.68,
-                                     "tv":  294
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  2,
-                                     "km":  72.45,
-                                     "tv":  252
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -15617,10 +15617,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  44.51,
-                                     "tv":  213
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  78.46,
+                                     "tv":  267
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -16000,6 +16000,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "ELAINE APARECIDA RODRIGUES FERREIRA",
+                                       "p":  1,
+                                       "km":  0.75,
+                                       "tv":  39
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
                                        "p":  1,
@@ -16019,6 +16026,13 @@
                                        "p":  1,
                                        "km":  3.78,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "POUPE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  33.95,
+                                       "tv":  54
                                    },
                                    {
                                        "n":  "Milene",
@@ -16082,6 +16096,13 @@
                                        "p":  1,
                                        "km":  1.11,
                                        "tv":  73
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SM. BIG BOM LTDA - LOJA 02.",
+                                       "p":  1,
+                                       "km":  4.46,
+                                       "tv":  69
                                    },
                                    {
                                        "n":  "Sao Carlos",
