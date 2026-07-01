@@ -1,8 +1,23 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "15:45",
+    "dataHora":  "16:00",
     "vend":  [
+                 {
+                     "nome":  "Vinicius",
+                     "setor":  "PROMO-SOROCABA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  6,
+                     "km":  69.58,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:04",
+                     "ultimo":  "15:49",
+                     "tv":  "05:43:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
@@ -15,21 +30,6 @@ window.PAINEL = {
                      "primeiro":  "06:50",
                      "ultimo":  "14:42",
                      "tv":  "04:48:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Vinicius",
-                     "setor":  "PROMO-SOROCABA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  5,
-                     "km":  66.3,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:04",
-                     "ultimo":  "13:31",
-                     "tv":  "05:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -75,7 +75,7 @@ window.PAINEL = {
                      "primeiro":  "10:14",
                      "ultimo":  "15:31",
                      "tv":  "04:26:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -244,6 +244,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  40.7,
+                     "semPed":  1,
+                     "perc":  20,
+                     "primeiro":  "08:36",
+                     "ultimo":  "15:47",
+                     "tv":  "04:40:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eugenio",
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
@@ -255,21 +270,6 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "15:17",
                      "tv":  "03:51:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  32.58,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:36",
-                     "ultimo":  "12:40",
-                     "tv":  "03:19:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -616,6 +616,15 @@ window.PAINEL = {
                          "out":  "13:31:21",
                          "km":  1.12,
                          "dur":  "01:09:00"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                         "mun":  "ITU",
+                         "in":  "15:10:20",
+                         "out":  "15:49:34",
+                         "km":  3.28,
+                         "dur":  "00:38:00"
                      },
                      {
                          "nome":  "Costa",
@@ -1059,6 +1068,15 @@ window.PAINEL = {
                          "dur":  "00:37:00"
                      },
                      {
+                         "nome":  "Mariangela",
+                         "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "14:25:13",
+                         "out":  "15:47:07",
+                         "km":  8.12,
+                         "dur":  "01:21:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
@@ -1293,7 +1311,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:30:13"
+                        "tempo":  "07:45:07"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1301,7 +1319,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:59"
+                        "tempo":  "00:26:53"
                     },
                     {
                         "nome":  "Costa",
@@ -1309,7 +1327,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:37"
+                        "tempo":  "00:22:31"
                     }
                 ],
     "semped":  [
@@ -1445,91 +1463,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DELTA MAX LTDA.",
                          "mun":  "ARARAS",
-                         "tempo":  "00:28:16"
+                         "tempo":  "00:43:15"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.02",
                          "mun":  "SUMARE",
-                         "tempo":  "00:04:15"
+                         "tempo":  "00:19:14"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.26",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:24:06"
+                         "tempo":  "00:39:05"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.11",
                          "mun":  "MONTE MOR",
-                         "tempo":  "01:08:10"
+                         "tempo":  "01:23:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:24:09"
+                         "tempo":  "02:39:08"
                      },
                      {
-                         "nome":  "Vinicius",
-                         "razao":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
-                         "mun":  "ITU",
-                         "tempo":  "00:28:59"
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.02",
+                         "mun":  "AMERICANA",
+                         "tempo":  "00:03:41"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "POUPE SUPERMERCADOS LTDA",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:36:45"
+                         "tempo":  "00:51:44"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SM. BIG BOM LTDA - LOJA 02.",
                          "mun":  "MOGI GUACU",
-                         "tempo":  "00:42:22"
+                         "tempo":  "00:57:21"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "ELAINE APARECIDA RODRIGUES FERREIRA",
                          "mun":  "RIFAINA",
-                         "tempo":  "00:15:42"
+                         "tempo":  "00:30:41"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "01:40:05"
+                         "tempo":  "01:55:04"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:28:07"
+                         "tempo":  "00:43:06"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNIAO COM  ATACADISTA  VAREJISTA LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "tempo":  "00:03:13"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:22:25"
+                         "tempo":  "01:37:24"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "48.441.595 MARCOS ROGERIO VENTURA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:26:25"
+                         "tempo":  "00:41:24"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:28:13"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "01:14:06"
+                         "tempo":  "00:43:12"
                      }
                  ],
     "hist":  [
@@ -1640,7 +1658,7 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     84,
+                     86,
                      25
                  ]
              ],
@@ -17131,8 +17149,17 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "15:45",
+                                         "dataHora":  "16:00",
                                          "v":  [
+                                                   {
+                                                       "nome":  "Vinicius",
+                                                       "setor":  "PROMO-SOROCABA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  6,
+                                                       "pe":  0,
+                                                       "km":  69.58,
+                                                       "tv":  343
+                                                   },
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
@@ -17141,15 +17168,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  91.12,
                                                        "tv":  288
-                                                   },
-                                                   {
-                                                       "nome":  "Vinicius",
-                                                       "setor":  "PROMO-SOROCABA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  5,
-                                                       "pe":  0,
-                                                       "km":  66.3,
-                                                       "tv":  305
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -17278,6 +17296,15 @@ window.PAINEL = {
                                                        "tv":  223
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  5,
+                                                       "pe":  4,
+                                                       "km":  40.7,
+                                                       "tv":  280
+                                                   },
+                                                   {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
@@ -17285,15 +17312,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  31.07,
                                                        "tv":  231
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  32.58,
-                                                       "tv":  199
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -17546,6 +17564,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  1.12,
                                                          "tv":  69
+                                                     },
+                                                     {
+                                                         "n":  "Vinicius",
+                                                         "r":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                                                         "p":  1,
+                                                         "km":  3.28,
+                                                         "tv":  38
                                                      },
                                                      {
                                                          "n":  "Costa",
@@ -17889,6 +17914,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.76,
                                                          "tv":  37
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                                                         "p":  1,
+                                                         "km":  8.12,
+                                                         "tv":  81
                                                      },
                                                      {
                                                          "n":  "Nelson",

@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  69.58,
+                                     "tv":  343
+                                 },
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
@@ -15495,15 +15504,6 @@
                                      "pe":  0,
                                      "km":  91.12,
                                      "tv":  288
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  66.3,
-                                     "tv":  305
                                  },
                                  {
                                      "nome":  "Aline",
@@ -15632,6 +15632,15 @@
                                      "tv":  223
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  40.7,
+                                     "tv":  280
+                                 },
+                                 {
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
@@ -15639,15 +15648,6 @@
                                      "pe":  3,
                                      "km":  31.07,
                                      "tv":  231
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  32.58,
-                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Alan",
@@ -15900,6 +15900,13 @@
                                        "p":  1,
                                        "km":  1.12,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "UNIAO COMERC. ATAC. E VAREJISTA LTDA",
+                                       "p":  1,
+                                       "km":  3.28,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Costa",
@@ -16243,6 +16250,13 @@
                                        "p":  1,
                                        "km":  0.76,
                                        "tv":  37
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SHIBATA COM. E AT DE PROD. EM GERAL LTDA",
+                                       "p":  1,
+                                       "km":  8.12,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Nelson",
