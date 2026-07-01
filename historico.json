@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15533,6 +15533,15 @@
                                      "tv":  306
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  9.86,
+                                     "tv":  216
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -15540,15 +15549,6 @@
                                      "pe":  0,
                                      "km":  7.73,
                                      "tv":  300
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  7.85,
-                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -15617,10 +15617,10 @@
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  40.73,
-                                     "tv":  166
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  44.51,
+                                     "tv":  213
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -15650,6 +15650,15 @@
                                      "tv":  258
                                  },
                                  {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  30.9,
+                                     "tv":  187
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -15675,15 +15684,6 @@
                                      "pe":  1,
                                      "km":  8.08,
                                      "tv":  209
-                                 },
-                                 {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  28.38,
-                                     "tv":  170
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -15832,6 +15832,13 @@
                                        "tv":  152
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  2.01,
+                                       "tv":  41
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -15937,6 +15944,13 @@
                                        "tv":  30
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "ELIANE SUPERMERCADO LTDA",
+                                       "p":  0,
+                                       "km":  26.12,
+                                       "tv":  34
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
                                        "p":  1,
@@ -15949,6 +15963,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  87
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "POUPE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.78,
+                                       "tv":  47
                                    },
                                    {
                                        "n":  "Milene",
@@ -16096,6 +16117,13 @@
                                        "p":  1,
                                        "km":  23.64,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SUPERMERCADO MW METEORO LTDA.",
+                                       "p":  0,
+                                       "km":  2.52,
+                                       "tv":  17
                                    },
                                    {
                                        "n":  "Lucas",
