@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "18:15",
+    "dataHora":  "18:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -234,7 +234,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  99.85,
+                     "km":  110.2,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:08",
@@ -361,7 +361,7 @@ window.PAINEL = {
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -1326,6 +1326,14 @@ window.PAINEL = {
                         "tempo":  "00:39:16"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Manutencao",
+                        "obs":  "veículo em manutenção",
+                        "inicio":  "08:10",
+                        "final":  "18:14",
+                        "tempo":  "10:04:28"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "mogi mirim/guacu",
@@ -1524,14 +1532,6 @@ window.PAINEL = {
                         "inicio":  "15:28",
                         "final":  "18:07",
                         "tempo":  "02:38:52"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Manutencao",
-                        "obs":  "veículo em manutenção",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "10:00:06"
                     }
                 ],
     "semped":  [
@@ -17276,7 +17276,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "18:15",
+                                         "dataHora":  "18:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17419,7 +17419,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  99.85,
+                                                       "km":  110.2,
                                                        "tv":  329
                                                    },
                                                    {
