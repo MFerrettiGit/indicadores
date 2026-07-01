@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "10:00",
+    "dataHora":  "10:15",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -34,6 +34,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Eliana",
+                     "setor":  "PROMO-JUNDIAI",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  1,
+                     "km":  2.26,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "06:52",
+                     "ultimo":  "09:55",
+                     "tv":  "03:03:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -45,7 +60,7 @@ window.PAINEL = {
                      "primeiro":  "06:55",
                      "ultimo":  "09:12",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -60,21 +75,6 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "08:33",
                      "tv":  "01:27:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Eliana",
-                     "setor":  "PROMO-JUNDIAI",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "06:52",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  61.85,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  62.39,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "08:26",
-                     "ultimo":  "09:37",
-                     "tv":  "01:02:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:02",
+                     "tv":  "01:18:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -210,7 +210,7 @@ window.PAINEL = {
                      "primeiro":  "08:32",
                      "ultimo":  "09:53",
                      "tv":  "01:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "09:34",
                      "tv":  "00:57:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -393,6 +393,15 @@ window.PAINEL = {
                          "dur":  "01:48:00"
                      },
                      {
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA - LJ.03",
+                         "mun":  "JUNDIAI",
+                         "in":  "06:52:11",
+                         "out":  "09:55:36",
+                         "km":  2.26,
+                         "dur":  "03:03:00"
+                     },
+                     {
                          "nome":  "Evandro",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "CAMPINAS",
@@ -436,6 +445,15 @@ window.PAINEL = {
                          "out":  "09:37:10",
                          "km":  0.99,
                          "dur":  "00:38:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SUPERBERTON COMERCIO DE ALIMENTOS LTDA",
+                         "mun":  "ENGENHEIRO COEL",
+                         "in":  "09:45:25",
+                         "out":  "10:02:26",
+                         "km":  0.54,
+                         "dur":  "00:16:00"
                      },
                      {
                          "nome":  "Maira",
@@ -543,7 +561,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:27"
+                        "tempo":  "01:59:27"
                     },
                     {
                         "nome":  "Cominato",
@@ -551,7 +569,7 @@ window.PAINEL = {
                         "obs":  "Cadastro",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:04:29"
+                        "tempo":  "00:19:29"
                     }
                 ],
     "semped":  [
@@ -584,6 +602,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO UNIAO WENG LTDA",
                        "mun":  "ENGENHEIRO COEL",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "SUPERBERTON COMERCIO DE ALIMENTOS LTDA",
+                       "mun":  "ENGENHEIRO COEL",
+                       "obs":  "comprador ausente"
                    }
                ],
     "emvisita":  [
@@ -591,85 +615,91 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "01:12:25"
+                         "tempo":  "01:27:24"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "NOVA ODESSA",
+                         "tempo":  "00:12:01"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:31:10"
+                         "tempo":  "00:46:09"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "02:20:28"
-                     },
-                     {
-                         "nome":  "Eliana",
-                         "razao":  "IRMAOS BOA LTDA - LJ.03",
-                         "mun":  "JUNDIAI",
-                         "tempo":  "03:02:03"
+                         "tempo":  "02:35:27"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "ITU",
-                         "tempo":  "00:21:48"
+                         "tempo":  "00:36:47"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 01.",
+                         "mun":  "PAULINIA",
+                         "tempo":  "00:05:37"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO AGRICOLA LOPES LTDA.",
                          "mun":  "MOGI GUACU",
-                         "tempo":  "00:03:07"
+                         "tempo":  "00:18:06"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "CELIA MARQUES - EPP.",
                          "mun":  "CRISTAIS PAULIS",
-                         "tempo":  "01:22:54"
+                         "tempo":  "01:37:53"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:46:00"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "SUPERBERTON COMERCIO DE ALIMENTOS LTDA",
-                         "mun":  "ENGENHEIRO COEL",
-                         "tempo":  "00:08:49"
+                         "tempo":  "01:00:59"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:37:26"
+                         "tempo":  "01:52:25"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "SUPER SETE SUPERMERCADO LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:28:11"
+                         "tempo":  "00:43:10"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:05:57"
+                         "tempo":  "01:20:56"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:38:07"
+                         "tempo":  "01:53:06"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI.",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:05:52"
+                         "tempo":  "00:20:51"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "ROSARIA DA SILVA RODRIGUES.",
+                         "mun":  "SAO JOSE DOS CA",
+                         "tempo":  "00:08:58"
                      }
                  ],
     "hist":  [
@@ -780,8 +810,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     18,
-                     5
+                     20,
+                     6
                  ]
              ],
     "historico":  {
@@ -16271,7 +16301,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "10:00",
+                                         "dataHora":  "10:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -16292,6 +16322,15 @@ window.PAINEL = {
                                                        "tv":  100
                                                    },
                                                    {
+                                                       "nome":  "Eliana",
+                                                       "setor":  "PROMO-JUNDIAI",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  2.26,
+                                                       "tv":  183
+                                                   },
+                                                   {
                                                        "nome":  "Aline",
                                                        "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
@@ -16310,15 +16349,6 @@ window.PAINEL = {
                                                        "tv":  87
                                                    },
                                                    {
-                                                       "nome":  "Eliana",
-                                                       "setor":  "PROMO-JUNDIAI",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
-                                                   },
-                                                   {
                                                        "nome":  "Edimilson",
                                                        "setor":  "PROMO-INDAIATUBA",
                                                        "regional":  "Regional Merchandising",
@@ -16328,8 +16358,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -16337,8 +16367,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -16367,10 +16397,10 @@ window.PAINEL = {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  61.85,
-                                                       "tv":  62
+                                                       "km":  62.39,
+                                                       "tv":  78
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -16513,6 +16543,13 @@ window.PAINEL = {
                                                          "tv":  108
                                                      },
                                                      {
+                                                         "n":  "Eliana",
+                                                         "r":  "IRMAOS BOA LTDA - LJ.03",
+                                                         "p":  1,
+                                                         "km":  2.26,
+                                                         "tv":  183
+                                                     },
+                                                     {
                                                          "n":  "Evandro",
                                                          "r":  "TAUSTE SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -16546,6 +16583,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  0.99,
                                                          "tv":  38
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERBERTON COMERCIO DE ALIMENTOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0.54,
+                                                         "tv":  16
                                                      },
                                                      {
                                                          "n":  "Maira",
