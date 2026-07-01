@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15533,21 +15533,21 @@
                                      "tv":  87
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  1.96,
+                                     "tv":  23
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  14.41,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -15605,6 +15605,15 @@
                                      "tv":  71
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  16.6,
+                                     "tv":  117
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -15621,15 +15630,6 @@
                                      "pe":  1,
                                      "km":  66.1,
                                      "tv":  65
-                                 },
-                                 {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.66,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alan",
@@ -15748,6 +15748,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  1.96,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -15783,11 +15790,25 @@
                                        "tv":  16
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "LEILA MAGALI LONGO",
+                                       "p":  0,
+                                       "km":  0.74,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  22.92,
                                        "tv":  65
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "CELIA MARQUES - EPP.",
+                                       "p":  1,
+                                       "km":  15.94,
+                                       "tv":  117
                                    },
                                    {
                                        "n":  "Maira",
