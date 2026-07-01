@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "09:30",
+    "dataHora":  "09:45",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "07:04",
                      "ultimo":  "09:18",
                      "tv":  "01:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -154,6 +154,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  61.85,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:26",
+                     "ultimo":  "09:37",
+                     "tv":  "01:02:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -169,33 +184,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  60.86,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:26",
-                     "ultimo":  "08:51",
-                     "tv":  "00:24:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Sao Carlos",
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  1.06,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "08:21",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:33",
+                     "tv":  "01:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "08:52",
                      "tv":  "00:49:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,18 +289,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Eugenio",
-                     "setor":  "ATIBAIA",
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  12.78,
                      "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:16",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "perc":  0,
+                     "primeiro":  "08:36",
+                     "ultimo":  "09:34",
+                     "tv":  "00:57:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -319,15 +319,15 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
+                     "nome":  "Eugenio",
+                     "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  "08:36",
+                     "primeiro":  "08:16",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -420,6 +420,15 @@ window.PAINEL = {
                          "dur":  "00:24:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "SUPERMERCADO UNIAO WENG LTDA",
+                         "mun":  "ENGENHEIRO COEL",
+                         "in":  "08:58:11",
+                         "out":  "09:37:10",
+                         "km":  0.99,
+                         "dur":  "00:38:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO BIG COMPRA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -447,6 +456,15 @@ window.PAINEL = {
                          "dur":  "00:47:00"
                      },
                      {
+                         "nome":  "Sao Carlos",
+                         "razao":  "COGEB SUPERMERCADOS LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "08:21:55",
+                         "out":  "09:33:57",
+                         "km":  1.06,
+                         "dur":  "01:11:00"
+                     },
+                     {
                          "nome":  "Alan",
                          "razao":  "ENXUTO SUPERMERCADOS LTDA.",
                          "mun":  "CAMPINAS",
@@ -472,6 +490,15 @@ window.PAINEL = {
                          "out":  "08:36:47",
                          "km":  2.5,
                          "dur":  "00:32:00"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SJJ MERCADO LTDA",
+                         "mun":  "SAO JOSE DOS CA",
+                         "in":  "08:36:32",
+                         "out":  "09:34:32",
+                         "km":  12.78,
+                         "dur":  "00:57:00"
                      }
                  ],
     "eventos":  [
@@ -481,7 +508,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:14:23"
+                        "tempo":  "01:29:24"
                     },
                     {
                         "nome":  "Rachel",
@@ -489,7 +516,7 @@ window.PAINEL = {
                         "obs":  "mogi mirim/guacu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:32:06"
+                        "tempo":  "00:47:07"
                     }
                 ],
     "semped":  [
@@ -510,6 +537,12 @@ window.PAINEL = {
                        "razao":  "UNIAO WENG SUPERMERCADO LTDA",
                        "mun":  "ENGENHEIRO COEL",
                        "obs":  "cotação"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "SUPERMERCADO UNIAO WENG LTDA",
+                       "mun":  "ENGENHEIRO COEL",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -517,91 +550,85 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:29:26"
+                         "tempo":  "01:44:26"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADOS REX LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:42:23"
+                         "tempo":  "00:57:23"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:01:08"
+                         "tempo":  "00:16:08"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.04",
                          "mun":  "HORTOLANDIA",
-                         "tempo":  "01:50:26"
+                         "tempo":  "02:05:26"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA - LJ.03",
                          "mun":  "JUNDIAI",
-                         "tempo":  "02:32:01"
+                         "tempo":  "02:47:01"
+                     },
+                     {
+                         "nome":  "Vinicius",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "ITU",
+                         "tempo":  "00:06:46"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "SM. JD. DOS CALEGARIS LTDA - LJ. 02",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:51:20"
+                         "tempo":  "01:06:20"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "CELIA MARQUES - EPP.",
                          "mun":  "CRISTAIS PAULIS",
-                         "tempo":  "00:52:52"
+                         "tempo":  "01:07:52"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERRANA",
-                         "tempo":  "00:21:14"
+                         "tempo":  "00:36:14"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:15:58"
-                     },
-                     {
-                         "nome":  "Costa",
-                         "razao":  "SUPERMERCADO UNIAO WENG LTDA",
-                         "mun":  "ENGENHEIRO COEL",
-                         "tempo":  "00:26:01"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "COGEB SUPERMERCADOS LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "01:02:17"
+                         "tempo":  "00:30:58"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:07:24"
+                         "tempo":  "01:22:24"
+                     },
+                     {
+                         "nome":  "Alan",
+                         "razao":  "SUPER SETE SUPERMERCADO LTDA.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:13:09"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:35:55"
+                         "tempo":  "00:50:55"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO PAIZAO SAO BENTO LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:08:05"
-                     },
-                     {
-                         "nome":  "Mariangela",
-                         "razao":  "SJJ MERCADO LTDA",
-                         "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:47:40"
+                         "tempo":  "01:23:05"
                      }
                  ],
     "hist":  [
@@ -712,8 +739,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     12,
-                     3
+                     15,
+                     4
                  ]
              ],
     "historico":  {
@@ -16203,7 +16230,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "09:30",
+                                         "dataHora":  "09:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -16296,6 +16323,15 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  61.85,
+                                                       "tv":  62
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -16305,22 +16341,13 @@ window.PAINEL = {
                                                        "tv":  47
                                                    },
                                                    {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  60.86,
-                                                       "tv":  24
-                                                   },
-                                                   {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  1.06,
+                                                       "tv":  71
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -16377,13 +16404,13 @@ window.PAINEL = {
                                                        "tv":  61
                                                    },
                                                    {
-                                                       "nome":  "Eugenio",
-                                                       "setor":  "ATIBAIA",
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  12.78,
+                                                       "tv":  57
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -16395,8 +16422,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
+                                                       "nome":  "Eugenio",
+                                                       "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -16466,6 +16493,13 @@ window.PAINEL = {
                                                          "tv":  24
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "SUPERMERCADO UNIAO WENG LTDA",
+                                                         "p":  0,
+                                                         "km":  0.99,
+                                                         "tv":  38
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                                          "p":  1,
@@ -16487,6 +16521,13 @@ window.PAINEL = {
                                                          "tv":  47
                                                      },
                                                      {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "COGEB SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  1.06,
+                                                         "tv":  71
+                                                     },
+                                                     {
                                                          "n":  "Alan",
                                                          "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -16506,6 +16547,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  2.5,
                                                          "tv":  32
+                                                     },
+                                                     {
+                                                         "n":  "Mariangela",
+                                                         "r":  "SJJ MERCADO LTDA",
+                                                         "p":  1,
+                                                         "km":  12.78,
+                                                         "tv":  57
                                                      }
                                                  ]
                                      }

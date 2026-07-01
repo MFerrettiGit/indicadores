@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15578,6 +15578,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  61.85,
+                                     "tv":  62
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -15587,22 +15596,13 @@
                                      "tv":  47
                                  },
                                  {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  60.86,
-                                     "tv":  24
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  1.06,
+                                     "tv":  71
                                  },
                                  {
                                      "nome":  "Luis",
@@ -15659,13 +15659,13 @@
                                      "tv":  61
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  12.78,
+                                     "tv":  57
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -15677,8 +15677,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -15748,6 +15748,13 @@
                                        "tv":  24
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO UNIAO WENG LTDA",
+                                       "p":  0,
+                                       "km":  0.99,
+                                       "tv":  38
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADO BIG COMPRA LTDA",
                                        "p":  1,
@@ -15769,6 +15776,13 @@
                                        "tv":  47
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "COGEB SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  1.06,
+                                       "tv":  71
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -15788,6 +15802,13 @@
                                        "p":  0,
                                        "km":  2.5,
                                        "tv":  32
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SJJ MERCADO LTDA",
+                                       "p":  1,
+                                       "km":  12.78,
+                                       "tv":  57
                                    }
                                ]
                    }
