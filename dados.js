@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "17:00",
+    "dataHora":  "17:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -24,7 +24,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  69.58,
+                     "km":  103.41,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:04",
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "16:02",
                      "tv":  "05:33:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Rachel",
@@ -233,14 +233,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  90.13,
+                     "visitas":  4,
+                     "km":  99.85,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "09:08",
-                     "ultimo":  "14:51",
-                     "tv":  "03:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:59",
+                     "tv":  "05:29:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -331,7 +331,7 @@ window.PAINEL = {
                      "ultimo":  "13:20",
                      "tv":  "04:26:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -751,6 +751,15 @@ window.PAINEL = {
                          "out":  "14:51:04",
                          "km":  23.1,
                          "dur":  "01:20:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "15:11:12",
+                         "out":  "16:59:37",
+                         "km":  9.72,
+                         "dur":  "01:46:00"
                      },
                      {
                          "nome":  "Luis",
@@ -1295,6 +1304,14 @@ window.PAINEL = {
                         "tempo":  "00:23:48"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Rifaina a Franca",
+                        "inicio":  "16:03",
+                        "final":  "17:07",
+                        "tempo":  "01:04:02"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1428,7 +1445,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:45:08"
+                        "tempo":  "09:00:05"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -1436,7 +1453,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:26:54"
+                        "tempo":  "01:41:51"
                     },
                     {
                         "nome":  "Costa",
@@ -1444,15 +1461,7 @@ window.PAINEL = {
                         "obs":  "retorno pra casa",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:22:32"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Rifaina a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:51:52"
+                        "tempo":  "01:37:29"
                     },
                     {
                         "nome":  "Maira",
@@ -1460,7 +1469,15 @@ window.PAINEL = {
                         "obs":  "Arcal",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:56"
+                        "tempo":  "00:53:53"
+                    },
+                    {
+                        "nome":  "Castro",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  ".",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:20"
                     }
                 ],
     "semped":  [
@@ -1602,43 +1619,37 @@ window.PAINEL = {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.05",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:24:48"
+                         "tempo":  "00:39:48"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO SB BABA LTDA.",
                          "mun":  "JARDINOPOLIS",
-                         "tempo":  "02:54:59"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:43:01"
+                         "tempo":  "03:09:59"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:37:19"
+                         "tempo":  "02:52:19"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "COMPRE MAIS SUPERMERCADO INDAIATUBA LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:56:06"
+                         "tempo":  "01:11:06"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "VIRGINIA MARIA ANTUNES SUPERMERCADO",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:10:49"
+                         "tempo":  "00:25:49"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO AQUARIUS LTDA",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:20:37"
+                         "tempo":  "00:35:37"
                      }
                  ],
     "hist":  [
@@ -1749,7 +1760,7 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     99,
+                     100,
                      26
                  ]
              ],
@@ -17240,7 +17251,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "17:00",
+                                         "dataHora":  "17:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17257,7 +17268,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  69.58,
+                                                       "km":  103.41,
                                                        "tv":  343
                                                    },
                                                    {
@@ -17381,10 +17392,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  90.13,
-                                                       "tv":  223
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  99.85,
+                                                       "tv":  329
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -17760,6 +17771,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  23.1,
                                                          "tv":  80
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  9.72,
+                                                         "tv":  106
                                                      },
                                                      {
                                                          "n":  "Luis",

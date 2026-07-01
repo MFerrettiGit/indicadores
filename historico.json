@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -15502,7 +15502,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  69.58,
+                                     "km":  103.41,
                                      "tv":  343
                                  },
                                  {
@@ -15626,10 +15626,10 @@
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  90.13,
-                                     "tv":  223
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  99.85,
+                                     "tv":  329
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -16005,6 +16005,13 @@
                                        "p":  1,
                                        "km":  23.1,
                                        "tv":  80
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  9.72,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Luis",
