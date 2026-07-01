@@ -15485,8 +15485,17 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "10:15",
+                       "dataHora":  "10:30",
                        "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  57.46,
+                                     "tv":  147
+                                 },
                                  {
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
@@ -15495,15 +15504,6 @@
                                      "pe":  0,
                                      "km":  60.53,
                                      "tv":  106
-                                 },
-                                 {
-                                     "nome":  "Evandro",
-                                     "setor":  "PROMO-CAMPINASSUL",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  39.85,
-                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -15542,8 +15542,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -15551,8 +15551,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -15614,6 +15614,15 @@
                                      "tv":  79
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  66.1,
+                                     "tv":  65
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -15623,22 +15632,13 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  43.18,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  1,
-                                     "km":  7.09,
-                                     "tv":  49
+                                     "km":  17.1,
+                                     "tv":  100
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -15648,6 +15648,15 @@
                                      "pe":  0,
                                      "km":  2.89,
                                      "tv":  32
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  4.3,
+                                     "tv":  127
                                  },
                                  {
                                      "nome":  "Castro",
@@ -15668,26 +15677,17 @@
                                      "tv":  57
                                  },
                                  {
-                                     "nome":  "Eugenio",
-                                     "setor":  "ATIBAIA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.51,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  6.72,
+                                     "tv":  83
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -15741,6 +15741,13 @@
                                        "tv":  100
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  17.61,
+                                       "tv":  47
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "SUPERMERCADO DELTA MAX LTDA",
                                        "p":  1,
@@ -15774,6 +15781,13 @@
                                        "p":  0,
                                        "km":  0.54,
                                        "tv":  16
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  22.92,
+                                       "tv":  65
                                    },
                                    {
                                        "n":  "Maira",
@@ -15825,6 +15839,13 @@
                                        "tv":  49
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "SUPER SETE SUPERMERCADO LTDA.",
+                                       "p":  0,
+                                       "km":  10.01,
+                                       "tv":  51
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.01",
                                        "p":  1,
@@ -15839,11 +15860,25 @@
                                        "tv":  32
                                    },
                                    {
+                                       "n":  "Lucas",
+                                       "r":  "SUPERMERCADO NOVA VIDA INDAIATUBA LTDA",
+                                       "p":  1,
+                                       "km":  6.72,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Mariangela",
                                        "r":  "SJJ MERCADO LTDA",
                                        "p":  1,
                                        "km":  12.78,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO PAIZAO SAO BENTO LTDA",
+                                       "p":  1,
+                                       "km":  3.79,
+                                       "tv":  127
                                    }
                                ]
                    }
