@@ -15485,7 +15485,7 @@
                                ]
                    },
     "2026-07-01":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Vinicius",
@@ -15587,6 +15587,15 @@
                                      "tv":  101
                                  },
                                  {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  3.6,
+                                     "tv":  153
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -15594,15 +15603,6 @@
                                      "pe":  1,
                                      "km":  71.34,
                                      "tv":  108
-                                 },
-                                 {
-                                     "nome":  "Sao Carlos",
-                                     "setor":  "SAO CARLOS",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  2.76,
-                                     "tv":  122
                                  },
                                  {
                                      "nome":  "Maira",
@@ -15614,6 +15614,15 @@
                                      "tv":  166
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  67.03,
+                                     "tv":  143
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -15621,15 +15630,6 @@
                                      "pe":  1,
                                      "km":  16.6,
                                      "tv":  117
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  66.1,
-                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Alan",
@@ -15832,6 +15832,13 @@
                                        "tv":  65
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0.93,
+                                       "tv":  78
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "CELIA MARQUES - EPP.",
                                        "p":  1,
@@ -15900,6 +15907,13 @@
                                        "p":  0,
                                        "km":  1.7,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
+                                       "p":  0,
+                                       "km":  0.84,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Alan",

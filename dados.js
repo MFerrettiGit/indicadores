@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "01/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Vinicius",
@@ -169,6 +169,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Sao Carlos",
+                     "setor":  "SAO CARLOS",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  3.6,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:21",
+                     "ultimo":  "11:41",
+                     "tv":  "02:33:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Rachel",
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
@@ -180,21 +195,6 @@ window.PAINEL = {
                      "primeiro":  "08:04",
                      "ultimo":  "10:52",
                      "tv":  "01:48:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Sao Carlos",
-                     "setor":  "SAO CARLOS",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  2.76,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:21",
-                     "ultimo":  "11:05",
-                     "tv":  "02:02:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -214,6 +214,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  67.03,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "09:08",
+                     "ultimo":  "11:44",
+                     "tv":  "02:23:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:31",
                      "ultimo":  "10:29",
                      "tv":  "01:57:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  66.1,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "09:08",
-                     "ultimo":  "10:13",
-                     "tv":  "01:05:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:03",
                      "ultimo":  "08:36",
                      "tv":  "00:32:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -528,6 +528,15 @@ window.PAINEL = {
                          "dur":  "01:05:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "10:26:03",
+                         "out":  "11:44:39",
+                         "km":  0.93,
+                         "dur":  "01:18:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "CELIA MARQUES - EPP.",
                          "mun":  "CRISTAIS PAULIS",
@@ -616,6 +625,15 @@ window.PAINEL = {
                          "out":  "11:05:26",
                          "km":  1.7,
                          "dur":  "00:51:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
+                         "mun":  "SAO CARLOS",
+                         "in":  "11:10:36",
+                         "out":  "11:41:45",
+                         "km":  0.84,
+                         "dur":  "00:31:00"
                      },
                      {
                          "nome":  "Alan",
@@ -739,7 +757,7 @@ window.PAINEL = {
                         "obs":  "veículo em manutenção",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "03:29:35"
+                        "tempo":  "03:44:33"
                     },
                     {
                         "nome":  "Edimilson",
@@ -747,7 +765,23 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:38"
+                        "tempo":  "00:22:36"
+                    },
+                    {
+                        "nome":  "Sao Carlos",
+                        "tipo":  "Outro",
+                        "obs":  "prospecção cliente",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:03:35"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:00:17"
                     }
                 ],
     "semped":  [
@@ -810,6 +844,12 @@ window.PAINEL = {
                        "razao":  "SIDNEI APARECIDO MANGERONA",
                        "mun":  "SAO CARLOS",
                        "obs":  "prospecção"
+                   },
+                   {
+                       "nome":  "Sao Carlos",
+                       "razao":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
+                       "mun":  "SAO CARLOS",
+                       "obs":  "prospecção"
                    }
                ],
     "emvisita":  [
@@ -817,91 +857,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LEME",
-                         "tempo":  "00:18:09"
+                         "tempo":  "00:33:06"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:42:07"
+                         "tempo":  "00:57:04"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "01:24:47"
+                         "tempo":  "01:39:44"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "ITU",
-                         "tempo":  "00:28:00"
+                         "tempo":  "00:42:57"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "A.A.DE MELO E CIA LTDA",
                          "mun":  "AMERICANA",
-                         "tempo":  "00:59:03"
+                         "tempo":  "01:14:00"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "MOGI GUACU",
-                         "tempo":  "00:42:55"
+                         "tempo":  "00:57:52"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "RAULNY AUGUSTO CAMPOS",
                          "mun":  "PEDREGULHO",
-                         "tempo":  "00:45:55"
+                         "tempo":  "01:00:52"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "JOSE CARLOS NORI",
                          "mun":  "BRODOSQUI",
-                         "tempo":  "01:11:31"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "01:13:10"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "00:28:37"
+                         "tempo":  "01:26:28"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:04:49"
+                         "tempo":  "01:19:46"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SM DIA CIDADE NOVA EIRELI",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:39:16"
+                         "tempo":  "00:54:13"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EVALDO BUENO PEREIRA ITAPETININGA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:02:01"
+                         "tempo":  "01:16:58"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "COOPERATIVA DE CONSUMO COOPERCICA",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:28:06"
+                         "tempo":  "00:43:03"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "DE CASA LTDA",
+                         "mun":  "PIRACICABA",
+                         "tempo":  "00:03:04"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "MERCADINHO ARAUJO E PEREIRA LTDA ME",
                          "mun":  "SAO JOSE DOS CA",
-                         "tempo":  "00:27:11"
+                         "tempo":  "00:42:08"
                      }
                  ],
     "hist":  [
@@ -1012,8 +1046,8 @@ window.PAINEL = {
                  ],
                  [
                      "01/07",
-                     40,
-                     12
+                     43,
+                     14
                  ]
              ],
     "historico":  {
@@ -16503,7 +16537,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-01":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Vinicius",
@@ -16605,6 +16639,15 @@ window.PAINEL = {
                                                        "tv":  101
                                                    },
                                                    {
+                                                       "nome":  "Sao Carlos",
+                                                       "setor":  "SAO CARLOS",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  3.6,
+                                                       "tv":  153
+                                                   },
+                                                   {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
@@ -16612,15 +16655,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  71.34,
                                                        "tv":  108
-                                                   },
-                                                   {
-                                                       "nome":  "Sao Carlos",
-                                                       "setor":  "SAO CARLOS",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  2.76,
-                                                       "tv":  122
                                                    },
                                                    {
                                                        "nome":  "Maira",
@@ -16632,6 +16666,15 @@ window.PAINEL = {
                                                        "tv":  166
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  67.03,
+                                                       "tv":  143
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -16639,15 +16682,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  16.6,
                                                        "tv":  117
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  66.1,
-                                                       "tv":  65
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -16850,6 +16884,13 @@ window.PAINEL = {
                                                          "tv":  65
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  0.93,
+                                                         "tv":  78
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "CELIA MARQUES - EPP.",
                                                          "p":  1,
@@ -16918,6 +16959,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.7,
                                                          "tv":  51
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "TURI COMERCIO DE FRUTAS E VERDURAS LTDA",
+                                                         "p":  0,
+                                                         "km":  0.84,
+                                                         "tv":  31
                                                      },
                                                      {
                                                          "n":  "Alan",
