@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "11:15",
+                       "dataHora":  "11:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16432,6 +16432,15 @@
                                      "pe":  0,
                                      "km":  79.65,
                                      "tv":  165
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  45.35,
+                                     "tv":  176
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -16468,15 +16477,6 @@
                                      "pe":  0,
                                      "km":  8.31,
                                      "tv":  133
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  41.18,
-                                     "tv":  119
                                  },
                                  {
                                      "nome":  "Aline",
@@ -16518,28 +16518,28 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
                                      "km":  2.44,
-                                     "tv":  106
+                                     "tv":  172
                                  },
                                  {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  40.84,
-                                     "tv":  61
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  60.08,
+                                     "tv":  163
                                  },
                                  {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  9.93,
-                                     "tv":  101
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  15.64,
+                                     "tv":  164
                                  },
                                  {
                                      "nome":  "Costa",
@@ -16563,10 +16563,10 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  13.93,
+                                     "tv":  133
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -16741,6 +16741,13 @@
                                        "tv":  74
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  4.17,
+                                       "tv":  57
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16769,11 +16776,25 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  19.24,
+                                       "tv":  102
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                        "p":  0,
                                        "km":  2.44,
                                        "tv":  106
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  66
                                    },
                                    {
                                        "n":  "Maira",
@@ -16802,6 +16823,20 @@
                                        "p":  1,
                                        "km":  9.55,
                                        "tv":  101
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO DUMARIA LTDA",
+                                       "p":  1,
+                                       "km":  5.71,
+                                       "tv":  63
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCADO E PADARIA PANE SILVIO LTDA.",
+                                       "p":  1,
+                                       "km":  13.93,
+                                       "tv":  133
                                    },
                                    {
                                        "n":  "Alan",

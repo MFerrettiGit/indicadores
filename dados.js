@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "11:15",
+    "dataHora":  "11:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -16,6 +16,21 @@ window.PAINEL = {
                      "ultimo":  "10:39",
                      "tv":  "02:45:00",
                      "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  3,
+                     "km":  45.35,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:26",
+                     "ultimo":  "11:23",
+                     "tv":  "02:56:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -79,21 +94,6 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  2,
-                     "km":  41.18,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "07:26",
-                     "ultimo":  "10:03",
-                     "tv":  "01:59:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Aline",
                      "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:35",
                      "ultimo":  "11:05",
                      "tv":  "03:19:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
+                     "visitas":  2,
                      "km":  2.44,
-                     "semPed":  1,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:19",
-                     "ultimo":  "10:07",
-                     "tv":  "01:46:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:18",
+                     "tv":  "02:52:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  40.84,
+                     "visitas":  2,
+                     "km":  60.08,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:21",
-                     "ultimo":  "09:23",
-                     "tv":  "01:01:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:22",
+                     "tv":  "02:43:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -188,14 +188,14 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  9.93,
+                     "visitas":  2,
+                     "km":  15.64,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:23",
-                     "ultimo":  "10:05",
-                     "tv":  "01:41:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:22",
+                     "tv":  "02:44:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "09:47",
                      "tv":  "01:07:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -233,14 +233,14 @@ window.PAINEL = {
                      "setor":  "SAO CARLOS",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
+                     "visitas":  1,
+                     "km":  13.93,
                      "semPed":  0,
-                     "perc":  null,
+                     "perc":  0,
                      "primeiro":  "09:03",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:16",
+                     "tv":  "02:13:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -492,6 +492,15 @@ window.PAINEL = {
                          "dur":  "01:14:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "10:25:53",
+                         "out":  "11:23:21",
+                         "km":  4.17,
+                         "dur":  "00:57:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
@@ -528,6 +537,15 @@ window.PAINEL = {
                          "dur":  "01:01:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "09:40:02",
+                         "out":  "11:22:58",
+                         "km":  19.24,
+                         "dur":  "01:42:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
@@ -535,6 +553,15 @@ window.PAINEL = {
                          "out":  "10:07:03",
                          "km":  2.44,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Luis",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "10:11:29",
+                         "out":  "11:18:18",
+                         "km":  0,
+                         "dur":  "01:06:00"
                      },
                      {
                          "nome":  "Maira",
@@ -571,6 +598,24 @@ window.PAINEL = {
                          "out":  "10:05:20",
                          "km":  9.55,
                          "dur":  "01:41:00"
+                     },
+                     {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO DUMARIA LTDA",
+                         "mun":  "MONTE ALEGRE DO",
+                         "in":  "10:19:11",
+                         "out":  "11:22:42",
+                         "km":  5.71,
+                         "dur":  "01:03:00"
+                     },
+                     {
+                         "nome":  "Sao Carlos",
+                         "razao":  "MERCADO E PADARIA PANE SILVIO LTDA.",
+                         "mun":  "SAO CARLOS",
+                         "in":  "09:03:27",
+                         "out":  "11:16:37",
+                         "km":  13.93,
+                         "dur":  "02:13:00"
                      },
                      {
                          "nome":  "Alan",
@@ -757,6 +802,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "visita de rotina"
+                   },
+                   {
                        "nome":  "Lucas",
                        "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                        "mun":  "INDAIATUBA",
@@ -786,103 +837,85 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:30:30"
+                         "tempo":  "00:45:19"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:12:03"
+                         "tempo":  "00:26:52"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:28:47"
+                         "tempo":  "00:43:36"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:35:29"
+                         "tempo":  "00:50:18"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:23:00"
+                         "tempo":  "00:37:49"
                      },
                      {
-                         "nome":  "Silmara",
-                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "nome":  "Maira",
+                         "razao":  "J.F. MENDES E CIA LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:43:31"
+                         "tempo":  "00:11:59"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO DUMARIA LTDA",
-                         "mun":  "MONTE ALEGRE DO",
-                         "tempo":  "00:50:13"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:57:55"
-                     },
-                     {
-                         "nome":  "Fernando",
-                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "nome":  "Milene",
+                         "razao":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:29:22"
+                         "tempo":  "00:07:39"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:57:39"
-                     },
-                     {
-                         "nome":  "Sao Carlos",
-                         "razao":  "MERCADO E PADARIA PANE SILVIO LTDA.",
-                         "mun":  "SAO CARLOS",
-                         "tempo":  "02:05:57"
+                         "tempo":  "01:12:28"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VILA MIMOSA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:14:43"
+                         "tempo":  "00:29:32"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:28:44"
+                         "tempo":  "01:43:33"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:36:33"
+                         "tempo":  "00:51:22"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:07:40"
+                         "tempo":  "00:22:29"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N N NASTARO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:16:46"
+                         "tempo":  "00:31:35"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MANDARIN LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:10:06"
+                         "tempo":  "00:24:55"
                      }
                  ],
     "hist":  [
@@ -993,8 +1026,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     37,
-                     9
+                     42,
+                     10
                  ]
              ],
     "historico":  {
@@ -17421,7 +17454,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "11:15",
+                                         "dataHora":  "11:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17431,6 +17464,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  79.65,
                                                        "tv":  165
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  3,
+                                                       "pe":  0,
+                                                       "km":  45.35,
+                                                       "tv":  176
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -17467,15 +17509,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  8.31,
                                                        "tv":  133
-                                                   },
-                                                   {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  2,
-                                                       "pe":  0,
-                                                       "km":  41.18,
-                                                       "tv":  119
                                                    },
                                                    {
                                                        "nome":  "Aline",
@@ -17517,28 +17550,28 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
                                                        "km":  2.44,
-                                                       "tv":  106
+                                                       "tv":  172
                                                    },
                                                    {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  40.84,
-                                                       "tv":  61
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  60.08,
+                                                       "tv":  163
                                                    },
                                                    {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  9.93,
-                                                       "tv":  101
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  15.64,
+                                                       "tv":  164
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -17562,10 +17595,10 @@ window.PAINEL = {
                                                        "nome":  "Sao Carlos",
                                                        "setor":  "SAO CARLOS",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "vi":  1,
+                                                       "pe":  1,
+                                                       "km":  13.93,
+                                                       "tv":  133
                                                    },
                                                    {
                                                        "nome":  "Nelson",
@@ -17740,6 +17773,13 @@ window.PAINEL = {
                                                          "tv":  74
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                                         "p":  1,
+                                                         "km":  4.17,
+                                                         "tv":  57
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "TAUSTE SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -17768,11 +17808,25 @@ window.PAINEL = {
                                                          "tv":  61
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                                         "p":  1,
+                                                         "km":  19.24,
+                                                         "tv":  102
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                                          "p":  0,
                                                          "km":  2.44,
                                                          "tv":  106
+                                                     },
+                                                     {
+                                                         "n":  "Luis",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  0,
+                                                         "tv":  66
                                                      },
                                                      {
                                                          "n":  "Maira",
@@ -17801,6 +17855,20 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  9.55,
                                                          "tv":  101
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO DUMARIA LTDA",
+                                                         "p":  1,
+                                                         "km":  5.71,
+                                                         "tv":  63
+                                                     },
+                                                     {
+                                                         "n":  "Sao Carlos",
+                                                         "r":  "MERCADO E PADARIA PANE SILVIO LTDA.",
+                                                         "p":  1,
+                                                         "km":  13.93,
+                                                         "tv":  133
                                                      },
                                                      {
                                                          "n":  "Alan",
