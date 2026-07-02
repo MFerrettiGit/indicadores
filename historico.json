@@ -16422,16 +16422,16 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "12:45",
+                       "dataHora":  "13:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  85.79,
-                                     "tv":  226
+                                     "km":  89.14,
+                                     "tv":  266
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -16760,6 +16760,13 @@
                                        "p":  1,
                                        "km":  6.14,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  1,
+                                       "km":  3.35,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Silmara",
