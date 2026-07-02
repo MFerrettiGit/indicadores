@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "09:45",
+    "dataHora":  "10:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -147,10 +147,10 @@ window.PAINEL = {
                      "km":  0,
                      "semPed":  0,
                      "perc":  null,
-                     "primeiro":  null,
+                     "primeiro":  "09:39",
                      "ultimo":  null,
                      "tv":  "00:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -165,7 +165,7 @@ window.PAINEL = {
                      "primeiro":  "08:21",
                      "ultimo":  "09:23",
                      "tv":  "01:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -182,6 +182,21 @@ window.PAINEL = {
                      "tv":  "00:51:00",
                      "emVisita":  0,
                      "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  1,
+                     "km":  5.36,
+                     "semPed":  1,
+                     "perc":  100,
+                     "primeiro":  "08:39",
+                     "ultimo":  "09:47",
+                     "tv":  "01:07:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Luis",
@@ -208,21 +223,6 @@ window.PAINEL = {
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  "08:23",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0.56,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  "08:39",
                      "ultimo":  null,
                      "tv":  "00:00:00",
                      "emVisita":  1,
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "09:23",
                      "tv":  "01:23:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:19",
                      "ultimo":  "09:21",
                      "tv":  "01:02:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -315,7 +315,7 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "09:06",
                      "tv":  "00:38:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -338,14 +338,14 @@ window.PAINEL = {
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  1.87,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  5.07,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "08:34",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "09:41",
+                     "tv":  "01:06:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -456,6 +456,15 @@ window.PAINEL = {
                          "dur":  "01:01:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                         "mun":  "SANTA BARBARA D",
+                         "in":  "08:39:31",
+                         "out":  "09:47:11",
+                         "km":  4.8,
+                         "dur":  "01:07:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
@@ -501,6 +510,15 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Lucas",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "08:34:24",
+                         "out":  "09:41:04",
+                         "km":  3.2,
+                         "dur":  "01:06:00"
+                     },
+                     {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
                          "mun":  "JACAREI",
@@ -544,9 +562,29 @@ window.PAINEL = {
                         "inicio":  "08:24",
                         "final":  "09:02",
                         "tempo":  "00:38:04"
+                    },
+                    {
+                        "nome":  "Maira",
+                        "tipo":  "Em Viagem",
+                        "obs":  "limeira",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:52"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "SUPER.STA.UNIAO WENG LTDA",
+                       "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Lucas",
+                       "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                       "mun":  "INDAIATUBA",
+                       "obs":  "visita"
+                   },
                    {
                        "nome":  "Nelson",
                        "razao":  "MERCADO MIRANDA EXPRESS LTDA",
@@ -562,94 +600,112 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "SAO JOAO DA BOA",
+                         "tempo":  "00:14:13"
+                     },
+                     {
                          "nome":  "Debora",
                          "razao":  "EXAMINE SUPERMERCADOS LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:28:46"
+                         "tempo":  "00:43:49"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "02:41:18"
+                         "tempo":  "02:56:21"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:20:06"
+                         "tempo":  "00:35:09"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:44:00"
+                         "tempo":  "00:59:03"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "01:06:57"
+                         "tempo":  "01:22:00"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:50:21"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "SUPER.STA.UNIAO WENG LTDA",
-                         "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:59:35"
+                         "tempo":  "01:05:24"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
-                         "tempo":  "01:15:08"
+                         "tempo":  "01:30:11"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "01:19:37"
+                         "tempo":  "01:34:40"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADOS GRICKI LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:56:15"
+                         "tempo":  "01:11:18"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:14:07"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "MERCADO E PADARIA PANE SILVIO LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:35:39"
+                         "tempo":  "00:50:42"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COMERCIAL ATACADISTA  LTDA",
                          "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "00:25:40"
+                         "tempo":  "00:40:43"
                      },
                      {
-                         "nome":  "Lucas",
-                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "01:04:42"
+                         "nome":  "Alan",
+                         "razao":  "MERCADINHO YEDA LTDA-ME.",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:10:38"
+                     },
+                     {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "tempo":  "00:13:29"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SUPERMERCAO DO WAGUINHO LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:03:26"
+                         "tempo":  "00:18:29"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:09:07"
+                         "tempo":  "00:24:10"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "FTJ SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:05:49"
                      }
                  ],
     "hist":  [
@@ -760,8 +816,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     18,
-                     2
+                     20,
+                     4
                  ]
              ],
     "historico":  {
@@ -17188,7 +17244,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "09:45",
+                                         "dataHora":  "10:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17299,6 +17355,15 @@ window.PAINEL = {
                                                        "tv":  51
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  1,
+                                                       "pe":  0,
+                                                       "km":  5.36,
+                                                       "tv":  67
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -17314,15 +17379,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  0.38,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0.56,
                                                        "tv":  0
                                                    },
                                                    {
@@ -17392,10 +17448,10 @@ window.PAINEL = {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  1.87,
-                                                       "tv":  0
+                                                       "km":  5.07,
+                                                       "tv":  66
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -17479,6 +17535,13 @@ window.PAINEL = {
                                                          "tv":  61
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                                         "p":  0,
+                                                         "km":  4.8,
+                                                         "tv":  67
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "SUPERMERCADOS GRICKI LTDA",
                                                          "p":  1,
@@ -17512,6 +17575,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  7.31,
                                                          "tv":  62
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  3.2,
+                                                         "tv":  66
                                                      },
                                                      {
                                                          "n":  "Mariangela",

@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "09:45",
+                       "dataHora":  "10:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16533,6 +16533,15 @@
                                      "tv":  51
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  5.36,
+                                     "tv":  67
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -16548,15 +16557,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.38,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.56,
                                      "tv":  0
                                  },
                                  {
@@ -16626,10 +16626,10 @@
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  1.87,
-                                     "tv":  0
+                                     "km":  5.07,
+                                     "tv":  66
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -16713,6 +16713,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPER.STA.UNIAO WENG LTDA",
+                                       "p":  0,
+                                       "km":  4.8,
+                                       "tv":  67
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
@@ -16746,6 +16753,13 @@
                                        "p":  1,
                                        "km":  7.31,
                                        "tv":  62
+                                   },
+                                   {
+                                       "n":  "Lucas",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  3.2,
+                                       "tv":  66
                                    },
                                    {
                                        "n":  "Mariangela",
