@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "13:00",
+                       "dataHora":  "13:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16452,6 +16452,24 @@
                                      "tv":  222
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  49.35,
+                                     "tv":  232
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  48.43,
+                                     "tv":  331
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -16468,24 +16486,6 @@
                                      "pe":  0,
                                      "km":  16.11,
                                      "tv":  174
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  45.04,
-                                     "tv":  205
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  46.33,
-                                     "tv":  183
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -16657,6 +16657,13 @@
                                        "tv":  25
                                    },
                                    {
+                                       "n":  "Aline",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  4.31,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16669,6 +16676,13 @@
                                        "p":  1,
                                        "km":  3.68,
                                        "tv":  69
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "SUPERMERCADO DE PENIDO LTDA",
+                                       "p":  1,
+                                       "km":  2.1,
+                                       "tv":  148
                                    },
                                    {
                                        "n":  "Edimilson",
