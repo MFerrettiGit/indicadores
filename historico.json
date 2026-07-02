@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "11:00",
+                       "dataHora":  "11:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16500,10 +16500,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  22.2,
-                                     "tv":  57
+                                     "km":  23.99,
+                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -16635,10 +16635,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  25.75,
+                                     "tv":  101
                                  }
                              ],
                        "cli":  [
@@ -16790,6 +16790,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADOS GRICKI LTDA",
+                                       "p":  1,
+                                       "km":  1.79,
+                                       "tv":  142
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                        "p":  1,
@@ -16837,6 +16844,13 @@
                                        "p":  0,
                                        "km":  1.95,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "UNIAO COMERCIAL ATACADISTA  LTDA",
+                                       "p":  0,
+                                       "km":  25.75,
+                                       "tv":  101
                                    },
                                    {
                                        "n":  "Karina",

@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "11:00",
+    "dataHora":  "11:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "10:39",
                      "tv":  "02:45:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  22.2,
+                     "visitas":  2,
+                     "km":  23.99,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:35",
-                     "ultimo":  "08:33",
-                     "tv":  "00:57:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:05",
+                     "tv":  "03:19:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:16",
                      "ultimo":  "10:50",
                      "tv":  "02:22:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "10:38",
                      "tv":  "02:18:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -300,7 +300,7 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "10:49",
                      "tv":  "01:39:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
+                     "visitas":  1,
+                     "km":  25.75,
+                     "semPed":  1,
+                     "perc":  100,
                      "primeiro":  "09:13",
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  1,
+                     "ultimo":  "10:54",
+                     "tv":  "01:41:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -555,6 +555,15 @@ window.PAINEL = {
                          "dur":  "00:57:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SUPERMERCADOS GRICKI LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "08:42:51",
+                         "out":  "11:05:14",
+                         "km":  1.79,
+                         "dur":  "02:22:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
@@ -616,6 +625,15 @@ window.PAINEL = {
                          "out":  "09:56:08",
                          "km":  1.95,
                          "dur":  "00:26:00"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNIAO COMERCIAL ATACADISTA  LTDA",
+                         "mun":  "BRAGANCA PAULIS",
+                         "in":  "09:13:26",
+                         "out":  "10:54:52",
+                         "km":  25.75,
+                         "dur":  "01:41:00"
                      },
                      {
                          "nome":  "Karina",
@@ -715,6 +733,12 @@ window.PAINEL = {
                        "obs":  "comprador ausente"
                    },
                    {
+                       "nome":  "Eugenio",
+                       "razao":  "UNIAO COMERCIAL ATACADISTA  LTDA",
+                       "mun":  "BRAGANCA PAULIS",
+                       "obs":  "resolvendo pendência CD Rede União"
+                   },
+                   {
                        "nome":  "Alan",
                        "razao":  "MERCADINHO YEDA LTDA-ME.",
                        "mun":  "CAMPINAS",
@@ -762,91 +786,103 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "00:15:13"
+                         "tempo":  "00:30:30"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:12:03"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:13:30"
+                         "tempo":  "00:28:47"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:20:12"
+                         "tempo":  "00:35:29"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:07:43"
+                         "tempo":  "00:23:00"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:28:14"
+                         "tempo":  "00:43:31"
                      },
                      {
                          "nome":  "Rachel",
                          "razao":  "SUPERMERCADO DUMARIA LTDA",
                          "mun":  "MONTE ALEGRE DO",
-                         "tempo":  "00:34:56"
+                         "tempo":  "00:50:13"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "FRANCA",
-                         "tempo":  "00:42:38"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SUPERMERCADOS GRICKI LTDA",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "02:11:16"
+                         "tempo":  "00:57:55"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "COOP. PLANT. CANA DO OESTE EST. SP.",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "01:14:05"
+                         "tempo":  "01:29:22"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:42:22"
+                         "tempo":  "00:57:39"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "MERCADO E PADARIA PANE SILVIO LTDA.",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:50:40"
+                         "tempo":  "02:05:57"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "UNIAO COMERCIAL ATACADISTA  LTDA",
-                         "mun":  "BRAGANCA PAULIS",
-                         "tempo":  "01:40:41"
+                         "nome":  "Alan",
+                         "razao":  "VILA MIMOSA LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:14:43"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:13:27"
+                         "tempo":  "01:28:44"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:21:16"
+                         "tempo":  "00:36:33"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                         "mun":  "ITAPETININGA",
+                         "tempo":  "00:07:40"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N N NASTARO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:01:29"
+                         "tempo":  "00:16:46"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "SUPERMERCADO MANDARIN LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:10:06"
                      }
                  ],
     "hist":  [
@@ -957,8 +993,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     35,
-                     8
+                     37,
+                     9
                  ]
              ],
     "historico":  {
@@ -17385,7 +17421,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "11:00",
+                                         "dataHora":  "11:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17463,10 +17499,10 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  22.2,
-                                                       "tv":  57
+                                                       "km":  23.99,
+                                                       "tv":  199
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
@@ -17598,10 +17634,10 @@ window.PAINEL = {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  0,
+                                                       "vi":  1,
                                                        "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
+                                                       "km":  25.75,
+                                                       "tv":  101
                                                    }
                                                ],
                                          "cli":  [
@@ -17753,6 +17789,13 @@ window.PAINEL = {
                                                          "tv":  57
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SUPERMERCADOS GRICKI LTDA",
+                                                         "p":  1,
+                                                         "km":  1.79,
+                                                         "tv":  142
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                                          "p":  1,
@@ -17800,6 +17843,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.95,
                                                          "tv":  26
+                                                     },
+                                                     {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNIAO COMERCIAL ATACADISTA  LTDA",
+                                                         "p":  0,
+                                                         "km":  25.75,
+                                                         "tv":  101
                                                      },
                                                      {
                                                          "n":  "Karina",
