@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "12:30",
+    "dataHora":  "12:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -19,6 +19,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Silmara",
+                     "setor":  "PROMO-STA BARBARA",
+                     "regional":  "Regional Merchandising",
+                     "tipo":  "OP",
+                     "visitas":  4,
+                     "km":  49.54,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "07:26",
+                     "ultimo":  "12:27",
+                     "tv":  "03:19:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Eliana",
                      "setor":  "PROMO-JUNDIAI",
                      "regional":  "Regional Merchandising",
@@ -30,8 +45,8 @@ window.PAINEL = {
                      "primeiro":  "06:52",
                      "ultimo":  "11:31",
                      "tv":  "03:42:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Edimilson",
@@ -64,18 +79,18 @@ window.PAINEL = {
                      "emEvento":  1
                  },
                  {
-                     "nome":  "Silmara",
-                     "setor":  "PROMO-STA BARBARA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  45.35,
+                     "visitas":  2,
+                     "km":  45.04,
                      "semPed":  0,
                      "perc":  0,
-                     "primeiro":  "07:26",
-                     "ultimo":  "11:23",
-                     "tv":  "02:56:00",
-                     "emVisita":  1,
+                     "primeiro":  "06:57",
+                     "ultimo":  "12:28",
+                     "tv":  "03:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -90,21 +105,6 @@ window.PAINEL = {
                      "primeiro":  "07:05",
                      "ultimo":  "10:20",
                      "tv":  "03:03:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
-                     "regional":  "Regional Merchandising",
-                     "tipo":  "OP",
-                     "visitas":  1,
-                     "km":  29.53,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "06:57",
-                     "ultimo":  "09:58",
-                     "tv":  "03:00:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -128,14 +128,14 @@ window.PAINEL = {
                      "setor":  "PROMO-RIBEIRAO",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  3,
-                     "km":  26.47,
+                     "visitas":  4,
+                     "km":  28.57,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:35",
-                     "ultimo":  "11:59",
-                     "tv":  "04:01:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:38",
+                     "tv":  "04:25:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -143,13 +143,13 @@ window.PAINEL = {
                      "setor":  "CHAVES CPS",
                      "regional":  "INTERIOR SP",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  170.65,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  229.85,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "09:39",
-                     "ultimo":  "10:47",
-                     "tv":  "01:07:00",
+                     "ultimo":  "12:24",
+                     "tv":  "01:58:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -225,7 +225,7 @@ window.PAINEL = {
                      "primeiro":  "08:39",
                      "ultimo":  "11:52",
                      "tv":  "01:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -304,6 +304,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Castro",
+                     "setor":  "JUNDIAI",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  57.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:32",
+                     "ultimo":  "12:33",
+                     "tv":  "01:42:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
@@ -316,22 +331,7 @@ window.PAINEL = {
                      "ultimo":  "12:14",
                      "tv":  "03:36:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Castro",
-                     "setor":  "JUNDIAI",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  38.34,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:32",
-                     "ultimo":  "10:46",
-                     "tv":  "01:17:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -373,6 +373,15 @@ window.PAINEL = {
                          "out":  "09:58:44",
                          "km":  24.69,
                          "dur":  "03:00:00"
+                     },
+                     {
+                         "nome":  "Aline",
+                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
+                         "mun":  "PAULINIA",
+                         "in":  "12:02:58",
+                         "out":  "12:28:43",
+                         "km":  15.51,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Debora",
@@ -537,6 +546,15 @@ window.PAINEL = {
                          "dur":  "00:57:00"
                      },
                      {
+                         "nome":  "Silmara",
+                         "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                         "mun":  "LIMEIRA",
+                         "in":  "12:03:52",
+                         "out":  "12:27:30",
+                         "km":  4.19,
+                         "dur":  "00:23:00"
+                     },
+                     {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
@@ -681,6 +699,15 @@ window.PAINEL = {
                          "dur":  "00:42:00"
                      },
                      {
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "12:13:24",
+                         "out":  "12:38:04",
+                         "km":  2.1,
+                         "dur":  "00:24:00"
+                     },
+                     {
                          "nome":  "Rachel",
                          "razao":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                          "mun":  "MONTE ALEGRE DO",
@@ -751,6 +778,15 @@ window.PAINEL = {
                          "out":  "10:46:02",
                          "km":  27.65,
                          "dur":  "00:21:00"
+                     },
+                     {
+                         "nome":  "Castro",
+                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                         "mun":  "ITUPEVA",
+                         "in":  "12:08:11",
+                         "out":  "12:33:18",
+                         "km":  18.97,
+                         "dur":  "00:25:00"
                      },
                      {
                          "nome":  "Cominato",
@@ -915,6 +951,14 @@ window.PAINEL = {
                         "tempo":  "02:34:08"
                     },
                     {
+                        "nome":  "Eliana",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  "11:31",
+                        "final":  "12:31",
+                        "tempo":  "01:00:03"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
@@ -928,15 +972,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:55:48"
-                    },
-                    {
-                        "nome":  "Eliana",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "Almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:19"
+                        "tempo":  "01:10:51"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -944,7 +980,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:46:59"
+                        "tempo":  "01:02:02"
                     },
                     {
                         "nome":  "Rachel",
@@ -952,7 +988,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:27:01"
+                        "tempo":  "00:42:04"
                     },
                     {
                         "nome":  "Luis",
@@ -960,7 +996,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:24:00"
+                        "tempo":  "00:39:03"
                     },
                     {
                         "nome":  "Nelson",
@@ -968,7 +1004,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:22:09"
+                        "tempo":  "00:37:12"
                     },
                     {
                         "nome":  "Edimilson",
@@ -976,7 +1012,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:13:10"
+                        "tempo":  "00:28:13"
                     },
                     {
                         "nome":  "Cominato",
@@ -984,7 +1020,15 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:06:20"
+                        "tempo":  "00:21:23"
+                    },
+                    {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:09:07"
                     }
                 ],
     "semped":  [
@@ -1094,57 +1138,45 @@ window.PAINEL = {
     "emvisita":  [
                      {
                          "nome":  "Eduardo",
-                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
-                         "mun":  "MOGI-GUACU",
-                         "tempo":  "00:50:59"
+                         "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.16",
+                         "mun":  "MOGI GUACU",
+                         "tempo":  "00:06:07"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:45:16"
-                     },
-                     {
-                         "nome":  "Aline",
-                         "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
-                         "mun":  "PAULINIA",
-                         "tempo":  "00:21:12"
+                         "tempo":  "02:00:17"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:14:41"
+                         "tempo":  "00:29:42"
                      },
                      {
-                         "nome":  "Silmara",
-                         "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                         "nome":  "Eliana",
+                         "razao":  "IRMAOS BOA LTDA",
+                         "mun":  "VARZEA PAULISTA",
+                         "tempo":  "00:06:38"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO ZARGON LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:20:18"
-                     },
-                     {
-                         "nome":  "Milene",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "SERTAOZINHO",
-                         "tempo":  "00:10:46"
+                         "tempo":  "00:10:50"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BR1 COMERCIO DE PROD. ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:03"
-                     },
-                     {
-                         "nome":  "Castro",
-                         "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
-                         "mun":  "ITUPEVA",
-                         "tempo":  "00:15:59"
+                         "tempo":  "00:23:04"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "FTJ SUPERMERCADOS LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:03:18"
+                         "tempo":  "00:18:19"
                      }
                  ],
     "hist":  [
@@ -1255,8 +1287,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     59,
-                     16
+                     64,
+                     17
                  ]
              ],
     "historico":  {
@@ -17683,7 +17715,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "12:30",
+                                         "dataHora":  "12:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17693,6 +17725,15 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  85.79,
                                                        "tv":  226
+                                                   },
+                                                   {
+                                                       "nome":  "Silmara",
+                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "regional":  "Regional Merchandising",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  49.54,
+                                                       "tv":  199
                                                    },
                                                    {
                                                        "nome":  "Eliana",
@@ -17722,13 +17763,13 @@ window.PAINEL = {
                                                        "tv":  174
                                                    },
                                                    {
-                                                       "nome":  "Silmara",
-                                                       "setor":  "PROMO-STA BARBARA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  45.35,
-                                                       "tv":  176
+                                                       "km":  45.04,
+                                                       "tv":  205
                                                    },
                                                    {
                                                        "nome":  "Debora",
@@ -17738,15 +17779,6 @@ window.PAINEL = {
                                                        "pe":  0,
                                                        "km":  46.33,
                                                        "tv":  183
-                                                   },
-                                                   {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
-                                                       "regional":  "Regional Merchandising",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  29.53,
-                                                       "tv":  180
                                                    },
                                                    {
                                                        "nome":  "Alex A.",
@@ -17761,19 +17793,19 @@ window.PAINEL = {
                                                        "nome":  "Milene",
                                                        "setor":  "PROMO-RIBEIRAO",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  0,
-                                                       "km":  26.47,
-                                                       "tv":  241
+                                                       "km":  28.57,
+                                                       "tv":  265
                                                    },
                                                    {
                                                        "nome":  "Eduardo",
                                                        "setor":  "CHAVES CPS",
                                                        "regional":  "INTERIOR SP",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  170.65,
-                                                       "tv":  67
+                                                       "km":  229.85,
+                                                       "tv":  118
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -17866,6 +17898,15 @@ window.PAINEL = {
                                                        "tv":  160
                                                    },
                                                    {
+                                                       "nome":  "Castro",
+                                                       "setor":  "JUNDIAI",
+                                                       "regional":  "SUL",
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  57.31,
+                                                       "tv":  102
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
@@ -17873,15 +17914,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  19.58,
                                                        "tv":  216
-                                                   },
-                                                   {
-                                                       "nome":  "Castro",
-                                                       "setor":  "JUNDIAI",
-                                                       "regional":  "SUL",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  38.34,
-                                                       "tv":  77
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -17909,6 +17941,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  24.69,
                                                          "tv":  180
+                                                     },
+                                                     {
+                                                         "n":  "Aline",
+                                                         "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
+                                                         "p":  1,
+                                                         "km":  15.51,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Debora",
@@ -18037,6 +18076,13 @@ window.PAINEL = {
                                                          "tv":  57
                                                      },
                                                      {
+                                                         "n":  "Silmara",
+                                                         "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                                                         "p":  1,
+                                                         "km":  4.19,
+                                                         "tv":  23
+                                                     },
+                                                     {
                                                          "n":  "Vinicius",
                                                          "r":  "TAUSTE SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -18149,6 +18195,13 @@ window.PAINEL = {
                                                          "tv":  42
                                                      },
                                                      {
+                                                         "n":  "Milene",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.1,
+                                                         "tv":  24
+                                                     },
+                                                     {
                                                          "n":  "Rachel",
                                                          "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                                          "p":  1,
@@ -18203,6 +18256,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  27.65,
                                                          "tv":  21
+                                                     },
+                                                     {
+                                                         "n":  "Castro",
+                                                         "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                                         "p":  1,
+                                                         "km":  18.97,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Cominato",

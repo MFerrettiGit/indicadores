@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "12:30",
+                       "dataHora":  "12:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16432,6 +16432,15 @@
                                      "pe":  0,
                                      "km":  85.79,
                                      "tv":  226
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  49.54,
+                                     "tv":  199
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -16461,13 +16470,13 @@
                                      "tv":  174
                                  },
                                  {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  45.35,
-                                     "tv":  176
+                                     "km":  45.04,
+                                     "tv":  205
                                  },
                                  {
                                      "nome":  "Debora",
@@ -16477,15 +16486,6 @@
                                      "pe":  0,
                                      "km":  46.33,
                                      "tv":  183
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  29.53,
-                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -16500,19 +16500,19 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  26.47,
-                                     "tv":  241
+                                     "km":  28.57,
+                                     "tv":  265
                                  },
                                  {
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  1,
+                                     "vi":  2,
                                      "pe":  0,
-                                     "km":  170.65,
-                                     "tv":  67
+                                     "km":  229.85,
+                                     "tv":  118
                                  },
                                  {
                                      "nome":  "Luis",
@@ -16605,6 +16605,15 @@
                                      "tv":  160
                                  },
                                  {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  57.31,
+                                     "tv":  102
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
@@ -16612,15 +16621,6 @@
                                      "pe":  2,
                                      "km":  19.58,
                                      "tv":  216
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  38.34,
-                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -16648,6 +16648,13 @@
                                        "p":  1,
                                        "km":  24.69,
                                        "tv":  180
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
+                                       "p":  1,
+                                       "km":  15.51,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Debora",
@@ -16776,6 +16783,13 @@
                                        "tv":  57
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
+                                       "p":  1,
+                                       "km":  4.19,
+                                       "tv":  23
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16888,6 +16902,13 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.1,
+                                       "tv":  24
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                        "p":  1,
@@ -16942,6 +16963,13 @@
                                        "p":  1,
                                        "km":  27.65,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
+                                       "p":  1,
+                                       "km":  18.97,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Cominato",
