@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "11:45",
+                       "dataHora":  "12:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16518,10 +16518,10 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  2.44,
-                                     "tv":  172
+                                     "km":  4.6,
+                                     "tv":  197
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -16542,6 +16542,15 @@
                                      "tv":  164
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  43.63,
+                                     "tv":  106
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -16549,15 +16558,6 @@
                                      "pe":  1,
                                      "km":  58.05,
                                      "tv":  51
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  5.36,
-                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -16572,10 +16572,10 @@
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  2,
-                                     "km":  8.69,
-                                     "tv":  142
+                                     "km":  11.51,
+                                     "tv":  191
                                  },
                                  {
                                      "nome":  "Alan",
@@ -16811,11 +16811,25 @@
                                        "tv":  66
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SUPERMERCADO ELIAS E MOREIRA LTDA",
+                                       "p":  0,
+                                       "km":  2.16,
+                                       "tv":  25
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
                                        "km":  4.8,
                                        "tv":  67
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "J.F. MENDES E CIA LTDA.",
+                                       "p":  0,
+                                       "km":  38.27,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Milene",
@@ -16949,6 +16963,13 @@
                                        "p":  1,
                                        "km":  0.34,
                                        "tv":  74
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                                       "p":  0,
+                                       "km":  2.82,
+                                       "tv":  49
                                    }
                                ]
                    }

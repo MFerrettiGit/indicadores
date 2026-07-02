@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "11:45",
+    "dataHora":  "12:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -158,14 +158,14 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  2.44,
-                     "semPed":  2,
+                     "visitas":  3,
+                     "km":  4.6,
+                     "semPed":  3,
                      "perc":  100,
                      "primeiro":  "08:19",
-                     "ultimo":  "11:18",
-                     "tv":  "02:52:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:52",
+                     "tv":  "03:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -199,6 +199,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  43.63,
+                     "semPed":  2,
+                     "perc":  100,
+                     "primeiro":  "08:39",
+                     "ultimo":  "11:52",
+                     "tv":  "01:46:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -210,21 +225,6 @@ window.PAINEL = {
                      "primeiro":  "08:36",
                      "ultimo":  "09:28",
                      "tv":  "00:51:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  5.36,
-                     "semPed":  1,
-                     "perc":  100,
-                     "primeiro":  "08:39",
-                     "ultimo":  "09:47",
-                     "tv":  "01:07:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  8.69,
-                     "semPed":  1,
-                     "perc":  33.33,
+                     "visitas":  4,
+                     "km":  11.51,
+                     "semPed":  2,
+                     "perc":  50,
                      "primeiro":  "08:16",
-                     "ultimo":  "10:50",
-                     "tv":  "02:22:00",
-                     "emVisita":  1,
+                     "ultimo":  "11:51",
+                     "tv":  "03:11:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -360,7 +360,7 @@ window.PAINEL = {
                      "primeiro":  "09:13",
                      "ultimo":  "10:54",
                      "tv":  "01:41:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  }
              ],
@@ -582,6 +582,15 @@ window.PAINEL = {
                          "dur":  "01:06:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "SUPERMERCADO ELIAS E MOREIRA LTDA",
+                         "mun":  "FRANCA",
+                         "in":  "11:26:54",
+                         "out":  "11:52:25",
+                         "km":  2.16,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "SUPER.STA.UNIAO WENG LTDA",
                          "mun":  "SANTA BARBARA D",
@@ -589,6 +598,15 @@ window.PAINEL = {
                          "out":  "09:47:11",
                          "km":  4.8,
                          "dur":  "01:07:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "J.F. MENDES E CIA LTDA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "11:12:14",
+                         "out":  "11:52:35",
+                         "km":  38.27,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Milene",
@@ -760,6 +778,15 @@ window.PAINEL = {
                          "out":  "10:50:53",
                          "km":  0.34,
                          "dur":  "01:14:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "11:01:44",
+                         "out":  "11:51:31",
+                         "km":  2.82,
+                         "dur":  "00:49:00"
                      }
                  ],
     "eventos":  [
@@ -793,7 +820,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:38"
+                        "tempo":  "00:25:44"
                     },
                     {
                         "nome":  "Eliana",
@@ -801,7 +828,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:09"
+                        "tempo":  "00:23:15"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -809,7 +836,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:02:49"
+                        "tempo":  "00:16:55"
                     }
                 ],
     "semped":  [
@@ -817,6 +844,12 @@ window.PAINEL = {
                        "nome":  "Maira",
                        "razao":  "SUPER.STA.UNIAO WENG LTDA",
                        "mun":  "SANTA BARBARA D",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "J.F. MENDES E CIA LTDA.",
+                       "mun":  "LIMEIRA",
                        "obs":  "comprador ausente"
                    },
                    {
@@ -850,6 +883,12 @@ window.PAINEL = {
                        "obs":  "visita de rotina"
                    },
                    {
+                       "nome":  "Luis",
+                       "razao":  "SUPERMERCADO ELIAS E MOREIRA LTDA",
+                       "mun":  "FRANCA",
+                       "obs":  "prospecção"
+                   },
+                   {
                        "nome":  "Lucas",
                        "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                        "mun":  "INDAIATUBA",
@@ -858,6 +897,12 @@ window.PAINEL = {
                    {
                        "nome":  "Nelson",
                        "razao":  "MERCADO MIRANDA EXPRESS LTDA",
+                       "mun":  "ITAPETININGA",
+                       "obs":  "cliente estocado"
+                   },
+                   {
+                       "nome":  "Nelson",
+                       "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
                        "mun":  "ITAPETININGA",
                        "obs":  "cliente estocado"
                    },
@@ -879,91 +924,79 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "MOGI-GUACU",
-                         "tempo":  "00:06:53"
+                         "tempo":  "00:20:59"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:01:10"
+                         "tempo":  "01:15:16"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:42:43"
+                         "tempo":  "00:56:49"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:59:27"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "J.F. MENDES E CIA LTDA.",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:27:50"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "SUPERMERCADO ELIAS E MOREIRA LTDA",
-                         "mun":  "FRANCA",
-                         "tempo":  "00:13:10"
+                         "tempo":  "01:13:33"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:23:30"
+                         "tempo":  "00:37:36"
                      },
                      {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:01:05"
+                         "tempo":  "00:15:11"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:28:19"
+                         "tempo":  "01:42:25"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "SOCORRO",
+                         "tempo":  "00:08:01"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "VILA MIMOSA LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:45:23"
+                         "tempo":  "00:59:29"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "01:59:24"
+                         "tempo":  "02:13:30"
                      },
                      {
                          "nome":  "Lucas",
                          "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:07:13"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "00:38:20"
+                         "tempo":  "01:21:19"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "N N NASTARO LTDA",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:47:26"
+                         "tempo":  "01:01:32"
                      },
                      {
                          "nome":  "Mariangela",
                          "razao":  "SUPERMERCADO MANDARIN LTDA",
                          "mun":  "JACAREI",
-                         "tempo":  "00:40:46"
+                         "tempo":  "00:54:52"
                      }
                  ],
     "hist":  [
@@ -1074,8 +1107,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     44,
-                     10
+                     47,
+                     13
                  ]
              ],
     "historico":  {
@@ -17502,7 +17535,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "11:45",
+                                         "dataHora":  "12:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17598,10 +17631,10 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
+                                                       "vi":  3,
                                                        "pe":  0,
-                                                       "km":  2.44,
-                                                       "tv":  172
+                                                       "km":  4.6,
+                                                       "tv":  197
                                                    },
                                                    {
                                                        "nome":  "Fernando",
@@ -17622,6 +17655,15 @@ window.PAINEL = {
                                                        "tv":  164
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  2,
+                                                       "pe":  0,
+                                                       "km":  43.63,
+                                                       "tv":  106
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -17629,15 +17671,6 @@ window.PAINEL = {
                                                        "pe":  1,
                                                        "km":  58.05,
                                                        "tv":  51
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  5.36,
-                                                       "tv":  67
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -17652,10 +17685,10 @@ window.PAINEL = {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
-                                                       "vi":  3,
+                                                       "vi":  4,
                                                        "pe":  2,
-                                                       "km":  8.69,
-                                                       "tv":  142
+                                                       "km":  11.51,
+                                                       "tv":  191
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -17891,11 +17924,25 @@ window.PAINEL = {
                                                          "tv":  66
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "SUPERMERCADO ELIAS E MOREIRA LTDA",
+                                                         "p":  0,
+                                                         "km":  2.16,
+                                                         "tv":  25
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "SUPER.STA.UNIAO WENG LTDA",
                                                          "p":  0,
                                                          "km":  4.8,
                                                          "tv":  67
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "J.F. MENDES E CIA LTDA.",
+                                                         "p":  0,
+                                                         "km":  38.27,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Milene",
@@ -18029,6 +18076,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  0.34,
                                                          "tv":  74
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "NICE OLIVEIRA DA COSTA E CIA LTDA",
+                                                         "p":  0,
+                                                         "km":  2.82,
+                                                         "tv":  49
                                                      }
                                                  ]
                                      }
