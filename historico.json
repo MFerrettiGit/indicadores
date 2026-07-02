@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "10:00",
+                       "dataHora":  "10:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16434,6 +16434,24 @@
                                      "tv":  134
                                  },
                                  {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  8.31,
+                                     "tv":  133
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  41.18,
+                                     "tv":  119
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -16441,6 +16459,15 @@
                                      "pe":  0,
                                      "km":  27.38,
                                      "tv":  70
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  29.53,
+                                     "tv":  180
                                  },
                                  {
                                      "nome":  "Debora",
@@ -16459,33 +16486,6 @@
                                      "pe":  0,
                                      "km":  19.73,
                                      "tv":  113
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  2.54,
-                                     "tv":  43
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  38.03,
-                                     "tv":  45
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  4.84,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Alex A.",
@@ -16515,6 +16515,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  2.44,
+                                     "tv":  106
+                                 },
+                                 {
                                      "nome":  "Fernando",
                                      "setor":  "RIBEIRAO PRETO",
                                      "regional":  "NORDESTE",
@@ -16522,6 +16531,15 @@
                                      "pe":  1,
                                      "km":  40.84,
                                      "tv":  61
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  9.93,
+                                     "tv":  101
                                  },
                                  {
                                      "nome":  "Costa",
@@ -16542,24 +16560,6 @@
                                      "tv":  67
                                  },
                                  {
-                                     "nome":  "Luis",
-                                     "setor":  "FRANCA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Rachel",
-                                     "setor":  "CIRCUITO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.38,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
@@ -16567,6 +16567,15 @@
                                      "pe":  0,
                                      "km":  0,
                                      "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  6.52,
+                                     "tv":  65
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -16585,15 +16594,6 @@
                                      "pe":  1,
                                      "km":  5.54,
                                      "tv":  83
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  4.57,
-                                     "tv":  39
                                  },
                                  {
                                      "nome":  "Karina",
@@ -16642,6 +16642,13 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  24.69,
+                                       "tv":  180
+                                   },
                                    {
                                        "n":  "Debora",
                                        "r":  "EXAMINE SUPERMERCADOS LTDA",
@@ -16692,11 +16699,25 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.15,
+                                       "tv":  74
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  2.54,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.77,
+                                       "tv":  90
                                    },
                                    {
                                        "n":  "Costa",
@@ -16713,6 +16734,13 @@
                                        "tv":  61
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  2.44,
+                                       "tv":  106
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "SUPER.STA.UNIAO WENG LTDA",
                                        "p":  0,
@@ -16725,6 +16753,13 @@
                                        "p":  1,
                                        "km":  22.2,
                                        "tv":  57
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
+                                       "p":  1,
+                                       "km":  9.55,
+                                       "tv":  101
                                    },
                                    {
                                        "n":  "Alan",
@@ -16746,6 +16781,13 @@
                                        "p":  0,
                                        "km":  4.57,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                                       "p":  0,
+                                       "km":  1.95,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Karina",
