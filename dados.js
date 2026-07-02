@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "12:15",
+    "dataHora":  "12:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -15,7 +15,7 @@ window.PAINEL = {
                      "primeiro":  "06:57",
                      "ultimo":  "11:59",
                      "tv":  "03:46:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -46,7 +46,7 @@ window.PAINEL = {
                      "ultimo":  "11:57",
                      "tv":  "04:09:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Vinicius",
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:35",
                      "ultimo":  "11:59",
                      "tv":  "04:01:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -173,14 +173,14 @@ window.PAINEL = {
                      "setor":  "RIBEIRAO PRETO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  60.08,
+                     "visitas":  3,
+                     "km":  62.82,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:21",
-                     "ultimo":  "11:22",
-                     "tv":  "02:43:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:11",
+                     "tv":  "03:15:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -270,7 +270,7 @@ window.PAINEL = {
                      "primeiro":  "08:00",
                      "ultimo":  "12:04",
                      "tv":  "03:28:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -286,7 +286,7 @@ window.PAINEL = {
                      "ultimo":  "12:04",
                      "tv":  "02:16:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Mariangela",
@@ -300,6 +300,21 @@ window.PAINEL = {
                      "primeiro":  "08:27",
                      "ultimo":  "12:00",
                      "tv":  "02:40:00",
+                     "emVisita":  1,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  2,
+                     "km":  19.58,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:19",
+                     "ultimo":  "12:14",
+                     "tv":  "03:36:00",
                      "emVisita":  0,
                      "emEvento":  0
                  },
@@ -319,33 +334,18 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  16.07,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:19",
-                     "ultimo":  "09:21",
-                     "tv":  "01:02:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  5.07,
-                     "semPed":  1,
+                     "visitas":  2,
+                     "km":  7.26,
+                     "semPed":  2,
                      "perc":  100,
                      "primeiro":  "08:34",
-                     "ultimo":  "09:41",
-                     "tv":  "01:06:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:18",
+                     "tv":  "02:50:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -353,14 +353,14 @@ window.PAINEL = {
                      "setor":  "ATIBAIA",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  1,
-                     "km":  25.75,
+                     "visitas":  2,
+                     "km":  69.06,
                      "semPed":  1,
-                     "perc":  100,
+                     "perc":  50,
                      "primeiro":  "09:13",
-                     "ultimo":  "10:54",
-                     "tv":  "01:41:00",
-                     "emVisita":  1,
+                     "ultimo":  "12:23",
+                     "tv":  "02:17:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  }
              ],
@@ -427,6 +427,15 @@ window.PAINEL = {
                          "out":  "10:47:13",
                          "km":  170.65,
                          "dur":  "01:07:00"
+                     },
+                     {
+                         "nome":  "Eduardo",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "MOGI-GUACU",
+                         "in":  "11:33:11",
+                         "out":  "12:24:32",
+                         "km":  59.2,
+                         "dur":  "00:51:00"
                      },
                      {
                          "nome":  "Eliana",
@@ -589,6 +598,15 @@ window.PAINEL = {
                          "out":  "11:22:58",
                          "km":  19.24,
                          "dur":  "01:42:00"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "mun":  "SERTAOZINHO",
+                         "in":  "11:38:59",
+                         "out":  "12:11:29",
+                         "km":  2.74,
+                         "dur":  "00:32:00"
                      },
                      {
                          "nome":  "Luis",
@@ -771,6 +789,15 @@ window.PAINEL = {
                          "dur":  "01:41:00"
                      },
                      {
+                         "nome":  "Eugenio",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "SOCORRO",
+                         "in":  "11:46:09",
+                         "out":  "12:23:03",
+                         "km":  43.31,
+                         "dur":  "00:36:00"
+                     },
+                     {
                          "nome":  "Karina",
                          "razao":  "AC BARBOSA CARAGUATATUBA - ME",
                          "mun":  "CARAGUATATUBA",
@@ -780,6 +807,15 @@ window.PAINEL = {
                          "dur":  "01:02:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "09:40:40",
+                         "out":  "12:14:57",
+                         "km":  3.51,
+                         "dur":  "02:34:00"
+                     },
+                     {
                          "nome":  "Lucas",
                          "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                          "mun":  "INDAIATUBA",
@@ -787,6 +823,15 @@ window.PAINEL = {
                          "out":  "09:41:04",
                          "km":  3.2,
                          "dur":  "01:06:00"
+                     },
+                     {
+                         "nome":  "Lucas",
+                         "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                         "mun":  "INDAIATUBA",
+                         "in":  "10:32:51",
+                         "out":  "12:18:42",
+                         "km":  2.19,
+                         "dur":  "01:44:00"
                      },
                      {
                          "nome":  "Mariangela",
@@ -883,7 +928,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:40:46"
+                        "tempo":  "00:55:48"
                     },
                     {
                         "nome":  "Eliana",
@@ -891,7 +936,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:38:17"
+                        "tempo":  "00:53:19"
                     },
                     {
                         "nome":  "Sao Carlos",
@@ -899,7 +944,7 @@ window.PAINEL = {
                         "obs":  "prospecção cliente",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:57"
+                        "tempo":  "00:46:59"
                     },
                     {
                         "nome":  "Rachel",
@@ -907,7 +952,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:11:59"
+                        "tempo":  "00:27:01"
                     },
                     {
                         "nome":  "Luis",
@@ -915,7 +960,7 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:58"
+                        "tempo":  "00:24:00"
                     },
                     {
                         "nome":  "Nelson",
@@ -923,7 +968,23 @@ window.PAINEL = {
                         "obs":  "Almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:07:07"
+                        "tempo":  "00:22:09"
+                    },
+                    {
+                        "nome":  "Edimilson",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:13:10"
+                    },
+                    {
+                        "nome":  "Cominato",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "Almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:06:20"
                     }
                 ],
     "semped":  [
@@ -958,6 +1019,12 @@ window.PAINEL = {
                        "obs":  "estocado"
                    },
                    {
+                       "nome":  "Eduardo",
+                       "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                       "mun":  "MOGI-GUACU",
+                       "obs":  "estocado"
+                   },
+                   {
                        "nome":  "Luis",
                        "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                        "mun":  "FRANCA",
@@ -980,6 +1047,12 @@ window.PAINEL = {
                        "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                        "mun":  "INDAIATUBA",
                        "obs":  "visita"
+                   },
+                   {
+                       "nome":  "Lucas",
+                       "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                       "mun":  "INDAIATUBA",
+                       "obs":  "atualização de tabela e apresentação da nova linha"
                    },
                    {
                        "nome":  "Nelson",
@@ -1023,55 +1096,55 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                          "mun":  "MOGI-GUACU",
-                         "tempo":  "00:35:59"
+                         "tempo":  "00:50:59"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "SUPERMERCADO DE PENIDO LTDA",
                          "mun":  "SANTA GERTRUDES",
-                         "tempo":  "01:30:16"
+                         "tempo":  "01:45:16"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.10",
                          "mun":  "PAULINIA",
-                         "tempo":  "00:06:12"
+                         "tempo":  "00:21:12"
+                     },
+                     {
+                         "nome":  "Evandro",
+                         "razao":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                         "mun":  "VALINHOS",
+                         "tempo":  "00:14:41"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COMERC DE PROD ALIMENT LTDA",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:05:18"
+                         "tempo":  "00:20:18"
                      },
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                         "nome":  "Milene",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "SERTAOZINHO",
-                         "tempo":  "00:30:11"
+                         "tempo":  "00:10:46"
                      },
                      {
-                         "nome":  "Eugenio",
-                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
-                         "mun":  "SOCORRO",
-                         "tempo":  "00:23:01"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "COMERCIAL OSVALDO TARORA LTDA.",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "02:28:30"
-                     },
-                     {
-                         "nome":  "Lucas",
-                         "razao":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
-                         "mun":  "INDAIATUBA",
-                         "tempo":  "01:36:19"
+                         "nome":  "Alan",
+                         "razao":  "BR1 COMERCIO DE PROD. ALIMENTICIOS LTDA",
+                         "mun":  "CAMPINAS",
+                         "tempo":  "00:08:03"
                      },
                      {
                          "nome":  "Castro",
                          "razao":  "SUPERMERCADO E RESTAURANTE JVA EIRELI",
                          "mun":  "ITUPEVA",
-                         "tempo":  "00:00:59"
+                         "tempo":  "00:15:59"
+                     },
+                     {
+                         "nome":  "Mariangela",
+                         "razao":  "FTJ SUPERMERCADOS LTDA",
+                         "mun":  "JACAREI",
+                         "tempo":  "00:03:18"
                      }
                  ],
     "hist":  [
@@ -1182,8 +1255,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     54,
-                     15
+                     59,
+                     16
                  ]
              ],
     "historico":  {
@@ -17610,7 +17683,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "12:15",
+                                         "dataHora":  "12:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -17715,10 +17788,10 @@ window.PAINEL = {
                                                        "nome":  "Fernando",
                                                        "setor":  "RIBEIRAO PRETO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  60.08,
-                                                       "tv":  163
+                                                       "vi":  3,
+                                                       "pe":  3,
+                                                       "km":  62.82,
+                                                       "tv":  195
                                                    },
                                                    {
                                                        "nome":  "Rachel",
@@ -17793,6 +17866,15 @@ window.PAINEL = {
                                                        "tv":  160
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  2,
+                                                       "pe":  2,
+                                                       "km":  19.58,
+                                                       "tv":  216
+                                                   },
+                                                   {
                                                        "nome":  "Castro",
                                                        "setor":  "JUNDIAI",
                                                        "regional":  "SUL",
@@ -17802,31 +17884,22 @@ window.PAINEL = {
                                                        "tv":  77
                                                    },
                                                    {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  1,
-                                                       "km":  16.07,
-                                                       "tv":  62
-                                                   },
-                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
+                                                       "vi":  2,
                                                        "pe":  0,
-                                                       "km":  5.07,
-                                                       "tv":  66
+                                                       "km":  7.26,
+                                                       "tv":  170
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
                                                        "setor":  "ATIBAIA",
                                                        "regional":  "SUL",
-                                                       "vi":  1,
-                                                       "pe":  0,
-                                                       "km":  25.75,
-                                                       "tv":  101
+                                                       "vi":  2,
+                                                       "pe":  1,
+                                                       "km":  69.06,
+                                                       "tv":  137
                                                    }
                                                ],
                                          "cli":  [
@@ -17878,6 +17951,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  170.65,
                                                          "tv":  67
+                                                     },
+                                                     {
+                                                         "n":  "Eduardo",
+                                                         "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                                         "p":  0,
+                                                         "km":  59.2,
+                                                         "tv":  51
                                                      },
                                                      {
                                                          "n":  "Eliana",
@@ -18004,6 +18084,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  19.24,
                                                          "tv":  102
+                                                     },
+                                                     {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  2.74,
+                                                         "tv":  32
                                                      },
                                                      {
                                                          "n":  "Luis",
@@ -18146,6 +18233,13 @@ window.PAINEL = {
                                                          "tv":  101
                                                      },
                                                      {
+                                                         "n":  "Eugenio",
+                                                         "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                                         "p":  1,
+                                                         "km":  43.31,
+                                                         "tv":  36
+                                                     },
+                                                     {
                                                          "n":  "Karina",
                                                          "r":  "AC BARBOSA CARAGUATATUBA - ME",
                                                          "p":  1,
@@ -18153,11 +18247,25 @@ window.PAINEL = {
                                                          "tv":  62
                                                      },
                                                      {
+                                                         "n":  "Karina",
+                                                         "r":  "COMERCIAL OSVALDO TARORA LTDA.",
+                                                         "p":  1,
+                                                         "km":  3.51,
+                                                         "tv":  154
+                                                     },
+                                                     {
                                                          "n":  "Lucas",
                                                          "r":  "SAVEGNAGO-SUPERMERCADOS LTDA",
                                                          "p":  0,
                                                          "km":  3.2,
                                                          "tv":  66
+                                                     },
+                                                     {
+                                                         "n":  "Lucas",
+                                                         "r":  "SUPERMERCADO PISTONI LTDA - LOJA 01.",
+                                                         "p":  0,
+                                                         "km":  2.19,
+                                                         "tv":  104
                                                      },
                                                      {
                                                          "n":  "Mariangela",
