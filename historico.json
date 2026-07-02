@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "09:00",
+                       "dataHora":  "09:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16441,6 +16441,24 @@
                                      "pe":  0,
                                      "km":  27.38,
                                      "tv":  70
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  42.65,
+                                     "tv":  114
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  1,
+                                     "pe":  0,
+                                     "km":  19.73,
+                                     "tv":  113
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -16467,24 +16485,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  4.84,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0.1,
                                      "tv":  0
                                  },
                                  {
@@ -16587,6 +16587,15 @@
                                      "tv":  21
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  11.83,
+                                     "tv":  38
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -16602,15 +16611,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  8.76,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  },
                                  {
@@ -16642,6 +16642,20 @@
                                  }
                              ],
                        "cli":  [
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  42.65,
+                                       "tv":  114
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  19.63,
+                                       "tv":  113
+                                   },
                                    {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA",
@@ -16690,6 +16704,13 @@
                                        "p":  0,
                                        "km":  4.57,
                                        "tv":  39
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MAXIMO VILLA BRANCA LTDA",
+                                       "p":  1,
+                                       "km":  11.83,
+                                       "tv":  38
                                    },
                                    {
                                        "n":  "Nelson",
