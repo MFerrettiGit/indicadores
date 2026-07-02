@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "13:30",
+                       "dataHora":  "13:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16437,10 +16437,10 @@
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  49.54,
-                                     "tv":  199
+                                     "km":  74.9,
+                                     "tv":  221
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -16500,10 +16500,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  28.57,
-                                     "tv":  265
+                                     "km":  33.16,
+                                     "tv":  300
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -16569,6 +16569,15 @@
                                      "tv":  133
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  12.55,
+                                     "tv":  279
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -16585,15 +16594,6 @@
                                      "pe":  4,
                                      "km":  21.89,
                                      "tv":  218
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  10.18,
-                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -16811,6 +16811,13 @@
                                        "tv":  23
                                    },
                                    {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  1,
+                                       "km":  25.36,
+                                       "tv":  22
+                                   },
+                                   {
                                        "n":  "Vinicius",
                                        "r":  "TAUSTE SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16984,6 +16991,13 @@
                                        "p":  1,
                                        "km":  4,
                                        "tv":  70
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "BR1 COMERCIO DE PROD. ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  2.37,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Castro",
