@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "14:15",
+                       "dataHora":  "14:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16443,6 +16443,15 @@
                                      "tv":  221
                                  },
                                  {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  57.96,
+                                     "tv":  282
+                                 },
+                                 {
                                      "nome":  "Eliana",
                                      "setor":  "PROMO-JUNDIAI",
                                      "regional":  "Regional Merchandising",
@@ -16450,15 +16459,6 @@
                                      "pe":  0,
                                      "km":  53.17,
                                      "tv":  222
-                                 },
-                                 {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  49.35,
-                                     "tv":  232
                                  },
                                  {
                                      "nome":  "Debora",
@@ -16569,6 +16569,15 @@
                                      "tv":  133
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  32.42,
+                                     "tv":  176
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -16576,15 +16585,6 @@
                                      "pe":  3,
                                      "km":  12.55,
                                      "tv":  279
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  28.19,
-                                     "tv":  161
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -16662,6 +16662,13 @@
                                        "p":  1,
                                        "km":  4.31,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Aline",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
+                                       "p":  1,
+                                       "km":  8.61,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Debora",
@@ -17061,6 +17068,13 @@
                                        "p":  0,
                                        "km":  7.67,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                                       "p":  0,
+                                       "km":  4.23,
+                                       "tv":  15
                                    },
                                    {
                                        "n":  "Eugenio",
