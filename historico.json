@@ -16422,16 +16422,16 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "13:45",
+                       "dataHora":  "14:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  6,
+                                     "vi":  7,
                                      "pe":  0,
-                                     "km":  89.14,
-                                     "tv":  266
+                                     "km":  91.86,
+                                     "tv":  335
                                  },
                                  {
                                      "nome":  "Silmara",
@@ -16533,6 +16533,15 @@
                                      "tv":  195
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  1,
+                                     "km":  64.58,
+                                     "tv":  209
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -16549,15 +16558,6 @@
                                      "pe":  2,
                                      "km":  15.64,
                                      "tv":  164
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  63.46,
-                                     "tv":  157
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -16578,6 +16578,15 @@
                                      "tv":  279
                                  },
                                  {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  28.19,
+                                     "tv":  161
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -16594,15 +16603,6 @@
                                      "pe":  4,
                                      "km":  21.89,
                                      "tv":  218
-                                 },
-                                 {
-                                     "nome":  "Cominato",
-                                     "setor":  "PIRACICABA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  20.52,
-                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Castro",
@@ -16783,6 +16783,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA",
+                                       "p":  1,
+                                       "km":  2.72,
+                                       "tv":  69
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16851,6 +16858,13 @@
                                        "p":  0,
                                        "km":  5.41,
                                        "tv":  106
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  1.12,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Fernando",
@@ -17040,6 +17054,13 @@
                                        "p":  0,
                                        "km":  14,
                                        "tv":  71
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                                       "p":  0,
+                                       "km":  7.67,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Eugenio",

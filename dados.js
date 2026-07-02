@@ -1,21 +1,21 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "02/07/2026",
-    "dataHora":  "13:45",
+    "dataHora":  "14:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
                      "setor":  "PROMO-CAMPINASSUL",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
-                     "visitas":  6,
-                     "km":  89.14,
+                     "visitas":  7,
+                     "km":  91.86,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:57",
-                     "ultimo":  "12:49",
-                     "tv":  "04:26:00",
-                     "emVisita":  1,
+                     "ultimo":  "14:09",
+                     "tv":  "05:35:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -31,7 +31,7 @@ window.PAINEL = {
                      "ultimo":  "13:29",
                      "tv":  "03:41:00",
                      "emVisita":  0,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Eliana",
@@ -90,7 +90,7 @@ window.PAINEL = {
                      "primeiro":  "07:14",
                      "ultimo":  "11:57",
                      "tv":  "04:09:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -135,7 +135,7 @@ window.PAINEL = {
                      "primeiro":  "07:35",
                      "ultimo":  "13:24",
                      "tv":  "05:00:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -181,6 +181,21 @@ window.PAINEL = {
                      "ultimo":  "12:11",
                      "tv":  "03:15:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Costa",
+                     "setor":  "RIO CLARO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  3,
+                     "km":  64.58,
+                     "semPed":  2,
+                     "perc":  66.67,
+                     "primeiro":  "08:36",
+                     "ultimo":  "13:55",
+                     "tv":  "03:29:00",
+                     "emVisita":  0,
                      "emEvento":  1
                  },
                  {
@@ -210,21 +225,6 @@ window.PAINEL = {
                      "primeiro":  "08:23",
                      "ultimo":  "11:22",
                      "tv":  "02:44:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Costa",
-                     "setor":  "RIO CLARO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  63.46,
-                     "semPed":  1,
-                     "perc":  50,
-                     "primeiro":  "08:36",
-                     "ultimo":  "11:59",
-                     "tv":  "02:37:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -241,7 +241,7 @@ window.PAINEL = {
                      "ultimo":  "11:16",
                      "tv":  "02:13:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Alan",
@@ -256,6 +256,21 @@ window.PAINEL = {
                      "ultimo":  "13:28",
                      "tv":  "04:39:00",
                      "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Cominato",
+                     "setor":  "PIRACICABA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  28.19,
+                     "semPed":  4,
+                     "perc":  100,
+                     "primeiro":  "08:01",
+                     "ultimo":  "13:48",
+                     "tv":  "02:41:00",
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -286,22 +301,7 @@ window.PAINEL = {
                      "ultimo":  "13:19",
                      "tv":  "03:38:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Cominato",
-                     "setor":  "PIRACICABA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  20.52,
-                     "semPed":  3,
-                     "perc":  100,
-                     "primeiro":  "08:01",
-                     "ultimo":  "12:04",
-                     "tv":  "02:16:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Castro",
@@ -360,8 +360,8 @@ window.PAINEL = {
                      "primeiro":  "09:13",
                      "ultimo":  "12:23",
                      "tv":  "02:17:00",
-                     "emVisita":  0,
-                     "emEvento":  1
+                     "emVisita":  1,
+                     "emEvento":  0
                  }
              ],
     "checkins":  [
@@ -546,6 +546,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Evandro",
+                         "razao":  "SUPERMERCADOS DALBEN LTDA",
+                         "mun":  "VALINHOS",
+                         "in":  "12:59:45",
+                         "out":  "14:09:26",
+                         "km":  2.72,
+                         "dur":  "01:09:00"
+                     },
+                     {
                          "nome":  "Silmara",
                          "razao":  "COVABRA SUPERMERCADOS LTDA",
                          "mun":  "LIMEIRA",
@@ -634,6 +643,15 @@ window.PAINEL = {
                          "out":  "11:59:23",
                          "km":  5.41,
                          "dur":  "01:46:00"
+                     },
+                     {
+                         "nome":  "Costa",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIO CLARO",
+                         "in":  "13:02:48",
+                         "out":  "13:55:50",
+                         "km":  1.12,
+                         "dur":  "00:52:00"
                      },
                      {
                          "nome":  "Fernando",
@@ -879,6 +897,15 @@ window.PAINEL = {
                          "dur":  "01:11:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                         "mun":  "PIRACICABA",
+                         "in":  "13:22:27",
+                         "out":  "13:48:10",
+                         "km":  7.67,
+                         "dur":  "00:25:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "UNIAO COMERCIAL ATACADISTA  LTDA",
                          "mun":  "BRAGANCA PAULIS",
@@ -1015,6 +1042,14 @@ window.PAINEL = {
                         "tempo":  "00:41:02"
                     },
                     {
+                        "nome":  "Eugenio",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "12:43",
+                        "final":  "13:43",
+                        "tempo":  "01:00:20"
+                    },
+                    {
                         "nome":  "Karina",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoco",
@@ -1037,6 +1072,14 @@ window.PAINEL = {
                         "inicio":  "11:57",
                         "final":  "13:00",
                         "tempo":  "01:02:11"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Proposta",
+                        "obs":  "guarani",
+                        "inicio":  "13:24",
+                        "final":  "14:02",
+                        "tempo":  "00:38:12"
                     },
                     {
                         "nome":  "Luis",
@@ -1087,6 +1130,22 @@ window.PAINEL = {
                         "tempo":  "01:27:24"
                     },
                     {
+                        "nome":  "Silmara",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:53",
+                        "final":  "14:09",
+                        "tempo":  "00:16:44"
+                    },
+                    {
+                        "nome":  "Fernando",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  "13:03",
+                        "final":  "14:05",
+                        "tempo":  "01:01:47"
+                    },
+                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Proposta",
                         "obs":  "proposta para cliente",
@@ -1103,28 +1162,12 @@ window.PAINEL = {
                         "tempo":  "01:08:52"
                     },
                     {
-                        "nome":  "Eugenio",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:56:58"
-                    },
-                    {
                         "nome":  "Sao Carlos",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:53:08"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoço",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:36:43"
+                        "inicio":  "12:47",
+                        "final":  "13:50",
+                        "tempo":  "01:03:08"
                     },
                     {
                         "nome":  "Maira",
@@ -1132,15 +1175,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:25"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Proposta",
-                        "obs":  "guarani",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:16:14"
+                        "tempo":  "00:51:30"
                     },
                     {
                         "nome":  "Castro",
@@ -1148,7 +1183,7 @@ window.PAINEL = {
                         "obs":  ".",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:15:33"
+                        "tempo":  "00:45:38"
                     },
                     {
                         "nome":  "Luis",
@@ -1156,7 +1191,7 @@ window.PAINEL = {
                         "obs":  "Montando roteiro do mês",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:09:58"
+                        "tempo":  "00:40:03"
                     },
                     {
                         "nome":  "Debora",
@@ -1164,7 +1199,7 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:08:16"
+                        "tempo":  "00:38:21"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1172,7 +1207,15 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:00:05"
+                        "tempo":  "00:30:10"
+                    },
+                    {
+                        "nome":  "Costa",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoço",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:11:56"
                     }
                 ],
     "semped":  [
@@ -1279,6 +1322,18 @@ window.PAINEL = {
                        "obs":  "Fazendo tentativa de atendimento do comprador"
                    },
                    {
+                       "nome":  "Cominato",
+                       "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                       "mun":  "PIRACICABA",
+                       "obs":  "Levantamento"
+                   },
+                   {
+                       "nome":  "Costa",
+                       "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                       "mun":  "RIO CLARO",
+                       "obs":  "merchandising"
+                   },
+                   {
                        "nome":  "Costa",
                        "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                        "mun":  "RIO CLARO",
@@ -1290,49 +1345,67 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "GOOD BOM SUPERMERCADOS LTDA - LJ.16",
                          "mun":  "MOGI GUACU",
-                         "tempo":  "01:06:11"
+                         "tempo":  "01:36:11"
                      },
                      {
                          "nome":  "Aline",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.18",
                          "mun":  "SUMARE",
-                         "tempo":  "00:15:08"
+                         "tempo":  "00:45:08"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "SUPERMERCADOS DALBEN LTDA",
                          "mun":  "VALINHOS",
-                         "tempo":  "00:39:30"
+                         "tempo":  "01:09:30"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                         "mun":  "SALTO",
+                         "tempo":  "00:21:44"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "VARZEA PAULISTA",
-                         "tempo":  "01:06:42"
+                         "tempo":  "01:36:42"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "SANTO COM.",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:42:27"
+                         "tempo":  "01:12:27"
                      },
                      {
-                         "nome":  "Costa",
+                         "nome":  "Rachel",
+                         "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                         "mun":  "SERRA NEGRA",
+                         "tempo":  "00:00:24"
+                     },
+                     {
+                         "nome":  "Milene",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "RIO CLARO",
-                         "tempo":  "00:36:27"
+                         "mun":  "SERTAOZINHO",
+                         "tempo":  "00:26:26"
+                     },
+                     {
+                         "nome":  "Eugenio",
+                         "razao":  "SARTORI COMERC E DISTRIB ALIMENTIC LTDA",
+                         "mun":  "SOCORRO",
+                         "tempo":  "00:24:59"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "EMPORIO BANDEIRANTES ALMEIDA RAMOS LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:23:20"
+                         "tempo":  "00:53:20"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
                          "mun":  "PIRACICABA",
-                         "tempo":  "00:16:48"
+                         "tempo":  "00:09:47"
                      }
                  ],
     "hist":  [
@@ -1443,8 +1516,8 @@ window.PAINEL = {
                  ],
                  [
                      "02/07",
-                     72,
-                     18
+                     74,
+                     20
                  ]
              ],
     "historico":  {
@@ -17871,16 +17944,16 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-02":  {
-                                         "dataHora":  "13:45",
+                                         "dataHora":  "14:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
                                                        "setor":  "PROMO-CAMPINASSUL",
                                                        "regional":  "Regional Merchandising",
-                                                       "vi":  6,
+                                                       "vi":  7,
                                                        "pe":  0,
-                                                       "km":  89.14,
-                                                       "tv":  266
+                                                       "km":  91.86,
+                                                       "tv":  335
                                                    },
                                                    {
                                                        "nome":  "Silmara",
@@ -17982,6 +18055,15 @@ window.PAINEL = {
                                                        "tv":  195
                                                    },
                                                    {
+                                                       "nome":  "Costa",
+                                                       "setor":  "RIO CLARO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  3,
+                                                       "pe":  1,
+                                                       "km":  64.58,
+                                                       "tv":  209
+                                                   },
+                                                   {
                                                        "nome":  "Maira",
                                                        "setor":  "AMERICANA",
                                                        "regional":  "NORDESTE",
@@ -17998,15 +18080,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  15.64,
                                                        "tv":  164
-                                                   },
-                                                   {
-                                                       "nome":  "Costa",
-                                                       "setor":  "RIO CLARO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  1,
-                                                       "km":  63.46,
-                                                       "tv":  157
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -18027,6 +18100,15 @@ window.PAINEL = {
                                                        "tv":  279
                                                    },
                                                    {
+                                                       "nome":  "Cominato",
+                                                       "setor":  "PIRACICABA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  0,
+                                                       "km":  28.19,
+                                                       "tv":  161
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -18043,15 +18125,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  21.89,
                                                        "tv":  218
-                                                   },
-                                                   {
-                                                       "nome":  "Cominato",
-                                                       "setor":  "PIRACICABA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  0,
-                                                       "km":  20.52,
-                                                       "tv":  136
                                                    },
                                                    {
                                                        "nome":  "Castro",
@@ -18232,6 +18305,13 @@ window.PAINEL = {
                                                          "tv":  40
                                                      },
                                                      {
+                                                         "n":  "Evandro",
+                                                         "r":  "SUPERMERCADOS DALBEN LTDA",
+                                                         "p":  1,
+                                                         "km":  2.72,
+                                                         "tv":  69
+                                                     },
+                                                     {
                                                          "n":  "Silmara",
                                                          "r":  "COVABRA SUPERMERCADOS LTDA",
                                                          "p":  1,
@@ -18300,6 +18380,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  5.41,
                                                          "tv":  106
+                                                     },
+                                                     {
+                                                         "n":  "Costa",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  0,
+                                                         "km":  1.12,
+                                                         "tv":  52
                                                      },
                                                      {
                                                          "n":  "Fernando",
@@ -18489,6 +18576,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  14,
                                                          "tv":  71
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "BEIRA RIO COM.EXP.IMP.PROD. ALIM. LTDA.",
+                                                         "p":  0,
+                                                         "km":  7.67,
+                                                         "tv":  25
                                                      },
                                                      {
                                                          "n":  "Eugenio",
