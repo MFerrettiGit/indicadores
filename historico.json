@@ -16422,16 +16422,16 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "12:00",
+                       "dataHora":  "12:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  0,
-                                     "km":  79.65,
-                                     "tv":  165
+                                     "km":  85.79,
+                                     "tv":  226
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -16441,6 +16441,15 @@
                                      "pe":  0,
                                      "km":  53.17,
                                      "tv":  222
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  24.38,
+                                     "tv":  249
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -16470,15 +16479,6 @@
                                      "tv":  183
                                  },
                                  {
-                                     "nome":  "Edimilson",
-                                     "setor":  "PROMO-INDAIATUBA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  20.8,
-                                     "tv":  173
-                                 },
-                                 {
                                      "nome":  "Aline",
                                      "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
@@ -16500,10 +16500,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  23.99,
-                                     "tv":  199
+                                     "km":  26.47,
+                                     "tv":  241
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -16542,6 +16542,15 @@
                                      "tv":  164
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  63.46,
+                                     "tv":  157
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -16549,15 +16558,6 @@
                                      "pe":  0,
                                      "km":  43.63,
                                      "tv":  106
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  58.05,
-                                     "tv":  51
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -16581,28 +16581,28 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  1,
-                                     "km":  6.18,
-                                     "tv":  138
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  10.18,
+                                     "tv":  208
                                  },
                                  {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  6.52,
-                                     "tv":  65
+                                     "km":  20.52,
+                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  14.45,
-                                     "tv":  99
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  19.12,
+                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Castro",
@@ -16678,6 +16678,13 @@
                                        "tv":  60
                                    },
                                    {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  3.58,
+                                       "tv":  76
+                                   },
+                                   {
                                        "n":  "Eduardo",
                                        "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
                                        "p":  0,
@@ -16734,6 +16741,13 @@
                                        "tv":  31
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  6.14,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16781,6 +16795,13 @@
                                        "p":  1,
                                        "km":  0,
                                        "tv":  51
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  5.41,
+                                       "tv":  106
                                    },
                                    {
                                        "n":  "Fernando",
@@ -16846,6 +16867,13 @@
                                        "tv":  142
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "COOP. DOS PLANTADORES DE CANA OESTE PAUL",
+                                       "p":  1,
+                                       "km":  2.48,
+                                       "tv":  42
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUP. BARBOSA RODRIGUES ZECHINATO LTDA",
                                        "p":  1,
@@ -16881,6 +16909,13 @@
                                        "tv":  55
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "VILA MIMOSA LTDA",
+                                       "p":  1,
+                                       "km":  4,
+                                       "tv":  70
+                                   },
+                                   {
                                        "n":  "Castro",
                                        "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
                                        "p":  1,
@@ -16907,6 +16942,13 @@
                                        "p":  0,
                                        "km":  1.95,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "N N NASTARO LTDA",
+                                       "p":  0,
+                                       "km":  14,
+                                       "tv":  71
                                    },
                                    {
                                        "n":  "Eugenio",
@@ -16941,6 +16983,13 @@
                                        "r":  "FTJ SUPERMERCADOS LTDA",
                                        "p":  1,
                                        "km":  2.62,
+                                       "tv":  61
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "SUPERMERCADO MANDARIN LTDA",
+                                       "p":  1,
+                                       "km":  4.67,
                                        "tv":  61
                                    },
                                    {
