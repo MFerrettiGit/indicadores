@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "10:30",
+                       "dataHora":  "10:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16432,6 +16432,15 @@
                                      "pe":  0,
                                      "km":  62.54,
                                      "tv":  134
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  51.76,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Debora",
@@ -16468,15 +16477,6 @@
                                      "pe":  0,
                                      "km":  41.18,
                                      "tv":  119
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  27.38,
-                                     "tv":  70
                                  },
                                  {
                                      "nome":  "Aline",
@@ -16569,6 +16569,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  6.18,
+                                     "tv":  138
+                                 },
+                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
@@ -16585,15 +16594,6 @@
                                      "pe":  1,
                                      "km":  8.35,
                                      "tv":  68
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  5.54,
-                                     "tv":  83
                                  },
                                  {
                                      "nome":  "Karina",
@@ -16685,6 +16685,13 @@
                                        "tv":  70
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  24.38,
+                                       "tv":  95
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -16704,6 +16711,13 @@
                                        "p":  1,
                                        "km":  2.05,
                                        "tv":  27
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  17.11,
+                                       "tv":  31
                                    },
                                    {
                                        "n":  "Silmara",
@@ -16781,6 +16795,13 @@
                                        "p":  1,
                                        "km":  5.22,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "MERCADINHO YEDA LTDA-ME.",
+                                       "p":  0,
+                                       "km":  0.64,
+                                       "tv":  55
                                    },
                                    {
                                        "n":  "Castro",
