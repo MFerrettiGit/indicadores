@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "11:30",
+                       "dataHora":  "11:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16434,6 +16434,24 @@
                                      "tv":  165
                                  },
                                  {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  53.17,
+                                     "tv":  222
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  16.11,
+                                     "tv":  174
+                                 },
+                                 {
                                      "nome":  "Silmara",
                                      "setor":  "PROMO-STA BARBARA",
                                      "regional":  "Regional Merchandising",
@@ -16441,15 +16459,6 @@
                                      "pe":  0,
                                      "km":  45.35,
                                      "tv":  176
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  51.76,
-                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Debora",
@@ -16468,15 +16477,6 @@
                                      "pe":  0,
                                      "km":  20.8,
                                      "tv":  173
-                                 },
-                                 {
-                                     "nome":  "Vinicius",
-                                     "setor":  "PROMO-SOROCABA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  8.31,
-                                     "tv":  133
                                  },
                                  {
                                      "nome":  "Aline",
@@ -16699,6 +16699,13 @@
                                        "tv":  95
                                    },
                                    {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  1.41,
+                                       "tv":  57
+                                   },
+                                   {
                                        "n":  "Evandro",
                                        "r":  "COVABRA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -16760,6 +16767,13 @@
                                        "p":  1,
                                        "km":  5.77,
                                        "tv":  90
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  7.8,
+                                       "tv":  41
                                    },
                                    {
                                        "n":  "Costa",
