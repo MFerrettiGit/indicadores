@@ -16422,7 +16422,7 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "13:15",
+                       "dataHora":  "13:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -16533,6 +16533,15 @@
                                      "tv":  195
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  51.25,
+                                     "tv":  155
+                                 },
+                                 {
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
@@ -16549,15 +16558,6 @@
                                      "pe":  1,
                                      "km":  63.46,
                                      "tv":  157
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  0,
-                                     "km":  43.63,
-                                     "tv":  106
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -16578,6 +16578,15 @@
                                      "tv":  191
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  21.89,
+                                     "tv":  218
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -16594,15 +16603,6 @@
                                      "pe":  0,
                                      "km":  20.52,
                                      "tv":  136
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  19.12,
-                                     "tv":  160
                                  },
                                  {
                                      "nome":  "Castro",
@@ -16902,6 +16902,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO ZARGON LTDA",
+                                       "p":  0,
+                                       "km":  7.62,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "SUPERMERCADOS GRICKI LTDA",
                                        "p":  1,
@@ -16928,6 +16935,13 @@
                                        "p":  1,
                                        "km":  2.1,
                                        "tv":  24
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  4.59,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Rachel",
@@ -17075,6 +17089,13 @@
                                        "p":  1,
                                        "km":  4.67,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Mariangela",
+                                       "r":  "FTJ SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.77,
+                                       "tv":  58
                                    },
                                    {
                                        "n":  "Nelson",
