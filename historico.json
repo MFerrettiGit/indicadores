@@ -16422,16 +16422,16 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "09:30",
+                       "dataHora":  "09:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  60.49,
-                                     "tv":  107
+                                     "km":  62.54,
+                                     "tv":  134
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -16524,6 +16524,15 @@
                                      "tv":  61
                                  },
                                  {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  58.05,
+                                     "tv":  51
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -16539,15 +16548,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  0.38,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  58.05,
                                      "tv":  0
                                  },
                                  {
@@ -16569,6 +16569,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  1,
+                                     "km":  8.35,
+                                     "tv":  68
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -16585,15 +16594,6 @@
                                      "pe":  0,
                                      "km":  4.57,
                                      "tv":  39
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  0,
-                                     "km":  6.14,
-                                     "tv":  21
                                  },
                                  {
                                      "nome":  "Karina",
@@ -16617,10 +16617,10 @@
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "vi":  1,
+                                     "pe":  1,
+                                     "km":  10.69,
+                                     "tv":  56
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -16678,6 +16678,13 @@
                                        "tv":  53
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.05,
+                                       "tv":  27
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "COVABRA SUPERMERCADOS LTDA",
                                        "p":  1,
@@ -16690,6 +16697,13 @@
                                        "p":  1,
                                        "km":  2.54,
                                        "tv":  43
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "KI-BARATO MERCEARIA DE DESCONTO LTDA.",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  51
                                    },
                                    {
                                        "n":  "Fernando",
@@ -16711,6 +16725,13 @@
                                        "p":  1,
                                        "km":  5.22,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Castro",
+                                       "r":  "MIX VALI COMERC. DE PROD. ALIMENT. LTDA",
+                                       "p":  1,
+                                       "km":  10.69,
+                                       "tv":  56
                                    },
                                    {
                                        "n":  "Cominato",
@@ -16739,6 +16760,13 @@
                                        "p":  0,
                                        "km":  4.17,
                                        "tv":  21
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "PTYP GOMES MINIMERCADO",
+                                       "p":  1,
+                                       "km":  2.21,
+                                       "tv":  47
                                    }
                                ]
                    }
