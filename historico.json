@@ -16422,16 +16422,16 @@
                                ]
                    },
     "2026-07-02":  {
-                       "dataHora":  "10:45",
+                       "dataHora":  "11:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  62.54,
-                                     "tv":  134
+                                     "km":  79.65,
+                                     "tv":  165
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -16509,10 +16509,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  0,
+                                     "vi":  1,
                                      "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
+                                     "km":  170.65,
+                                     "tv":  67
                                  },
                                  {
                                      "nome":  "Luis",
@@ -16569,6 +16569,15 @@
                                      "tv":  0
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  8.69,
+                                     "tv":  142
+                                 },
+                                 {
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
@@ -16587,13 +16596,22 @@
                                      "tv":  65
                                  },
                                  {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
                                      "regional":  "SUL",
                                      "vi":  2,
-                                     "pe":  1,
-                                     "km":  8.35,
-                                     "tv":  68
+                                     "pe":  2,
+                                     "km":  14.45,
+                                     "tv":  99
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  38.34,
+                                     "tv":  77
                                  },
                                  {
                                      "nome":  "Karina",
@@ -16603,24 +16621,6 @@
                                      "pe":  1,
                                      "km":  16.07,
                                      "tv":  62
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  11.83,
-                                     "tv":  38
-                                 },
-                                 {
-                                     "nome":  "Castro",
-                                     "setor":  "JUNDIAI",
-                                     "regional":  "SUL",
-                                     "vi":  1,
-                                     "pe":  1,
-                                     "km":  10.69,
-                                     "tv":  56
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -16676,6 +16676,13 @@
                                        "p":  1,
                                        "km":  1.07,
                                        "tv":  60
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COMERCIO DE PRODUTOS ALIMENT",
+                                       "p":  0,
+                                       "km":  170.65,
+                                       "tv":  67
                                    },
                                    {
                                        "n":  "Eliana",
@@ -16811,6 +16818,13 @@
                                        "tv":  56
                                    },
                                    {
+                                       "n":  "Castro",
+                                       "r":  "COOP. DE CONSUMO COOPERCICA LTDA - LJ.04",
+                                       "p":  1,
+                                       "km":  27.65,
+                                       "tv":  21
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "ETTORI",
                                        "p":  0,
@@ -16846,6 +16860,13 @@
                                        "tv":  38
                                    },
                                    {
+                                       "n":  "Mariangela",
+                                       "r":  "FTJ SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  2.62,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Nelson",
                                        "r":  "MERCADO MIRANDA EXPRESS LTDA",
                                        "p":  0,
@@ -16858,6 +16879,13 @@
                                        "p":  1,
                                        "km":  2.21,
                                        "tv":  47
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "SUPERMERCAO DO WAGUINHO LTDA",
+                                       "p":  1,
+                                       "km":  0.34,
+                                       "tv":  74
                                    }
                                ]
                    }
