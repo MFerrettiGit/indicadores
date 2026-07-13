@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "17:45",
+    "dataHora":  "18:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -9,7 +9,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  7,
-                     "km":  78.92,
+                     "km":  88.93,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:20",
@@ -84,7 +84,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  3,
-                     "km":  18.17,
+                     "km":  28.83,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:01",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -166,7 +166,7 @@ window.PAINEL = {
                      "ultimo":  "14:40",
                      "tv":  "03:44:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -204,7 +204,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  51.28,
+                     "km":  91.98,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:18",
@@ -234,7 +234,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  111.54,
+                     "km":  187.31,
                      "semPed":  1,
                      "perc":  25,
                      "primeiro":  "09:07",
@@ -249,7 +249,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  7,
-                     "km":  83.38,
+                     "km":  132.75,
                      "semPed":  5,
                      "perc":  71.43,
                      "primeiro":  "08:02",
@@ -319,6 +319,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
                      "nome":  "Lucas",
                      "setor":  "INDAIATUBA",
                      "regional":  "SUL",
@@ -340,21 +355,6 @@ window.PAINEL = {
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  148.24,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -1260,6 +1260,14 @@ window.PAINEL = {
                         "tempo":  "00:44:05"
                     },
                     {
+                        "nome":  "Rachel",
+                        "tipo":  "Digitacao Pedido",
+                        "obs":  "ponto novo/ ciamdrighi/ flex",
+                        "inicio":  "15:25",
+                        "final":  "17:48",
+                        "tempo":  "02:22:50"
+                    },
+                    {
                         "nome":  "Luis",
                         "tipo":  "Em Viagem",
                         "obs":  "Franca a Sales Oliveira",
@@ -1401,7 +1409,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "10:16:07"
+                        "tempo":  "10:30:46"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1409,7 +1417,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:40:47"
+                        "tempo":  "09:55:26"
                     },
                     {
                         "nome":  "Lucas",
@@ -1417,15 +1425,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:20:55"
-                    },
-                    {
-                        "nome":  "Rachel",
-                        "tipo":  "Digitacao Pedido",
-                        "obs":  "ponto novo/ ciamdrighi/ flex",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "02:14:30"
+                        "tempo":  "09:35:34"
                     }
                 ],
     "semped":  [
@@ -1525,13 +1525,13 @@ window.PAINEL = {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:52:42"
+                         "tempo":  "01:07:33"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:12:33"
+                         "tempo":  "01:27:24"
                      }
                  ],
     "hist":  [
@@ -18843,7 +18843,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "17:45",
+                                         "dataHora":  "18:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18851,7 +18851,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  7,
                                                        "pe":  0,
-                                                       "km":  78.92,
+                                                       "km":  88.93,
                                                        "tv":  426
                                                    },
                                                    {
@@ -18896,12 +18896,12 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  3,
                                                        "pe":  0,
-                                                       "km":  18.17,
+                                                       "km":  28.83,
                                                        "tv":  349
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18909,8 +18909,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18968,7 +18968,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  51.28,
+                                                       "km":  91.98,
                                                        "tv":  337
                                                    },
                                                    {
@@ -18986,7 +18986,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  4,
                                                        "pe":  3,
-                                                       "km":  111.54,
+                                                       "km":  187.31,
                                                        "tv":  237
                                                    },
                                                    {
@@ -18995,7 +18995,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  7,
                                                        "pe":  2,
-                                                       "km":  83.38,
+                                                       "km":  132.75,
                                                        "tv":  363
                                                    },
                                                    {
@@ -19035,6 +19035,15 @@ window.PAINEL = {
                                                        "tv":  298
                                                    },
                                                    {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
+                                                       "tv":  0
+                                                   },
+                                                   {
                                                        "nome":  "Lucas",
                                                        "setor":  "INDAIATUBA",
                                                        "regional":  "SUL",
@@ -19050,15 +19059,6 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  148.24,
-                                                       "tv":  0
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],
