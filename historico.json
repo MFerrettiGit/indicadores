@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "17:15",
+                       "dataHora":  "17:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17316,6 +17316,15 @@
                                      "tv":  275
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  3,
+                                     "km":  43.02,
+                                     "tv":  276
+                                 },
+                                 {
                                      "nome":  "Costa",
                                      "setor":  "RIO CLARO",
                                      "regional":  "NORDESTE",
@@ -17323,15 +17332,6 @@
                                      "pe":  4,
                                      "km":  51.28,
                                      "tv":  337
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  4,
-                                     "pe":  3,
-                                     "km":  42.85,
-                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Luis",
@@ -17774,6 +17774,13 @@
                                        "p":  1,
                                        "km":  3.17,
                                        "tv":  49
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "EDSON MARCON EIRELI",
+                                       "p":  0,
+                                       "km":  0.17,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Milene",

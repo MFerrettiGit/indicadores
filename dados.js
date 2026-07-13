@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "17:15",
+    "dataHora":  "17:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  5,
+                     "km":  43.02,
+                     "semPed":  2,
+                     "perc":  40,
+                     "primeiro":  "08:43",
+                     "ultimo":  "17:17",
+                     "tv":  "04:36:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Costa",
                      "setor":  "RIO CLARO",
                      "regional":  "NORDESTE",
@@ -196,21 +211,6 @@ window.PAINEL = {
                      "ultimo":  "16:28",
                      "tv":  "05:37:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  42.85,
-                     "semPed":  1,
-                     "perc":  25,
-                     "primeiro":  "08:43",
-                     "ultimo":  "16:20",
-                     "tv":  "03:44:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -816,6 +816,15 @@ window.PAINEL = {
                          "dur":  "00:49:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "EDSON MARCON EIRELI",
+                         "mun":  "LIMEIRA",
+                         "in":  "16:25:19",
+                         "out":  "17:17:37",
+                         "km":  0.17,
+                         "dur":  "00:52:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "PITANGUEIRAS",
@@ -1374,7 +1383,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:45:50"
+                        "tempo":  "10:01:01"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1382,7 +1391,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:10:30"
+                        "tempo":  "09:25:41"
                     },
                     {
                         "nome":  "Lucas",
@@ -1390,7 +1399,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:50:38"
+                        "tempo":  "09:05:49"
                     },
                     {
                         "nome":  "Rachel",
@@ -1398,13 +1407,19 @@ window.PAINEL = {
                         "obs":  "ponto novo/ ciamdrighi/ flex",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:44:13"
+                        "tempo":  "01:59:24"
                     }
                 ],
     "semped":  [
                    {
                        "nome":  "Maira",
                        "razao":  "YURI PADOVAN CALSA.",
+                       "mun":  "LIMEIRA",
+                       "obs":  "comprador ausente"
+                   },
+                   {
+                       "nome":  "Maira",
+                       "razao":  "EDSON MARCON EIRELI",
                        "mun":  "LIMEIRA",
                        "obs":  "comprador ausente"
                    },
@@ -1489,34 +1504,28 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Maira",
-                         "razao":  "EDSON MARCON EIRELI",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:43:11"
-                     },
-                     {
                          "nome":  "Fernando",
                          "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
                          "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "00:57:40"
+                         "tempo":  "01:12:46"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:22:35"
+                         "tempo":  "00:37:41"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:05:28"
+                         "tempo":  "00:20:34"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:42:26"
+                         "tempo":  "00:57:32"
                      }
                  ],
     "hist":  [
@@ -1617,8 +1626,8 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     95,
-                     15
+                     97,
+                     17
                  ]
              ],
     "historico":  {
@@ -18828,7 +18837,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "17:15",
+                                         "dataHora":  "17:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18939,6 +18948,15 @@ window.PAINEL = {
                                                        "tv":  275
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  5,
+                                                       "pe":  3,
+                                                       "km":  43.02,
+                                                       "tv":  276
+                                                   },
+                                                   {
                                                        "nome":  "Costa",
                                                        "setor":  "RIO CLARO",
                                                        "regional":  "NORDESTE",
@@ -18946,15 +18964,6 @@ window.PAINEL = {
                                                        "pe":  4,
                                                        "km":  51.28,
                                                        "tv":  337
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  4,
-                                                       "pe":  3,
-                                                       "km":  42.85,
-                                                       "tv":  224
                                                    },
                                                    {
                                                        "nome":  "Luis",
@@ -19397,6 +19406,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.17,
                                                          "tv":  49
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "EDSON MARCON EIRELI",
+                                                         "p":  0,
+                                                         "km":  0.17,
+                                                         "tv":  52
                                                      },
                                                      {
                                                          "n":  "Milene",
