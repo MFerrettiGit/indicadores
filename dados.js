@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "14:45",
+    "dataHora":  "15:00",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -1091,7 +1091,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:22:59"
+                        "tempo":  "07:30:14"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1099,7 +1099,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:47:39"
+                        "tempo":  "06:54:54"
                     },
                     {
                         "nome":  "Lucas",
@@ -1107,7 +1107,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:27:47"
+                        "tempo":  "06:35:02"
                     },
                     {
                         "nome":  "Fernando",
@@ -1115,7 +1115,7 @@ window.PAINEL = {
                         "obs":  "meu carro está na oficina pra trocar o alternador",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:47:04"
+                        "tempo":  "00:54:19"
                     },
                     {
                         "nome":  "Karina",
@@ -1123,7 +1123,7 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:31:15"
+                        "tempo":  "00:38:30"
                     },
                     {
                         "nome":  "Rachel",
@@ -1131,7 +1131,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:05:48"
+                        "tempo":  "00:13:03"
                     }
                 ],
     "semped":  [
@@ -1195,91 +1195,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:45:42"
+                         "tempo":  "00:52:59"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:01:15"
+                         "tempo":  "00:08:32"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:17:57"
+                         "tempo":  "00:25:14"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:31:11"
+                         "tempo":  "01:38:28"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:59:00"
+                         "tempo":  "01:06:17"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:29:04"
+                         "tempo":  "00:36:21"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:39:44"
+                         "tempo":  "01:47:01"
                      },
                      {
                          "nome":  "Maira",
                          "razao":  "YURI PADOVAN CALSA.",
                          "mun":  "LIMEIRA",
-                         "tempo":  "00:09:35"
+                         "tempo":  "00:16:52"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VICENTE",
                          "mun":  "ORLANDIA",
-                         "tempo":  "01:14:05"
+                         "tempo":  "01:21:22"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
                          "mun":  "PONTAL",
-                         "tempo":  "01:11:41"
+                         "tempo":  "01:18:58"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:45:37"
+                         "tempo":  "00:52:54"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:18:46"
+                         "tempo":  "00:26:03"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:11:32"
+                         "tempo":  "00:18:49"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:05:33"
+                         "tempo":  "01:12:50"
                      },
                      {
                          "nome":  "Cominato",
                          "razao":  "A.M.G. ATACAREJO DE PROD ALIMENTIC LTDA",
                          "mun":  "TIETE",
-                         "tempo":  "00:04:48"
+                         "tempo":  "00:12:05"
                      }
                  ],
     "hist":  [
@@ -18591,7 +18591,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "14:45",
+                                         "dataHora":  "15:00",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18648,8 +18648,8 @@ window.PAINEL = {
                                                        "tv":  244
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18657,8 +18657,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
