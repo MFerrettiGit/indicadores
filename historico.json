@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "15:00",
+                       "dataHora":  "15:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17217,6 +17217,24 @@
                                      "tv":  276
                                  },
                                  {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  24.76,
+                                     "tv":  402
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  26.54,
+                                     "tv":  412
+                                 },
+                                 {
                                      "nome":  "Debora",
                                      "setor":  "PROMO-ARARAS",
                                      "regional":  "Regional Merchandising",
@@ -17224,24 +17242,6 @@
                                      "pe":  0,
                                      "km":  37.56,
                                      "tv":  350
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  12.16,
-                                     "tv":  284
-                                 },
-                                 {
-                                     "nome":  "Eliana",
-                                     "setor":  "PROMO-JUNDIAI",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  3,
-                                     "pe":  0,
-                                     "km":  23.24,
-                                     "tv":  336
                                  },
                                  {
                                      "nome":  "Edimilson",
@@ -17292,10 +17292,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  96.01,
-                                     "tv":  263
+                                     "km":  100.34,
+                                     "tv":  324
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -17355,10 +17355,10 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  1,
-                                     "km":  71.47,
-                                     "tv":  290
+                                     "km":  77.81,
+                                     "tv":  316
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -17397,6 +17397,15 @@
                                      "tv":  297
                                  },
                                  {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Lucas",
                                      "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
@@ -17412,15 +17421,6 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  148.24,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -17489,6 +17489,13 @@
                                        "tv":  228
                                    },
                                    {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
+                                       "p":  0,
+                                       "km":  4.33,
+                                       "tv":  61
+                                   },
+                                   {
                                        "n":  "Eliana",
                                        "r":  "IRMAOS BOA LTDA - LJ.01",
                                        "p":  1,
@@ -17508,6 +17515,13 @@
                                        "p":  1,
                                        "km":  18.42,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA",
+                                       "p":  1,
+                                       "km":  3.3,
+                                       "tv":  76
                                    },
                                    {
                                        "n":  "Evandro",
@@ -17578,6 +17592,13 @@
                                        "p":  1,
                                        "km":  2.43,
                                        "tv":  50
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
+                                       "p":  1,
+                                       "km":  12.6,
+                                       "tv":  118
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -17802,6 +17823,13 @@
                                        "p":  1,
                                        "km":  3.23,
                                        "tv":  103
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "A.M.G. ATACAREJO DE PROD ALIMENTIC LTDA",
+                                       "p":  0,
+                                       "km":  6.34,
+                                       "tv":  26
                                    },
                                    {
                                        "n":  "Eugenio",
