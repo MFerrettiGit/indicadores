@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "18:00",
+    "dataHora":  "18:15",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -24,7 +24,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  6,
-                     "km":  27.68,
+                     "km":  35.32,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:30",
@@ -39,7 +39,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  38.15,
+                     "km":  40.68,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "06:53",
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -159,7 +159,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  67.91,
+                     "km":  118.87,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:00",
@@ -263,14 +263,14 @@ window.PAINEL = {
                      "setor":  "CAMPINAS NORTE",
                      "regional":  "SUL",
                      "tipo":  "OV",
-                     "visitas":  5,
-                     "km":  32.53,
+                     "visitas":  6,
+                     "km":  35.19,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:00",
-                     "ultimo":  "16:37",
-                     "tv":  "05:39:00",
-                     "emVisita":  1,
+                     "ultimo":  "17:54",
+                     "tv":  "06:47:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -289,12 +289,27 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Nelson",
+                     "setor":  "ITAPETININGA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  73.77,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:22",
+                     "ultimo":  "18:06",
+                     "tv":  "06:37:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Karina",
                      "setor":  "CARAGUATATUBA",
                      "regional":  "SUL",
                      "tipo":  "OV",
                      "visitas":  4,
-                     "km":  8.31,
+                     "km":  13.16,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "08:45",
@@ -302,36 +317,6 @@ window.PAINEL = {
                      "tv":  "06:11:00",
                      "emVisita":  0,
                      "emEvento":  0
-                 },
-                 {
-                     "nome":  "Nelson",
-                     "setor":  "ITAPETININGA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  42.66,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:22",
-                     "ultimo":  "15:27",
-                     "tv":  "04:58:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Mariangela",
-                     "setor":  "S.J.CAMPOS",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  0,
-                     "km":  0,
-                     "semPed":  0,
-                     "perc":  null,
-                     "primeiro":  null,
-                     "ultimo":  null,
-                     "tv":  "00:00:00",
-                     "emVisita":  0,
-                     "emEvento":  1
                  },
                  {
                      "nome":  "Lucas",
@@ -355,6 +340,21 @@ window.PAINEL = {
                      "tipo":  "OV",
                      "visitas":  0,
                      "km":  148.24,
+                     "semPed":  0,
+                     "perc":  null,
+                     "primeiro":  null,
+                     "ultimo":  null,
+                     "tv":  "00:00:00",
+                     "emVisita":  0,
+                     "emEvento":  1
+                 },
+                 {
+                     "nome":  "Mariangela",
+                     "setor":  "S.J.CAMPOS",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  0,
+                     "km":  0,
                      "semPed":  0,
                      "perc":  null,
                      "primeiro":  null,
@@ -1023,6 +1023,15 @@ window.PAINEL = {
                          "dur":  "00:35:00"
                      },
                      {
+                         "nome":  "Alan",
+                         "razao":  "LESSA",
+                         "mun":  "CAMPINAS",
+                         "in":  "16:45:55",
+                         "out":  "17:54:39",
+                         "km":  2.66,
+                         "dur":  "01:08:00"
+                     },
+                     {
                          "nome":  "Cominato",
                          "razao":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                          "mun":  "CERQUILHO",
@@ -1192,6 +1201,15 @@ window.PAINEL = {
                          "out":  "15:27:39",
                          "km":  34.98,
                          "dur":  "01:47:00"
+                     },
+                     {
+                         "nome":  "Nelson",
+                         "razao":  "MERCADO SUPER BOM LTDA",
+                         "mun":  "ITAPETININGA",
+                         "in":  "16:26:04",
+                         "out":  "18:06:09",
+                         "km":  31.11,
+                         "dur":  "01:39:00"
                      }
                  ],
     "eventos":  [
@@ -1409,7 +1427,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "10:30:46"
+                        "tempo":  "10:45:49"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1417,7 +1435,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:55:26"
+                        "tempo":  "10:10:29"
                     },
                     {
                         "nome":  "Lucas",
@@ -1425,7 +1443,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:35:34"
+                        "tempo":  "09:50:37"
                     }
                 ],
     "semped":  [
@@ -1521,18 +1539,7 @@ window.PAINEL = {
                    }
                ],
     "emvisita":  [
-                     {
-                         "nome":  "Alan",
-                         "razao":  "LESSA",
-                         "mun":  "CAMPINAS",
-                         "tempo":  "01:07:33"
-                     },
-                     {
-                         "nome":  "Nelson",
-                         "razao":  "MERCADO SUPER BOM LTDA",
-                         "mun":  "ITAPETININGA",
-                         "tempo":  "01:27:24"
-                     }
+
                  ],
     "hist":  [
                  [
@@ -1632,7 +1639,7 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     99,
+                     101,
                      17
                  ]
              ],
@@ -18843,7 +18850,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "18:00",
+                                         "dataHora":  "18:15",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18860,7 +18867,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  6,
                                                        "pe":  0,
-                                                       "km":  27.68,
+                                                       "km":  35.32,
                                                        "tv":  483
                                                    },
                                                    {
@@ -18869,7 +18876,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  38.15,
+                                                       "km":  40.68,
                                                        "tv":  478
                                                    },
                                                    {
@@ -18900,8 +18907,8 @@ window.PAINEL = {
                                                        "tv":  349
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18909,8 +18916,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18941,7 +18948,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  67.91,
+                                                       "km":  118.87,
                                                        "tv":  224
                                                    },
                                                    {
@@ -19002,10 +19009,10 @@ window.PAINEL = {
                                                        "nome":  "Alan",
                                                        "setor":  "CAMPINAS NORTE",
                                                        "regional":  "SUL",
-                                                       "vi":  5,
-                                                       "pe":  5,
-                                                       "km":  32.53,
-                                                       "tv":  339
+                                                       "vi":  6,
+                                                       "pe":  6,
+                                                       "km":  35.19,
+                                                       "tv":  407
                                                    },
                                                    {
                                                        "nome":  "Eugenio",
@@ -19017,31 +19024,22 @@ window.PAINEL = {
                                                        "tv":  337
                                                    },
                                                    {
+                                                       "nome":  "Nelson",
+                                                       "setor":  "ITAPETININGA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  73.77,
+                                                       "tv":  397
+                                                   },
+                                                   {
                                                        "nome":  "Karina",
                                                        "setor":  "CARAGUATATUBA",
                                                        "regional":  "SUL",
                                                        "vi":  4,
                                                        "pe":  4,
-                                                       "km":  8.31,
+                                                       "km":  13.16,
                                                        "tv":  371
-                                                   },
-                                                   {
-                                                       "nome":  "Nelson",
-                                                       "setor":  "ITAPETININGA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  42.66,
-                                                       "tv":  298
-                                                   },
-                                                   {
-                                                       "nome":  "Mariangela",
-                                                       "setor":  "S.J.CAMPOS",
-                                                       "regional":  "SUL",
-                                                       "vi":  0,
-                                                       "pe":  0,
-                                                       "km":  0,
-                                                       "tv":  0
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -19059,6 +19057,15 @@ window.PAINEL = {
                                                        "vi":  0,
                                                        "pe":  0,
                                                        "km":  148.24,
+                                                       "tv":  0
+                                                   },
+                                                   {
+                                                       "nome":  "Mariangela",
+                                                       "setor":  "S.J.CAMPOS",
+                                                       "regional":  "SUL",
+                                                       "vi":  0,
+                                                       "pe":  0,
+                                                       "km":  0,
                                                        "tv":  0
                                                    }
                                                ],
@@ -19575,6 +19582,13 @@ window.PAINEL = {
                                                          "tv":  35
                                                      },
                                                      {
+                                                         "n":  "Alan",
+                                                         "r":  "LESSA",
+                                                         "p":  1,
+                                                         "km":  2.66,
+                                                         "tv":  68
+                                                     },
+                                                     {
                                                          "n":  "Cominato",
                                                          "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                                          "p":  0,
@@ -19706,6 +19720,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  34.98,
                                                          "tv":  107
+                                                     },
+                                                     {
+                                                         "n":  "Nelson",
+                                                         "r":  "MERCADO SUPER BOM LTDA",
+                                                         "p":  1,
+                                                         "km":  31.11,
+                                                         "tv":  99
                                                      }
                                                  ]
                                      }

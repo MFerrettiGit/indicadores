@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "18:00",
+                       "dataHora":  "18:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17222,7 +17222,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  27.68,
+                                     "km":  35.32,
                                      "tv":  483
                                  },
                                  {
@@ -17231,7 +17231,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  38.15,
+                                     "km":  40.68,
                                      "tv":  478
                                  },
                                  {
@@ -17262,8 +17262,8 @@
                                      "tv":  349
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17271,8 +17271,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17303,7 +17303,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  67.91,
+                                     "km":  118.87,
                                      "tv":  224
                                  },
                                  {
@@ -17364,10 +17364,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  5,
-                                     "pe":  5,
-                                     "km":  32.53,
-                                     "tv":  339
+                                     "vi":  6,
+                                     "pe":  6,
+                                     "km":  35.19,
+                                     "tv":  407
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -17379,31 +17379,22 @@
                                      "tv":  337
                                  },
                                  {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  73.77,
+                                     "tv":  397
+                                 },
+                                 {
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
                                      "vi":  4,
                                      "pe":  4,
-                                     "km":  8.31,
+                                     "km":  13.16,
                                      "tv":  371
-                                 },
-                                 {
-                                     "nome":  "Nelson",
-                                     "setor":  "ITAPETININGA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  42.66,
-                                     "tv":  298
-                                 },
-                                 {
-                                     "nome":  "Mariangela",
-                                     "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -17421,6 +17412,15 @@
                                      "vi":  0,
                                      "pe":  0,
                                      "km":  148.24,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
                                      "tv":  0
                                  }
                              ],
@@ -17937,6 +17937,13 @@
                                        "tv":  35
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  2.66,
+                                       "tv":  68
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                        "p":  0,
@@ -18068,6 +18075,13 @@
                                        "p":  1,
                                        "km":  34.98,
                                        "tv":  107
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "MERCADO SUPER BOM LTDA",
+                                       "p":  1,
+                                       "km":  31.11,
+                                       "tv":  99
                                    }
                                ]
                    }
