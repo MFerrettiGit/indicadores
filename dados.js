@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "15:15",
+    "dataHora":  "15:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -188,14 +188,29 @@ window.PAINEL = {
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  111.54,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "09:07",
+                     "ultimo":  "15:21",
+                     "tv":  "03:57:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
                      "visitas":  3,
-                     "km":  109.67,
+                     "km":  39.68,
                      "semPed":  1,
                      "perc":  33.33,
-                     "primeiro":  "09:07",
-                     "ultimo":  "12:14",
-                     "tv":  "02:08:00",
-                     "emVisita":  1,
+                     "primeiro":  "08:43",
+                     "ultimo":  "15:15",
+                     "tv":  "02:55:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "09:01",
                      "tv":  "00:32:00",
-                     "emVisita":  0,
-                     "emEvento":  1
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  2,
-                     "km":  33.39,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:43",
-                     "ultimo":  "11:56",
-                     "tv":  "02:16:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "15:07",
                      "tv":  "05:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -316,7 +316,7 @@ window.PAINEL = {
                      "ultimo":  "13:49",
                      "tv":  "04:57:00",
                      "emVisita":  0,
-                     "emEvento":  1
+                     "emEvento":  0
                  },
                  {
                      "nome":  "Mariangela",
@@ -427,6 +427,15 @@ window.PAINEL = {
                          "out":  "11:47:25",
                          "km":  5.49,
                          "dur":  "00:31:00"
+                     },
+                     {
+                         "nome":  "Edimilson",
+                         "razao":  "SUPERMERCADO SUMERBOL LTDA",
+                         "mun":  "INDAIATUBA",
+                         "in":  "13:14:39",
+                         "out":  "15:23:52",
+                         "km":  6.89,
+                         "dur":  "02:09:00"
                      },
                      {
                          "nome":  "Eduardo",
@@ -627,6 +636,15 @@ window.PAINEL = {
                          "dur":  "01:58:00"
                      },
                      {
+                         "nome":  "Costa",
+                         "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                         "mun":  "RIO CLARO",
+                         "in":  "14:00:13",
+                         "out":  "15:23:55",
+                         "km":  5.92,
+                         "dur":  "01:23:00"
+                     },
+                     {
                          "nome":  "Fernando",
                          "razao":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                          "mun":  "RIBEIRAO PRETO",
@@ -672,6 +690,15 @@ window.PAINEL = {
                          "dur":  "00:42:00"
                      },
                      {
+                         "nome":  "Luis",
+                         "razao":  "VICENTE",
+                         "mun":  "ORLANDIA",
+                         "in":  "13:31:45",
+                         "out":  "15:21:39",
+                         "km":  1.87,
+                         "dur":  "01:49:00"
+                     },
+                     {
                          "nome":  "Maira",
                          "razao":  "BENFICA COM E SERV EIRELI - EPP",
                          "mun":  "LIMEIRA",
@@ -688,6 +715,15 @@ window.PAINEL = {
                          "out":  "11:56:40",
                          "km":  5.85,
                          "dur":  "00:52:00"
+                     },
+                     {
+                         "nome":  "Maira",
+                         "razao":  "YURI PADOVAN CALSA.",
+                         "mun":  "LIMEIRA",
+                         "in":  "14:36:15",
+                         "out":  "15:15:44",
+                         "km":  6.29,
+                         "dur":  "00:39:00"
                      },
                      {
                          "nome":  "Milene",
@@ -994,6 +1030,14 @@ window.PAINEL = {
                         "tempo":  "01:03:16"
                     },
                     {
+                        "nome":  "Karina",
+                        "tipo":  "Refeicao Intrajornada",
+                        "obs":  "almoco",
+                        "inicio":  "14:15",
+                        "final":  "15:20",
+                        "tempo":  "01:04:34"
+                    },
+                    {
                         "nome":  "Rachel",
                         "tipo":  "Em Viagem",
                         "obs":  "mogi",
@@ -1106,6 +1150,14 @@ window.PAINEL = {
                         "tempo":  "01:14:59"
                     },
                     {
+                        "nome":  "Fernando",
+                        "tipo":  "Manutencao",
+                        "obs":  "meu carro está na oficina pra trocar o alternador",
+                        "inicio":  "13:59",
+                        "final":  "15:22",
+                        "tempo":  "01:22:24"
+                    },
+                    {
                         "nome":  "Costa",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "almoço",
@@ -1127,7 +1179,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:45:48"
+                        "tempo":  "08:00:46"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1135,7 +1187,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:10:28"
+                        "tempo":  "07:25:26"
                     },
                     {
                         "nome":  "Lucas",
@@ -1143,23 +1195,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:50:36"
-                    },
-                    {
-                        "nome":  "Fernando",
-                        "tipo":  "Manutencao",
-                        "obs":  "meu carro está na oficina pra trocar o alternador",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "01:09:53"
-                    },
-                    {
-                        "nome":  "Karina",
-                        "tipo":  "Refeicao Intrajornada",
-                        "obs":  "almoco",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:54:04"
+                        "tempo":  "07:05:34"
                     },
                     {
                         "nome":  "Rachel",
@@ -1167,7 +1203,7 @@ window.PAINEL = {
                         "obs":  "amparo",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:28:37"
+                        "tempo":  "00:43:35"
                     },
                     {
                         "nome":  "Silmara",
@@ -1175,10 +1211,16 @@ window.PAINEL = {
                         "obs":  "almoço",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:01:49"
+                        "tempo":  "00:16:47"
                     }
                 ],
     "semped":  [
+                   {
+                       "nome":  "Maira",
+                       "razao":  "YURI PADOVAN CALSA.",
+                       "mun":  "LIMEIRA",
+                       "obs":  "comprador ausente"
+                   },
                    {
                        "nome":  "Eduardo",
                        "razao":  "TAUSTE SUPERMERCADOS LTDA",
@@ -1251,73 +1293,73 @@ window.PAINEL = {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:24:03"
+                         "tempo":  "00:39:01"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:40:45"
+                         "tempo":  "00:55:43"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:53:59"
+                         "tempo":  "02:08:57"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:51:52"
-                     },
-                     {
-                         "nome":  "Maira",
-                         "razao":  "YURI PADOVAN CALSA.",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:32:23"
-                     },
-                     {
-                         "nome":  "Luis",
-                         "razao":  "VICENTE",
-                         "mun":  "ORLANDIA",
-                         "tempo":  "01:36:53"
+                         "tempo":  "01:06:50"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
                          "mun":  "PONTAL",
-                         "tempo":  "01:34:29"
+                         "tempo":  "01:49:27"
+                     },
+                     {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:01:15"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:08:25"
+                         "tempo":  "01:23:23"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:41:34"
+                         "tempo":  "00:56:32"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:34:20"
+                         "tempo":  "00:49:18"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "MINIMERCADO BOM JESUS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:10:37"
+                         "tempo":  "00:25:35"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "01:28:21"
+                         "tempo":  "01:43:19"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                         "mun":  "TIETE",
+                         "tempo":  "00:07:20"
                      }
                  ],
     "hist":  [
@@ -1418,8 +1460,8 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     70,
-                     11
+                     73,
+                     13
                  ]
              ],
     "historico":  {
@@ -18629,7 +18671,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "15:15",
+                                         "dataHora":  "15:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18743,10 +18785,19 @@ window.PAINEL = {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  111.54,
+                                                       "tv":  237
+                                                   },
+                                                   {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
                                                        "vi":  3,
                                                        "pe":  2,
-                                                       "km":  109.67,
-                                                       "tv":  128
+                                                       "km":  39.68,
+                                                       "tv":  175
                                                    },
                                                    {
                                                        "nome":  "Costa",
@@ -18765,15 +18816,6 @@ window.PAINEL = {
                                                        "pe":  2,
                                                        "km":  28.17,
                                                        "tv":  32
-                                                   },
-                                                   {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  2,
-                                                       "pe":  2,
-                                                       "km":  33.39,
-                                                       "tv":  136
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -18897,6 +18939,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.49,
                                                          "tv":  31
+                                                     },
+                                                     {
+                                                         "n":  "Edimilson",
+                                                         "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                                         "p":  1,
+                                                         "km":  6.89,
+                                                         "tv":  129
                                                      },
                                                      {
                                                          "n":  "Eduardo",
@@ -19053,6 +19102,13 @@ window.PAINEL = {
                                                          "tv":  118
                                                      },
                                                      {
+                                                         "n":  "Costa",
+                                                         "r":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                                                         "p":  1,
+                                                         "km":  5.92,
+                                                         "tv":  83
+                                                     },
+                                                     {
                                                          "n":  "Fernando",
                                                          "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                                          "p":  1,
@@ -19088,6 +19144,13 @@ window.PAINEL = {
                                                          "tv":  42
                                                      },
                                                      {
+                                                         "n":  "Luis",
+                                                         "r":  "VICENTE",
+                                                         "p":  1,
+                                                         "km":  1.87,
+                                                         "tv":  109
+                                                     },
+                                                     {
                                                          "n":  "Maira",
                                                          "r":  "BENFICA COM E SERV EIRELI - EPP",
                                                          "p":  1,
@@ -19100,6 +19163,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  5.85,
                                                          "tv":  52
+                                                     },
+                                                     {
+                                                         "n":  "Maira",
+                                                         "r":  "YURI PADOVAN CALSA.",
+                                                         "p":  0,
+                                                         "km":  6.29,
+                                                         "tv":  39
                                                      },
                                                      {
                                                          "n":  "Milene",

@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "15:15",
+                       "dataHora":  "15:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17319,10 +17319,19 @@
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  111.54,
+                                     "tv":  237
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
                                      "vi":  3,
                                      "pe":  2,
-                                     "km":  109.67,
-                                     "tv":  128
+                                     "km":  39.68,
+                                     "tv":  175
                                  },
                                  {
                                      "nome":  "Costa",
@@ -17341,15 +17350,6 @@
                                      "pe":  2,
                                      "km":  28.17,
                                      "tv":  32
-                                 },
-                                 {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  33.39,
-                                     "tv":  136
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -17473,6 +17473,13 @@
                                        "p":  1,
                                        "km":  5.49,
                                        "tv":  31
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  6.89,
+                                       "tv":  129
                                    },
                                    {
                                        "n":  "Eduardo",
@@ -17629,6 +17636,13 @@
                                        "tv":  118
                                    },
                                    {
+                                       "n":  "Costa",
+                                       "r":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
+                                       "p":  1,
+                                       "km":  5.92,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Fernando",
                                        "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
                                        "p":  1,
@@ -17664,6 +17678,13 @@
                                        "tv":  42
                                    },
                                    {
+                                       "n":  "Luis",
+                                       "r":  "VICENTE",
+                                       "p":  1,
+                                       "km":  1.87,
+                                       "tv":  109
+                                   },
+                                   {
                                        "n":  "Maira",
                                        "r":  "BENFICA COM E SERV EIRELI - EPP",
                                        "p":  1,
@@ -17676,6 +17697,13 @@
                                        "p":  1,
                                        "km":  5.85,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "YURI PADOVAN CALSA.",
+                                       "p":  0,
+                                       "km":  6.29,
+                                       "tv":  39
                                    },
                                    {
                                        "n":  "Milene",
