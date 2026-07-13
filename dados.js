@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "14:30",
+    "dataHora":  "14:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -30,7 +30,7 @@ window.PAINEL = {
                      "primeiro":  "07:02",
                      "ultimo":  "14:32",
                      "tv":  "05:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -94,8 +94,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Aline",
-                     "setor":  "PROMO-CAMPINAS",
+                     "nome":  "Alex A.",
+                     "setor":  "PROMO-ITAPIRA",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -109,8 +109,8 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
-                     "nome":  "Alex A.",
-                     "setor":  "PROMO-ITAPIRA",
+                     "nome":  "Aline",
+                     "setor":  "PROMO-CAMPINAS",
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  0,
@@ -158,15 +158,15 @@ window.PAINEL = {
                      "setor":  "CIRCUITO",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  4,
-                     "km":  66.68,
-                     "semPed":  1,
-                     "perc":  25,
+                     "visitas":  5,
+                     "km":  67.91,
+                     "semPed":  2,
+                     "perc":  40,
                      "primeiro":  "08:00",
-                     "ultimo":  "14:14",
-                     "tv":  "03:24:00",
-                     "emVisita":  1,
-                     "emEvento":  0
+                     "ultimo":  "14:40",
+                     "tv":  "03:44:00",
+                     "emVisita":  0,
+                     "emEvento":  1
                  },
                  {
                      "nome":  "Sao Carlos",
@@ -240,7 +240,7 @@ window.PAINEL = {
                      "primeiro":  "08:43",
                      "ultimo":  "11:56",
                      "tv":  "02:16:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -255,7 +255,7 @@ window.PAINEL = {
                      "primeiro":  "08:02",
                      "ultimo":  "14:30",
                      "tv":  "04:50:00",
-                     "emVisita":  0,
+                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:18:00"
                      },
                      {
+                         "nome":  "Rachel",
+                         "razao":  "SUPERMERCADO ROSALINA FONSECA DE ALMEIDA",
+                         "mun":  "MOGI MIRIM",
+                         "in":  "14:19:58",
+                         "out":  "14:40:33",
+                         "km":  1.23,
+                         "dur":  "00:20:00"
+                     },
+                     {
                          "nome":  "Sao Carlos",
                          "razao":  "APARECIDO ANTONIO AQUARELLI",
                          "mun":  "SAO CARLOS",
@@ -1082,7 +1091,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:12:55"
+                        "tempo":  "07:22:59"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1090,7 +1099,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:37:35"
+                        "tempo":  "06:47:39"
                     },
                     {
                         "nome":  "Lucas",
@@ -1098,7 +1107,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "06:17:43"
+                        "tempo":  "06:27:47"
                     },
                     {
                         "nome":  "Fernando",
@@ -1106,7 +1115,7 @@ window.PAINEL = {
                         "obs":  "meu carro está na oficina pra trocar o alternador",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:37:00"
+                        "tempo":  "00:47:04"
                     },
                     {
                         "nome":  "Karina",
@@ -1114,7 +1123,15 @@ window.PAINEL = {
                         "obs":  "almoco",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:21:11"
+                        "tempo":  "00:31:15"
+                    },
+                    {
+                        "nome":  "Rachel",
+                        "tipo":  "Em Viagem",
+                        "obs":  "amparo",
+                        "inicio":  null,
+                        "final":  null,
+                        "tempo":  "00:05:48"
                     }
                 ],
     "semped":  [
@@ -1135,6 +1152,12 @@ window.PAINEL = {
                        "razao":  "SUPERMERCADO BRUNHARA LTDA",
                        "mun":  "AMPARO",
                        "obs":  "abertura novo cliente"
+                   },
+                   {
+                       "nome":  "Rachel",
+                       "razao":  "SUPERMERCADO ROSALINA FONSECA DE ALMEIDA",
+                       "mun":  "MOGI MIRIM",
+                       "obs":  "analise cliente"
                    },
                    {
                        "nome":  "Luis",
@@ -1172,79 +1195,91 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:35:52"
+                         "tempo":  "00:45:42"
+                     },
+                     {
+                         "nome":  "Debora",
+                         "razao":  "COVABRA SUPERMERCADOS LTDA.",
+                         "mun":  "RIO CLARO",
+                         "tempo":  "00:01:15"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:08:07"
+                         "tempo":  "00:17:57"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "SUPERMERCADO SUMERBOL LTDA",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "01:21:21"
+                         "tempo":  "01:31:11"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "IRMAOS BOA LTDA",
                          "mun":  "CAMPO LIMPO PAU",
-                         "tempo":  "00:49:10"
+                         "tempo":  "00:59:00"
                      },
                      {
                          "nome":  "Vinicius",
                          "razao":  "TAUSTE SUPERMERCADOS LTDA",
                          "mun":  "SOROCABA",
-                         "tempo":  "00:19:14"
+                         "tempo":  "00:29:04"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.06",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "01:29:54"
+                         "tempo":  "01:39:44"
                      },
                      {
-                         "nome":  "Rachel",
-                         "razao":  "SUPERMERCADO ROSALINA FONSECA DE ALMEIDA",
-                         "mun":  "MOGI MIRIM",
-                         "tempo":  "00:16:02"
+                         "nome":  "Maira",
+                         "razao":  "YURI PADOVAN CALSA.",
+                         "mun":  "LIMEIRA",
+                         "tempo":  "00:09:35"
                      },
                      {
                          "nome":  "Luis",
                          "razao":  "VICENTE",
                          "mun":  "ORLANDIA",
-                         "tempo":  "01:04:15"
+                         "tempo":  "01:14:05"
                      },
                      {
                          "nome":  "Milene",
                          "razao":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
                          "mun":  "PONTAL",
-                         "tempo":  "01:01:51"
+                         "tempo":  "01:11:41"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "MARIA ROSA GUASTALLI RIO CLARO ME.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:35:47"
+                         "tempo":  "00:45:37"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "00:08:56"
+                         "tempo":  "00:18:46"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "00:01:42"
+                         "tempo":  "00:11:32"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "SARAIVA E CAMARGO MERCEARIA LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:55:43"
+                         "tempo":  "01:05:33"
+                     },
+                     {
+                         "nome":  "Cominato",
+                         "razao":  "A.M.G. ATACAREJO DE PROD ALIMENTIC LTDA",
+                         "mun":  "TIETE",
+                         "tempo":  "00:04:48"
                      }
                  ],
     "hist":  [
@@ -1345,8 +1380,8 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     65,
-                     8
+                     66,
+                     9
                  ]
              ],
     "historico":  {
@@ -18556,7 +18591,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "14:30",
+                                         "dataHora":  "14:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18613,8 +18648,8 @@ window.PAINEL = {
                                                        "tv":  244
                                                    },
                                                    {
-                                                       "nome":  "Aline",
-                                                       "setor":  "PROMO-CAMPINAS",
+                                                       "nome":  "Alex A.",
+                                                       "setor":  "PROMO-ITAPIRA",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18622,8 +18657,8 @@ window.PAINEL = {
                                                        "tv":  0
                                                    },
                                                    {
-                                                       "nome":  "Alex A.",
-                                                       "setor":  "PROMO-ITAPIRA",
+                                                       "nome":  "Aline",
+                                                       "setor":  "PROMO-CAMPINAS",
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  0,
                                                        "pe":  0,
@@ -18652,10 +18687,10 @@ window.PAINEL = {
                                                        "nome":  "Rachel",
                                                        "setor":  "CIRCUITO",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  4,
+                                                       "vi":  5,
                                                        "pe":  3,
-                                                       "km":  66.68,
-                                                       "tv":  204
+                                                       "km":  67.91,
+                                                       "tv":  224
                                                    },
                                                    {
                                                        "nome":  "Sao Carlos",
@@ -19069,6 +19104,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.53,
                                                          "tv":  18
+                                                     },
+                                                     {
+                                                         "n":  "Rachel",
+                                                         "r":  "SUPERMERCADO ROSALINA FONSECA DE ALMEIDA",
+                                                         "p":  0,
+                                                         "km":  1.23,
+                                                         "tv":  20
                                                      },
                                                      {
                                                          "n":  "Sao Carlos",

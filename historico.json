@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "14:30",
+                       "dataHora":  "14:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17262,8 +17262,8 @@
                                      "tv":  244
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17271,8 +17271,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17301,10 +17301,10 @@
                                      "nome":  "Rachel",
                                      "setor":  "CIRCUITO",
                                      "regional":  "NORDESTE",
-                                     "vi":  4,
+                                     "vi":  5,
                                      "pe":  3,
-                                     "km":  66.68,
-                                     "tv":  204
+                                     "km":  67.91,
+                                     "tv":  224
                                  },
                                  {
                                      "nome":  "Sao Carlos",
@@ -17718,6 +17718,13 @@
                                        "p":  1,
                                        "km":  3.53,
                                        "tv":  18
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO ROSALINA FONSECA DE ALMEIDA",
+                                       "p":  0,
+                                       "km":  1.23,
+                                       "tv":  20
                                    },
                                    {
                                        "n":  "Sao Carlos",
