@@ -17203,5 +17203,655 @@
                                        "tv":  73
                                    }
                                ]
+                   },
+    "2026-07-13":  {
+                       "dataHora":  "14:30",
+                       "v":  [
+                                 {
+                                     "nome":  "Evandro",
+                                     "setor":  "PROMO-CAMPINASSUL",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  6,
+                                     "pe":  0,
+                                     "km":  75.8,
+                                     "tv":  276
+                                 },
+                                 {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  37.56,
+                                     "tv":  350
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  4,
+                                     "pe":  0,
+                                     "km":  12.16,
+                                     "tv":  284
+                                 },
+                                 {
+                                     "nome":  "Eliana",
+                                     "setor":  "PROMO-JUNDIAI",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  23.24,
+                                     "tv":  336
+                                 },
+                                 {
+                                     "nome":  "Edimilson",
+                                     "setor":  "PROMO-INDAIATUBA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  3,
+                                     "pe":  0,
+                                     "km":  23.38,
+                                     "tv":  232
+                                 },
+                                 {
+                                     "nome":  "Vinicius",
+                                     "setor":  "PROMO-SOROCABA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  12.39,
+                                     "tv":  244
+                                 },
+                                 {
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Milene",
+                                     "setor":  "PROMO-RIBEIRAO",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  88.8,
+                                     "tv":  313
+                                 },
+                                 {
+                                     "nome":  "Eduardo",
+                                     "setor":  "CHAVES CPS",
+                                     "regional":  "INTERIOR SP",
+                                     "vi":  2,
+                                     "pe":  0,
+                                     "km":  96.01,
+                                     "tv":  263
+                                 },
+                                 {
+                                     "nome":  "Rachel",
+                                     "setor":  "CIRCUITO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  66.68,
+                                     "tv":  204
+                                 },
+                                 {
+                                     "nome":  "Sao Carlos",
+                                     "setor":  "SAO CARLOS",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  6.65,
+                                     "tv":  152
+                                 },
+                                 {
+                                     "nome":  "Luis",
+                                     "setor":  "FRANCA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  2,
+                                     "km":  109.67,
+                                     "tv":  128
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  40.82,
+                                     "tv":  208
+                                 },
+                                 {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  28.17,
+                                     "tv":  32
+                                 },
+                                 {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  33.39,
+                                     "tv":  136
+                                 },
+                                 {
+                                     "nome":  "Cominato",
+                                     "setor":  "PIRACICABA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  1,
+                                     "km":  71.47,
+                                     "tv":  290
+                                 },
+                                 {
+                                     "nome":  "Eugenio",
+                                     "setor":  "ATIBAIA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  30.35,
+                                     "tv":  190
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  23.55,
+                                     "tv":  250
+                                 },
+                                 {
+                                     "nome":  "Nelson",
+                                     "setor":  "ITAPETININGA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  7.68,
+                                     "tv":  191
+                                 },
+                                 {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  2,
+                                     "pe":  2,
+                                     "km":  3.95,
+                                     "tv":  297
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Castro",
+                                     "setor":  "JUNDIAI",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  148.24,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Mariangela",
+                                     "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 }
+                             ],
+                       "cli":  [
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  31.59,
+                                       "tv":  85
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "EXAMINE SUPERCERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.91,
+                                       "tv":  88
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  98
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.06,
+                                       "tv":  79
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  12.27,
+                                       "tv":  64
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADO SUMERBOL LTDA",
+                                       "p":  1,
+                                       "km":  5.48,
+                                       "tv":  137
+                                   },
+                                   {
+                                       "n":  "Edimilson",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA.",
+                                       "p":  1,
+                                       "km":  5.49,
+                                       "tv":  31
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  0,
+                                       "km":  12.55,
+                                       "tv":  35
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "PAGUE MENOS COM. DE PROD. ALIMENT. LTDA",
+                                       "p":  0,
+                                       "km":  83.46,
+                                       "tv":  228
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "IRMAOS BOA LTDA - LJ.01",
+                                       "p":  1,
+                                       "km":  3.67,
+                                       "tv":  131
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.15,
+                                       "tv":  122
+                                   },
+                                   {
+                                       "n":  "Eliana",
+                                       "r":  "R. P. SANTO COM. DE GENEROS ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  18.42,
+                                       "tv":  83
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  39.66,
+                                       "tv":  79
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  12.96,
+                                       "tv":  18
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "GOOD BOM SUPERMERCADOS LTDA - LJ.14",
+                                       "p":  1,
+                                       "km":  9.04,
+                                       "tv":  43
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADOS DALBEN LTDA.",
+                                       "p":  1,
+                                       "km":  3.5,
+                                       "tv":  78
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "SUPERMERCADO TAQUARAL LTDA.",
+                                       "p":  1,
+                                       "km":  1.47,
+                                       "tv":  40
+                                   },
+                                   {
+                                       "n":  "Evandro",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  9.17,
+                                       "tv":  18
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  1.94,
+                                       "tv":  128
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "A.A. DE MELO",
+                                       "p":  1,
+                                       "km":  1.92,
+                                       "tv":  43
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.11",
+                                       "p":  1,
+                                       "km":  3.76,
+                                       "tv":  63
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.03",
+                                       "p":  1,
+                                       "km":  2.43,
+                                       "tv":  50
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  6.48,
+                                       "tv":  102
+                                   },
+                                   {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.91,
+                                       "tv":  142
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "MARTINS",
+                                       "p":  1,
+                                       "km":  0,
+                                       "tv":  90
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "ANTONIO CARLOS BASSO RIO CLARO LTDA",
+                                       "p":  1,
+                                       "km":  3.39,
+                                       "tv":  118
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "ANA MARIA PAES, FRIOS E MERCEARIA LTDA",
+                                       "p":  1,
+                                       "km":  4.99,
+                                       "tv":  17
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.81,
+                                       "tv":  15
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "LILIAN CARLA PETRARCHI LAGO",
+                                       "p":  0,
+                                       "km":  77.68,
+                                       "tv":  44
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "VICENTE",
+                                       "p":  1,
+                                       "km":  11.64,
+                                       "tv":  42
+                                   },
+                                   {
+                                       "n":  "Luis",
+                                       "r":  "RETA ALIMENTOS LTDA",
+                                       "p":  1,
+                                       "km":  17.9,
+                                       "tv":  42
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "BENFICA COM E SERV EIRELI - EPP",
+                                       "p":  1,
+                                       "km":  27.54,
+                                       "tv":  84
+                                   },
+                                   {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO ZARGON LTDA.",
+                                       "p":  1,
+                                       "km":  5.85,
+                                       "tv":  52
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  52.7,
+                                       "tv":  72
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "AMARELINHA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0.63,
+                                       "tv":  54
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  2.28,
+                                       "tv":  49
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 01",
+                                       "p":  1,
+                                       "km":  32.78,
+                                       "tv":  67
+                                   },
+                                   {
+                                       "n":  "Milene",
+                                       "r":  "COOP. PLANT. CANA DO OESTE EST. SP.",
+                                       "p":  1,
+                                       "km":  0.41,
+                                       "tv":  71
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO BRUNHARA LTDA",
+                                       "p":  0,
+                                       "km":  0,
+                                       "tv":  52
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "MAGUI SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  59.1,
+                                       "tv":  104
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADO PONTO NOVO LTDA",
+                                       "p":  1,
+                                       "km":  3.67,
+                                       "tv":  30
+                                   },
+                                   {
+                                       "n":  "Rachel",
+                                       "r":  "SUPERMERCADOS LAVAPES S/A-LJ.01",
+                                       "p":  1,
+                                       "km":  3.53,
+                                       "tv":  18
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "APARECIDO ANTONIO AQUARELLI",
+                                       "p":  1,
+                                       "km":  2.02,
+                                       "tv":  53
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SIDNEI APARECIDO MANGERONA",
+                                       "p":  0,
+                                       "km":  1.1,
+                                       "tv":  28
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "MERCEARIA 3M LTDA",
+                                       "p":  1,
+                                       "km":  2.05,
+                                       "tv":  37
+                                   },
+                                   {
+                                       "n":  "Sao Carlos",
+                                       "r":  "COGEB SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  0.74,
+                                       "tv":  34
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "ENXUTO SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  6.89,
+                                       "tv":  41
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA",
+                                       "p":  1,
+                                       "km":  5.27,
+                                       "tv":  113
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "LESSA S LUIZ SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.31,
+                                       "tv":  96
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
+                                       "p":  0,
+                                       "km":  62.19,
+                                       "tv":  62
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO DELTA MAX LTDA",
+                                       "p":  0,
+                                       "km":  0.62,
+                                       "tv":  64
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  0,
+                                       "km":  3.61,
+                                       "tv":  61
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "MERC.E LANC. NOSSA SRA.DE LOURDES EIRELI",
+                                       "p":  1,
+                                       "km":  3.23,
+                                       "tv":  103
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
+                                       "p":  1,
+                                       "km":  19.25,
+                                       "tv":  32
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SM SUPERMERCADOS MENDONCA LTDA",
+                                       "p":  1,
+                                       "km":  4.65,
+                                       "tv":  46
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "SIM EMPREENDIMENTOS COMERC. SUP. LTDA",
+                                       "p":  1,
+                                       "km":  5.62,
+                                       "tv":  67
+                                   },
+                                   {
+                                       "n":  "Eugenio",
+                                       "r":  "S.M. SUPERMERCADOS MENDONCA LTDA.",
+                                       "p":  1,
+                                       "km":  0.83,
+                                       "tv":  45
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
+                                       "p":  1,
+                                       "km":  2.26,
+                                       "tv":  211
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "FIRMA SUPERMERCADO LTDA",
+                                       "p":  1,
+                                       "km":  1.51,
+                                       "tv":  86
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "ANTONIO NELSON FELICIANO ITAPETININGA -",
+                                       "p":  1,
+                                       "km":  4.1,
+                                       "tv":  100
+                                   },
+                                   {
+                                       "n":  "Nelson",
+                                       "r":  "EMPORIO SAO JOSE ITAPE LTDA",
+                                       "p":  1,
+                                       "km":  0.96,
+                                       "tv":  91
+                                   }
+                               ]
                    }
 }
