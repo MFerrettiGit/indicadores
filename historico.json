@@ -17205,16 +17205,25 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "17:00",
+                       "dataHora":  "17:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
                                      "setor":  "PROMO-CAMPINASSUL",
                                      "regional":  "Regional Merchandising",
+                                     "vi":  7,
+                                     "pe":  0,
+                                     "km":  78.92,
+                                     "tv":  426
+                                 },
+                                 {
+                                     "nome":  "Silmara",
+                                     "setor":  "PROMO-STA BARBARA",
+                                     "regional":  "Regional Merchandising",
                                      "vi":  6,
                                      "pe":  0,
-                                     "km":  75.8,
-                                     "tv":  276
+                                     "km":  27.68,
+                                     "tv":  483
                                  },
                                  {
                                      "nome":  "Eliana",
@@ -17226,6 +17235,15 @@
                                      "tv":  478
                                  },
                                  {
+                                     "nome":  "Debora",
+                                     "setor":  "PROMO-ARARAS",
+                                     "regional":  "Regional Merchandising",
+                                     "vi":  5,
+                                     "pe":  0,
+                                     "km":  39.94,
+                                     "tv":  483
+                                 },
+                                 {
                                      "nome":  "Edimilson",
                                      "setor":  "PROMO-INDAIATUBA",
                                      "regional":  "Regional Merchandising",
@@ -17233,24 +17251,6 @@
                                      "pe":  0,
                                      "km":  31.84,
                                      "tv":  424
-                                 },
-                                 {
-                                     "nome":  "Silmara",
-                                     "setor":  "PROMO-STA BARBARA",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  5,
-                                     "pe":  0,
-                                     "km":  24.76,
-                                     "tv":  402
-                                 },
-                                 {
-                                     "nome":  "Debora",
-                                     "setor":  "PROMO-ARARAS",
-                                     "regional":  "Regional Merchandising",
-                                     "vi":  4,
-                                     "pe":  0,
-                                     "km":  37.56,
-                                     "tv":  350
                                  },
                                  {
                                      "nome":  "Vinicius",
@@ -17262,8 +17262,8 @@
                                      "tv":  349
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17271,8 +17271,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17373,10 +17373,10 @@
                                      "nome":  "Eugenio",
                                      "setor":  "ATIBAIA",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  30.35,
-                                     "tv":  190
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  60.11,
+                                     "tv":  337
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -17391,10 +17391,10 @@
                                      "nome":  "Karina",
                                      "setor":  "CARAGUATATUBA",
                                      "regional":  "SUL",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  3.95,
-                                     "tv":  297
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  7.6,
+                                     "tv":  349
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -17452,6 +17452,13 @@
                                        "p":  1,
                                        "km":  2.06,
                                        "tv":  79
+                                   },
+                                   {
+                                       "n":  "Debora",
+                                       "r":  "COVABRA SUPERMERCADOS LTDA.",
+                                       "p":  1,
+                                       "km":  2.38,
+                                       "tv":  133
                                    },
                                    {
                                        "n":  "Edimilson",
@@ -17594,6 +17601,13 @@
                                        "tv":  18
                                    },
                                    {
+                                       "n":  "Evandro",
+                                       "r":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  3.12,
+                                       "tv":  150
+                                   },
+                                   {
                                        "n":  "Silmara",
                                        "r":  "HIGA PROD. ALIM. LTDA.",
                                        "p":  1,
@@ -17627,6 +17641,13 @@
                                        "p":  1,
                                        "km":  12.6,
                                        "tv":  118
+                                   },
+                                   {
+                                       "n":  "Silmara",
+                                       "r":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
+                                       "p":  1,
+                                       "km":  2.92,
+                                       "tv":  81
                                    },
                                    {
                                        "n":  "Vinicius",
@@ -17979,6 +18000,13 @@
                                        "tv":  45
                                    },
                                    {
+                                       "n":  "Eugenio",
+                                       "r":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
+                                       "p":  1,
+                                       "km":  29.76,
+                                       "tv":  147
+                                   },
+                                   {
                                        "n":  "Karina",
                                        "r":  "SIS COM. VAR. E ATAC. GEN. ALIM. LTDA",
                                        "p":  1,
@@ -17991,6 +18019,13 @@
                                        "p":  1,
                                        "km":  1.51,
                                        "tv":  86
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
+                                       "p":  1,
+                                       "km":  3.65,
+                                       "tv":  52
                                    },
                                    {
                                        "n":  "Nelson",
