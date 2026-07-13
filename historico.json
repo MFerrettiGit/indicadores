@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "17:30",
+                       "dataHora":  "17:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17240,7 +17240,7 @@
                                      "regional":  "Regional Merchandising",
                                      "vi":  5,
                                      "pe":  0,
-                                     "km":  39.94,
+                                     "km":  74.3,
                                      "tv":  483
                                  },
                                  {
@@ -17321,7 +17321,7 @@
                                      "regional":  "NORDESTE",
                                      "vi":  5,
                                      "pe":  3,
-                                     "km":  43.02,
+                                     "km":  50.79,
                                      "tv":  276
                                  },
                                  {
@@ -17334,6 +17334,15 @@
                                      "tv":  337
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  33.19,
+                                     "tv":  155
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -17341,15 +17350,6 @@
                                      "pe":  3,
                                      "km":  111.54,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  30.11,
-                                     "tv":  72
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -17379,6 +17379,15 @@
                                      "tv":  337
                                  },
                                  {
+                                     "nome":  "Karina",
+                                     "setor":  "CARAGUATATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  8.31,
+                                     "tv":  371
+                                 },
+                                 {
                                      "nome":  "Nelson",
                                      "setor":  "ITAPETININGA",
                                      "regional":  "SUL",
@@ -17386,15 +17395,6 @@
                                      "pe":  3,
                                      "km":  42.66,
                                      "tv":  298
-                                 },
-                                 {
-                                     "nome":  "Karina",
-                                     "setor":  "CARAGUATATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  7.6,
-                                     "tv":  349
                                  },
                                  {
                                      "nome":  "Lucas",
@@ -17720,6 +17720,13 @@
                                        "tv":  40
                                    },
                                    {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  3.08,
+                                       "tv":  83
+                                   },
+                                   {
                                        "n":  "Luis",
                                        "r":  "LILIAN CARLA PETRARCHI LAGO",
                                        "p":  0,
@@ -18033,6 +18040,13 @@
                                        "p":  1,
                                        "km":  3.65,
                                        "tv":  52
+                                   },
+                                   {
+                                       "n":  "Karina",
+                                       "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                       "p":  1,
+                                       "km":  0.71,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Nelson",

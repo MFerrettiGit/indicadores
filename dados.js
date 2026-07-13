@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "17:30",
+    "dataHora":  "17:45",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -54,7 +54,7 @@ window.PAINEL = {
                      "regional":  "Regional Merchandising",
                      "tipo":  "OP",
                      "visitas":  5,
-                     "km":  39.94,
+                     "km":  74.3,
                      "semPed":  0,
                      "perc":  0,
                      "primeiro":  "07:02",
@@ -189,7 +189,7 @@ window.PAINEL = {
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
                      "visitas":  5,
-                     "km":  43.02,
+                     "km":  50.79,
                      "semPed":  2,
                      "perc":  40,
                      "primeiro":  "08:43",
@@ -214,6 +214,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Fernando",
+                     "setor":  "RIBEIRAO PRETO",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  33.19,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:24",
+                     "ultimo":  "17:34",
+                     "tv":  "02:35:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -226,21 +241,6 @@ window.PAINEL = {
                      "ultimo":  "15:21",
                      "tv":  "03:57:00",
                      "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Fernando",
-                     "setor":  "RIBEIRAO PRETO",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  30.11,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:24",
-                     "ultimo":  "16:03",
-                     "tv":  "01:12:00",
-                     "emVisita":  1,
                      "emEvento":  0
                  },
                  {
@@ -289,6 +289,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Karina",
+                     "setor":  "CARAGUATATUBA",
+                     "regional":  "SUL",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  8.31,
+                     "semPed":  0,
+                     "perc":  0,
+                     "primeiro":  "08:45",
+                     "ultimo":  "17:25",
+                     "tv":  "06:11:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Nelson",
                      "setor":  "ITAPETININGA",
                      "regional":  "SUL",
@@ -300,21 +315,6 @@ window.PAINEL = {
                      "primeiro":  "08:22",
                      "ultimo":  "15:27",
                      "tv":  "04:58:00",
-                     "emVisita":  1,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Karina",
-                     "setor":  "CARAGUATATUBA",
-                     "regional":  "SUL",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  7.6,
-                     "semPed":  0,
-                     "perc":  0,
-                     "primeiro":  "08:45",
-                     "ultimo":  "16:58",
-                     "tv":  "05:49:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:40:00"
                      },
                      {
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "in":  "16:10:50",
+                         "out":  "17:34:11",
+                         "km":  3.08,
+                         "dur":  "01:23:00"
+                     },
+                     {
                          "nome":  "Luis",
                          "razao":  "LILIAN CARLA PETRARCHI LAGO",
                          "mun":  "SALES OLIVEIRA",
@@ -1149,6 +1158,15 @@ window.PAINEL = {
                          "dur":  "00:52:00"
                      },
                      {
+                         "nome":  "Karina",
+                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                         "mun":  "CARAGUATATUBA",
+                         "in":  "17:03:02",
+                         "out":  "17:25:31",
+                         "km":  0.71,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Nelson",
                          "razao":  "ANTONIO NELSON FELICIANO ITAPETININGA -",
                          "mun":  "ITAPETININGA",
@@ -1383,7 +1401,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "10:01:01"
+                        "tempo":  "10:16:07"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1391,7 +1409,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:25:41"
+                        "tempo":  "09:40:47"
                     },
                     {
                         "nome":  "Lucas",
@@ -1399,7 +1417,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "09:05:49"
+                        "tempo":  "09:20:55"
                     },
                     {
                         "nome":  "Rachel",
@@ -1407,7 +1425,7 @@ window.PAINEL = {
                         "obs":  "ponto novo/ ciamdrighi/ flex",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "01:59:24"
+                        "tempo":  "02:14:30"
                     }
                 ],
     "semped":  [
@@ -1504,28 +1522,16 @@ window.PAINEL = {
                ],
     "emvisita":  [
                      {
-                         "nome":  "Fernando",
-                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
-                         "mun":  "RIBEIRAO PRETO",
-                         "tempo":  "01:12:46"
-                     },
-                     {
                          "nome":  "Alan",
                          "razao":  "LESSA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:37:41"
-                     },
-                     {
-                         "nome":  "Karina",
-                         "razao":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
-                         "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:20:34"
+                         "tempo":  "00:52:42"
                      },
                      {
                          "nome":  "Nelson",
                          "razao":  "MERCADO SUPER BOM LTDA",
                          "mun":  "ITAPETININGA",
-                         "tempo":  "00:57:32"
+                         "tempo":  "01:12:33"
                      }
                  ],
     "hist":  [
@@ -1626,7 +1632,7 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     97,
+                     99,
                      17
                  ]
              ],
@@ -18837,7 +18843,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "17:30",
+                                         "dataHora":  "17:45",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18872,7 +18878,7 @@ window.PAINEL = {
                                                        "regional":  "Regional Merchandising",
                                                        "vi":  5,
                                                        "pe":  0,
-                                                       "km":  39.94,
+                                                       "km":  74.3,
                                                        "tv":  483
                                                    },
                                                    {
@@ -18953,7 +18959,7 @@ window.PAINEL = {
                                                        "regional":  "NORDESTE",
                                                        "vi":  5,
                                                        "pe":  3,
-                                                       "km":  43.02,
+                                                       "km":  50.79,
                                                        "tv":  276
                                                    },
                                                    {
@@ -18966,6 +18972,15 @@ window.PAINEL = {
                                                        "tv":  337
                                                    },
                                                    {
+                                                       "nome":  "Fernando",
+                                                       "setor":  "RIBEIRAO PRETO",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  33.19,
+                                                       "tv":  155
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -18973,15 +18988,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  111.54,
                                                        "tv":  237
-                                                   },
-                                                   {
-                                                       "nome":  "Fernando",
-                                                       "setor":  "RIBEIRAO PRETO",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  30.11,
-                                                       "tv":  72
                                                    },
                                                    {
                                                        "nome":  "Cominato",
@@ -19011,6 +19017,15 @@ window.PAINEL = {
                                                        "tv":  337
                                                    },
                                                    {
+                                                       "nome":  "Karina",
+                                                       "setor":  "CARAGUATATUBA",
+                                                       "regional":  "SUL",
+                                                       "vi":  4,
+                                                       "pe":  4,
+                                                       "km":  8.31,
+                                                       "tv":  371
+                                                   },
+                                                   {
                                                        "nome":  "Nelson",
                                                        "setor":  "ITAPETININGA",
                                                        "regional":  "SUL",
@@ -19018,15 +19033,6 @@ window.PAINEL = {
                                                        "pe":  3,
                                                        "km":  42.66,
                                                        "tv":  298
-                                                   },
-                                                   {
-                                                       "nome":  "Karina",
-                                                       "setor":  "CARAGUATATUBA",
-                                                       "regional":  "SUL",
-                                                       "vi":  3,
-                                                       "pe":  3,
-                                                       "km":  7.6,
-                                                       "tv":  349
                                                    },
                                                    {
                                                        "nome":  "Lucas",
@@ -19352,6 +19358,13 @@ window.PAINEL = {
                                                          "tv":  40
                                                      },
                                                      {
+                                                         "n":  "Fernando",
+                                                         "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                                         "p":  1,
+                                                         "km":  3.08,
+                                                         "tv":  83
+                                                     },
+                                                     {
                                                          "n":  "Luis",
                                                          "r":  "LILIAN CARLA PETRARCHI LAGO",
                                                          "p":  0,
@@ -19665,6 +19678,13 @@ window.PAINEL = {
                                                          "p":  1,
                                                          "km":  3.65,
                                                          "tv":  52
+                                                     },
+                                                     {
+                                                         "n":  "Karina",
+                                                         "r":  "MERCADO TEIXEIRA G SERVICOS  ALIMENTACAO",
+                                                         "p":  1,
+                                                         "km":  0.71,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Nelson",
