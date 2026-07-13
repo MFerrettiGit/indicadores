@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "16:15",
+                       "dataHora":  "16:30",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17316,6 +17316,15 @@
                                      "tv":  152
                                  },
                                  {
+                                     "nome":  "Maira",
+                                     "setor":  "AMERICANA",
+                                     "regional":  "NORDESTE",
+                                     "vi":  4,
+                                     "pe":  3,
+                                     "km":  42.85,
+                                     "tv":  224
+                                 },
+                                 {
                                      "nome":  "Luis",
                                      "setor":  "FRANCA",
                                      "regional":  "NORDESTE",
@@ -17343,22 +17352,13 @@
                                      "tv":  72
                                  },
                                  {
-                                     "nome":  "Maira",
-                                     "setor":  "AMERICANA",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  2,
-                                     "km":  39.68,
-                                     "tv":  175
-                                 },
-                                 {
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  6,
-                                     "pe":  1,
-                                     "km":  78.99,
-                                     "tv":  341
+                                     "vi":  7,
+                                     "pe":  2,
+                                     "km":  83.38,
+                                     "tv":  363
                                  },
                                  {
                                      "nome":  "Alan",
@@ -17720,6 +17720,13 @@
                                        "tv":  39
                                    },
                                    {
+                                       "n":  "Maira",
+                                       "r":  "SUPERMERCADO SOUZA",
+                                       "p":  1,
+                                       "km":  3.17,
+                                       "tv":  49
+                                   },
+                                   {
                                        "n":  "Milene",
                                        "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -17893,6 +17900,13 @@
                                        "p":  0,
                                        "km":  1.18,
                                        "tv":  25
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
+                                       "p":  1,
+                                       "km":  4.39,
+                                       "tv":  22
                                    },
                                    {
                                        "n":  "Eugenio",

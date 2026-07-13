@@ -1,7 +1,7 @@
 /* Dados do Painel de Vendas - gerado por painel-vendas (update-painel.ps1). NAO editar a mao. */
 window.PAINEL = {
     "dataDT":  "13/07/2026",
-    "dataHora":  "16:15",
+    "dataHora":  "16:30",
     "vend":  [
                  {
                      "nome":  "Evandro",
@@ -184,6 +184,21 @@ window.PAINEL = {
                      "emEvento":  0
                  },
                  {
+                     "nome":  "Maira",
+                     "setor":  "AMERICANA",
+                     "regional":  "NORDESTE",
+                     "tipo":  "OV",
+                     "visitas":  4,
+                     "km":  42.85,
+                     "semPed":  1,
+                     "perc":  25,
+                     "primeiro":  "08:43",
+                     "ultimo":  "16:20",
+                     "tv":  "03:44:00",
+                     "emVisita":  0,
+                     "emEvento":  0
+                 },
+                 {
                      "nome":  "Luis",
                      "setor":  "FRANCA",
                      "regional":  "NORDESTE",
@@ -225,21 +240,6 @@ window.PAINEL = {
                      "primeiro":  "08:24",
                      "ultimo":  "16:03",
                      "tv":  "01:12:00",
-                     "emVisita":  0,
-                     "emEvento":  0
-                 },
-                 {
-                     "nome":  "Maira",
-                     "setor":  "AMERICANA",
-                     "regional":  "NORDESTE",
-                     "tipo":  "OV",
-                     "visitas":  3,
-                     "km":  39.68,
-                     "semPed":  1,
-                     "perc":  33.33,
-                     "primeiro":  "08:43",
-                     "ultimo":  "15:15",
-                     "tv":  "02:55:00",
                      "emVisita":  1,
                      "emEvento":  0
                  },
@@ -248,14 +248,14 @@ window.PAINEL = {
                      "setor":  "PIRACICABA",
                      "regional":  "NORDESTE",
                      "tipo":  "OV",
-                     "visitas":  6,
-                     "km":  78.99,
+                     "visitas":  7,
+                     "km":  83.38,
                      "semPed":  5,
-                     "perc":  83.33,
+                     "perc":  71.43,
                      "primeiro":  "08:02",
-                     "ultimo":  "15:41",
-                     "tv":  "05:41:00",
-                     "emVisita":  1,
+                     "ultimo":  "16:18",
+                     "tv":  "06:03:00",
+                     "emVisita":  0,
                      "emEvento":  0
                  },
                  {
@@ -744,6 +744,15 @@ window.PAINEL = {
                          "dur":  "00:39:00"
                      },
                      {
+                         "nome":  "Maira",
+                         "razao":  "SUPERMERCADO SOUZA",
+                         "mun":  "LIMEIRA",
+                         "in":  "15:30:21",
+                         "out":  "16:20:24",
+                         "km":  3.17,
+                         "dur":  "00:49:00"
+                     },
+                     {
                          "nome":  "Milene",
                          "razao":  "AMARELINHA SUPERMERCADOS LTDA.",
                          "mun":  "PITANGUEIRAS",
@@ -969,6 +978,15 @@ window.PAINEL = {
                          "dur":  "00:25:00"
                      },
                      {
+                         "nome":  "Cominato",
+                         "razao":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
+                         "mun":  "TIETE",
+                         "in":  "15:55:46",
+                         "out":  "16:18:47",
+                         "km":  4.39,
+                         "dur":  "00:22:00"
+                     },
+                     {
                          "nome":  "Eugenio",
                          "razao":  "CONVEM SUPERMERCADOS DE BRAGANCA LTDA.",
                          "mun":  "BRAGANCA PAULIS",
@@ -1140,6 +1158,14 @@ window.PAINEL = {
                         "tempo":  "00:54:03"
                     },
                     {
+                        "nome":  "Luis",
+                        "tipo":  "Em Viagem",
+                        "obs":  "Orlandia a Franca",
+                        "inicio":  "15:28",
+                        "final":  "16:24",
+                        "tempo":  "00:55:31"
+                    },
+                    {
                         "nome":  "Nelson",
                         "tipo":  "Refeicao Intrajornada",
                         "obs":  "Almoço",
@@ -1249,7 +1275,7 @@ window.PAINEL = {
                         "obs":  "oftalmo em Santos",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:45:41"
+                        "tempo":  "09:00:54"
                     },
                     {
                         "nome":  "Mariangela",
@@ -1257,7 +1283,7 @@ window.PAINEL = {
                         "obs":  "Acompanhar meu marido na cirurgia",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "08:10:21"
+                        "tempo":  "08:25:34"
                     },
                     {
                         "nome":  "Lucas",
@@ -1265,7 +1291,7 @@ window.PAINEL = {
                         "obs":  "meu carro ferveu",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "07:50:29"
+                        "tempo":  "08:05:42"
                     },
                     {
                         "nome":  "Rachel",
@@ -1273,15 +1299,7 @@ window.PAINEL = {
                         "obs":  "ponto novo/ ciamdrighi/ flex",
                         "inicio":  null,
                         "final":  null,
-                        "tempo":  "00:44:04"
-                    },
-                    {
-                        "nome":  "Luis",
-                        "tipo":  "Em Viagem",
-                        "obs":  "Orlandia a Franca",
-                        "inicio":  null,
-                        "final":  null,
-                        "tempo":  "00:40:54"
+                        "tempo":  "00:59:17"
                     }
                 ],
     "semped":  [
@@ -1369,79 +1387,73 @@ window.PAINEL = {
                          "nome":  "Eduardo",
                          "razao":  "HIGA PROD. ALIM. LTDA.",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:33:48"
+                         "tempo":  "00:48:57"
                      },
                      {
                          "nome":  "Debora",
                          "razao":  "COVABRA SUPERMERCADOS LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "01:23:53"
+                         "tempo":  "01:39:02"
                      },
                      {
                          "nome":  "Evandro",
                          "razao":  "HIGA PRODUTOS ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "01:40:35"
+                         "tempo":  "01:55:44"
                      },
                      {
                          "nome":  "Edimilson",
                          "razao":  "PAGUE MENOS COM. PROD. ALIM. LTDA-LJ.11",
                          "mun":  "INDAIATUBA",
-                         "tempo":  "00:26:46"
+                         "tempo":  "00:41:55"
                      },
                      {
                          "nome":  "Eliana",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA",
                          "mun":  "JUNDIAI",
-                         "tempo":  "00:24:00"
+                         "tempo":  "00:39:09"
                      },
                      {
                          "nome":  "Silmara",
                          "razao":  "SUPERMERCADOS CAVICCHIOLLI LTDA-LJ.07",
                          "mun":  "SANTA BARBARA D",
-                         "tempo":  "00:28:13"
+                         "tempo":  "00:43:22"
                      },
                      {
-                         "nome":  "Maira",
-                         "razao":  "SUPERMERCADO SOUZA",
-                         "mun":  "LIMEIRA",
-                         "tempo":  "00:38:07"
+                         "nome":  "Fernando",
+                         "razao":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                         "mun":  "RIBEIRAO PRETO",
+                         "tempo":  "00:12:47"
                      },
                      {
                          "nome":  "Costa",
                          "razao":  "SUPERMERCADO UNIAO DE RIO CLARO LTDA.",
                          "mun":  "RIO CLARO",
-                         "tempo":  "00:27:08"
+                         "tempo":  "00:42:17"
                      },
                      {
                          "nome":  "Sao Carlos",
                          "razao":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
                          "mun":  "SAO CARLOS",
-                         "tempo":  "01:41:24"
+                         "tempo":  "01:56:33"
                      },
                      {
                          "nome":  "Eugenio",
                          "razao":  "UNISUPER UNIAO SUPERMERCADO LTDA.",
                          "mun":  "ATIBAIA",
-                         "tempo":  "01:34:10"
+                         "tempo":  "01:49:19"
                      },
                      {
                          "nome":  "Alan",
                          "razao":  "BR1 COMERCIO DE PROD. ALIMENTICIOS LTDA",
                          "mun":  "CAMPINAS",
-                         "tempo":  "00:06:55"
+                         "tempo":  "00:22:04"
                      },
                      {
                          "nome":  "Karina",
                          "razao":  "MMBG COM. VAR. E ATAC. GEN. ALIM. LTDA.",
                          "mun":  "CARAGUATATUBA",
-                         "tempo":  "00:02:40"
-                     },
-                     {
-                         "nome":  "Cominato",
-                         "razao":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
-                         "mun":  "TIETE",
-                         "tempo":  "00:12:42"
+                         "tempo":  "00:17:49"
                      }
                  ],
     "hist":  [
@@ -1542,7 +1554,7 @@ window.PAINEL = {
                  ],
                  [
                      "13/07",
-                     81,
+                     84,
                      14
                  ]
              ],
@@ -18753,7 +18765,7 @@ window.PAINEL = {
                                                  ]
                                      },
                       "2026-07-13":  {
-                                         "dataHora":  "16:15",
+                                         "dataHora":  "16:30",
                                          "v":  [
                                                    {
                                                        "nome":  "Evandro",
@@ -18864,6 +18876,15 @@ window.PAINEL = {
                                                        "tv":  152
                                                    },
                                                    {
+                                                       "nome":  "Maira",
+                                                       "setor":  "AMERICANA",
+                                                       "regional":  "NORDESTE",
+                                                       "vi":  4,
+                                                       "pe":  3,
+                                                       "km":  42.85,
+                                                       "tv":  224
+                                                   },
+                                                   {
                                                        "nome":  "Luis",
                                                        "setor":  "FRANCA",
                                                        "regional":  "NORDESTE",
@@ -18891,22 +18912,13 @@ window.PAINEL = {
                                                        "tv":  72
                                                    },
                                                    {
-                                                       "nome":  "Maira",
-                                                       "setor":  "AMERICANA",
-                                                       "regional":  "NORDESTE",
-                                                       "vi":  3,
-                                                       "pe":  2,
-                                                       "km":  39.68,
-                                                       "tv":  175
-                                                   },
-                                                   {
                                                        "nome":  "Cominato",
                                                        "setor":  "PIRACICABA",
                                                        "regional":  "NORDESTE",
-                                                       "vi":  6,
-                                                       "pe":  1,
-                                                       "km":  78.99,
-                                                       "tv":  341
+                                                       "vi":  7,
+                                                       "pe":  2,
+                                                       "km":  83.38,
+                                                       "tv":  363
                                                    },
                                                    {
                                                        "nome":  "Alan",
@@ -19268,6 +19280,13 @@ window.PAINEL = {
                                                          "tv":  39
                                                      },
                                                      {
+                                                         "n":  "Maira",
+                                                         "r":  "SUPERMERCADO SOUZA",
+                                                         "p":  1,
+                                                         "km":  3.17,
+                                                         "tv":  49
+                                                     },
+                                                     {
                                                          "n":  "Milene",
                                                          "r":  "AMARELINHA SUPERMERCADOS LTDA.",
                                                          "p":  1,
@@ -19441,6 +19460,13 @@ window.PAINEL = {
                                                          "p":  0,
                                                          "km":  1.18,
                                                          "tv":  25
+                                                     },
+                                                     {
+                                                         "n":  "Cominato",
+                                                         "r":  "SUPERMERCADO SUPERHANDS TIETE LTDA",
+                                                         "p":  1,
+                                                         "km":  4.39,
+                                                         "tv":  22
                                                      },
                                                      {
                                                          "n":  "Eugenio",
