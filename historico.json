@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "16:30",
+                       "dataHora":  "16:45",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17262,8 +17262,8 @@
                                      "tv":  349
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17271,8 +17271,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17292,10 +17292,10 @@
                                      "nome":  "Eduardo",
                                      "setor":  "CHAVES CPS",
                                      "regional":  "INTERIOR SP",
-                                     "vi":  3,
+                                     "vi":  4,
                                      "pe":  0,
-                                     "km":  100.34,
-                                     "tv":  324
+                                     "km":  142.32,
+                                     "tv":  374
                                  },
                                  {
                                      "nome":  "Rachel",
@@ -17310,10 +17310,19 @@
                                      "nome":  "Sao Carlos",
                                      "setor":  "SAO CARLOS",
                                      "regional":  "NORDESTE",
+                                     "vi":  5,
+                                     "pe":  4,
+                                     "km":  8.66,
+                                     "tv":  275
+                                 },
+                                 {
+                                     "nome":  "Costa",
+                                     "setor":  "RIO CLARO",
+                                     "regional":  "NORDESTE",
                                      "vi":  4,
-                                     "pe":  3,
-                                     "km":  6.65,
-                                     "tv":  152
+                                     "pe":  4,
+                                     "km":  51.28,
+                                     "tv":  337
                                  },
                                  {
                                      "nome":  "Maira",
@@ -17332,15 +17341,6 @@
                                      "pe":  3,
                                      "km":  111.54,
                                      "tv":  237
-                                 },
-                                 {
-                                     "nome":  "Costa",
-                                     "setor":  "RIO CLARO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  46.74,
-                                     "tv":  291
                                  },
                                  {
                                      "nome":  "Fernando",
@@ -17364,10 +17364,10 @@
                                      "nome":  "Alan",
                                      "setor":  "CAMPINAS NORTE",
                                      "regional":  "SUL",
-                                     "vi":  4,
-                                     "pe":  4,
-                                     "km":  30.98,
-                                     "tv":  304
+                                     "vi":  5,
+                                     "pe":  5,
+                                     "km":  32.53,
+                                     "tv":  339
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -17397,15 +17397,6 @@
                                      "tv":  297
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -17417,6 +17408,15 @@
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -17501,6 +17501,13 @@
                                        "p":  0,
                                        "km":  4.33,
                                        "tv":  61
+                                   },
+                                   {
+                                       "n":  "Eduardo",
+                                       "r":  "HIGA PROD. ALIM. LTDA.",
+                                       "p":  0,
+                                       "km":  41.98,
+                                       "tv":  50
                                    },
                                    {
                                        "n":  "Eliana",
@@ -17648,6 +17655,13 @@
                                        "p":  1,
                                        "km":  5.92,
                                        "tv":  83
+                                   },
+                                   {
+                                       "n":  "Costa",
+                                       "r":  "SUPERMERCADO UNIAO DE RIO CLARO LTDA.",
+                                       "p":  1,
+                                       "km":  4.54,
+                                       "tv":  46
                                    },
                                    {
                                        "n":  "Fernando",
@@ -17832,6 +17846,13 @@
                                        "tv":  34
                                    },
                                    {
+                                       "n":  "Sao Carlos",
+                                       "r":  "SUPERMERCADO SANTA MONICA DE SAO CARLOS",
+                                       "p":  1,
+                                       "km":  2.01,
+                                       "tv":  123
+                                   },
+                                   {
                                        "n":  "Alan",
                                        "r":  "ENXUTO SUPERMERCADOS LTDA.",
                                        "p":  1,
@@ -17858,6 +17879,13 @@
                                        "p":  1,
                                        "km":  7.43,
                                        "tv":  54
+                                   },
+                                   {
+                                       "n":  "Alan",
+                                       "r":  "BR1 COMERCIO DE PROD. ALIMENTICIOS LTDA",
+                                       "p":  1,
+                                       "km":  1.55,
+                                       "tv":  35
                                    },
                                    {
                                        "n":  "Cominato",
