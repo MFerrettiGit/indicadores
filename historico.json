@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "16:00",
+                       "dataHora":  "16:15",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17256,14 +17256,14 @@
                                      "nome":  "Vinicius",
                                      "setor":  "PROMO-SOROCABA",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  2,
+                                     "vi":  3,
                                      "pe":  0,
-                                     "km":  12.39,
-                                     "tv":  244
+                                     "km":  18.17,
+                                     "tv":  349
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17271,8 +17271,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17334,6 +17334,15 @@
                                      "tv":  291
                                  },
                                  {
+                                     "nome":  "Fernando",
+                                     "setor":  "RIBEIRAO PRETO",
+                                     "regional":  "NORDESTE",
+                                     "vi":  3,
+                                     "pe":  3,
+                                     "km":  30.11,
+                                     "tv":  72
+                                 },
+                                 {
                                      "nome":  "Maira",
                                      "setor":  "AMERICANA",
                                      "regional":  "NORDESTE",
@@ -17341,15 +17350,6 @@
                                      "pe":  2,
                                      "km":  39.68,
                                      "tv":  175
-                                 },
-                                 {
-                                     "nome":  "Fernando",
-                                     "setor":  "RIBEIRAO PRETO",
-                                     "regional":  "NORDESTE",
-                                     "vi":  2,
-                                     "pe":  2,
-                                     "km":  28.17,
-                                     "tv":  32
                                  },
                                  {
                                      "nome":  "Cominato",
@@ -17397,6 +17397,15 @@
                                      "tv":  297
                                  },
                                  {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -17408,15 +17417,6 @@
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -17622,6 +17622,13 @@
                                        "tv":  142
                                    },
                                    {
+                                       "n":  "Vinicius",
+                                       "r":  "TAUSTE SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  5.78,
+                                       "tv":  105
+                                   },
+                                   {
                                        "n":  "Costa",
                                        "r":  "MARTINS",
                                        "p":  1,
@@ -17655,6 +17662,13 @@
                                        "p":  1,
                                        "km":  1.81,
                                        "tv":  15
+                                   },
+                                   {
+                                       "n":  "Fernando",
+                                       "r":  "SAVEGNAGO SUPERMERCADOS LTDA",
+                                       "p":  1,
+                                       "km":  1.94,
+                                       "tv":  40
                                    },
                                    {
                                        "n":  "Luis",
