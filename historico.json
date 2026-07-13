@@ -17205,7 +17205,7 @@
                                ]
                    },
     "2026-07-13":  {
-                       "dataHora":  "15:45",
+                       "dataHora":  "16:00",
                        "v":  [
                                  {
                                      "nome":  "Evandro",
@@ -17262,8 +17262,8 @@
                                      "tv":  244
                                  },
                                  {
-                                     "nome":  "Aline",
-                                     "setor":  "PROMO-CAMPINAS",
+                                     "nome":  "Alex A.",
+                                     "setor":  "PROMO-ITAPIRA",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17271,8 +17271,8 @@
                                      "tv":  0
                                  },
                                  {
-                                     "nome":  "Alex A.",
-                                     "setor":  "PROMO-ITAPIRA",
+                                     "nome":  "Aline",
+                                     "setor":  "PROMO-CAMPINAS",
                                      "regional":  "Regional Merchandising",
                                      "vi":  0,
                                      "pe":  0,
@@ -17283,10 +17283,10 @@
                                      "nome":  "Milene",
                                      "setor":  "PROMO-RIBEIRAO",
                                      "regional":  "Regional Merchandising",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  0,
-                                     "km":  88.8,
-                                     "tv":  313
+                                     "km":  127.51,
+                                     "tv":  442
                                  },
                                  {
                                      "nome":  "Eduardo",
@@ -17355,10 +17355,19 @@
                                      "nome":  "Cominato",
                                      "setor":  "PIRACICABA",
                                      "regional":  "NORDESTE",
-                                     "vi":  5,
+                                     "vi":  6,
                                      "pe":  1,
-                                     "km":  77.81,
-                                     "tv":  316
+                                     "km":  78.99,
+                                     "tv":  341
+                                 },
+                                 {
+                                     "nome":  "Alan",
+                                     "setor":  "CAMPINAS NORTE",
+                                     "regional":  "SUL",
+                                     "vi":  4,
+                                     "pe":  4,
+                                     "km":  30.98,
+                                     "tv":  304
                                  },
                                  {
                                      "nome":  "Eugenio",
@@ -17368,15 +17377,6 @@
                                      "pe":  4,
                                      "km":  30.35,
                                      "tv":  190
-                                 },
-                                 {
-                                     "nome":  "Alan",
-                                     "setor":  "CAMPINAS NORTE",
-                                     "regional":  "SUL",
-                                     "vi":  3,
-                                     "pe":  3,
-                                     "km":  23.55,
-                                     "tv":  250
                                  },
                                  {
                                      "nome":  "Nelson",
@@ -17397,15 +17397,6 @@
                                      "tv":  297
                                  },
                                  {
-                                     "nome":  "Lucas",
-                                     "setor":  "INDAIATUBA",
-                                     "regional":  "SUL",
-                                     "vi":  0,
-                                     "pe":  0,
-                                     "km":  0,
-                                     "tv":  0
-                                 },
-                                 {
                                      "nome":  "Castro",
                                      "setor":  "JUNDIAI",
                                      "regional":  "SUL",
@@ -17417,6 +17408,15 @@
                                  {
                                      "nome":  "Mariangela",
                                      "setor":  "S.J.CAMPOS",
+                                     "regional":  "SUL",
+                                     "vi":  0,
+                                     "pe":  0,
+                                     "km":  0,
+                                     "tv":  0
+                                 },
+                                 {
+                                     "nome":  "Lucas",
+                                     "setor":  "INDAIATUBA",
                                      "regional":  "SUL",
                                      "vi":  0,
                                      "pe":  0,
@@ -17741,6 +17741,13 @@
                                        "tv":  71
                                    },
                                    {
+                                       "n":  "Milene",
+                                       "r":  "SUPERMERCADO CARNEIRO LTDA - LJ. 02",
+                                       "p":  1,
+                                       "km":  38.71,
+                                       "tv":  129
+                                   },
+                                   {
                                        "n":  "Rachel",
                                        "r":  "SUPERMERCADO BRUNHARA LTDA",
                                        "p":  0,
@@ -17825,6 +17832,13 @@
                                        "tv":  96
                                    },
                                    {
+                                       "n":  "Alan",
+                                       "r":  "MINIMERCADO BOM JESUS LTDA",
+                                       "p":  1,
+                                       "km":  7.43,
+                                       "tv":  54
+                                   },
+                                   {
                                        "n":  "Cominato",
                                        "r":  "COOPERATIVA CONS POPULAR DE CERQUILHO",
                                        "p":  0,
@@ -17858,6 +17872,13 @@
                                        "p":  0,
                                        "km":  6.34,
                                        "tv":  26
+                                   },
+                                   {
+                                       "n":  "Cominato",
+                                       "r":  "COOP. DE CONS. POPULAR DE CERQUILHO.",
+                                       "p":  0,
+                                       "km":  1.18,
+                                       "tv":  25
                                    },
                                    {
                                        "n":  "Eugenio",
